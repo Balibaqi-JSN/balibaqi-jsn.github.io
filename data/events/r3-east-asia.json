@@ -1,0 +1,1406 @@
+[
+ {
+  "id": "r3e-deinocheirus",
+  "era": "deep",
+  "year": -70000000,
+  "dateLabel": "About 70 million years ago",
+  "emoji": "🦖",
+  "cat": "nature",
+  "title": "The Dinosaur Known Only by Its Arms",
+  "place": "Nemegt Basin, Gobi Desert, Mongolia",
+  "lat": 43.5,
+  "lng": 100.9,
+  "text": "In 1965 a Polish-Mongolian expedition in the Gobi dug up a pair of giant arms 2.4 metres long, and little else. For almost fifty years Deinocheirus stayed a mystery. Two fuller skeletons, described in 2014, revealed a heavily built giant with a long snout, a deep jaw and tall spines on its back that ate both plants and fish.",
+  "collections": [
+   "dinosaur-hunter",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Nature (Lee et al. 2014, \"Resolving the long-standing enigmas of a giant ornithomimosaur Deinocheirus mirificus\"), abstract",
+   "url": "https://doi.org/10.1038/nature13874"
+  }
+ },
+ {
+  "id": "r3e-yuanmou-man",
+  "era": "deep",
+  "year": -1700000,
+  "dateLabel": "About 1.7 million years ago",
+  "emoji": "🦷",
+  "cat": "discovery",
+  "title": "Two Teeth From Yuanmou",
+  "place": "Yuanmou Basin, Yunnan, China",
+  "lat": 25.7,
+  "lng": 101.87,
+  "text": "Two human front teeth dug from the Yuanmou Basin in Yunnan are thought to belong to Homo erectus. Magnetic dating of the rock layers puts them at about 1.7 million years old, the earliest known sign of humans in mainland East Asia. Stone tools were found too, and fossils and pollen show these people lived in open country with patches of forest, near a lake or swamp.",
+  "collections": [
+   "becoming-human"
+  ],
+  "source": {
+   "name": "Zhu et al. 2008, Journal of Human Evolution (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18842287/"
+  },
+  "source2": {
+   "name": "Zhu et al. 2018, Nature 559:608-612",
+   "url": "https://www.nature.com/articles/s41586-018-0299-4"
+  }
+ },
+ {
+  "id": "r3e-sakitari-fishhooks",
+  "era": "iceage",
+  "year": -21000,
+  "dateLabel": "About 23,000 years ago",
+  "emoji": "🪝",
+  "cat": "discovery",
+  "title": "The World's Oldest Fishhooks",
+  "place": "Sakitari Cave, Okinawa, Japan",
+  "lat": 26.14,
+  "lng": 127.75,
+  "text": "In a cave on Okinawa Island, archaeologists found fishhooks ground from the shells of Trochus sea snails. Dated to about 23,000 years ago, they were reported as the world's oldest fishhooks, as old as or older than ones from Timor and New Ireland in Papua New Guinea. Ice Age islanders here were clearly skilled at living off the sea.",
+  "collections": [
+   "becoming-human",
+   "inventions"
+  ],
+  "source": {
+   "name": "Fujita et al. 2016, PNAS (PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5056111/"
+  }
+ },
+ {
+  "id": "r3e-baxian-caves",
+  "era": "iceage",
+  "year": -28000,
+  "dateLabel": "About 30,000 years ago",
+  "emoji": "🪨",
+  "cat": "journeys",
+  "title": "Taiwan's First Footprints",
+  "place": "Baxian Caves, Changbin, Taitung, Taiwan",
+  "lat": 23.4,
+  "lng": 121.48,
+  "text": "Stone tools in the Baxian Caves on Taiwan's east coast are the island's earliest evidence of people, about 30,000 years old. The caves were carved by waves at sea level, but the land has risen so much that they now sit high on a cliff. The caves are the main site of the Changbin culture, which lasted until about 5,000 years ago.",
+  "collections": [
+   "becoming-human"
+  ],
+  "source": {
+   "name": "National Tsing Hua University Library exhibition 'Taiwan coastal sites' (Baxian Caves; NTHU Institute of Anthropology)",
+   "url": "https://www.lib.nthu.edu.tw/events/2024/archeology/result2.html"
+  },
+  "source2": {
+   "name": "Taiwan Ministry of Education, Encyclopedia of Taiwan Indigenous Peoples (NCCU), 'Baxian Cave archaeological site'",
+   "url": "https://indigenapedia-alcd.nccu.edu.tw/detail?id=4164"
+  }
+ },
+ {
+  "id": "r3e-gosan-ri-pottery",
+  "era": "iceage",
+  "year": -8000,
+  "dateLabel": "About 7600 BCE (once thought older)",
+  "emoji": "🏺",
+  "cat": "daily",
+  "title": "Korea's Oldest Pots",
+  "place": "Gosan-ri, Jeju Island, South Korea",
+  "lat": 33.3,
+  "lng": 126.17,
+  "text": "At Gosan-ri on Jeju Island, people made a unique kind of pottery with plant fibers mixed into the clay. It is found only at early sites on Jeju and is the oldest known pottery in Korea. A 2020 radiocarbon study of charcoal found with the pots dated them to about 7670–7550 BCE, younger than some earlier estimates.",
+  "collections": [
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Radiocarbon (Cambridge University Press), Kim et al. 2020",
+   "url": "https://www.cambridge.org/core/journals/radiocarbon/article/abs/absolute-chronology-of-gosanritype-pottery-the-oldest-manufactured-pottery-in-korea/D4A762192862883944B7EDD8B820DDF5"
+  }
+ },
+ {
+  "id": "r3e-karuo",
+  "era": "ancient",
+  "year": -3000,
+  "dateLabel": "About 3000 BCE",
+  "emoji": "🌾",
+  "cat": "daily",
+  "title": "Farmers on the Roof of the World",
+  "place": "Karuo, Chamdo, Tibet, China",
+  "lat": 31.15,
+  "lng": 97.18,
+  "text": "High on the Tibetan Plateau, Neolithic villagers at Karuo built a settlement with houses, paved roads and stone walls. Excavated in 1978–79, it was the first settlement site ever dug on the plateau, yielding stone tools, pottery and bone objects. Seeds suggest millet was probably grown there from about 2700 BCE, alongside hunting, fishing and foraging.",
+  "collections": [
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "ChinaCulture.org (P.R. China Ministry of Culture)",
+   "url": "https://en.chinaculture.org/gb/en_artqa/2003-09/24/content_39199.htm"
+  },
+  "source2": {
+   "name": "Archaeological and Anthropological Sciences (2021), Karuo archaeobotany",
+   "url": "https://link.springer.com/article/10.1007/s12520-021-01281-9"
+  }
+ },
+ {
+  "id": "r3e-shimao",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 2000 BCE",
+  "emoji": "🧱",
+  "cat": "power",
+  "title": "The City That Rewrote China's Story",
+  "place": "Shimao, Shenmu, Shaanxi, China",
+  "lat": 38.57,
+  "lng": 110.3,
+  "text": "At Shimao, on the loess highland of northern China, archaeologists have uncovered a great Bronze Age centre that was thriving by about 2000 BCE. It challenges the old idea that Chinese civilisation began later in the Central Plains: important symbols once thought to be Central Plains inventions were created much earlier here.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Antiquity (Jaang, Sun, Shao & Li 2018, 'When peripheries were centres')",
+   "url": "https://doi.org/10.15184/aqy.2018.31"
+  }
+ },
+ {
+  "id": "r3e-oyu-stone-circles",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 2000–1500 BCE",
+  "emoji": "⭕",
+  "cat": "culture",
+  "title": "Japan's Great Stone Rings",
+  "place": "Ōyu, Kazuno, Akita, Japan",
+  "lat": 40.27,
+  "lng": 140.8,
+  "text": "Late Jōmon people in northern Japan built two great rings of river stones around 2000–1500 BCE. The larger, the Manza circle, is 52 metres across; its neighbour, Nonakado, is 44. Around them stood pillar-supported buildings, storage pits and graves, and a line through the two centres points to the summer-solstice sunset. It is part of a World Heritage Site.",
+  "collections": [
+   "korea-and-japan",
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "Jomon Prehistoric Sites in Northern Japan, official World Heritage website",
+   "url": "https://jomon-japan.jp/en/learn/jomon-sites/oyu"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1632"
+  }
+ },
+ {
+  "id": "r3e-xiaohe-cemetery",
+  "era": "ancient",
+  "year": -1800,
+  "dateLabel": "About 1800 BCE",
+  "emoji": "⚱️",
+  "cat": "discovery",
+  "title": "The Boat Coffins of Xiaohe",
+  "place": "Xiaohe Cemetery, Tarim Basin, Xinjiang, China",
+  "lat": 40.34,
+  "lng": 88.67,
+  "text": "In a seven-metre mound of sand in the desert near the dried-up lake Lop Nur, Bronze Age people buried their dead in boat-shaped coffins. The dry desert turned the bodies into some of the famous Tarim mummies; Xiaohe's oldest burials date to about 1900–1700 BCE. DNA showed a surprise: they were a long-isolated local people, not newcomers from the west.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Nature: Zhang et al. 2021, 'The genomic origins of the Bronze Age Tarim Basin mummies'",
+   "url": "https://www.nature.com/articles/s41586-021-04052-7"
+  },
+  "source2": {
+   "name": "Penn Museum, Expedition Magazine: 'The Mummies of East Central Asia'",
+   "url": "https://www.penn.museum/sites/expedition/the-mummies-of-east-central-asia/"
+  }
+ },
+ {
+  "id": "r3e-he-zun",
+  "era": "ancient",
+  "year": -1038,
+  "dateLabel": "About 1040 BCE (reign of King Cheng)",
+  "emoji": "🏺",
+  "cat": "culture",
+  "title": "The First Bronze to Say 'China'",
+  "place": "Baoji, Shaanxi, China",
+  "lat": 34.36,
+  "lng": 107.24,
+  "text": "Inside this early Zhou bronze wine vessel, a 122-character inscription tells of King Cheng and his new capital near today's Luoyang. It includes the words 'zhong guo', the first recorded use of the name later used for China. The vessel was unearthed near Baoji, Shaanxi, in 1963 and is now kept in the Baoji Bronze Ware Museum.",
+  "collections": [
+   "scripts-and-alphabets",
+   "dynasties-of-china"
+  ],
+  "source": {
+   "name": "CGTN (China Global Television Network)",
+   "url": "https://news.cgtn.com/news/77516a4e356b7a6333566d54/index.html"
+  },
+  "source2": {
+   "name": "China Daily (government portal edition)",
+   "url": "https://govt.chinadaily.com.cn/s/202205/05/WS62737fef498e6a12c122b5cf/bronze-vessel-from-shaanxi-bears-the-first-record-of-chinas-name.html"
+  }
+ },
+ {
+  "id": "r3e-songguk-ri",
+  "era": "ancient",
+  "year": -700,
+  "dateLabel": "About 700 BCE",
+  "emoji": "🌾",
+  "cat": "daily",
+  "title": "A Bronze Age Rice Village",
+  "place": "Songguk-ri, Buyeo, South Korea",
+  "lat": 36.24,
+  "lng": 126.97,
+  "text": "Songguk-ri was the largest Bronze Age village in southwestern Korea, with over 110 small round pit-houses and a palisade wall around parts of it. A prominent stone cist grave held a rare lute-shaped bronze dagger, a bronze chisel and jade beads, probably for a local leader. Plant remains suggest rice, grown in wet paddy fields, was commonly eaten by ordinary villagers.",
+  "collections": [
+   "korea-and-japan",
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Journal of Archaeological Research (2024), 'Community Formation in the Chulmun (Neolithic) and Mumun (Bronze Age) Periods of Korea'",
+   "url": "https://link.springer.com/article/10.1007/s10814-024-09204-7"
+  },
+  "source2": {
+   "name": "Korea.net (official website of the Republic of Korea), 'Heritage & Relics of Korea, part 1'",
+   "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=127044"
+  }
+ },
+ {
+  "id": "r3e-guodian-slips",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "About 300 BCE",
+  "emoji": "🎋",
+  "cat": "culture",
+  "title": "The Oldest Copy of the Tao Te Ching",
+  "place": "Guodian, Jingmen, Hubei, China",
+  "lat": 30.45,
+  "lng": 112.18,
+  "text": "In late 1993 archaeologists excavated a tomb near the old Chu capital, dated to around 300 BCE, and found about 800 bamboo slips, 730 of them with writing. Among the texts were the oldest known manuscripts of the Laozi, the Tao Te Ching, alongside Confucian writings. Robbers had entered the tomb earlier, so nobody knows how much was lost.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Stanford Encyclopedia of Philosophy, 'Laozi'",
+   "url": "https://plato.stanford.edu/entries/laozi/"
+  },
+  "source2": {
+   "name": "Early China (Cambridge University Press), P. Goldin, 'Xunzi in the Light of the Guodian Manuscripts' (abstract)",
+   "url": "https://www.cambridge.org/core/journals/early-china/article/xunzi-in-the-light-of-the-guodian-manuscripts/B845480030790EFC28A08850DA39D37E"
+  }
+ },
+ {
+  "id": "r3e-modu-chanyu",
+  "era": "classical",
+  "year": -209,
+  "dateLabel": "About 209 BCE",
+  "emoji": "🏹",
+  "cat": "power",
+  "title": "Modu Builds a Steppe Empire",
+  "place": "Mongolian Plateau, Mongolia",
+  "lat": 46.5,
+  "lng": 104.0,
+  "text": "The historian Sima Qian tells how Modu trained his riders to shoot wherever his whistling arrow flew, then used that loyalty to kill his father and seize power around 209 BCE. He united the steppe nomads into the Xiongnu Empire. Around 200 BCE his horsemen surrounded the Han emperor himself at Pingcheng, and Han China agreed to send yearly gifts of silk, wine and rice.",
+  "source": {
+   "name": "Silk Road Seattle, University of Washington, 'Xiongnu'",
+   "url": "https://depts.washington.edu/silkroad/exhibit/xiongnu/essay.html"
+  },
+  "source2": {
+   "name": "Sima Qian, Shiji (Chinese text), Project Gutenberg ebook 24226, ch. 110 (Xiongnu) and ch. 8 (Gaozu)",
+   "url": "https://www.gutenberg.org/ebooks/24226"
+  }
+ },
+ {
+  "id": "r3e-dian-gold-seal",
+  "era": "classical",
+  "year": -109,
+  "dateLabel": "109 BCE",
+  "emoji": "🔏",
+  "cat": "power",
+  "title": "The King of Dian's Golden Seal",
+  "place": "Shizhaishan, Jinning, Yunnan, China",
+  "lat": 24.68,
+  "lng": 102.6,
+  "text": "The Dian kingdom of Yunnan was famous for bronzes showing animals in combat and lively scenes of daily life. In 109 BCE its king accepted Han overlordship and received a gold seal from Emperor Wu. When archaeologists opened a rich royal tomb at Shizhaishan in December 1956, that very seal, inscribed 'Seal of the King of Dian', proved the kingdom in the old histories was real.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Bulletin of SOAS 87(2), 2024, 'The Southwest Silk Road: artistic exchange and transmission in early China' (open access)",
+   "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/southwest-silk-road-artistic-exchange-and-transmission-in-early-china/52A6FFFC54AD12882A1657CB32BBE485"
+  },
+  "source2": {
+   "name": "China Daily, Deng Zhangyu, 'Discoveries give the ancient past a future'",
+   "url": "https://govt.chinadaily.com.cn/s/202506/30/WS6861ec35498edec913cdccb1/discoveries-give-the-ancient-past-a-future.html"
+  }
+ },
+ {
+  "id": "r3e-marquis-of-haihun",
+  "era": "classical",
+  "year": -59,
+  "dateLabel": "59 BCE",
+  "emoji": "🪙",
+  "cat": "power",
+  "title": "The 27-Day Emperor's Treasure Tomb",
+  "place": "Haihun, Nanchang, Jiangxi, China",
+  "lat": 29.0,
+  "lng": 115.95,
+  "text": "Liu He was made emperor of Han China and then thrown out after just 27 days. Later demoted to Marquis of Haihun, he died in 59 BCE. His tomb held more than 10,000 objects, including 478 gold ingots and plates weighing about 115 kilograms, a long-lost version of the Analects and the earliest surviving portrait of Confucius.",
+  "collections": [
+   "lost-and-found",
+   "dynasties-of-china"
+  ],
+  "source": {
+   "name": "Fairbank Center for Chinese Studies, Harvard University, 'Excavating the Marquis of Haihun's Tomb'",
+   "url": "https://fairbank.fas.harvard.edu/research/blog/excavating-the-marquis-of-haihuns-tomb/"
+  },
+  "source2": {
+   "name": "Archaeology Magazine (Archaeological Institute of America)",
+   "url": "https://archaeology.org/news/2016/03/04/160304-china-marquis-haihun/"
+  }
+ },
+ {
+  "id": "r3e-yoshinogari",
+  "era": "classical",
+  "year": 150,
+  "dateLabel": "About 150 CE",
+  "emoji": "🛖",
+  "cat": "daily",
+  "title": "Yoshinogari's Moats and Watchtowers",
+  "place": "Yoshinogari, Saga, Japan",
+  "lat": 33.33,
+  "lng": 130.39,
+  "text": "Yayoi villagers on Kyushu dug a deep V-shaped moat about 2.5 kilometres long around their settlement, topped with fences and watchtowers. Inside stood raised storehouses, shrines and bronze-casting workshops. Excavated from 1986, it closely matches Chinese descriptions of Queen Himiko's land of Yamatai, though no proof links the two.",
+  "collections": [
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Yoshinogari Historical Park (national government park), 'The History of Yoshinogari'",
+   "url": "https://www.yoshinogari.jp/en/introduction/history/"
+  },
+  "source2": {
+   "name": "Yoshinogari Historical Park, FAQ (Japanese) and Reconstructed Buildings pages",
+   "url": "https://www.yoshinogari.jp/introduction/qa/"
+  }
+ },
+ {
+  "id": "r3e-niya-tablets",
+  "era": "classical",
+  "year": 250,
+  "dateLabel": "About 250 CE",
+  "emoji": "📜",
+  "cat": "journeys",
+  "title": "Letters Buried in the Taklamakan",
+  "place": "Niya, Xinjiang, China",
+  "lat": 37.97,
+  "lng": 82.72,
+  "text": "Niya, the little kingdom of Jingjue, was a busy oasis on the southern Silk Road at the edge of the Taklamakan Desert. Explorer Aurel Stein dug up hundreds of wooden tablets there, some sealed with clay, holding official documents written in Kharoshthi, an Indian script. The Han histories counted 3,360 people here, and by the 3rd century it was a dependency of Shanshan, formerly called Loulan.",
+  "collections": [
+   "silk-road",
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "Victoria and Albert Museum, 'The Stein Collection' (object O90079, Niya)",
+   "url": "http://collections.vam.ac.uk/item/O90079/the-stein-collection-ball-of-yarn-unknown/"
+  },
+  "source2": {
+   "name": "Silk Road Seattle (University of Washington), John E. Hill, Weilue translation and notes, section 5.4 (quoting Stein on the Han shu)",
+   "url": "https://depts.washington.edu/silkroad/texts/weilue/notes4_6.html"
+  }
+ },
+ {
+  "id": "r3e-anak-tomb-3",
+  "era": "classical",
+  "year": 357,
+  "dateLabel": "357",
+  "emoji": "🎨",
+  "cat": "culture",
+  "title": "A Goguryeo Tomb Full of Paintings",
+  "place": "Anak, South Hwanghae, North Korea",
+  "lat": 38.51,
+  "lng": 125.49,
+  "text": "Anak Tomb No. 3 is the earliest dated painted tomb of Goguryeo, with portraits of the dead man and his wife and a great procession of some 250 figures. Its ink epitaph of 357 names Dong Shou, but after 70 years scholars still argue whether he was an exile from the northern state of Former Yan or the tomb is really a Goguryeo king's.",
+  "collections": [
+   "korea-and-japan",
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Korean art: Three Kingdoms period'",
+   "url": "https://www.britannica.com/art/Korean-art/Three-Kingdoms-period-c-57-bce-668-ce"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, 'Complex of Koguryo Tombs'",
+   "url": "https://whc.unesco.org/en/list/1091"
+  }
+ },
+ {
+  "id": "r3e-seven-branched-sword",
+  "era": "classical",
+  "year": 369,
+  "dateLabel": "About 369",
+  "emoji": "🗡️",
+  "cat": "power",
+  "title": "A Sword From Baekje to Japan",
+  "place": "Isonokami Shrine, Tenri, Japan",
+  "lat": 34.6,
+  "lng": 135.85,
+  "text": "This strange iron blade, 75 centimetres long, has three branches sprouting from each side, so it was made for ritual, not fighting. Its gold-inlaid inscription, dated 369, says it was made for the ruler of Wa (Yamato) and mentions the king of the Korean kingdom of Baekje and a prince. It has long been kept at Isonokami Shrine as a sacred object.",
+  "collections": [
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Kokugakuin University, Encyclopedia of Shinto, 'Shichishito'",
+   "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/id=9663"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Japan: Rise and expansion of Yamato'",
+   "url": "https://www.britannica.com/place/Japan/Rise-and-expansion-of-Yamato"
+  }
+ },
+ {
+  "id": "r3e-inariyama-sword",
+  "era": "classical",
+  "year": 471,
+  "dateLabel": "About 471",
+  "emoji": "⚔️",
+  "cat": "discovery",
+  "title": "The Sword's Hidden Gold Letters",
+  "place": "Inariyama Kofun, Gyoda, Saitama, Japan",
+  "lat": 36.13,
+  "lng": 139.48,
+  "text": "An iron sword dug from a burial mound in 1968 looked ordinary, until rust removal during conservation in 1978 revealed 115 Chinese characters inlaid in gold. They name a warrior, Wowake, who served Great King Wakatakeru, usually identified as Emperor Yūryaku. Most date it to 471, making it a precious early example of Japanese names written in Chinese characters.",
+  "collections": [
+   "scripts-and-alphabets",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Saitama Prefectural Museum of the Sakitama Ancient Burial Mounds, 'Kinsakumei tekken' (gold-inlaid iron sword)",
+   "url": "https://sakitama-muse.spec.ed.jp/%E9%87%91%E9%8C%AF%E9%8A%98%E9%89%84%E5%89%A3"
+  },
+  "source2": {
+   "name": "Gyoda City (official), 'Musashi Sakitama Inariyama Kofun excavated objects'",
+   "url": "https://www.city.gyoda.lg.jp/soshiki/shougaigakusyubu/bunkazaihogo/gyomu/rekishi_bunkazai/1/2313.html"
+  }
+ },
+ {
+  "id": "r3e-horyu-ji",
+  "era": "medieval",
+  "year": 607,
+  "dateLabel": "607",
+  "emoji": "🛕",
+  "cat": "culture",
+  "title": "The World's Oldest Wooden Buildings",
+  "place": "Ikaruga, Nara, Japan",
+  "lat": 34.61,
+  "lng": 135.73,
+  "text": "Prince Shōtoku founded Hōryū-ji in 607, just decades after Buddhism reached Japan. Fire destroyed it in 670, but rebuilding began soon after, and its main hall and pagoda are among the oldest surviving wooden buildings in the world. The pagoda's 32.5-metre central pillar comes from a Japanese cypress tree felled in 594.",
+  "collections": [
+   "wonders-of-the-world",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/660"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Horyu Temple)",
+   "url": "https://www.britannica.com/topic/Horyu-Temple"
+  }
+ },
+ {
+  "id": "r3e-cheomseongdae",
+  "era": "medieval",
+  "year": 640,
+  "dateLabel": "About 640",
+  "emoji": "🔭",
+  "cat": "discovery",
+  "title": "Queen Seondeok's Star Tower",
+  "place": "Gyeongju, South Korea",
+  "lat": 35.83,
+  "lng": 129.22,
+  "text": "Built in the reign of Queen Seondeok of Silla (632–647), Cheomseongdae is the oldest surviving observatory in Asia and maybe the world. The bottle-shaped tower stands 9 metres tall, and its curved body is said to use 365 cut stones, one for each day of the year. Stargazers probably climbed in through a window halfway up.",
+  "collections": [
+   "star-gazers",
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "UNESCO-IAU Portal to the Heritage of Astronomy",
+   "url": "https://web.astronomicalheritage.net/show-entity?identity=19&idsubentity=1"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre (Gyeongju Historic Areas)",
+   "url": "https://whc.unesco.org/en/list/976"
+  }
+ },
+ {
+  "id": "r3e-an-lushan-rebellion",
+  "era": "medieval",
+  "year": 755,
+  "dateLabel": "December 755",
+  "emoji": "🔥",
+  "cat": "power",
+  "title": "The Rebellion That Broke the Tang",
+  "place": "Fanyang (Beijing), China",
+  "lat": 39.9,
+  "lng": 116.4,
+  "text": "An Lushan, a general who had won the trust of Emperor Xuanzong and Yang Guifei, marched his army out of Fanyang in December 755. The rebels captured the capital Chang'an, and the emperor fled to Sichuan. The war dragged on until 763 as rebel leaders were killed by their own sons, leaving the Tang dynasty badly weakened.",
+  "collections": [
+   "dynasties-of-china"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (An Lushan)",
+   "url": "https://www.britannica.com/biography/An-Lushan"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Xuanzong)",
+   "url": "https://www.britannica.com/biography/Xuanzong"
+  }
+ },
+ {
+  "id": "r3e-chang-pogo",
+  "era": "medieval",
+  "year": 828,
+  "dateLabel": "828",
+  "emoji": "⛵",
+  "cat": "journeys",
+  "title": "Chang Pogo, King of the Yellow Sea",
+  "place": "Wando Island, South Korea",
+  "lat": 34.35,
+  "lng": 126.75,
+  "text": "A commoner from the coast, Chang Pogo became an officer in a Tang army, then came home angry at pirates who seized Koreans and sold them as slaves. In 828 the Silla king let him set up the Cheonghae garrison on Wando with 10,000 men. From there his fleet dominated trade between Silla, Tang China and Japan, and Wando villagers still honour him as a guardian god.",
+  "collections": [
+   "korea-and-japan",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Korea: Unified Silla)",
+   "url": "https://www.britannica.com/place/Korea/Unified-Silla"
+  },
+  "source2": {
+   "name": "Encyclopedia of Korean Culture (Academy of Korean Studies), '장보고' (Jang Bogo)",
+   "url": "https://encykorea.aks.ac.kr/Article/E0048474"
+  }
+ },
+ {
+  "id": "r3e-jingdezhen",
+  "era": "medieval",
+  "year": 1004,
+  "dateLabel": "About 1004",
+  "emoji": "🏺",
+  "cat": "culture",
+  "title": "The Town Named After an Emperor",
+  "place": "Jingdezhen, Jiangxi, China",
+  "lat": 29.29,
+  "lng": 117.21,
+  "text": "Potters in this Jiangxi town were already making fine ware when Emperor Zhenzong's reign, called Jingde, gave the place its new name in 1004. By the late 1100s it was exporting porcelain in great quantities, and later it made blue-and-white wares for the Ming court and ran the Qing imperial kilns. It still makes porcelain today and is nicknamed China's Porcelain Capital.",
+  "collections": [
+   "masterpieces",
+   "dynasties-of-china"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Jingdezhen'",
+   "url": "https://www.britannica.com/place/Jingdezhen"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Jar with dragon (Xuande), 37.191.1",
+   "url": "https://www.metmuseum.org/art/collection/search/39666"
+  }
+ },
+ {
+  "id": "r3e-goryeo-celadon",
+  "era": "medieval",
+  "year": 1150,
+  "dateLabel": "About 1150",
+  "emoji": "🏺",
+  "cat": "culture",
+  "title": "Goryeo's Jade-Green Celadon",
+  "place": "Gangjin, South Korea",
+  "lat": 34.53,
+  "lng": 126.79,
+  "text": "Korean potters learned celadon from China, but by the mid-1100s Goryeo had its own style. Their special trick, sanggam, was a way of inlaying designs such as flying cranes with black and white slip, a technique rare in China. A Song envoy who visited in 1123 compared Goryeo wares with China's famous celadons, and many pieces came from kilns at Gangjin.",
+  "collections": [
+   "masterpieces",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline (Soyoung Lee)",
+   "url": "https://www.metmuseum.org/essays/goryeo-celadon"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Goryeo Celadon (re-read)",
+   "url": "https://www.metmuseum.org/essays/goryeo-celadon"
+  }
+ },
+ {
+  "id": "r3e-tripitaka-koreana",
+  "era": "medieval",
+  "year": 1251,
+  "dateLabel": "1251",
+  "emoji": "📚",
+  "cat": "culture",
+  "title": "Eighty Thousand Blocks Against the Mongols",
+  "place": "Haeinsa, Hapcheon, South Korea",
+  "lat": 35.8,
+  "lng": 128.1,
+  "text": "When Mongol invaders burned Korea's first set of Buddhist printing blocks, King Gojong ordered a new one, hoping to win the Buddha's help. Carving began in 1237 and took about twelve years. The result, 81,352 wooden blocks with over 52 million characters, survives in pristine condition at Haeinsa temple after more than 750 years.",
+  "collections": [
+   "books-and-bright-minds",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/737"
+  },
+  "source2": {
+   "name": "Korea.net (Korean Culture and Information Service, Government of the Republic of Korea)",
+   "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=302123"
+  }
+ },
+ {
+  "id": "r3e-mongol-invasions-japan",
+  "era": "medieval",
+  "year": 1281,
+  "dateLabel": "1281",
+  "emoji": "🌀",
+  "cat": "power",
+  "title": "The Divine Wind",
+  "place": "Hakata Bay, Fukuoka, Japan",
+  "lat": 33.6,
+  "lng": 130.4,
+  "text": "Kublai Khan sent fleets of Mongol, Chinese and Korean troops against Japan twice, in 1274 and 1281. After the first attack, the samurai built a stone wall about 20 kilometres long along Hakata Bay. Typhoons wrecked the invasion fleets, and the Japanese called them kamikaze, 'divine wind', a word reused centuries later for suicide pilots.",
+  "collections": [
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/event/kamikaze-of-1274-and-1281"
+  },
+  "source2": {
+   "name": "City of Fukuoka official site (gofukuoka.jp): Genko Borui articles",
+   "url": "https://gofukuoka.jp/articles/detail/631560be-7eb3-456a-bc3b-96f9444b7527"
+  }
+ },
+ {
+  "id": "r3e-huang-daopo",
+  "era": "medieval",
+  "year": 1295,
+  "dateLabel": "Just before 1300",
+  "emoji": "🧵",
+  "cat": "daily",
+  "title": "Huang Daopo Brings Home Cotton Know-How",
+  "place": "Songjiang, Shanghai, China",
+  "lat": 31.03,
+  "lng": 121.23,
+  "text": "According to a well-known legend, Huang Daopo was a child bride so badly treated by her in-laws that she fled to Hainan, where the local Li people taught her about cotton. In the mid-1290s she returned to Songjiang, near Shanghai, and taught local people, spreading tools such as a treadle wheel that spun three threads at once. A textile industry then prospered around her village.",
+  "collections": [
+   "remarkable-women",
+   "inventions"
+  ],
+  "source": {
+   "name": "Shanghai Municipal People's Government Information Office",
+   "url": "https://touch.shio.gov.cn/jsp/jrsh_detail.jsp?id=754"
+  },
+  "source2": {
+   "name": "Harriet T. Zurndorfer (Leiden University), 'The Resistant Fibre: The Pre-modern History of Cotton in China', LSE Global Economic History Network paper",
+   "url": "https://www.lse.ac.uk/Economic-History/Assets/Documents/Research/GEHN/Helsinki/HELSINKIZurndorfer.pdf"
+  }
+ },
+ {
+  "id": "r3e-jikji",
+  "era": "medieval",
+  "year": 1377,
+  "dateLabel": "1377",
+  "emoji": "🔠",
+  "cat": "discovery",
+  "title": "The Oldest Book Printed With Metal Type",
+  "place": "Heungdeoksa, Cheongju, South Korea",
+  "lat": 36.65,
+  "lng": 127.47,
+  "text": "Monks at Heungdeok Temple printed a collection of Zen Buddhist teachings using movable metal type in 1377, 78 years before Gutenberg's Bible. Only the second volume of that printing survives. A French diplomat acquired it while serving in Korea in the late 1800s, and it now sits in the National Library of France, its ownership a long-running controversy.",
+  "collections": [
+   "inventions",
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "University of Utah, 'From Jikji to Gutenberg' research project",
+   "url": "https://jikji.utah.edu/research/"
+  },
+  "source2": {
+   "name": "Seoul National University, SNU NOW, '[Alumni Story] A History of Ownership' (2009)",
+   "url": "https://en.snu.ac.kr/snunow/snu_media/news?md=v&bbsidx=71768"
+  }
+ },
+ {
+  "id": "r3e-forbidden-city",
+  "era": "medieval",
+  "year": 1420,
+  "dateLabel": "1420",
+  "emoji": "🏯",
+  "cat": "culture",
+  "title": "The Forbidden City Is Finished",
+  "place": "Beijing, China",
+  "lat": 39.92,
+  "lng": 116.39,
+  "text": "Built from 1406 to 1420 for the Yongle Emperor, Beijing's walled palace covers 72 hectares, with nearly 10,000 rooms and great halls raised on a triple marble terrace. 24 Ming and Qing emperors lived there, and the last emperor, Puyi, stayed until 1924. Since 1925 it has been the Palace Museum, now visited by millions.",
+  "collections": [
+   "wonders-of-the-world",
+   "dynasties-of-china"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Forbidden City'",
+   "url": "https://www.britannica.com/topic/Forbidden-City"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Imperial Palaces of the Ming and Qing Dynasties (read via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/439"
+  }
+ },
+ {
+  "id": "r3e-wang-yangming",
+  "era": "exploration",
+  "year": 1519,
+  "dateLabel": "July–August 1519",
+  "emoji": "🧠",
+  "cat": "power",
+  "title": "The Philosopher Who Won a War",
+  "place": "Nanchang, Jiangxi, China",
+  "lat": 28.68,
+  "lng": 115.89,
+  "text": "Wang Yangming taught that knowing and doing are one thing. In 1519 he got to prove it: when the Prince of Ning rebelled, Wang surrounded the prince's base at Nanchang and, four days later, beat him in battle and captured him. His ideas spread across China and later inspired Japanese reformers.",
+  "collections": [
+   "books-and-bright-minds",
+   "dynasties-of-china"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Wang Yangming)",
+   "url": "https://www.britannica.com/biography/Wang-Yangming"
+  },
+  "source2": {
+   "name": "Stanford Encyclopedia of Philosophy (Wang Yangming)",
+   "url": "https://plato.stanford.edu/entries/wang-yangming/"
+  }
+ },
+ {
+  "id": "r3e-sen-no-rikyu",
+  "era": "exploration",
+  "year": 1591,
+  "dateLabel": "1591",
+  "emoji": "🍵",
+  "cat": "culture",
+  "title": "Sen no Rikyū and the Way of Tea",
+  "place": "Kyoto, Japan",
+  "lat": 35.03,
+  "lng": 135.75,
+  "text": "Born into a merchant family in the busy port of Sakai, Sen no Rikyū became tea master to Toyotomi Hideyoshi and shaped the tea ceremony around rustic simplicity, called wabi. His tiny two-mat Tai-an tea room still stands at a temple in Kyoto Prefecture. In 1591 Hideyoshi ordered him to take his own life, for reasons that remain unclear.",
+  "collections": [
+   "food-and-drink",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Sen Rikyu)",
+   "url": "https://www.britannica.com/biography/Sen-Rikyu"
+  },
+  "source2": {
+   "name": "Sakai City (official site): Sen no Rikyu",
+   "url": "https://www.city.sakai.lg.jp/foreign-language/english/visitors/about/historicfigures/rikyu.html"
+  }
+ },
+ {
+  "id": "r3e-izumo-no-okuni",
+  "era": "exploration",
+  "year": 1603,
+  "dateLabel": "About 1603",
+  "emoji": "🎭",
+  "cat": "culture",
+  "title": "Okuni Invents Kabuki",
+  "place": "Kamo River, Kyoto, Japan",
+  "lat": 35.0,
+  "lng": 135.77,
+  "text": "Said to have served at the Grand Shrine of Izumo, Okuni led a troupe of female dancers who in 1603 performed on a makeshift stage in the dry bed of Kyoto's Kamo River, sometimes dressed as a young man. The style became known as Okuni Kabuki. Ironically, the shogun banned women from kabuki in 1629, and men still play every role today.",
+  "collections": [
+   "remarkable-women",
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Okuni)",
+   "url": "https://www.britannica.com/biography/Okuni"
+  },
+  "source2": {
+   "name": "UNESCO Intangible Cultural Heritage (Kabuki theatre)",
+   "url": "https://ich.unesco.org/en/RL/kabuki-theatre-00163"
+  }
+ },
+ {
+  "id": "r3e-himeji-castle",
+  "era": "exploration",
+  "year": 1609,
+  "dateLabel": "1609",
+  "emoji": "🏯",
+  "cat": "culture",
+  "title": "The White Heron Castle",
+  "place": "Himeji, Hyōgo, Japan",
+  "lat": 34.84,
+  "lng": 134.69,
+  "text": "Ikeda Terumasa, made lord of Himeji after the Battle of Sekigahara, rebuilt Himeji Castle from 1601 to 1609 into a huge complex of 83 buildings. Its gleaming white walls earned it the name White Heron Castle. In 1945 bombing destroyed most of the city around it, and local stories tell of a firebomb that landed in the castle without exploding.",
+  "collections": [
+   "wonders-of-the-world",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre (Himeji-jo), text via UNESCO open data API",
+   "url": "https://whc.unesco.org/en/list/661"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (White Heron Castle)",
+   "url": "https://www.britannica.com/topic/White-Heron-Castle"
+  }
+ },
+ {
+  "id": "r3e-namhansanseong",
+  "era": "exploration",
+  "year": 1637,
+  "dateLabel": "January 1637",
+  "emoji": "🏰",
+  "cat": "power",
+  "title": "King Injo's Mountain Fortress",
+  "place": "Namhansanseong, Gwangju, Gyeonggi, South Korea",
+  "lat": 37.48,
+  "lng": 127.18,
+  "text": "When the Qing invaded Korea in 1636, King Injo fled into Namhansanseong, a mountain fortress built and defended by Buddhist monk-soldiers. He held out for 47 days against a huge Qing army while food ran low. After Ganghwa Island fell, Injo and the crown prince surrendered at Samjeondo, bowing in submission before the Qing emperor Hong Taiji.",
+  "collections": [
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre (Namhansanseong), text via UNESCO open data API",
+   "url": "https://whc.unesco.org/en/list/1439"
+  },
+  "source2": {
+   "name": "Gyeonggi Provincial Government (Namhansanseong Fortress)",
+   "url": "https://english.gg.go.kr/blog/notice-onsite-news/6646/"
+  }
+ },
+ {
+  "id": "r3e-potala-palace",
+  "era": "exploration",
+  "year": 1645,
+  "dateLabel": "1645",
+  "emoji": "🏔️",
+  "cat": "culture",
+  "title": "The Fifth Dalai Lama's Palace",
+  "place": "Lhasa, Tibet, China",
+  "lat": 29.66,
+  "lng": 91.12,
+  "text": "In 1645 the Fifth Dalai Lama began building the Potala on a hill in Lhasa, on the site of an older palace linked to Songtsen Gampo. Enclosed by massive walls of rammed earth and stone, it rises 13 floors and holds over 1,000 rooms and some 200,000 statues. For centuries it served as the Dalai Lamas' winter palace.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Potala Palace' (Kathleen Sheetz)",
+   "url": "https://www.britannica.com/topic/Potala-Palace"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Historic Ensemble of the Potala Palace (text via data.unesco.org API)",
+   "url": "https://whc.unesco.org/en/list/707"
+  }
+ },
+ {
+  "id": "r3e-hendrick-hamel",
+  "era": "exploration",
+  "year": 1653,
+  "dateLabel": "August 1653",
+  "emoji": "🚢",
+  "cat": "journeys",
+  "title": "A Dutch Sailor Stuck in Joseon",
+  "place": "Jeju Island, South Korea",
+  "lat": 33.23,
+  "lng": 126.3,
+  "text": "In 1653 the Dutch ship carrying bookkeeper Hendrick Hamel wrecked off Jeju Island on its way to Japan. Joseon would not let foreigners leave, so the crew stayed thirteen years, helped by another shipwrecked Dutchman, Jan Weltevree. In 1666 Hamel escaped by boat to Japan, and his journal became the first Western eyewitness account of Korea.",
+  "collections": [
+   "great-voyages",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Atlas of Mutual Heritage (Dutch Cultural Heritage Agency / Nationaal Archief): Sperwer wreck",
+   "url": "https://atlasofmutualheritage.nl/en/id/11075"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Korea: The introduction of Roman Catholicism'",
+   "url": "https://www.britannica.com/place/Korea/The-introduction-of-Roman-Catholicism"
+  }
+ },
+ {
+  "id": "r3e-oku-no-hosomichi",
+  "era": "exploration",
+  "year": 1689,
+  "dateLabel": "1689",
+  "emoji": "🐸",
+  "cat": "culture",
+  "title": "Bashō Walks the Narrow Road North",
+  "place": "Hiraizumi, Iwate, Japan",
+  "lat": 38.99,
+  "lng": 141.11,
+  "text": "In spring 1689 the poet Matsuo Bashō and his friend Sora set out on foot from Edo to the deep north, visiting places old poets had praised, such as Matsushima and Hiraizumi. His travel diary mixing prose and haiku, The Narrow Road to the Deep North, appeared in 1702. Sora's own diary shows Bashō polished the facts for art.",
+  "collections": [
+   "books-and-bright-minds",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Nippon.com (Nippon Communications Foundation), Fukasawa Shinji, 'The Narrow Road Through the Hinterlands: Walking with Bashō on a Journey of Invention'",
+   "url": "https://www.nippon.com/en/japan-topics/g02067/the-narrow-road-through-the-hinterlands-walking-with-basho-on-a-journey-of-invention.html"
+  },
+  "source2": {
+   "name": "Nippon.com, Richard Medhurst, 'Fish Tears and Farewells: The Start of a Poetic Journey'",
+   "url": "https://www.nippon.com/en/nipponblog/m00026/"
+  }
+ },
+ {
+  "id": "r3e-daedongyeojido",
+  "era": "industrial",
+  "year": 1861,
+  "dateLabel": "1861",
+  "emoji": "🗺️",
+  "cat": "discovery",
+  "title": "Kim Jeong-ho's Folding Map of Korea",
+  "place": "Seoul, South Korea",
+  "lat": 37.57,
+  "lng": 126.98,
+  "text": "In 1861 the mapmaker Kim Jeong-ho printed Daedongyeojido, a map of Korea at a scale of about 1:160,000. It came as 22 folding booklets printed from woodblocks carved on both sides. Joined together, they form a map about 6.7 metres tall and 3.8 metres wide, marking mountain ridges, rivers, towns, roads and military posts, and woodblock printing let it circulate widely.",
+  "collections": [
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Korea Heritage Service, Heritage Search: Daedong yeojido (Treasure)",
+   "url": "https://english.khs.go.kr/chaen/search/selectGeneralSearchDetail.do?mn=EN_02_02&sCcebKdcd=12&ccebAsno=0008500000300&sCcebCtcd=11"
+  },
+  "source2": {
+   "name": "National Museum of Korea, Daedong yeojido woodblocks",
+   "url": "https://www.museum.go.kr/site/eng/relic/represent/view?relicId=2577"
+  }
+ },
+ {
+  "id": "r3e-tomioka-silk-mill",
+  "era": "industrial",
+  "year": 1872,
+  "dateLabel": "October 1872",
+  "emoji": "🐛",
+  "cat": "daily",
+  "title": "Tomioka's French-Built Silk Mill",
+  "place": "Tomioka, Gunma, Japan",
+  "lat": 36.26,
+  "lng": 138.89,
+  "text": "Meiji Japan opened this model silk mill in 1872 with 300 reeling machines from France, worked mostly by young women. At first no one would come: French staff were seen drinking red wine, and rumours spread that they drank fresh blood. The manager's daughter, Yū, volunteered as the first worker to reassure families. The mill ran until 1987.",
+  "collections": [
+   "inventions",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Nippon.com (Nippon Communications Foundation), 'The World Heritage Tomioka Silk Mill'",
+   "url": "https://www.nippon.com/en/guide-to-japan/gu900122/the-world-heritage-tomioka-silk-mill-a-modern-factory-with-japanese-flavor.html"
+  }
+ },
+ {
+  "id": "r3e-ryukyu-disposition",
+  "era": "industrial",
+  "year": 1879,
+  "dateLabel": "March 1879",
+  "emoji": "🏯",
+  "cat": "power",
+  "title": "The End of the Ryukyu Kingdom",
+  "place": "Shuri Castle, Okinawa, Japan",
+  "lat": 26.22,
+  "lng": 127.72,
+  "text": "For centuries the Ryukyu Kingdom kept up tributary ties with both China and Japan. In March 1879 Meiji official Matsuda Michiyuki landed with police and army units and told the royal court that the kingdom was abolished and Okinawa Prefecture created. King Shō Tai was ordered to live in Tokyo, ending some 500 years of Ryukyu Kingdom rule.",
+  "collections": [
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Nippon.com (Nippon Communications Foundation), Shuri Castle: At the Heart of the Former Ryukyu Kingdom",
+   "url": "https://www.nippon.com/en/japan-data/h00578/shuri-castle-at-the-heart-of-the-former-ryukyu-kingdom.html"
+  },
+  "source2": {
+   "name": "Okinawa Prefectural Educational Center, Okinawa's History: Dissolution of the Domains and Establishment of the Prefectures",
+   "url": "http://rca.open.ed.jp/web_e/history/story/epoch4/syobun_6.html"
+  }
+ },
+ {
+  "id": "r3e-younghusband-tibet",
+  "era": "industrial",
+  "year": 1904,
+  "dateLabel": "August 1904",
+  "emoji": "🏔️",
+  "cat": "power",
+  "title": "British Troops March to Lhasa",
+  "place": "Lhasa, Tibet, China",
+  "lat": 29.65,
+  "lng": 91.13,
+  "text": "Fearing Russian influence, Lord Curzon, Britain's viceroy of India, sent Francis Younghusband into Tibet with a military escort, and the force set out from Sikkim in December 1903. Tibetan soldiers with old weapons faced machine guns, and many were killed. The British stormed the fortress at Gyantse, entered Lhasa in August 1904 and forced a trade treaty on Tibet.",
+  "source": {
+   "name": "National Army Museum: 40th Pathans at Lhala House, Lhasa, August 1904 (NAM. 1987-11-97-15)",
+   "url": "https://collection.nam.ac.uk/detail.php?acc=1987-11-97-15"
+  },
+  "source2": {
+   "name": "National Army Museum: Tibetan casualty, 31 March 1904 (NAM. 1960-02-111-121)",
+   "url": "https://collection.nam.ac.uk/detail.php?acc=1960-02-111-121"
+  }
+ },
+ {
+  "id": "r3e-qiu-jin",
+  "era": "industrial",
+  "year": 1907,
+  "dateLabel": "July 15, 1907",
+  "emoji": "⚔️",
+  "cat": "power",
+  "title": "Qiu Jin, the Woman Knight-Errant",
+  "place": "Shaoxing, Zhejiang, China",
+  "lat": 30.0,
+  "lng": 120.58,
+  "text": "Qiu Jin learned to ride and use a sword, left her marriage to study in Japan, and called herself the Female Knight-Errant of Jian Lake. Back in Shaoxing she ran a school that trained revolutionaries. After a failed uprising against the Qing she was executed in 1907, aged 31, and is now honoured as a hero of feminism and the republic.",
+  "collections": [
+   "remarkable-women",
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Women in World History: A Biographical Encyclopedia (Gale), 'Qiu Jin (c. 1875-1907)', via Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/qiu-jin-c-1875-1907"
+  }
+ },
+ {
+  "id": "r3e-zhan-tianyou",
+  "era": "industrial",
+  "year": 1909,
+  "dateLabel": "1909",
+  "emoji": "🚂",
+  "cat": "discovery",
+  "title": "China's Own Railway Through the Mountains",
+  "place": "Badaling, Beijing, China",
+  "lat": 40.36,
+  "lng": 116.01,
+  "text": "The Beijing–Zhangjiakou line, opened in 1909, was the first railway in China designed and built entirely by Chinese engineers. To climb the steep mountains near Badaling, chief engineer Zhan Tianyou laid a zigzag track shaped like the character 人 (person). That cut the length of tunnel needed at Badaling, and trains could descend the slopes more gradually.",
+  "collections": [
+   "inventions"
+  ],
+  "source": {
+   "name": "China Daily: Nation makes tracks for progress (2 Aug 2019)",
+   "url": "http://global.chinadaily.com.cn/a/201908/02/WS5d43733aa310cf3e355636de.html"
+  },
+  "source2": {
+   "name": "China Daily: Qinglongqiao zigzag section 'which Zhan designed' (1 Oct 2022)",
+   "url": "https://mobile.chinadaily.com.cn/cn/html5/2022-10/01/content_005_633732f2ed50696f9f8502c2.htm"
+  }
+ },
+ {
+  "id": "r3e-an-jung-geun",
+  "era": "industrial",
+  "year": 1909,
+  "dateLabel": "October 26, 1909",
+  "emoji": "✋",
+  "cat": "power",
+  "title": "An Jung-geun at Harbin Station",
+  "place": "Harbin, China",
+  "lat": 45.76,
+  "lng": 126.62,
+  "text": "Korean independence activist An Jung-geun shot Itō Hirobumi, Japan's former Resident-General of Korea, at Harbin in 1909, and was executed in 1910. Koreans honour him as a martyr, while Japan's government has called him a terrorist. In prison he wrote admired calligraphy, signed with a handprint missing a fingertip, cut off as a pledge.",
+  "collections": [
+   "revolutions-and-freedom",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Seo-gu District Office, Busan Metropolitan City (Korean local government): An Jung-geun calligraphy (Treasure No. 569-6)",
+   "url": "https://www.bsseogu.go.kr/eng/index.bsseogu?menuCd=DOM_000001103006006000"
+  },
+  "source2": {
+   "name": "The Korea Herald: An's prison handwriting repatriated from Japan",
+   "url": "https://www.koreaherald.com/article/10839891"
+  }
+ },
+ {
+  "id": "r3e-bogd-khanate",
+  "era": "industrial",
+  "year": 1911,
+  "dateLabel": "December 29, 1911",
+  "emoji": "🐎",
+  "cat": "power",
+  "title": "Mongolia Breaks Away From the Qing",
+  "place": "Urga (Ulaanbaatar), Mongolia",
+  "lat": 47.92,
+  "lng": 106.92,
+  "text": "As the Qing dynasty crumbled, Mongol leaders in Urga declared independence on December 1, 1911. Four weeks later, on December 29, they enthroned the Jebtsundamba Khutuktu, the highest Buddhist lama in Mongolia, as Bogd Khan (\"Holy King\"), uniting religious and political power. His state lasted until 1924.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica: Mongolia, Independence and revolution",
+   "url": "https://www.britannica.com/place/Mongolia/Independence-and-revolution"
+  },
+  "source2": {
+   "name": "The Journal of Northeast Asian History 19(1), 'Khaisan and the 1911 Independence of Mongolia' (Hankuk University of Foreign Studies)",
+   "url": "https://www.accesson.kr/jnah/assets/pdf/57196/journal-19-1-87.pdf"
+  }
+ },
+ {
+  "id": "r3e-february-28-incident",
+  "era": "modern",
+  "year": 1947,
+  "dateLabel": "February 28, 1947",
+  "emoji": "🕯️",
+  "cat": "power",
+  "title": "Taiwan's 228 Incident",
+  "place": "Taipei, Taiwan",
+  "lat": 25.05,
+  "lng": 121.51,
+  "text": "On February 27, 1947, Monopoly Bureau agents in Taipei struck a widow selling cigarettes, and one of them, fleeing an angry crowd, fatally shot a bystander. Protests spread across Taiwan, and the Nationalist government crushed them, killing thousands of civilians; for decades the event was taboo. Today February 28 is Peace Memorial Day, marked with ceremonies where a bell of peace rings for the victims.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Memorial Foundation of 228, The 228 Incident",
+   "url": "https://www.228.org.tw/en/228-incident"
+  },
+  "source2": {
+   "name": "Taipei Times, Taiwan in Time: 228, after the apology",
+   "url": "https://www.taipeitimes.com/News/feat/archives/2019/02/24/2003710307"
+  }
+ },
+ {
+  "id": "r3e-minamata-disease",
+  "era": "modern",
+  "year": 1956,
+  "dateLabel": "1956",
+  "emoji": "🐟",
+  "cat": "nature",
+  "title": "The Poisoned Bay of Minamata",
+  "place": "Minamata, Kumamoto, Japan",
+  "lat": 32.21,
+  "lng": 130.4,
+  "text": "In 1956 doctors in Minamata identified a terrible nerve disease. A Chisso chemical factory, making acetaldehyde since 1932, had been releasing mercury waste into the bay, poisoning fish and the families who ate them. Local cats staggered and spun in circles, a 'dancing disease', and thousands of people were eventually recognised as victims, making Minamata a landmark in fighting pollution.",
+  "collections": [
+   "plagues-and-cures"
+  ],
+  "source": {
+   "name": "Ministry of the Environment, Japan, 'Minamata Disease: The History and Measures' (ch. 2)",
+   "url": "https://www.env.go.jp/en/chemi/hs/minamata2002/ch2.html"
+  },
+  "source2": {
+   "name": "EBSCO Research Starters, Minamata Bay Mercury Poisoning Begins to Claim Victims (Arlene R. Courtney)",
+   "url": "https://www.ebsco.com/research-starters/pharmacy-and-pharmacology/minamata-bay-mercury-poisoning-begins-claim-victims/"
+  }
+ },
+ {
+  "id": "r3e-instant-noodles",
+  "era": "modern",
+  "year": 1958,
+  "dateLabel": "1958",
+  "emoji": "🍜",
+  "cat": "daily",
+  "title": "Ramen in Three Minutes",
+  "place": "Ikeda, Osaka, Japan",
+  "lat": 34.82,
+  "lng": 135.43,
+  "text": "In a small workshop in Ikeda, Momofuku Ando of Nissin invented instant noodles, launched in 1958 as Chikin Ramen; frying the cooked noodles dried them for long storage. Cup Noodles followed in 1971. By 2017 the world ate more than 100 billion servings a year, and South Koreans ate the most per person.",
+  "collections": [
+   "food-and-drink",
+   "inventions"
+  ],
+  "source": {
+   "name": "Nissin Foods Holdings, corporate history",
+   "url": "https://www.nissin.com/en_jp/about/history/"
+  },
+  "source2": {
+   "name": "CUPNOODLES MUSEUM Osaka Ikeda (Momofuku Ando Instant Ramen Museum)",
+   "url": "https://www.cupnoodles-museum.jp/en/osaka_ikeda/"
+  }
+ },
+ {
+  "id": "r3e-cultural-revolution",
+  "era": "modern",
+  "year": 1966,
+  "dateLabel": "1966",
+  "emoji": "📕",
+  "cat": "power",
+  "title": "The Cultural Revolution Begins",
+  "place": "Beijing, China",
+  "lat": 39.91,
+  "lng": 116.39,
+  "text": "In August 1966 Mao Zedong put up a poster titled 'Bombard the Headquarters', attacking party leaders, and Red Guards rose up across China. For ten years schools closed, teachers and scientists were persecuted, millions of city youths were sent to the countryside, and many people died. In 1981 the party itself called it its most severe setback since the People's Republic was founded.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Cultural Revolution'",
+   "url": "https://www.britannica.com/event/Cultural-Revolution"
+  },
+  "source2": {
+   "name": "Wilson Center Digital Archive (UMD), 'Resolution on Certain Questions in the History of Our Party' (27 June 1981)",
+   "url": "https://digitalarchive.umd.edu/document/resolution-certain-questions-history-our-party-founding-peoples-republic-china"
+  }
+ },
+ {
+  "id": "r3e-tu-youyou",
+  "era": "modern",
+  "year": 1969,
+  "dateLabel": "1969",
+  "emoji": "🌿",
+  "cat": "discovery",
+  "title": "Tu Youyou's Hunt for a Malaria Cure",
+  "place": "Hainan, China",
+  "lat": 19.2,
+  "lng": 109.7,
+  "text": "In 1969 chemist Tu Youyou was put in charge of a secret malaria project, and her team gathered over 2,000 old Chinese recipes. An ancient text by Ge Hong told her to soak sweet wormwood in water rather than boil it, so she extracted it at low heat. In 1972 her team isolated artemisinin and tested it on patients in Hainan, and she won the 2015 Nobel Prize.",
+  "collections": [
+   "plagues-and-cures",
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "NobelPrize.org, 'Tu Youyou - Biographical' (Nobel Prize in Physiology or Medicine 2015)",
+   "url": "https://www.nobelprize.org/prizes/medicine/2015/tu/biographical/"
+  }
+ },
+ {
+  "id": "r3e-kim-hak-sun",
+  "era": "modern",
+  "year": 1991,
+  "dateLabel": "August 14, 1991",
+  "emoji": "🦋",
+  "cat": "power",
+  "title": "Kim Hak-sun Breaks the Silence",
+  "place": "Seoul, South Korea",
+  "lat": 37.57,
+  "lng": 126.98,
+  "text": "On August 14, 1991, Kim Hak-sun became the first woman in Korea to testify publicly that the Japanese army had forced her into sexual slavery as a so-called comfort woman. That December she sued the Japanese government. Hundreds of other survivors, in South Korea, Taiwan, the Philippines, Indonesia and beyond, also came forward, turning a hidden wartime crime into a global human rights issue.",
+  "collections": [
+   "remarkable-women",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Korea.net, 'Remaining tasks on 30th anniversary of first testimony by comfort woman victim'",
+   "url": "https://www.korea.net/NewsFocus/Opinion/view?articleId=202334"
+  },
+  "source2": {
+   "name": "Asian Women's Fund, 'How did the Comfort Women Issue come to light?'",
+   "url": "https://www.awf.or.jp/e2/survey.html"
+  }
+ },
+ {
+  "id": "r3e-spirited-away",
+  "era": "modern",
+  "year": 2001,
+  "dateLabel": "July 20, 2001",
+  "emoji": "🐉",
+  "cat": "culture",
+  "title": "Spirited Away Enchants the World",
+  "place": "Koganei, Tokyo, Japan",
+  "lat": 35.7,
+  "lng": 139.52,
+  "text": "Hayao Miyazaki and Studio Ghibli released Spirited Away, the tale of ten-year-old Chihiro trapped in a bathhouse for spirits, in 2001. It became Japan's top-grossing film, a record it held until 2020. It shared the Golden Bear in Berlin, and in 2003 it won the Oscar for Best Animated Feature, the first anime film ever to win an Oscar.",
+  "collections": [
+   "masterpieces",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica: Spirited Away",
+   "url": "https://www.britannica.com/topic/Spirited-Away"
+  },
+  "source2": {
+   "name": "Academy of Motion Picture Arts and Sciences: Governors Awards 2014 - Hayao Miyazaki",
+   "url": "https://www.oscars.org/governors-awards/2014/hayao-miyazaki"
+  }
+ },
+ {
+  "id": "r3e-three-gorges-dam",
+  "era": "modern",
+  "year": 2006,
+  "dateLabel": "2006",
+  "emoji": "🌊",
+  "cat": "nature",
+  "title": "The Three Gorges Dam",
+  "place": "Sandouping, Yichang, Hubei, China",
+  "lat": 30.82,
+  "lng": 111.0,
+  "text": "Sun Yat-sen first proposed damming the Yangtze in 1919, as part of a plan to industrialize China. The Three Gorges Dam's wall, 185 metres high and over 2.3 kilometres long, was finished in 2006, and by 2012 all 32 main turbines were running, making it the world's most productive hydroelectric dam. The reservoir forced at least 1.3 million people to leave their homes.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Three Gorges Dam",
+   "url": "https://www.britannica.com/topic/Three-Gorges-Dam"
+  },
+  "source2": {
+   "name": "Education About Asia (Association for Asian Studies), Berkman (1998)",
+   "url": "https://www.asianstudies.org/publications/eaa/archives/the-three-gorges-dam-energy-the-environment-and-the-new-emporers/"
+  }
+ },
+ {
+  "id": "r3e-parasite",
+  "era": "modern",
+  "year": 2019,
+  "dateLabel": "2019",
+  "emoji": "🎬",
+  "cat": "culture",
+  "title": "Parasite Makes Film History",
+  "place": "Seoul, South Korea",
+  "lat": 37.55,
+  "lng": 126.99,
+  "text": "Bong Joon Ho's Parasite follows a poor family from a Seoul semi-basement flat who sneak into a rich family's life. In May 2019 it became the first Korean film to win the Palme d'Or at Cannes, and in 2020 the first non-English-language film to win the Oscar for Best Picture, a high point of the Korean wave.",
+  "collections": [
+   "masterpieces",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica: Parasite / Bong Joon-Ho",
+   "url": "https://www.britannica.com/biography/Bong-Joon-Ho"
+  },
+  "source2": {
+   "name": "The Conversation: Parasite - at last the Oscars jumps the one-inch subtitles barrier",
+   "url": "https://theconversation.com/parasite-at-last-the-oscars-jumps-the-one-inch-subtitles-barrier-131576"
+  }
+ },
+ {
+  "id": "r3e-dapenkeng",
+  "era": "ancient",
+  "year": -3500,
+  "dateLabel": "About 3500–2200 BCE",
+  "emoji": "🛶",
+  "cat": "journeys",
+  "title": "The First Austronesians in Taiwan",
+  "place": "Dapenkeng, Bali District, New Taipei, Taiwan",
+  "lat": 25.15,
+  "lng": 121.4,
+  "text": "Between about 3500 and 3000 BCE, the Tapenkeng (Dapenkeng) culture, Taiwan's earliest Neolithic, appeared and spread around the island and to the Penghu Islands. Many scholars think its people came across the strait from coastal China as early Austronesians, the first step in a migration that later reached far into the Pacific. They made cord-marked pottery and stone beaters for making bark cloth.",
+  "collections": [
+   "pacific-voyagers"
+  ],
+  "source": {
+   "name": "Antiquity 88 (2014), Hung & Carson, 'Foragers, fishers and farmers: origins of the Taiwanese Neolithic' (abstract via Crossref/Cambridge)",
+   "url": "https://doi.org/10.1017/s0003598x00115352"
+  },
+  "source2": {
+   "name": "Springer, 'Tapa Beaters from 5000 to 4200 BP in Taiwan' (chapter abstract, read in browser); also Asian Perspectives review of Tsang, Archaeology of the P'eng-hu Islands (UH ScholarSpace) for Penghu and cord-marked ware",
+   "url": "https://link.springer.com/chapter/10.1007/978-981-32-9256-7_14"
+  }
+ },
+ {
+  "id": "r3e-secret-history-mongols",
+  "era": "medieval",
+  "year": 1228,
+  "dateLabel": "1228 or later",
+  "emoji": "📖",
+  "cat": "culture",
+  "title": "The Secret History of the Mongols",
+  "place": "Khödöö Aral, Kherlen River, Mongolia",
+  "lat": 47.1,
+  "lng": 109.1,
+  "text": "After Genghis Khan died in 1227, an unknown author wrote the story of his family and his life. The colophon says it was finished at a great assembly by the Kherlen River, at Ködöe Aral, in a Year of the Mouse; many scholars say 1228, while others argue for 1252. The full text survives only in an early Ming version that wrote its Mongolian sounds in Chinese characters.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "C.P. Atwood, 'The Date of the Secret History of the Mongols Reconsidered', Journal of Song-Yuan Studies 37 (2007), Indiana University ScholarWorks",
+   "url": "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/4ab07eb2-ead2-4f5c-873b-363fa4799c73/content"
+  }
+ },
+ {
+  "id": "r3e-mongolia-1990",
+  "era": "modern",
+  "year": 1990,
+  "dateLabel": "March 9, 1990",
+  "emoji": "🗳️",
+  "cat": "power",
+  "title": "Mongolia's Peaceful Democratic Revolution",
+  "place": "Sükhbaatar Square, Ulaanbaatar, Mongolia",
+  "lat": 47.92,
+  "lng": 106.92,
+  "text": "From December 1989, demonstrators gathered in Ulaanbaatar's main square to demand democracy, and in March 1990 some went on hunger strike there. On March 9, 1990, the whole ruling politburo resigned. Political parties were legalized, Mongolia held multi-party elections that July, and a new democratic constitution took effect in 1992. It was part of the wave of revolutions of 1989.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Swarthmore College, Global Nonviolent Action Database, 'Mongolians win multi-party democracy, 1989-1990'",
+   "url": "https://nvdatabase.swarthmore.edu/content/mongolians-win-multi-party-democracy-1989-1990"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Mongolia: Government and society'",
+   "url": "https://www.britannica.com/place/Mongolia/Government-and-society"
+  }
+ }
+]

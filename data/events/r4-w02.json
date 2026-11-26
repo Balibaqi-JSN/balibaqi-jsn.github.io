@@ -1,0 +1,414 @@
+[
+ {
+  "id": "w02-lewis-chess-hoard",
+  "era": "industrial",
+  "year": 1831,
+  "dateLabel": "1831",
+  "cat": "discovery",
+  "title": "Ninety-Three Game Pieces From Lewis",
+  "place": "Camas Uig (Uig Bay), Isle of Lewis, Scotland, UK",
+  "lat": 58.19,
+  "lng": -7.02,
+  "text": "In 1831 a hoard of 93 gaming pieces from the Isle of Lewis went on show in Edinburgh. Most were carved from walrus ivory, probably from Greenland, by Norwegian craftsmen in the late 1100s or early 1200s. They came from at least four chess sets. Within months a Stornoway man, Roderick Ririe, had broken up the hoard and sold it, so the pieces now live in several museums.",
+  "source": {
+   "name": "National Museums Scotland: The story of the Lewis chess pieces",
+   "url": "https://www.nms.ac.uk/discover-catalogue/the-story-of-the-lewis-chess-pieces"
+  }
+ },
+ {
+  "id": "w02-poprad-prince-board-game",
+  "era": "classical",
+  "year": 400,
+  "dateLabel": "About 400 CE",
+  "cat": "culture",
+  "title": "A Prince Buried With His Board Game",
+  "place": "Poprad, Tatra region, Slovakia",
+  "lat": 49.06,
+  "lng": 20.3,
+  "text": "Around 1,600 years ago, a Germanic prince was laid to rest near Poprad, in the shadow of the Tatra Mountains, with a wooden game board beside him. It is the best-preserved ancient wooden board game found north of the Mediterranean. Its playing pieces were green and white glass, probably made far away in the eastern Mediterranean, perhaps in Syria.",
+  "source": {
+   "name": "Archaeology Magazine: Ancient Wooden Board Game Identified in Slovakia",
+   "url": "https://archaeology.org/news/2018/01/05/180105-slovakia-board-game/"
+  }
+ },
+ {
+  "id": "w02-tarquinia-two-horse-chariot-games",
+  "era": "classical",
+  "year": -450,
+  "dateLabel": "5th century BCE",
+  "cat": "culture",
+  "title": "Etruscan Fans in the Cheap Seats",
+  "place": "Tomb of the Two-Horse Chariot, Monterozzi necropolis, Tarquinia, Italy",
+  "lat": 42.25,
+  "lng": 11.77,
+  "text": "A painted tomb at Tarquinia shows a full program of Etruscan funeral games: chariot racing, riding, wrestling, boxing, jumping, discus and javelin, with umpires and judges watching. It is the only tomb painting showing a purpose-built stadium, with wooden stands under a canopy. Well-dressed men and women sit in the upper tier, while nude spectators lounge below without seats.",
+  "source": {
+   "name": "Penn Museum, Expedition Magazine: Etruscan Athletics",
+   "url": "https://www.penn.museum/sites/expedition/etruscan-athletics/"
+  }
+ },
+ {
+  "id": "w02-ytre-fosse-dice",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "Around 300 CE",
+  "cat": "daily",
+  "title": "Dice for Norway's Iron Age Elite",
+  "place": "Ytre Fosse burial cairn, near Bergen, western Norway",
+  "lat": 60.57,
+  "lng": 5.24,
+  "text": "On the sea route linking northern and southern Norway, a burial cairn at Ytre Fosse held 18 game pieces and an almost intact elongated die, buried around 300 CE among pottery and burnt glass. No board survived. Archaeologist Morten Ramstad thinks the set was a status object, obtained through contact with the Roman Empire and played by the local aristocracy.",
+  "source": {
+   "name": "Archaeology Magazine: Iron Age Dice and Game Pieces Unearthed in Norway",
+   "url": "https://archaeology.org/news/2020/06/08/200608-norway-game-pieces/"
+  }
+ },
+ {
+  "id": "w02-deep-blue-beats-kasparov",
+  "era": "modern",
+  "year": 1997,
+  "dateLabel": "May 1997",
+  "cat": "discovery",
+  "title": "A Computer Beats the World Champion",
+  "place": "Equitable Center, Manhattan, New York, USA",
+  "lat": 40.76,
+  "lng": -73.98,
+  "text": "In May 1997, IBM's Deep Blue faced world chess champion Garry Kasparov in a rematch in New York. Kasparov won the first game, the machine the second, then came three draws. Deep Blue took the sixth game and the match, 3.5 to 2.5. Using 32 processors, it weighed 200 million positions every second. \"The computer is far stronger than anybody expected,\" Kasparov admitted.",
+  "source": {
+   "name": "IBM: Deep Blue",
+   "url": "https://www.ibm.com/history/deep-blue"
+  }
+ },
+ {
+  "id": "w02-cahokia-chunkey-diplomacy",
+  "era": "medieval",
+  "year": 1050,
+  "dateLabel": "Around 1050 CE",
+  "cat": "culture",
+  "title": "Rolling Stones of Cahokia",
+  "place": "Cahokia, near St. Louis, Illinois, USA",
+  "lat": 38.66,
+  "lng": -90.06,
+  "text": "At Cahokia, which rose around 1050 CE, crowds of perhaps a thousand watched chunkey, a game of hurling spears at a rolling stone disc. Archaeologist Timothy Pauketat argues the game helped organize the city's social and political life, and that envoys carried chunkey stones far afield. A carved stone figure of a player about to release his disc turned up in Oklahoma in 1900.",
+  "source": {
+   "name": "Archaeology Magazine: America's First Pastime",
+   "url": "https://archive.archaeology.org/0909/abstracts/pastime.html"
+  }
+ },
+ {
+  "id": "w02-cui-shi-donkey-polo",
+  "era": "medieval",
+  "year": 878,
+  "dateLabel": "878",
+  "cat": "daily",
+  "title": "A Noblewoman's Polo Donkeys",
+  "place": "Tomb of Cui Shi, Xi'an, Shaanxi, China",
+  "lat": 34.26,
+  "lng": 108.94,
+  "text": "When noblewoman Cui Shi died in Xi'an in 878, she was buried with her donkeys. DNA identified the animals, and their bones showed sprinting and sharp turning, not hauling loads. They were polo mounts, the first archaeological proof of donkey polo, a gentler version of Tang China's craze. Her husband had lost an eye playing polo, yet won a generalship through his skill.",
+  "source": {
+   "name": "National Geographic: Archaeologists discover first evidence for polo, on donkeys",
+   "url": "https://www.nationalgeographic.com/history/article/archaeologists-discover-evidence-donkey-polo"
+  },
+  "source2": {
+   "name": "Archaeology Magazine: Prized Polo...Donkeys?",
+   "url": "https://archaeology.org/issues/388-2007/digs/8765-digs-china-donkey-polo"
+  }
+ },
+ {
+  "id": "w02-xian-liubo-bricks",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "Han dynasty (206 BCE–220 CE)",
+  "cat": "culture",
+  "title": "Liubo Boards Carved in Brick",
+  "place": "Han dynasty tombs, Xi'an, Shaanxi, China",
+  "lat": 34.27,
+  "lng": 108.95,
+  "text": "Two Han dynasty tombs in Xi'an held game boards for liubo carved into square bricks, one plain and one with a geometric pattern. Most liubo boards were lacquered wood or stone. Nobody fully knows the rules today; each player probably moved six pieces by throwing sticks or dice. These bricks may have been symbolic boards made only for the dead to play.",
+  "source": {
+   "name": "Archaeology Magazine: 2,000-Year-Old Game Boards Identified in China",
+   "url": "https://archaeology.org/news/2026/07/20/2000-year-old-game-boards-identified-in-china/"
+  }
+ },
+ {
+  "id": "w02-tanikaze-yokozuna",
+  "era": "exploration",
+  "year": 1785,
+  "dateLabel": "Mid-1780s",
+  "cat": "culture",
+  "title": "Tanikaze, Sumo's Star of the Street",
+  "place": "Edo (Tokyo), Japan",
+  "lat": 35.69,
+  "lng": 139.79,
+  "text": "Tanikaze Kajinosuke, a sumo champion from what is now Sendai, was one of the first wrestlers given the top rank of yokozuna while still alive. In a mid-1780s colour woodblock print, artist Katsukawa Shunshō shows him strolling down an avenue as admiring fans spot him. Tanikaze was still dominating the ring when influenza killed him at 44.",
+  "source": {
+   "name": "Cleveland Museum of Art: Tanikaze Kajinosuke, by Katsukawa Shunshō",
+   "url": "https://www.clevelandart.org/art/1930.209"
+  }
+ },
+ {
+  "id": "w02-hami-tang-go-stones",
+  "era": "medieval",
+  "year": 700,
+  "dateLabel": "Tang dynasty (618–907)",
+  "cat": "discovery",
+  "title": "Go Stones in a Clam Shell",
+  "place": "Lafuqueke Cemetery, Wubao Town, Hami, Xinjiang, China",
+  "lat": 42.87,
+  "lng": 93.17,
+  "text": "In a Tang dynasty tomb near Hami, a clam shell beside the dead person's head held 17 white and two black Go pieces. Lab tests show the white ones are calcite and the black ones clinochlore, likely from the Qilian Mountains near Dunhuang, which supplied Go pieces to the imperial court. They are the first actual Tang Go pieces found in Xinjiang.",
+  "source": {
+   "name": "npj Heritage Science (Nature): Scientific analysis of Tang Dynasty Go pieces excavated from the Lafuqueke Cemetery in Xinjiang",
+   "url": "https://www.nature.com/articles/s40494-025-01634-w"
+  }
+ },
+ {
+  "id": "w02-akbar-human-chaupar",
+  "era": "exploration",
+  "year": 1575,
+  "dateLabel": "Second half of the 1500s",
+  "cat": "power",
+  "title": "Akbar's Board Game With Living Pieces",
+  "place": "Fatehpur Sikri, Uttar Pradesh, India",
+  "lat": 27.09,
+  "lng": 77.66,
+  "text": "Chaupar, a cross-shaped race game played with three long stick dice and sixteen pieces, was a favourite gamble at Akbar's Mughal court. At Fatehpur Sikri the emperor had a huge board laid in flagstones in a palace courtyard, and he and his courtiers played using slaves as the pieces. Its humbler cousin, pachisi, is named for the top cowrie throw: twenty-five.",
+  "source": {
+   "name": "Penn Museum, Expedition Magazine: The Indian Games of Pachisi, Chaupar, and Chausar",
+   "url": "https://www.penn.museum/sites/expedition/the-indian-games-of-pachisi-chaupar-and-chausar/"
+  }
+ },
+ {
+  "id": "w02-gandhara-wrestlers-bracket",
+  "era": "classical",
+  "year": 150,
+  "dateLabel": "100s–200s CE",
+  "cat": "culture",
+  "title": "Greek-Style Wrestlers for the Buddha",
+  "place": "Gandhara region, Khyber Pakhtunkhwa, Pakistan",
+  "lat": 34.01,
+  "lng": 71.58,
+  "text": "A small schist bracket from Gandhara, carved in the 100s or 200s CE and only about 20 centimetres wide, shows a pair of wrestlers. The figures probably copy Greco-Roman models of nude athletes, but the sculptor likely turned them into a scene from the Buddha's boyhood, when he was said to excel at every kind of athletics. It once supported part of a building.",
+  "source": {
+   "name": "Cleveland Museum of Art: Architectural Bracket with Wrestlers",
+   "url": "https://www.clevelandart.org/art/1998.71"
+  }
+ },
+ {
+  "id": "w02-mohenjo-daro-gaming-brick",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2300 BCE",
+  "cat": "daily",
+  "title": "Dice and Game Boards of the Indus",
+  "place": "Mohenjo-daro, Sindh, Pakistan",
+  "lat": 27.33,
+  "lng": 68.14,
+  "text": "People in the Indus cities loved games of chance. Harappan sites of about 2300 BCE have yielded both cubical and long oblong dice, and a gaming diagram scratched on a brick at Mohenjo-daro may date to the late third millennium BCE. Centuries later the Rig-Veda included a hymn that worked as a charm against a ruinous gambling habit.",
+  "source": {
+   "name": "Penn Museum, Expedition Magazine: The Indian Games of Pachisi, Chaupar, and Chausar",
+   "url": "https://www.penn.museum/sites/expedition/the-indian-games-of-pachisi-chaupar-and-chausar/"
+  }
+ },
+ {
+  "id": "w02-oman-qumayrah-game-board",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 2000 BCE",
+  "cat": "daily",
+  "title": "A Workaday Game Board in Oman",
+  "place": "Ayn Bani Saidah, Qumayrah Valley, Oman",
+  "lat": 24.07,
+  "lng": 56.02,
+  "text": "In a large building in northern Oman's Qumayrah Valley, a Polish team led by Piotr Bieliński found a stone game board about 4,000 years old. Its playing fields and cup holes were hewn \"slightly clumsily\", and Bieliński stressed that it \"is not a luxury item\". The same site, on an ancient trade route, also held evidence of copper processing.",
+  "source": {
+   "name": "Archaeology Magazine: 4,000-Year-Old Game Board Discovered in Oman",
+   "url": "https://www.archaeology.org/news/10284-220114-oman-game-board"
+  }
+ },
+ {
+  "id": "w02-gobustan-58-holes",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 2000 BCE",
+  "cat": "culture",
+  "title": "Hounds and Jackals in a Rock Shelter",
+  "place": "Gobustan National Park, Azerbaijan",
+  "lat": 40.11,
+  "lng": 49.38,
+  "text": "Among the rock art of Gobustan, researcher Walter Crist recognised pits carved into a shelter as a board for 58 Holes, also called Hounds and Jackals, about 4,000 years old. Two rows run down the middle with holes arching around them, and every fifth hole is marked. Copies of the same game turned up in Egypt, Mesopotamia and Anatolia.",
+  "source": {
+   "name": "Archaeology Magazine: 4,000-Year-Old Game Board Identified in Azerbaijan",
+   "url": "https://archaeology.org/news/2018/12/10/181210-azerbaijan-game-pits/"
+  }
+ },
+ {
+  "id": "w02-aspendos-wrestler-grave",
+  "era": "classical",
+  "year": -375,
+  "dateLabel": "About 2,400 years ago",
+  "cat": "discovery",
+  "title": "A Grave Paid in Wrestler Coins",
+  "place": "Eastern necropolis, Aspendos, Antalya, Turkey",
+  "lat": 36.94,
+  "lng": 31.17,
+  "text": "In the eastern cemetery of Aspendos, a Pamphylian city on Turkey's south coast, archaeologists opened a stone-lined grave about 2,400 years old. Inside were locally minted coins stamped with images of wrestlers. Turkey's culture minister, Mehmet Nuri Ersoy, suggested the grave may have belonged to a wrestler, or at least to someone closely connected with the sport.",
+  "source": {
+   "name": "Archaeology Magazine: Possible Ancient Wrestler's Tomb Found in Turkey",
+   "url": "https://archaeology.org/news/2026/08/12/possible-ancient-wrestlers-tomb-found-in-turkey/"
+  }
+ },
+ {
+  "id": "w02-kashan-polo-luster-dish",
+  "era": "medieval",
+  "year": 1185,
+  "dateLabel": "1170–1200",
+  "cat": "culture",
+  "title": "A Moon-Faced Polo Player in Gold Luster",
+  "place": "Kashan, Isfahan Province, Iran",
+  "lat": 33.98,
+  "lng": 51.44,
+  "text": "Luster potters who moved to Kashan made it the capital of shimmering luster ware from the 1170s until about 1220. One dish, about 35 centimetres across, shows a polo player on horseback with a round, moon-like face, the Iranian ideal of beauty. Lacking fine clay, Kashan potters mixed ground quartz, clay and glass into fritware that imitated porcelain.",
+  "source": {
+   "name": "Cleveland Museum of Art: Luster Dish with Polo Player",
+   "url": "https://www.clevelandart.org/art/1944.74"
+  }
+ },
+ {
+  "id": "w02-ptolemais-shepherd-boards",
+  "era": "medieval",
+  "year": 750,
+  "dateLabel": "After the 600s CE",
+  "cat": "daily",
+  "title": "Shepherds' Games on a Ruined City",
+  "place": "Ptolemais (Tolmeita), Cyrenaica, Libya",
+  "lat": 32.71,
+  "lng": 20.95,
+  "text": "After Ptolemais was destroyed during the Arab conquest in the 600s CE, sheep and goats grazed its ruins. Someone carved about 120 game boards into the fallen city, mostly rows of round hollows like seega and mancala. Many sit on top of surviving walls with good views over the pastures, so archaeologist Zosia Kowarska suspects bored shepherds made them.",
+  "source": {
+   "name": "Archaeology Magazine: Gaming Atop Ancient Ruins",
+   "url": "https://archaeology.org/issues/september-october-2026/digs-discoveries/game-on/"
+  }
+ },
+ {
+  "id": "w02-oxyrhynchus-fixed-wrestling",
+  "era": "classical",
+  "year": 267,
+  "dateLabel": "267 CE",
+  "cat": "daily",
+  "title": "A Wrestling Match Fixed on Papyrus",
+  "place": "Oxyrhynchus (el-Bahnasa), Minya, Egypt",
+  "lat": 28.54,
+  "lng": 30.66,
+  "text": "A papyrus from Oxyrhynchus records a deal for a wrestling bout in 267 CE between two teenagers, Nicantinous and Demetrius. Demetrius had to \"fall three times and yield\" for 3,800 drachmas. If his side backed out, it owed 18,000. Historian Dominic Rathbone calls it the first known papyrus evidence of bribery in an athletic competition.",
+  "source": {
+   "name": "Archaeology Magazine: Taking a Dive",
+   "url": "https://archaeology.org/issues/online/collection/oxyrhynchus-papyrus-wrestling-contract/"
+  }
+ },
+ {
+  "id": "w02-etlatongo-highland-ballcourt",
+  "era": "ancient",
+  "year": -1400,
+  "dateLabel": "1443–1305 BCE",
+  "cat": "discovery",
+  "title": "A Ballcourt High in Oaxaca",
+  "place": "Etlatongo, Nochixtlán Valley, Oaxaca, Mexico",
+  "lat": 17.42,
+  "lng": -97.26,
+  "text": "At Etlatongo, in the highlands of Oaxaca, archaeologists found two ballcourts. One dates to between 1443 and 1305 BCE, about 3,400 years ago, which makes it roughly 800 years older than any other playing field known from a highland setting. It shows that mountain communities took up the Mesoamerican ballgame almost as early as the lowland peoples.",
+  "source": {
+   "name": "Archaeology Magazine: Play Ball!",
+   "url": "https://archaeology.org/issues/july-august-2020/digs-discoveries/digs-mexico-ball-court/"
+  }
+ },
+ {
+  "id": "w02-tlacuachero-dice-scoreboards",
+  "era": "ancient",
+  "year": -2800,
+  "dateLabel": "About 2800 BCE",
+  "cat": "daily",
+  "title": "Scoreboards Pressed Into a Shell Mound",
+  "place": "Tlacuachero shell mound, Chiapas coast, Mexico",
+  "lat": 15.17,
+  "lng": -92.82,
+  "text": "On clay floors inside a shell mound in Chiapas, archaeologist Barbara Voorhies found holes punched in C-shaped arcs, the oldest about 4,800 years old. Made by Chantuto foragers, they closely resemble 19th-century Walapai dice-game scoreboards from Arizona. If she is right, they are the oldest evidence of games in Mesoamerica. The dice, probably wooden, have never been found.",
+  "source": {
+   "name": "National Geographic: Prehistoric Dice Boards Found, Oldest Games in Americas?",
+   "url": "https://www.nationalgeographic.com/history/article/101210-dice-gaming-gambling-native-american-indian-casinos-science"
+  }
+ },
+ {
+  "id": "w02-naachtun-patolli-mosaic",
+  "era": "classical",
+  "year": 450,
+  "dateLabel": "5th century CE",
+  "cat": "discovery",
+  "title": "A Maya Game Board Set in the Floor",
+  "place": "Naachtun, Petén, Guatemala",
+  "lat": 17.78,
+  "lng": -89.73,
+  "text": "At the Maya city of Naachtun, CNRS archaeologists found part of a fifth-century game board built into the floor of a house, perhaps an elite home or small office. It was a board for patolli, a game named in later documents and codices. Complete, the board measured about 76 by 109 centimetres and needed more than 475 red and orange pottery pieces.",
+  "source": {
+   "name": "Archaeology Magazine: Mosaic Game Board Found at Maya Site of Naachtun",
+   "url": "https://archaeology.org/news/2025/11/26/mosaic-game-board-found-at-maya-site-of-naachtun/"
+  }
+ },
+ {
+  "id": "w02-chichen-great-ballcourt",
+  "era": "medieval",
+  "year": 900,
+  "dateLabel": "Between 750 and 1200 CE",
+  "cat": "culture",
+  "title": "The Biggest Ballcourt in the Americas",
+  "place": "Great Ball Court, Chichén Itzá, Yucatán, Mexico",
+  "lat": 20.68,
+  "lng": -88.57,
+  "text": "Chichén Itzá, a major centre from 750 to 1200 CE, built the largest known ballcourt in the Americas: 168 metres long and 70 metres wide. Players in protective belts and knee pads tried to send a solid rubber ball through stone hoops set high on the walls, using hips rather than hands or feet. Accounts disagree over whether the winners or the losers were sacrificed.",
+  "source": {
+   "name": "National Geographic: Chichén Itzá, World Heritage Site",
+   "url": "https://www.nationalgeographic.com/travel/world-heritage/article/chichen-itza"
+  },
+  "source2": {
+   "name": "Penn Museum, Expedition Magazine: The Rubber Ball Game",
+   "url": "https://www.penn.museum/sites/expedition/the-rubber-ball-game/"
+  }
+ },
+ {
+  "id": "w02-aztec-ballgame-wagers",
+  "era": "exploration",
+  "year": 1500,
+  "dateLabel": "Around 1500",
+  "cat": "power",
+  "title": "Three Turkeys Against a Kingdom",
+  "place": "Tenochtitlan (Mexico City), Mexico",
+  "lat": 19.43,
+  "lng": -99.13,
+  "text": "Aztec nobles bet jewels, fine mantles and even towns on the rubber ballgame. Montezuma's father Axayacatl reportedly staked a year's tribute against the king of Xochimilco, lost, and then had his opponent killed. Montezuma himself is said to have played the king of Texcoco, wagering three turkeys against his rival's entire realm. Sending the ball through the stone ring won outright.",
+  "source": {
+   "name": "Penn Museum, Expedition Magazine: The Rubber Ball Game",
+   "url": "https://www.penn.museum/sites/expedition/the-rubber-ball-game/"
+  }
+ },
+ {
+  "id": "w02-kalaupapa-konane-board",
+  "era": "medieval",
+  "year": 1300,
+  "dateLabel": "After about 1300 CE",
+  "cat": "daily",
+  "title": "A Stone Board for Hawaiian Checkers",
+  "place": "Kalaupapa Peninsula, Molokaʻi, Hawaiʻi, USA",
+  "lat": 21.19,
+  "lng": -156.98,
+  "text": "Hawaiians settled the Kalaupapa peninsula around 1300 CE, and excavations there have turned up traces of kōnane, a strategy game like checkers, and ʻulu maika, a kind of bowling. One find is a notched kōnane board of basalt. For chiefs, kōnane was more than a pastime: tradition tells of two warring chiefs who made peace by playing it.",
+  "source": {
+   "name": "U.S. National Park Service: Hawaiian Material Culture, Kalaupapa National Historical Park",
+   "url": "https://home.nps.gov/kala/learn/historyculture/hawaiian-material-culture.htm"
+  },
+  "source2": {
+   "name": "U.S. National Park Service: Lā Pāʻani, Puʻuhonua o Hōnaunau",
+   "url": "https://www.nps.gov/puho/learn/historyculture/la-paani.htm"
+  }
+ }
+]

@@ -1,0 +1,378 @@
+[
+ {
+  "id": "m05-villages-in-the-rainforest",
+  "era": "ancient",
+  "year": -800,
+  "dateLabel": "About 800 BCE",
+  "cat": "journeys",
+  "title": "Villagers Settle the Rainforest",
+  "place": "Congo rainforest, Democratic Republic of the Congo",
+  "lat": -0.5,
+  "lng": 20.5,
+  "text": "Around 800 BCE, a long period of busy human activity began in the Congo rainforest. Archaeologists traced it by studying 1,149 radiocarbon dates linked to 115 pottery styles from 726 sites. They link these first rainforest settlers, of about 2,700 years ago, to Bantu-speaking communities, whose spread was huge, fast and adapted to many different environments.",
+  "source": {
+   "name": "Ghent University via EurekAlert!: Prolonged disease epidemic possibly caused population collapse in Central Africa 1600-1400 years ago",
+   "url": "https://www.eurekalert.org/news-releases/884813"
+  },
+  "source2": {
+   "name": "Royal Museum for Central Africa: Disease epidemic in Central Africa 1500 years ago",
+   "url": "https://www.africamuseum.be/de/research/news/disease_epidemic_Central_Africa_1500_years_ago"
+  }
+ },
+ {
+  "id": "m05-first-herders-leopard-cave",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "End of the 1st millennium BCE",
+  "cat": "discovery",
+  "title": "The First Sheep or Goats",
+  "place": "Leopard Cave, Erongo, Namibia",
+  "lat": -21.5,
+  "lng": 15.9,
+  "text": "In a small rock shelter in Namibia's Erongo region, archaeologists found two teeth from domesticated sheep or goats. They show that herd animals were in southern Africa as early as the end of the first millennium BCE, earlier than any evidence known before. The layers also held stone tools, ostrich eggshell beads and a piece of pottery.",
+  "source": {
+   "name": "PLOS ONE (via PMC): 'Of Sheep and Men': Earliest Direct Evidence of Caprine Domestication in Southern Africa at Leopard Cave (Erongo, Namibia)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3394794"
+  }
+ },
+ {
+  "id": "m05-congo-rainforest-collapse",
+  "era": "classical",
+  "year": 400,
+  "dateLabel": "400–600 CE",
+  "cat": "nature",
+  "title": "The Rainforest Goes Quiet",
+  "place": "Congo rainforest, Republic of the Congo",
+  "lat": 1.0,
+  "lng": 16.0,
+  "text": "Between 400 and 600 CE, the communities of the Congo rainforest went through a major population collapse. It happened as the climate turned wetter, and researchers think a long-lasting epidemic, perhaps plague, may have been the cause, though they have no firm proof. Significant resettlement of the region did not restart until around 1,000 years ago.",
+  "source": {
+   "name": "Royal Museum for Central Africa: Disease epidemic in Central Africa 1500 years ago",
+   "url": "https://www.africamuseum.be/de/research/news/disease_epidemic_Central_Africa_1500_years_ago"
+  },
+  "source2": {
+   "name": "Ghent University via EurekAlert!: Prolonged disease epidemic possibly caused population collapse in Central Africa",
+   "url": "https://www.eurekalert.org/news-releases/884813"
+  }
+ },
+ {
+  "id": "m05-chibuene-glass-beads",
+  "era": "medieval",
+  "year": 700,
+  "dateLabel": "7th–8th centuries CE",
+  "cat": "journeys",
+  "title": "Glass Beads from Across the Sea",
+  "place": "Chibuene, near Vilankulo, Inhambane, Mozambique",
+  "lat": -22.03,
+  "lng": 35.33,
+  "text": "Chibuene was an Indian Ocean port on the coast of Mozambique, between the mouths of the Limpopo and Zambezi rivers. Glass beads found there form the oldest series in archaeologists' classification of trade beads in sub-Saharan Africa, dated to the 7th–8th centuries and probably made in the Middle East. Later blue, turquoise and yellow Zhizo beads also arrived through Chibuene.",
+  "source": {
+   "name": "Heritage (MDPI), Koleini, Colomban, Pikirayi and Prinsloo, University of Pretoria repository: Glass Beads, Markers of Ancient Trade in Sub-Saharan Africa",
+   "url": "https://repository.up.ac.za/server/api/core/bitstreams/2d8595ca-b237-4c7c-b74f-e0195bc91c6c/content"
+  }
+ },
+ {
+  "id": "m05-kisalian-graves-sanga",
+  "era": "medieval",
+  "year": 900,
+  "dateLabel": "Classic Kisalian, c. 900–1300 CE",
+  "cat": "culture",
+  "title": "Copper Treasures by the Lakes",
+  "place": "Sanga, Upemba Depression, Haut-Lomami, DR Congo",
+  "lat": -8.4,
+  "lng": 26.4,
+  "text": "Beside the lakes of the Upemba Depression, Kisalian communities buried their dead at sites such as Sanga with pottery, iron tools and copper ornaments. Some of the richest graves belonged to children and women, suggesting women played a significant role in society. Fish hooks, harpoons and braziers used for cooking in boats show how much life depended on the water.",
+  "source": {
+   "name": "Royal Museum for Central Africa (Nicolas Nikis, Encyclopedia of Ancient History: Asia and Africa): Upemba Depression",
+   "url": "https://www.africamuseum.be/publication_docs/Nikis%202021%20Upemba%20depression.pdf"
+  }
+ },
+ {
+  "id": "m05-maravi-confederacy",
+  "era": "medieval",
+  "year": 1480,
+  "dateLabel": "About 1480",
+  "cat": "power",
+  "title": "The Maravi Confederacy Rises",
+  "place": "Southern Lake Malawi region, Malawi",
+  "lat": -14.2,
+  "lng": 34.6,
+  "text": "Bantu-speaking peoples who migrated into the Malawi region from the north between the 13th and 15th centuries brought centralized government with them. About 1480 they established the Maravi Confederacy. In the 16th century it covered most of today's central and southern Malawi, and at its height in the 17th century its system of government reached into present-day Zambia and Mozambique.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Owen Jato Kalinga et al.): Malawi – History",
+   "url": "https://www.britannica.com/place/Malawi/History"
+  }
+ },
+ {
+  "id": "m05-cape-cross-padrao",
+  "era": "medieval",
+  "year": 1486,
+  "dateLabel": "1486",
+  "cat": "journeys",
+  "title": "A Stone Cross Comes Home",
+  "place": "Cape Cross, Erongo, Namibia",
+  "lat": -21.77,
+  "lng": 13.95,
+  "text": "In 1486 the Portuguese navigator Diogo Cão erected a limestone cross, 3.5 metres tall, on the coast of present-day Namibia, inscribed in Latin and Portuguese with King John II's claim to the land. In 1893 it was taken to Germany. In 2019 Berlin's German Historical Museum agreed to return it; Namibia's ambassador said it was important for reconstructing Namibians' own history.",
+  "source": {
+   "name": "Deutsches Historisches Museum: The Stone Cross from Cape Cross (press release, 2019)",
+   "url": "https://www.dhm.de/en/press/press-release/the-stone-cross-from-cape-cross/"
+  }
+ },
+ {
+  "id": "m05-kongo-king-baptized",
+  "era": "medieval",
+  "year": 1491,
+  "dateLabel": "May 3, 1491",
+  "cat": "culture",
+  "title": "A Kongo King Is Baptized",
+  "place": "Mbanza Kongo, Zaire Province, Angola",
+  "lat": -6.27,
+  "lng": 14.25,
+  "text": "On 3 May 1491, Nzinga a Nkuwu, king of Kongo, was baptized and took the name João I, after the king of Portugal; his son Mvemba a Nzinga was baptized too. Portuguese explorers had first reached Kongo in 1483. The son, as King Afonso I, made Catholicism the state religion, and Kongo artists later made brass crucifixes blending Christian imagery with older Kongo cosmology.",
+  "source": {
+   "name": "Yale News: Art historian Cécile Fromont uncovers Kongo's Christian visual culture",
+   "url": "https://news.yale.edu/2019/03/05/art-historian-cecile-fromont-uncovers-kongos-christian-visual-culture"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Kongo (historical kingdom)",
+   "url": "https://www.britannica.com/place/Kongo-historical-kingdom-Africa"
+  }
+ },
+ {
+  "id": "m05-fort-st-sebastian",
+  "era": "exploration",
+  "year": 1558,
+  "dateLabel": "1558–1620",
+  "cat": "culture",
+  "title": "A Fortress on a Coral Island",
+  "place": "Island of Mozambique, Nampula, Mozambique",
+  "lat": -15.03,
+  "lng": 40.73,
+  "text": "The Fortress of St Sebastian, built between 1558 and 1620, is the oldest surviving fort on the Island of Mozambique, a coral island linked to Indian Ocean trade since the 10th century. The island was the seat of Portuguese colonial government until 1898. Its stone-and-lime town stands beside a macuti town of palm-leaf roofs built in traditional African style.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Island of Mozambique",
+   "url": "https://whc.unesco.org/en/list/599"
+  }
+ },
+ {
+  "id": "m05-shyaam-kuba-kingdom",
+  "era": "exploration",
+  "year": 1625,
+  "dateLabel": "About 1625",
+  "cat": "power",
+  "title": "Shyaam the Great Unites the Kuba",
+  "place": "Kuba kingdom, between the Sankuru and Kasai rivers, Kasai, DR Congo",
+  "lat": -4.98,
+  "lng": 21.95,
+  "text": "Around 1625, an outsider named Shyaam aMbul aNgoong unified the chiefdoms between the Sankuru, Lulua and Kasai rivers into the Kuba kingdom. Oral histories say he had travelled west to the Pende and Kongo kingdoms. Under him came better iron-making and American crops such as maize, tobacco, cassava and beans. His royal portrait figure shows him with a board for lele, a strategy game.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline of Art History (Alexander Ives Bortolot): Kingdoms of the Savanna: The Kuba Kingdom",
+   "url": "https://www.metmuseum.org/essays/kingdoms-of-the-savanna-the-kuba-kingdom"
+  }
+ },
+ {
+  "id": "m05-rozwi-drive-out-portuguese",
+  "era": "exploration",
+  "year": 1693,
+  "dateLabel": "1693–1695",
+  "cat": "power",
+  "title": "The Rozwi Drive Out the Portuguese",
+  "place": "Zimbabwe plateau and Zambezi valley, Zimbabwe",
+  "lat": -17.3,
+  "lng": 31.3,
+  "text": "From 1693 to 1695, the armies of the Changamire, rulers of the Rozwi state between the Zambezi and Limpopo rivers, drove the Portuguese from all their stations in the interior. Their ruler Changamire Dombo I also conquered some of the most fertile and mineral-rich land. The Changamire remained the leading power of the region until their state was destroyed about 1830.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Changamire Dynasty",
+   "url": "https://www.britannica.com/topic/Changamire-dynasty"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Changamire Dombo I",
+   "url": "https://www.britannica.com/biography/Changamire-Dombo-I"
+  }
+ },
+ {
+  "id": "m05-shaykh-yusuf-cape",
+  "era": "exploration",
+  "year": 1694,
+  "dateLabel": "April 16, 1694",
+  "cat": "culture",
+  "title": "An Exiled Scholar Reaches the Cape",
+  "place": "Macassar, near Faure, Western Cape, South Africa",
+  "lat": -34.03,
+  "lng": 18.73,
+  "text": "On 16 April 1694, Shaykh Yusuf of Makassar, an Islamic scholar and sworn enemy of the Dutch East India Company, reached the Cape from Ceylon as an exile, with an entourage of 49 people. The Dutch soon moved the group to the outskirts of Cape Town. He died there in 1699, and the shrine, or kramat, over his grave remains a place of pilgrimage.",
+  "source": {
+   "name": "Al-Jāmi'ah: Journal of Islamic Studies (Najma Moosa, University of the Western Cape): Debunking prevailing scholarly views pertaining to the apostasy of alleged descendants of Shaykh Yusuf of Makassar",
+   "url": "https://uwcscholar.uwc.ac.za:8443/server/api/core/bitstreams/ec54d697-a25c-4f12-8950-f51641758a5d/content"
+  }
+ },
+ {
+  "id": "m05-basutoland-moshoeshoe",
+  "era": "industrial",
+  "year": 1868,
+  "dateLabel": "1868",
+  "cat": "power",
+  "title": "Moshoeshoe Saves His Kingdom",
+  "place": "Thaba Bosiu, Maseru District, Lesotho",
+  "lat": -29.35,
+  "lng": 27.68,
+  "text": "From his mountain stronghold of Thaba Bosiu, Moshoeshoe united small groups into the Sotho nation. After a long land war with the Boers of the Orange Free State, he faced complete defeat in 1867. That was prevented in 1868, when the British high commissioner annexed his reduced territory as Basutoland. The Sotho still honour Moshoeshoe as the father of their country.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Moshoeshoe",
+   "url": "https://www.britannica.com/biography/Moshoeshoe"
+  }
+ },
+ {
+  "id": "m05-livingstones-heart",
+  "era": "industrial",
+  "year": 1873,
+  "dateLabel": "May 1, 1873",
+  "cat": "journeys",
+  "title": "A Heart Under the Mpundu Tree",
+  "place": "Chitambo, Central Province, Zambia",
+  "lat": -12.18,
+  "lng": 30.32,
+  "text": "On 1 May 1873 the explorer David Livingstone died in Chitambo's village, in what is now Zambia. His companions buried his heart beneath a mpundu tree, and Jacob Wainwright carved an inscription into its bark. They then carried his body to Dar es Salaam on the coast, from where it was shipped to England. The carved bark is now held by the Royal Geographical Society.",
+  "source": {
+   "name": "Royal Geographical Society: Photograph of mpundu tree and Livingstone tree bark",
+   "url": "https://www.rgs.org/our-collections/stories-from-our-collections/explore-our-collections/photograph-of-mpundu-tree-and-livingstone-tree-bark"
+  }
+ },
+ {
+  "id": "m05-place-of-gold",
+  "era": "industrial",
+  "year": 1886,
+  "dateLabel": "1886",
+  "cat": "daily",
+  "title": "A Tent Town Called Egoli",
+  "place": "Johannesburg, Gauteng, South Africa",
+  "lat": -26.2,
+  "lng": 28.04,
+  "text": "Johannesburg was founded as a mining camp in 1886, a few months after the Main Reef of gold was found at Langlaagte. That first camp had a few thousand people, 14 liquor stores and one hotel, but no sanitation. Prospectors and work-seekers poured in, and by 1896 the city had 100,000 people. Its Zulu name, Egoli, means 'the Place of Gold'.",
+  "source": {
+   "name": "City of Johannesburg: 125th Anniversary of the founding of Johannesburg (mayoral speech, 2011)",
+   "url": "https://joburg.org.za/media_/Speeches/Documents/Mayoral%20Speeches/2011%20Mayoral%20speeches/125th%20Anniversary%20of%20the%20founding%20of%20Johannesburg.pdf"
+  }
+ },
+ {
+  "id": "m05-three-dikgosi",
+  "era": "industrial",
+  "year": 1895,
+  "dateLabel": "1895",
+  "cat": "power",
+  "title": "Three Kings Outwit Rhodes",
+  "place": "Three Dikgosi Monument, Gaborone, Botswana",
+  "lat": -24.65,
+  "lng": 25.91,
+  "text": "In 1895 three chiefs, Khama III of the Bangwato, Sebele I of the Bakwena and Bathoen I of the Bangwaketse, travelled to Britain. They pleaded not to be handed to Cecil Rhodes's British South Africa Company and won assurances from Queen Victoria. Rhodes wrote that he was too angry to keep dictating. A bronze monument to the three now stands in Gaborone.",
+  "source": {
+   "name": "Botswana Daily News (Government of Botswana): Three Dikgosi Monument attracts 6 000",
+   "url": "https://dailynews.gov.bw/news-detail/66683"
+  },
+  "source2": {
+   "name": "University of Edinburgh, Whites Writing Whiteness (Liz Stanley): Two Cecil Rhodes letters",
+   "url": "https://www.whiteswritingwhiteness.ed.ac.uk/traces/two-cecil-rhodes-letters/"
+  }
+ },
+ {
+  "id": "m05-mbuya-nehanda",
+  "era": "industrial",
+  "year": 1898,
+  "dateLabel": "March 1898",
+  "cat": "power",
+  "title": "Nehanda, Mother of the Nation",
+  "place": "Mashonaland, Zimbabwe",
+  "lat": -17.3,
+  "lng": 31.1,
+  "text": "Charwe was recognised as a medium for Nehanda, a founding ancestor spirit. After white settlers occupied the land, she was tried for ordering the 1896 killing of Native Commissioner Henry Pollard, and was hanged in March 1898. A photograph taken at her arrest became famous, and after Zimbabwe's independence in 1980 Nehanda was revered as the 'Mother of the Nation'.",
+  "source": {
+   "name": "Oxford Research Encyclopedia of African History (Diana Jeater and Ruvimbo Rusike): Nehanda",
+   "url": "https://academic.oup.com/edited-volume/61663/chapter/553404740"
+  }
+ },
+ {
+  "id": "m05-womens-march-pretoria",
+  "era": "modern",
+  "year": 1956,
+  "dateLabel": "August 9, 1956",
+  "cat": "power",
+  "title": "20,000 Women March on Pretoria",
+  "place": "Union Buildings, Pretoria, South Africa",
+  "lat": -25.74,
+  "lng": 28.21,
+  "text": "On 9 August 1956, up to 20,000 women of all races marched to the Union Buildings in Pretoria against new laws forcing women to carry passes. Led by Lilian Ngoyi, Helen Joseph, Rahima Moosa and Sophia Williams De Bruyn, they delivered petitions to Prime Minister J.G. Strijdom's office. The day is now celebrated as National Women's Day.",
+  "source": {
+   "name": "University of Cape Town Libraries: Women's Day, 9 August",
+   "url": "https://lib.uct.ac.za/government-publications/articles/2017-08-08-womens-day-9-august"
+  },
+  "source2": {
+   "name": "Rhodes University: History of Lilian Ngoyi",
+   "url": "https://www.ru.ac.za/lilianngoyi/about/historyoflilianngoyi/"
+  }
+ },
+ {
+  "id": "m05-kariba-dam",
+  "era": "modern",
+  "year": 1959,
+  "dateLabel": "1959 (begun November 6, 1956)",
+  "cat": "daily",
+  "title": "A Dam That Moved a People",
+  "place": "Kariba Gorge, Zambia–Zimbabwe border",
+  "lat": -16.52,
+  "lng": 28.76,
+  "text": "In 1959 the Kariba Dam was completed across the Zambezi River, a concrete arch 128 metres high on the border of today's Zambia and Zimbabwe. Creating its lake required the resettlement of more than 30,000 Batonka people and the evacuation of thousands of wild animals in 'Operation Noah'. Some Africans opposed it as a symbol of the unpopular Federation of Rhodesia and Nyasaland.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Kariba Dam",
+   "url": "https://www.britannica.com/topic/Kariba-Dam"
+  }
+ },
+ {
+  "id": "m05-first-heart-transplant",
+  "era": "modern",
+  "year": 1967,
+  "dateLabel": "December 3, 1967",
+  "cat": "discovery",
+  "title": "A New Heart Before Dawn",
+  "place": "Groote Schuur Hospital, Cape Town, South Africa",
+  "lat": -33.94,
+  "lng": 18.46,
+  "text": "Just before 6 a.m. on Sunday, 3 December 1967, surgeons at Groote Schuur Hospital in Cape Town completed the world's first human heart transplant. Grocer Louis Washkansky, aged 53, received the heart of Denise Darvall, a 25-year-old car accident victim. Chris and Marius Barnard led the team. Washkansky died of pneumonia 18 days later.",
+  "source": {
+   "name": "University of Cape Town News: 50th anniversary of the first human heart transplant",
+   "url": "https://www.news.uct.ac.za/article/-2017-11-29-50th-anniversary-of-the-first-human-heart-transplant"
+  }
+ },
+ {
+  "id": "m05-oklo-natural-reactor",
+  "era": "modern",
+  "year": 1972,
+  "dateLabel": "1972",
+  "cat": "discovery",
+  "title": "A Nuclear Reactor Made by Nature",
+  "place": "Oklo, Haut-Ogooué, Gabon",
+  "lat": -1.4,
+  "lng": 13.16,
+  "text": "In 1972, physicist Francis Perrin and his colleagues in France noticed that uranium ore from a mine at Oklo in Gabon held 0.717% uranium-235 instead of the usual 0.720%. Further tests showed the ore was natural but had gone through fission on its own over two billion years ago, with water slowing the neutrons. It is Earth's only known natural nuclear reactor.",
+  "source": {
+   "name": "International Atomic Energy Agency: Meet Oklo, the Earth's Two-billion-year-old only Known Natural Nuclear Reactor",
+   "url": "https://www.iaea.org/newscenter/news/meet-oklo-the-earths-two-billion-year-old-only-known-natural-nuclear-reactor"
+  }
+ },
+ {
+  "id": "m05-nyiragongo-goma",
+  "era": "modern",
+  "year": 2021,
+  "dateLabel": "May 22, 2021",
+  "cat": "nature",
+  "title": "Lava Above Goma",
+  "place": "Mount Nyiragongo, near Goma, North Kivu, DR Congo",
+  "lat": -1.52,
+  "lng": 29.25,
+  "text": "On 22 May 2021, Mount Nyiragongo erupted above the city of Goma. The lava, ash and gas killed over 30 people and destroyed houses, schools and health centres. Fearing another eruption, authorities told residents of ten Goma districts to leave, an order affecting about 400,000 people, and thousands crossed the border into Rwanda.",
+  "source": {
+   "name": "UN News: Thousands in Goma evacuated amid fears of further volcanic eruption",
+   "url": "https://news.un.org/en/story/2021/05/1093022"
+  }
+ }
+]

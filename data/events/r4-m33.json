@@ -1,0 +1,394 @@
+[
+ {
+  "id": "m33-raoul-obsidian",
+  "era": "medieval",
+  "year": 1300,
+  "dateLabel": "1300s",
+  "cat": "journeys",
+  "title": "Volcanic Glass on a Faraway Island",
+  "place": "Low Flat, Raoul Island, Kermadec Islands, New Zealand",
+  "lat": -29.27,
+  "lng": -177.92,
+  "text": "Raoul Island in the Kermadecs lies about 800 kilometres from mainland New Zealand, yet archaeologists found obsidian there from Mayor Island (Tūhua) in the Bay of Plenty. It shows that at least one voyage reached Raoul from Aotearoa. Radiocarbon dating suggests people lived briefly at the Low Flat site and only during the 14th century.",
+  "source": {
+   "name": "Archaeology in Oceania: The prehistoric chronology of Raoul Island, the Kermadec Group (Higham, 1997)",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1002/j.1834-4453.1997.tb00389.x"
+  },
+  "source2": {
+   "name": "Journal of the Royal Society of New Zealand: Long-distance prehistoric two-way voyaging, the case for Aotearoa and Hawaiki (P. Adds, 2012)",
+   "url": "https://www.tandfonline.com/doi/full/10.1080/03036758.2012.677456"
+  }
+ },
+ {
+  "id": "m33-kaharoa-ash-layer",
+  "era": "medieval",
+  "year": 1314,
+  "dateLabel": "About 1314",
+  "cat": "nature",
+  "title": "Tarawera's Ash Clock",
+  "place": "Mt Tarawera, Bay of Plenty, New Zealand",
+  "lat": -38.23,
+  "lng": 176.51,
+  "text": "Around 1314, Mt Tarawera erupted the pale Kaharoa tephra, the most recent rhyolite eruption in Aotearoa, probably during the southern winter. Its ash spread over much of the eastern and northern North Island. Archaeologists use the layer as a time marker: only one trace of people has turned up beneath it, a seed gnawed by a Pacific rat on the Coromandel Peninsula.",
+  "source": {
+   "name": "New Zealand Journal of Geology and Geophysics: Tephrochronology in Aotearoa New Zealand (Lowe and others, 2021)",
+   "url": "https://www.tandfonline.com/doi/full/10.1080/00288306.2021.1908368"
+  }
+ },
+ {
+  "id": "m33-anaweka-waka",
+  "era": "medieval",
+  "year": 1400,
+  "dateLabel": "About 1400",
+  "cat": "discovery",
+  "title": "A Voyaging Canoe With a Turtle",
+  "place": "Anaweka, north-west Nelson, South Island, New Zealand",
+  "lat": -40.77,
+  "lng": 172.31,
+  "text": "A storm on the remote north-western tip of the South Island uncovered a 6-metre section of an ocean-sailing canoe, carved from a single mataī timber and caulked with tōtara bark. Dated to about 1400, the Anaweka waka was built in Aotearoa as an early adaptation to a new land. A sea turtle carved on its hull links it with wider Polynesian culture and art.",
+  "source": {
+   "name": "PNAS (via PubMed Central): An early sophisticated East Polynesian voyaging canoe discovered on New Zealand's coast",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4205625/"
+  }
+ },
+ {
+  "id": "m33-moa-gone",
+  "era": "medieval",
+  "year": 1425,
+  "dateLabel": "By about 1425",
+  "cat": "nature",
+  "title": "The Last of the Moa",
+  "place": "South Island lowlands, New Zealand",
+  "lat": -43.9,
+  "lng": 171.5,
+  "text": "Using more than 600 radiocarbon dates, a team including George Perry of the University of Auckland showed that moa vanished quickly and at about the same time across New Zealand. Hunting began around 1314. The giant flightless birds were gone from the South Island lowlands by the end of the 1300s, and total extinction probably came by about 1425.",
+  "source": {
+   "name": "Archaeology Magazine (Archaeological Institute of America): The Arrival of People Doomed New Zealand's Moa",
+   "url": "https://archaeology.org/news/2014/11/07/141107-new-zealand-moa-extinction/"
+  }
+ },
+ {
+  "id": "m33-kohika-lake-village",
+  "era": "exploration",
+  "year": 1675,
+  "dateLabel": "Late 1600s",
+  "cat": "daily",
+  "title": "A Village Sealed in a Swamp",
+  "place": "Kohika, Rangitaiki Plains, near Matatā, Bay of Plenty, New Zealand",
+  "lat": -37.92,
+  "lng": 176.79,
+  "text": "Around the late 17th century, people of the Bay of Plenty lived at Kohika, a palisaded swamp pā that may have been ringed by water. A massive flood ended village life, and the waterlogged ground preserved its wood: digging sticks, paddles, bowls, combs, carved house posts and pātaka parts. Most of its obsidian came from Mayor Island (Tūhua).",
+  "source": {
+   "name": "Department of Conservation: Archaeology of the Bay of Plenty (Garry Law), section 10.5 Kohika",
+   "url": "https://www.doc.govt.nz/documents/science-and-technical/sap246entire.pdf"
+  },
+  "source2": {
+   "name": "Heritage New Zealand Pouhere Taonga: Kohika Pā",
+   "url": "https://www.heritage.org.nz/list-details/6406/Kohika+Pa"
+  }
+ },
+ {
+  "id": "m33-tupaia-speaks",
+  "era": "exploration",
+  "year": 1769,
+  "dateLabel": "1769",
+  "cat": "journeys",
+  "title": "Tupaia, the Voice of the Endeavour",
+  "place": "Tūranga-nui (Poverty Bay), Gisborne, New Zealand",
+  "lat": -38.7,
+  "lng": 177.98,
+  "text": "When Cook's Endeavour reached Aotearoa, the only person aboard who could speak with Māori was Tupaia, a Polynesian priest and navigator. He missed the first landing at Tūranga-nui, where the chief Te Maro was shot, but later calmed many tense meetings. Oral histories show Māori thought Tupaia was the ship's captain, and when Cook returned, people wept to learn he had died.",
+  "source": {
+   "name": "Natural History Museum, London: On tour with Tupaia",
+   "url": "https://www.nhm.ac.uk/discover/on-tour-with-tupaia.html"
+  },
+  "source2": {
+   "name": "Te Papa Collections Online: Tupaia - priest and navigator",
+   "url": "https://collections.tepapa.govt.nz/topic/10675"
+  }
+ },
+ {
+  "id": "m33-marion-du-fresne",
+  "era": "exploration",
+  "year": 1772,
+  "dateLabel": "May - July 1772",
+  "cat": "power",
+  "title": "A French Camp on Moturua",
+  "place": "Waipao Bay, Moturua Island, Bay of Islands, New Zealand",
+  "lat": -35.22,
+  "lng": 174.18,
+  "text": "From May to July 1772, French explorer Marion du Fresne camped on Moturua Island, setting up a hospital, a forge and officers' tents. Relations broke down when du Fresne and some crew were attacked while fishing in Te Kuri's cove in Manawaora Bay. The French retaliated by destroying Paeroa pā, where an estimated 250 Māori warriors died.",
+  "source": {
+   "name": "Department of Conservation: Moturua Island Scenic Reserve",
+   "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/moturua-island-scenic-reserve/moturua-island-scenic-reserve/"
+  },
+  "source2": {
+   "name": "Department of Conservation: European discovery, heritage topics",
+   "url": "https://www.doc.govt.nz/our-work/heritage/heritage-topics/european-discovery/"
+  }
+ },
+ {
+  "id": "m33-dusky-sound-observatory",
+  "era": "exploration",
+  "year": 1773,
+  "dateLabel": "March 26 - April 29, 1773",
+  "cat": "discovery",
+  "title": "Pinpointing Aotearoa in Dusky Sound",
+  "place": "Astronomer's Point, Tamatea/Dusky Sound, Fiordland, New Zealand",
+  "lat": -45.76,
+  "lng": 166.58,
+  "text": "In autumn 1773 Cook's Resolution spent five weeks in Tamatea/Dusky Sound. The crew cleared about an acre of forest, set up a forge and brewed beer from rimu and mānuka leaves to fight scurvy. Astronomer William Wales tested a copy of Harrison's H4 chronometer here, making New Zealand the most accurately located place on the globe at that time.",
+  "source": {
+   "name": "Department of Conservation: Astronomer's Point, historic sites in Fiordland National Park",
+   "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/fiordland/places/fiordland-national-park/heritage-sites/astronomers-point/"
+  }
+ },
+ {
+  "id": "m33-tuki-map",
+  "era": "exploration",
+  "year": 1793,
+  "dateLabel": "May - November 1793",
+  "cat": "journeys",
+  "title": "Tuki's Chalk Map of Home",
+  "place": "Northland, New Zealand",
+  "lat": -35.1,
+  "lng": 173.95,
+  "text": "In May 1793 two Northland chiefs, Tuki Tahua and Ngahuruhuru, were kidnapped aboard the Daedalus and taken to Norfolk Island to teach convicts flax-working. They knew little of it, since flax work was a women's skill. Instead Tuki chalked a map of Aotearoa on a floor, showing the spirits' pathway running the length of the North Island to Te Reinga.",
+  "source": {
+   "name": "University of Otago Library, Hocken Collections: Reproduced map of New Zealand drawn in chalk by Tuki Tahua and Ngahuruhuru",
+   "url": "https://otago.ourheritage.ac.nz/items/show/6302"
+  },
+  "source2": {
+   "name": "University of Otago Library: He Tirohanga Ki Muri, general items",
+   "url": "https://www.otago.ac.nz/library/exhibitions/he_tirohanga_ki_muri/general_items.html"
+  }
+ },
+ {
+  "id": "m33-christmas-at-oihi",
+  "era": "industrial",
+  "year": 1814,
+  "dateLabel": "December 25, 1814",
+  "cat": "culture",
+  "title": "Ruatara's Christmas at Oihi",
+  "place": "Oihi Bay, Rangihoua, Bay of Islands, New Zealand",
+  "lat": -35.15,
+  "lng": 174.07,
+  "text": "Ruatara, chief of Rangihoua pā, prepared for Samuel Marsden's first sermon by fencing half an acre and building a pulpit draped in black Māori cloth, with upturned canoes for seats. At 10am on Christmas Day 1814 Marsden preached while Ruatara interpreted for his people. Then three hundred warriors danced a furious haka around the preacher.",
+  "source": {
+   "name": "Department of Conservation: Oihi Mission Station 1814-1832, Historic Heritage Assessment (Melina Goddard, 2010)",
+   "url": "https://www.doc.govt.nz/globalassets/documents/conservation/historic/by-region/northland/oihi-mission-station-historic-assessment.pdf"
+  },
+  "source2": {
+   "name": "Department of Conservation: Rangihoua Heritage Park",
+   "url": "https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/kerikeri-area/rangihoua-heritage-park/"
+  }
+ },
+ {
+  "id": "m33-he-whakaputanga",
+  "era": "industrial",
+  "year": 1835,
+  "dateLabel": "October 28, 1835",
+  "cat": "power",
+  "title": "Rangatira Declare Independence",
+  "place": "Bay of Islands, Northland, New Zealand",
+  "lat": -35.27,
+  "lng": 174.08,
+  "text": "On 28 October 1835, 34 northern rangatira signed He Whakaputanga, the Declaration of Independence; by 1839, 52 had signed, including Te Wherowhero, later the first Māori King. It declared Aotearoa an independent Māori state where foreigners could not make laws. Eruera Pare Hongi, a relation of Hongi Hika, wrote out the Māori copy that was signed.",
+  "source": {
+   "name": "Archives New Zealand: The Declaration of the Independence of New Zealand",
+   "url": "https://www.archives.govt.nz/discover-our-stories/the-declaration-of-independence-of-new-zealand"
+  }
+ },
+ {
+  "id": "m33-wairarapa-earthquake",
+  "era": "industrial",
+  "year": 1855,
+  "dateLabel": "January 23, 1855",
+  "cat": "nature",
+  "title": "The Quake That Lifted Wellington",
+  "place": "Wairarapa Fault, near Martinborough, New Zealand",
+  "lat": -41.22,
+  "lng": 175.22,
+  "text": "At 9:11 pm on 23 January 1855, the Wairarapa Fault ruptured in a magnitude 8.2 earthquake that killed between 7 and 9 people. At Muka Muka on Palliser Bay the ground rose 2.7 metres, and Wellington's harbour shoreline changed considerably. The Basin Reserve sports ground sits on land lifted from a waterway, and a huge slip cut the track to Petone.",
+  "source": {
+   "name": "GeoNet (GNS Science): M 8.2 Wairarapa, Tue, Jan 23 1855",
+   "url": "https://www.geonet.org.nz/earthquake/story/2178057"
+  }
+ },
+ {
+  "id": "m33-kingitanga-ngaruawahia",
+  "era": "industrial",
+  "year": 1858,
+  "dateLabel": "1858",
+  "cat": "power",
+  "title": "A Māori King at the River Meeting",
+  "place": "Ngāruawāhia, Waikato, New Zealand",
+  "lat": -37.67,
+  "lng": 175.15,
+  "text": "In the 1850s the Kīngitanga, the Māori King movement, grew to counter European demands for land. Pōtatau Te Wherowhero was chosen as king, a role he eventually agreed to accept, and in 1858 Ngāruawāhia became his capital. The site lies where the Waikato and Waipā rivers meet, in the heartland of Waikato-Tainui, and the Kīngitanga flag flew from a flagstaff there.",
+  "source": {
+   "name": "Heritage New Zealand Pouhere Taonga: Pōtatau Te Wherowhero Monument and Kīngitanga Reserve",
+   "url": "https://www.heritage.org.nz/list-details/757/Listing"
+  }
+ },
+ {
+  "id": "m33-maori-seats",
+  "era": "industrial",
+  "year": 1867,
+  "dateLabel": "1867",
+  "cat": "power",
+  "title": "Four Seats for Māori",
+  "place": "Parliament, Wellington, New Zealand",
+  "lat": -41.28,
+  "lng": 174.78,
+  "text": "The Māori Representation Act 1867 created four Māori electorates: three in the North Island and one covering the South Island, Stewart Island and nearby islands. Māori men aged 21 and over could vote with no property qualification, twelve years before non-Māori men. Meant to last only five years, the seats were extended indefinitely in 1876, and the first election came in 1868.",
+  "source": {
+   "name": "New Zealand Parliament Library: Origins of the Māori seats",
+   "url": "https://www3.parliament.nz/mi/pb/research-papers/document/00PLLawRP03141/origins-of-the-m%C4%81ori-seats"
+  }
+ },
+ {
+  "id": "m33-frozen-meat-dunedin",
+  "era": "industrial",
+  "year": 1882,
+  "dateLabel": "February 15, 1882",
+  "cat": "daily",
+  "title": "Frozen Lamb Sails for London",
+  "place": "Port Chalmers, Otago, New Zealand",
+  "lat": -45.82,
+  "lng": 170.62,
+  "text": "Carcasses from Totara Estate near Oamaru were carried by rail in the cool early morning to Port Chalmers and frozen aboard the ship Dunedin, fitted with a coal-powered Bell Coleman freezing plant. It sailed for London on 15 February 1882 with 5000 lamb carcasses and arrived on 24 May with only one carcass condemned, launching New Zealand's frozen meat industry.",
+  "source": {
+   "name": "RNZ: Meat industry celebrates 140 years since first frozen shipment to the UK",
+   "url": "https://www.rnz.co.nz/news/country/467732/meat-industry-celebrates-140-years-since-first-frozen-shipment-to-the-uk"
+  },
+  "source2": {
+   "name": "Heritage New Zealand Pouhere Taonga: Totara Estate",
+   "url": "https://www.heritage.org.nz/list-details/7066/Totara-Estate"
+  }
+ },
+ {
+  "id": "m33-natives-rugby-tour",
+  "era": "industrial",
+  "year": 1888,
+  "dateLabel": "June 23, 1888",
+  "cat": "journeys",
+  "title": "The Natives Kick Off a Marathon Tour",
+  "place": "Napier, Hawke's Bay, New Zealand",
+  "lat": -39.49,
+  "lng": 176.91,
+  "text": "On 23 June 1888 Joe Warbrick's 'Natives' rugby team, Māori players later joined by five Pākehā, played its first match in Napier, beating Hawke's Bay 5 to nil. By the time they came home in August 1889 they had played 107 matches in New Zealand, Australia and Britain, winning 78. Their pre-match haka and black jerseys aroused curiosity overseas.",
+  "source": {
+   "name": "New Zealand Rugby Museum: June 23, 1888, NZ 'Natives' tour begins",
+   "url": "https://www.rugbymuseum.co.nz/stories/on-this-day-in-new-zealand-rugby/june-on-this-day/june-23-1888-nz-natives-tour-begins"
+  },
+  "source2": {
+   "name": "Te Papa: Before the All Blacks, the New Zealand 'Natives'",
+   "url": "https://tepapa.govt.nz/discover-collections/read-watch-play/sport-aotearoa-new-zealand/all-blacks-new-zealand-natives"
+  }
+ },
+ {
+  "id": "m33-influenza-1918",
+  "era": "modern",
+  "year": 1918,
+  "dateLabel": "October - December 1918",
+  "cat": "daily",
+  "title": "The Deadly Flu of 1918",
+  "place": "Victoria Park, Auckland, New Zealand",
+  "lat": -36.85,
+  "lng": 174.75,
+  "text": "The influenza pandemic reached New Zealand in October 1918 and killed an estimated 9,000 people. Māori suffered especially severe losses, with about 2,500 deaths out of some 50,000 people. In Auckland, temporary hospitals sprang up across the city, schools and church services shut, and victims were taken from a temporary mortuary at Victoria Park to Waikumete Cemetery.",
+  "source": {
+   "name": "Auckland War Memorial Museum: Influenza Pandemic 1918",
+   "url": "https://www.aucklandmuseum.com/discover/collections/topics/influenza-pandemic-1918"
+  },
+  "source2": {
+   "name": "Te Papa Collections Online: 1918 influenza pandemic",
+   "url": "https://collections.tepapa.govt.nz/topic/10658"
+  }
+ },
+ {
+  "id": "m33-tangiwai-lahar",
+  "era": "modern",
+  "year": 1953,
+  "dateLabel": "December 24, 1953",
+  "cat": "nature",
+  "title": "Christmas Eve at Tangiwai",
+  "place": "Tangiwai, Whangaehu River, Ruapehu District, New Zealand",
+  "lat": -39.47,
+  "lng": 175.57,
+  "text": "At 10:21pm on 24 December 1953, a dam of volcanic tephra holding back Mt Ruapehu's crater lake gave way, with no eruption that day. A lahar rushed down the Whangaehu River and weakened the rail bridge at Tangiwai just minutes before the Wellington to Auckland night express arrived. The bridge buckled, killing 151 of the 285 people aboard.",
+  "source": {
+   "name": "GeoNet (GNS Science): 70th Anniversary of the Tangiwai Railway Disaster",
+   "url": "https://www.geonet.org.nz/news/6nzAk141XqUtP9yjiyk5FO"
+  }
+ },
+ {
+  "id": "m33-land-march-te-hapua",
+  "era": "modern",
+  "year": 1975,
+  "dateLabel": "September 14 - October 13, 1975",
+  "cat": "power",
+  "title": "Not One More Acre",
+  "place": "Te Hāpua, Far North, New Zealand",
+  "lat": -34.52,
+  "lng": 172.91,
+  "text": "On 14 September 1975, about 50 marchers set out from the far north settlement of Te Hāpua, led by 79-year-old Dame Whina Cooper and Te Rōpū Matakite o Aotearoa. Under the call 'Not One Acre More', they walked all the way to Parliament in Wellington. On 13 October an estimated 5,000 marchers handed Prime Minister Bill Rowling a petition with 60,000 signatures.",
+  "source": {
+   "name": "Te Papa: Māori Land March, 1975",
+   "url": "https://www.tepapa.govt.nz/digital-museum/maori-land-march-1975"
+  }
+ },
+ {
+  "id": "m33-rainbow-warrior",
+  "era": "modern",
+  "year": 1985,
+  "dateLabel": "July 10, 1985",
+  "cat": "power",
+  "title": "Bombs in Auckland Harbour",
+  "place": "Marsden Wharf, Auckland, New Zealand",
+  "lat": -36.84,
+  "lng": 174.77,
+  "text": "On 10 July 1985, French government agents attached bombs to the Greenpeace ship Rainbow Warrior at Marsden Wharf in Tāmaki Makaurau, Auckland, and sank it. Photographer Fernando Pereira was killed. France feared the ship would draw attention to its nuclear testing at Moruroa atoll. Agents Alain Mafart and Dominique Prieur were each sentenced to 10 years for manslaughter.",
+  "source": {
+   "name": "Te Papa blog: You can't sink a rainbow (Kirstie Ross, 2015)",
+   "url": "https://blog.tepapa.govt.nz/2015/07/09/you-cant-sink-a-rainbow/"
+  },
+  "source2": {
+   "name": "RNZ: Rainbow Warrior bombing 40th anniversary",
+   "url": "https://www.rnz.co.nz/news/pacific/566469/rainbow-warrior-bombing-40th-anniversary-advocates-warn-of-expanding-nuclearism-in-pacific"
+  }
+ },
+ {
+  "id": "m33-whanganui-river-person",
+  "era": "modern",
+  "year": 2017,
+  "dateLabel": "March 16, 2017",
+  "cat": "nature",
+  "title": "I Am the River, the River Is Me",
+  "place": "Whanganui River, Manawatū-Whanganui, New Zealand",
+  "lat": -39.93,
+  "lng": 175.05,
+  "text": "On 16 March 2017, Parliament passed a law giving the Whanganui River the status of a legal person, Te Awa Tupua. Local iwi had fought for over 160 years for this recognition. Their saying explains why: 'Ko au te awa, ko te awa ko au', meaning 'I am the river and the river is me.' Te Urewera had gained the same status in 2014.",
+  "source": {
+   "name": "RNZ: Whanganui River to gain legal personhood",
+   "url": "https://www.rnz.co.nz/news/te-ao-maori/326689/whanganui-river-to-gain-legal-personhood"
+  }
+ },
+ {
+  "id": "m33-moriori-settlement",
+  "era": "modern",
+  "year": 2020,
+  "dateLabel": "February 14, 2020",
+  "cat": "power",
+  "title": "Justice at Last for Moriori",
+  "place": "Kōpinga Marae, Rēkohu (Chatham Islands), New Zealand",
+  "lat": -43.88,
+  "lng": -176.42,
+  "text": "In 1835 a sixth of the Moriori people of Rēkohu were killed and the survivors enslaved. From 1862 Moriori wrote to Governor George Grey seeking freedom, and in 1988 they filed claims. On 14 February 2020, descendants met at Kōpinga Marae to sign a settlement with the Crown that includes an agreed account of their history, an apology and $18 million.",
+  "source": {
+   "name": "RNZ: Moriori Treaty settlement signed",
+   "url": "https://www.rnz.co.nz/news/te-ao-maori/409574/moriori-treaty-settlement-signed"
+  }
+ }
+]

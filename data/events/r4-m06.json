@@ -1,0 +1,298 @@
+[
+ {
+  "id": "m06-saimaly-tash-petroglyphs",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "3rd millennium BCE (earliest carvings)",
+  "cat": "culture",
+  "title": "A Mountain Sanctuary of 10,000 Stones",
+  "place": "Saimaly-Tash, Fergana Range, Jalal-Abad Region, Kyrgyzstan",
+  "lat": 41.17,
+  "lng": 73.82,
+  "text": "High in the Fergana mountain range lies Saimaly-Tash, one of the world's biggest collections of rock pictures, with about 10,000 carved stones. The earliest date back to the third and early second millennia BCE. Hunters, cattle breeders and early farmers kept returning to this sacred place for thousands of years, carving images linked to their worship of mountains, totems and the sun.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Tentative List): Saimaly-Tash Petroglyphs",
+   "url": "https://whc.unesco.org/en/tentativelists/1512/"
+  }
+ },
+ {
+  "id": "m06-tanbaly-sun-heads",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "From about 1500 BCE (second half of the 2nd millennium BCE)",
+  "cat": "culture",
+  "title": "Sun-Headed Gods of Tanbaly Gorge",
+  "place": "Tanbaly (Tamgaly) Gorge, Almaty Region, Kazakhstan",
+  "lat": 43.8,
+  "lng": 75.53,
+  "text": "Around a green, spring-fed gorge in the dry Chu-Ili mountains, Bronze Age herders began pecking pictures into shiny black rocks. About 5,000 carvings survive, and the oldest are the most striking: big, deeply cut figures of sun-headed deities, beings dressed in furs, disguised people and many animals. Possible altars in the central canyon suggest sacrifices were offered here.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Petroglyphs of the Archaeological Landscape of Tanbaly",
+   "url": "https://whc.unesco.org/en/list/1145"
+  }
+ },
+ {
+  "id": "m06-khovsgol-bronze-age-milk",
+  "era": "ancient",
+  "year": -1300,
+  "dateLabel": "By about 1300 BCE",
+  "cat": "discovery",
+  "title": "Milk Clues in Ancient Teeth",
+  "place": "Arbulag, Khövsgöl Province, Mongolia",
+  "lat": 49.9,
+  "lng": 99.4,
+  "text": "Hardened plaque on the teeth of Late Bronze Age people buried in northern Mongolia still holds milk proteins from cattle, sheep and goats. It shows dairying had reached the eastern steppe by about 1300 BCE. Yet their DNA came mostly from local hunter-gatherers of the Baikal region, so these people adopted herding and milk from outsiders rather than being replaced by them.",
+  "source": {
+   "name": "PNAS (Jeong et al. 2018): Bronze Age population dynamics and the rise of dairy pastoralism on the eastern Eurasian steppe",
+   "url": "https://www.pnas.org/doi/10.1073/pnas.1813608115"
+  }
+ },
+ {
+  "id": "m06-deer-stones",
+  "era": "ancient",
+  "year": -1200,
+  "dateLabel": "About 1200–600 BCE",
+  "cat": "power",
+  "title": "Standing Stones Carved with Stags",
+  "place": "Uushigiin Övör, Khövsgöl Province, Mongolia",
+  "lat": 49.65,
+  "lng": 99.93,
+  "text": "Bronze Age nomads raised stone pillars up to four metres tall, carved with stylised stags, often beside big burial mounds and the remains of sacrificed horses. About 1,500 are known, most of them in Mongolia. Smithsonian archaeologist William Fitzhugh thinks they portray real people, with earrings, belts and tools, lined up in rows like successions of clan leaders.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Deer Stone Monuments and Related Bronze Age Sites",
+   "url": "https://whc.unesco.org/en/list/1621"
+  },
+  "source2": {
+   "name": "Smithsonian Magazine (NMNH): Meet the Smithsonian Scientist Studying the Mysterious Mongolian Deer Stones",
+   "url": "https://www.smithsonianmag.com/blogs/national-museum-of-natural-history/2023/03/09/meet-the-smithsonian-scientist-studying-the-mysterious-mongolian-deer-stones/"
+  }
+ },
+ {
+  "id": "m06-mongolian-altai-rock-art",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "Early 1st millennium BCE",
+  "cat": "daily",
+  "title": "Riders Carved in the High Altai",
+  "place": "Tsagaan Salaa-Baga Oigor, Bayan-Ulgii, Mongolia",
+  "lat": 49.53,
+  "lng": 88.6,
+  "text": "In glacier-cut valleys of Mongolia's far west, people kept carving rocks for 12,000 years, so the pictures work like a diary of changing lives. The earliest show hunters of big game, later ones show the rise of herding, and carvings from the early 1st millennium BCE record a new turn: a nomadic way of life that depended on the horse.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Petroglyphic Complexes of the Mongolian Altai",
+   "url": "https://whc.unesco.org/en/list/1382"
+  }
+ },
+ {
+  "id": "m06-besshatyr-saka-kurgans",
+  "era": "classical",
+  "year": -400,
+  "dateLabel": "5th–4th centuries BCE",
+  "cat": "power",
+  "title": "The Giant Mounds of Besshatyr",
+  "place": "Besshatyr, Ili River, Almaty Region, Kazakhstan",
+  "lat": 43.92,
+  "lng": 78.35,
+  "text": "Beside the Ili River, Saka nomads raised 81 burial mounds of stone, some up to 105 metres across and 18 metres high. In one small mound archaeologists found two people buried with short iron daggers, quivers of bronze-tipped arrows, carnelian beads and hollow gold beads. Openings in the big mounds may have stayed open for worship and sacrifices after burial.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Tentative List): Silk Roads: Early Period (Prehistory)",
+   "url": "https://whc.unesco.org/en/tentativelists/6567/"
+  }
+ },
+ {
+  "id": "m06-saka-silk-zhetysu",
+  "era": "classical",
+  "year": -360,
+  "dateLabel": "4th–3rd centuries BCE",
+  "cat": "journeys",
+  "title": "Chinese Silk Before the Silk Road",
+  "place": "Zhetysu (Semirechye), Almaty Region, Kazakhstan",
+  "lat": 43.65,
+  "lng": 77.4,
+  "text": "Long before the famous Silk Roads opened, silk was already travelling west. Pieces of Chinese silk turned up in the royal Saka mounds at Esik, and even in an ordinary late Saka cemetery in north-eastern Zhetysu, radiocarbon-dated to the 4th–3rd centuries BCE. They show trade linking China and the nomads of south-eastern Kazakhstan.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Tentative List): Silk Roads: Early Period (Prehistory)",
+   "url": "https://whc.unesco.org/en/tentativelists/6567/"
+  }
+ },
+ {
+  "id": "m06-berel-horned-horses",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "Early 3rd century BCE",
+  "cat": "culture",
+  "title": "Horses Wearing Golden Ibex Horns",
+  "place": "Berel, East Kazakhstan Region, Kazakhstan",
+  "lat": 49.37,
+  "lng": 86.43,
+  "text": "In 1998–1999 a Kazakh, French and Italian team opened a frozen prince's tomb at Berel in the Kazakh Altai, dating to the early 3rd century BCE. Beside two human bodies lay thirteen horses, buried in harness. Some wore masks topped with fake ibex horns carved from wood and painted gold.",
+  "source": {
+   "name": "Anthropozoologica (Lepetz 2013): Horse sacrifice in a Pazyryk culture kurgan: the princely tomb of Berel'",
+   "url": "https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/az2013n2a9.pdf"
+  }
+ },
+ {
+  "id": "m06-xiongnu-frontier-women",
+  "era": "classical",
+  "year": 1,
+  "dateLabel": "About 2,000 years ago",
+  "cat": "power",
+  "title": "The Women Who Ruled the Frontier",
+  "place": "Takhiltyn Khotgor, Khovd Province, Mongolia",
+  "lat": 48.17,
+  "lng": 91.9,
+  "text": "At Takhiltyn Khotgor, on the far western frontier of the Xiongnu Empire, the grandest tombs were built for women. They lay in fine coffins with golden sun and moon emblems of imperial power, flanked by commoner men in simple graves; one held six horses and part of a chariot. Researchers say women held great power along the frontier.",
+  "source": {
+   "name": "Max Planck Society: Multiethnic structure of Mongolia's first nomadic empire",
+   "url": "https://www.mpg.de/20098860/multiethnic-structure-of-mongolia-s-first-nomadic-empire"
+  },
+  "source2": {
+   "name": "Science Advances (Lee et al. 2023): Genetic population structure of the Xiongnu Empire at imperial and local scales",
+   "url": "https://www.science.org/doi/10.1126/sciadv.adf3904"
+  }
+ },
+ {
+  "id": "m06-tashtyk-death-mask",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "About 1,700 years ago",
+  "cat": "discovery",
+  "title": "The Man Behind the Red Mask",
+  "place": "Khakassia, Russia",
+  "lat": 53.72,
+  "lng": 91.43,
+  "text": "A man of the Tashtyk culture of southern Siberia was buried wearing a painted red death mask. Hermitage researchers could not remove it without damaging him, so they used a CT scan. It revealed a gash from his left eye to his ear, stitched shut, perhaps so he would not look disfigured in the afterlife, and a hole in his skull, likely made when his brain was removed.",
+  "source": {
+   "name": "Archaeology (Archaeological Institute of America): Face Off",
+   "url": "https://archaeology.org/issues/january-february-2021/digs-discoveries/digs-russia-death-mask/"
+  }
+ },
+ {
+  "id": "m06-late-antique-little-ice-age",
+  "era": "medieval",
+  "year": 536,
+  "dateLabel": "536 CE",
+  "cat": "nature",
+  "title": "The Cold Summers Locked in Larch",
+  "place": "Altai Mountains, Altai Republic, Russia",
+  "lat": 50.1,
+  "lng": 87.8,
+  "text": "Old Siberian larch wood preserved on the ground in the Russian Altai holds a record of summer warmth. Its tree rings, read alongside trees from the Alps, show a sudden, long cooling after big volcanic eruptions in 536, 540 and 547. Scientists call the cold spell from 536 to about 660 the Late Antique Little Ice Age, and link it to movements of peoples out of the Asian steppe.",
+  "source": {
+   "name": "Nature Geoscience (Büntgen et al. 2016): Cooling and societal change during the Late Antique Little Ice Age from 536 to around 660 AD",
+   "url": "https://www.nature.com/articles/ngeo2652"
+  }
+ },
+ {
+  "id": "m06-navikat-many-faiths",
+  "era": "medieval",
+  "year": 560,
+  "dateLabel": "560–760 CE (Western Turkic and Turgesh khanates)",
+  "cat": "culture",
+  "title": "Navikat, a Town of Many Faiths",
+  "place": "Krasnaya Rechka (Navikat), Chui Region, Kyrgyzstan",
+  "lat": 42.88,
+  "lng": 74.99,
+  "text": "Under the Western Turkic and Turgesh khanates of 560–760, the Chui Valley became one of Eurasia's main centres, linked by the Northern Silk Roads to Byzantium and China. At Navikat, digs uncovered a Zoroastrian fire altar, Christian votive stones in the citadel and two Buddhist temples outside the walls, a mix of Turkic, Indian, Sogdian and Chinese cultures.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Tentative List): Silk Roads Sites in Kyrgyzstan",
+   "url": "https://whc.unesco.org/en/tentativelists/5518/"
+  }
+ },
+ {
+  "id": "m06-xuanzang-suyab",
+  "era": "medieval",
+  "year": 630,
+  "dateLabel": "630 CE",
+  "cat": "journeys",
+  "title": "Xuanzang Passes Through Suyab",
+  "place": "Ak-Beshim (Suyab), near Tokmok, Chui Region, Kyrgyzstan",
+  "lat": 42.81,
+  "lng": 75.2,
+  "text": "Xuanzang wrote that he visited Suyab in 630, a Silk Road trading town in the Chui Valley that existed from the 5th to the 11th centuries. Later in the 7th century the Tang dynasty built the Suyab Garrison here as a stronghold. Russian and Kyrgyz archaeologists have studied its ruins, now called Ak-Beshim, since 1939.",
+  "source": {
+   "name": "International Institute for Central Asian Studies (IICAS): Ak Beshim (Suyab) 2019",
+   "url": "https://www.iicas.int/press-office/News/Ak+Beshim+(Suyab)+2019"
+  }
+ },
+ {
+  "id": "m06-por-bajin-777",
+  "era": "medieval",
+  "year": 777,
+  "dateLabel": "Summer 777 CE",
+  "cat": "discovery",
+  "title": "The Island Building Dated to a Season",
+  "place": "Por-Bajin, Lake Tere-Khol, Tuva, Russia",
+  "lat": 50.62,
+  "lng": 97.38,
+  "text": "Uyghurs built a huge clay complex covering a whole island in a Tuvan mountain lake. A burst of cosmic radiation in 775 left a radiocarbon signal in tree rings, and finding it in the foundation wood showed building began in summer 777. That fits the reign of Bögü Khagan, who made Manichaeism the state religion, so it was probably a monastery, left almost unused.",
+  "source": {
+   "name": "PNAS (Kuitems et al. 2020): Radiocarbon-based approach capable of subannual precision resolves the origins of the site of Por-Bajin",
+   "url": "https://www.pnas.org/doi/full/10.1073/pnas.1921301117"
+  }
+ },
+ {
+  "id": "m06-kozy-korpesh-bayan-sulu",
+  "era": "medieval",
+  "year": 800,
+  "dateLabel": "8th–11th centuries CE",
+  "cat": "culture",
+  "title": "The Kimak Tower of Kozy-Korpesh",
+  "place": "Kozy-Korpesh–Bayan Sulu Mausoleum, Abai Region, Kazakhstan",
+  "lat": 47.93,
+  "lng": 79.78,
+  "text": "Between the 8th and 11th centuries, steppe nomads built tall stone and brick towers called dyng for ancestor rituals. One of the most remarkable still stands over 11 metres high and once held statues of a man and a woman. It is tied to the epic of Kozy-Korpesh and Bayan Sulu, but was probably built for the Kimak dynasty.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Tentative List): Monumental Monuments and Sanctuaries of the Early Steppe Tradition of Central Eurasia",
+   "url": "https://whc.unesco.org/en/tentativelists/6913/"
+  }
+ },
+ {
+  "id": "m06-balasagun-burana",
+  "era": "medieval",
+  "year": 950,
+  "dateLabel": "10th century",
+  "cat": "daily",
+  "title": "Balasagun, a City with Water Pipes",
+  "place": "Burana (Balasagun), Chui Region, Kyrgyzstan",
+  "lat": 42.75,
+  "lng": 75.25,
+  "text": "Balasagun was founded in the 10th century and became one of the capitals of the eastern Karakhanid khanate, alongside Kashgar. Archaeologists found a central fortress, craft shops, bazaars, a bathhouse and a water main with pipes from a nearby canyon. Its Muslim rulers tolerated other faiths, and Christian gravestones survive. The Mongols spared the city and renamed it Gobalik, 'good city'.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Tentative List): Silk Roads Sites in Kyrgyzstan",
+   "url": "https://whc.unesco.org/en/tentativelists/5518/"
+  }
+ },
+ {
+  "id": "m06-tash-rabat-caravanserai",
+  "era": "medieval",
+  "year": 1100,
+  "dateLabel": "11th–12th centuries",
+  "cat": "journeys",
+  "title": "A Stone Inn at 3,200 Metres",
+  "place": "Tash-Rabat, At-Bashy Valley, Naryn Region, Kyrgyzstan",
+  "lat": 40.82,
+  "lng": 75.29,
+  "text": "High in the At-Bashy valley, at 3,200 metres, caravans heading for Kashgar over the Torugart pass could shelter at Tash-Rabat. This square caravanserai of slate slabs was built in Karakhanid times, in the 11th–12th centuries, with a central corridor, a hall under a big dome and 19 smaller domes. It stayed in use until Timur's time.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Tentative List): Silk Roads Sites in Kyrgyzstan",
+   "url": "https://whc.unesco.org/en/tentativelists/5518/"
+  }
+ },
+ {
+  "id": "m06-saraychik-golden-horde",
+  "era": "medieval",
+  "year": 1250,
+  "dateLabel": "Mid-13th century",
+  "cat": "daily",
+  "title": "Saraychik, Resting Place of Khans",
+  "place": "Saraychik, Atyrau Region, Kazakhstan",
+  "lat": 47.52,
+  "lng": 51.73,
+  "text": "Batu Khan founded Saraychik on the Ural River in the mid-1200s as a stop on the Silk Road to Urgench. It became a spiritual centre of the Golden Horde, where khans such as Mengu-Timur and Zhanibek were buried. Digs in its mud-brick neighbourhoods turned up Syrian glass, Chinese porcelain, Khorezm bowls and bronze dishes from Iran.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Tentative List): Silk Roads: Volga-Caspian Corridor",
+   "url": "https://whc.unesco.org/en/tentativelists/6569/"
+  }
+ }
+]

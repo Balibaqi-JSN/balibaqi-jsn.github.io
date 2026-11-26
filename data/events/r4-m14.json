@@ -1,0 +1,390 @@
+[
+ {
+  "id": "m14-hunebeds-of-drenthe",
+  "era": "ancient",
+  "year": -3400,
+  "dateLabel": "About 3400 BCE",
+  "cat": "culture",
+  "title": "Tombs Built by Giants?",
+  "place": "Borger, Drenthe, Netherlands",
+  "lat": 52.92,
+  "lng": 6.8,
+  "text": "Around 3400 BCE the Funnel Beaker people, the first farmers in northern Europe, were building huge stone tombs called hunebeds in Drenthe. Ice Age glaciers had carried the boulders from southern Finland, and the biggest stone of the largest tomb, D27 at Borger, weighs over 20 tons. Later locals thought giants built them. Fifty-four still stand.",
+  "source": {
+   "name": "Hunebedcentrum Borger: D27 - The largest hunebed",
+   "url": "https://www.hunebedcentrum.eu/en/hunebed/"
+  },
+  "source2": {
+   "name": "Het Hunebed Nieuwscafe (Hunebedcentrum), N. Lemmers and A. Harvey: Dutch Hunebeds and the Funnel Beaker Culture",
+   "url": "https://www.hunebednieuwscafe.nl/2018/06/dutch-hunebeds-and-the-funnel-beaker-culture/"
+  }
+ },
+ {
+  "id": "m14-arbon-lakeside-village",
+  "era": "ancient",
+  "year": -3384,
+  "dateLabel": "3384 BCE",
+  "cat": "discovery",
+  "title": "A Village Dated to the Year",
+  "place": "Arbon-Bleiche 3, Thurgau, Switzerland",
+  "lat": 47.51,
+  "lng": 9.42,
+  "text": "In 3384 BCE a single house went up beside a bay of Lake Constance, and tree rings in its posts reveal the exact year. The village grew to perhaps fifty houses of white fir, home to people who ate hazelnuts, fish, frogs and red deer. In 3370 BCE the whole village burned, and it was never rebuilt.",
+  "source": {
+   "name": "Historical Dictionary of Switzerland (HLS): Arbon",
+   "url": "https://hls-dhs-dss.ch/de/articles/001852/2025-02-25/"
+  },
+  "source2": {
+   "name": "Ancient Europe 8000 B.C.-A.D. 1000: Encyclopedia of the Barbarian World (via Encyclopedia.com): Arbon-Bleiche 3",
+   "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/arbon-bleiche-3"
+  }
+ },
+ {
+  "id": "m14-greeks-found-massalia",
+  "era": "ancient",
+  "year": -600,
+  "dateLabel": "About 600 BCE",
+  "cat": "journeys",
+  "title": "Greek Colonists Found Marseille",
+  "place": "Old Port, Marseille, France",
+  "lat": 43.3,
+  "lng": 5.37,
+  "text": "Greek colonists from Phokaia in Asia Minor founded Massalia, today's Marseille, in 600 BCE. According to the story, the deal with the locals was sealed when the Greek leader married Gyptis, daughter of the Ligurian king Nannus. The city grew rich trading rare metals, set up outposts from Spain to Corsica, and kept speaking Greek until the 5th century CE.",
+  "source": {
+   "name": "The Princeton Encyclopedia of Classical Sites (Perseus Digital Library, Tufts University): Massalia",
+   "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aentry%3Dmassalia"
+  }
+ },
+ {
+  "id": "m14-lady-of-vix",
+  "era": "classical",
+  "year": -470,
+  "dateLabel": "About 470-460 BCE",
+  "cat": "culture",
+  "title": "The Lady of Vix's Giant Vase",
+  "place": "Vix, Cote-d'Or, France",
+  "lat": 47.9,
+  "lng": 4.54,
+  "text": "Around 470-460 BCE a powerful woman was buried near Vix, laid on a four-wheeled ceremonial wagon with a torc on her body. Beside her stood a bronze krater 1.64 metres tall and weighing 208.6 kilograms, made around 530 BCE in the Greek colony of Sybaris in southern Italy. Nobody knows how it reached Vix. Archaeologists found the tomb in January 1953.",
+  "source": {
+   "name": "Musee du Pays Chatillonnais - Tresor de Vix: The Vix treasure",
+   "url": "http://www.musee-vix.fr/en/visite-collection/tresor-de-vix"
+  }
+ },
+ {
+  "id": "m14-siege-of-alesia",
+  "era": "classical",
+  "year": -52,
+  "dateLabel": "52 BCE",
+  "cat": "power",
+  "title": "Caesar Traps Vercingetorix",
+  "place": "Alise-Sainte-Reine, Cote-d'Or, France",
+  "lat": 47.54,
+  "lng": 4.5,
+  "text": "In 52 BCE Vercingetorix shut his army inside the hilltop town of Alesia. Caesar's soldiers built a double ring of fortifications about 40 kilometres long, one line to keep the Gauls in and one to keep a huge Gaulish relief army out. When the battle was lost, Vercingetorix surrendered the next day, and 70,000 people were deported, most as slaves.",
+  "source": {
+   "name": "Musee d'Archeologie nationale: Vercingetorix et Alesia",
+   "url": "https://musee-archeologienationale.fr/vercingetorix-et-alesia"
+  }
+ },
+ {
+  "id": "m14-claudian-tablet",
+  "era": "classical",
+  "year": 48,
+  "dateLabel": "48 CE",
+  "cat": "power",
+  "title": "An Emperor Speaks Up for Gauls",
+  "place": "Croix-Rousse, Lyon, France",
+  "lat": 45.77,
+  "lng": 4.83,
+  "text": "In 48 CE Emperor Claudius urged the Roman Senate to let leading men from Gaul hold Roman offices and sit in the Senate. Part of his speech survives, engraved on a bronze plaque weighing 222.5 kilograms. Only 81 lines in two columns remain. The plaque was found in 1528 in a vineyard on the Croix-Rousse hill in Lyon.",
+  "source": {
+   "name": "Lugdunum, musee et theatres romains (collections): Table claudienne",
+   "url": "https://collections-lugdunum.grandlyon.com/flora_portail/ark:/53354/0021209"
+  },
+  "source2": {
+   "name": "HiSoMA (CNRS / Maison de l'Orient): TABVLA - La Table Claudienne 500 ans apres sa decouverte",
+   "url": "https://www.hisoma.mom.fr/recherche-et-activites/2021-2025/c1-lugdunum/tabvla"
+  }
+ },
+ {
+  "id": "m14-federal-charter",
+  "era": "medieval",
+  "year": 1291,
+  "dateLabel": "1291",
+  "cat": "power",
+  "title": "Three Valleys Make a Pact",
+  "place": "Schwyz, Switzerland",
+  "lat": 47.02,
+  "lng": 8.65,
+  "text": "In 1291 the communities of Uri, Schwyz and Nidwalden formed a 'perpetual league' in a document known as the Federal Charter, or Bundesbrief. It set out rules on mutual aid and resisting outside threats. Switzerland's day of remembrance, 1 August, commemorates this alliance, though historians still debate the charter's nature, authenticity and real importance.",
+  "source": {
+   "name": "Swiss American Historical Society Review (BYU ScholarsArchive), Albert Winkler: The Federal Charter of 1291 and the Founding of the Swiss State",
+   "url": "https://scholarsarchive.byu.edu/sahs_review/vol50/iss1/3/"
+  }
+ },
+ {
+  "id": "m14-golden-spurs",
+  "era": "medieval",
+  "year": 1302,
+  "dateLabel": "July 11, 1302",
+  "cat": "power",
+  "title": "Weavers Beat the Knights",
+  "place": "Kortrijk, West Flanders, Belgium",
+  "lat": 50.83,
+  "lng": 3.27,
+  "text": "On July 11, 1302, outside Kortrijk, an untrained Flemish militia made up mostly of craft guild members, especially weavers, defeated a professional force of mounted knights. They stood on ground ringed by streams and moats, so the horsemen could not charge. The battle is named for the spurs supposedly taken from the losers, and it helped start an 'infantry revolution'.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Battle of the Golden Spurs",
+   "url": "https://www.britannica.com/event/Battle-of-the-Golden-Spurs"
+  }
+ },
+ {
+  "id": "m14-saint-elizabeth-flood",
+  "era": "medieval",
+  "year": 1421,
+  "dateLabel": "November 18-19, 1421",
+  "cat": "nature",
+  "title": "The Night the Dike Broke",
+  "place": "Grote Waard, near Dordrecht, Netherlands",
+  "lat": 51.75,
+  "lng": 4.8,
+  "text": "In the night of 18-19 November 1421, a poorly maintained dike near Broek gave way and floodwater poured over the Grote Waard farmland in Holland. Later chroniclers claimed 10,000 to 100,000 victims, but one chronicle speaks of 2,000 drowned. Researchers say sinking land made the floods so catastrophic. The drowned area gradually became the Biesbosch wetland.",
+  "source": {
+   "name": "National Geographic Nederland, Esmee van Dijk: De Sint-Elisabethsvloed verdronk dorpen en vormde de Biesbosch",
+   "url": "https://www.nationalgeographic.nl/geschiedenis-archeologie/a73630005/overstromingen-sint-elisabethsvloed"
+  },
+  "source2": {
+   "name": "Utrecht University, Weerts, Cohen and Kleinhans: The 1421 St.Elisabeth flooding 'event' and the loss of De Groote Waard",
+   "url": "https://research-portal.uu.nl/en/publications/the-1421-stelisabeth-flooding-event-and-the-loss-of-de-groote-waa/"
+  }
+ },
+ {
+  "id": "m14-ghent-altarpiece",
+  "era": "medieval",
+  "year": 1432,
+  "dateLabel": "May 6, 1432",
+  "cat": "culture",
+  "title": "The Mystic Lamb Unveiled",
+  "place": "St Bavo's Cathedral, Ghent, Belgium",
+  "lat": 51.05,
+  "lng": 3.73,
+  "text": "On May 6, 1432, a huge altarpiece was installed in a chapel of St John's Church in Ghent, now St Bavo's Cathedral. Its inscription says Hubert van Eyck began it and his brother Jan finished it for Joos Vijd and his wife Elisabeth Borluut. Called 'the first major oil painting', it shows crowds gathering in paradise to worship the Lamb of God.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Emilie E.S. Gordenker: Ghent Altarpiece",
+   "url": "https://www.britannica.com/topic/Ghent-Altarpiece"
+  },
+  "source2": {
+   "name": "Sint-Baafskathedraal Gent: The Ghent Altarpiece",
+   "url": "https://www.sintbaafskathedraal.be/en/history/the-ghent-altarpiece/"
+  }
+ },
+ {
+  "id": "m14-vesalius-fabrica-basel",
+  "era": "exploration",
+  "year": 1543,
+  "dateLabel": "June 1543",
+  "cat": "discovery",
+  "title": "A New Map of the Human Body",
+  "place": "Basel, Basel-Stadt, Switzerland",
+  "lat": 47.56,
+  "lng": 7.59,
+  "text": "In June 1543 the Basel printer Johannes Oporinus published De humani corporis fabrica, a giant anatomy book by Andreas Vesalius, a professor of anatomy at Padua. Vesalius relied heavily on the ancient doctor Galen, but he did his own dissections, confirming some of Galen's claims and refuting others. The book's woodcuts, by several artists linked to Titian's workshop, shaped anatomy pictures for centuries.",
+  "source": {
+   "name": "U.S. National Library of Medicine, Historical Anatomies on the Web: Andreas Vesalius",
+   "url": "https://www.nlm.nih.gov/exhibition/historicalanatomies/vesalius_bio.html"
+  },
+  "source2": {
+   "name": "U.S. National Library of Medicine, Historical Anatomies on the Web: Vesalius, Bibliographic Information",
+   "url": "https://www.nlm.nih.gov/exhibition/historicalanatomies/vesalius_biblio.html"
+  }
+ },
+ {
+  "id": "m14-night-watch",
+  "era": "exploration",
+  "year": 1642,
+  "dateLabel": "1642",
+  "cat": "culture",
+  "title": "Rembrandt's Marching Militia",
+  "place": "Amsterdam, North Holland, Netherlands",
+  "lat": 52.37,
+  "lng": 4.9,
+  "text": "In 1642 Rembrandt signed and dated a huge group portrait, 379.5 by 453.5 centimetres, for the great hall of the headquarters of one of Amsterdam's civic guard companies. It shows Captain Frans Banninck Cocq, dressed in black, telling his lieutenant to start the company marching as the guardsmen get into formation. The famous name, The Night Watch, only came into use in the late 18th century.",
+  "source": {
+   "name": "Rijksmuseum: The Night Watch, Rembrandt van Rijn, 1642 (SK-C-5)",
+   "url": "https://www.rijksmuseum.nl/en/collection/SK-C-5"
+  }
+ },
+ {
+  "id": "m14-merian-sails-to-suriname",
+  "era": "exploration",
+  "year": 1699,
+  "dateLabel": "1699",
+  "cat": "journeys",
+  "title": "An Artist Sails for Butterflies",
+  "place": "Amsterdam, North Holland, Netherlands",
+  "lat": 52.36,
+  "lng": 4.88,
+  "text": "In 1699 Maria Sibylla Merian, an artist who ran a workshop in Amsterdam with her daughters, set off for Suriname with her youngest daughter, Dorothea Maria Graff. To help pay, she sold paintings and much of her collection. The two women raised insects and recorded how they changed, until illness, possibly malaria, sent them home in 1701. Her 1705 book had 60 hand-coloured engravings.",
+  "source": {
+   "name": "Rijksmuseum: 10 things to know about Maria Sibylla Merian's insects of Suriname",
+   "url": "https://www.rijksmuseum.nl/en/stories/10-things/story/maria-sibylla-merian-en"
+  },
+  "source2": {
+   "name": "Science History Institute: Maria Sibylla Merian",
+   "url": "https://www.sciencehistory.org/education/scientific-biographies/maria-sibylla-merian/"
+  }
+ },
+ {
+  "id": "m14-first-ascent-mont-blanc",
+  "era": "exploration",
+  "year": 1786,
+  "dateLabel": "1786",
+  "cat": "journeys",
+  "title": "Doctor and Porter Top Mont Blanc",
+  "place": "Mont Blanc, near Chamonix, Haute-Savoie, France",
+  "lat": 45.83,
+  "lng": 6.86,
+  "text": "In 1786 Michel-Gabriel Paccard, a doctor from Chamonix, and his porter Jacques Balmat became the first people to reach the summit of Mont Blanc, the highest peak in Europe. It was one of the most important climbs in mountaineering history. But Marc-Theodore Bourrit, who had failed to climb it, jealously published a biased account, starting the myth that Balmat deserved all the credit.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Mont Blanc",
+   "url": "https://www.britannica.com/place/Mont-Blanc-mountain-Europe"
+  }
+ },
+ {
+  "id": "m14-frankenstein-summer",
+  "era": "industrial",
+  "year": 1816,
+  "dateLabel": "Summer 1816",
+  "cat": "culture",
+  "title": "A Ghost Story Contest by the Lake",
+  "place": "Villa Diodati, Cologny, Geneva, Switzerland",
+  "lat": 46.22,
+  "lng": 6.17,
+  "text": "In the summer of 1816, Byron, Percy Shelley, Mary, then 18, and John Polidori gathered at a house on Lake Geneva. The eruption of Mount Tambora had brought an unusually cold, dark and wet summer, so Byron challenged each of them to devise a ghost story. At the Villa Diodati, Mary first thought of Frankenstein, and Polidori produced the world's first published vampire story.",
+  "source": {
+   "name": "The Conversation, Richard Gunderman (Indiana University): How a volcano in Indonesia led to the creation of Frankenstein",
+   "url": "https://theconversation.com/how-a-volcano-in-indonesia-led-to-the-creation-of-frankenstein-65293"
+  }
+ },
+ {
+  "id": "m14-opera-sparks-belgium",
+  "era": "industrial",
+  "year": 1830,
+  "dateLabel": "August 25, 1830",
+  "cat": "power",
+  "title": "The Opera That Started a Country",
+  "place": "Theatre de la Monnaie, Brussels, Belgium",
+  "lat": 50.85,
+  "lng": 4.35,
+  "text": "On August 25, 1830, the Theatre de la Monnaie in Brussels staged Daniel Auber's opera La Muette de Portici. The patriotic song 'Amour sacre de la Patrie' brought the audience to its feet and into the streets, and the protest grew into a revolt against Dutch rule. Belgian independence was proclaimed on October 4, and the London Conference recognised it in January 1831.",
+  "source": {
+   "name": "EBSCO Research Starters, Edward P. Keleher and Bernard A. Cook: Belgian Revolution",
+   "url": "https://www.ebsco.com/research-starters/history/belgian-revolution/"
+  }
+ },
+ {
+  "id": "m14-luxembourg-fortress-dismantled",
+  "era": "industrial",
+  "year": 1867,
+  "dateLabel": "1867",
+  "cat": "power",
+  "title": "A Fortress Taken Apart for Peace",
+  "place": "Luxembourg City, Luxembourg",
+  "lat": 49.61,
+  "lng": 6.13,
+  "text": "At the London Conference of 1867, Luxembourg was declared neutral. The Prussian garrison left the city and work began on dismantling its mighty fortress, which had grown up around the castle Count Siegfried built on the Bock promontory after 963. Taking the fortress apart took 16 years, finishing in 1883, and cost more than 1.8 million gold francs.",
+  "source": {
+   "name": "Ville de Luxembourg: From castle to fortress",
+   "url": "https://vdl.lu/en/node/2666"
+  }
+ },
+ {
+  "id": "m14-einstein-miracle-year",
+  "era": "industrial",
+  "year": 1905,
+  "dateLabel": "March to September 1905",
+  "cat": "discovery",
+  "title": "Einstein's Big Year in Bern",
+  "place": "Kramgasse 49, Bern, Switzerland",
+  "lat": 46.95,
+  "lng": 7.45,
+  "text": "From March to September 1905, Albert Einstein, a technical expert at the patent office in Bern, surprised the world of physics with five papers on three topics. He explained the long-puzzling Brownian motion, wrote on the energetic properties of light and the 'electrodynamics of moving bodies', and showed that energy and mass are equivalent, as captured in E = mc2.",
+  "source": {
+   "name": "Einstein House Bern (Albert Einstein Society): Einstein and Bern",
+   "url": "https://www.einstein-bern.ch/einstein-and-bern/"
+  }
+ },
+ {
+  "id": "m14-cabaret-voltaire-dada",
+  "era": "modern",
+  "year": 1916,
+  "dateLabel": "February 1916",
+  "cat": "culture",
+  "title": "Nonsense Nights at Cabaret Voltaire",
+  "place": "Spiegelgasse 1, Zurich, Switzerland",
+  "lat": 47.37,
+  "lng": 8.54,
+  "text": "In February 1916 Hugo Ball and Emmy Hennings, German performers who had fled the war to neutral Switzerland, turned a Zurich cafe into the Cabaret Voltaire. It lasted only five months, but its poetry readings, dances, masks and Hennings's handmade puppets laid the foundations of Dada. Friends recited 'simultaneous' poems mixing words with drawn-out syllables, gurgles and whistles.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Leonard A. Lauder Research Center: Hugo Ball and Emmy Hennings",
+   "url": "https://www.metmuseum.org/research-centers/leonard-a-lauder-research-center/research-resources/modern-art-index-project/ball-and-hennings"
+  }
+ },
+ {
+  "id": "m14-frank-family-hides",
+  "era": "modern",
+  "year": 1942,
+  "dateLabel": "July 6, 1942",
+  "cat": "daily",
+  "title": "Behind the Opekta Building",
+  "place": "Prinsengracht 263, Amsterdam, Netherlands",
+  "lat": 52.38,
+  "lng": 4.88,
+  "text": "On 6 July 1942 the Frank family went into hiding in the Secret Annex of the Opekta company building at Prinsengracht 263, Amsterdam. They moved ten days earlier than planned because Margot had received a call-up to work in Germany, and left a note suggesting they had fled the country. Anne, given a diary for her 13th birthday, hid there until the arrest of 4 August 1944.",
+  "source": {
+   "name": "Anne Frank House Research: Frank family in hiding",
+   "url": "https://research.annefrank.org/en/gebeurtenissen/b9781179-f22b-4234-a686-ee696a1c144e/"
+  },
+  "source2": {
+   "name": "Anne Frank House: 1942 Going into hiding",
+   "url": "https://www.annefrank.org/annes-wereld/en/anne-frank/1942-going-into-hiding"
+  }
+ },
+ {
+  "id": "m14-north-sea-flood-1953",
+  "era": "modern",
+  "year": 1953,
+  "dateLabel": "January 31 - February 1, 1953",
+  "cat": "nature",
+  "title": "The Sea Breaks Through",
+  "place": "Ouwerkerk, Zeeland, Netherlands",
+  "lat": 51.62,
+  "lng": 3.98,
+  "text": "On the night of 31 January to 1 February 1953, the sea tore 96 large and nearly 400 small breaches in the Dutch dikes. An area of 200,000 hectares flooded, and 1,836 people drowned along with 182,000 animals. Within twenty days the government set up a Delta Committee to plan better protection, leading to the Delta Act and the Delta Works.",
+  "source": {
+   "name": "Watersnoodmuseum: The history of the Delta Works",
+   "url": "https://watersnoodmuseum.nl/en/water-knowledge/learn-about-water-safety/articles/the-history-the-delta-works"
+  }
+ },
+ {
+  "id": "m14-swiss-women-vote",
+  "era": "modern",
+  "year": 1971,
+  "dateLabel": "February 7, 1971",
+  "cat": "power",
+  "title": "Swiss Women Finally Get the Vote",
+  "place": "Federal Palace, Bern, Switzerland",
+  "lat": 46.95,
+  "lng": 7.44,
+  "text": "On February 7, 1971, Swiss women won the right to vote and stand for election nationally, after two-thirds of the country's men approved it. In 1959 voters had refused, by 66.9% to 33%. When the first women took their seats in parliament, each was welcomed with a rose. Women in Appenzell Inner Rhodes had to wait until 1990 to vote there.",
+  "source": {
+   "name": "The Swiss Parliament: Women's suffrage in Switzerland, 100 years of struggle",
+   "url": "https://www.parlament.ch/en/%C3%BCber-das-parlament/political-women/conquest-of-equal-rights/women-suffrage"
+  },
+  "source2": {
+   "name": "SWI swissinfo.ch: The long road to women's suffrage in Switzerland",
+   "url": "https://www.swissinfo.ch/eng/archive-democracy/the-long-road-to-women-s-suffrage-in-switzerland/46353984"
+  }
+ }
+]

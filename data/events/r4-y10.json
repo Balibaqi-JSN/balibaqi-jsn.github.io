@@ -1,0 +1,266 @@
+[
+ {
+  "id": "y10-sechin-bajo-sunken-plaza",
+  "era": "ancient",
+  "year": -3500,
+  "dateLabel": "Between 3500 and 3000 BCE",
+  "cat": "discovery",
+  "title": "Peru's Oldest Known Monument",
+  "place": "Sechín Bajo, Casma, Áncash, Peru",
+  "lat": 9.47,
+  "lng": -78.24,
+  "text": "In the Andes foothills of Casma, people built a circular, sunken plaza of stones and adobe. Carbon dating announced in 2008 placed it between 3500 and 3000 BCE, making it the oldest known monument in Peru. Excavation leader Peter Fuchs said the plaza was a social and ritual space where people celebrated their thoughts about the world and their place within it.",
+  "source": {
+   "name": "Taipei Times (AP): Scientists discover oldest Peruvian monument",
+   "url": "https://www.taipeitimes.com/News/world/archives/2008/02/27/2003403086"
+  }
+ },
+ {
+  "id": "y10-chalcatzingo-earth-monster",
+  "era": "ancient",
+  "year": -800,
+  "dateLabel": "Between 800 and 400 BCE",
+  "cat": "culture",
+  "title": "The Earth Monster Comes Home",
+  "place": "Chalcatzingo, Jantetelco, Morelos, Mexico",
+  "lat": 18.68,
+  "lng": -98.77,
+  "text": "At Chalcatzingo in Morelos, the only Olmec-linked settlement founded in the Central Highlands, carvers made a one-ton relief of an \"Earth monster\" whose open jaws mark a passage to the underworld, with bromeliad-like plants sprouting from its mouth. Monument 9 dates from 800 to 400 BCE. Illegally removed from Mexico, it was recovered in New York and announced for return in 2023.",
+  "source": {
+   "name": "Secretaría de Relaciones Exteriores (Mexico): Chalcatzingo Monument 9 to be repatriated to Mexico",
+   "url": "https://www.gob.mx/sre/prensa/chalcatzingo-monument-9-to-be-repatriated-to-mexico"
+  }
+ },
+ {
+  "id": "y10-teopantecuanitlan",
+  "era": "ancient",
+  "year": -1400,
+  "dateLabel": "1400 to 600 BCE",
+  "cat": "culture",
+  "title": "An Olmec-Style City in Guerrero",
+  "place": "Teopantecuanitlán, Copalillo, Guerrero, Mexico",
+  "lat": 17.92,
+  "lng": -98.98,
+  "text": "Teopantecuanitlán, south-east of Iguala, flourished from 1400 to 600 BCE and is unique in the region for its monumental Olmec-style architecture. Archaeologist Guadalupe Martínez Donjuan pioneered its study. Villagers of the Alto Balsas region call it their most sacred place, and since 2024 its site museum labels have been written first in Náhuatl, translated by local teachers.",
+  "source": {
+   "name": "INAH Boletín 777: Concluye rehabilitación de la Zona Arqueológica Teopantecuanitlán",
+   "url": "https://www.inah.gob.mx/images/boletines/2024/777/Boletin%20777.pdf"
+  },
+  "source2": {
+   "name": "INAH Boletín 552: El INAH reconoce labor arqueológica de Guadalupe Martínez Donjuan",
+   "url": "https://www.inah.gob.mx/images/boletines/2025/552/Boletin%20552.pdf"
+  }
+ },
+ {
+  "id": "y10-malagana-gold-cemetery",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "300 BCE to 140 CE",
+  "cat": "discovery",
+  "title": "Gold Masks Under the Sugar Cane",
+  "place": "Hacienda Malagana, El Bolo, Palmira, Valle del Cauca, Colombia",
+  "lat": 3.48,
+  "lng": -76.33,
+  "text": "Beneath sugar-cane fields in Colombia's Cauca Valley lay the rich cemetery of a culture now named Malagana, carbon-dated to 300 BCE to 140 CE. Chiefs were buried in stone-lined tombs with several fine gold masks over their faces. Its discovery in 1992 set off a gold rush and looting, but Colombia's central bank saved about 150 gold pieces for the Museo del Oro.",
+  "source": {
+   "name": "Boletín Museo del Oro (Banco de la República): Los tesoros de los señores de Malagana",
+   "url": "https://publicaciones.banrepcultural.org/index.php/bmo/article/download/6992/7238/14190"
+  }
+ },
+ {
+  "id": "y10-khonkho-tephra",
+  "era": "classical",
+  "year": 400,
+  "dateLabel": "Sometime between 400 and 720 CE",
+  "cat": "nature",
+  "title": "A Mystery Eruption Near Lake Titicaca",
+  "place": "Khonkho Wankane, Jesús de Machaca, La Paz, Bolivia",
+  "lat": -16.98,
+  "lng": -68.98,
+  "text": "Sometime between 400 and 720 CE, a huge explosive eruption showered ash across the southern Lake Titicaca Basin, even though the nearest active volcano is far away. Scientists found the layer at Khonkho Wankane and two other sites. In those same centuries many communities moved to Tiwanaku, where one of the Andes' first large complex societies was born. The source volcano is still unknown.",
+  "source": {
+   "name": "USGS Publications Warehouse: The Khonkho tephra (Marsh, Harpel and Damby, The Holocene, 2024)",
+   "url": "https://pubs.usgs.gov/publication/70259783"
+  }
+ },
+ {
+  "id": "y10-guachimontones-circles",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "Peak between 200 BCE and 350 CE",
+  "cat": "culture",
+  "title": "Round Pyramids in Tequila Country",
+  "place": "Guachimontones, Teuchitlán, Jalisco, Mexico",
+  "lat": 20.69,
+  "lng": -103.84,
+  "text": "Above the town of Teuchitlán stand circular pyramids unlike any others, built by the Teuchitlán tradition, which peaked between 200 BCE and 350 CE. More than 50,000 people may have lived near the Tequila volcano, trading as far as Guatemala and Arizona. Art historian Celia García de Weigand and her husband Phil spent about 30 years studying this West Mexican civilization.",
+  "source": {
+   "name": "Archaeology (Archaeological Institute of America): Surprise Finds in Tequila Country",
+   "url": "https://archive.archaeology.org/0611/abstracts/agave.html"
+  }
+ },
+ {
+  "id": "y10-monte-castelo-rice",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 4,000 years ago",
+  "cat": "discovery",
+  "title": "Amazon Farmers Tame Wild Rice",
+  "place": "Monte Castelo shell mound, Rondônia, Brazil",
+  "lat": -12.42,
+  "lng": -63.35,
+  "text": "At the Monte Castelo shell mound in south-west Amazonia, people learned to manipulate wild rice so it gave larger grains and bigger crops, beginning roughly 4,000 years ago. A Brazilian and British team studied 16 samples of microscopic rice residue there. It is the first evidence of rice domestication in the Americas, though the know-how may have been lost after European colonizers arrived.",
+  "source": {
+   "name": "Revista Pesquisa FAPESP: Rice domesticated in the Amazon 4,000 years ago",
+   "url": "https://revistapesquisa.fapesp.br/en/rice-domesticated-in-the-amazon-4000-years-ago/"
+  }
+ },
+ {
+  "id": "y10-caracol-first-king",
+  "era": "classical",
+  "year": 331,
+  "dateLabel": "331 CE",
+  "cat": "power",
+  "title": "Caracol Crowns Its First King",
+  "place": "Caracol, Cayo District, Belize",
+  "lat": 16.76,
+  "lng": -89.12,
+  "text": "In 331 CE Te K'ab Chaak took the throne at Caracol, founding the royal dynasty of what became the largest Maya site in Belize. In 2025 archaeologists Diane and Arlen Chase found what they identify as his tomb. The toothless old king lay with jadeite jewelry, a jadeite mosaic mask, Pacific spondylus shells and a vessel showing Ek Chuah, god of traders.",
+  "source": {
+   "name": "University of Houston: Archaeologists Discover Tomb of First King of Caracol",
+   "url": "https://www.uh.edu/news-events/stories/2025/july/07102025-caracol-chase-discovery-maya-ruler.php"
+  }
+ },
+ {
+  "id": "y10-ceibal-plateau",
+  "era": "ancient",
+  "year": -950,
+  "dateLabel": "About 950 BCE",
+  "cat": "daily",
+  "title": "A Plateau Built by Many Hands",
+  "place": "Ceibal, Sayaxché, Petén, Guatemala",
+  "lat": 16.51,
+  "lng": -90.06,
+  "text": "Around 950 BCE, people above Guatemala's Pasión River began a vast artificial plateau, later 600 by 340 metres, with a formal ceremonial complex at its centre. Lowland Maya were then turning to maize farming, settled village life and pottery, and neighbours who still moved home from time to time probably helped build it. Unlike a pyramid top, the open plateau probably welcomed everyone.",
+  "source": {
+   "name": "PLOS ONE (PMC): Artificial plateau construction during the Preclassic period at the Maya site of Ceibal, Guatemala (Inomata et al., 2019)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6716660/"
+  }
+ },
+ {
+  "id": "y10-tetimpa-popocatepetl",
+  "era": "classical",
+  "year": 1,
+  "dateLabel": "About the start of the Common Era",
+  "cat": "nature",
+  "title": "A Village Under Popocatépetl's Ash",
+  "place": "Tetimpa, San Nicolás de los Ranchos, Puebla, Mexico",
+  "lat": 19.05,
+  "lng": -98.53,
+  "text": "Around the beginning of the Common Era, ash from Popocatépetl buried the farming village of Tetimpa on the volcano's north-eastern flank. Villagers left so quickly that household goods stayed where they were. Each home had rooms of wattle and daub on stone platforms around a patio, with a small shrine at its centre, showing the volcano was part of family worship.",
+  "source": {
+   "name": "Latin American Antiquity (Cambridge Core): Preclassic Household Patterns Preserved under Volcanic Ash at Tetimpa, Puebla, Mexico (Plunket and Uruñuela)",
+   "url": "https://www.cambridge.org/core/journals/latin-american-antiquity/article/preclassic-household-patterns-preserved-under-volcanic-ash-at-tetimpa-puebla-mexico/F5213BDFBA82D19F7C1AAC83A3FD2A75"
+  }
+ },
+ {
+  "id": "y10-tulor-mud-village",
+  "era": "classical",
+  "year": -380,
+  "dateLabel": "About 380 BCE",
+  "cat": "daily",
+  "title": "A Mud Village Saved by Sand Dunes",
+  "place": "Tulor, San Pedro de Atacama, Antofagasta, Chile",
+  "lat": -22.94,
+  "lng": -68.25,
+  "text": "Around 380 BCE, farming pioneers from the oases near San Pedro de Atacama gave rise to the village of Tulor. Its round mud buildings were later linked by a complex system of entrances, passages and vestibules as the village grew. Oasis people farmed with the rivers' outflows and gathered chañar and algarrobo fruit. Tulor's mud walls survived because sand dunes covered them.",
+  "source": {
+   "name": "Estudios Atacameños (Universidad Católica del Norte): Agüero, Aproximación al asentamiento humano temprano en los oasis de San Pedro de Atacama (2005)",
+   "url": "https://www.redalyc.org/pdf/315/31503003.pdf"
+  }
+ },
+ {
+  "id": "y10-monagrillo-pottery",
+  "era": "ancient",
+  "year": -2610,
+  "dateLabel": "About 2610 BCE (radiocarbon date)",
+  "cat": "daily",
+  "title": "Panama's First Potters",
+  "place": "Monagrillo (He-5), Parita Bay, Herrera, Panama",
+  "lat": 7.99,
+  "lng": -80.43,
+  "text": "On the shores of Panama's Parita Bay, some of the region's first potters made simple open bowls of crumbly, sandy clay, often greyish, sometimes coated with red slip and only rarely decorated with incised curving lines. A radiocarbon date for this Monagrillo ware at its namesake site centred on about 2610 BCE. Later finds in inland rock shelters showed these potters ranged widely.",
+  "source": {
+   "name": "Revista Española de Antropología Americana: Sánchez Herrera, Componentes cerámicos de Cerro Cebollal (LP-134), La Pintada, Coclé (2007)",
+   "url": "https://revistas.ucm.es/index.php/REAA/article/download/REAA0707120159A/23189/24350"
+  }
+ },
+ {
+  "id": "y10-huaca-partida-reliefs",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 3,000 years ago",
+  "cat": "culture",
+  "title": "A Clay Bird of Prey on a Temple",
+  "place": "Huaca Partida, Nepeña Valley, Áncash, Peru",
+  "lat": -9.17,
+  "lng": -78.37,
+  "text": "At the ruins of Huaca Partida in northern Peru, archaeologist Koichiro Shibata uncovered temple reliefs of a man and a bird of prey made about 3,000 years ago; one is believed to be 3 metres high. Clay reliefs rarely survive the weather, but this temple stayed well preserved because it was covered with stones when a later temple was built on top.",
+  "source": {
+   "name": "Andina (Peru News Agency): Reliefs of man, bird discovered in Peru",
+   "url": "https://andina.pe/Ingles/noticia-reliefs-of-man-bird-discovered-in-peru-480100.aspx"
+  }
+ },
+ {
+  "id": "y10-izapa-disruption",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "Some time before 100 CE",
+  "cat": "power",
+  "title": "Izapa's Plazas Fall Silent",
+  "place": "Izapa, Tuxtla Chico, Chiapas, Mexico",
+  "lat": 14.92,
+  "lng": -92.18,
+  "text": "Izapa became the Soconusco region's first urban centre, and at its peak in 300 to 100 BCE a dozen plazas were lined with stelae and altars carved with complex narrative scenes. Then, some time before 100 CE, a violent disruption left central parts of the town abandoned. Later residents moved to a group of mounds to the north and reset older stelae there.",
+  "source": {
+   "name": "University at Albany: Izapa Regional Settlement Project, Project History",
+   "url": "https://www.albany.edu/anthropology/research/izapa-regional-settlement-project"
+  }
+ },
+ {
+  "id": "y10-coctaca-terraces",
+  "era": "classical",
+  "year": 500,
+  "dateLabel": "About 1,500 years ago",
+  "cat": "daily",
+  "title": "Terraced Fields Still Farmed Today",
+  "place": "Coctaca, Quebrada de Humahuaca, Jujuy, Argentina",
+  "lat": -23.15,
+  "lng": -65.29,
+  "text": "In the Quebrada de Humahuaca, a valley used as a major trade route for some 10,000 years, farmers began building the extensive stone-walled terrace fields of Coctaca around 1,500 years ago. They are still in use today. Between 400 and 900 CE, large structured farming societies lived in the valley, and the terraces are linked to a string of fortified towns called pucaras.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Quebrada de Humahuaca",
+   "url": "https://whc.unesco.org/en/list/1116"
+  }
+ },
+ {
+  "id": "y10-llolleo-central-chile",
+  "era": "classical",
+  "year": 150,
+  "dateLabel": "From about 150 CE",
+  "cat": "daily",
+  "title": "Duck-Shaped Jugs of Central Chile",
+  "place": "Central Chile, between the Aconcagua and Cachapoal rivers, Chile",
+  "lat": -33.6,
+  "lng": -70.9,
+  "text": "From about 150 CE, the Llolleo people of Central Chile grew maize and quinoa, ground grain into flour and kept tame guanacos. Skilled potters, they made duck-shaped jugs and faces with \"coffee bean\" eyes. Many pipes found at large gathering places suggest smoking was central to their rituals, and they buried their dead beneath house floors, children in pottery urns.",
+  "source": {
+   "name": "Museo Chileno de Arte Precolombino (Chile Precolombino): Llolleo Culture 150–900 CE",
+   "url": "https://chileprecolombino.cl/wp/wp-content/uploads/2010/12/center-llolleo.pdf"
+  },
+  "source2": {
+   "name": "Museo Chileno de Arte Precolombino: Llolleo, Culto y Funebria",
+   "url": "https://chileprecolombino.cl/en/prehistoria/culturas/centro/llolleo/culto-y-funebria/"
+  }
+ }
+]

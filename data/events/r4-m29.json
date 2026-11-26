@@ -1,0 +1,370 @@
+[
+ {
+  "id": "m29-komagata-maru",
+  "era": "modern",
+  "year": 1914,
+  "dateLabel": "May 23 – July 23, 1914",
+  "cat": "journeys",
+  "title": "The Komagata Maru Is Turned Away",
+  "place": "Vancouver harbour, British Columbia, Canada",
+  "lat": 49.29,
+  "lng": -123.11,
+  "text": "In May 1914 the Komagata Maru anchored in Vancouver's harbour with 376 passengers, many of them Punjabi, challenging rules designed to keep immigrants from India out of Canada. Friends on shore sent food and water as conditions on board grew desperate. On July 23, 355 passengers left for Asia; 20 were later killed in a clash with police and troops at Budge Budge near Kolkata.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Komagata Maru (Guru Nanak Jahaz)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/komagata-maru"
+  }
+ },
+ {
+  "id": "m29-halifax-explosion",
+  "era": "modern",
+  "year": 1917,
+  "dateLabel": "December 6, 1917",
+  "cat": "daily",
+  "title": "The Halifax Explosion",
+  "place": "Halifax, Nova Scotia, Canada",
+  "lat": 44.67,
+  "lng": -63.59,
+  "text": "After colliding with another ship, the French munitions ship Mont-Blanc burned for nearly 20 minutes, then exploded at 9:04 a.m., one of the largest human-made blasts before 1945. Railway dispatcher Vincent Coleman stayed at his telegraph key warning trains away and was killed. Nearly 2,000 people died, and Halifax still sends Boston a Christmas tree each year to thank it for its help.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Halifax Explosion",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/halifax-explosion"
+  }
+ },
+ {
+  "id": "m29-winnipeg-general-strike",
+  "era": "modern",
+  "year": 1919,
+  "dateLabel": "May 15 – June 25, 1919",
+  "cat": "power",
+  "title": "Winnipeg Walks Off the Job",
+  "place": "Winnipeg, Manitoba, Canada",
+  "lat": 49.9,
+  "lng": -97.14,
+  "text": "Within hours of the call on May 15, 1919, almost 30,000 men and women in Winnipeg left their jobs, from police and firemen to telephone operators. They wanted collective bargaining, better wages and better working conditions. On Bloody Saturday, June 21, violence killed two people and federal troops occupied the streets. It remains the largest strike in Canadian history.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Winnipeg General Strike of 1919",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/winnipeg-general-strike"
+  }
+ },
+ {
+  "id": "m29-group-of-seven",
+  "era": "modern",
+  "year": 1920,
+  "dateLabel": "May 7, 1920",
+  "cat": "culture",
+  "title": "The Group of Seven's First Show",
+  "place": "Art Gallery of Toronto, Toronto, Ontario, Canada",
+  "lat": 43.65,
+  "lng": -79.39,
+  "text": "Seven Toronto painters, most of whom earned their living as commercial artists, held their first exhibition at the Art Gallery of Toronto on May 7, 1920. Influenced by their peer Tom Thomson, who had died in 1917, they painted the rugged, wind-swept forests of the Canadian Shield and presented themselves as Canada's first national school of painters.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Group of Seven",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/group-of-seven"
+  }
+ },
+ {
+  "id": "m29-tulsa-race-massacre",
+  "era": "modern",
+  "year": 1921,
+  "dateLabel": "May 31 – June 1, 1921",
+  "cat": "power",
+  "title": "Greenwood Burns in Tulsa",
+  "place": "Greenwood District, Tulsa, Oklahoma, USA",
+  "lat": 36.16,
+  "lng": -95.99,
+  "text": "Greenwood was a vibrant Black neighbourhood in Tulsa, with two newspapers, churches, a library branch and many Black-owned businesses. During eighteen terrible hours on May 31 and June 1, 1921, more than one thousand homes and businesses there were destroyed, and credible estimates of the dead range from fifty to three hundred. Black Tulsans began rebuilding within days, though many families never recovered.",
+  "source": {
+   "name": "Oklahoma Historical Society, Encyclopedia of Oklahoma History and Culture: Tulsa Race Massacre",
+   "url": "https://www.okhistory.org/publications/enc/entry?entry=TU013"
+  }
+ },
+ {
+  "id": "m29-pluto-found",
+  "era": "modern",
+  "year": 1930,
+  "dateLabel": "February 18, 1930",
+  "cat": "discovery",
+  "title": "A Kansas Farm Boy Finds Pluto",
+  "place": "Lowell Observatory, Flagstaff, Arizona, USA",
+  "lat": 35.2,
+  "lng": -111.66,
+  "text": "Clyde Tombaugh was a farm boy from Kansas who won a job at Lowell Observatory after sending sketches of planets seen through his homemade telescope. Comparing glass photographic plates in a blink comparator, he spotted Pluto on February 18, 1930. A girl named Venetia Burney suggested naming it after the Roman god of the underworld, and the observatory chose her name.",
+  "source": {
+   "name": "Lowell Observatory: Secrets of Lowell, The Pluto Discovery Dome",
+   "url": "https://lowell.edu/plutodome/"
+  },
+  "source2": {
+   "name": "NASA Science: Pluto Facts",
+   "url": "https://science.nasa.gov/dwarf-planets/pluto/facts/"
+  }
+ },
+ {
+  "id": "m29-hoover-dam-finished",
+  "era": "modern",
+  "year": 1936,
+  "dateLabel": "Completed March 1, 1936",
+  "cat": "discovery",
+  "title": "Hoover Dam Tames the Colorado",
+  "place": "Black Canyon, Nevada–Arizona border, USA",
+  "lat": 36.02,
+  "lng": -114.74,
+  "text": "During the Great Depression, thousands of families came to Black Canyon to build the largest dam of its time across the Colorado River. In all, 21,000 men worked on it, pouring three and one-quarter million cubic yards of concrete. To cool the concrete, ice water was pumped through more than 582 miles of steel pipe, and all features were finished by March 1, 1936.",
+  "source": {
+   "name": "U.S. Bureau of Reclamation: Hoover Dam Frequently Asked Questions",
+   "url": "https://www.usbr.gov/lc/hooverdam/faqs/damfaqs.html"
+  },
+  "source2": {
+   "name": "U.S. Bureau of Reclamation: The Story of Hoover Dam",
+   "url": "https://www.usbr.gov/lc/hooverdam/history/storymain.html"
+  }
+ },
+ {
+  "id": "m29-marian-anderson",
+  "era": "modern",
+  "year": 1939,
+  "dateLabel": "April 9, 1939 (Easter Sunday)",
+  "cat": "culture",
+  "title": "Marian Anderson Sings for 75,000",
+  "place": "Lincoln Memorial, Washington, D.C., USA",
+  "lat": 38.89,
+  "lng": -77.05,
+  "text": "Constitution Hall, the only Washington venue big enough for contralto Marian Anderson's usual audience, banned Black performers. First Lady Eleanor Roosevelt quit the organisation that owned it in protest, and an outdoor concert was arranged instead. On Easter Sunday 1939, Anderson opened with \"My Country, 'Tis of Thee\" before an integrated crowd of 75,000. The whole concert lasted 25 minutes.",
+  "source": {
+   "name": "National Park Service: Marian Anderson and Constitution Hall",
+   "url": "https://www.nps.gov/articles/000/marian-anderson-and-constitution-hall.htm"
+  }
+ },
+ {
+  "id": "m29-jackie-robinson",
+  "era": "modern",
+  "year": 1947,
+  "dateLabel": "April 15, 1947",
+  "cat": "daily",
+  "title": "Jackie Robinson Takes the Field",
+  "place": "Ebbets Field, Brooklyn, New York, USA",
+  "lat": 40.67,
+  "lng": -73.96,
+  "text": "In front of 26,623 fans at Ebbets Field, Jackie Robinson started at first base for the Brooklyn Dodgers, the first African American in the major leagues since 1884. He went hitless but reached base on an error and scored the go-ahead run against the Boston Braves. Despite all the uproar around him, he won baseball's first ever Rookie of the Year Award.",
+  "source": {
+   "name": "National Baseball Hall of Fame: Robinson debuts five days after signing with Dodgers",
+   "url": "https://baseballhall.org/discover/inside-pitch/robinson-signs-first-big-league-contract"
+  }
+ },
+ {
+  "id": "m29-henrietta-lacks",
+  "era": "modern",
+  "year": 1951,
+  "dateLabel": "1951",
+  "cat": "discovery",
+  "title": "Henrietta Lacks's Cells Live On",
+  "place": "Johns Hopkins Hospital, Baltimore, Maryland, USA",
+  "lat": 39.3,
+  "lng": -76.59,
+  "text": "In 1951 Henrietta Lacks, a young mother of five, was treated for cervical cancer at Johns Hopkins. A sample of her cells went to Dr. George Gey's lab, where other samples quickly died but hers doubled every 20 to 24 hours. She died at 31, but her \"HeLa\" cells, collected under the looser rules of the 1950s, helped develop the polio and COVID-19 vaccines.",
+  "source": {
+   "name": "Johns Hopkins Medicine: The Legacy of Henrietta Lacks",
+   "url": "https://www.hopkinsmedicine.org/henrietta-lacks"
+  }
+ },
+ {
+  "id": "m29-little-rock-nine",
+  "era": "modern",
+  "year": 1957,
+  "dateLabel": "September 25, 1957",
+  "cat": "power",
+  "title": "The Little Rock Nine Walk In",
+  "place": "Central High School, Little Rock, Arkansas, USA",
+  "lat": 34.74,
+  "lng": -92.3,
+  "text": "In September 1957, Arkansas's governor used the National Guard to keep Black students out of Little Rock's Central High, and an angry mob of over 1,000 gathered outside. President Eisenhower sent the 101st Airborne Division. At 9:22 a.m. on September 25, soldiers escorted the nine students through the front doors. The next May, Ernest Green became the school's first Black graduate.",
+  "source": {
+   "name": "National Park Service, Little Rock Central High School NHS: Crisis Timeline",
+   "url": "https://www.nps.gov/chsc/learn/historyculture/timeline.htm"
+  }
+ },
+ {
+  "id": "m29-saskatchewan-medicare",
+  "era": "modern",
+  "year": 1962,
+  "dateLabel": "July 1, 1962",
+  "cat": "daily",
+  "title": "Saskatchewan's Medicare Showdown",
+  "place": "Regina, Saskatchewan, Canada",
+  "lat": 50.45,
+  "lng": -104.62,
+  "text": "When Saskatchewan's medical care insurance plan came into force on July 1, 1962, most doctors closed their offices in protest. The province brought in doctors from Britain, and local citizens organised clinics of their own. A British physician who had helped launch Britain's health system mediated, and on July 23 both sides signed an agreement in Saskatoon, ending the strike.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Saskatchewan Doctors' Strike",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/saskatchewan-doctors-strike"
+  }
+ },
+ {
+  "id": "m29-great-alaska-earthquake",
+  "era": "modern",
+  "year": 1964,
+  "dateLabel": "March 27, 1964 (Good Friday)",
+  "cat": "nature",
+  "title": "Alaska's Good Friday Earthquake",
+  "place": "Prince William Sound and Anchorage, Alaska, USA",
+  "lat": 61.22,
+  "lng": -149.9,
+  "text": "At 5:36 p.m. on March 27, 1964, a magnitude 9.2 earthquake struck Alaska's Prince William Sound region and shook for about 4.5 minutes, the most powerful ever recorded in U.S. history. Some ground rose by about 11.5 meters, and a wave reached 67 meters at Valdez Inlet. Of the 131 people killed, 122 died in tsunamis; Anchorage suffered the worst property damage.",
+  "source": {
+   "name": "USGS: Largest Earthquake in Alaska",
+   "url": "https://earthquake.usgs.gov/earthquakes/events/alaska1964/largest_in_alaska.php"
+  },
+  "source2": {
+   "name": "USGS: The 1964 Great Alaska Earthquake",
+   "url": "https://earthquake.usgs.gov/earthquakes/events/alaska1964/"
+  }
+ },
+ {
+  "id": "m29-expo-67",
+  "era": "modern",
+  "year": 1967,
+  "dateLabel": "April 28 – October 27, 1967",
+  "cat": "culture",
+  "title": "Expo 67 on a Brand-New Island",
+  "place": "Île Notre-Dame and Île Sainte-Hélène, Montreal, Quebec, Canada",
+  "lat": 45.51,
+  "lng": -73.53,
+  "text": "The highlight of Canada's centennial, Expo 67 was built partly on a new island, Île Notre-Dame, created in the St. Lawrence River. Under the theme \"Man and His World\", visitors saw Buckminster Fuller's geodesic dome and Moshe Safdie's Habitat 67 housing. Planners expected 26 million visits, but the fair recorded over 50 million paid admissions in 183 days.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Expo 67",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/expo-67"
+  }
+ },
+ {
+  "id": "m29-hip-hop-bronx",
+  "era": "modern",
+  "year": 1973,
+  "dateLabel": "August 11, 1973",
+  "cat": "culture",
+  "title": "A Bronx Party Starts Hip-Hop",
+  "place": "1520 Sedgwick Avenue, the Bronx, New York, USA",
+  "lat": 40.85,
+  "lng": -73.92,
+  "text": "Cindy Campbell threw a back-to-school party in a community room at 1520 Sedgwick Avenue so she could buy new clothes. Her brother Clive, DJ Kool Herc, who had come from Jamaica at 12, was 18. He played the drum \"breaks\" of funk records back to back on two turntables, and the building is now considered the birthplace of hip-hop.",
+  "source": {
+   "name": "NPR: 50 years ago, a summer party in the Bronx gave birth to hip-hop",
+   "url": "https://www.npr.org/2023/07/11/1186407223/50-years-ago-teenagers-partied-in-the-bronx-and-gave-rise-to-hip-hop"
+  },
+  "source2": {
+   "name": "New York State, Empire State Plaza: Birthplace of Hip-Hop",
+   "url": "https://empirestateplaza.ny.gov/birthplace-hip-hop"
+  }
+ },
+ {
+  "id": "m29-sally-ride",
+  "era": "modern",
+  "year": 1983,
+  "dateLabel": "June 18, 1983",
+  "cat": "journeys",
+  "title": "Sally Ride Rides Into Orbit",
+  "place": "Kennedy Space Center, Florida, USA",
+  "lat": 28.61,
+  "lng": -80.6,
+  "text": "On June 18, 1983, space shuttle Challenger lifted off from Launch Pad 39A carrying NASA astronaut Sally Ride, the first American woman in space. Her STS-7 mission had the first five-person crew and made the first release and retrieval of a satellite using the Canadian robotic arm. Challenger later touched down at Edwards Air Force Base in California.",
+  "source": {
+   "name": "NASA: 40 Years Ago, STS-7 and the Flight of Sally Ride",
+   "url": "https://www.nasa.gov/history/40-years-ago-sts-7-and-the-flight-of-sally-ride/"
+  }
+ },
+ {
+  "id": "m29-calgary-olympics",
+  "era": "modern",
+  "year": 1988,
+  "dateLabel": "February 13–28, 1988",
+  "cat": "daily",
+  "title": "Calgary Hosts the Winter Games",
+  "place": "Calgary, Alberta, Canada",
+  "lat": 51.05,
+  "lng": -114.07,
+  "text": "Calgary's 1988 Games were the first Olympic Winter Games held in Canada, the first with alpine skiing on artificial snow and the first with indoor speed skating. Skier Karen Percy became the first Canadian to win a Winter Olympic medal at home. Crowds also cheered two underdogs: the Jamaican bobsled team and British ski jumper Eddie \"the Eagle\" Edwards.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Canada at the 1988 Olympic Winter Games",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/canada-at-the-1988-olympic-winter-games"
+  }
+ },
+ {
+  "id": "m29-kanesatake-resistance",
+  "era": "modern",
+  "year": 1990,
+  "dateLabel": "July 11 – September 26, 1990",
+  "cat": "power",
+  "title": "The Standoff Over the Pines",
+  "place": "Kanesatake, near Oka, Quebec, Canada",
+  "lat": 45.49,
+  "lng": -74.08,
+  "text": "A plan to expand a golf course and build townhouses on disputed land at Kanesatake, including a Kanyen'kehà:ka (Mohawk) burial ground, sparked a 78-day standoff in 1990 between Mohawk protesters, Quebec police, the RCMP and the Canadian Army. A police corporal was killed. The golf course expansion was cancelled, but the land was never transferred to the Mohawks of Kanesatake.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Kanesatake Resistance (Oka Crisis)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/oka-crisis"
+  }
+ },
+ {
+  "id": "m29-ice-storm-1998",
+  "era": "modern",
+  "year": 1998,
+  "dateLabel": "January 4–10, 1998",
+  "cat": "nature",
+  "title": "The Great Ice Storm",
+  "place": "St. Lawrence Valley, Quebec and Ontario, Canada",
+  "lat": 45.3,
+  "lng": -73.25,
+  "text": "Between January 4 and 10, 1998, parts of the St. Lawrence Valley got up to 100 mm of ice pellets and freezing rain. Nearly 1.4 million customers in Quebec lost power. Dairy farmers had to discard over 10 million litres of milk, some maple producers lost almost their entire sugar bush, and over 15,000 troops deployed in Canada's largest peacetime military operation.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Ice Storm of 1998",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/ice-storm-1998"
+  }
+ },
+ {
+  "id": "m29-hurricane-katrina",
+  "era": "modern",
+  "year": 2005,
+  "dateLabel": "August 29, 2005",
+  "cat": "nature",
+  "title": "Hurricane Katrina Floods New Orleans",
+  "place": "New Orleans, Louisiana, USA",
+  "lat": 29.95,
+  "lng": -90.07,
+  "text": "Hurricane Katrina reached Category 5 over the Gulf of Mexico, then came ashore near Grand Isle, Louisiana, and moved into Mississippi on August 29, 2005. Breaks in the levees separating New Orleans from Lake Pontchartrain left at least 80% of the city under water by August 31. Katrina caused 1,833 deaths and is the costliest hurricane ever to hit the United States.",
+  "source": {
+   "name": "National Weather Service, Mobile/Pensacola: Hurricane Katrina",
+   "url": "https://www.weather.gov/mob/katrina"
+  }
+ },
+ {
+  "id": "m29-kilauea-2018",
+  "era": "modern",
+  "year": 2018,
+  "dateLabel": "May 3 – September 5, 2018",
+  "cat": "nature",
+  "title": "Lava in Leilani Estates",
+  "place": "Leilani Estates, Island of Hawaiʻi, Hawaii, USA",
+  "lat": 19.47,
+  "lng": -154.91,
+  "text": "On May 3, 2018, lava broke out inside Leilani Estates, a neighbourhood on Kīlauea's lower East Rift Zone. A magnitude 6.9 earthquake followed the next day. Lava covered over 700 structures and 30 miles of road and added 875 acres of new land, while the draining magma made parts of the summit caldera floor collapse. The last active lava was seen in September.",
+  "source": {
+   "name": "USGS: 2018 Lower East Rift Zone Eruption and Summit Collapse",
+   "url": "https://www.usgs.gov/volcanoes/kilauea/2018-lower-east-rift-zone-eruption-and-summit-collapse"
+  }
+ },
+ {
+  "id": "m29-mary-simon",
+  "era": "modern",
+  "year": 2021,
+  "dateLabel": "July 26, 2021",
+  "cat": "power",
+  "title": "An Inuk Governor General",
+  "place": "Ottawa, Ontario, Canada",
+  "lat": 45.44,
+  "lng": -75.69,
+  "text": "Born in Kangiqsualujjuaq in Nunavik, Mary Simon became Canada's 30th governor general on July 26, 2021, the first Indigenous person in that role. Earlier she was the first Inuk in Canada to hold the rank of ambassador and helped set up the Arctic Council. Responding to her appointment, she spoke in both Inuktitut and English.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Mary Simon",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/mary-simon"
+  }
+ }
+]

@@ -1,0 +1,358 @@
+[
+ {
+  "id": "m08-oxus-oasis-farms",
+  "era": "ancient",
+  "year": -2200,
+  "dateLabel": "About 2200 BCE",
+  "cat": "daily",
+  "title": "Farming the Desert Rivers",
+  "place": "Ancient Bactria, Amu Darya (Oxus) valley, northern Afghanistan",
+  "lat": 36.95,
+  "lng": 66.85,
+  "text": "Around 2200 BCE, people in southwestern Central Asia began irrigating their fields, which let them move down from the foothills into oases along rivers flowing into the desert. Along the Oxus and Murghab rivers, new permanent settlements with large fortified buildings appeared, helped by lively trade with Iran, Mesopotamia and the Indus Valley. This paved the way for the Oxus civilization, which took shape from about 2000 BCE.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Central and North Asia, 8000–2000 B.C.",
+   "url": "https://www.metmuseum.org/toah/ht/02/nc"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art: Shaft-hole axe head with bird-headed demon, boar, and dragon",
+   "url": "https://www.metmuseum.org/art/collection/search/329076"
+  }
+ },
+ {
+  "id": "m08-mushiston-tin-mine",
+  "era": "ancient",
+  "year": -2100,
+  "dateLabel": "From the late 3rd millennium BCE",
+  "cat": "discovery",
+  "title": "A Tin Mine Near the Clouds",
+  "place": "Mushiston, Hissar Mountains, Sughd, Tajikistan",
+  "lat": 39.13,
+  "lng": 68.38,
+  "text": "At Mushiston, about 3,500 metres up in Tajikistan's Hissar Mountains, radiocarbon dates show that Andronovo miners were digging underground as early as the late 3rd millennium BCE. The ore there holds copper and tin together, the two ingredients of bronze. Scientists found this natural bronze in about a third of the ancient objects they tested, from both steppe and Oxus peoples.",
+  "source": {
+   "name": "Frontiers in Earth Science (Berger et al. 2023): The rise of bronze in Central Asia",
+   "url": "https://www.frontiersin.org/articles/10.3389/feart.2023.1224873/full"
+  }
+ },
+ {
+  "id": "m08-bactrian-seated-lady",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 2000 BCE (late 3rd–early 2nd millennium BCE)",
+  "cat": "culture",
+  "title": "The Lady in the Fleece Robe",
+  "place": "Margiana, Mary Region, Turkmenistan",
+  "lat": 37.6,
+  "lng": 61.85,
+  "text": "Oxus-civilization sculptors made small seated women from two stones: a body of soft green chlorite or steatite and a head of white limestone. Their robes have a pattern that may imitate sheep's fleece, and excavated examples come from Margiana in southern Turkmenistan. On local stamp seals a similar woman sits among animals or mythical creatures, so she may have been seen as divine.",
+  "source": {
+   "name": "The Metropolitan Museum of Art: Seated female, Bactria-Margiana Archaeological Complex",
+   "url": "https://www.metmuseum.org/art/collection/search/329073"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Central and North Asia, 2000–1000 B.C.",
+   "url": "https://www.metmuseum.org/toah/ht/03/nc"
+  }
+ },
+ {
+  "id": "m08-koktepa-early-city",
+  "era": "ancient",
+  "year": -750,
+  "dateLabel": "8th–7th centuries BCE",
+  "cat": "daily",
+  "title": "Sogdiana's First Walled City",
+  "place": "Koktepa, Payariq District, Samarkand Region, Uzbekistan",
+  "lat": 39.85,
+  "lng": 66.95,
+  "text": "Long before Samarkand rose to power, herders on the Bulungur River near it settled down to farm and built one of the earliest cities of Sogdiana, now called Koktepa. By the 8th and 7th centuries BCE, a huge square cult platform and a ruler's residence were both guarded by massive walls. Houses grew from half-buried huts into many-roomed mudbrick homes.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Tentative Lists: Koktepa, An Early Urbanization Centre of the Zarafshan Valley",
+   "url": "https://whc.unesco.org/en/tentativelists/7051/"
+  }
+ },
+ {
+  "id": "m08-achaemenid-satrapies",
+  "era": "ancient",
+  "year": -545,
+  "dateLabel": "About 545 BCE",
+  "cat": "power",
+  "title": "Oasis Kingdoms Join Persia",
+  "place": "Bactria, northern Afghanistan",
+  "lat": 36.76,
+  "lng": 66.9,
+  "text": "Around 545 BCE, many of the city-states and small kingdoms of western Central Asia became satrapies, or provinces, of the Persian Achaemenid empire. They paid taxes and tribute to a distant central government, while Persian armies kept the peace. This system of rule from far away lasted even after Alexander the Great defeated the Persians, carrying on under his successors, the Seleucids.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Central and North Asia, 1000 B.C.–1 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/04/nc"
+  }
+ },
+ {
+  "id": "m08-oxus-gold-chariot",
+  "era": "classical",
+  "year": -499,
+  "dateLabel": "499–300 BCE",
+  "cat": "culture",
+  "title": "A Golden Chariot from the Oxus",
+  "place": "Takht-i Kuwad, Khatlon, Tajikistan",
+  "lat": 37.1,
+  "lng": 68.3,
+  "text": "This gold chariot, just 19.5 centimetres long, is one of the finest pieces of the Oxus Treasure, the most important surviving gold and silver from Persia's Achaemenid period. Four horses or ponies pull two riders in Median dress, from Iran, the heart of the empire. On the front is Bes, an Egyptian dwarf-god who was a popular protector.",
+  "source": {
+   "name": "British Museum via Google Arts & Culture: Oxus chariot model",
+   "url": "https://artsandculture.google.com/asset/oxus-chariot-model/tQEs3NjQRN6N_Q?hl=en"
+  }
+ },
+ {
+  "id": "m08-koykrylgan-round-temple",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "4th–3rd centuries BCE",
+  "cat": "discovery",
+  "title": "A Round Temple for Stargazing",
+  "place": "Koykrylgan-kala, near Turtkul, Karakalpakstan, Uzbekistan",
+  "lat": 41.76,
+  "lng": 61.12,
+  "text": "In ancient Khorezm, builders raised an unusual circular two-storey building, 44.4 metres across, ringed by walls, nine towers and a ditch. Its ground floor was not lived in, but upstairs excavators found incense burners, altars, painted pots with myths and figurines of Khorezmian gods. Archaeologists think Koykrylgan-kala began as a fortified temple where people made astronomical observations.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Tentative Lists: Ancient towns and fortresses of the Aral Sea region",
+   "url": "https://whc.unesco.org/en/tentativelists/6903/"
+  }
+ },
+ {
+  "id": "m08-akchakhan-oldest-murals",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "2nd–1st centuries BCE",
+  "cat": "discovery",
+  "title": "Central Asia's Oldest Wall Paintings",
+  "place": "Akchakhan-kala, Beruniy District, Karakalpakstan, Uzbekistan",
+  "lat": 41.83,
+  "lng": 60.72,
+  "text": "Akchakhan-kala may have been one of the first capitals of ancient Khorezm. Since 1995, Karakalpak archaeologists working with the University of Sydney have dug up fragments of wall paintings there, including a portrait gallery of Khorezm's rulers and images of Zoroastrian gods. Dated to the 2nd and 1st centuries BCE, they are the oldest known wall paintings in Central Asia.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Tentative Lists: Ancient towns and fortresses of the Aral Sea region",
+   "url": "https://whc.unesco.org/en/tentativelists/6903/"
+  }
+ },
+ {
+  "id": "m08-chilpik-tower-of-silence",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "First centuries CE",
+  "cat": "culture",
+  "title": "The Tower of Silence",
+  "place": "Chilpik, south of Nukus, Karakalpakstan, Uzbekistan",
+  "lat": 42.07,
+  "lng": 59.98,
+  "text": "On a lonely hill above the Amu Darya stands Chilpik, a ring of walls up to 15 metres high, built in the first centuries CE. It is thought to be a dakhma, where Zoroastrians laid out the dead so the soft tissue would be cleaned from the bones. Fire, water, earth and air were sacred, so ceramic troughs carried rainwater away from the bodies.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Tentative Lists: Chilpik the Tower of Silence",
+   "url": "https://whc.unesco.org/en/tentativelists/6902/"
+  }
+ },
+ {
+  "id": "m08-toprak-kala-hall-of-kings",
+  "era": "classical",
+  "year": 310,
+  "dateLabel": "Early 4th century CE (palace emptied)",
+  "cat": "power",
+  "title": "The Hall of Twenty-Three Kings",
+  "place": "Toprak-kala, Ellikkala District, Karakalpakstan, Uzbekistan",
+  "lat": 41.93,
+  "lng": 60.82,
+  "text": "The tall palace of Toprak-kala, a seat of Khorezm's rulers, was full of shrines. In the Hall of Kings a fire burned before large statues of 23 Khorezmian kings, and another hall showed men and women dancing in pairs. Its archive held records on leather and lists of men on wood. Early in the 4th century CE the palace emptied and became a citadel.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Tentative Lists: Ancient towns and fortresses of the Aral Sea region",
+   "url": "https://whc.unesco.org/en/tentativelists/6903/"
+  }
+ },
+ {
+  "id": "m08-bactrian-marriage-contract",
+  "era": "classical",
+  "year": 342,
+  "dateLabel": "About 342 CE",
+  "cat": "daily",
+  "title": "One Bride, Two Brothers",
+  "place": "Rob, Samangan Province, Afghanistan",
+  "lat": 35.7,
+  "lng": 67.9,
+  "text": "A hoard of leather documents from the kingdom of Rob, written in the Bactrian language using Greek letters, records everyday life over four centuries. The earliest dated one, from about 342 CE, is a marriage contract in which one woman agrees to marry two brothers at the same time. Scholar Nicholas Sims-Williams says this practice of polyandry was apparently typical of the region.",
+  "source": {
+   "name": "University of Tokyo: Nicholas Sims-Williams, New Findings in Ancient Afghanistan (Bactrian documents)",
+   "url": "https://gengo.l.u-tokyo.ac.jp/hkum/bactrian.html"
+  }
+ },
+ {
+  "id": "m08-panjikent-walls-temples",
+  "era": "classical",
+  "year": 425,
+  "dateLabel": "First half of the 5th century CE",
+  "cat": "daily",
+  "title": "Panjikent Builds Its Walls",
+  "place": "Ancient Panjikent, Sughd, Tajikistan",
+  "lat": 39.48,
+  "lng": 67.64,
+  "text": "In the 5th century, the people of Panjikent ringed their town with a rammed-earth wall almost four miles long, against rival Sogdian cities and raiding nomads. In the sacred quarter, one temple honoured Adhvagh, the great god, and another the town's patron goddess Nana, which also held chapels to local, Iranian and Hindu deities, a sign of Sogdian openness.",
+  "source": {
+   "name": "Smithsonian, The Sogdians: The City of Panjikent and Sogdian Town-Planning (Alexander Brey)",
+   "url": "https://sogdians.si.edu/sidebars/the-city-of-panjikent-and-sogdian-town-planning/"
+  }
+ },
+ {
+  "id": "m08-xuanzang-samarkand",
+  "era": "medieval",
+  "year": 630,
+  "dateLabel": "630",
+  "cat": "journeys",
+  "title": "A Pilgrim Monk in Samarkand",
+  "place": "Samarkand, Uzbekistan",
+  "lat": 39.65,
+  "lng": 66.96,
+  "text": "In 630 the Chinese monk Xuanzang, on his long journey to India, reached Sogdiana and stayed in Samarkand. He found its Buddhist temples abandoned, and his disciples were attacked by local Mazdaists. The king punished the attackers and let him ordain new monks, though historians suspect Xuanzang exaggerated that welcome. His travel book is one of the few firsthand accounts of the Sogdians.",
+  "source": {
+   "name": "Smithsonian, The Sogdians: Influencers on the Silk Roads: Xuanzang (Matthew Z. Dischner)",
+   "url": "https://sogdians.si.edu/sidebars/xuanzang/"
+  }
+ },
+ {
+  "id": "m08-queen-gift-rob",
+  "era": "medieval",
+  "year": 710,
+  "dateLabel": "710",
+  "cat": "culture",
+  "title": "A Queen's Gift to a Healing God",
+  "place": "Rob, Samangan Province, Afghanistan",
+  "lat": 35.68,
+  "lng": 67.95,
+  "text": "A Bactrian deed dated to 710, in the month called Second New Year, records a queen giving land and a slave girl to the god Kamird and his priest, apparently to thank him for healing a family member. She was married to a ruler with a Turkish name and was called the princess of the Khalas, perhaps one of the earliest mentions of the Turkish Khalach tribe.",
+  "source": {
+   "name": "University of Tokyo: Nicholas Sims-Williams, New Findings in Ancient Afghanistan (Bactrian documents)",
+   "url": "https://gengo.l.u-tokyo.ac.jp/hkum/bactrian.html"
+  }
+ },
+ {
+  "id": "m08-mount-mugh-letters",
+  "era": "medieval",
+  "year": 722,
+  "dateLabel": "Late summer 722",
+  "cat": "power",
+  "title": "The Last Stand on Mount Mugh",
+  "place": "Mount Mugh, Zerafshan Valley, Sughd, Tajikistan",
+  "lat": 39.37,
+  "lng": 68.33,
+  "text": "In 722 Arab forces captured Panjikent, and its ruler Devashtich fled to a small mountain castle, where he was defeated and later executed. His archive stayed hidden until a shepherd found a basket of documents in 1932. Written on leather, Chinese paper and willow sticks, they include a furious letter in which Devashtich scolds an ally for being a weak messenger.",
+  "source": {
+   "name": "Smithsonian, The Sogdians: The Castle on Mount Mugh and Its Documents (Pavel Lurje)",
+   "url": "https://sogdians.si.edu/sidebars/the-castle-on-mount-mugh-and-its-documents-exemplified-by-letter-v-18/"
+  }
+ },
+ {
+  "id": "m08-panjikent-rustam-murals",
+  "era": "medieval",
+  "year": 740,
+  "dateLabel": "About 740",
+  "cat": "culture",
+  "title": "Heroes on Panjikent's Walls",
+  "place": "Panjikent, Sughd, Tajikistan",
+  "lat": 39.49,
+  "lng": 67.63,
+  "text": "Wealthy Sogdians in Panjikent decorated their reception halls with murals in layers. Huge gods, often the goddess Nana, filled one wall; epic legends such as the Rustam cycle, painted around 740, ran across others; and along the bottom, small panels showed fables, like a blacksmith with an ape assistant. The wealthiest owners also built rows of shops along the street to rent out.",
+  "source": {
+   "name": "Smithsonian, The Sogdians: The City of Panjikent and Sogdian Town-Planning (Alexander Brey)",
+   "url": "https://sogdians.si.edu/sidebars/the-city-of-panjikent-and-sogdian-town-planning/"
+  }
+ },
+ {
+  "id": "m08-noh-gunbad-balkh",
+  "era": "medieval",
+  "year": 800,
+  "dateLabel": "Built between the early 8th and mid-9th centuries",
+  "cat": "culture",
+  "title": "The Mosque of Nine Domes",
+  "place": "Noh Gunbad, Balkh, Balkh Province, Afghanistan",
+  "lat": 36.75,
+  "lng": 66.88,
+  "text": "Noh Gunbad, the Nine Domes mosque near Balkh, was built sometime between the early 8th century and the first half of the 9th. It is believed to be the oldest and most important early Islamic building in Afghanistan. All nine domes have fallen, leaving three columns and two arches, but rare carved stucco survives, thought to be in early Abbasid or Samanid style.",
+  "source": {
+   "name": "Aga Khan Development Network: The nine domes of the Universe, Noh Gunbad Mosque, Balkh",
+   "url": "https://the.akdn/en/resources-media/multimedia/photographs/nine-domes-universe-noh-gunbad-mosque-balkh-afghanistan"
+  }
+ },
+ {
+  "id": "m08-merv-sanjar-capital",
+  "era": "medieval",
+  "year": 1118,
+  "dateLabel": "1118 (Sanjar's reign begins)",
+  "cat": "power",
+  "title": "Merv, Capital of Sultan Sanjar",
+  "place": "Ancient Merv, Mary Region, Turkmenistan",
+  "lat": 37.66,
+  "lng": 62.19,
+  "text": "Merv reached the height of its glory as the capital of the Seljuq sultan Sanjar, who reigned from 1118 to 1157. His mausoleum, with elegant brickwork, carved stucco and surviving wall paintings, is one of the finest buildings of the Seljuk period. In 1221 the Mongols destroyed the city, and although it was rebuilt in the 15th century, it never regained its old prosperity.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Merv",
+   "url": "https://www.britannica.com/place/Merv"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: State Historical and Cultural Park \"Ancient Merv\"",
+   "url": "https://whc.unesco.org/en/list/886"
+  }
+ },
+ {
+  "id": "m08-kalyan-minaret",
+  "era": "medieval",
+  "year": 1127,
+  "dateLabel": "1127",
+  "cat": "culture",
+  "title": "Bukhara's Great Brick Minaret",
+  "place": "Poi Kalon, Bukhara, Uzbekistan",
+  "lat": 39.78,
+  "lng": 64.41,
+  "text": "The Qarakhanid ruler Arslan Khan first built a wooden mosque and minaret here, but tradition says the minaret fell and wrecked the mosque. In 1127 a brick minaret replaced it. Standing 46 metres tall, it still dominates Bukhara's skyline, and UNESCO calls it a masterpiece of decoration in brick. The complex around it is named after it: Poi Kalon, at the foot of the Great One.",
+  "source": {
+   "name": "Archnet (MIT / Aga Khan Trust for Culture): Poi Kalon",
+   "url": "https://www.archnet.org/sites/2114"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Historic Centre of Bukhara",
+   "url": "https://whc.unesco.org/en/list/602"
+  }
+ },
+ {
+  "id": "m08-kutlug-timur-minaret",
+  "era": "medieval",
+  "year": 1321,
+  "dateLabel": "Completed 1321–1330",
+  "cat": "culture",
+  "title": "The Leaning Minaret of Urgench",
+  "place": "Kunya-Urgench, Dashoguz Region, Turkmenistan",
+  "lat": 42.31,
+  "lng": 59.15,
+  "text": "Named after Qutlugh Timur, the Golden Horde's governor of Khorezm, this minaret was finished between 1321 and 1330, possibly on foundations from the 11th century. Now 60 metres tall, it once reached 65, and 145 steps spiral up inside. Historians think its top also served as a lighthouse and watchtower. Today it leans dangerously towards a nearby mausoleum.",
+  "source": {
+   "name": "Archnet (MIT / Aga Khan Trust for Culture): Manar-i Qutlugh Timur",
+   "url": "https://www.archnet.org/sites/3957"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Kunya-Urgench",
+   "url": "https://whc.unesco.org/en/list/1199"
+  }
+ },
+ {
+  "id": "m08-bibi-khanum-elephants",
+  "era": "medieval",
+  "year": 1399,
+  "dateLabel": "May 1399",
+  "cat": "culture",
+  "title": "Ninety-Five Elephants for a Mosque",
+  "place": "Bibi Khanum Mosque, Samarkand, Uzbekistan",
+  "lat": 39.66,
+  "lng": 66.98,
+  "text": "After his campaign in India, Timur founded a vast mosque in Samarkand in May 1399. He brought back skilled workers from Hindustan and 95 elephants pulling carts of huge stones. Its courtyard, 109 by 167 metres, could hold up to ten thousand worshippers. The Spanish envoy Clavijo called it the noblest mosque in the city, yet it later fell into ruin.",
+  "source": {
+   "name": "Manazir Journal 5 (2023), Elena Paskaleva: Samarqand's Congregational Mosque of Bibi Khanum",
+   "url": "https://bop.unibe.ch/manazir/article/download/8808/13399?inline=1"
+  }
+ }
+]

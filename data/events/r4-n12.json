@@ -1,0 +1,366 @@
+[
+ {
+  "id": "n12-holey-dollar",
+  "era": "industrial",
+  "year": 1814,
+  "dateLabel": "February 25, 1814",
+  "cat": "daily",
+  "title": "Coins With a Hole in the Middle",
+  "place": "Sydney, New South Wales, Australia",
+  "lat": -33.86,
+  "lng": 151.21,
+  "text": "Short of money, Governor Lachlan Macquarie imported 40,000 Spanish silver 'pieces of eight' and had their centres stamped out so they could not leave the colony. The job went to William Henshall, a convicted forger, who worked in a basement workshop. The first batch of holey dollars and dumps, Australia's first minted coins, was delivered on 25 February 1814.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Holey dollar",
+   "url": "https://www.nma.gov.au/defining-moments/resources/holey-dollar"
+  }
+ },
+ {
+  "id": "n12-black-line",
+  "era": "industrial",
+  "year": 1830,
+  "dateLabel": "October 7, 1830",
+  "cat": "power",
+  "title": "The Black Line Across Lutruwita",
+  "place": "Settled districts, Tasmania, Australia",
+  "lat": -42,
+  "lng": 147.3,
+  "text": "During the Black War, Lieutenant-Governor George Arthur ordered settlers to form a human chain to push the Oyster Bay, Big River, North Midlands and Ben Lomond peoples onto the Tasman Peninsula. On 7 October 1830 more than 2,200 men reported for duty. Most Aboriginal people slipped back into their own lands; only two were documented as captured.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, The Black Line",
+   "url": "https://www.nma.gov.au/defining-moments/resources/the-black-line"
+  }
+ },
+ {
+  "id": "n12-kohanga-reo",
+  "era": "modern",
+  "year": 1982,
+  "dateLabel": "April 13, 1982",
+  "cat": "culture",
+  "title": "A Nest for the Māori Language",
+  "place": "Pukeatua, Wainuiomata, Wellington, New Zealand",
+  "lat": -41.26,
+  "lng": 174.95,
+  "text": "Kōhanga reo means 'language nest': a place where little children are totally immersed in the Māori language, customs and values, with their whānau involved in their learning. The first one opened at Pukeatua in Wainuiomata on 13 April 1982. Since then more than 50,000 children have attended, and many are now parents of a second generation of kōhanga children.",
+  "source": {
+   "name": "Te Kōhanga Reo National Trust: Mō Mātau (About Us)",
+   "url": "https://www.kohanga.ac.nz/kaupapa/moo-matau"
+  }
+ },
+ {
+  "id": "n12-kuk-ditches",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "From about 4,000 years ago",
+  "cat": "daily",
+  "title": "Digging Ditches at Kuk Swamp",
+  "place": "Kuk, Western Highlands, Papua New Guinea",
+  "lat": -5.78,
+  "lng": 144.33,
+  "text": "High in New Guinea's highlands, people at Kuk had grown bananas, taro and yam on mounds at the swamp's edge for thousands of years. From about 4,000 years ago they began draining the wetland itself, digging ditches with wooden tools. Kuk is one of the few places on Earth where farming seems to have been invented independently.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Kuk Early Agricultural Site",
+   "url": "https://whc.unesco.org/en/list/887/"
+  }
+ },
+ {
+  "id": "n12-coming-of-the-light",
+  "era": "industrial",
+  "year": 1871,
+  "dateLabel": "July 1, 1871",
+  "cat": "culture",
+  "title": "The Coming of the Light",
+  "place": "Erub (Darnley Island), Torres Strait, Queensland, Australia",
+  "lat": -9.58,
+  "lng": 143.77,
+  "text": "On 1 July 1871 the Reverend Samuel MacFarlane of the London Missionary Society anchored at Erub, travelling with South Sea Islander evangelists and teachers. Torres Strait Islanders remember this as the Coming of the Light. Christianity brought deep changes to every part of island life, and other islands celebrate their own Coming of the Light on the dates missionaries arrived there.",
+  "source": {
+   "name": "State Library of Queensland: Erub, Coming of the Light",
+   "url": "https://www.slq.qld.gov.au/blog/erub-coming-light"
+  }
+ },
+ {
+  "id": "n12-south-sea-islander-labourers",
+  "era": "industrial",
+  "year": 1863,
+  "dateLabel": "1863",
+  "cat": "journeys",
+  "title": "Taken to the Cane Fields",
+  "place": "Brisbane, Queensland, Australia",
+  "lat": -27.47,
+  "lng": 153.03,
+  "text": "In 1863, 67 South Sea Islanders were brought to Brisbane to work on a cotton plantation. They were the first of more than 62,000 men, women and children from about 80 islands, including Vanuatu and the Solomon Islands. Many were kidnapped, or 'blackbirded'. Activist Faith Bandler said of her father's experience: 'I maintain that it was a form of slavery.'",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Islander labourers",
+   "url": "https://www.nma.gov.au/defining-moments/resources/islander-labourers"
+  }
+ },
+ {
+  "id": "n12-torres-strait-maritime-strike",
+  "era": "modern",
+  "year": 1936,
+  "dateLabel": "January 1936",
+  "cat": "power",
+  "title": "The Pearl Divers Go on Strike",
+  "place": "Thursday Island, Torres Strait, Queensland, Australia",
+  "lat": -10.58,
+  "lng": 142.22,
+  "text": "By the 1920s Australia supplied most of the world's mother-of-pearl shell, and Thursday Island was a hub for hundreds of luggers. In January 1936 Torres Strait Islander workers across the region refused to crew the pearling boats, demanding fairer conditions and more local control. The strike helped lay the groundwork for lasting reforms to how Islanders were represented and governed.",
+  "source": {
+   "name": "Australian National Maritime Museum: Pearling Elders exhibition honours Torres Strait pearling Elders",
+   "url": "https://www.sea.museum/en/about/media/2026/06/pearling-elders"
+  }
+ },
+ {
+  "id": "n12-polynesia-meets-americas",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "Around AD 1200",
+  "cat": "journeys",
+  "title": "When Polynesia Met the Americas",
+  "place": "Eastern Polynesia, French Polynesia",
+  "lat": -16,
+  "lng": -142,
+  "text": "The sweet potato comes from the Americas, yet it turns up in the ancient archaeological record of Polynesia. A 2020 genetic study of 807 people from 17 Pacific islands and 15 Native American groups found the answer in DNA: around AD 1200, Polynesians in eastern Polynesia met a Native American group most closely related to people living in present-day Colombia.",
+  "source": {
+   "name": "Nature: Native American gene flow into Polynesia predating Easter Island settlement (Ioannidis et al., 2020)",
+   "url": "https://www.nature.com/articles/s41586-020-2487-2"
+  },
+  "source2": {
+   "name": "Stanford Medicine News: Polynesians and Native Americans made early contact",
+   "url": "https://med.stanford.edu/news/all-news/2020/07/polynesians-and-native-americans-made-early-contact.html"
+  }
+ },
+ {
+  "id": "n12-devils-thylacines-vanish",
+  "era": "ancient",
+  "year": -1200,
+  "dateLabel": "About 3,200 years ago",
+  "cat": "nature",
+  "title": "Devils and Tigers Leave the Mainland",
+  "place": "Southern mainland Australia",
+  "lat": -34,
+  "lng": 140,
+  "text": "Tasmanian devils and thylacines (Tasmanian tigers) once roamed across Australia. By radiocarbon-dating fossil bones from across southern Australia, researchers from the University of Adelaide and Flinders University estimated that both disappeared from the mainland at the same time, about 3,200 years ago. That timing suggests a common cause, a clue to why both vanished on the mainland but survived in Tasmania.",
+  "source": {
+   "name": "Flinders University News: Tassie tiger and devil do the timewarp",
+   "url": "https://news.flinders.edu.au/blog/2018/01/19/tassie-tiger-devil-timewarp/"
+  }
+ },
+ {
+  "id": "n12-laura-majuro-ovens",
+  "era": "classical",
+  "year": -30,
+  "dateLabel": "About 30 BCE (earliest date)",
+  "cat": "journeys",
+  "title": "Cooking Fires on Majuro Atoll",
+  "place": "Laura, Majuro Atoll, Marshall Islands",
+  "lat": 7.15,
+  "lng": 171.04,
+  "text": "The Marshall Islands were first settled around the beginning of the Christian era by Micronesians who may have been influenced by Lapita culture. Charcoal from earth ovens dug up in Laura village on Majuro has been radiocarbon-dated to about 30 BCE and 50 CE. These early Marshall Islanders were skilled navigators who made long canoe voyages among the atolls.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Marshall Islands, History",
+   "url": "https://www.britannica.com/place/Marshall-Islands/History"
+  }
+ },
+ {
+  "id": "n12-rangitoto-footprints",
+  "era": "medieval",
+  "year": 1397,
+  "dateLabel": "Around 1397 CE",
+  "cat": "nature",
+  "title": "Footprints in Rangitoto's Ash",
+  "place": "Pūharakeke, Motutapu Island, Auckland, New Zealand",
+  "lat": -36.77,
+  "lng": 174.91,
+  "text": "Around 1397 CE, Rangitoto volcano in Auckland's harbour erupted, burying signs of Māori occupation on neighbouring Motutapu Island under ash. At the Sunde site, footprints of people and their dogs are preserved between the ash layers. Māori clearly witnessed the eruption, yet surprisingly no traditional account of it seems to exist.",
+  "source": {
+   "name": "Journal of Pacific Archaeology: New Zealand's own Pompeii? The Sunde site, Motutapu Island (Brassey, 2024)",
+   "url": "https://pacificarchaeology.org/index.php/journal/article/view/359"
+  }
+ },
+ {
+  "id": "n12-1967-referendum",
+  "era": "modern",
+  "year": 1967,
+  "dateLabel": "May 27, 1967",
+  "cat": "power",
+  "title": "Australia Votes 'Yes'",
+  "place": "Canberra, Australian Capital Territory, Australia",
+  "lat": -35.28,
+  "lng": 149.13,
+  "text": "Australia's constitution said Aboriginal people should not be counted in the population. After ten years of campaigning, led by groups such as FCAATSI with Kungarakan man Joe McGinness as a co-head, a referendum was held on 27 May 1967. Nearly 91 per cent voted 'yes', so First Nations peoples would be counted and the Commonwealth could make laws for them.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Indigenous referendum",
+   "url": "https://www.nma.gov.au/defining-moments/resources/indigenous-referendum"
+  }
+ },
+ {
+  "id": "n12-png-independence",
+  "era": "modern",
+  "year": 1975,
+  "dateLabel": "September 16, 1975",
+  "cat": "power",
+  "title": "A Nation of 800 Languages",
+  "place": "Port Moresby, Papua New Guinea",
+  "lat": -9.44,
+  "lng": 147.18,
+  "text": "Papua New Guinea was home to an estimated 1,000 tribes speaking more than 800 languages, and few believed they could unite. On 15 September 1975 the Australian flag, flying since 1906, was lowered for the last time at Hubert Murray Stadium. Independence came on 16 September, and Michael Somare, a former teacher and radio broadcaster from East Sepik, spoke to the new nation by midnight radio.",
+  "source": {
+   "name": "RNZ: Papua New Guinea's 50th anniversary of independence, how a nation of 800 languages was united",
+   "url": "https://www.rnz.co.nz/news/pacific/572746/papua-new-guinea-s-50th-anniversary-of-independence-how-a-nation-of-800-languages-was-united"
+  }
+ },
+ {
+  "id": "n12-hongi-hika-in-england",
+  "era": "industrial",
+  "year": 1820,
+  "dateLabel": "1820",
+  "cat": "journeys",
+  "title": "Two Māori Chiefs Meet King George",
+  "place": "Bay of Islands, Northland, New Zealand",
+  "lat": -35.22,
+  "lng": 174.1,
+  "text": "On 2 March 1820 the Ngāpuhi chiefs Hongi Hika and Waikato sailed from the Bay of Islands for England. At Cambridge they helped Professor Samuel Lee finish the first full guide to written Māori. King George IV gave Hongi two muskets, a coat of chain mail and a helmet. Back in Sydney, Hongi bought large amounts of muskets, and his later wars reached a devastating new scale.",
+  "source": {
+   "name": "Fletcher Trust Collection: Hongi and Waikato (John Jackson)",
+   "url": "https://fletchercollection.org.nz/artworks/hongi-and-waikato/"
+  },
+  "source2": {
+   "name": "Waitangi Treaty Grounds: Wives, Weaponry and War (Hongi Hika's haerenga)",
+   "url": "https://www.waitangi.org.nz/waitangi-blog/hongi-hikas-haerenga"
+  }
+ },
+ {
+  "id": "n12-palau-rock-islands-caves",
+  "era": "ancient",
+  "year": -1100,
+  "dateLabel": "From about 3,100 years ago",
+  "cat": "daily",
+  "title": "Cave Camps in Palau's Rock Islands",
+  "place": "Rock Islands Southern Lagoon, Palau",
+  "lat": 7.25,
+  "lng": 134.38,
+  "text": "Palau's Rock Islands are hundreds of mushroom-shaped limestone islands set in turquoise lagoons. From about 3,100 years ago people visited their caves seasonally to harvest the rich sea life, leaving rock art and burials behind. This use went on for some 2,500 years; later, permanent stone villages with defensive walls and terraces were built on a few of the islands.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Rock Islands Southern Lagoon",
+   "url": "https://whc.unesco.org/en/list/1386/"
+  }
+ },
+ {
+  "id": "n12-shell-fish-hooks",
+  "era": "medieval",
+  "year": 1030,
+  "dateLabel": "Almost 1,000 years ago",
+  "cat": "daily",
+  "title": "Shell Fish-Hooks of the Sydney Coast",
+  "place": "Port Jackson (Sydney Harbour), New South Wales, Australia",
+  "lat": -33.85,
+  "lng": 151.25,
+  "text": "Archaeology traces shell fish-hooks on the New South Wales coast back almost 1,000 years. Around Sydney, men fished with spears while women used hook and line. Eora women shaped crescent hooks (burra or bara) from turban shell, fished from bark canoes with fires going, and spat chewed shellfish on the water instead of using bait.",
+  "source": {
+   "name": "Australian Museum: Aboriginal fishing in Port Jackson, and the introduction of shell fish-hooks to coastal New South Wales (Attenbrow)",
+   "url": "https://publications.australian.museum/aboriginal-fishing-in-port-jackson-and-the-introduction-of-shell-fish-hooks-to-coastal-new-south-wales-australia/"
+  },
+  "source2": {
+   "name": "Dictionary of Sydney: Eora fisherwomen (Lisa Murray)",
+   "url": "https://dictionaryofsydney.org/blog/eora_fisherwomen"
+  }
+ },
+ {
+  "id": "n12-jiigurru-pottery",
+  "era": "ancient",
+  "year": -925,
+  "dateLabel": "Between about 2,950 and 1,815 years ago",
+  "cat": "discovery",
+  "title": "Australia's Oldest Pottery",
+  "place": "Jiigurru (Lizard Island group), Great Barrier Reef, Queensland, Australia",
+  "lat": -14.67,
+  "lng": 145.46,
+  "text": "In 2006 a few pieces of pottery turned up in Blue Lagoon on Jiigurru, 33 km off Cape York Peninsula. Excavations found 82 pieces, some decorated with pigment and incised lines. Radiocarbon dating shows they are between 2,950 and 1,815 years old, the earliest securely dated pottery in Australia, and the clays show it was likely all made right there on the island.",
+  "source": {
+   "name": "The Conversation: Aboriginal people made pottery and sailed to distant offshore islands thousands of years before Europeans arrived (Ulm, McNiven, McLean)",
+   "url": "https://theconversation.com/aboriginal-people-made-pottery-and-sailed-to-distant-offshore-islands-thousands-of-years-before-europeans-arrived-226391"
+  }
+ },
+ {
+  "id": "n12-niue-settled",
+  "era": "medieval",
+  "year": 900,
+  "dateLabel": "About 900 CE",
+  "cat": "journeys",
+  "title": "Samoan Voyagers Settle Niue",
+  "place": "Niue",
+  "lat": -19.05,
+  "lng": -169.87,
+  "text": "Niue is a raised coral island about 65 km around, far out in the southwestern Pacific. Archaeological evidence shows it was settled about 900 CE by people from Samoa. According to Niuean tradition, a second group, a war party from Tonga, arrived in the 16th century. Today's Niuean language is a Polynesian tongue related to both Tongan and Samoan.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Niue",
+   "url": "https://www.britannica.com/place/Niue"
+  }
+ },
+ {
+  "id": "n12-fiji-cession",
+  "era": "industrial",
+  "year": 1874,
+  "dateLabel": "October 10, 1874",
+  "cat": "power",
+  "title": "Fiji Becomes a Crown Colony",
+  "place": "Fiji",
+  "lat": -17.7,
+  "lng": 178.6,
+  "text": "Trade in sandalwood, sea cucumbers and muskets fuelled rivalries among Fiji's chiefs, and cotton planters arriving in the 1860s brought new fights over land. No chief could rule the whole group, and on 10 October 1874 Fiji became a British crown colony. Its first governor, Sir Arthur Gordon, banned sales of Fijian land and governed through the traditional chiefly structure.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Fiji, History",
+   "url": "https://www.britannica.com/place/Fiji-republic-Pacific-Ocean/History"
+  }
+ },
+ {
+  "id": "n12-nauru-independence",
+  "era": "modern",
+  "year": 1968,
+  "dateLabel": "January 31, 1968",
+  "cat": "power",
+  "title": "Nauru Picks Its Independence Day",
+  "place": "Nauru",
+  "lat": -0.53,
+  "lng": 166.92,
+  "text": "In World War II, 1,200 Nauruans were taken to Truk (now Chuuk) as forced labourers for Japan. On 31 January 1946, 737 survivors came home. When the tiny phosphate island won independence, its people chose that same date: on 31 January 1968, the 22nd anniversary of the return from Truk, Nauru became a republic, with Hammer DeRoburt dominating its politics for two decades.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Nauru, History",
+   "url": "https://www.britannica.com/place/Nauru/History"
+  }
+ },
+ {
+  "id": "n12-tonga-two-kings",
+  "era": "medieval",
+  "year": 1470,
+  "dateLabel": "About 1470",
+  "cat": "power",
+  "title": "Tonga's Sacred King Shares Power",
+  "place": "Tongatapu, Tonga",
+  "lat": -21.17,
+  "lng": -175.2,
+  "text": "From at least the 10th century, Tonga was ruled by a line of sacred kings and queens, the Tuʻi Tonga. About 1470 the reigning Tuʻi Tonga handed his worldly powers to his brother, who took the title Tuʻi Haʻa Takalaua. A similar handover about 1600 created a third royal line, the Tuʻi Kanokupolu, whose holders eventually became Tonga's rulers.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Tonga, History",
+   "url": "https://www.britannica.com/place/Tonga/History"
+  }
+ },
+ {
+  "id": "n12-boyd-whangaroa",
+  "era": "industrial",
+  "year": 1809,
+  "dateLabel": "1809",
+  "cat": "power",
+  "title": "Utu for Te Ara: The Boyd",
+  "place": "Whangaroa Harbour, Northland, New Zealand",
+  "lat": -35.04,
+  "lng": 173.75,
+  "text": "On the voyage from Sydney, the crew of the brig Boyd flogged the Ngāti Pou chief Te Ara. When the ship reached Whangaroa in 1809 to load kauri timber, his people took utu (retaliation): about seventy crew and passengers were killed, and the ship burned after gunpowder accidentally exploded. Wrongly blamed, the Bay of Islands chief Te Pahi saw his village attacked by whalers a year later.",
+  "source": {
+   "name": "Museum of New Zealand Te Papa Tongarewa: The blowing up of the Boyd (Steele and Watkins, 1889)",
+   "url": "https://collections.tepapa.govt.nz/object/36720"
+  }
+ }
+]

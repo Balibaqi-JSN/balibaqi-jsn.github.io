@@ -1,0 +1,318 @@
+[
+ {
+  "id": "m07-yakutsk-fort-on-the-lena",
+  "era": "exploration",
+  "year": 1632,
+  "dateLabel": "1632",
+  "cat": "daily",
+  "title": "A Fort on the Lena",
+  "place": "Yakutsk, Sakha Republic, Russia",
+  "lat": 62.03,
+  "lng": 129.73,
+  "text": "In 1632 a fort was founded on the low right bank of the Lena River, and in 1642 it was moved 70 km upstream to the spot where Yakutsk stands today. For a long time it was a small town of wooden houses, and from the 19th century dissidents were exiled there. It is now capital of Sakha, where temperatures of −68 °C have been recorded.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Yakutsk",
+   "url": "https://www.britannica.com/place/Yakutsk"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Siberia",
+   "url": "https://www.britannica.com/place/Siberia"
+  }
+ },
+ {
+  "id": "m07-bering-sails-from-kamchatka",
+  "era": "exploration",
+  "year": 1728,
+  "dateLabel": "July–August 1728",
+  "cat": "journeys",
+  "title": "Bering Goes Looking for America",
+  "place": "Kamchatka Peninsula, Russia",
+  "lat": 56.2,
+  "lng": 162.5,
+  "text": "Tsar Peter the Great wanted to know whether Asia and North America were joined by land, so in 1724 he put the Danish navigator Vitus Bering in charge of finding out. On July 13, 1728, Bering sailed from Kamchatka and in August passed through the strait into the Arctic Ocean. Bad weather hid the American coast, but he concluded that Siberia and America were not joined.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Vitus Bering",
+   "url": "https://www.britannica.com/biography/Vitus-Bering"
+  }
+ },
+ {
+  "id": "m07-abulkhair-oath-irgiz",
+  "era": "exploration",
+  "year": 1731,
+  "dateLabel": "October 10, 1731",
+  "cat": "power",
+  "title": "A Khan Turns to Russia",
+  "place": "Irgiz River, Aktobe Region, Kazakhstan",
+  "lat": 48.62,
+  "lng": 61.27,
+  "text": "Abulkhair, khan of the Kazakhs' Young Juz, had asked Russia for protection. In February 1731 Empress Anna signed a charter for him, and her envoy A. I. Tevkelev reached the khan's camp on the Irgiz River on October 5. On October 10 much of the gathered Kazakh leadership backed accepting Russian rule, yet the threat of devastating Dzungar invasions did not go away.",
+  "source": {
+   "name": "e-history.kz (History of Kazakhstan portal): Beginning of accession of Kazakhstan to the Russian Empire",
+   "url": "https://e-history.kz/en/history-of-kazakhstan/show/9565"
+  }
+ },
+ {
+  "id": "m07-abylay-khan-three-zhuzes",
+  "era": "exploration",
+  "year": 1771,
+  "dateLabel": "1771",
+  "cat": "power",
+  "title": "Abylay, Khan of All Three Zhuzes",
+  "place": "Kazakh Khanate; buried at Turkestan, Kazakhstan",
+  "lat": 43.29,
+  "lng": 68.27,
+  "text": "In 1771, after Khan Abilmambet died, influential figures from all three Kazakh zhuzes proclaimed Abylay their khan. He had first won fame as a batyr, or warrior, in battles with the Dzungars in 1730–1740, and he cleverly used disputes between the Russian and Chinese empires to serve the Kazakh Khanate. He was later buried in the mausoleum-mosque of Khoja Ahmed Yasawi.",
+  "source": {
+   "name": "e-history.kz (History of Kazakhstan portal): Abylay Khan (Abilmansur)",
+   "url": "https://e-history.kz/en/prominent-figures/show/12717"
+  }
+ },
+ {
+  "id": "m07-volkonskaya-follows-to-siberia",
+  "era": "industrial",
+  "year": 1827,
+  "dateLabel": "1827",
+  "cat": "daily",
+  "title": "The Princess Who Followed to the Mines",
+  "place": "Mines near Nerchinsk, Zabaykalsky Krai, Russia",
+  "lat": 51.31,
+  "lng": 119.61,
+  "text": "After the failed Decembrist uprising of 1825, most of the rebels were banished to Siberia. Maria Volkonskaya followed her exiled husband in 1827, though her father told her to forget him. The tsar's terms were harsh: she had to leave her son behind and could own no valuables. Reaching Nerchinsk by sledge, she sneaked into the freezing mines with letters from home.",
+  "source": {
+   "name": "Women in World History (via Encyclopedia.com), Karin Loewen Haag: Volkonskaya, Maria (1805–1863)",
+   "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/volkonskaya-maria-1805-1863"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Decembrist",
+   "url": "https://www.britannica.com/topic/Decembrist"
+  }
+ },
+ {
+  "id": "m07-verny-fort-father-of-apples",
+  "era": "industrial",
+  "year": 1854,
+  "dateLabel": "1854",
+  "cat": "daily",
+  "title": "A Fort Among the Apple Trees",
+  "place": "Almaty, Kazakhstan",
+  "lat": 43.26,
+  "lng": 76.94,
+  "text": "In 1854 the Russians built the military fortification of Zailiyskoye where the Big and Small Almaty rivers leave the Trans-Ili Alatau mountains; it was renamed Verny in 1855. Cossacks, peasant settlers and Tatar merchants soon moved in nearby. In 1921 the city took the name Alma-Ata, from the Kazakh Almaty, \"father of apples\", after the many apple trees around it.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Almaty",
+   "url": "https://www.britannica.com/place/Almaty-Kazakhstan"
+  }
+ },
+ {
+  "id": "m07-vladivostok-founded",
+  "era": "industrial",
+  "year": 1860,
+  "dateLabel": "1860",
+  "cat": "power",
+  "title": "The Town Named Rule the East",
+  "place": "Vladivostok, Primorsky Krai, Russia",
+  "lat": 43.12,
+  "lng": 131.89,
+  "text": "Russia founded Vladivostok in 1860 as a military outpost on Golden Horn Bay, on the Sea of Japan. Its name has been read as \"Rule the East\" or \"Lord of the East\". The main Russian naval base on the Pacific moved here in 1872, and the town became a city in 1880. In Soviet times it was closed to foreign shipping from the late 1950s until 1990.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Vladivostok",
+   "url": "https://www.britannica.com/place/Vladivostok"
+  }
+ },
+ {
+  "id": "m07-przhevalsky-dies-karakol",
+  "era": "industrial",
+  "year": 1888,
+  "dateLabel": "November 1, 1888",
+  "cat": "discovery",
+  "title": "The Explorer Who Named a Horse",
+  "place": "Karakol, Issyk-Kul Region, Kyrgyzstan",
+  "lat": 42.49,
+  "lng": 78.39,
+  "text": "On November 1, 1888, the explorer Nikolay Przhevalsky died at Karakol on Lake Issyk-Kul, of typhus caught by drinking river water. On five major expeditions he had described a wild camel and a wild horse, now named after him, and gathered 5,010 birds and a herbarium of more than 15,000 plants. In his memory, Karakol was renamed Przhevalsk.",
+  "source": {
+   "name": "Encyclopedia.com (Complete Dictionary of Scientific Biography; Encyclopedia of World Biography): Nikolai Mikhailovich Przhevalsky",
+   "url": "https://www.encyclopedia.com/people/science-and-technology/geography-biographies/nikolai-mikhailovich-przhevalskii"
+  }
+ },
+ {
+  "id": "m07-rails-around-baikal",
+  "era": "industrial",
+  "year": 1905,
+  "dateLabel": "1905",
+  "cat": "journeys",
+  "title": "Trains Finally Circle Lake Baikal",
+  "place": "Southern shore of Lake Baikal, Irkutsk Oblast, Russia",
+  "lat": 51.66,
+  "lng": 103.72,
+  "text": "In 1891 Sergei Witte of the finance ministry persuaded Tsar Alexander III to begin a railway across Siberia to the Pacific. It was built in several stretches at once, but Lake Baikal remained a barrier: cargo and passengers had to cross by ferry until a line around the lake opened in 1905. Today the Trans-Siberian runs 9,288 km from Moscow to Vladivostok.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Trans-Siberian Railroad (Sanat Pai Raikar)",
+   "url": "https://www.britannica.com/topic/Trans-Siberian-Railroad"
+  }
+ },
+ {
+  "id": "m07-kebin-earthquake-verniy",
+  "era": "industrial",
+  "year": 1911,
+  "dateLabel": "January 3, 1911",
+  "cat": "nature",
+  "title": "The Quake That Shook Verniy",
+  "place": "Kemin–Chilik fault, northern Tien Shan, Kazakhstan–Kyrgyzstan border",
+  "lat": 43,
+  "lng": 77.37,
+  "text": "On January 3, 1911, a great earthquake struck the northern Tien Shan. Surface ruptures stretched for about 200 km along the Kemin–Chilik fault zone, and in Verniy, today's Almaty, almost every building was damaged and about 400 people were killed. Scientists who re-read old seismograms from 23 stations put its magnitude at about 8, the strongest instrumentally recorded quake in the region.",
+  "source": {
+   "name": "Geophysical Journal International (Kulikova and Krüger, 2015): Source process of the 1911 M8.0 Chon-Kemin earthquake",
+   "url": "https://academic.oup.com/gji/article/201/3/1891/763792"
+  }
+ },
+ {
+  "id": "m07-alash-orda-kazakh-state",
+  "era": "modern",
+  "year": 1917,
+  "dateLabel": "1917",
+  "cat": "power",
+  "title": "Alash Orda Declares a Kazakh State",
+  "place": "Kazakh steppe, Kazakhstan",
+  "lat": 48.5,
+  "lng": 68,
+  "text": "In 1916 an order calling up Central Asians for military service set off a revolt, and brutal Russian punitive expeditions drove many Kazakhs east. In 1917 Kazakhs formed Alash Orda, a national and socialist-minded organisation, which that same year proclaimed an independent Kazakh state. It did not last: by 1920 the whole Kazakh steppe was under Bolshevik control from Moscow.",
+  "source": {
+   "name": "Lex (Den Store Danske): Kasakhstans historie før 1920",
+   "url": "https://lex.dk/Kasakhstans_historie_f%C3%B8r_1920"
+  }
+ },
+ {
+  "id": "m07-aytmatov-jamila",
+  "era": "modern",
+  "year": 1958,
+  "dateLabel": "1958",
+  "cat": "culture",
+  "title": "Jamila, a Kyrgyz Love Story",
+  "place": "Sheker, Talas Region, Kyrgyzstan",
+  "lat": 42.45,
+  "lng": 71.93,
+  "text": "In 1958 the Kyrgyz writer Chingiz Aytmatov published Jamila, later translated into English as Jamilia. Born in the village of Sheker in 1928, he lost his father to Stalin's purges and wrote in both Kyrgyz and Russian. His stories return again and again to love and friendship, wartime courage, and young Kyrgyz people breaking free from restrictive custom and tradition.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Chingiz Aytmatov",
+   "url": "https://www.britannica.com/biography/Chingiz-Aytmatov"
+  }
+ },
+ {
+  "id": "m07-jeltoqsan-almaty",
+  "era": "modern",
+  "year": 1986,
+  "dateLabel": "December 16–19, 1986",
+  "cat": "power",
+  "title": "Jeltoqsan: Students Defy Moscow",
+  "place": "Republic Square, Almaty, Kazakhstan",
+  "lat": 43.24,
+  "lng": 76.95,
+  "text": "On December 16, 1986, Moscow announced that the popular Kazakh party chief Dinmukhamed Kunayev would be replaced by Gennady Kolbin, an ethnic Russian. Next morning mostly students gathered on Brezhnev Square in Alma-Ata to protest. Police and soldiers attacked them, and estimates of the dead run from 200 to 1,000. A monument and Jeltoqsan (\"December\") Street now remember them.",
+  "source": {
+   "name": "Lex (Den Store Danske), Mia Tarp, Roskilde University: Zjeltoqsan-massakren",
+   "url": "https://lex.dk/Zjeltoqsan-massakren"
+  }
+ },
+ {
+  "id": "m07-ukok-frozen-tomb",
+  "era": "modern",
+  "year": 1993,
+  "dateLabel": "1993",
+  "cat": "discovery",
+  "title": "A Tattooed Woman in the Ice",
+  "place": "Ukok Plateau, Altai Republic, Russia",
+  "lat": 49.3,
+  "lng": 87.5,
+  "text": "In 1993 Russian archaeologists on the Ukok Plateau found a frozen grave of a noble Pazyryk woman from the 4th century BC, untouched by robbers. Inside the frozen larch vault lay her mummy, its arms covered with tattoos, and six horses were buried with her. An MRI scan in 2010 found a dislocated right hip, a damaged right shoulder and signs of severe infection.",
+  "source": {
+   "name": "SCIENCE First Hand (Siberian Branch, Russian Academy of Sciences): The mummy continues to reveal secrets",
+   "url": "https://scfh.ru/en/news/the-mummy-continues-to-reveal-secrets/"
+  }
+ },
+ {
+  "id": "m07-astana-new-capital",
+  "era": "modern",
+  "year": 1997,
+  "dateLabel": "1997",
+  "cat": "daily",
+  "title": "A New Capital on the Steppe",
+  "place": "Astana, Kazakhstan",
+  "lat": 51.13,
+  "lng": 71.43,
+  "text": "In 1994 Kazakhstan resolved to move its capital from Almaty, in the southeast, to Aqmola on the Ishim River, a move completed in 1997. In 1998 the city was renamed Astana, meaning \"Capital\". Japanese architect Kurokawa Kishō designed its broad avenues and blue-and-gold buildings, and with winter averages of −22 °C it is one of the coldest capitals in the world.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Astana",
+   "url": "https://www.britannica.com/place/Astana-Kazakhstan"
+  }
+ },
+ {
+  "id": "m07-uvs-nuur-basin",
+  "era": "modern",
+  "year": 2003,
+  "dateLabel": "2003",
+  "cat": "nature",
+  "title": "The Salt Lake at Asia's Heart",
+  "place": "Uvs Nuur, Uvs Province, Mongolia",
+  "lat": 50.33,
+  "lng": 92.75,
+  "text": "In 2003 the Uvs Nuur Basin, shared by western Mongolia and Russia's Republic of Tuva, joined the World Heritage List. At its centre is Uvs Nuur, a large, shallow and very salty lake vital to migrating birds. Around it cold desert, steppe, forest, glacial lakes and even tundra meet, and the mountains shelter snow leopards, argali sheep and Asiatic ibex.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Uvs Nuur Basin",
+   "url": "https://whc.unesco.org/en/list/769"
+  }
+ },
+ {
+  "id": "m07-lyuba-baby-mammoth",
+  "era": "modern",
+  "year": 2007,
+  "dateLabel": "May 2007",
+  "cat": "discovery",
+  "title": "Lyuba, the Baby Mammoth",
+  "place": "Yamal Peninsula, Yamalo-Nenets Autonomous Okrug, Russia",
+  "lat": 69.5,
+  "lng": 70.5,
+  "text": "In May 2007 Yuri Khudi, a Nenets reindeer herder, spotted a baby woolly mammoth eroding out of a riverbank on the Yamal Peninsula. Named Lyuba after his wife, she is the most complete mammoth carcass ever found, weighing about 110 pounds, the size of a large dog. X-rays showed she had tiny tusks, no larger than a human finger.",
+  "source": {
+   "name": "Archaeology (Archaeological Institute of America), Eric A. Powell: Lyuba the Baby Mammoth, Yamal Peninsula, Russia",
+   "url": "https://archive.archaeology.org/0801/topten/lyuba.html"
+  }
+ },
+ {
+  "id": "m07-sulaiman-too-sacred-mountain",
+  "era": "modern",
+  "year": 2009,
+  "dateLabel": "2009",
+  "cat": "culture",
+  "title": "The Sacred Mountain of Osh",
+  "place": "Sulaiman-Too, Osh, Kyrgyzstan",
+  "lat": 40.53,
+  "lng": 72.78,
+  "text": "Rising above the city of Osh in the Fergana Valley, Sulaiman-Too has been revered as a sacred mountain for at least a millennium and a half. Its five peaks hold caves with petroglyphs, 17 places of worship still in use and two largely reconstructed 16th-century mosques. Some sites are believed to cure headaches and back pain. UNESCO listed it as World Heritage in 2009.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Sulaiman-Too Sacred Mountain",
+   "url": "https://whc.unesco.org/en/list/1230"
+  }
+ },
+ {
+  "id": "m07-kamchatka-great-quake-2025",
+  "era": "modern",
+  "year": 2025,
+  "dateLabel": "July 29, 2025 (UTC)",
+  "cat": "nature",
+  "title": "Magnitude 8.8 off Kamchatka",
+  "place": "Pacific Ocean off Petropavlovsk-Kamchatsky, Kamchatka, Russia",
+  "lat": 52.5,
+  "lng": 160.24,
+  "text": "On July 29, 2025, a magnitude 8.8 earthquake struck 35 km deep off the Kamchatka Peninsula, about 120 km from Petropavlovsk-Kamchatsky. It was one of the most powerful ever recorded and set off tsunami alerts across the Pacific, yet damage in the city was relatively minor and no deaths were reported. Here the Pacific plate dives into the mantle beneath the region.",
+  "source": {
+   "name": "USGS Earthquake Hazards Program: M 8.8 - 2025 Kamchatka Peninsula, Russia Earthquake",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/region-info"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Petropavlovsk-Kamchatsky",
+   "url": "https://www.britannica.com/place/Petropavlovsk-Kamchatsky"
+  }
+ }
+]

@@ -1,0 +1,1662 @@
+[
+ {
+  "id": "md2-clovis-paris",
+  "era": "medieval",
+  "year": 508,
+  "dateLabel": "Early 500s",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "Clovis Picks Paris as His Capital",
+  "place": "Paris, France",
+  "lat": 48.86,
+  "lng": 2.35,
+  "text": "Clovis, king of the Franks, took the small river town of Paris and later made it the center of his kingdom; he was buried there in 511. He converted to Catholic Christianity and worked closely with the bishops of Gaul. His people gave their name to a whole country: 'France' comes from the Franks.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Paris'",
+   "url": "https://www.britannica.com/place/Paris"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Clovis I'",
+   "url": "https://www.britannica.com/biography/Clovis-I"
+  }
+ },
+ {
+  "id": "md2-kaleb-himyar",
+  "era": "medieval",
+  "year": 525,
+  "dateLabel": "About 525",
+  "emoji": "⛵",
+  "cat": "power",
+  "title": "Aksum Sails Across the Red Sea",
+  "place": "Aksum, Ethiopia",
+  "lat": 14.13,
+  "lng": 38.72,
+  "text": "King Kaleb of Aksum sent armies across the Red Sea against Himyar in Yemen, and in 525 the Aksumites crushed it. For a time, an African kingdom ruled part of Arabia. Aksum, a great trading power that commanded the ivory trade, even minted its own coins, which have turned up as far away as India and Sri Lanka.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Himyar'",
+   "url": "https://www.britannica.com/topic/Himyar"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline of Art History, 'Foundations of Aksumite Civilization and Its Christian Legacy'",
+   "url": "https://www.metmuseum.org/toah/hd/aksu_1/hd_aksu_1.htm"
+  }
+ },
+ {
+  "id": "md2-monte-cassino",
+  "era": "medieval",
+  "year": 529,
+  "dateLabel": "About 529",
+  "emoji": "📿",
+  "cat": "culture",
+  "title": "Benedict's Rule for Monks",
+  "place": "Monte Cassino, Italy",
+  "lat": 41.49,
+  "lng": 13.81,
+  "text": "A monk named Benedict founded a monastery on a hilltop south of Rome. His short rulebook set out a balanced day of prayer, work and reading, much later summed up in the motto 'pray and work'. By about 800 it guided most monasteries in western Europe, which became the chief keepers of learning, copying and saving many ancient books.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Monte Cassino Abbey'",
+   "url": "https://www.britannica.com/topic/Monte-Cassino-Abbey"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'St. Benedict'",
+   "url": "https://www.britannica.com/biography/Saint-Benedict-of-Nursia"
+  }
+ },
+ {
+  "id": "md2-plague-justinian",
+  "era": "medieval",
+  "year": 541,
+  "dateLabel": "541",
+  "emoji": "🐀",
+  "cat": "nature",
+  "title": "The First Great Plague",
+  "place": "Pelusium, Egypt",
+  "lat": 31.04,
+  "lng": 32.55,
+  "text": "A deadly plague broke out at the Egyptian port of Pelusium and spread along trade routes to Constantinople. DNA from old skeletons shows it was caused by the same germ as the later Black Death. It returned again and again for about two hundred years, emptying cities around the Mediterranean.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Plague of Justinian'",
+   "url": "https://www.britannica.com/event/plague-of-Justinian"
+  }
+ },
+ {
+  "id": "md2-buddhism-japan",
+  "era": "medieval",
+  "year": 552,
+  "dateLabel": "538 or 552",
+  "emoji": "🪷",
+  "cat": "culture",
+  "title": "A Gift of Buddha Statues to Japan",
+  "place": "Asuka, Japan",
+  "lat": 34.47,
+  "lng": 135.82,
+  "text": "A king of Baekje in Korea sent a golden Buddha statue and holy texts to the Japanese court. Some nobles loved the new faith while others feared it would anger Japan's own gods. After years of quarrels the Soga clan's side won, and Buddhism grew into one of Japan's great traditions.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Japan: Yamato decline and the introduction of Buddhism)",
+   "url": "https://www.britannica.com/place/Japan/Yamato-decline-and-the-introduction-of-Buddhism"
+  },
+  "source2": {
+   "name": "Asia for Educators, Columbia University",
+   "url": "https://afe.easia.columbia.edu/tps/600ce_jp.htm"
+  }
+ },
+ {
+  "id": "md2-tikal-defeat",
+  "era": "medieval",
+  "year": 562,
+  "dateLabel": "562",
+  "emoji": "🏹",
+  "cat": "power",
+  "title": "Tikal Loses a Great War",
+  "place": "Tikal, Guatemala",
+  "lat": 17.22,
+  "lng": -89.62,
+  "text": "The mighty Maya city of Tikal was defeated by its rival Calakmul and allies such as Caracol. Afterwards Tikal raised no new carved monuments for over a century, a quiet stretch archaeologists call the 'hiatus'. Later Tikal bounced back and built some of its tallest temples.",
+  "source": {
+   "name": "Penn Museum, Expedition Magazine (R. Sharer, 'Time of Kings and Queens')",
+   "url": "https://www.penn.museum/sites/expedition/time-of-kings-and-queens/"
+  },
+  "source2": {
+   "name": "A. F. Chase & D. Z. Chase, 'The Materialization of Classic Period Maya Warfare' (Caracol Archaeological Project)",
+   "url": "https://caracol.org/wp-content/uploads/2020/04/Chases20war.pdf"
+  }
+ },
+ {
+  "id": "md2-sui-reunite",
+  "era": "medieval",
+  "year": 589,
+  "dateLabel": "589",
+  "emoji": "🐉",
+  "cat": "power",
+  "title": "The Sui Reunite China",
+  "place": "Xi'an, China",
+  "lat": 34.27,
+  "lng": 108.95,
+  "text": "After nearly three hundred years of split kingdoms, the Sui dynasty conquered the south and joined China back together. The Sui lasted less than forty years, yet they built a huge new capital and set up exams for officials. Their work laid the ground for the golden age of the Tang.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Sui dynasty)",
+   "url": "https://www.britannica.com/topic/Sui-dynasty"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Tang Dynasty (618-907)",
+   "url": "https://www.metmuseum.org/essays/tang-dynasty-618-906"
+  }
+ },
+ {
+  "id": "md2-joya-de-ceren",
+  "era": "medieval",
+  "year": 600,
+  "dateLabel": "About 600",
+  "emoji": "🌋",
+  "cat": "daily",
+  "title": "A Village Frozen by Ash",
+  "place": "Joya de Cerén, El Salvador",
+  "lat": 13.83,
+  "lng": -89.37,
+  "text": "A nearby volcano buried this Maya farming village under several meters of ash. The people seem to have escaped, but they left everything behind: sleeping mats, pots with beans, and a garden of manioc plants. It is often called the 'Pompeii of the Americas' because it shows everyday life, not kings.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/675"
+  },
+  "source2": {
+   "name": "University of Colorado Boulder",
+   "url": "https://www.colorado.edu/today/2015/11/03/cu-boulder-study-shows-ancient-salvadoran-village-buried-ash-frozen-time"
+  }
+ },
+ {
+  "id": "md2-grand-canal",
+  "era": "medieval",
+  "year": 605,
+  "dateLabel": "605",
+  "emoji": "🛶",
+  "cat": "journeys",
+  "title": "Digging the Grand Canal",
+  "place": "Luoyang, China",
+  "lat": 34.62,
+  "lng": 112.45,
+  "text": "Emperor Yang of Sui forced huge numbers of laborers to link China's great rivers with canals. The Grand Canal let rice and goods float from the rich south to the north. Its terrible cost, together with his failed wars in Korea, helped topple his dynasty, but parts of the world's longest canal are still used by boats today.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1443"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Grand Canal)",
+   "url": "https://www.britannica.com/topic/Grand-Canal-China"
+  }
+ },
+ {
+  "id": "md2-hira-revelation",
+  "era": "medieval",
+  "year": 610,
+  "dateLabel": "About 610",
+  "emoji": "🕋",
+  "cat": "culture",
+  "title": "A Voice in the Cave of Hira",
+  "place": "Mecca, Saudi Arabia",
+  "lat": 21.46,
+  "lng": 39.86,
+  "text": "A merchant named Muhammad often went to a cave on Mount Hira near Mecca to think, and Muslims believe that there he received the first words of the Quran from the angel Gabriel. His wife Khadija, a successful businesswoman, is often considered the first person to believe his message. Within a century, Islam had spread from Spain to Central Asia.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Muhammad)",
+   "url": "https://www.britannica.com/biography/Muhammad"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: The Birth of Islam",
+   "url": "https://www.metmuseum.org/essays/the-birth-of-islam"
+  }
+ },
+ {
+  "id": "md2-brahmagupta-zero",
+  "era": "medieval",
+  "year": 628,
+  "dateLabel": "628",
+  "emoji": "0️⃣",
+  "cat": "discovery",
+  "title": "Brahmagupta's Rules for Zero",
+  "place": "Bhinmal, India",
+  "lat": 25,
+  "lng": 72.27,
+  "text": "The astronomer Brahmagupta wrote a book that treated zero as a real number you can add, subtract and multiply. He also gave rules for negative numbers, calling them 'debts' and positive numbers 'fortunes'. These Indian ideas passed to mathematicians in the Islamic world and later to Europe, shaping the math we use every day.",
+  "source": {
+   "name": "MacTutor History of Mathematics, University of St Andrews",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/"
+  },
+  "source2": {
+   "name": "MacTutor History of Mathematics, University of St Andrews, 'A history of Zero'",
+   "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Zero/"
+  }
+ },
+ {
+  "id": "md2-princess-wencheng",
+  "era": "medieval",
+  "year": 641,
+  "dateLabel": "641",
+  "emoji": "👸",
+  "cat": "journeys",
+  "title": "Princess Wencheng Goes to Tibet",
+  "place": "Lhasa, China",
+  "lat": 29.65,
+  "lng": 91.12,
+  "text": "A Tang princess named Wencheng traveled the long road to Lhasa to marry the Tibetan king Songtsen Gampo. Tradition says she brought a famous Buddha statue still kept in the Jokhang Temple. Tibetan Buddhists later revered her as an incarnation of White Tara, and her marriage linked two powerful empires.",
+  "source": {
+   "name": "The Treasury of Lives (biographical encyclopedia of Tibet)",
+   "url": "https://treasuryoflives.org/biographies/view/Queen-Wencheng/TBRC_P8116"
+  },
+  "source2": {
+   "name": "Rubin Museum of Art, Project Himalayan Art (C. D. Warner)",
+   "url": "https://rubinmuseum.org/projecthimalayanart/essays/jowo-shakyamuni-of-the-rasa-trulnang-tsuklakhang-jokhang-temple/"
+  }
+ },
+ {
+  "id": "md2-umayyad-damascus",
+  "era": "medieval",
+  "year": 661,
+  "dateLabel": "661",
+  "emoji": "🏛️",
+  "cat": "power",
+  "title": "Damascus Becomes an Empire's Capital",
+  "place": "Damascus, Syria",
+  "lat": 33.51,
+  "lng": 36.31,
+  "text": "Muawiya founded the Umayyad Caliphate and ruled from Damascus. Within decades the empire stretched from Spain to India, one of the largest the world had seen. The Umayyads made Arabic the language of government and minted new coins decorated only with writing, replacing the figures that earlier Islamic coins had shown.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: The Art of the Umayyad Period (661-750)",
+   "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Umayyad dynasty)",
+   "url": "https://www.britannica.com/topic/Umayyad-dynasty-Islamic-history"
+  }
+ },
+ {
+  "id": "md2-silla-unify",
+  "era": "medieval",
+  "year": 668,
+  "dateLabel": "668",
+  "emoji": "🛡️",
+  "cat": "power",
+  "title": "Silla Unites Korea",
+  "place": "Gyeongju, South Korea",
+  "lat": 35.84,
+  "lng": 129.21,
+  "text": "The kingdom of Silla teamed up with Tang China to defeat its rivals Baekje and Goguryeo. Then Silla turned around and pushed the Tang armies out too. Much of the Korean peninsula was ruled as one kingdom for the first time, and its capital Gyeongju grew rich, building famous Buddhist sites like Bulguksa temple and the Seokguram grotto.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Korea: Unified Silla)",
+   "url": "https://www.britannica.com/place/Korea/Unified-Silla"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre (Seokguram Grotto and Bulguksa Temple)",
+   "url": "https://whc.unesco.org/en/list/736"
+  }
+ },
+ {
+  "id": "md2-srivijaya-inscription",
+  "era": "medieval",
+  "year": 683,
+  "dateLabel": "683",
+  "emoji": "🚢",
+  "cat": "power",
+  "title": "Srivijaya's Stone Announcement",
+  "place": "Palembang, Indonesia",
+  "lat": -2.99,
+  "lng": 104.76,
+  "text": "A stone inscription found near Palembang, dated 683, tells how a ruler set out with a large body of troops after seeking blessings for success. Like most of Srivijaya's earliest inscriptions, it is written in Old Malay. Srivijaya became a sea power that controlled the Strait of Malacca and a stopping place for Buddhist pilgrims from China.",
+  "source": {
+   "name": "SPAFA Digest (J. G. de Casparis, 'Some Notes on the Epigraphic Heritage of Srivijaya')",
+   "url": "https://www.spafajournal.org/index.php/spafadigest/article/download/416/408"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Srivijaya empire)",
+   "url": "https://www.britannica.com/topic/Srivijaya-empire"
+  }
+ },
+ {
+  "id": "md2-wu-zetian",
+  "era": "medieval",
+  "year": 690,
+  "dateLabel": "690",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "China's Only Female Emperor",
+  "place": "Luoyang, China",
+  "lat": 34.62,
+  "lng": 112.45,
+  "text": "Wu Zetian declared her own dynasty and became the only woman to rule China as emperor in her own right. She expanded the exams for officials so talent mattered more than family. She even created a new written character for her own name, Zhao, meaning 'the sun, moon and sky'.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Wuhou)",
+   "url": "https://www.britannica.com/biography/Wuhou"
+  },
+  "source2": {
+   "name": "Origins: Current Events in Historical Perspective (Ohio State University / Miami University), 'Wu Zetian: The Only Woman Emperor in Chinese History'",
+   "url": "https://origins.osu.edu/read/wu-zetian-woman-emperor-china"
+  }
+ },
+ {
+  "id": "md2-shore-temple",
+  "era": "medieval",
+  "year": 700,
+  "dateLabel": "About 700",
+  "emoji": "🌊",
+  "cat": "culture",
+  "title": "The Temple by the Waves",
+  "place": "Mamallapuram, India",
+  "lat": 12.62,
+  "lng": 80.2,
+  "text": "Pallava kings built this granite temple right at the edge of the Bay of Bengal. It is one of the oldest structural stone temples in South India, built from cut blocks rather than carved out of a cliff. When the waves of the 2004 tsunami receded, they scoured away sand near the temple and exposed carved stone animals long hidden from view.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Group of Monuments at Mahabalipuram)",
+   "url": "https://whc.unesco.org/en/list/249"
+  },
+  "source2": {
+   "name": "Associated Press via CBS News, 'Hidden City Uncovered By Tsunami' (2005)",
+   "url": "https://www.cbsnews.com/news/hidden-city-uncovered-by-tsunami/"
+  }
+ },
+ {
+  "id": "md2-kojiki",
+  "era": "medieval",
+  "year": 712,
+  "dateLabel": "712",
+  "emoji": "📜",
+  "cat": "culture",
+  "title": "Japan's Oldest Book",
+  "place": "Nara, Japan",
+  "lat": 34.69,
+  "lng": 135.8,
+  "text": "The Kojiki, or 'Record of Ancient Matters', was presented to Empress Genmei in 712. It mixes myths, poems, songs and family trees, telling how the gods created the Japanese islands. A court retainer named Hieda no Are, famed for his memory, had learned the old tales by heart, and a scholar wrote them down using Chinese characters.",
+  "source": {
+   "name": "Kokugakuin University",
+   "url": "https://www.kokugakuin.ac.jp/en/article/82153"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Kojiki)",
+   "url": "https://www.britannica.com/topic/Kojiki"
+  }
+ },
+ {
+  "id": "md2-talas",
+  "era": "medieval",
+  "year": 751,
+  "dateLabel": "751",
+  "emoji": "⚔️",
+  "cat": "power",
+  "title": "The Battle of Talas",
+  "place": "Taraz, Kazakhstan",
+  "lat": 42.9,
+  "lng": 71.37,
+  "text": "Armies of the Abbasid Caliphate and Tang China clashed near the Talas River in Central Asia. The Abbasids won, and Tang power in the region began to fade. A popular story says captured Chinese papermakers taught the craft in Samarkand, though historians think paper had already started spreading west.",
+  "source": {
+   "name": "Encyclopaedia Iranica ('Paper ii. Paper and Papermaking')",
+   "url": "https://www.iranicaonline.org/articles/paper-and-papermaking/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica, 'Chinese Turkestan iii. From the Advent of Islam to the Mongols' (I. Togan)",
+   "url": "https://www.iranicaonline.org/articles/chinese-turkestan-iii/"
+  }
+ },
+ {
+  "id": "md2-todaiji-buddha",
+  "era": "medieval",
+  "year": 752,
+  "dateLabel": "752",
+  "emoji": "🙏",
+  "cat": "culture",
+  "title": "The Great Buddha Opens Its Eyes",
+  "place": "Nara, Japan",
+  "lat": 34.69,
+  "lng": 135.84,
+  "text": "At Tōdai-ji temple a giant bronze Buddha, cast with about 500 tons of copper, was dedicated. An Indian monk named Bodhisena painted in its eyes in a grand ceremony with thousands of monks. Objects used at the event, including the brush, are still kept in the temple's wooden storehouse, the Shōsōin.",
+  "source": {
+   "name": "Tokyo National Museum",
+   "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=704&lang=en"
+  },
+  "source2": {
+   "name": "Nippon.com (Nippon Communications Foundation)",
+   "url": "https://www.nippon.com/en/japan-topics/b10923/"
+  }
+ },
+ {
+  "id": "md2-baghdad-founded",
+  "era": "medieval",
+  "year": 762,
+  "dateLabel": "762",
+  "emoji": "⭕",
+  "cat": "daily",
+  "title": "Baghdad, the Round City",
+  "place": "Baghdad, Iraq",
+  "lat": 33.31,
+  "lng": 44.36,
+  "text": "Caliph al-Mansur founded a new capital on the Tigris River, laid out as a perfect circle with the palace in the center. Within decades Baghdad was a great center of learning, where scholars met in well-stocked bookshops around the main mosque. A paper factory opened there in the 790s, and books soon multiplied across the Islamic world.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Baghdad: History)",
+   "url": "https://www.britannica.com/place/Baghdad/History"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: The Art of the Abbasid Period (750-1258)",
+   "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258"
+  }
+ },
+ {
+  "id": "md2-kailasa-ellora",
+  "era": "medieval",
+  "year": 770,
+  "dateLabel": "About 770",
+  "emoji": "⛏️",
+  "cat": "culture",
+  "title": "A Temple Carved From One Rock",
+  "place": "Ellora, India",
+  "lat": 20.02,
+  "lng": 75.18,
+  "text": "Under Rashtrakuta kings, workers carved the Kailasa temple downward from a single cliff of basalt. Instead of stacking blocks, they cut away 150,000 to 200,000 tons of solid rock. The result is a full temple four stories high, with halls, towers and life-size stone elephants, all from one piece of stone.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Ellora Caves)",
+   "url": "https://whc.unesco.org/en/list/243"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Ellora Caves)",
+   "url": "https://www.britannica.com/place/Ellora-Caves"
+  }
+ },
+ {
+  "id": "md2-samye",
+  "era": "medieval",
+  "year": 779,
+  "dateLabel": "About 779",
+  "emoji": "☸️",
+  "cat": "culture",
+  "title": "Tibet's First Monastery",
+  "place": "Samye, China",
+  "lat": 29.33,
+  "lng": 91.5,
+  "text": "King Trisong Detsen founded Samye, the first Buddhist monastery in Tibet. Its layout is a model of the universe, with a central temple standing for a sacred mountain. Tibetan tradition says a great debate was held there between Indian and Chinese Buddhist teachers, and the Indian school won.",
+  "source": {
+   "name": "The Treasury of Lives (biographical encyclopedia of Tibet)",
+   "url": "https://treasuryoflives.org/institution/Samye"
+  }
+ },
+ {
+  "id": "md2-lindisfarne",
+  "era": "medieval",
+  "year": 793,
+  "dateLabel": "793",
+  "emoji": "🛶",
+  "cat": "power",
+  "title": "Vikings Raid Lindisfarne",
+  "place": "Lindisfarne, United Kingdom",
+  "lat": 55.68,
+  "lng": -1.8,
+  "text": "Raiders from Scandinavia attacked the island monastery of Lindisfarne, taking treasure and leading some monks away in chains. The shock spread across Europe, and it is remembered as the Vikings' first major attack in western Europe. The monks had earlier made the beautiful Lindisfarne Gospels, which survived and are now in the British Library.",
+  "source": {
+   "name": "English Heritage (Lindisfarne Priory: the Viking raid)",
+   "url": "https://www.english-heritage.org.uk/visit/places/lindisfarne-priory/History/viking-raid/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Viking)",
+   "url": "https://www.britannica.com/topic/Viking-people"
+  }
+ },
+ {
+  "id": "md2-abul-abbas",
+  "era": "medieval",
+  "year": 802,
+  "dateLabel": "802",
+  "emoji": "🐘",
+  "cat": "journeys",
+  "title": "Charlemagne's Elephant",
+  "place": "Aachen, Germany",
+  "lat": 50.78,
+  "lng": 6.08,
+  "text": "Caliph Harun al-Rashid of Baghdad sent Charlemagne a gift: an elephant named Abul-Abbas, brought west by envoys and delivered in 802. Tame elephants came only from India, so few people in northern Europe had ever seen one. The Royal Frankish Annals recorded the gift, and an Irish monk later wrote of the excitement it caused.",
+  "source": {
+   "name": "University of Cambridge repository (Apollo), 'Abbasid-Carolingian Diplomacy in Early Medieval Arabic Apocalypse'",
+   "url": "https://api.repository.cam.ac.uk/server/api/core/bitstreams/d97d2774-80cb-4a68-b803-4b31e3f3b3a4/content"
+  }
+ },
+ {
+  "id": "md2-jayavarman-ii",
+  "era": "medieval",
+  "year": 802,
+  "dateLabel": "802",
+  "emoji": "🏔️",
+  "cat": "power",
+  "title": "The Birth of the Khmer Empire",
+  "place": "Phnom Kulen, Cambodia",
+  "lat": 13.57,
+  "lng": 104.11,
+  "text": "On the sacred Kulen mountain, Jayavarman II had himself declared a 'universal king'. This ceremony is seen as the start of the Khmer Empire, which later built Angkor. Laser scans from airplanes have since revealed a hidden city of roads and canals under the forest on the mountain.",
+  "source": {
+   "name": "PNAS (Evans et al. 2013, 'Uncovering archaeological landscapes at Angkor using lidar')",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3732978/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Jayavarman II)",
+   "url": "https://www.britannica.com/biography/Jayavarman-II"
+  }
+ },
+ {
+  "id": "md2-oseberg",
+  "era": "medieval",
+  "year": 834,
+  "dateLabel": "834",
+  "emoji": "⚓",
+  "cat": "culture",
+  "title": "Two Women in a Viking Ship",
+  "place": "Tønsberg, Norway",
+  "lat": 59.3,
+  "lng": 10.42,
+  "text": "Two women were buried inside a beautiful carved longship, along with sleighs, a cart, beds, fifteen horses and even a bucket of apples. Wood from the burial chamber dates the grave to 834. Nobody knows exactly who they were, but the rich grave shows women could hold high status in Viking society.",
+  "source": {
+   "name": "Museum of the Viking Age, University of Oslo",
+   "url": "https://www.vikingtidsmuseet.no/english/viking-age/viking-ships/the-oseberg-ship.html"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Oseberg ship' (R. Ostberg)",
+   "url": "https://www.britannica.com/topic/Oseberg-ship"
+  }
+ },
+ {
+  "id": "md2-pueblo-bonito",
+  "era": "medieval",
+  "year": 850,
+  "dateLabel": "About 850",
+  "emoji": "🏜️",
+  "cat": "daily",
+  "title": "Pueblo Bonito's Many Rooms",
+  "place": "Chaco Canyon, United States",
+  "lat": 36.06,
+  "lng": -107.96,
+  "text": "Ancestral Puebloan people began building Pueblo Bonito, a great house that grew to around 800 rooms. A long wall running almost exactly north to south splits the building in two, and on nearby Fajada Butte a carved spiral seems to have marked the solstices with a dagger of sunlight. Cacao traces in jars show they traded with Mesoamerica, far to the south.",
+  "source": {
+   "name": "Crown & Hurst, 'Evidence of cacao use in the Prehispanic American Southwest', PNAS 106(7) 2009 (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2650116/"
+  },
+  "source2": {
+   "name": "National Park Service, Chaco Culture NHP: Pueblo Bonito",
+   "url": "https://www.nps.gov/chcu/planyourvisit/pueblo-bonito.htm"
+  }
+ },
+ {
+  "id": "md2-qarawiyyin",
+  "era": "medieval",
+  "year": 859,
+  "dateLabel": "859",
+  "emoji": "📚",
+  "cat": "culture",
+  "title": "Fatima Founds a School in Fez",
+  "place": "Fez, Morocco",
+  "lat": 34.06,
+  "lng": -4.97,
+  "text": "Fatima al-Fihri, the daughter of a wealthy immigrant from Kairouan, is said to have spent her inheritance founding the al-Qarawiyyin mosque in Fez. It became a famous center of learning and is often called one of the oldest universities still running. Its library still holds manuscripts up to about 1,200 years old.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Qarawiyyin' (rev. Adam Zeidan)",
+   "url": "https://www.britannica.com/topic/Qarawiyyin"
+  },
+  "source2": {
+   "name": "Archnet (Aga Khan Documentation Center, MIT), 'Jami' al-Qarawiyyin' (search excerpt only)",
+   "url": "https://www.archnet.org/sites/1730"
+  }
+ },
+ {
+  "id": "md2-glagolitic",
+  "era": "medieval",
+  "year": 863,
+  "dateLabel": "863",
+  "emoji": "🔤",
+  "cat": "culture",
+  "title": "An Alphabet for the Slavs",
+  "place": "Mikulčice, Czech Republic",
+  "lat": 48.8,
+  "lng": 17.05,
+  "text": "Two brothers from Byzantium, Cyril and Methodius, came to Great Moravia to preach in the local Slavic language. Cyril created a new alphabet, Glagolitic, to write it down. His students later developed Cyrillic, which is used today for Russian, Ukrainian, Bulgarian and other languages.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Saints Cyril and Methodius'",
+   "url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Cyrillic alphabet'",
+   "url": "https://www.britannica.com/topic/Cyrillic-alphabet"
+  }
+ },
+ {
+  "id": "md2-diamond-sutra",
+  "era": "medieval",
+  "year": 868,
+  "dateLabel": "868",
+  "emoji": "🖨️",
+  "cat": "discovery",
+  "title": "The Oldest Dated Printed Book",
+  "place": "Dunhuang, China",
+  "lat": 40.14,
+  "lng": 94.66,
+  "text": "A man named Wang Jie paid for a copy of the Diamond Sutra to be printed from carved wooden blocks, 'for his parents'. It is the oldest printed book with a clear date. It lay sealed in a cave library at Dunhuang for about 900 years until it was found in 1900.",
+  "source": {
+   "name": "Linda Hall Library of Science, Engineering & Technology, 'The Diamond Sutra' (Scientist of the Day)",
+   "url": "https://www.lindahall.org/about/news/scientist-of-the-day/the-diamond-sutra/"
+  }
+ },
+ {
+  "id": "md2-kyiv-oleg",
+  "era": "medieval",
+  "year": 882,
+  "dateLabel": "882",
+  "emoji": "🏰",
+  "cat": "power",
+  "title": "Kyiv Becomes the Heart of Rus",
+  "place": "Kyiv, Ukraine",
+  "lat": 50.45,
+  "lng": 30.52,
+  "text": "According to the old chronicles, Prince Oleg seized Kyiv in 882 and made it his capital, a city later hailed as the 'mother of Rus cities'. Kyivan Rus grew rich on the Dnieper River trade route to Constantinople. Each spring, boat convoys carried the furs and captives collected as tribute over the winter down the river to the Byzantine capital.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Kyivan Rus'",
+   "url": "https://www.britannica.com/topic/Kyivan-Rus"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Oleg'",
+   "url": "https://www.britannica.com/biography/Oleg"
+  }
+ },
+ {
+  "id": "md2-goryeo",
+  "era": "medieval",
+  "year": 918,
+  "dateLabel": "918",
+  "emoji": "🏯",
+  "cat": "power",
+  "title": "Goryeo Gives Korea Its Name",
+  "place": "Kaesong, North Korea",
+  "lat": 37.97,
+  "lng": 126.55,
+  "text": "General Wang Geon founded the Goryeo dynasty, which soon reunited the Korean peninsula. The English name 'Korea' comes from Goryeo. The kingdom became famous for jade-green celadon pottery and for carving the whole Buddhist canon on over 80,000 wooden printing blocks.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Goryeo dynasty'",
+   "url": "https://www.britannica.com/topic/Goryeo-dynasty"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Haeinsa Temple Janggyeong Panjeon (via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/737"
+  }
+ },
+ {
+  "id": "md2-ibn-fadlan",
+  "era": "medieval",
+  "year": 921,
+  "dateLabel": "921",
+  "emoji": "🧭",
+  "cat": "journeys",
+  "title": "Ibn Fadlan Meets the Rus",
+  "place": "Bolgar, Russia",
+  "lat": 54.98,
+  "lng": 49.05,
+  "text": "An envoy from Baghdad named Ibn Fadlan traveled north to the Volga Bulgars. He wrote a vivid report of the Rus traders he met there, tall people covered in tattoos. His account also includes a rare eyewitness description of a Viking ship funeral, recording each step of the ceremony.",
+  "source": {
+   "name": "University of Utah, Ethics of Suicide Digital Archive: Ahmad ibn Fadlan, Risala (922)",
+   "url": "https://ethicsofsuicide.lib.utah.edu/selections/ibn-fadlan/"
+  },
+  "source2": {
+   "name": "University of California Press sample chapter, 'The Rus' (translation of Ibn Fadlan's Risala)",
+   "url": "https://content.ucpress.edu/chapters/12938.ch01.pdf"
+  }
+ },
+ {
+  "id": "md2-madinat-al-zahra",
+  "era": "medieval",
+  "year": 936,
+  "dateLabel": "936",
+  "emoji": "🌙",
+  "cat": "culture",
+  "title": "A Palace City Near Córdoba",
+  "place": "Córdoba, Spain",
+  "lat": 37.89,
+  "lng": -4.87,
+  "text": "Caliph Abd al-Rahman III began building Madinat al-Zahra, a dazzling palace city outside Córdoba, with halls decorated in marble. Later writers even told of a glittering pool of quicksilver, though historians treat such stories as fanciful. Córdoba itself was then the largest city in Europe, home to some 100,000 people by the year 1000.",
+  "source": {
+   "name": "Archnet (Aga Khan Documentation Center, MIT), 'Madina al-Zahra'",
+   "url": "https://www.archnet.org/sites/2719"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Caliphate City of Medina Azahara (via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/1560"
+  }
+ },
+ {
+  "id": "md2-bach-dang",
+  "era": "medieval",
+  "year": 938,
+  "dateLabel": "938",
+  "emoji": "🌊",
+  "cat": "power",
+  "title": "Spikes in the Bạch Đằng River",
+  "place": "Hai Phong, Vietnam",
+  "lat": 20.87,
+  "lng": 106.68,
+  "text": "Ngô Quyền hid iron-headed poles in the riverbed and lured a Southern Han fleet upriver at high tide. When the tide fell, the enemy ships were swept onto the spikes. His victory ended a long era of Chinese domination and laid the foundation for an independent Vietnamese kingdom.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Ngo Quyen'",
+   "url": "https://www.britannica.com/biography/Ngo-Quyen"
+  },
+  "source2": {
+   "name": "Cambridge University Press, The Making of the Modern Chinese Navy, ch. 1 'Battle of Bach Dang River (938)' (summary)",
+   "url": "https://www.cambridge.org/core/books/abs/making-of-the-modern-chinese-navy/battle-of-bach-dang-river-938/CBD819494FA0D219D2F3597DA336F0F4"
+  }
+ },
+ {
+  "id": "md2-tula-toltec",
+  "era": "medieval",
+  "year": 950,
+  "dateLabel": "About 950",
+  "emoji": "🗿",
+  "cat": "culture",
+  "title": "The Stone Warriors of Tula",
+  "place": "Tula, Mexico",
+  "lat": 20.06,
+  "lng": -99.34,
+  "text": "The Toltec city of Tula rose to power in central Mexico. Its temple roof was held up by giant stone warriors, each over four meters tall. The Toltecs were famed builders and craftsmen, and later Aztec rulers claimed Toltec royal blood to strengthen their own right to rule.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Tula' (ancient city)",
+   "url": "https://www.britannica.com/place/Tula-ancient-city-Mexico"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Toltec'",
+   "url": "https://www.britannica.com/topic/Toltec"
+  }
+ },
+ {
+  "id": "md2-song-founded",
+  "era": "medieval",
+  "year": 960,
+  "dateLabel": "960",
+  "emoji": "📈",
+  "cat": "power",
+  "title": "The Song Dynasty Begins",
+  "place": "Kaifeng, China",
+  "lat": 34.8,
+  "lng": 114.3,
+  "text": "General Zhao Kuangyin took power and founded the Song dynasty. The Song used civil service exams to bring educated scholars into government and check the power of military men. Under them China saw booming cities, paper money, printed books and a fast-ripening rice from Champa that let some farmers harvest two crops a year.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Song dynasty'",
+   "url": "https://www.britannica.com/topic/Song-dynasty"
+  },
+  "source2": {
+   "name": "Columbia University, Asia for Educators: Song Dynasty module (Champa rice; scholar-officials)",
+   "url": "https://afe.easia.columbia.edu/songdynasty-module/tech-rice.html"
+  }
+ },
+ {
+  "id": "md2-cairo-founded",
+  "era": "medieval",
+  "year": 969,
+  "dateLabel": "969",
+  "emoji": "🕌",
+  "cat": "daily",
+  "title": "The Fatimids Found Cairo",
+  "place": "Cairo, Egypt",
+  "lat": 30.05,
+  "lng": 31.26,
+  "text": "After conquering Egypt, the Fatimid general Jawhar founded a new capital just north of the old city of Fustat and named it al-Qahira, 'the Triumphant'. Soon after, the Fatimids built al-Azhar mosque, which grew into one of the oldest universities still running. Egypt grew rich as the go-between in trade linking the Mediterranean with India.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Historic Cairo (via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/89"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Al-Azhar University'",
+   "url": "https://www.britannica.com/topic/al-Azhar-University"
+  }
+ },
+ {
+  "id": "md2-rus-baptism",
+  "era": "medieval",
+  "year": 988,
+  "dateLabel": "988",
+  "emoji": "✝️",
+  "cat": "culture",
+  "title": "Kyiv Chooses a Religion",
+  "place": "Kyiv, Ukraine",
+  "lat": 50.45,
+  "lng": 30.52,
+  "text": "Prince Volodymyr of Kyiv became a Christian and had his people baptized in the Dnieper River. A chronicle says his envoys were amazed by the services in Constantinople and could not tell 'whether we were in heaven or on earth.' The choice tied Rus to Byzantine art, writing and faith.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Vladimir I'",
+   "url": "https://www.britannica.com/biography/Vladimir-I"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Kyivan Rus'",
+   "url": "https://www.britannica.com/topic/Kyivan-Rus"
+  }
+ },
+ {
+  "id": "md2-thang-long",
+  "era": "medieval",
+  "year": 1010,
+  "dateLabel": "1010",
+  "emoji": "🐉",
+  "cat": "daily",
+  "title": "The Rising Dragon Capital",
+  "place": "Hanoi, Vietnam",
+  "lat": 21.03,
+  "lng": 105.85,
+  "text": "In 1010 King Lý Thái Tổ moved Đại Việt's capital to a spot on the Red River and named it Thăng Long, 'Rising Dragon'. It remained Vietnam's main capital until 1802, when the Nguyễn dynasty moved the court to Huế. The city is Hanoi today, and in 2010 it celebrated its thousandth birthday.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Hanoi'",
+   "url": "https://www.britannica.com/place/Hanoi"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Imperial Citadel of Thang Long - Hanoi (via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/1328"
+  }
+ },
+ {
+  "id": "md2-ibn-al-haytham",
+  "era": "medieval",
+  "year": 1015,
+  "dateLabel": "About 1015",
+  "emoji": "👁️",
+  "cat": "discovery",
+  "title": "How Our Eyes Really See",
+  "place": "Cairo, Egypt",
+  "lat": 30.05,
+  "lng": 31.26,
+  "text": "The scholar Ibn al-Haytham wrote his Book of Optics in Fatimid Egypt between about 1011 and 1021, while he was under house arrest. He argued that we see because light enters our eyes, not because our eyes send out rays. He tested ideas with careful experiments, including a dark room with a tiny hole, an early camera obscura.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Ibn al-Haytham'",
+   "url": "https://www.britannica.com/biography/Ibn-al-Haytham"
+  },
+  "source2": {
+   "name": "Annals of Saudi Medicine 2007, 'Ibn Al-Haytham: father of modern optics' (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6074172/"
+  }
+ },
+ {
+  "id": "md2-jiaozi",
+  "era": "medieval",
+  "year": 1024,
+  "dateLabel": "1024",
+  "emoji": "💴",
+  "cat": "daily",
+  "title": "The First Government Paper Money",
+  "place": "Chengdu, China",
+  "lat": 30.66,
+  "lng": 104.07,
+  "text": "Merchants in Sichuan, where people used iron coins, swapped paper notes called jiaozi so they did not have to haul heavy strings of coins. In the 1020s the Song government took over and issued official paper money. It was the world's first government-issued paper money, centuries before Europe used banknotes.",
+  "source": {
+   "name": "Hoover Institution (Stanford University), 'The Rise and Demise of Paper Money in Imperial China'",
+   "url": "https://www.hoover.org/research/rise-and-demise-paper-money-imperial-china"
+  },
+  "source2": {
+   "name": "Columbia University, Asia for Educators: Song Dynasty module, 'Money'",
+   "url": "https://afe.easia.columbia.edu/songdynasty-module/econ-rev-money.html"
+  }
+ },
+ {
+  "id": "md2-anawrahta-thaton",
+  "era": "medieval",
+  "year": 1057,
+  "dateLabel": "1057",
+  "emoji": "🛕",
+  "cat": "culture",
+  "title": "King Anawrahta Brings Scriptures to Pagan",
+  "place": "Bagan, Myanmar",
+  "lat": 21.17,
+  "lng": 94.86,
+  "text": "Anawrahta, founder of the Pagan Empire, conquered the Mon city of Thaton and carried its royal family, scholars and craftsmen back to his capital. Theravada Buddhism spread across Burma. Over the next two centuries Pagan's rulers and people filled the plain by the Irrawaddy River with temples and stupas, and more than 3,500 monuments survive today.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Anawrahta'",
+   "url": "https://www.britannica.com/biography/Anawrahta"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Bagan (via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/1588"
+  }
+ },
+ {
+  "id": "md2-ghana-al-bakri",
+  "era": "medieval",
+  "year": 1068,
+  "dateLabel": "About 1068",
+  "emoji": "🥇",
+  "cat": "journeys",
+  "title": "The Golden Kingdom of Ghana",
+  "place": "Koumbi Saleh, Mauritania",
+  "lat": 15.77,
+  "lng": -7.97,
+  "text": "The writer al-Bakri described the West African empire of Ghana, rich from trading gold for salt across the Sahara. He wrote that the king kept all large gold nuggets for himself and let people keep only the gold dust. Its capital had separate towns for traders and the royal court.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Ghana' (historical West African empire)",
+   "url": "https://www.britannica.com/place/Ghana-historical-West-African-empire"
+  },
+  "source2": {
+   "name": "Al-Bakri, trans. J.F.P. Hopkins, Corpus of Early Arabic Sources for West African History (CUP 1981), excerpt at John Jay College, CUNY",
+   "url": "http://jjcweb.jjay.cuny.edu/history/worldspring09/paperdemo/albakri.html"
+  }
+ },
+ {
+  "id": "md2-jalali-calendar",
+  "era": "medieval",
+  "year": 1079,
+  "dateLabel": "1079",
+  "emoji": "📅",
+  "cat": "discovery",
+  "title": "Omar Khayyam's Super Calendar",
+  "place": "Isfahan, Iran",
+  "lat": 32.65,
+  "lng": 51.67,
+  "text": "The Seljuk sultan Malik-Shah asked a team of astronomers, including the poet Omar Khayyam, to fix the calendar. Their Jalali calendar, adopted in 1079, started each year at the spring equinox, so it kept in step with the seasons very precisely. Solar calendars based on it are still official in Iran and Afghanistan today.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Omar Khayyam'",
+   "url": "https://www.britannica.com/biography/Omar-Khayyam-Persian-poet-and-astronomer"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica, 'Calendars ii. In the Islamic period' (and iii. Afghan calendars)",
+   "url": "https://www.iranicaonline.org/articles/calendars-ii/"
+  }
+ },
+ {
+  "id": "md2-bologna",
+  "era": "medieval",
+  "year": 1088,
+  "dateLabel": "1088",
+  "emoji": "🎓",
+  "cat": "culture",
+  "title": "The First University in Europe",
+  "place": "Bologna, Italy",
+  "lat": 44.49,
+  "lng": 11.34,
+  "text": "Law students who came to Bologna made contracts with teachers and banded together by homeland, and their groups grew into the University of Bologna. It is considered the oldest university in the Western world, and its law school drew students from all over Europe. In 1158 Emperor Frederick I granted its scholars special protections for their travels.",
+  "source": {
+   "name": "University of Bologna (official site), 'Our history: from the 12th to the 20th century'",
+   "url": "https://www.unibo.it/en/university/who-we-are/our-history/university-from-12th-to-20th-century"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'University of Bologna'",
+   "url": "https://www.britannica.com/topic/University-of-Bologna"
+  }
+ },
+ {
+  "id": "md2-shen-kuo",
+  "era": "medieval",
+  "year": 1088,
+  "dateLabel": "1088",
+  "emoji": "🧲",
+  "cat": "discovery",
+  "title": "Shen Kuo's Dream Pool Essays",
+  "place": "Zhenjiang, China",
+  "lat": 32.19,
+  "lng": 119.43,
+  "text": "In his garden retreat, the scholar Shen Kuo wrote a book of notes on everything from fossils to printing. It contains the first known reference to the magnetic compass and the first description of movable-type printing. He also described a buried forest of stone bamboo where no bamboo grew, and guessed the climate had once been different.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Shen Kuo'",
+   "url": "https://www.britannica.com/biography/Shen-Kuo"
+  },
+  "source2": {
+   "name": "Columbia University, Asia for Educators: Song Dynasty module, 'Experiment' (Shen Gua's petrified bamboo passage)",
+   "url": "https://afe.easia.columbia.edu/songdynasty-module/tech-experiment.html"
+  }
+ },
+ {
+  "id": "md2-first-crusade",
+  "era": "medieval",
+  "year": 1099,
+  "dateLabel": "1099",
+  "emoji": "⚔️",
+  "cat": "power",
+  "title": "Crusaders Take Jerusalem",
+  "place": "Jerusalem, Israel/Palestine",
+  "lat": 31.78,
+  "lng": 35.23,
+  "text": "After a three-year march from Europe, knights of the First Crusade captured Jerusalem. They killed many of the city's Muslim and Jewish residents. The crusader states lasted almost two hundred years, until 1291, and Italian cities used them to expand trade with the Muslim world, while returning crusaders brought home a taste for spices.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'First Crusade'",
+   "url": "https://www.britannica.com/topic/First-Crusade"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Crusades: The results of the Crusades' (read in browser)",
+   "url": "https://www.britannica.com/event/Crusades/The-results-of-the-Crusades"
+  }
+ },
+ {
+  "id": "md2-li-qingzhao",
+  "era": "medieval",
+  "year": 1129,
+  "dateLabel": "1129",
+  "emoji": "🖋️",
+  "cat": "culture",
+  "title": "Li Qingzhao, Poet on the Run",
+  "place": "Hangzhou, China",
+  "lat": 30.27,
+  "lng": 120.15,
+  "text": "Li Qingzhao, China's most celebrated woman poet, fled south after Jurchen armies captured the Song capital. She and her husband had collected rare books, rubbings and bronzes, and most were lost in the chaos. Her husband died in 1129, and she later wrote the story of their collection. She remains an iconic figure, and her lines are still quoted today.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Li-Qingzhao"
+  },
+  "source2": {
+   "name": "Renditions, Chinese University of Hong Kong",
+   "url": "https://cuhk.edu.hk/renditions/authors/liqz.html"
+  }
+ },
+ {
+  "id": "md2-aleppo-quake",
+  "era": "medieval",
+  "year": 1138,
+  "dateLabel": "1138",
+  "emoji": "🌍",
+  "cat": "nature",
+  "title": "The Great Aleppo Earthquake",
+  "place": "Aleppo, Syria",
+  "lat": 36.2,
+  "lng": 37.16,
+  "text": "A huge earthquake shook northern Syria in October 1138, shattering the walls of Aleppo's citadel and wrecking towns nearby. A 15th-century writer claimed 230,000 deaths, but that figure really belongs to a different quake in Georgia. The Crusader castle of Harim and the Muslim-held citadel of Atharib were both ruined, and both Christian and Muslim chroniclers wrote about it.",
+  "source": {
+   "name": "N.N. Ambraseys 2004, 'The 12th century seismic paroxysm in the Middle East: a historical perspective', Annals of Geophysics 47(2/3)",
+   "url": "https://pdfs.semanticscholar.org/10db/705a80b44545787e0549689cd0e3b14a4427.pdf"
+  },
+  "source2": {
+   "name": "Sbeinati, Darawcheh & Mouty 2005, 'The historical earthquakes of Syria', Annals of Geophysics 48(3) (earth-prints.org)",
+   "url": "https://www.earth-prints.org/server/api/core/bitstreams/3fff4914-a300-4d98-b08d-8233437b071c/content"
+  }
+ },
+ {
+  "id": "md2-hildegard",
+  "era": "medieval",
+  "year": 1151,
+  "dateLabel": "1151",
+  "emoji": "🎶",
+  "cat": "culture",
+  "title": "Hildegard's Visions",
+  "place": "Bingen am Rhein, Germany",
+  "lat": 49.97,
+  "lng": 7.9,
+  "text": "The abbess Hildegard of Bingen finished Scivias, a book describing her religious visions. She also composed music, wrote about plants and medicine, and invented her own secret language. Popes, kings and an emperor were among her correspondents, and people wrote to her asking for advice and prophecies. Her songs are still performed today.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Saint-Hildegard"
+  },
+  "source2": {
+   "name": "Epistolae: Medieval Women's Letters (Columbia University Libraries / CTL), 'Hildegard of Bingen'",
+   "url": "https://epistolae.unisi.it/woman/115.html"
+  }
+ },
+ {
+  "id": "md2-saladin-cairo",
+  "era": "medieval",
+  "year": 1171,
+  "dateLabel": "1171",
+  "emoji": "🏰",
+  "cat": "power",
+  "title": "Saladin Ends the Fatimid Caliphate",
+  "place": "Cairo, Egypt",
+  "lat": 30.03,
+  "lng": 31.26,
+  "text": "Saladin, a Kurdish general, took control of Egypt and ended two centuries of Fatimid rule. In 1176 he ordered a fortress built on the Muqattam Hills, the start of Cairo's great Citadel. He later united Egypt and Syria and won back Jerusalem, and even his crusader enemies praised him for his fairness.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Paul E. Walker)",
+   "url": "https://www.britannica.com/biography/Saladin"
+  },
+  "source2": {
+   "name": "Egyptian Ministry of Tourism and Antiquities, 'Cairo Citadel'",
+   "url": "https://egymonuments.gov.eg/en/archaeological-sites/cairo-citadel/"
+  }
+ },
+ {
+  "id": "md2-nan-madol",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "About 1200–1500",
+  "emoji": "🪨",
+  "cat": "culture",
+  "title": "Nan Madol, City on the Reef",
+  "place": "Pohnpei, Micronesia",
+  "lat": 6.84,
+  "lng": 158.33,
+  "text": "On more than a hundred artificial islets off Pohnpei, builders stacked huge basalt columns into walls, palaces and tombs. It became the ceremonial centre of the Saudeleur dynasty, which ruled the island. The basalt was brought from quarries elsewhere on Pohnpei, and nobody knows exactly how they moved stones weighing several tonnes.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1503"
+  },
+  "source2": {
+   "name": "Smithsonian Magazine, Christopher Pala, 'Nan Madol: The City Built on Coral Reefs' (read in browser)",
+   "url": "https://www.smithsonianmag.com/history/nan-madol-the-city-built-on-coral-reefs-147288758/"
+  }
+ },
+ {
+  "id": "md2-dan-no-ura",
+  "era": "medieval",
+  "year": 1185,
+  "dateLabel": "1185",
+  "emoji": "🎌",
+  "cat": "power",
+  "title": "The Sea Battle of Dan-no-ura",
+  "place": "Shimonoseki, Japan",
+  "lat": 33.96,
+  "lng": 130.96,
+  "text": "The Minamoto clan crushed their rivals, the Taira, in a sea battle in a narrow strait. The child emperor Antoku and his attendants leapt into the sea and drowned. Seven years later, Minamoto no Yoritomo took the title of shogun and set up Japan's first shogunate, putting samurai in charge for centuries.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Antoku; Gempei War)",
+   "url": "https://www.britannica.com/biography/Antoku"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'shogun' (read in browser)",
+   "url": "https://www.britannica.com/topic/shogun"
+  }
+ },
+ {
+  "id": "md2-bayon",
+  "era": "medieval",
+  "year": 1190,
+  "dateLabel": "About 1190",
+  "emoji": "😊",
+  "cat": "culture",
+  "title": "The Smiling Faces of the Bayon",
+  "place": "Angkor Thom, Cambodia",
+  "lat": 13.44,
+  "lng": 103.86,
+  "text": "King Jayavarman VII built a new walled city at Angkor with the Bayon temple at its center. Its towers are carved with about 200 huge calm, smiling faces. He also built a network of hospitals and rest houses along the roads of his empire.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Jayavarman-VII"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/668"
+  }
+ },
+ {
+  "id": "md2-magna-carta",
+  "era": "medieval",
+  "year": 1215,
+  "dateLabel": "1215",
+  "emoji": "📜",
+  "cat": "power",
+  "title": "Magna Carta at Runnymede",
+  "place": "Runnymede, United Kingdom",
+  "lat": 51.44,
+  "lng": -0.56,
+  "text": "Rebel barons forced King John of England to agree to the Magna Carta, or 'Great Charter'. It said even the king had to follow the law. The deal broke down within months, but later kings reissued it, and its ideas later helped inspire the United States Constitution and Bill of Rights.",
+  "source": {
+   "name": "The Magna Carta Project, University of East Anglia",
+   "url": "https://magnacarta.cmp.uea.ac.uk/about/historical_intro"
+  },
+  "source2": {
+   "name": "The National Archives (UK) blog",
+   "url": "https://blog.nationalarchives.gov.uk/magna-carta"
+  }
+ },
+ {
+  "id": "md2-mapungubwe",
+  "era": "medieval",
+  "year": 1225,
+  "dateLabel": "1200s",
+  "emoji": "🦏",
+  "cat": "culture",
+  "title": "The Golden Rhino of Mapungubwe",
+  "place": "Mapungubwe, South Africa",
+  "lat": -22.19,
+  "lng": 29.24,
+  "text": "On a flat-topped hill above the Limpopo River, rulers lived apart from ordinary people, an early sign of royal power in southern Africa. In a royal grave archaeologists found a small wooden rhinoceros covered in thin sheets of gold. Mapungubwe traded ivory and gold with the Indian Ocean coast and is seen as a forerunner of Great Zimbabwe.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1099"
+  },
+  "source2": {
+   "name": "University of Pretoria Museums (Mapungubwe Collection)",
+   "url": "https://www.up.ac.za/museums-collections/news/international-world-rhino-day-one-and-only-gold-rhino-world-university-of-pretoria"
+  }
+ },
+ {
+  "id": "md2-sundiata",
+  "era": "medieval",
+  "year": 1235,
+  "dateLabel": "About 1235",
+  "emoji": "🦁",
+  "cat": "power",
+  "title": "Sundiata, the Lion King of Mali",
+  "place": "Kirina, Mali",
+  "lat": 12.27,
+  "lng": -8.25,
+  "text": "Sundiata Keita defeated the Sosso king Sumanguru at the Battle of Kirina and founded the Mali Empire. As a child he was said to be unable to walk. His story is still sung by griots, West Africa's storytellers, in the Epic of Sundiata.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Sundiata-Keita"
+  },
+  "source2": {
+   "name": "Oxford University Press, Patterns of World History (von Sivers et al.) Learning Link: Document - The Epic of Sundiata",
+   "url": "https://learninglink.oup.com/access/content/von-sivers-3e-dashboard-resources/document-the-epic-of-sundiata"
+  }
+ },
+ {
+  "id": "md2-razia-sultana",
+  "era": "medieval",
+  "year": 1236,
+  "dateLabel": "1236",
+  "emoji": "⚔️",
+  "cat": "power",
+  "title": "Razia, Sultan of Delhi",
+  "place": "Delhi, India",
+  "lat": 28.61,
+  "lng": 77.21,
+  "text": "Razia became the only woman ever crowned in the Delhi Sultanate. She threw off women's dress and veil, wore a coat and cap, and rode openly among the people on an elephant. Her father had chosen her over her brothers, but nobles resented a woman ruler, and she reigned for less than four years.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Iltutmish"
+  },
+  "source2": {
+   "name": "Minhaj-us-Siraj, Tabaqat-i Nasiri, as translated in A. V. Williams Jackson (ed.), History of India vol. 5 (1906), ch. 5 'Raziya' (ibiblio)",
+   "url": "https://www.ibiblio.org/britishraj/Jackson5/chapter05.html"
+  }
+ },
+ {
+  "id": "md2-onfim",
+  "era": "medieval",
+  "year": 1250,
+  "dateLabel": "About 1250",
+  "emoji": "✏️",
+  "cat": "daily",
+  "title": "Onfim's Homework Doodles",
+  "place": "Veliky Novgorod, Russia",
+  "lat": 58.52,
+  "lng": 31.27,
+  "text": "A boy named Onfim, about six or seven years old, practiced his letters on strips of birch bark. Between lessons he drew himself as a brave warrior on horseback stabbing an enemy. His scraps survived in Novgorod's wet soil and are among the many birch-bark letters dug up there.",
+  "source": {
+   "name": "Live Science (Kristina Killgrove, PhD archaeologist)",
+   "url": "https://www.livescience.com/archaeology/onfims-doodle-a-13th-century-kids-self-portrait-on-horseback-slaying-an-enemy"
+  }
+ },
+ {
+  "id": "md2-samalas",
+  "era": "medieval",
+  "year": 1257,
+  "dateLabel": "1257",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "The Mystery Eruption Solved",
+  "place": "Lombok, Indonesia",
+  "lat": -8.41,
+  "lng": 116.41,
+  "text": "The Samalas volcano exploded in one of the largest eruptions of the last few thousand years. Scientists saw its sulfur in ice cores for decades before tracking it to Lombok. The Babad Lombok, a history written on palm leaves, describes how the blast destroyed the capital city of Pamatan.",
+  "source": {
+   "name": "Lavigne et al. 2013, PNAS (via PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3801080/"
+  },
+  "source2": {
+   "name": "Nature Communications 2025 (via Europe PMC)",
+   "url": "https://europepmc.org/article/PMC/PMC12537948"
+  }
+ },
+ {
+  "id": "md2-mogadishu",
+  "era": "medieval",
+  "year": 1269,
+  "dateLabel": "1269",
+  "emoji": "🕌",
+  "cat": "journeys",
+  "title": "Mogadishu's Trading Mosque",
+  "place": "Mogadishu, Somalia",
+  "lat": 2.04,
+  "lng": 45.34,
+  "text": "The Fakhr al-Din Mosque was built in Mogadishu, a port at the northern end of the Swahili coast, by the city's first sultan. A glazed tile in it is inscribed with the year 1269, and its prayer niche used marble from India. Like other Swahili coast ports, Mogadishu traded with Arabs, Persians and Indians, and it even minted its own coins.",
+  "source": {
+   "name": "Archnet (MIT / Aga Khan Trust for Culture)",
+   "url": "https://next.archnet.org/sites/3781"
+  },
+  "source2": {
+   "name": "EBSCO Research Starters, 'Coins Are Minted on the Swahili Coast' (Blaine Horrocks, 2022)",
+   "url": "https://www.ebsco.com/research-starters/history/coins-are-minted-swahili-coast"
+  }
+ },
+ {
+  "id": "md2-yuan",
+  "era": "medieval",
+  "year": 1271,
+  "dateLabel": "1271",
+  "emoji": "🐎",
+  "cat": "power",
+  "title": "Kublai Khan Founds the Yuan",
+  "place": "Beijing, China",
+  "lat": 39.9,
+  "lng": 116.4,
+  "text": "Kublai Khan, grandson of Genghis Khan, declared the Yuan dynasty and built a capital called Khanbaliq where Beijing is today. The Mongols soon ruled all of China. Merchants and travelers like Marco Polo came from far away, and paper money was made the empire's only legal currency.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Kublai-Khan"
+  },
+  "source2": {
+   "name": "CEPR VoxEU column: Hanhui Guan, Nuno Palma and Meng Wu, 'The rise and fall of paper money in Yuan China, 1260-1368' (23 Mar 2024)",
+   "url": "https://cepr.org/voxeu/columns/rise-and-fall-paper-money-yuan-china-1260-1368"
+  }
+ },
+ {
+  "id": "md2-majapahit",
+  "era": "medieval",
+  "year": 1293,
+  "dateLabel": "1293",
+  "emoji": "🌺",
+  "cat": "power",
+  "title": "The Rise of Majapahit",
+  "place": "Trowulan, Indonesia",
+  "lat": -7.56,
+  "lng": 112.38,
+  "text": "Prince Raden Wijaya used an invading Mongol army to defeat his rival, then turned on the Mongols and drove them away. He founded the Majapahit kingdom on Java. It grew into a great island empire, and its capital Trowulan had temples, markets and a network of water canals and reservoirs.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Majapahit-empire"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre Tentative List: Trowulan - Former Capital City of Majapahit Kingdom",
+   "url": "https://whc.unesco.org/en/tentativelists/5466/"
+  }
+ },
+ {
+  "id": "md2-vijayanagara",
+  "era": "medieval",
+  "year": 1336,
+  "dateLabel": "1336",
+  "emoji": "🐘",
+  "cat": "power",
+  "title": "The City of Victory",
+  "place": "Hampi, India",
+  "lat": 15.34,
+  "lng": 76.46,
+  "text": "Two brothers, Harihara and Bukka, founded the Vijayanagara Empire in South India. Its capital at Hampi grew to metropolitan size, with temple towns, bazaar streets and royal palaces. Foreign visitors praised it as one of the most beautiful cities of its time, and its royal Elephant Stables still stand among the boulders.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Vijayanagara'",
+   "url": "https://www.britannica.com/place/Vijayanagara"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Group of Monuments at Hampi (read via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/241"
+  }
+ },
+ {
+  "id": "md2-ife-heads",
+  "era": "medieval",
+  "year": 1350,
+  "dateLabel": "About 1350",
+  "emoji": "🗿",
+  "cat": "culture",
+  "title": "The Bronze Heads of Ife",
+  "place": "Ile-Ife, Nigeria",
+  "lat": 7.48,
+  "lng": 4.56,
+  "text": "Artists in the Yoruba city of Ife cast lifelike heads in copper alloy and shaped others in clay. They probably show kings and important people. When a set of the metal heads was dug up by builders in 1938, their skill challenged Western people who had looked down on African art.",
+  "source": {
+   "name": "Afriques/African archaeology journal (OpenEdition), 'A Copper Alloy Head Count: Contextualising and Accounting for the Wunmonije Compound Discoveries of Ile-Ife'",
+   "url": "https://journals.openedition.org/aaa/4918?lang=en"
+  },
+  "source2": {
+   "name": "The Met, Heilbrunn Timeline of Art History, 'Ife (from ca. 6th Century)'",
+   "url": "https://www.metmuseum.org/toah/hd/ife/hd_ife.htm"
+  }
+ },
+ {
+  "id": "md2-ming-founded",
+  "era": "medieval",
+  "year": 1368,
+  "dateLabel": "1368",
+  "emoji": "🏮",
+  "cat": "power",
+  "title": "A Farm Boy Founds the Ming",
+  "place": "Nanjing, China",
+  "lat": 32.06,
+  "lng": 118.8,
+  "text": "Zhu Yuanzhang grew up poor, lost his family to famine and became a monk. He then led rebels who drove out the Mongols and founded the Ming dynasty. The Ming went on to rebuild the Great Wall and make blue-and-white porcelain loved around the world.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Hongwu'",
+   "url": "https://www.britannica.com/biography/Hongwu"
+  },
+  "source2": {
+   "name": "The Met, Heilbrunn Timeline, 'Ming Dynasty (1368-1644)'; UNESCO Great Wall (id 438) for Ming wall-building",
+   "url": "https://www.metmuseum.org/toah/hd/ming/hd_ming.htm"
+  }
+ },
+ {
+  "id": "md2-timur",
+  "era": "medieval",
+  "year": 1370,
+  "dateLabel": "1370",
+  "emoji": "🏰",
+  "cat": "power",
+  "title": "Timur Makes Samarkand Shine",
+  "place": "Samarkand, Uzbekistan",
+  "lat": 39.65,
+  "lng": 66.96,
+  "text": "Timur, also called Tamerlane, made Samarkand his capital in 1370 and began wars of conquest from Turkey to India. He brought craftsmen from conquered lands to Samarkand. They raised grand mosques and tombs with huge bulbous domes and colourful tilework, starting one of the most brilliant periods in Islamic art.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Timur'",
+   "url": "https://www.britannica.com/biography/Timur"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Samarkand - Crossroad of Cultures (read via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/603"
+  }
+ },
+ {
+  "id": "md2-rapa-nui-moai",
+  "era": "medieval",
+  "year": 1375,
+  "dateLabel": "About 1250–1500",
+  "emoji": "🗿",
+  "cat": "culture",
+  "title": "Rapa Nui's Giant Moai",
+  "place": "Rapa Nui, Chile",
+  "lat": -27.12,
+  "lng": -109.37,
+  "text": "Polynesian islanders carved nearly a thousand giant moai figures from volcanic rock. Many stood on stone platforms along the coast, close to the villages of the communities that built them. Experiments suggest teams may have 'walked' the statues upright, rocking them from side to side with ropes.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Rapa Nui National Park (read via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/715"
+  },
+  "source2": {
+   "name": "PLOS One (2025), 'Megalithic statue (moai) production on Rapa Nui (Easter Island, Chile)' (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12654881/"
+  }
+ },
+ {
+  "id": "md2-joseon",
+  "era": "medieval",
+  "year": 1392,
+  "dateLabel": "1392",
+  "emoji": "📜",
+  "cat": "power",
+  "title": "The Joseon Dynasty Begins",
+  "place": "Kaesong, North Korea",
+  "lat": 37.97,
+  "lng": 126.55,
+  "text": "General Yi Seong-gye overthrew Goryeo and founded the Joseon dynasty. It lasted over 500 years, making it Korea's longest-lived dynasty. Joseon soon moved its capital to Hanyang, now Seoul, and built its life around Confucian ideas of learning and duty.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Joseon dynasty'",
+   "url": "https://www.britannica.com/topic/Joseon-dynasty"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Joseon dynasty'",
+   "url": "https://www.britannica.com/topic/Joseon-dynasty"
+  }
+ },
+ {
+  "id": "md2-kinkaku-ji",
+  "era": "medieval",
+  "year": 1397,
+  "dateLabel": "1397",
+  "emoji": "✨",
+  "cat": "culture",
+  "title": "The Golden Pavilion",
+  "place": "Kyoto, Japan",
+  "lat": 35.04,
+  "lng": 135.73,
+  "text": "The retired shogun Ashikaga Yoshimitsu built a villa covered in gold leaf beside a quiet pond. After his death it became the Zen temple Kinkaku-ji. A monk burned it down in 1950, and the version standing today is a careful rebuild.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Kinkaku-ji'",
+   "url": "https://www.britannica.com/place/Kinkaku-ji"
+  },
+  "source2": {
+   "name": "Shokoku-ji (official temple site), Kinkaku-ji history",
+   "url": "https://www.shokoku-ji.jp/en/kinkakuji/about/"
+  }
+ },
+ {
+  "id": "md2-zheng-he",
+  "era": "medieval",
+  "year": 1405,
+  "dateLabel": "1405",
+  "emoji": "🚢",
+  "cat": "journeys",
+  "title": "Zheng He's Treasure Fleet",
+  "place": "Liujiagang, Taicang, China",
+  "lat": 31.6,
+  "lng": 121.2,
+  "text": "Admiral Zheng He set sail with hundreds of ships, some of the largest wooden ships of their age. Over seven voyages his fleets reached India, Arabia and East Africa. Zheng He was a Muslim from Yunnan who had been taken to the Ming court as a boy.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Zheng He'",
+   "url": "https://www.britannica.com/biography/Zheng-He"
+  },
+  "source2": {
+   "name": "The Met, 'Giraffe with Two Keepers' (47.18.21) catalogue text",
+   "url": "https://www.metmuseum.org/art/collection/search/51649"
+  }
+ },
+ {
+  "id": "md2-triple-alliance",
+  "era": "medieval",
+  "year": 1428,
+  "dateLabel": "1428",
+  "emoji": "🦅",
+  "cat": "power",
+  "title": "The Aztec Triple Alliance",
+  "place": "Texcoco, Mexico",
+  "lat": 19.51,
+  "lng": -98.88,
+  "text": "Three city-states, Tenochtitlan, Texcoco and Tlacopan, joined forces against their overlords. This Triple Alliance grew into the Aztec Empire, which collected tribute from hundreds of towns across Mexico. Texcoco's ruler Nezahualcoyotl was famous as a poet and engineer who built aqueducts and dikes in the lake.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Itzcoatl' (curated excerpts from full Britannica articles)",
+   "url": "https://www.britannica.com/biography/Itzcoatl"
+  },
+  "source2": {
+   "name": "Encyclopedia of World Biography (Gale), 'Montezuma I', via Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/montezuma-i"
+  }
+ },
+ {
+  "id": "md2-pachacuti",
+  "era": "medieval",
+  "year": 1438,
+  "dateLabel": "1438",
+  "emoji": "🏔️",
+  "cat": "power",
+  "title": "Pachacuti Remakes the Inca World",
+  "place": "Cusco, Peru",
+  "lat": -13.53,
+  "lng": -71.97,
+  "text": "When the Chanca attacked the Inca around 1438, a prince who stayed to defend Cusco won two great victories, then took power and the title Pachacuti. He turned a small kingdom into a fast-growing empire. He also rebuilt Cusco and is linked to the building of Machu Picchu.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Pachacuti Inca Yupanqui'",
+   "url": "https://www.britannica.com/biography/Pachacuti-Inca-Yupanqui"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Machu Picchu'",
+   "url": "https://www.britannica.com/place/Machu-Picchu"
+  }
+ },
+ {
+  "id": "md2-ewuare",
+  "era": "medieval",
+  "year": 1440,
+  "dateLabel": "About 1440",
+  "emoji": "🛡️",
+  "cat": "power",
+  "title": "Oba Ewuare Builds Benin",
+  "place": "Benin City, Nigeria",
+  "lat": 6.34,
+  "lng": 5.63,
+  "text": "Oba Ewuare the Great expanded the Kingdom of Benin and rebuilt its capital with walls and moats. Across the kingdom ran a network of earthen walls and ditches some 16,000 kilometres long. He organized the palace chiefs, whose ranks included royal craft guilds, and later brass casters made thousands of plaques showing the court's battles and rituals.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Benin (historical kingdom, West Africa)'",
+   "url": "https://www.britannica.com/place/Benin-historical-kingdom-West-Africa"
+  },
+  "source2": {
+   "name": "Art Institute of Chicago, 'Benin—Kings and Rituals: Court Arts from Nigeria' (exhibition themes 'Oba Ewuare and the Portuguese', 'The Hierarchy at Court', 'The Oba's Palace')",
+   "url": "https://archive.artic.edu/benin/oba/"
+  }
+ },
+ {
+  "id": "md2-coffee-yemen",
+  "era": "medieval",
+  "year": 1450,
+  "dateLabel": "15th century",
+  "emoji": "☕",
+  "cat": "daily",
+  "title": "Sufis Brew the First Coffee",
+  "place": "Mocha, Yemen",
+  "lat": 13.32,
+  "lng": 43.25,
+  "text": "Sufi mystics in Yemen began roasting coffee beans and brewing a drink to stay awake during night prayers. It is the earliest clear evidence of coffee drinking. Coffee houses soon spread to Mecca, Cairo and Istanbul, and the port of Mocha gave its name to a coffee style.",
+  "source": {
+   "name": "UC Santa Cruz, Center for World History, 'Coffee, 1400-1800'",
+   "url": "https://humwp.ucsc.edu/cwh/brooks/coffee-site/1400-1800.html"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'coffee'",
+   "url": "https://www.britannica.com/topic/coffee"
+  }
+ },
+ {
+  "id": "md2-fall-constantinople",
+  "era": "medieval",
+  "year": 1453,
+  "dateLabel": "1453",
+  "emoji": "💥",
+  "cat": "power",
+  "title": "The Fall of Constantinople",
+  "place": "Istanbul, Turkey",
+  "lat": 41.02,
+  "lng": 28.94,
+  "text": "Ottoman Sultan Mehmed II, only 21, captured Constantinople after a siege of 55 days. His giant cannons battered the old walls, and his ships were dragged overland to get past a chain across the harbor. It ended the Byzantine Empire, more than 1,100 years after Emperor Constantine founded the city.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Fall of Constantinople'",
+   "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Mehmed II' and 'Fall of Constantinople'",
+   "url": "https://www.britannica.com/biography/Mehmed-II-Ottoman-sultan"
+  }
+ },
+ {
+  "id": "md2-sonni-ali",
+  "era": "medieval",
+  "year": 1464,
+  "dateLabel": "1464",
+  "emoji": "🐎",
+  "cat": "power",
+  "title": "Sonni Ali Builds the Songhai Empire",
+  "place": "Gao, Mali",
+  "lat": 16.27,
+  "lng": -0.04,
+  "text": "Sonni Ali, ruler of Gao, began a string of conquests along the Niger River. His cavalry and fleet of war canoes took Timbuktu and Djenné. In almost thirty years of fighting he turned a small kingdom into the Songhai Empire, which grew into the largest state in West Africa's history.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Sonni Ali'",
+   "url": "https://www.britannica.com/biography/Sonni-Ali"
+  },
+  "source2": {
+   "name": "OpenStax, World History Volume 2, 3.2 The Songhai Empire (Rice University)",
+   "url": "https://openstax.org/books/world-history-volume-2/pages/3-2-the-songhai-empire"
+  }
+ },
+ {
+  "id": "md2-chimu",
+  "era": "medieval",
+  "year": 1470,
+  "dateLabel": "About 1470",
+  "emoji": "🏺",
+  "cat": "power",
+  "title": "The Inca Conquer Chan Chan",
+  "place": "Trujillo, Peru",
+  "lat": -8.1,
+  "lng": -79.07,
+  "text": "Chan Chan, capital of the Chimú kingdom, was the largest earthen city of the pre-Columbian Americas, its mud-brick palaces decorated with reliefs of sea birds and other figures. Around 1470 the Inca conquered it. They took Chan Chan's famed silversmiths to Cusco, so Chimú craft lived on inside the Inca Empire.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Chimu'",
+   "url": "https://www.britannica.com/topic/Chimu"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Chan Chan Archaeological Zone (read via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/366"
+  }
+ }
+]

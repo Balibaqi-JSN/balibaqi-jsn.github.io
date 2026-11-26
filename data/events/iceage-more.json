@@ -1,0 +1,340 @@
+[
+ {
+  "id": "ia-venus-dolni-vestonice",
+  "era": "iceage",
+  "year": -27000,
+  "dateLabel": "About 29,000 years ago",
+  "emoji": "🏺",
+  "cat": "culture",
+  "title": "Older Than Any Pottery Bowl",
+  "place": "Dolní Věstonice, Czech Republic",
+  "lat": 48.88,
+  "lng": 16.65,
+  "text": "Ice Age people here shaped small figurines out of local clay and fired them in hearths. Made about 31,000 to 27,000 years ago, the Venus of Dolní Věstonice and its neighbours belong to the oldest known ceramic tradition, with no link to the cooking pots invented much later. The Venus still preserves the finger impressions of its maker.",
+  "source": {
+   "name": "Farbstein et al. 2012, PLOS ONE",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0041437"
+  },
+  "source2": {
+   "name": "Vandiver et al. 1989, Science, 'The origins of ceramic technology at Dolní Věstonice' (abstract)",
+   "url": "https://doi.org/10.1126/science.246.4933.1002"
+  }
+ },
+ {
+  "id": "ia-apollo-11-cave",
+  "era": "iceage",
+  "year": -25500,
+  "dateLabel": "About 27,500-25,500 years ago",
+  "emoji": "🚀",
+  "cat": "culture",
+  "title": "Africa's Oldest Painted Stones",
+  "place": "Apollo 11 Cave, Namibia",
+  "lat": -27.75,
+  "lng": 17.1,
+  "text": "Seven small stone slabs with traces of animal figures, painted in charcoal, ochre and white, were found in Apollo 11 Cave in the Huns Mountains of Namibia. Dated to about 25,500-23,500 BC, they were long the oldest known artwork of any kind from Africa, and remain among its oldest pictures of animals.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline of Art History",
+   "url": "https://www.metmuseum.org/essays/apollo-11-ca-25500-23500-b-c-and-wonderwerk-ca-8000-b-c-cave-stones"
+  }
+ },
+ {
+  "id": "ia-malta-boy",
+  "era": "iceage",
+  "year": -22000,
+  "dateLabel": "About 24,000 years ago",
+  "emoji": "🧬",
+  "cat": "journeys",
+  "title": "A Siberian Boy's Surprising DNA",
+  "place": "Mal'ta, near Lake Baikal, Russia",
+  "lat": 52.85,
+  "lng": 103.52,
+  "text": "A young boy was buried at Mal'ta, near Lake Baikal, about 24,000 years ago. When scientists published his DNA in 2013, they found he was related both to western Eurasians and to Native Americans, but not closely to East Asians. Between 14 and 38 percent of Native American ancestry may come from his ancient population.",
+  "source": {
+   "name": "Raghavan et al. 2014, Nature (PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4105016/"
+  }
+ },
+ {
+  "id": "ia-ohalo-ii",
+  "era": "iceage",
+  "year": -21000,
+  "dateLabel": "About 23,000 years ago",
+  "emoji": "🌾",
+  "cat": "daily",
+  "title": "The Oldest Grass Bed",
+  "place": "Ohalo II, Sea of Galilee, Israel",
+  "lat": 32.72,
+  "lng": 35.57,
+  "text": "Hunter-gatherers built brush huts by the lake, slept on beds of soft grass and ground wild barley and wheat on stone slabs. They gathered well over a hundred kinds of plants. The camp lay hidden underwater until a drought in 1989 lowered the lake and revealed it.",
+  "source": {
+   "name": "Snir et al. 2015, PLOS ONE",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131422"
+  },
+  "source2": {
+   "name": "Nadel et al. 2004, PNAS (PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC404215/"
+  }
+ },
+ {
+  "id": "ia-sundaland",
+  "era": "iceage",
+  "year": -18000,
+  "dateLabel": "About 20,000 years ago",
+  "emoji": "🏝️",
+  "cat": "nature",
+  "title": "When You Could Walk to Borneo",
+  "place": "Java Sea, Indonesia",
+  "lat": -5,
+  "lng": 110,
+  "text": "With so much water locked in ice sheets, sea levels were about 120 metres lower. Sumatra, Java and Borneo were joined to mainland Asia in a huge lowland called Sundaland, crossed by rivers and covered partly by forest and partly by open savannah. People and animals like tigers and rhinos could simply walk between what are now islands.",
+  "source": {
+   "name": "PNAS (Raes et al. 2014), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4250149"
+  }
+ },
+ {
+  "id": "ia-willandra-footprints",
+  "era": "iceage",
+  "year": -18000,
+  "dateLabel": "About 20,000 years ago",
+  "emoji": "👣",
+  "cat": "daily",
+  "title": "Footprints on an Ancient Lakeshore",
+  "place": "Willandra Lakes, Australia",
+  "lat": -33.7,
+  "lng": 143,
+  "text": "Adults and children walked across soft clay by a lake in outback Australia, and their tracks hardened. Hundreds of these footprints were found in 2003 by Mary Pappin Jr, a young Mutthi Mutthi woman. They are one of the largest sets of Ice Age human footprints known in the world, and some show people running.",
+  "source": {
+   "name": "National Geographic",
+   "url": "https://www.nationalgeographic.com/history/article/20-000-year-old-human-footprints-found-in-australia"
+  },
+  "source2": {
+   "name": "Australian Museum",
+   "url": "https://australian.museum/learn/first-nations/unsettled/unsettled-introduction/mungo-footprint-mould/"
+  }
+ },
+ {
+  "id": "ia-altamira",
+  "era": "iceage",
+  "year": -14000,
+  "dateLabel": "About 16,000 years ago",
+  "emoji": "🦬",
+  "cat": "culture",
+  "title": "The Ceiling a Girl Discovered",
+  "place": "Altamira, Spain",
+  "lat": 43.38,
+  "lng": -4.12,
+  "text": "In 1879 a young girl named María was the first to notice the painted animals on the ceiling of this cave. Her father published the find, but experts doubted it for more than 20 years, until 1902, because they could not believe Ice Age people made such art. The red and black bison seem to bulge, painted over natural bumps in the rock.",
+  "source": {
+   "name": "Museo Nacional y Centro de Investigación de Altamira (Spanish Ministry of Culture)",
+   "url": "https://www.cultura.gob.es/mnaltamira/en/cueva-altamira/descubrimiento.html"
+  },
+  "source2": {
+   "name": "Bradshaw Foundation",
+   "url": "https://www.bradshawfoundation.com/spain/altamira/index.php"
+  }
+ },
+ {
+  "id": "ia-taforalt",
+  "era": "iceage",
+  "year": -13000,
+  "dateLabel": "About 15,000 years ago",
+  "emoji": "🦷",
+  "cat": "daily",
+  "title": "Ice Age Sweet Tooth",
+  "place": "Taforalt, Morocco",
+  "lat": 34.81,
+  "lng": -2.41,
+  "text": "The Cave of Pigeons holds one of the oldest cemeteries in North Africa. The people buried here ate lots of acorns and pine nuts, and their teeth show it: nearly all the adults had cavities, a level of tooth decay usually linked with farming thousands of years later.",
+  "source": {
+   "name": "PNAS (Humphrey et al. 2014), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3903197/"
+  }
+ },
+ {
+  "id": "ia-natufian-bread",
+  "era": "iceage",
+  "year": -12400,
+  "dateLabel": "About 14,400 years ago",
+  "emoji": "🍞",
+  "cat": "daily",
+  "title": "The World's Oldest Bread Crumbs",
+  "place": "Shubayqa, Jordan",
+  "lat": 32.38,
+  "lng": 37.25,
+  "text": "In a stone hearth in the Black Desert, archaeologists found charred crumbs of flatbread baked by Natufian hunter-gatherers. It was made from wild cereals and the roots of a marsh plant. That means people were baking bread around 4,000 years before farming began.",
+  "source": {
+   "name": "PNAS (Arranz-Otaegui et al. 2018), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6077754/"
+  }
+ },
+ {
+  "id": "ia-paisley-caves",
+  "era": "iceage",
+  "year": -12300,
+  "dateLabel": "About 14,300 years ago",
+  "emoji": "💩",
+  "cat": "discovery",
+  "title": "History Written in Poop",
+  "place": "Paisley Caves, Oregon, USA",
+  "lat": 42.76,
+  "lng": -120.55,
+  "text": "Some of the oldest evidence of people in North America is dried human poop. Scientists pulled human DNA from these fossilized droppings, called coprolites, in caves in Oregon's desert. They show people were living here more than a thousand years before the famous Clovis hunters.",
+  "source": {
+   "name": "Science (Gilbert et al. 2008), abstract via Europe PMC",
+   "url": "https://europepmc.org/article/MED/18388261"
+  }
+ },
+ {
+  "id": "ia-oberkassel-dog",
+  "era": "iceage",
+  "year": -12000,
+  "dateLabel": "About 14,000 years ago",
+  "emoji": "🐕",
+  "cat": "daily",
+  "title": "A Puppy Cared For by People",
+  "place": "Bonn-Oberkassel, Germany",
+  "lat": 50.71,
+  "lng": 7.16,
+  "text": "About 14,000 years ago, a young dog was buried alongside people at Oberkassel in Germany. Its teeth show it had been seriously ill, probably with canine distemper, for at least six weeks before it died. It could not have survived that long without people caring for it closely, a sign of real affection.",
+  "source": {
+   "name": "Frontiers in Veterinary Science (Serpell 2021), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8083978/"
+  }
+ },
+ {
+  "id": "ia-clovis-points",
+  "era": "iceage",
+  "year": -11000,
+  "dateLabel": "About 13,000 years ago",
+  "emoji": "🗡️",
+  "cat": "discovery",
+  "title": "Spear Points Among Mammoth Bones",
+  "place": "Clovis, New Mexico, USA",
+  "lat": 34.28,
+  "lng": -103.33,
+  "text": "In the 1930s, beautifully flaked stone spear points were found with mammoth bones near Clovis, New Mexico. Each point has a groove at its base so it could be fixed tightly to a spear. Clovis points have since turned up across much of North America.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline of Art History (L. A. Tedesco, 'Blackwater Draw')",
+   "url": "https://www.metmuseum.org/essays/blackwater-draw-ca-9500-3000-b-c"
+  },
+  "source2": {
+   "name": "Science Advances (PMC), zooarchaeology of early Paleoindians: Clovis ~13,400/13,050-12,800 cal BP",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13322243/"
+  }
+ },
+ {
+  "id": "ia-younger-dryas",
+  "era": "iceage",
+  "year": -10900,
+  "dateLabel": "About 12,900 years ago",
+  "emoji": "🥶",
+  "cat": "nature",
+  "title": "The Big Freeze Comes Back",
+  "place": "Summit, Greenland",
+  "lat": 72.58,
+  "lng": -38.46,
+  "text": "Just as the Ice Age was ending, the Northern Hemisphere suddenly plunged back into near-glacial cold. Ice cores drilled in Greenland record the swing, which ended about 11,500 years ago with a jump of 10°C in a decade. The period is named after Dryas, a little cold-loving flower that became common in Europe at the time.",
+  "source": {
+   "name": "NOAA National Centers for Environmental Information",
+   "url": "https://www.ncei.noaa.gov/sites/default/files/2021-11/3%20The%20Younger%20Dryas%20-FINAL%20NOV%20%281%29.pdf"
+  }
+ },
+ {
+  "id": "ia-naia",
+  "era": "iceage",
+  "year": -10500,
+  "dateLabel": "About 12,500 years ago",
+  "emoji": "🤿",
+  "cat": "discovery",
+  "title": "Naia, the Girl in the Black Hole",
+  "place": "Hoyo Negro, Yucatán, Mexico",
+  "lat": 20.25,
+  "lng": -87.45,
+  "text": "A teenage girl fell into a deep pit in a then-dry cave, alongside animals like a saber-toothed cat. Rising seas later flooded the cave, and divers found her skeleton in 2007. Her DNA links the earliest Americans to Native Americans living today.",
+  "source": {
+   "name": "Science News",
+   "url": "https://www.sciencenews.org/?p=16094"
+  }
+ },
+ {
+  "id": "ia-green-sahara",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "About 12,000 years ago",
+  "emoji": "🦛",
+  "cat": "nature",
+  "title": "The Sahara Turns Green",
+  "place": "Lake Chad, Chad",
+  "lat": 13,
+  "lng": 14.5,
+  "text": "As the Ice Age faded, monsoon rains pushed north and much of the Sahara became grassland dotted with lakes. Lake Chad swelled to many times its present size. Hippos, crocodiles and fishing communities lived in places that are sand dunes today.",
+  "source": {
+   "name": "PNAS via PubMed Central (Armitage et al. 2015, Lake Mega-Chad)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4507243"
+  },
+  "source2": {
+   "name": "PNAS via PubMed Central (Drake et al. 2011, Green Sahara)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3021035"
+  }
+ },
+ {
+  "id": "ia-luzia",
+  "era": "iceage",
+  "year": -9500,
+  "dateLabel": "About 11,500 years ago",
+  "emoji": "🔥",
+  "cat": "discovery",
+  "title": "Luzia, Rescued from the Ashes",
+  "place": "Lapa Vermelha, Brazil",
+  "lat": -19.62,
+  "lng": -44.04,
+  "text": "Luzia, a young woman who died at about 20, is one of the oldest people found in the Americas. Her skeleton was dug up in a Brazilian rock shelter in 1974–75 and later named Luzia by Walter Neves, in honour of the famous fossil Lucy. After a 2018 fire destroyed Brazil's National Museum, staff found her broken skull in a metal box and identified about 80 percent of it.",
+  "source": {
+   "name": "Revista Pesquisa FAPESP (São Paulo Research Foundation), 'A América de Luzia' and interview 'Walter Neves: O pai de Luzia'",
+   "url": "https://revistapesquisa.fapesp.br/a-am%c3%a9rica-de-luzia/"
+  },
+  "source2": {
+   "name": "National Geographic Brasil, 'Fragmentos do crânio de Luzia são encontrados em escombros do Museu Nacional' (19 Oct 2018)",
+   "url": "https://www.nationalgeographicbrasil.com/museu-nacional-do-rio-de-janeiro/2018/10/fragmentos-cranio-de-luzia-encontrado-escombros-museu-nacional-depois-incendio-rio-de-janeiro"
+  }
+ },
+ {
+  "id": "ia-shangshan-rice",
+  "era": "iceage",
+  "year": -8050,
+  "dateLabel": "About 10,000 years ago",
+  "emoji": "🍚",
+  "cat": "daily",
+  "title": "Early Rice Along the Yangzi",
+  "place": "Shangshan, Zhejiang, China",
+  "lat": 29.46,
+  "lng": 119.97,
+  "text": "At Shangshan, people settled into some of the first villages of the lower Yangzi, made pottery and used more and more grinding stones. They mixed rice husks into the clay of their pots, and tiny plant remains suggest rice domestication may have begun here around the start of the Holocene. Today rice sustains more than half the people on Earth.",
+  "source": {
+   "name": "PNAS via PubMed Central (Zuo et al. 2017)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5488950/"
+  }
+ },
+ {
+  "id": "ia-jericho",
+  "era": "iceage",
+  "year": -9000,
+  "dateLabel": "About 11,000 years ago",
+  "emoji": "🗼",
+  "cat": "power",
+  "title": "Jericho Builds a Tower",
+  "place": "Jericho, Palestine",
+  "lat": 31.86,
+  "lng": 35.46,
+  "text": "Beside a never-failing spring, people settled at Jericho perhaps as early as 9000 BCE, making it one of the oldest continuously lived-in places in the world. By the 9th to 8th millennium BCE it was a sizeable permanent settlement, and its people built a massive stone wall with a ditch and a great stone tower. No one knows for sure what the tower was for.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1687"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Jericho-West-Bank"
+  }
+ }
+]

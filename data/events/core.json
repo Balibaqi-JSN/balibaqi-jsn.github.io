@@ -1,0 +1,1024 @@
+[
+ {
+  "id": "pg-ischigualasto",
+  "era": "deep",
+  "year": -231000000,
+  "dateLabel": "About 231 million years ago",
+  "emoji": "🦴",
+  "cat": "nature",
+  "title": "Meet the First Dinosaurs",
+  "place": "Ischigualasto, Argentina",
+  "lat": -30.0,
+  "lng": -67.9,
+  "text": "This rocky \"Valley of the Moon\" holds some of the most primitive dinosaurs ever found, like Eoraptor and Herrerasaurus. Back then dinosaurs were rare newcomers: only about 6 percent of the fossil land animals here are dinosaurs. Beaked reptiles called rhynchosaurs and cynodonts, relatives of mammals, were far more common.",
+  "source": {
+   "name": "University of California Museum of Paleontology",
+   "url": "https://ucmp.berkeley.edu/mesozoic/triassic/ischigualasto.html"
+  },
+  "source2": {
+   "name": "NASA Earth Observatory",
+   "url": "https://science.nasa.gov/earth/earth-observatory/time-traveling-to-the-triassic-144431"
+  }
+ },
+ {
+  "id": "pg-trossingen",
+  "era": "deep",
+  "year": -205000000,
+  "dateLabel": "About 205 million years ago",
+  "emoji": "🦕",
+  "cat": "nature",
+  "title": "The Plateosaurus Mud Trap",
+  "place": "Trossingen, Germany",
+  "lat": 48.07,
+  "lng": 8.63,
+  "text": "Around 80 skeletons of Plateosaurus, long-necked plant-eaters 5 to 8 meters long, have been dug up here. Some seem to have died of exhaustion struggling against sticky mud. It is a unique mass grave of early giant plant-eaters. Back then this spot was a clay mud plain in a mostly hot, dry climate.",
+  "source": {
+   "name": "State Museum of Natural History Stuttgart",
+   "url": "https://www.naturkundemuseum-bw.de/en/research/science-blog/plateosaurus-trossingensis-and-the-dino-mania-in-wuerttemberg"
+  }
+ },
+ {
+  "id": "pg-ghost-ranch",
+  "era": "deep",
+  "year": -205000000,
+  "dateLabel": "About 205 million years ago",
+  "emoji": "🦖",
+  "cat": "nature",
+  "title": "A Pile of Speedy Dinosaurs",
+  "place": "Ghost Ranch, New Mexico, USA",
+  "lat": 36.33,
+  "lng": -106.47,
+  "text": "A huge \"graveyard\" of Coelophysis, a skinny meat-eater up to almost 3 meters long, was discovered here in 1947. Researchers think a flash flood buried the animals together. One skull even flew to space aboard the Space Shuttle Endeavour in 1998!",
+  "source": {
+   "name": "New Mexico Secretary of State: State Fossil",
+   "url": "https://www.sos.nm.gov/about-new-mexico/state-fossil/"
+  },
+  "source2": {
+   "name": "Natural History Museum, London (Dino Directory)",
+   "url": "https://www.nhm.ac.uk/discover/dino-directory/coelophysis.html"
+  }
+ },
+ {
+  "id": "pg-morganucodon",
+  "era": "deep",
+  "year": -205000000,
+  "dateLabel": "About 205 million years ago",
+  "emoji": "🐭",
+  "cat": "nature",
+  "title": "Our Tiny Furry Cousins",
+  "place": "South Wales, United Kingdom",
+  "lat": 51.5,
+  "lng": -3.4,
+  "text": "Morganucodon was a tiny, furry, shrew-like animal, less than 10 cm long, and one of the earliest relatives of mammals. Thousands of its little teeth and jaws come from a single rock-fissure site in South Wales. It was an insect-eater that fed mainly on beetles.",
+  "source": {
+   "name": "University of Bristol, Palaeobiology (Bristol Dinosaur Project)",
+   "url": "https://dinoproject.blogs.bristol.ac.uk/2020/05/12/kims-mammals-two/"
+  },
+  "source2": {
+   "name": "Amgueddfa Cymru - Museum Wales, 'Meet Morgie'",
+   "url": "https://museum.wales/blog/1895/Meet-Morgie/"
+  }
+ },
+ {
+  "id": "pg-palisades",
+  "era": "deep",
+  "year": -201000000,
+  "dateLabel": "About 201 million years ago",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "The Lava That Split a Supercontinent",
+  "place": "The Palisades, New Jersey, USA",
+  "lat": 40.85,
+  "lng": -73.95,
+  "text": "As Pangaea began to rip apart, enormous floods of lava poured out along the crack that would become the Atlantic Ocean. The tall cliffs across the river from New York City are cooled magma from this time. The eruptions helped cause a mass extinction that cleared the way for dinosaurs to take over.",
+  "source": {
+   "name": "Columbia Climate School / Lamont-Doherty Earth Observatory",
+   "url": "https://news.climate.columbia.edu/2013/03/21/megavolcanoes-tied-to-pre-dinosaur-mass-extinction/"
+  }
+ },
+ {
+  "id": "pg-lufeng",
+  "era": "deep",
+  "year": -195000000,
+  "dateLabel": "About 195 million years ago",
+  "emoji": "🦕",
+  "cat": "discovery",
+  "title": "China's Famous Long-Neck",
+  "place": "Lufeng, Yunnan, China",
+  "lat": 25.15,
+  "lng": 102.08,
+  "text": "Lufengosaurus was a plant-eater about 6 meters long, named in 1941 by Chinese fossil pioneer Yang Zhongjian. In 2017, scientists reported traces of collagen protein inside one of its 195-million-year-old ribs. That is over 100 million years older than any protein found in a fossil before!",
+  "source": {
+   "name": "Nature Communications (Lee et al. 2017), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5290320/"
+  },
+  "source2": {
+   "name": "Natural History Museum, London (Dino Directory)",
+   "url": "https://www.nhm.ac.uk/discover/dino-directory/lufengosaurus.html"
+  }
+ },
+ {
+  "id": "pg-golden-gate",
+  "era": "deep",
+  "year": -190000000,
+  "dateLabel": "About 190 million years ago",
+  "emoji": "🥚",
+  "cat": "nature",
+  "title": "The Oldest Dinosaur Nests",
+  "place": "Golden Gate Highlands, South Africa",
+  "lat": -28.5,
+  "lng": 28.6,
+  "text": "Scientists found clutches of Massospondylus eggs here, some with tiny embryos still curled up inside. Rows of nests at different levels show mothers came back to the same spot again and again. It's one of the oldest dinosaur nesting sites known.",
+  "source": {
+   "name": "University of Toronto News (Reisz et al., PNAS 2012)",
+   "url": "https://www.utoronto.ca/news/ancient-dinosaur-nursery-oldest-nesting-site-yet-found"
+  }
+ },
+ {
+  "id": "pg-kirkpatrick",
+  "era": "deep",
+  "year": -190000000,
+  "dateLabel": "About 190 million years ago",
+  "emoji": "🧊",
+  "cat": "nature",
+  "title": "A Crested Dinosaur in Antarctica",
+  "place": "Mount Kirkpatrick, Antarctica",
+  "lat": -84.33,
+  "lng": 166.3,
+  "text": "Cryolophosaurus, the \"frozen crested lizard\", was a big meat-eater about 8 meters long with a bony crest on its head; its discoverer compared the crest to Elvis Presley's hair. Its bones were found in 1990-91 on Mount Kirkpatrick in the Transantarctic Mountains. Back then Antarctica was a lush land with trees, giant amphibians and dinosaurs.",
+  "source": {
+   "name": "Natural History Museum of Los Angeles County",
+   "url": "https://nhm.org/experience-nhm/exhibitions-natural-history-museum/antarctic-dinosaurs"
+  },
+  "source2": {
+   "name": "US Antarctic Program",
+   "url": "https://www.usap.gov/news/4583"
+  }
+ },
+ {
+  "id": "ia-white-sands",
+  "era": "iceage",
+  "year": -20000,
+  "dateLabel": "About 23,000–21,000 years ago",
+  "emoji": "👣",
+  "cat": "journeys",
+  "title": "Footprints by an Ice Age Lake",
+  "place": "White Sands, New Mexico, USA",
+  "lat": 32.78,
+  "lng": -106.17,
+  "text": "Human footprints were found here on the shore of an Ice Age lake, alongside tracks of giant ground sloths and dire wolves. Seeds above and below them date the prints to about 23,000 to 21,000 years ago, much older than many scientists expected for people in the Americas. Most were made by children and teenagers.",
+  "source": {
+   "name": "U.S. National Park Service, White Sands National Park: Fossilized Footprints",
+   "url": "https://www.nps.gov/whsa/learn/nature/fossilized-footprints.htm"
+  }
+ },
+ {
+  "id": "ia-xianrendong",
+  "era": "iceage",
+  "year": -18000,
+  "dateLabel": "About 20,000 years ago",
+  "emoji": "🏺",
+  "cat": "daily",
+  "title": "The World's Oldest Pottery",
+  "place": "Xianrendong Cave, Jiangxi, China",
+  "lat": 28.7,
+  "lng": 117.1,
+  "text": "Broken bits of clay pots found in this cave are about 20,000 years old, the oldest pottery known anywhere. That's around 10,000 years before people here started farming! Hunter-gatherers may have used the pots to cook food during the coldest part of the Ice Age.",
+  "source": {
+   "name": "Science (Wu et al. 2012), abstract via Europe PMC",
+   "url": "https://europepmc.org/article/MED/22745428"
+  },
+  "source2": {
+   "name": "Science News",
+   "url": "https://www.sciencenews.org/article/oldest-pottery-comes-chinese-cave"
+  }
+ },
+ {
+  "id": "ia-ishango",
+  "era": "iceage",
+  "year": -18000,
+  "dateLabel": "About 20,000 years ago",
+  "emoji": "🦴",
+  "cat": "discovery",
+  "title": "A Bone That Might Count",
+  "place": "Ishango, DR Congo",
+  "lat": -0.12,
+  "lng": 29.6,
+  "text": "This small bone, nearly 20,000 years old, has groups of notches carved along it, like tally marks. Notches like these are often read as count marks, and some researchers think they were used to add or multiply. Nobody is sure, but people living by Lake Edward seem to have been keeping track of something.",
+  "source": {
+   "name": "Royal Belgian Institute of Natural Sciences",
+   "url": "https://www.naturalsciences.be/en/museum/exhibitions-activities/exhibitions/250-years-of-natural-sciences/the-ishango-bone"
+  },
+  "source2": {
+   "name": "Smithsonian Human Origins Program",
+   "url": "https://humanorigins.si.edu/evidence/behavior/recording-information/ishango-bone"
+  }
+ },
+ {
+  "id": "ia-beringia",
+  "era": "iceage",
+  "year": -18000,
+  "dateLabel": "During the Ice Age",
+  "emoji": "🌉",
+  "cat": "journeys",
+  "title": "The Land Bridge Between Continents",
+  "place": "Beringia (today's Bering Strait)",
+  "lat": 65.6,
+  "lng": -168.9,
+  "text": "So much water was locked up in ice sheets that the sea dropped by up to 300 feet (about 90 meters). Asia and North America were joined by a broad, treeless plain called Beringia, stretching more than 1,000 miles (1,600 km) from north to south. Mammoths, horses, and eventually people crossed it.",
+  "source": {
+   "name": "US National Park Service (Beringia)",
+   "url": "https://www.nps.gov/subjects/beringia/about.htm"
+  },
+  "source2": {
+   "name": "US National Park Service (Bering Land Bridge National Preserve)",
+   "url": "https://www.nps.gov/bela/learn/beringia.htm"
+  }
+ },
+ {
+  "id": "ia-doggerland",
+  "era": "iceage",
+  "year": -12000,
+  "dateLabel": "About 14,000 years ago",
+  "emoji": "🦌",
+  "cat": "nature",
+  "title": "The Lost Land Under the North Sea",
+  "place": "Doggerland (today's North Sea)",
+  "lat": 54.7,
+  "lng": 2.5,
+  "text": "Britain wasn't an island: it was joined to mainland Europe by a low land now called Doggerland, which reached towards today's Netherlands, Germany and Denmark. Fishermen still find ancient bones and tools on the seabed. Rising seas slowly swallowed it, and a giant tsunami about 8,150 years ago hit what was left.",
+  "source": {
+   "name": "National Geographic Education",
+   "url": "https://education.nationalgeographic.org/resource/doggerland/"
+  },
+  "source2": {
+   "name": "PNAS (Allaby et al. 2026), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12994208/"
+  }
+ },
+ {
+  "id": "ia-lascaux",
+  "era": "iceage",
+  "year": -19000,
+  "dateLabel": "About 21,000 years ago",
+  "emoji": "🐎",
+  "cat": "culture",
+  "title": "The Painted Cave",
+  "place": "Lascaux, France",
+  "lat": 45.05,
+  "lng": 1.17,
+  "text": "Ice Age artists painted and engraved hundreds of animals on these cave walls, mostly horses, along with stags and huge bulls, using mineral pigments. The cave was found again on 12 September 1940 by four teenagers aged 15 to 17 near the village of Montignac. Today the fragile original is closed, and visitors tour exact copies instead.",
+  "source": {
+   "name": "French Ministry of Culture, Lascaux",
+   "url": "https://archeologie.culture.gouv.fr/lascaux/en/discovery"
+  },
+  "source2": {
+   "name": "Bradshaw Foundation",
+   "url": "https://www.bradshawfoundation.com/lascaux/"
+  }
+ },
+ {
+  "id": "ia-odai",
+  "era": "iceage",
+  "year": -13000,
+  "dateLabel": "About 15,000 years ago",
+  "emoji": "🍲",
+  "cat": "daily",
+  "title": "Japan's First Potters",
+  "place": "Odai Yamamoto, Aomori, Japan",
+  "lat": 40.95,
+  "lng": 140.6,
+  "text": "Broken pots found at this site are the earliest known pottery in Northeast Asia, and among the oldest in the world. These first pots were plain, without the rope patterns of later Jōmon ware. Burnt food stuck to the shards shows they were used for cooking. The Jōmon period lasted more than 10,000 years.",
+  "source": {
+   "name": "Jomon Japan (official site, Jomon Prehistoric Sites World Heritage)",
+   "url": "https://jomon-japan.jp/en/learn/jomon-sites/odai-yamamoto"
+  },
+  "source2": {
+   "name": "Government of Japan, Kizuna",
+   "url": "https://www.japan.go.jp/kizuna/2021/08/charm_of_prehistoric_jomon_period.html"
+  }
+ },
+ {
+  "id": "ia-mezhyrich",
+  "era": "iceage",
+  "year": -16000,
+  "dateLabel": "About 18,000 years ago",
+  "emoji": "🦣",
+  "cat": "daily",
+  "title": "Houses Made of Mammoth Bones",
+  "place": "Mezhyrich, Ukraine",
+  "lat": 49.79,
+  "lng": 31.36,
+  "text": "On the cold steppe of Ice Age Ukraine, hunters built four round dwellings out of mammoth bones, each several meters across. One of them used the bones of at least 37 mammoths, mostly gathered from animals that had already died. New dating shows people lived here about 18,000 years ago.",
+  "source": {
+   "name": "Open Research Europe (Chu et al. 2025), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12639289/"
+  },
+  "source2": {
+   "name": "Internet Encyclopedia of Ukraine (Canadian Institute of Ukrainian Studies)",
+   "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages\\M\\E\\Mezhyricharcheologicalsite.htm"
+  }
+ },
+ {
+  "id": "ia-monte-verde",
+  "era": "iceage",
+  "year": -12500,
+  "dateLabel": "About 14,500 years ago",
+  "emoji": "🏕️",
+  "cat": "journeys",
+  "title": "Campers at the End of the World",
+  "place": "Monte Verde, Chile",
+  "lat": -41.5,
+  "lng": -73.2,
+  "text": "People built a long tent-like shelter here, cooked over fires, and even gathered seaweed from distant beaches for food and medicine. A layer of peat sealed the camp and kept wood, plants, and even human footprints from rotting. It showed humans reached the far south of the Americas surprisingly early.",
+  "source": {
+   "name": "Science (Dillehay et al. 2008), abstract via Europe PMC",
+   "url": "https://europepmc.org/article/MED/18467586"
+  },
+  "source2": {
+   "name": "PLOS ONE (Dillehay et al. 2015), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4651426/"
+  }
+ },
+ {
+  "id": "ia-sahul",
+  "era": "iceage",
+  "year": -16000,
+  "dateLabel": "During the Ice Age",
+  "emoji": "🦘",
+  "cat": "journeys",
+  "title": "When Australia Was Bigger",
+  "place": "Bass Strait, Australia",
+  "lat": -39.8,
+  "lng": 146.0,
+  "text": "Australia, New Guinea, and Tasmania were one big continent that scientists call Sahul. People could walk to Tasmania across land that's now a stormy sea. Aboriginal Australians had already lived here for tens of thousands of years, and some of their stories may remember the seas rising.",
+  "source": {
+   "name": "The Conversation (Bird, Cooper, Turney, Curnoe, Russell and Ulm; ARC Centre of Excellence CABAH)",
+   "url": "https://theconversation.com/australias-epic-story-a-tale-of-amazing-people-amazing-creatures-and-rising-seas-115701"
+  },
+  "source2": {
+   "name": "The Conversation (Reid and Nunn, Univ. of New England / Univ. of the Sunshine Coast)",
+   "url": "https://theconversation.com/ancient-aboriginal-stories-preserve-history-of-a-rise-in-sea-level-36010"
+  }
+ },
+ {
+  "id": "ia-gobekli",
+  "era": "iceage",
+  "year": -9500,
+  "dateLabel": "About 9500 BCE, as the Ice Age ended",
+  "emoji": "🗿",
+  "cat": "culture",
+  "title": "A Temple Older Than Farming",
+  "place": "Göbekli Tepe, Turkey",
+  "lat": 37.22,
+  "lng": 38.92,
+  "text": "Hunter-gatherers carved huge T-shaped stone pillars here, some over 5 meters tall, decorated with foxes, snakes, and vultures. It was built more than 6,000 years before Stonehenge. Nobody knows exactly how they organized such a big project without farms or cities.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1572"
+  },
+  "source2": {
+   "name": "Smithsonian Magazine",
+   "url": "https://www.smithsonianmag.com/history/gobekli-tepe-the-worlds-first-temple-83613665/"
+  }
+ },
+ {
+  "id": "bc-zhang-qian",
+  "era": "classical",
+  "year": -138,
+  "dateLabel": "138 BCE",
+  "emoji": "🐫",
+  "cat": "journeys",
+  "title": "The Envoy Who Opened the Way West",
+  "place": "Chang'an (today's Xi'an), China",
+  "lat": 34.27,
+  "lng": 108.94,
+  "text": "In 138 BCE Emperor Wu of Han sent an officer named Zhang Qian west to make allies of the Yuezhi against the Xiongnu. He was captured and held for about ten years, escaped, and finally came home 13 years later with amazing reports about Central Asia. His journey opened the way for envoys between Han China and Central Asia, and brought grapes and alfalfa to China.",
+  "source": {
+   "name": "Silk Road Seattle, University of Washington: Selections from the Han Narrative Histories (Shiji ch. 123, Hirth translation)",
+   "url": "https://depts.washington.edu/silkroad/texts/hantxt1.html"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Zhang Qian' (read in browser)",
+   "url": "https://www.britannica.com/biography/Zhang-Qian"
+  }
+ },
+ {
+  "id": "bc-gojoseon",
+  "era": "classical",
+  "year": -108,
+  "dateLabel": "108 BCE",
+  "emoji": "⚔️",
+  "cat": "power",
+  "title": "Han Armies Reach Korea",
+  "place": "Near Pyongyang, Korea",
+  "lat": 39.02,
+  "lng": 125.75,
+  "text": "In 108 BCE Emperor Wu's Han armies overthrew Gojoseon, Korea's first known kingdom, and replaced it with four Chinese colonies called commanderies. The most successful, Lelang, ruled from Pyongyang, became the centre of Chinese culture in Korea. The other three were abandoned within about 30 years, and in 313 CE the Korean kingdom of Goguryeo conquered Lelang too.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Nangnang' (Lelang)",
+   "url": "https://www.britannica.com/place/Nangnang"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Korea' (The use of metals and the emergence of tribal states)",
+   "url": "https://www.britannica.com/place/Korea/The-use-of-metals-and-the-emergence-of-tribal-states"
+  }
+ },
+ {
+  "id": "bc-antikythera",
+  "era": "classical",
+  "year": -65,
+  "dateLabel": "Sank about 70–60 BCE",
+  "emoji": "⚙️",
+  "cat": "discovery",
+  "title": "The Ancient Computer",
+  "place": "Antikythera, Greece",
+  "lat": 35.87,
+  "lng": 23.31,
+  "text": "Sponge divers exploring a shipwreck in 1901 pulled up a shoebox-sized lump of bronze gears. It turned out to be a hand-cranked machine that predicted eclipses and tracked the Sun, Moon, and planets. Nothing this complicated shows up again for over 1,000 years.",
+  "source": {
+   "name": "Scientific Reports via PubMed Central, Freeth et al. 2021, 'A Model of the Cosmos in the ancient Greek Antikythera Mechanism'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7955085/"
+  },
+  "source2": {
+   "name": "Scientific American",
+   "url": "https://www.scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets/"
+  }
+ },
+ {
+  "id": "bc-caesar",
+  "era": "classical",
+  "year": -44,
+  "dateLabel": "March 15, 44 BCE",
+  "emoji": "🗡️",
+  "cat": "power",
+  "title": "Beware the Ides of March",
+  "place": "Rome, Italy",
+  "lat": 41.895,
+  "lng": 12.477,
+  "text": "Julius Caesar was stabbed by a group of senators who feared he wanted to rule like a king. It happened in a meeting hall next to the Theatre of Pompey, whose ruins are now home to a shelter for stray cats. Instead of saving the Republic, his death led to Rome's first emperor, Augustus.",
+  "source": {
+   "name": "National Geographic History, 'Inside the conspiracy to kill Julius Caesar'",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/inside-the-conspiracy-to-kill-julius-caesar"
+  },
+  "source2": {
+   "name": "Discover Magazine, Sean Mowbray, 'Cats Today Find Safety Where Julius Caesar Was Stabbed'",
+   "url": "https://www.discovermagazine.com/planet-earth/cats-today-find-safety-where-julius-caesar-was-stabbed"
+  }
+ },
+ {
+  "id": "bc-cleopatra",
+  "era": "classical",
+  "year": -51,
+  "dateLabel": "51–30 BCE",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "Cleopatra's Alexandria",
+  "place": "Alexandria, Egypt",
+  "lat": 31.2,
+  "lng": 29.92,
+  "text": "Cleopatra VII, the last ruler of Ptolemaic Egypt, spoke many languages and was the first in her Greek-speaking family to learn Egyptian. Her city had a giant lighthouse and a famous library. Fun fact: Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid!",
+  "source": {
+   "name": "National Geographic, 'Key facts about Cleopatra's life and legacy'",
+   "url": "https://www.nationalgeographic.com/history/article/cleopatra-egypt-pharaoh-life-history"
+  },
+  "source2": {
+   "name": "American Research Center in Egypt (ARCE), 'Cleopatra VII: Scholar, Patron, Queen'",
+   "url": "https://arce.org/resource/cleopatra-vii-scholar-patron-queen/"
+  }
+ },
+ {
+  "id": "bc-meroe",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "Around 100 BCE",
+  "emoji": "🔺",
+  "cat": "culture",
+  "title": "Land of the Pyramid Queens",
+  "place": "Meroë, Sudan",
+  "lat": 16.94,
+  "lng": 33.75,
+  "text": "The Kingdom of Kush built about 200 steep pyramids around its capital, Meroë, and Sudan has more pyramids than Egypt. Powerful queens called kandakes sometimes ruled on their own. Kush was also an iron-making center, and heaps of leftover iron slag still lie near the city.",
+  "source": {
+   "name": "National Geographic History, 'The Nubian kingdom of Kush, rival to Egypt'",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/ancient-egypt-nubian-kingdom-pyramids-sudan"
+  },
+  "source2": {
+   "name": "The Conversation (university researcher), 'the forgotten queens of ancient Nubia'",
+   "url": "https://theconversation.com/never-mind-cleopatra-what-about-the-forgotten-queens-of-ancient-nubia-206828"
+  }
+ },
+ {
+  "id": "bc-petra",
+  "era": "classical",
+  "year": -50,
+  "dateLabel": "1st century BCE",
+  "emoji": "🏜️",
+  "cat": "culture",
+  "title": "The Rose-Red City",
+  "place": "Petra, Jordan",
+  "lat": 30.33,
+  "lng": 35.44,
+  "text": "The Nabataeans carved tombs and temples right into pink sandstone cliffs and grew rich from the incense trade. They were water geniuses, building dams and channels to survive in the desert. The famous \"Treasury\" building was carved a little later, around the 1st century CE.",
+  "source": {
+   "name": "National Geographic History, 'Ancient Petra, Jordan's Lost Oasis'",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/petra"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre / ICOMOS, Petra",
+   "url": "https://whc.unesco.org/document/168269"
+  }
+ },
+ {
+  "id": "bc-sanchi",
+  "era": "classical",
+  "year": -50,
+  "dateLabel": "1st century BCE",
+  "emoji": "☸️",
+  "cat": "culture",
+  "title": "Stone Stories at Sanchi",
+  "place": "Sanchi, India",
+  "lat": 23.48,
+  "lng": 77.74,
+  "text": "Four stone gateways covered in carvings of the Buddha's life were added to the Great Stupa, first built by Emperor Ashoka. Curiously, the Buddha himself is never shown as a person, only as symbols like a wheel, an empty throne or a pair of footprints. Inscriptions name the donors of the carvings; one records a gift from the ivory workers of nearby Vidisha.",
+  "source": {
+   "name": "Victoria and Albert Museum, 'The Great Stupa at Sanchi'",
+   "url": "https://collections.vam.ac.uk/item/O175835/the-great-stupa-at-sanchi-photograph-waterhouse-james-john/"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Buddhist Monuments at Sanchi",
+   "url": "https://whc.unesco.org/en/list/524/"
+  }
+ },
+ {
+  "id": "bc-dongson",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "About 500 BCE – 100 CE",
+  "emoji": "🥁",
+  "cat": "culture",
+  "title": "Drums of Bronze",
+  "place": "Đông Sơn, Thanh Hóa, Vietnam",
+  "lat": 19.8,
+  "lng": 105.78,
+  "text": "The Đông Sơn people of northern Vietnam cast big bronze drums with a shining star or sun in the middle of the top, ringed by birds and boats full of people in feather headdresses. The oldest drums were used in funeral rituals, and many were traded far away, as far as Indonesia. Today the drum is a symbol of Vietnam, displayed in many public places.",
+  "source": {
+   "name": "Metropolitan Museum of Art, Mahōra Thuk bronze drum (66.38), catalogue text by J. Kenneth Moore",
+   "url": "https://www.metmuseum.org/art/collection/search/505332"
+  },
+  "source2": {
+   "name": "W.G. Solheim II, 'A Brief History of the Dongson Concept', Asian Perspectives (Univ. of Hawai'i ScholarSpace)",
+   "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/8f73682a-d407-4ca5-be16-963ae92ee881/content"
+  }
+ },
+ {
+  "id": "bc-el-mirador",
+  "era": "classical",
+  "year": -150,
+  "dateLabel": "About 300 BCE – 150 CE",
+  "emoji": "🛕",
+  "cat": "culture",
+  "title": "A Giant Maya Pyramid in the Jungle",
+  "place": "El Mirador, Guatemala",
+  "lat": 17.75,
+  "lng": -89.92,
+  "text": "Long before the famous Maya cities, El Mirador was a huge capital linked by raised stone roads. Its La Danta temple is one of the largest pyramids in the world by volume. Today you can only get there by hiking for days or flying in by helicopter.",
+  "source": {
+   "name": "National Geographic",
+   "url": "https://www.nationalgeographic.com/premium/article/maya-empire-ruins-lidar-technology"
+  },
+  "source2": {
+   "name": "Ancient Mesoamerica (Cambridge University Press), Hansen et al., LiDAR analyses in the Mirador-Calakmul Karst Basin",
+   "url": "https://www.cambridge.org/core/journals/ancient-mesoamerica/article/lidar-analyses-in-the-contiguous-miradorcalakmul-karst-basin-guatemala-an-introduction-to-new-perspectives-on-regional-early-maya-socioeconomic-and-political-organization/31075DFA8ADBAA5E7C7320CA6DB93E5E"
+  }
+ },
+ {
+  "id": "bc-nazca",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "About 500 BCE – 500 CE",
+  "emoji": "🐒",
+  "cat": "culture",
+  "title": "Giant Drawings in the Desert",
+  "place": "Nazca, Peru",
+  "lat": -14.74,
+  "lng": -75.13,
+  "text": "The Nazca people moved dark stones aside to draw a monkey, a hummingbird, a spider, and long straight lines across the desert. Some are so big they're best seen from the air or nearby hills. The dry, calm weather has kept them safe for about 2,000 years.",
+  "source": {
+   "name": "National Geographic",
+   "url": "https://www.nationalgeographic.com/travel/article/how-to-see-nasca-lines-peruvian-desert"
+  },
+  "source2": {
+   "name": "NASA Earth Observatory, 'Nazca Lines, Peru'",
+   "url": "https://science.nasa.gov/earth/earth-observatory/nazca-lines-peru-5848/"
+  }
+ },
+ {
+  "id": "y-sydney",
+  "era": "exploration",
+  "year": 1788,
+  "dateLabel": "January 26, 1788",
+  "emoji": "⛵",
+  "cat": "journeys",
+  "title": "The First Fleet Arrives",
+  "place": "Sydney Cove, Australia",
+  "lat": -33.86,
+  "lng": 151.21,
+  "text": "Eleven British ships arrived carrying over a thousand people, many of them convicts, to set up a prison colony. The Gadigal people of the Eora Nation had lived around this harbor for thousands of years. The date is still debated today: some call it Australia Day, others call it Invasion Day.",
+  "source": {
+   "name": "Dictionary of Sydney: First Fleet",
+   "url": "https://dictionaryofsydney.org/artefact/first_fleet"
+  },
+  "source2": {
+   "name": "ABC News: Invasion Day protests draw thousands calling for date change (26 Jan 2019)",
+   "url": "https://www.abc.net.au/news/2019-01-26/australia-day-protests-draw-thousands-calling-for-date-change/10752882"
+  }
+ },
+ {
+  "id": "y-macartney",
+  "era": "exploration",
+  "year": 1793,
+  "dateLabel": "1793",
+  "emoji": "🫖",
+  "cat": "power",
+  "title": "The Emperor Says \"No, Thanks\"",
+  "place": "Chengde, China",
+  "lat": 40.98,
+  "lng": 117.94,
+  "text": "Britain sent Lord Macartney with elaborate clocks, globes and other gifts to the Qianlong Emperor, hoping to open more trade. The emperor met him at his summer palace here and politely refused, writing that China had no need for Britain's goods. China's refusal is often seen as background to later clashes such as the Opium Wars.",
+  "source": {
+   "name": "Columbia University, Asia for Educators: Two Edicts from the Qianlong Emperor (1793)",
+   "url": "https://afe.easia.columbia.edu/main_pop/ps//ps_china-qianlong-edicts.htm"
+  },
+  "source2": {
+   "name": "Henrietta Harrison, 'A Faithful Interpreter? Li Zibiao and the 1793 Macartney Embassy', Oxford Research Archive",
+   "url": "https://ora.ox.ac.uk/objects/uuid:5f4f2ea6-72af-4385-ac13-d952e94562f3"
+  }
+ },
+ {
+  "id": "y-rosetta",
+  "era": "exploration",
+  "year": 1799,
+  "dateLabel": "July 1799",
+  "emoji": "🪨",
+  "cat": "discovery",
+  "title": "The Stone That Cracked a Code",
+  "place": "Rashid (Rosetta), Egypt",
+  "lat": 31.4,
+  "lng": 30.42,
+  "text": "French soldiers rebuilding a fort found a stone with the same message written three ways: in hieroglyphs, in Demotic script, and in Greek. Because scholars could read the Greek, it became the key to the long-lost hieroglyphs. Jean-François Champollion finally cracked them in 1822.",
+  "source": {
+   "name": "Fondation Napoléon (napoleon.org): The Rosetta Stone, a journey from Alexandria to London",
+   "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/the-rosetta-stone-a-journey-from-alexandria-to-london/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Rosetta Stone",
+   "url": "https://www.britannica.com/topic/Rosetta-Stone"
+  }
+ },
+ {
+  "id": "y-tipu",
+  "era": "exploration",
+  "year": 1799,
+  "dateLabel": "1799",
+  "emoji": "🐯",
+  "cat": "power",
+  "title": "Tipu's Tiger",
+  "place": "Srirangapatna, India",
+  "lat": 12.42,
+  "lng": 76.69,
+  "text": "Tipu Sultan, the \"Tiger of Mysore\", fought the British East India Company for years. When his fortress fell in 1799, the British took a life-size wooden tiger attacking a European soldier, with a little organ inside that made growls and screams. You can still see it in a museum in London.",
+  "source": {
+   "name": "Victoria and Albert Museum: Tippoo's Tiger (museum no. 2545(IS))",
+   "url": "https://collections.vam.ac.uk/item/O61949/"
+  }
+ },
+ {
+  "id": "y-humboldt",
+  "era": "industrial",
+  "year": 1800,
+  "dateLabel": "March 1800",
+  "emoji": "⚡",
+  "cat": "discovery",
+  "title": "Fishing for Electric Eels",
+  "place": "Calabozo, Venezuela",
+  "lat": 8.92,
+  "lng": -67.43,
+  "text": "Near Calabozo, explorer Alexander von Humboldt watched local fishermen drive horses into a pond so electric eels would zap them and wear themselves out. Then the eels could be caught safely. Humboldt got a painful shock too, and he used the captured eels for his own experiments on their electricity.",
+  "source": {
+   "name": "Catania K.C., 'Leaping eels electrify threats, supporting Humboldt's account of a battle with horses', PNAS 2016, PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4922196/"
+  },
+  "source2": {
+   "name": "Catania K.C., 'The Astonishing Behavior of Electric Eels', Front Integr Neurosci 2019, PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6646469/"
+  }
+ },
+ {
+  "id": "y-edo",
+  "era": "industrial",
+  "year": 1800,
+  "dateLabel": "Around 1800",
+  "emoji": "🏯",
+  "cat": "daily",
+  "title": "The Million-Person City",
+  "place": "Edo (today's Tokyo), Japan",
+  "lat": 35.68,
+  "lng": 139.76,
+  "text": "Edo was one of the biggest cities on Earth, with roughly a million people. Under the Tokugawa shoguns it had busy theaters, street stalls selling soba noodles and tempura, and publishers selling colorful woodblock prints. The artist Hokusai, who later made \"The Great Wave\", was working here.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Tokyo-Yokohama metropolitan area, History",
+   "url": "https://www.britannica.com/place/Tokyo-Yokohama-Metropolitan-Area/History"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Hokusai (Richard Lane)",
+   "url": "https://www.britannica.com/biography/Hokusai"
+  }
+ },
+ {
+  "id": "y-haiti",
+  "era": "industrial",
+  "year": 1804,
+  "dateLabel": "January 1, 1804",
+  "emoji": "🗽",
+  "cat": "power",
+  "title": "Haiti Declares Freedom",
+  "place": "Gonaïves, Haiti",
+  "lat": 19.45,
+  "lng": -72.69,
+  "text": "After more than 12 years of revolution, formerly enslaved people defeated Napoleon's army and declared Haiti independent. It became the only nation born from a successful uprising of enslaved people. Haitians still celebrate New Year's Day, their Independence Day, with soup joumou, a pumpkin soup once reserved for slave owners.",
+  "source": {
+   "name": "Library of Congress Research Guide, Women in the Haitian Revolution",
+   "url": "https://guides.loc.gov/women-in-the-french-revolution/women-haitian-revolution"
+  },
+  "source2": {
+   "name": "UNESCO Intangible Cultural Heritage, Joumou soup",
+   "url": "https://ich.unesco.org/en/RL/joumou-soup-01853"
+  }
+ },
+ {
+  "id": "y-sokoto",
+  "era": "industrial",
+  "year": 1804,
+  "dateLabel": "1804–1809",
+  "emoji": "📜",
+  "cat": "power",
+  "title": "A Scholar Builds a Caliphate",
+  "place": "Sokoto, Nigeria",
+  "lat": 13.06,
+  "lng": 5.24,
+  "text": "The scholar Usman dan Fodio led a movement that united many Hausa states into the Sokoto Caliphate, one of the largest empires in Africa in the 1800s. His daughter Nana Asma'u became a famous poet and teacher who trained a network of women educators. Some people in northern Nigeria can still recite her poems today.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Usman dan Fodio (Thomas Hodgkin)",
+   "url": "https://www.britannica.com/biography/Usman-dan-Fodio"
+  },
+  "source2": {
+   "name": "University of Kansas News, book on Nana Asma'u and Yan Taru (2023)",
+   "url": "https://news.ku.edu/news/article/2023/08/08/book-expands-legacy-nigerian-womens-islamic-scholarship"
+  }
+ },
+ {
+  "id": "y-napoleon",
+  "era": "industrial",
+  "year": 1804,
+  "dateLabel": "December 2, 1804",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "An Emperor Crowns Himself",
+  "place": "Notre-Dame, Paris, France",
+  "lat": 48.853,
+  "lng": 2.35,
+  "text": "Napoleon Bonaparte became Emperor of the French in a huge ceremony with the Pope watching. At the big moment, he placed the crown on his own head. The painter Jacques-Louis David captured the scene in a painting almost 10 meters wide.",
+  "source": {
+   "name": "Encyclopaedia Britannica, The Coronation of Napoleon (Alicja Zelazko)",
+   "url": "https://www.britannica.com/topic/The-Coronation-of-Napoleon"
+  },
+  "source2": {
+   "name": "Musée du Louvre collections, David study 'L'Empereur Napoléon Ier se couronnant lui-même'",
+   "url": "https://collections.louvre.fr/en/ark:/53355/cl020016898"
+  }
+ },
+ {
+  "id": "y-lewis-clark",
+  "era": "industrial",
+  "year": 1805,
+  "dateLabel": "November 1805",
+  "emoji": "🛶",
+  "cat": "journeys",
+  "title": "\"Ocean in View!\"",
+  "place": "Fort Clatsop, Oregon, USA",
+  "lat": 46.13,
+  "lng": -123.88,
+  "text": "After crossing the Rocky Mountains, the Lewis and Clark expedition reached the Pacific coast. They got help from Native peoples all along the way, including Sacagawea, a young Shoshone woman who traveled with her baby. They spent a very rainy winter in a small fort they built here: it rained on all but 12 of their 106 days.",
+  "source": {
+   "name": "US National Park Service, Lewis and Clark National Historical Park, History & Culture",
+   "url": "https://www.nps.gov/lewi/learn/historyculture/index.htm"
+  },
+  "source2": {
+   "name": "US National Park Service, Lewis and Clark National Historical Park: Frequently Asked Questions",
+   "url": "https://www.nps.gov/lewi/faqs.htm"
+  }
+ },
+ {
+  "id": "y-kamehameha",
+  "era": "industrial",
+  "year": 1810,
+  "dateLabel": "By 1810",
+  "emoji": "🌺",
+  "cat": "power",
+  "title": "One Kingdom of Hawaiʻi",
+  "place": "Kailua-Kona, Hawaiʻi",
+  "lat": 19.64,
+  "lng": -155.99,
+  "text": "Kamehameha I united the Hawaiian Islands into one kingdom by 1810. Years earlier he made the \"Law of the Splintered Paddle\", protecting ordinary people, such as the elderly, women and children, from attack by powerful chiefs and warriors. That law is written into Hawaiʻi's state constitution today.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Kamehameha I",
+   "url": "https://www.britannica.com/biography/Kamehameha-I"
+  },
+  "source2": {
+   "name": "Hawaii State Legislature, Constitution of the State of Hawaii, Article IX, Section 10",
+   "url": "https://www.capitol.hawaii.gov/hrscurrent/vol01_ch0001-0042f/05-const/const_0009-0010.htm"
+  }
+ },
+ {
+  "id": "td-apology",
+  "era": "modern",
+  "year": 2008,
+  "dateLabel": "February 13, 2008",
+  "emoji": "🤝",
+  "cat": "power",
+  "title": "Saying Sorry",
+  "place": "Canberra, Australia",
+  "lat": -35.31,
+  "lng": 149.12,
+  "text": "Prime Minister Kevin Rudd formally apologized in Parliament to the Stolen Generations: Aboriginal and Torres Strait Islander children taken from their families under past government policies. Thousands gathered in Canberra to witness it, and crowds watched it on television at sites around the nation. Many felt that a vital first step toward healing had begun.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments - National Apology",
+   "url": "https://www.nma.gov.au/defining-moments/resources/national-apology"
+  },
+  "source2": {
+   "name": "State Library Victoria, 'Apology to the Aborigines'",
+   "url": "https://ergo.slv.vic.gov.au/explore-history/fight-rights/indigenous-rights/apology-aborigines"
+  }
+ },
+ {
+  "id": "td-seed-vault",
+  "era": "modern",
+  "year": 2008,
+  "dateLabel": "Opened 2008",
+  "emoji": "🌱",
+  "cat": "nature",
+  "title": "The Doomsday Seed Vault",
+  "place": "Svalbard, Norway",
+  "lat": 78.24,
+  "lng": 15.49,
+  "text": "Deep inside an Arctic mountain, this vault stores backup copies of seeds from almost every country, more than a million samples. If crops are lost to war or disaster, the seeds can be sent back. In 2015, scientists made the first withdrawal to replace seeds lost in the war in Syria.",
+  "source": {
+   "name": "Crop Trust: Svalbard Global Seed Vault",
+   "url": "https://www.croptrust.org/work/svalbard-global-seed-vault/"
+  }
+ },
+ {
+  "id": "td-hudson",
+  "era": "modern",
+  "year": 2009,
+  "dateLabel": "January 15, 2009",
+  "emoji": "✈️",
+  "cat": "daily",
+  "title": "The Miracle on the Hudson",
+  "place": "New York City, USA",
+  "lat": 40.77,
+  "lng": -74.0,
+  "text": "A flock of geese knocked out both engines of a passenger jet just after takeoff. Captain \"Sully\" Sullenberger glided the plane down onto the Hudson River, and all 155 people on board survived. Ferry boats rushed over to pick people off the wings.",
+  "source": {
+   "name": "Smithsonian Institution: Scientists Identify Geese in Hudson River Plane Crash",
+   "url": "https://www.si.edu/stories/scientists-identify-geese-hudson-river-plane-crash"
+  },
+  "source2": {
+   "name": "FAA Lessons Learned: US Airways Flight 1549",
+   "url": "https://www.faa.gov/lessonslearned/transportairplane/accidents/N160US"
+  }
+ },
+ {
+  "id": "td-burj",
+  "era": "modern",
+  "year": 2010,
+  "dateLabel": "Opened 2010",
+  "emoji": "🏙️",
+  "cat": "culture",
+  "title": "The Tallest Building on Earth",
+  "place": "Dubai, United Arab Emirates",
+  "lat": 25.197,
+  "lng": 55.274,
+  "text": "The Burj Khalifa stands 828 meters tall, more than twice the height of the Empire State Building. Its top floors see so far along Earth's curve that the Sun sets about four minutes later up there than at the bottom! Its shape was partly inspired by a desert flower called the spider lily.",
+  "source": {
+   "name": "Burj Khalifa official website: Architecture & Design",
+   "url": "https://www.burjkhalifa.ae/the-tower/architecture-design/"
+  },
+  "source2": {
+   "name": "CTBUH Skyscraper Center: Burj Khalifa / Empire State Building",
+   "url": "https://www.skyscrapercenter.com/building/burj-khalifa/3"
+  }
+ },
+ {
+  "id": "td-higgs",
+  "era": "modern",
+  "year": 2012,
+  "dateLabel": "July 4, 2012",
+  "emoji": "⚛️",
+  "cat": "discovery",
+  "title": "Catching the Higgs Boson",
+  "place": "CERN, near Geneva, Switzerland",
+  "lat": 46.234,
+  "lng": 6.055,
+  "text": "Scientists using the Large Hadron Collider, a 27-km ring of magnets buried underground, announced they had found the Higgs boson. This tiny particle helps explain why things have mass. Physicists had been hunting for it for almost 50 years.",
+  "source": {
+   "name": "CERN: The Higgs boson",
+   "url": "https://home.cern/science/physics/higgs-boson"
+  },
+  "source2": {
+   "name": "CERN: The Large Hadron Collider",
+   "url": "https://home.cern/science/accelerators/large-hadron-collider"
+  }
+ },
+ {
+  "id": "td-naledi",
+  "era": "modern",
+  "year": 2015,
+  "dateLabel": "Announced 2015",
+  "emoji": "💀",
+  "cat": "discovery",
+  "title": "A Brand-New Human Relative",
+  "place": "Rising Star Cave, South Africa",
+  "lat": -25.92,
+  "lng": 27.65,
+  "text": "Cavers squeezed through gaps only about 20 cm wide to reach a hidden chamber full of bones. They belonged to a new human relative, Homo naledi, with a small brain but hands and wrists a lot like ours. They lived roughly 236,000 to 335,000 years ago, around the same time as the earliest members of our own species.",
+  "source": {
+   "name": "Dirks et al. 2015, eLife (PMC4559842): Geological and taphonomic context for Homo naledi",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4559842/"
+  },
+  "source2": {
+   "name": "Dirks et al. 2017, eLife (PMC5423772): The age of Homo naledi",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5423772/"
+  }
+ },
+ {
+  "id": "td-hzmb",
+  "era": "modern",
+  "year": 2018,
+  "dateLabel": "Opened 2018",
+  "emoji": "🌉",
+  "cat": "journeys",
+  "title": "A Bridge That Dives Under the Sea",
+  "place": "Pearl River Delta, China",
+  "lat": 22.28,
+  "lng": 113.77,
+  "text": "The Hong Kong–Zhuhai–Macau Bridge is a 55-km chain of bridges, islands, and tunnels across the sea. In the middle it dives into a 6.7-km undersea tunnel so ships in one of the world's busiest deep-water channels can sail over it. It turned a trip of several hours into well under one.",
+  "source": {
+   "name": "Hong Kong-Zhuhai-Macao Bridge Authority / HKSAR Government: HZMB (Hong Kong Section)",
+   "url": "https://www.hzmb.gov.hk/en/"
+  },
+  "source2": {
+   "name": "HKSAR Government, Greater Bay Area: Key Infrastructure",
+   "url": "https://www.bayarea.gov.hk/en/connectivity/key.html"
+  }
+ },
+ {
+  "id": "td-black-hole",
+  "era": "modern",
+  "year": 2019,
+  "dateLabel": "April 10, 2019",
+  "emoji": "🕳️",
+  "cat": "discovery",
+  "title": "The First Photo of a Black Hole",
+  "place": "Atacama Desert, Chile",
+  "lat": -23.03,
+  "lng": -67.75,
+  "text": "Telescopes around the world, including ALMA high in the Atacama Desert, teamed up to act like one Earth-sized telescope. Together they took the first picture of a black hole: a glowing orange ring around a dark shadow in the galaxy M87. That black hole is about 6.5 billion times heavier than our Sun.",
+  "source": {
+   "name": "Event Horizon Telescope Collaboration: Press release, April 10, 2019",
+   "url": "https://eventhorizontelescope.org/press-release-april-10-2019-astronomers-capture-first-image-black-hole"
+  }
+ },
+ {
+  "id": "td-chandrayaan",
+  "era": "modern",
+  "year": 2023,
+  "dateLabel": "August 23, 2023",
+  "emoji": "🚀",
+  "cat": "discovery",
+  "title": "Landing Near the Moon's South Pole",
+  "place": "Sriharikota, India",
+  "lat": 13.72,
+  "lng": 80.23,
+  "text": "Chandrayaan-3 launched from this island space center and made India the first country to land near the Moon's south pole. Its little rover, Pragyan, rolled around testing the lunar soil. India became only the fourth country ever to land gently on the Moon.",
+  "source": {
+   "name": "Press Information Bureau, Govt of India: Year End Review of Department of Space (2023)",
+   "url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1991574&reg=48&lang=2"
+  },
+  "source2": {
+   "name": "ISRO: Chandrayaan-3 details",
+   "url": "https://www.isro.gov.in/Chandrayaan3_Details.html"
+  }
+ }
+]

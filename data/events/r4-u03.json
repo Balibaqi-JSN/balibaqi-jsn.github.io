@@ -1,0 +1,402 @@
+[
+ {
+  "id": "u03-xiamabei-ochre-workshop",
+  "era": "early",
+  "year": -40000,
+  "dateLabel": "About 40,000 years ago",
+  "cat": "culture",
+  "title": "Crushing Red Ochre in the Nihewan Basin",
+  "place": "Xiamabei, Nihewan Basin, Hebei, China",
+  "lat": 40.21,
+  "lng": 114.65,
+  "text": "At Xiamabei, people laid out two lumps of ochre and a long limestone slab, then pounded and rubbed them into powders of different colours, staining the floor red. It is the earliest known ochre processing in East Asia. Their stone blades were tiny, more than half under 2 centimetres, and seven show clear traces of hafting. The tools were used for boring, scraping hides and whittling plants.",
+  "source": {
+   "name": "Max Planck Society: An innovative 40,000-year-old culture in China",
+   "url": "https://www.mpg.de/18370987/innovative-40-000-year-old-culture-in-china"
+  }
+ },
+ {
+  "id": "u03-tolbor-graphite-pendant",
+  "era": "early",
+  "year": -42000,
+  "dateLabel": "About 42,000 years ago",
+  "cat": "culture",
+  "title": "A Graphite Pendant Worn Smooth",
+  "place": "Tolbor-21, Tolbor River valley, Northern Khangai, Mongolia",
+  "lat": 49.25,
+  "lng": 102.95,
+  "text": "In a Mongolian river valley, archaeologists found a black graphite pendant about 4 centimetres long, grooved so it could hang on a cord. Its flat side is glossy, as if it rubbed against clothing for a long time. No graphite exists nearby; the closest big deposits lie 400 to 500 kilometres away. The researchers think it may be a simplified phallic shape, though they admit other readings remain possible.",
+  "source": {
+   "name": "Scientific Reports (PMC): Symbolic innovation at the onset of the Upper Paleolithic in Eurasia shown by the personal ornaments from Tolbor-21",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10261033/"
+  }
+ },
+ {
+  "id": "u03-lingjing-bone-tools",
+  "era": "early",
+  "year": -115000,
+  "dateLabel": "About 115,000 years ago",
+  "cat": "daily",
+  "title": "Quick Tools Knapped from Bone",
+  "place": "Lingjing, Xuchang, Henan, China",
+  "lat": 34.07,
+  "lng": 113.68,
+  "text": "At Lingjing, early humans used the site again and again to kill and butcher wild horses and aurochs, leaving over 50,000 animal bones. Researchers found that 56 broken leg bones had been deliberately chipped into quick, throwaway tools, knapped just like stone. Others had been used as retouchers to sharpen stone tools, and one deer antler served as a soft hammer for shaping tools.",
+  "source": {
+   "name": "PLOS ONE (PMC): A 115,000-year-old expedient bone technology at Lingjing, Henan, China",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8101957/"
+  }
+ },
+ {
+  "id": "u03-bianfu-cave-denisovans",
+  "era": "early",
+  "year": -150000,
+  "dateLabel": "About 167,000 to 134,000 years ago",
+  "cat": "discovery",
+  "title": "Five Denisovans Hidden in a Bone Pile",
+  "place": "Bianfu Cave, Heqing County, Yunnan, China",
+  "lat": 26.46,
+  "lng": 100.17,
+  "text": "Scientists sifted more than 60,000 bone fragments from Bianfu Cave in Yunnan and flagged 22 that might be human. Ancient proteins then revealed five Denisovans: two teeth from men, two pieces of skull and part of a forearm bone, the only Denisovan radius known. No site outside Siberia's Denisova Cave has yielded more Denisovan remains. They lived here roughly 167,000 to 134,000 years ago.",
+  "source": {
+   "name": "Nature (PMC): Ancient proteins identify various Denisovan remains from Southwest China",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13781761/"
+  }
+ },
+ {
+  "id": "u03-erectus-enamel-proteins",
+  "era": "early",
+  "year": -400000,
+  "dateLabel": "About 400,000 years ago",
+  "cat": "discovery",
+  "title": "Proteins Pulled from Homo Erectus Teeth",
+  "place": "Sunjiadong, Luanchuan County, Henan, China",
+  "lat": 33.79,
+  "lng": 111.6,
+  "text": "DNA rarely survives this long, but tooth enamel proteins can. Researchers extracted them from six Homo erectus specimens about 400,000 years old from Zhoukoudian, Hexian and Sunjiadong. All six shared a protein variant never seen in any other human group. Another variant also appears in Denisovans, hinting that East Asian Homo erectus and Denisovans may once have met and mixed.",
+  "source": {
+   "name": "Nature (PMC): Enamel proteins from six Homo erectus specimens across China",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13322979/"
+  }
+ },
+ {
+  "id": "u03-longtan-quina-scrapers",
+  "era": "early",
+  "year": -55000,
+  "dateLabel": "About 60,000 to 50,000 years ago",
+  "cat": "culture",
+  "title": "A Neanderthal-Style Toolkit in Yunnan",
+  "place": "Longtan, Hengduan Mountains, Yunnan, China",
+  "lat": 26.03,
+  "lng": 100.42,
+  "text": "Quina tools, thick flakes turned into heavy scrapers and resharpened again and again, were thought to belong to Europe and western Asia, where Neanderthals used them in the cold. Then a complete Quina toolkit turned up at Longtan, an open-air site 1,540 metres up in southwest China, dated to about 60,000 to 50,000 years ago. Who made it, sapiens, Denisovans or others, is still unknown.",
+  "source": {
+   "name": "PNAS (PMC): Quina lithic technology indicates diverse Late Pleistocene human dynamics in East Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12002189/"
+  }
+ },
+ {
+  "id": "u03-chagyrskaya-genome",
+  "era": "early",
+  "year": -60000,
+  "dateLabel": "About 60,000 years ago",
+  "cat": "discovery",
+  "title": "A Neanderthal Woman's Lonely Genome",
+  "place": "Chagyrskaya Cave, Altai Krai, Russia",
+  "lat": 51.44,
+  "lng": 83.16,
+  "text": "A single finger bone found in 2011 at Chagyrskaya Cave gave scientists a full, high-quality genome of a Neanderthal woman. Surprisingly, she was more closely related to Neanderthals in Croatia than to earlier Neanderthals from Denisova Cave, just 100 kilometres away. Long stretches of matching DNA showed her ancestors lived in small, isolated groups of fewer than 60 individuals.",
+  "source": {
+   "name": "PNAS (PMC): A high-coverage Neandertal genome from Chagyrskaya Cave",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7334501/"
+  }
+ },
+ {
+  "id": "u03-chagyrskaya-tooth-drilling",
+  "era": "early",
+  "year": -59000,
+  "dateLabel": "About 59,000 years ago",
+  "cat": "daily",
+  "title": "Neanderthal Dentists Drill a Rotten Tooth",
+  "place": "Chagyrskaya Cave, Altai Krai, Russia",
+  "lat": 51.44,
+  "lng": 83.16,
+  "text": "An older Neanderthal in the Altai had a decaying molar, and someone did something about it. Microscopes and CT scans show a large hollow drilled into the tooth's chewing surface while its owner was alive, using a small pointed stone tool. Researchers repeated the job on modern teeth with jasper drills. It is the earliest known treatment of tooth decay, about 59,000 years ago.",
+  "source": {
+   "name": "PLOS ONE (PMC): Earliest evidence for invasive mitigation of dental caries by Neanderthals",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13170851/"
+  }
+ },
+ {
+  "id": "u03-obi-rakhmat-arrowheads",
+  "era": "early",
+  "year": -80000,
+  "dateLabel": "About 80,000 years ago",
+  "cat": "discovery",
+  "title": "Arrowheads in the Tian Shan?",
+  "place": "Obi-Rakhmat rock shelter, Tashkent Region, Uzbekistan",
+  "lat": 41.57,
+  "lng": 70.13,
+  "text": "High in the Tian Shan foothills, 100 kilometres from Tashkent, the Obi-Rakhmat rock shelter holds 10 metres of Ice Age layers. In its oldest levels, about 80,000 years old, researchers spotted tiny triangular stone points previously overlooked as broken scraps. They argue the points are too narrow to fit anything but arrow-like shafts, and that they resemble arrowheads left in France 25,000 years later.",
+  "source": {
+   "name": "PLOS ONE (PMC): Arrow heads at Obi-Rakhmat (Uzbekistan) 80 ka ago?",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12338843/"
+  }
+ },
+ {
+  "id": "u03-retlapalle-levallois",
+  "era": "early",
+  "year": -139000,
+  "dateLabel": "About 139,000 years ago",
+  "cat": "daily",
+  "title": "Pointed Tools by an Andhra Stream",
+  "place": "Retlapalle, Gundlakamma basin, Prakasam District, Andhra Pradesh, India",
+  "lat": 15.59,
+  "lng": 79.19,
+  "text": "On the bank of a small stream feeding the Gundlakamma River, toolmakers left behind stone cores and points, buried in a layer dated to about 139,000 years ago. They used several Levallois methods, carefully preparing a core before striking off flakes of a planned shape. Pointed tools dominate the finds, adding to evidence that India's Middle Palaeolithic began early and lasted through great climate upheavals.",
+  "source": {
+   "name": "PLOS ONE (PMC): Deep-rooted Indian Middle Palaeolithic: Terminal Middle Pleistocene lithic assemblage from Retlapalle, Andhra Pradesh",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11349113/"
+  }
+ },
+ {
+  "id": "u03-kitulgala-rainforest-tools",
+  "era": "early",
+  "year": -45000,
+  "dateLabel": "About 45,000 years ago",
+  "cat": "daily",
+  "title": "Tiny Quartz Tools for Rainforest Hunters",
+  "place": "Kitulgala Beli-lena, Sabaragamuwa Province, Sri Lanka",
+  "lat": 6.99,
+  "lng": 80.41,
+  "text": "In a big gneiss rock shelter in Sri Lanka's wet lowland rainforest, 85 kilometres east of Colombo, people began making stone tools about 45,000 years ago. They split quartz with the bipolar method to make microliths under 4 centimetres, used with bone points. Remarkably, the same toolmaking habits lasted until 8,000 years ago, suited to hunting tree-dwelling monkeys and squirrels.",
+  "source": {
+   "name": "PLOS ONE (PMC): Homo sapiens lithic technology and microlithization in the South Asian rainforest at Kitulgala Beli-lena",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9560501/"
+  }
+ },
+ {
+  "id": "u03-leang-bulu-bettue-turnover",
+  "era": "early",
+  "year": -40000,
+  "dateLabel": "About 40,000 years ago",
+  "cat": "discovery",
+  "title": "Two Very Different Peoples in One Cave",
+  "place": "Leang Bulu Bettue, Maros-Pangkep, South Sulawesi, Indonesia",
+  "lat": -4.98,
+  "lng": 119.67,
+  "text": "Digging 8 metres down at Leang Bulu Bettue, archaeologists found a stone pick and butchered animal bones from roughly 208,000 to 132,000 years ago, long before our species reached Sulawesi. Later, people made simple cobble tools and ate dwarf buffalo and now-extinct elephant relatives. Then, by about 40,000 years ago, the record changes abruptly, with the cave's first art and symbols. Modern humans may have replaced older hominins.",
+  "source": {
+   "name": "PLOS ONE (PMC): A near-continuous archaeological record of Pleistocene human occupation at Leang Bulu Bettue, Sulawesi",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12725638/"
+  }
+ },
+ {
+  "id": "u03-traders-cave-archaic-tooth",
+  "era": "early",
+  "year": -53000,
+  "dateLabel": "About 55,000 to 52,000 years ago",
+  "cat": "discovery",
+  "title": "A Strange Front Tooth in Borneo",
+  "place": "Trader's Cave (Gua Dagang), Niah National Park, Sarawak, Malaysia",
+  "lat": 3.82,
+  "lng": 113.78,
+  "text": "Just 300 metres from the famous Niah Great Cave, a smaller cave yielded one adult upper front tooth, about 52,000 to 55,000 years old. Its crown is huge for its root and strongly shovel-shaped, a combination not normally found in our species but typical of archaic humans like Homo erectus and Neanderthals. Someone other than us apparently lived in Borneo as modern humans arrived.",
+  "source": {
+   "name": "PLOS ONE (PMC): A Late Pleistocene archaic human tooth from Gua Dagang (Trader's Cave), Niah National Park, Sarawak",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12694886/"
+  }
+ },
+ {
+  "id": "u03-liang-bua-dragon-leftovers",
+  "era": "early",
+  "year": -55000,
+  "dateLabel": "About 60,000 to 50,000 years ago",
+  "cat": "nature",
+  "title": "Hobbits Ate the Dragons' Leftovers",
+  "place": "Liang Bua, Manggarai, Flores, Indonesia",
+  "lat": -8.53,
+  "lng": 120.44,
+  "text": "Homo floresiensis was once pictured hunting dwarf elephant-like Stegodon with fire. To test this, researchers fed a goat carcass to a Komodo dragon at Zoo Atlanta and compared its tooth marks with the Stegodon bones from Liang Bua. The verdict: dragons probably ate first, leaving the hobbits only low-value scraps to scavenge. No signs of deliberate fire were found either.",
+  "source": {
+   "name": "Science Advances (PMC): Taphonomic analysis at Liang Bua reveals the behavioral and technological capabilities of Homo floresiensis",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13330864/"
+  }
+ },
+ {
+  "id": "u03-tinshemet-ochre-burials",
+  "era": "early",
+  "year": -97000,
+  "dateLabel": "About 97,000 years ago",
+  "cat": "culture",
+  "title": "Laid to Rest with Ochre Chunks",
+  "place": "Tinshemet Cave, Nahal Beit Arif, central Israel",
+  "lat": 31.98,
+  "lng": 34.98,
+  "text": "Around 97,000 years ago, people at Tinshemet Cave buried adults and children curled on their sides as if asleep, heads bowed. The cave held over 7,500 bits of ochre, densest in the burial layers, and one 4 to 5 centimetre chunk lay between an adult's legs. Some ochre came from 60 to 80 kilometres away. These are among the earliest known intentional burials anywhere.",
+  "source": {
+   "name": "Nature Human Behaviour (PMC): Evidence from Tinshemet Cave in Israel suggests behavioural uniformity across Homo groups in the Levantine mid-Middle Palaeolithic",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12106087/"
+  }
+ },
+ {
+  "id": "u03-alathar-footprints",
+  "era": "early",
+  "year": -120000,
+  "dateLabel": "About 120,000 years ago",
+  "cat": "journeys",
+  "title": "Footprints at a Lost Arabian Lake",
+  "place": "Alathar paleolake, western Nefud Desert, Saudi Arabia",
+  "lat": 27.95,
+  "lng": 39.05,
+  "text": "Today the Nefud is a sea of sand, but about 120,000 years ago a shallow freshwater lake sat here in grassland. Its drying mud recorded 376 footprints: 107 from camels, 43 from elephants, and seven from humans, probably Homo sapiens. Four prints suggest two or three people walking together. They seem to have stopped briefly to drink and forage, leaving no tools behind.",
+  "source": {
+   "name": "Science Advances (PMC): Human footprints provide snapshot of last interglacial ecology in the Arabian interior",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7500939/"
+  }
+ },
+ {
+  "id": "u03-evron-hidden-fire",
+  "era": "early",
+  "year": -900000,
+  "dateLabel": "Between 1 million and 800,000 years ago",
+  "cat": "discovery",
+  "title": "AI Finds Fire No One Could See",
+  "place": "Evron Quarry, western Galilee, Israel",
+  "lat": 32.99,
+  "lng": 35.1,
+  "text": "Flint tools and bones dug up at Evron Quarry in the 1970s showed no visible signs of burning. Decades later, researchers shone lasers on 26 flint artefacts and let a deep learning model read the results. Many had been heated, some to high temperatures, and pieces of elephant tusk had burned too. Whether people controlled the fire, or a wildfire did it, remains unproven.",
+  "source": {
+   "name": "PNAS (PMC): Hidden signatures of early fire at Evron Quarry (1.0 to 0.8 Mya)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9231470/"
+  }
+ },
+ {
+  "id": "u03-ghar-e-boof-tortoises",
+  "era": "early",
+  "year": -63000,
+  "dateLabel": "Between 81,000 and 45,000 years ago",
+  "cat": "daily",
+  "title": "Leopard and Tortoise on the Menu",
+  "place": "Ghar-e Boof, Dasht-e Rostam, Fars Province, Iran",
+  "lat": 30.28,
+  "lng": 51.44,
+  "text": "For a long time, Stone Age diets in Iran's Zagros Mountains looked like nothing but hoofed animals. A careful study of bones from Ghar-e Boof cave, used between about 81,000 and 45,000 years ago, changed that. Hunters mostly took wild goats, but they also ate slow, easy-to-catch tortoises, and cut marks on leopard bones show they skinned and butchered big cats too.",
+  "source": {
+   "name": "Scientific Reports (PMC): Evidence of diverse animal exploitation during the Middle Paleolithic at Ghar-e Boof (southern Zagros)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10624823/"
+  }
+ },
+ {
+  "id": "u03-bizmoune-shell-beads",
+  "era": "early",
+  "year": -142000,
+  "dateLabel": "At least 142,000 years ago",
+  "cat": "culture",
+  "title": "The Oldest Shell Beads Yet Found",
+  "place": "Bizmoune Cave, Essaouira, Morocco",
+  "lat": 31.67,
+  "lng": -9.57,
+  "text": "In a cave on a Moroccan hillside, archaeologists recovered 33 small sea-snail shells, almost all of one species, Tritia gibbosula. Their holes and edges are smoothed and polished from use, and some carry traces of red pigment. At least 142,000 years old, they are the oldest shell beads yet found, carried from a coast then perhaps 30 to 50 kilometres away.",
+  "source": {
+   "name": "Science Advances (PMC): Early Middle Stone Age personal ornaments from Bizmoune Cave, Essaouira, Morocco",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8457661/"
+  }
+ },
+ {
+  "id": "u03-umhlatuzana-poison-arrows",
+  "era": "early",
+  "year": -60000,
+  "dateLabel": "About 60,000 years ago",
+  "cat": "discovery",
+  "title": "The Oldest Poisoned Arrows",
+  "place": "Umhlatuzana Rock Shelter, KwaZulu-Natal, South Africa",
+  "lat": -29.82,
+  "lng": 30.74,
+  "text": "Scientists scraped tiny residues from ten 60,000-year-old quartz arrow tips found at Umhlatuzana Rock Shelter. Five tested positive for toxic plant alkaloids, most likely from the bulb of Boophone disticha, a plant also recorded as an arrow poison in much later times. The previous oldest direct evidence of poisoned arrows came from an Egyptian tomb only about 4,000 years old.",
+  "source": {
+   "name": "Science Advances (PMC): Direct evidence for poison use on microlithic arrowheads in Southern Africa at 60,000 years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12778036/"
+  }
+ },
+ {
+  "id": "u03-gorgora-highland-hunters",
+  "era": "early",
+  "year": -42000,
+  "dateLabel": "More than 42,000 years ago",
+  "cat": "journeys",
+  "title": "Javelin Hunters Above Lake Tana",
+  "place": "Gorgora rockshelter, Lake Tana, Amhara, Ethiopia",
+  "lat": 12.24,
+  "lng": 37.3,
+  "text": "In 1942, during the Second World War, a British officer and two unnamed Ethiopian soldiers dug a rock shelter near Lake Tana's northern shore, nearly 2,000 metres up. Their finds were shipped to Kenya and barely studied. New radiocarbon dates show people lived there intensively more than 42,000 years ago, during a wet phase, using worked ochre and neat stone points sized like hunting javelins.",
+  "source": {
+   "name": "Scientific Reports (PMC): MIS 3 innovative behavior and highland occupation during a stable wet episode in the Lake Tana paleoclimate record, Ethiopia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11269595/"
+  }
+ },
+ {
+  "id": "u03-ranis-leaf-point-makers",
+  "era": "early",
+  "year": -45000,
+  "dateLabel": "About 45,000 years ago",
+  "cat": "discovery",
+  "title": "Mystery Toolmakers Unmasked in Thuringia",
+  "place": "Ilsenhöhle, Ranis, Thuringia, Germany",
+  "lat": 50.66,
+  "lng": 11.56,
+  "text": "Finely made stone leaf points from northern Europe had long puzzled archaeologists: nobody knew who made them. At Ranis cave, scientists tested 13 tiny bone fragments, some dug up in the 1930s. Ancient DNA showed they were Homo sapiens, about 45,000 years old. These pioneers hunted reindeer on cold steppe, 7 to 15 degrees Celsius colder than today, at a time when Neanderthals had not yet vanished from the region.",
+  "source": {
+   "name": "Nature (PMC): Homo sapiens reached the higher latitudes of Europe by 45,000 years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10849966/"
+  }
+ },
+ {
+  "id": "u03-starosele-neanderthal-traveller",
+  "era": "early",
+  "year": -45500,
+  "dateLabel": "About 46,000 to 45,000 years ago",
+  "cat": "journeys",
+  "title": "A Crimean Neanderthal with Siberian Kin",
+  "place": "Starosele rock shelter, Crimea",
+  "lat": 44.75,
+  "lng": 33.92,
+  "text": "Among 150 unidentifiable bone scraps from Starosele, protein fingerprinting picked out one 5-centimetre piece that was human, probably from a thighbone. Its DNA was Neanderthal, about 45,000 years old. Surprisingly, its closest relatives were Neanderthals from the Altai Mountains of Siberia, some 3,000 kilometres away, suggesting Neanderthals with the same stone tool style travelled across Eurasia.",
+  "source": {
+   "name": "PNAS (PMC): A new late Neanderthal from Crimea reveals long-distance connections across Eurasia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12625898/"
+  }
+ },
+ {
+  "id": "u03-zaskalnaya-ochre-crayon",
+  "era": "early",
+  "year": -60000,
+  "dateLabel": "Between about 100,000 and 35,000 years ago",
+  "cat": "culture",
+  "title": "A Neanderthal Crayon, Sharpened Again",
+  "place": "Zaskalnaya V rock shelter, Belogorsk region, Crimea",
+  "lat": 45.06,
+  "lng": 34.6,
+  "text": "Researchers examined 16 pieces of ochre left by Neanderthals in Crimea and Ukraine. Most could have served practical jobs like treating hides. But one yellow piece from Zaskalnaya V was shaped into a pointed crayon and resharpened repeatedly, another looks like a broken crayon, and a third bears engraved lines and polish. They suggest Neanderthals used colour to make deliberate marks.",
+  "source": {
+   "name": "Science Advances (PMC): Evidence for symbolic use of ochre by Micoquian Neanderthals in Crimea",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12571073/"
+  }
+ },
+ {
+  "id": "u03-riwi-first-hearths",
+  "era": "early",
+  "year": -45500,
+  "dateLabel": "About 46,000 years ago",
+  "cat": "journeys",
+  "title": "First Campfires in the Kimberley",
+  "place": "Riwi Cave, Gooniyandi Country, Kimberley, Western Australia",
+  "lat": -18.69,
+  "lng": 126.06,
+  "text": "Riwi Cave, on Gooniyandi traditional land, preserves charcoal-filled hearths in sandy floors. Researchers ran 44 radiocarbon and 37 luminescence dates and found the two methods agreed: people first lit fires here between about 46,400 and 44,600 years ago. Below the oldest hearth lies sand with no trace of people, showing the cave sat empty for centuries to millennia beforehand.",
+  "source": {
+   "name": "PLOS ONE (PMC): Towards an Accurate and Precise Chronology for the Colonization of Australia: The Example of Riwi, Kimberley",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5031455/"
+  }
+ }
+]

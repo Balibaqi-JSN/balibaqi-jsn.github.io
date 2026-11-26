@@ -1,0 +1,406 @@
+[
+ {
+  "id": "v01-pallas-sky-iron",
+  "era": "exploration",
+  "year": 1772,
+  "dateLabel": "1772",
+  "cat": "discovery",
+  "title": "The Holy Iron That Fell From the Sky",
+  "place": "Near Novosyolovo, south of Krasnoyarsk, Krasnoyarsk Krai, Russia",
+  "lat": 55,
+  "lng": 91,
+  "text": "In 1749 a huge lump of iron, around 800 kilos, was found south of Krasnoyarsk. Local Tatars treated it as a holy relic dropped from the sky. In 1772 the naturalist Peter Simon Pallas saw it, found no nearby iron workings or forge, and had it carted to Saint Petersburg. Nobody then believed rocks fell from space. Today such stony-iron meteorites are called pallasites.",
+  "source": {
+   "name": "University of Groningen University Museum: Meteorite of Krasnojarsk",
+   "url": "https://www.rug.nl/museum/collections/collection-stories/meteoriet-van-krasnojarsk?lang=en"
+  }
+ },
+ {
+  "id": "v01-hajji-ahmed-kokand",
+  "era": "industrial",
+  "year": 1875,
+  "dateLabel": "1875",
+  "cat": "journeys",
+  "title": "A Teenage Trader Caught Between Empires",
+  "place": "Margilan, Ferghana Valley, Uzbekistan",
+  "lat": 40.47,
+  "lng": 71.72,
+  "text": "Around 1872 a Dagestani teenager named Mahmud borrowed goods worth 200 rubles and slipped off east. He swapped them with Kazakh nomads for sheep, sold the flock in Bukhara, then traded Ferghana silk scarves. Adopted by an older merchant, he became Hajji Ahmed. In 1875 villagers near Margilan robbed him and handed him to a rebel khan as a Russian spy. Two partners were executed on the same charge.",
+  "source": {
+   "name": "Slavic Review (Cambridge): The Misadventures of a Dagestani Merchant",
+   "url": "https://www.cambridge.org/core/journals/slavic-review/article/misadventures-of-a-dagestani-merchant-empire-and-muslim-mobility-in-central-asia/6C26C31E8F159FD4DE41D657C2F3F307"
+  }
+ },
+ {
+  "id": "v01-orenburg-street-names",
+  "era": "exploration",
+  "year": 1744,
+  "dateLabel": "1744",
+  "cat": "power",
+  "title": "Naming Streets That Did Not Exist Yet",
+  "place": "Orenburg, Orenburg Oblast, Russia",
+  "lat": 51.77,
+  "lng": 55.1,
+  "text": "Orenburg, Russia's gateway to the Kazakh steppe, had to move twice before settling on the Yaik River in 1743. In July 1744 officials gave all 25 of its streets official names at once, which was very unusual in the empire. Many streets existed only on paper, and the town still looked like a big army camp. Residents mostly ignored the names, calling the main one simply Big Street.",
+  "source": {
+   "name": "Urban History (Cambridge): Orenburg's toponymy: staging the Russian Empire in the steppe",
+   "url": "https://www.cambridge.org/core/journals/urban-history/article/orenburgs-toponymy-staging-the-russian-empire-in-the-steppe/ED42BC35E9C174D75F4FABBE45C668BE"
+  }
+ },
+ {
+  "id": "v01-yakut-tuberculosis-graves",
+  "era": "exploration",
+  "year": 1728,
+  "dateLabel": "1728",
+  "cat": "discovery",
+  "title": "Tuberculosis Hidden in Frozen Bones",
+  "place": "Central Yakutia, Sakha Republic, Russia",
+  "lat": 62.03,
+  "lng": 129.73,
+  "text": "Between 2002 and 2012 a French-Russian team opened 134 permafrost graves across Yakutia, dated from the 1500s to the 1800s. Thirteen people had bone damage from tuberculosis, including a young woman buried in 1728. DNA from four skeletons confirmed the human TB germ, and one strain may have come from Europe. Most cases date to the 1700s, after Russian traders and settlers had arrived.",
+  "source": {
+   "name": "PLOS ONE (PMC): Tuberculosis Epidemiology and Selection in an Autochthonous Siberian Population from the 16th-19th Century",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3935942/"
+  }
+ },
+ {
+  "id": "v01-at-daban-tsars-rings",
+  "era": "exploration",
+  "year": 1703,
+  "dateLabel": "Early 1700s",
+  "cat": "power",
+  "title": "A Sakha Woman Wearing the Tsar's Rings",
+  "place": "At Daban, Tuymaada valley south of Yakutsk, Sakha Republic, Russia",
+  "lat": 61.85,
+  "lng": 129.6,
+  "text": "In 2016 archaeologists south of Yakutsk opened the rich grave of a Sakha woman, At Daban 6, dressed in masses of imported glass beads. Tied to one earring were two Russian signet rings. Records say the chieftain Mazary Bozekov, who died in 1703, visited the Tsar and won the titles of duke and judge. The rings were probably his, and DNA ties her to his family.",
+  "source": {
+   "name": "Communications Biology (PMC): The genetic legacy of legendary and historical Siberian chieftains",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7567834/"
+  }
+ },
+ {
+  "id": "v01-loptuq-reed-fishers",
+  "era": "industrial",
+  "year": 1899,
+  "dateLabel": "1899–1900",
+  "cat": "daily",
+  "title": "Fisherfolk of the Desert Lake",
+  "place": "Lower Tarim River and Lop Nur, Xinjiang, China",
+  "lat": 40,
+  "lng": 88.5,
+  "text": "Deep in the desert of Xinjiang, the Loptuq people lived by fishing among reeds up to 7.6 metres tall. Sven Hedin stayed with them from 1899 to 1900. They paddled canoes carved from poplar trunks along family-owned channels, lived in reed huts and wove clothes from wild Lop hemp. A bride's family might receive two canoes, a fishing net and hemp cloth.",
+  "source": {
+   "name": "Journal of Ethnobiology and Ethnomedicine (PMC): Loptuq material culture in Eastern Turkestan around 1900",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10895719/"
+  }
+ },
+ {
+  "id": "v01-sayan-pine-nosedive",
+  "era": "exploration",
+  "year": 1699,
+  "dateLabel": "1699–1705",
+  "cat": "nature",
+  "title": "The Years the Mountain Pines Stopped Growing",
+  "place": "Western Sayan Mountains, southern Siberia, Russia",
+  "lat": 52.7,
+  "lng": 91.6,
+  "text": "Tree rings from Siberian pines high in the Western Sayan Mountains show a sudden crash in 1698–1699. In the regional record running from 1524 to 2022, the seven worst growing years come in a row, 1699 to 1705. Scientists suspect a cold spell plus brutal winters: Mongolian chronicles record killing snowstorms and frozen pastures in those very years, battering the trees' crowns.",
+  "source": {
+   "name": "Plants (PMC): Central Asia Cold Case: Siberian Pine Fingers New Suspects in Growth Decline CA 1700 CE",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11769213/"
+  }
+ },
+ {
+  "id": "v01-buryat-milk-spirit",
+  "era": "industrial",
+  "year": 1906,
+  "dateLabel": "1906",
+  "cat": "daily",
+  "title": "Vodka Made From Sour Milk",
+  "place": "Olzony ulus, Verkholensk district, Irkutsk Oblast, Russia",
+  "lat": 54.1,
+  "lng": 105.7,
+  "text": "Buryat herders near Lake Baikal turned sour milk into a spirit called tarasun. Fermented milk holds only about 2 percent alcohol, so it had to be distilled again and again. In 1906 the ethnographer Tsyben Zhamtsarano watched Buryats of Olzony doing just that, and early 20th-century accounts mention up to 40 distillations. An earlier Mongol law code even punished stealing the precious milk starter.",
+  "source": {
+   "name": "Scientific Reports (PMC): Milk spirit using traditional Buryat fermentation and distillation technologies",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13247081/"
+  }
+ },
+ {
+  "id": "v01-izyuk-settler-teeth",
+  "era": "exploration",
+  "year": 1700,
+  "dateLabel": "1600s–1700s",
+  "cat": "daily",
+  "title": "Bread-Eating Settlers, Tartar-Coated Teeth",
+  "place": "Izyuk, near Omsk, Omsk Oblast, Russia",
+  "lat": 56,
+  "lng": 74.6,
+  "text": "Russian farmers founded the village of Izyuk on the Irtysh River near Omsk in 1648. Scientists counted hardened plaque, or calculus, on 1,304 of their teeth and compared them with Tatar, Khanty and Nenets neighbours. About 61 percent of settlers had calculus, against 26 percent of the native Siberians. The likely reason: settlers ate wheat, while Siberian peoples ate mostly fish and meat.",
+  "source": {
+   "name": "BioMed Research International (PMC): Dental Calculi of Siberian Natives, Russian Settlers, and Korean People of Joseon Dynasty Period",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9112181/"
+  }
+ },
+ {
+  "id": "v01-last-shaman-grave-yakutia",
+  "era": "exploration",
+  "year": 1790,
+  "dateLabel": "Late 1700s",
+  "cat": "culture",
+  "title": "The Last Shaman's Grave of the Sakha",
+  "place": "Central Yakutia, Sakha Republic, Russia",
+  "lat": 62.2,
+  "lng": 130.5,
+  "text": "In the late 1700s Russian law began pressing Sakha (Yakut) people to drop their own spiritual traditions for Orthodox Christianity. One woman of that time, UsSergue1, was buried in one of the richest graves ever found, wearing an ear-flap hat with a bronze sun disc, beside a saddle, stirrup, bridle and bell. DNA showed she was the great-granddaughter of a famous chieftain's wife.",
+  "source": {
+   "name": "Nature (PMC): An ancient DNA perspective on the Russian conquest of Yakutia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12893923/"
+  }
+ },
+ {
+  "id": "v01-przewalski-horse-tail-hairs",
+  "era": "industrial",
+  "year": 1890,
+  "dateLabel": "1889–1898",
+  "cat": "nature",
+  "title": "Wild Horses Driven Into the Bushes",
+  "place": "Dzungarian Basin, north of Qitai, Xinjiang, China",
+  "lat": 44.7,
+  "lng": 89.5,
+  "text": "Between 1889 and 1898, wild Przewalski's horses and khulans were killed in Dzungaria and their hides ended up in museums in Saint Petersburg and Moscow. Over a century later, scientists read the chemistry of their long tail hairs, month by month. In winter these horses ate lots of desert shrubs, unlike today's reintroduced herds, which graze grass all year. Hunting had probably pushed them into poor scrubland.",
+  "source": {
+   "name": "Scientific Reports (PMC): Stable isotopes reveal diet shift from pre-extinction to reintroduced Przewalski's horses",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5519547/"
+  }
+ },
+ {
+  "id": "v01-turkestan-caravanserai",
+  "era": "industrial",
+  "year": 1800,
+  "dateLabel": "1700s–1800s",
+  "cat": "journeys",
+  "title": "An Inn at Every City Gate",
+  "place": "Old Turkestan, Turkistan Region, Kazakhstan",
+  "lat": 43.3,
+  "lng": 68.27,
+  "text": "Turkestan, in southern Kazakhstan, was a busy caravan stop, and digs there uncovered inns, bathhouses and a school from the 1700s and 1800s. Caravanserais stood beside each of the city's four gates. One had niches for storing documents, storerooms, reception rooms, a prayer room and a little one-room bathhouse. The school had two halls, perhaps keeping boys and girls apart.",
+  "source": {
+   "name": "Archaeology Magazine: Traces of Nineteenth-Century Buildings Found in Turkestan",
+   "url": "https://archaeology.org/news/2020/08/19/200819-kazakhstan-caravanserai-school/"
+  }
+ },
+ {
+  "id": "v01-tashkent-cholera-riot",
+  "era": "industrial",
+  "year": 1892,
+  "dateLabel": "June 1892",
+  "cat": "power",
+  "title": "Cholera Sparks a Riot in Tashkent",
+  "place": "Tashkent, Uzbekistan",
+  "lat": 41.31,
+  "lng": 69.28,
+  "text": "In 1892 a cholera epidemic swept across Central Asia toward Russia and Europe. In Tashkent, capital of Russian Turkestan, officials imposed anti-cholera rules that clashed with local Islamic customs. That June, local people protested. Tsarist officials and Russian settlers crushed the protest ruthlessly, and poor Russians were later blamed for violence too. The city then stayed under emergency rule until 1917.",
+  "source": {
+   "name": "Slavic Review (Cambridge): Epidemic and Empire: the 1892 Tashkent Cholera Riot",
+   "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CEB21FDAC59FE3C2A097C57C67A45AFA/S0037677900053808a.pdf/epidemic_and_empire_ethnicity_class_and_civilization_in_the_1892_tashkent_cholera_riot.pdf"
+  }
+ },
+ {
+  "id": "v01-saryk-turkmen-bag",
+  "era": "industrial",
+  "year": 1860,
+  "dateLabel": "1800s",
+  "cat": "daily",
+  "title": "Storage Bags for a Life on the Move",
+  "place": "Saryk Turkmen lands, Mary Region, Turkmenistan",
+  "lat": 37.6,
+  "lng": 61.83,
+  "text": "Turkmen nomads kept their belongings in woven bags that hung from the lattice walls inside their tents, then rode on pack animals during seasonal moves. Each bag was woven in one piece, with soft knotted pile on the front and plain weave behind, then folded and sewn up the sides. A 19th-century bag face in Cleveland is the oldest known weaving of the Saryk tribe.",
+  "source": {
+   "name": "Cleveland Museum of Art: Turkmen Bag Face",
+   "url": "https://www.clevelandart.org/art/2008.223"
+  }
+ },
+ {
+  "id": "v01-turkmen-silver-ram-horns",
+  "era": "industrial",
+  "year": 1884,
+  "dateLabel": "1884–85",
+  "cat": "culture",
+  "title": "Silver Ram's Horns and Red Stones",
+  "place": "Turkmen lands, Turkmenistan (exact place unknown)",
+  "lat": 38,
+  "lng": 58.4,
+  "text": "Turkmen nomad women wore heavy silver jewellery set with red cornelians. A head ornament wrapped the forehead, dangling dozens of little pendants, and its curved tips stood for ram's horns, a powerful Turkmen symbol. In 1884–85 a British officer bought such pieces while serving with Sir Peter Lumsden on the Anglo-Russian commission fixing Afghanistan's northwest border. Many of the designs are older than Islam.",
+  "source": {
+   "name": "Victoria and Albert Museum: Head ornament (sinsile), Turkestan",
+   "url": "https://collections.vam.ac.uk/item/O79305/"
+  }
+ },
+ {
+  "id": "v01-kokand-blue-pottery",
+  "era": "industrial",
+  "year": 1850,
+  "dateLabel": "1800s",
+  "cat": "culture",
+  "title": "Peasant Pottery Made for Collectors?",
+  "place": "Kokand, Ferghana Valley, Uzbekistan",
+  "lat": 40.53,
+  "lng": 70.94,
+  "text": "In the 1800s Central Asian potters made bold, colourful dishes: bright slipwares in Bukhara, Samarkand and Rishtan, and white-glazed plates painted blue and purple in Kokand. They look like age-old village pottery, but there is no evidence of an earlier local tradition. So many reached Western collections that some scholars suspect potters were cashing in on foreign buyers' taste for 'traditional' goods.",
+  "source": {
+   "name": "Victoria and Albert Museum: Dish, Turkestan, probably Kokand",
+   "url": "https://collections.vam.ac.uk/item/O225392/"
+  }
+ },
+ {
+  "id": "v01-bukhara-womans-robe",
+  "era": "industrial",
+  "year": 1850,
+  "dateLabel": "1840–60",
+  "cat": "daily",
+  "title": "A Robe From Wedding to Funeral",
+  "place": "Bukhara, Uzbekistan",
+  "lat": 39.77,
+  "lng": 64.42,
+  "text": "In mid-1800s Bukhara, a woman's robe could follow her through life. Silk ikat robes like one now in Chicago were part of a bride's dowry, worn at weddings and festivals, and finally draped over her bier at her funeral. Young women wore bright colours and big patterns, older women quieter shades. Most women, though, wore cheap local cotton instead.",
+  "source": {
+   "name": "Art Institute of Chicago: Woman's Robe, Uzbekistan",
+   "url": "https://www.artic.edu/artworks/185619/woman-s-robe"
+  }
+ },
+ {
+  "id": "v01-bukhara-mihrab-suzani",
+  "era": "exploration",
+  "year": 1750,
+  "dateLabel": "1700s",
+  "cat": "culture",
+  "title": "A Prayer Niche Stitched in Silk",
+  "place": "Bukhara, Uzbekistan",
+  "lat": 39.77,
+  "lng": 64.42,
+  "text": "Women in Bukhara stitched huge silk embroideries called suzani, from the Persian word for needle, as part of a bride's dowry. One 18th-century suzani in Chicago shows an arch shaped like a mihrab, the mosque niche that points toward Mecca. Big suzanis covered beds or walls, but a mihrab suzani hung near the doorway had a friendlier job: welcoming guests.",
+  "source": {
+   "name": "Art Institute of Chicago: Mihrab or Jai-namaz Suzani",
+   "url": "https://www.artic.edu/artworks/15768/mihrab-or-jai-namaz-suzani"
+  }
+ },
+ {
+  "id": "v01-bukhara-calligrapher-hafiz",
+  "era": "exploration",
+  "year": 1575,
+  "dateLabel": "1575–76",
+  "cat": "culture",
+  "title": "A Bukhara Pen Laments the Missing Wine",
+  "place": "Bukhara, Uzbekistan",
+  "lat": 39.78,
+  "lng": 64.41,
+  "text": "In 1575–76 the calligrapher Mahmud ibn Ishaq al-Shahabi, admired in both Safavid Iran and Mughal India, signed and dated a page of practice script and verses by the poet Hafiz. The playful lines mourn that the 'daughter of the vine', wine, has gone missing. Before 1811 the page was mounted in a Mughal-style album by a Scottish East India Company man, Sir Charles Forbes.",
+  "source": {
+   "name": "Cleveland Museum of Art: Calligraphic exercises and verses of Hafiz",
+   "url": "https://www.clevelandart.org/art/2013.347.b"
+  }
+ },
+ {
+  "id": "v01-yakut-pine-bark-porridge",
+  "era": "exploration",
+  "year": 1737,
+  "dateLabel": "1737",
+  "cat": "daily",
+  "title": "Porridge Made From Pine Trees",
+  "place": "Central Yakutia, Sakha Republic, Russia",
+  "lat": 62.5,
+  "lng": 129,
+  "text": "In 1737 the Russian explorer Khariton Laptev noted that the Sakha (Yakuts) usually ate tree sapwood with milk. The soft inner bark of pines was dried into a 'wood flour' for porridge or, rarely, cake, and a poor family could eat 256 kilos a year. The habit faded as farming spread: Yakutsk had about 50 bakeries in 1838 and over 800 by 1860.",
+  "source": {
+   "name": "Biology (PMC): Sucrose Is Not the Whole Story: Risk Factors and Oral Health at the Contact (Yakutia, Siberia, 16th–19th)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8533550/"
+  }
+ },
+ {
+  "id": "v01-tarim-reed-tigers",
+  "era": "industrial",
+  "year": 1900,
+  "dateLabel": "About 1900",
+  "cat": "nature",
+  "title": "Tigers in the Desert Reed Beds",
+  "place": "Lower Tarim River, Xinjiang, China",
+  "lat": 40.6,
+  "lng": 87.8,
+  "text": "Around 1900, Caspian tigers still prowled the reed beds of the lower Tarim River. Local Loptuq fishers caught them with iron traps or poison, because Chinese traders paid high prices for tiger flesh used as medicine. One spot was even named 'Where the tiger was killed'. DNA suggests these tigers came from China along the Gansu Corridor. They vanished from Central Asia between 1920 and 1970.",
+  "source": {
+   "name": "Journal of Ethnobiology and Ethnomedicine (PMC): Loptuq material culture in Eastern Turkestan around 1900",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10895719/"
+  },
+  "source2": {
+   "name": "PLOS ONE (PMC): Mitochondrial phylogeography illuminates the origin of the extinct Caspian tiger",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2624500/"
+  }
+ },
+ {
+  "id": "v01-brigitta-crochet-ghulja",
+  "era": "exploration",
+  "year": 1716,
+  "dateLabel": "1716–1732",
+  "cat": "journeys",
+  "title": "A Swedish Captive Teaches a Princess to Crochet",
+  "place": "Ghulja (Yining), Ili Valley, Xinjiang, China",
+  "lat": 43.91,
+  "lng": 81.28,
+  "text": "Brigitta Scherzenfeldt, a Swede, was captured twice: first at Poltava in 1709, then in 1716 when Dzungar warriors routed a Russian gold-hunting expedition and killed her husband. Taken to the Dzungar capital Ghulja, she was passed from a rich owner to the ruler's court. She won favour by teaching Princess Seson to crochet and weave, and finally reached Stockholm in 1734.",
+  "source": {
+   "name": "Journal of Global History (Cambridge): Enslaved in Dzungaria: what an eighteenth-century crocheting instructor can teach us",
+   "url": "https://www.cambridge.org/core/journals/journal-of-global-history/article/enslaved-in-dzungaria-what-an-eighteenth-century-crocheting-instructor-can-teach-us-about-overland-globalisation/144F870E1D0ED51A93D25C0CEA5257D5"
+  }
+ },
+ {
+  "id": "v01-khiva-keeps-the-gyrfalcons",
+  "era": "exploration",
+  "year": 1675,
+  "dateLabel": "1675",
+  "cat": "journeys",
+  "title": "The Khan Who Kept the Best Falcons",
+  "place": "Khiva, Khorezm, Uzbekistan",
+  "lat": 41.38,
+  "lng": 60.36,
+  "text": "In 1675 Moscow sent envoys through Central Asia hoping to open a road to India. At Khiva, Anusha Khan simply kept the two finest gyrfalcons meant as gifts for Bukhara. In Bukhara the ruler refused carts and an escort. One envoy, Muhammad Yusuf Kasymov, got through with gifts and reached Kabul in 1676, but Emperor Aurangzeb would not see him, and he limped home in 1678.",
+  "source": {
+   "name": "Itinerario (Cambridge): A Passage to India: Rhetoric and Diplomacy between Muscovy and Central Asia in the Seventeenth Century",
+   "url": "https://www.cambridge.org/core/journals/itinerario/article/passage-to-india-rhetoric-and-diplomacy-between-muscovy-and-central-asia-in-the-seventeenth-century/6F44E4354E2D87889FC2995CB1C1AEAF"
+  }
+ },
+ {
+  "id": "v01-shahrisabz-mens-surcoat",
+  "era": "industrial",
+  "year": 1885,
+  "dateLabel": "Late 1800s",
+  "cat": "culture",
+  "title": "Flower Power for Fashionable Men",
+  "place": "Shahrisabz, Qashqadaryo Region, Uzbekistan",
+  "lat": 39.06,
+  "lng": 66.83,
+  "text": "In late 19th-century Shahrisabz, south of Samarkand, professional embroiderers made some of Central Asia's showiest men's clothes. One surcoat blazes with huge cross-stitched silk palmettes and rosettes on a brilliant yellow ground, lined with ikat patterned with cypress trees. The pattern was drawn on the cloth, the coat taken apart for stitching, then sewn back together, leaving tell-tale misaligned motifs.",
+  "source": {
+   "name": "Cleveland Museum of Art: Man's surcoat (khalat), Shahr-i Sabz",
+   "url": "https://www.clevelandart.org/art/1916.1412"
+  }
+ },
+ {
+  "id": "v01-cholera-on-exile-road",
+  "era": "industrial",
+  "year": 1892,
+  "dateLabel": "1892",
+  "cat": "journeys",
+  "title": "Cholera on the Road to Siberia",
+  "place": "Tobolsk, Tyumen Oblast, Russia",
+  "lat": 58.2,
+  "lng": 68.25,
+  "text": "Prisoners marched to Siberia along the Great Exile Road, and in 1892 cholera travelled with them. It reached the prison at Perm, a stop on the route, on 4 July, and Tobolsk reported an outbreak by late July. Across Russia's prisons 1,441 cases were recorded, about 45 percent fatal. The government rushed emergency hospitals onto the road, while George Kennan's book on the exile system publicized prison death rates.",
+  "source": {
+   "name": "Journal of the History of Medicine (PMC): Silences and Omissions in Reporting Epidemics in Russian and Soviet Prisons, 1890-2021",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11302949/"
+  }
+ }
+]

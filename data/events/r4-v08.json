@@ -1,0 +1,430 @@
+[
+ {
+  "id": "v08-skytrain-ice-co2",
+  "era": "exploration",
+  "year": 1610,
+  "dateLabel": "About 1610",
+  "cat": "nature",
+  "title": "Antarctic Air Bubbles and the Americas",
+  "place": "Skytrain Ice Rise, West Antarctica",
+  "lat": -79.74,
+  "lng": -78.55,
+  "text": "After Europeans reached the Americas, epidemics and abandoned farmland may have let forests regrow and soak up carbon. Antarctic ice keeps old air in tiny bubbles, so scientists went looking. A 651-metre core drilled on Skytrain Ice Rise in 2018–2019 shows carbon dioxide sliding gently, about 8 parts per million over 157 years, not the sudden 1610 dip once proposed as the start of the Anthropocene.",
+  "source": {
+   "name": "Nature Communications (PMC): Reconciling ice core CO2 and land-use change following New World-Old World contact",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10915154/"
+  }
+ },
+ {
+  "id": "v08-tzabnah-maya-drought",
+  "era": "medieval",
+  "year": 929,
+  "dateLabel": "929–942 CE",
+  "cat": "nature",
+  "title": "Thirteen Dry Years in a Stalagmite",
+  "place": "Grutas Tzabnah, near Tecoh, Yucatán, Mexico",
+  "lat": 20.73,
+  "lng": -89.47,
+  "text": "Inside Grutas Tzabnah cave, a stalagmite grew so fast that every year left a visible layer. Scientists took about 12 samples from each layer, tracking rainy seasons from 871 to 1021 CE. They found eight droughts lasting three years or more, and one brutal run of 13 straight failed rainy seasons, 929 to 942 CE. Nearby Uxmal's political system ended around 950, while Chichén Itzá held on.",
+  "source": {
+   "name": "Science Advances (PMC): Classic Maya response to multiyear seasonal droughts in Northwest Yucatán, Mexico",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12346346/"
+  }
+ },
+ {
+  "id": "v08-cocoliztli-salmonella",
+  "era": "exploration",
+  "year": 1545,
+  "dateLabel": "1545–1550",
+  "cat": "nature",
+  "title": "The Pestilence Hidden in Teeth",
+  "place": "Teposcolula-Yucundaa, Oaxaca, Mexico",
+  "lat": 17.52,
+  "lng": -97.48,
+  "text": "Between 1545 and 1550, a catastrophic die-off swept through Mexico. Nahuatl speakers called it cocoliztli, best translated as “pestilence”, setting it apart from the earlier smallpox and measles outbreaks. Centuries later, scientists screened teeth from an epidemic cemetery in Oaxaca and found DNA of Salmonella Paratyphi C, a cause of enteric fever. Forced relocations under Spanish rule may have helped it spread.",
+  "source": {
+   "name": "Microbial Genomics (PMC): The past, present and future of ancient bacterial DNA",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7478633/"
+  },
+  "source2": {
+   "name": "Current Biology (PMC): The Recovery, Interpretation and Use of Ancient Pathogen Genomes",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7534838/"
+  }
+ },
+ {
+  "id": "v08-plains-horses-before-1680",
+  "era": "exploration",
+  "year": 1600,
+  "dateLabel": "About 1600",
+  "cat": "nature",
+  "title": "Horses Reached the Plains Early",
+  "place": "Paa-ko Pueblo, New Mexico, USA",
+  "lat": 35.17,
+  "lng": -106.32,
+  "text": "European records claimed Native peoples took up horses only after the Pueblo Revolt of 1680. The bones disagree. Radiocarbon dates and ancient DNA show Spanish-descended horses at Paa-ko Pueblo in New Mexico around 1600, and as far north as Idaho soon after. At Blacks Fork in Wyoming, a locally raised horse found in a ceremonial setting had a healed fracture, a sign of care.",
+  "source": {
+   "name": "U.S. National Science Foundation: Horses part of Indigenous cultures longer than Western historians thought",
+   "url": "https://www.nsf.gov/science-matters/horses-part-indigenous-cultures-longer-western"
+  },
+  "source2": {
+   "name": "CNRS: The untold history of the horse in the American Plains",
+   "url": "https://www.cnrs.fr/en/press/untold-history-horse-american-plains-new-future-world-0"
+  }
+ },
+ {
+  "id": "v08-santa-maria-uplift-1835",
+  "era": "industrial",
+  "year": 1835,
+  "dateLabel": "20 February 1835",
+  "cat": "nature",
+  "title": "The Day an Island Rose Nine Feet",
+  "place": "Isla Santa María, Biobío, Chile",
+  "lat": -37.03,
+  "lng": -73.53,
+  "text": "At ten in the morning on 20 February 1835, huge flocks of seabirds flew over Concepción, Chile. Then an earthquake ruined the city and three waves struck the coast. Visiting Santa María Island weeks later, Captain FitzRoy of HMS Beagle found the land pushed up about nine feet. Beds of dead mussels clung to rocks ten feet above high water, and rotting shellfish raised an abominable stench.",
+  "source": {
+   "name": "Darwin Online: FitzRoy, Narrative of the surveying voyages of HMS Adventure and Beagle, vol. 2 (1839)",
+   "url": "https://darwin-online.org.uk/converted/published/1839_Voyage_F10.2/1839_Voyage_F10.2.html"
+  },
+  "source2": {
+   "name": "Darwin Correspondence Project: The geology of the Beagle voyage",
+   "url": "https://www.darwinproject.ac.uk/commentary/geology/geology-beagle-voyage"
+  }
+ },
+ {
+  "id": "v08-jerusalem-locusts-1915",
+  "era": "modern",
+  "year": 1915,
+  "dateLabel": "March–October 1915",
+  "cat": "nature",
+  "title": "The Locust Album of Wartime Jerusalem",
+  "place": "Jerusalem",
+  "lat": 31.78,
+  "lng": 35.23,
+  "text": "From March to October 1915, locust swarms stripped nearly every plant in and around Palestine, deepening wartime hunger in Jerusalem. The Ottoman commander Djemal Pasha ordered every adult and youth to dig up half a kilo of eggs, an impossible task in hard, stony soil. He also asked American Colony photographers to record the plague, and they made an album showing one fig tree before and after.",
+  "source": {
+   "name": "Library of Congress: The American Colony in Jerusalem, The Locust Plague",
+   "url": "https://www.loc.gov/exhibits/americancolony/amcolony-locust.html"
+  }
+ },
+ {
+  "id": "v08-allah-bund-1819",
+  "era": "industrial",
+  "year": 1819,
+  "dateLabel": "1819",
+  "cat": "nature",
+  "title": "A Dam of God Across the Indus",
+  "place": "Allah Bund, Great Rann of Kutch, Gujarat, India",
+  "lat": 24.07,
+  "lng": 69.31,
+  "text": "In 1819 an earthquake of magnitude 7.5 or more shook the Rann of Kutch in western India. It pushed up a ridge 80 to 90 kilometres long and 4 to 6 metres high, which people named Allah Bund, the “Dam of God”. The ridge blocked a branch of the Indus, the Nara channel, while the ground at Sindri Fort sank and the fort disappeared under water.",
+  "source": {
+   "name": "Scientific Reports (PMC): Discovery of fossil avian footprints from Late Holocene sediments of Allahbund uplift in Great Rann of Kachchh",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11682152/"
+  },
+  "source2": {
+   "name": "Science Advances (PMC): Coseismic river avulsion on surface rupturing faults",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10156115/"
+  }
+ },
+ {
+  "id": "v08-phylloxera-rhone",
+  "era": "industrial",
+  "year": 1863,
+  "dateLabel": "1860s",
+  "cat": "nature",
+  "title": "The Bug That Killed France's Vines",
+  "place": "Pujaut, Gard, southern Rhône valley, France",
+  "lat": 43.99,
+  "lng": 4.78,
+  "text": "In the early 1860s, vines around Pujaut and other villages of the southern Rhône began to wither and die, and nobody knew why. Only in 1868 did a commission of experts find a tiny insect on the dead roots, naming it Phylloxera vastatrix. It spread across southern and central France and destroyed about 40% of the vines, a heavy blow to a farming society.",
+  "source": {
+   "name": "Scientific Reports (PMC): Major outbreaks in the nineteenth century shaped grape phylloxera contemporary genetic structure in Europe",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6879566/"
+  }
+ },
+ {
+  "id": "v08-jogan-tsunami-sand",
+  "era": "medieval",
+  "year": 869,
+  "dateLabel": "869 CE",
+  "cat": "nature",
+  "title": "Sea DNA in the Jōgan Tsunami Sand",
+  "place": "Coastal lake about 40 km south of Sendai, Miyagi, Japan",
+  "lat": 37.92,
+  "lng": 140.92,
+  "text": "In 869 CE a great tsunami struck Japan's northeast coast. In a coastal lake about 40 kilometres south of Sendai, it left a sand layer just 2 centimetres thick, buried 67 centimetres deep in peat. In 2024 scientists pulled DNA out of that sand and found marine bivalves swept in from the sea. The same lake also holds sand from the 2011 tsunami, which struck the same coast.",
+  "source": {
+   "name": "Scientific Reports (PMC): Identification of deposits from modern and ancient large tsunamis by means of environmental DNA",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11696876/"
+  }
+ },
+ {
+  "id": "v08-taranto-antonine-plague",
+  "era": "classical",
+  "year": 165,
+  "dateLabel": "About 165 CE",
+  "cat": "nature",
+  "title": "Algae Cysts and the Antonine Plague",
+  "place": "Gulf of Taranto, off Calabria, Italy",
+  "lat": 39.83,
+  "lng": 17.8,
+  "text": "In mud 270 metres under the Gulf of Taranto lie fossil cysts of tiny algae, and their species mix tracks late-summer sea temperatures. Sampling roughly every three years of mud, scientists rebuilt Roman Italy's climate from about 200 BCE to 600 CE. The warm, stable Roman era broke with cool pulses, including one from about 160 to 180 CE, when the Antonine Plague struck.",
+  "source": {
+   "name": "Science Advances (PMC): Climate change, society, and pandemic disease in Roman Italy between 200 BCE and 600 CE",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10816712/"
+  }
+ },
+ {
+  "id": "v08-jura-oak-rome",
+  "era": "classical",
+  "year": 50,
+  "dateLabel": "40–60 CE",
+  "cat": "nature",
+  "title": "Gaulish Oaks Under a Roman Portico",
+  "place": "Central Rome, Lazio, Italy",
+  "lat": 41.89,
+  "lng": 12.49,
+  "text": "Beneath a lavish portico in central Rome, archaeologists found 24 waterlogged oak planks. Their tree rings matched oaks felled between 40 and 60 CE in the Jura Mountains of north-eastern France. The heavy timber probably floated down the Saône and Rhône, crossed the Mediterranean and went up the Tiber, a journey of over 1,700 kilometres. Romans prized tough, durable oak for foundations touching the ground.",
+  "source": {
+   "name": "PLOS ONE (PMC): Dendrochronological evidence for long-distance timber trading in the Roman Empire",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6892532/"
+  }
+ },
+ {
+  "id": "v08-myxoma-murray-valley",
+  "era": "modern",
+  "year": 1950,
+  "dateLabel": "1950",
+  "cat": "nature",
+  "title": "The Virus Released on Rabbits",
+  "place": "Murray Valley, south-eastern Australia",
+  "lat": -35.9,
+  "lng": 145.6,
+  "text": "Between March and November 1950, scientists infected wild European rabbits with myxoma virus at five sites in Australia's Murray Valley. It spread poorly and seemed to die out. Then, in December, it suddenly re-emerged and swept across much of south-eastern Australia, killing up to 99.8% of infected rabbits. Milder virus strains and tougher rabbits soon evolved, turning a pest-control plan into a famous evolution experiment.",
+  "source": {
+   "name": "Viruses (PMC): Myxoma Virus and the Leporipoxviruses: An Evolutionary Paradigm",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4379559/"
+  }
+ },
+ {
+  "id": "v08-signy-fur-seals-return",
+  "era": "modern",
+  "year": 1977,
+  "dateLabel": "Late 1970s",
+  "cat": "nature",
+  "title": "The Fur Seals Come Back Too Hard",
+  "place": "Signy Island, South Orkney Islands, Antarctica",
+  "lat": -60.72,
+  "lng": -45.6,
+  "text": "Sealers hunted Antarctic fur seals to the brink of extinction in the 1700s and 1800s. Later, whalers wiped out the great whales, possibly leaving extra krill for seals. Fur seal numbers then soared. From the late 1970s, summer crowds hauling out on Signy Island trampled and over-fertilised its mosses and lichens, badly damaging or destroying over 75% of the vegetation on low, accessible ground.",
+  "source": {
+   "name": "Ambio (PMC): Untangling unexpected terrestrial conservation challenges arising from the historical human exploitation of marine mammals",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9755428/"
+  }
+ },
+ {
+  "id": "v08-moa-saying",
+  "era": "exploration",
+  "year": 1500,
+  "dateLabel": "About 1500–1650",
+  "cat": "nature",
+  "title": "Perished as the Moa Perished",
+  "place": "Aotearoa New Zealand",
+  "lat": -41.5,
+  "lng": 173,
+  "text": "Polynesian settlers reached New Zealand around 1280 CE and found giant flightless birds called moa. Most mainland bird extinctions there happened before 1500, within about 150 years of arrival, and moa were among the species most exposed to hunters. Māori remembered the loss in ancestral sayings. One, dated to about 1500–1650, says “Kua ngaro i te ngaro o te moa”: perished as the moa perished.",
+  "source": {
+   "name": "Human Ecology (PMC): Human Perceptions of Megafaunal Extinction Events Revealed by Linguistic Analysis of Indigenous Oral Traditions",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6133014/"
+  }
+ },
+ {
+  "id": "v08-zavaritskii-1831",
+  "era": "industrial",
+  "year": 1831,
+  "dateLabel": "1831",
+  "cat": "nature",
+  "title": "The Mystery Volcano Behind a Green Sun",
+  "place": "Zavaritskii caldera, Simushir Island, Kuril Islands, Russia",
+  "lat": 46.93,
+  "lng": 151.95,
+  "text": "In 1831 a huge eruption cooled the Northern Hemisphere by about 1 °C, and in August people saw a blue, purple and green sun. Famines from crop failure soon struck eastern India and Japan. For almost two centuries nobody knew which volcano was to blame. Then glass shards in polar ice cores matched Zavaritskii, a remote caldera on Simushir Island in the Kurils.",
+  "source": {
+   "name": "PNAS (PMC): The 1831 CE mystery eruption identified as Zavaritskii caldera, Simushir Island (Kurils)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11725861/"
+  }
+ },
+ {
+  "id": "v08-jaya-sri-maha-bodhi",
+  "era": "classical",
+  "year": -288,
+  "dateLabel": "288 BCE",
+  "cat": "nature",
+  "title": "The Oldest Tree Planted by People",
+  "place": "Jaya Sri Maha Bodhi, Anuradhapura, Sri Lanka",
+  "lat": 8.345,
+  "lng": 80.397,
+  "text": "In 288 BCE, as Buddhism arrived in Sri Lanka through the Indian emperor Ashoka, a cutting from the sacred Maha-Bodhi fig tree was planted at Anuradhapura. Called the Jaya Sri Maha Bodhi, it is thought to be the oldest human-planted tree in the world. The story later came full circle: the Bodhi tree now growing at Bodh Gaya in India is itself a cutting from this Sri Lankan tree.",
+  "source": {
+   "name": "Heliyon (PMC): Old lessons for new science: How sacred-tree metaphors can inform studies of the public-health benefits of the natural environment",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11333903/"
+  }
+ },
+ {
+  "id": "v08-tashkent-1966",
+  "era": "modern",
+  "year": 1966,
+  "dateLabel": "26 April 1966",
+  "cat": "nature",
+  "title": "The Quake Right Under Tashkent",
+  "place": "Central Tashkent, Uzbekistan",
+  "lat": 41.31,
+  "lng": 69.28,
+  "text": "At 05:23 on 26 April 1966, an earthquake struck Tashkent. At magnitude 5.2 it was not especially large, but its epicentre lay only about 2 kilometres away, and a surface rupture 3 to 8 kilometres long opened beneath the central districts. More than 300,000 of the city's 1.5 million people lost their homes, and hundreds of elderly people reportedly died of heart attacks brought on by fear.",
+  "source": {
+   "name": "Scientific Reports (PMC): Seismic risk assessment of Tashkent's residential buildings based on the 1966 earthquake scenario",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13316045/"
+  }
+ },
+ {
+  "id": "v08-aralasar-seabed-town",
+  "era": "medieval",
+  "year": 1350,
+  "dateLabel": "Mid-1300s",
+  "cat": "nature",
+  "title": "A Golden Horde Town on the Aral Seabed",
+  "place": "Aralasar and Kerderi-2, dried Aral Sea bed, Kyzylorda Region, Kazakhstan",
+  "lat": 45.95,
+  "lng": 60.2,
+  "text": "As the Aral Sea shrank in the 20th century, receding 120 kilometres from one shore village, it exposed a medieval town on its old bed. Aralasar covered about 6 hectares, with an irrigation canal, grain fields and 15 millstones over a metre wide. Two Golden Horde silver coins date it to the mid-1300s. Nearby, the Kerderi-2 mausoleum glowed with turquoise-glazed carved tiles.",
+  "source": {
+   "name": "Archaeology.kz: Aralasar, the settlement and Kerderi-2 mausoleum",
+   "url": "https://archaeology.kz/en/heritages/aralasar-qonysy-men-kerderi-2-kesenesi"
+  }
+ },
+ {
+  "id": "v08-mayon-1814",
+  "era": "industrial",
+  "year": 1814,
+  "dateLabel": "1 February 1814",
+  "cat": "nature",
+  "title": "Mayon Buries the Cagsaua Church Town",
+  "place": "Cagsawa Ruins, Daraga, Albay, Philippines",
+  "lat": 13.17,
+  "lng": 123.7,
+  "text": "Earthquakes rattled Albay from 31 January 1814. At 8:30 the next morning, Mayon volcano began hurling out ash and bombs “as large as big jars”, and hot rocks swept down its southern slopes. Rain formed inside the eruption clouds, and lahars buried the villages of Cagsaua, Budiao and Bubulusan up to 12 metres deep. About 1,200 people died, and ash darkened skies as far as Manila.",
+  "source": {
+   "name": "JICA: The Study on Comprehensive Disaster Prevention around Mayon Volcano, Data Book II (historical eruptions)",
+   "url": "https://openjicareport.jica.go.jp/pdf/11603313_02.pdf"
+  }
+ },
+ {
+  "id": "v08-kelud-1919-lahar",
+  "era": "modern",
+  "year": 1919,
+  "dateLabel": "19 May 1919",
+  "cat": "nature",
+  "title": "When Kelud's Crater Lake Poured Out",
+  "place": "Kelud volcano, East Java, Indonesia",
+  "lat": -7.93,
+  "lng": 112.31,
+  "text": "On 19 May 1919, Kelud volcano in East Java erupted beneath its crater lake. The lake water mixed with volcanic debris into lahars, fast-moving mudflows that killed 5,011 people and destroyed thousands of acres of coffee plantations. The disaster launched modern volcano science in Indonesia, and in 1921 engineers began digging a tunnel to drain the crater lake and reduce the danger.",
+  "source": {
+   "name": "USGS: Volcano hazard mitigation program in Indonesia",
+   "url": "https://www.usgs.gov/publications/volcano-hazard-mitigation-program-indonesia"
+  },
+  "source2": {
+   "name": "National Geographic: Mount Kelud volcano eruption, Indonesia",
+   "url": "https://www.nationalgeographic.com/science/article/140214-mount-kelud-volcano-eruption-indonesia-ash-science"
+  }
+ },
+ {
+  "id": "v08-roda-nilometer-939",
+  "era": "medieval",
+  "year": 939,
+  "dateLabel": "939 CE",
+  "cat": "nature",
+  "title": "Iceland's Haze and a Low Nile",
+  "place": "Roda Nilometer, Roda Island, Cairo, Egypt",
+  "lat": 30.01,
+  "lng": 31.23,
+  "text": "In spring 939 CE, Eldgjá in Iceland began a great eruption that lasted at least until autumn 940. Thousands of kilometres south, the Roda Nilometer in Cairo recorded an unusually low Nile flow in 939, perhaps because volcanic haze weakened the monsoon rains that feed the river. Irish chroniclers saw a blood-red sun, and food shortages followed from Baghdad to the Maghreb.",
+  "source": {
+   "name": "Climatic Change (PMC): The Eldgjá eruption: timing, long-range impacts and influence on the Christianisation of Iceland",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6560931/"
+  }
+ },
+ {
+  "id": "v08-sagalassos-orchard-pollen",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "1st century CE",
+  "cat": "nature",
+  "title": "Roman Orchards Climb the Taurus Hills",
+  "place": "Sagalassos and the Bereket Basin, Burdur Province, Turkey",
+  "lat": 37.68,
+  "lng": 30.52,
+  "text": "Pollen grains trapped in marsh and lake mud around Sagalassos, in the hills of southwest Turkey, record a farming boom. In the 1st century CE, pollen from olive, walnut, chestnut and grapevine rose at highland sites such as the Bereket Basin as orchards spread uphill, helped by Roman screw presses and rotary mills. In Early Byzantine times that orchard pollen faded and many highland villages were abandoned.",
+  "source": {
+   "name": "PLOS ONE (PMC): Settlement, environment, and climate change in SW Anatolia: Dynamics of regional variation and the end of Antiquity",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9236232/"
+  }
+ },
+ {
+  "id": "v08-lake-victoria-sleeping-sickness",
+  "era": "industrial",
+  "year": 1901,
+  "dateLabel": "1901–1905",
+  "cat": "nature",
+  "title": "Rinderpest, Tsetse and a Lakeside Epidemic",
+  "place": "Lake Victoria shore near Entebbe, Uganda",
+  "lat": 0.06,
+  "lng": 32.46,
+  "text": "After rinderpest reached Africa through Eritrea in the late 1880s, it killed over 90% of susceptible cattle. Bush and wild game reclaimed empty pastures, and tsetse flies followed. In 1901 sleeping sickness, spread by those flies, exploded along the shores and islands of Lake Victoria in Uganda. By 1905 over 200,000 people, a third of the region's population, had died.",
+  "source": {
+   "name": "PLOS Neglected Tropical Diseases (PMC): Sleeping Sickness Epidemics and Colonial Responses in East and Central Africa, 1900–1940",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3998934/"
+  },
+  "source2": {
+   "name": "Scientific Reports (PMC): Genome-wide analysis reveals differential admixture dynamics and historical demographic contractions in African cattle",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12909787/"
+  }
+ },
+ {
+  "id": "v08-okmok-43-bce",
+  "era": "classical",
+  "year": -43,
+  "dateLabel": "Early 43 BCE",
+  "cat": "nature",
+  "title": "An Alaskan Volcano and Rome's Hungry Years",
+  "place": "Okmok caldera, Umnak Island, Aleutian Islands, Alaska, USA",
+  "lat": 53.43,
+  "lng": -168.13,
+  "text": "Early in 43 BCE, Okmok volcano in Alaska's Aleutian Islands produced one of the largest eruptions of the past 2,500 years, its fallout preserved in six Arctic ice cores. The next two years were among the Northern Hemisphere's coldest in millennia, and frost struck California's bristlecone pines in early September. Ancient writers report that the Nile failed to flood and famine gripped Egypt and Rome.",
+  "source": {
+   "name": "PNAS (PMC): Extreme climate after massive eruption of Alaska's Okmok volcano in 43 BCE and effects on the late Roman Republic and Ptolemaic Kingdom",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7354934/"
+  },
+  "source2": {
+   "name": "Alaska Volcano Observatory: Okmok",
+   "url": "https://avo.alaska.edu/volcano/okmok"
+  }
+ },
+ {
+  "id": "v08-mawmluh-monsoon-famines",
+  "era": "exploration",
+  "year": 1783,
+  "dateLabel": "1780s–1810s",
+  "cat": "nature",
+  "title": "Stalagmites Remember India's Worst Droughts",
+  "place": "Mawmluh Cave, near Cherrapunji (Sohra), Meghalaya, India",
+  "lat": 25.26,
+  "lng": 91.71,
+  "text": "In Mawmluh Cave, near one of the wettest places on Earth, two stalagmites recorded the Indian monsoon year by year. Their chemistry marks 1780 to 1810 as the weakest 30-year monsoon spell of the past millennium. Records list at least 11 drought famines then, six between about 1782 and 1792, including the Chalisa and Skull Famines. Failed harvests may have helped undercut India's textile industry.",
+  "source": {
+   "name": "PNAS (PMC): Protracted Indian monsoon droughts of the past millennium and their societal impacts",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9522357/"
+  }
+ }
+]

@@ -1,0 +1,370 @@
+[
+ {
+  "id": "n09-khartoum-camp",
+  "era": "industrial",
+  "year": 1821,
+  "dateLabel": "1821",
+  "cat": "daily",
+  "title": "An Army Camp Becomes a Capital",
+  "place": "Khartoum, Sudan",
+  "lat": 15.5,
+  "lng": 32.56,
+  "text": "In 1821 an Egyptian army pitched camp just south of the spot where the Blue Nile and White Nile meet. The camp, Khartoum, grew into a garrisoned army town. Mahdist forces destroyed it in 1885, Lord Kitchener rebuilt it after 1898, and in 1956 it became the capital of independent Sudan. Today it is a hub for trade, textiles and printing.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Khartoum",
+   "url": "https://www.britannica.com/place/Khartoum"
+  }
+ },
+ {
+  "id": "n09-radama-alphabet",
+  "era": "industrial",
+  "year": 1823,
+  "dateLabel": "1823",
+  "cat": "culture",
+  "title": "A King Chooses an Alphabet",
+  "place": "Antananarivo, Madagascar",
+  "lat": -18.91,
+  "lng": 47.53,
+  "text": "In 1820 the people of Antananarivo who could read and write could have been counted on one hand. King Radama I chose Latin letters rather than Arabic script for writing Malagasy, and in 1823 he set spelling rules, dropping letters that had double uses. He inspected schools in person, and by 1828 there were 37 schools with 2,309 students.",
+  "source": {
+   "name": "Dictionary of African Christian Biography (J. T. Hardyman, L. Molet): Jones, David",
+   "url": "https://dacb.org/stories/madagascar/jones-david/"
+  }
+ },
+ {
+  "id": "n09-nsamankow",
+  "era": "industrial",
+  "year": 1824,
+  "dateLabel": "January 21, 1824",
+  "cat": "power",
+  "title": "The Governor's Skull Cup",
+  "place": "Nsamankow, near Bonsaso, Ghana",
+  "lat": 5.38,
+  "lng": -1.93,
+  "text": "On 21 January 1824 a British column of 500 men under Governor Sir Charles McCarthy met a 10,000-strong Asante army at Nsamankow. When the troops needed resupply, a storekeeper mistakenly sent kegs of pasta instead of ammunition, and the men deserted. The Asante carried McCarthy's head to their capital, Kumasi, where it became a gold-rimmed drinking cup for their king.",
+  "source": {
+   "name": "National Army Museum (London): Ashanti war horn",
+   "url": "https://www.nam.ac.uk/explore/trophy-worth-losing-your-head"
+  }
+ },
+ {
+  "id": "n09-tahtawi-paris",
+  "era": "industrial",
+  "year": 1826,
+  "dateLabel": "1826",
+  "cat": "journeys",
+  "title": "An Egyptian Scholar in Paris",
+  "place": "Cairo, Egypt",
+  "lat": 30.04,
+  "lng": 31.24,
+  "text": "In 1826 a young Egyptian scholar, Rifa'a al-Tahtawi, went to Paris as religious teacher to a group of Egyptian students. He stayed five years. He was one of the first Egyptians to wrestle with how to adjust to the West, and back home he became head of Cairo's new School of Languages and later ran a translation bureau for books on history and geography.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Rifāʿah Rāfiʿ al-Ṭahṭāwī",
+   "url": "https://www.britannica.com/biography/Rifaah-Rafi-al-Tahtawi"
+  }
+ },
+ {
+  "id": "n09-fourah-bay-college",
+  "era": "industrial",
+  "year": 1827,
+  "dateLabel": "1827",
+  "cat": "culture",
+  "title": "The Athens of West Africa",
+  "place": "Freetown, Sierra Leone",
+  "lat": 8.49,
+  "lng": -13.21,
+  "text": "Fourah Bay College opened in Freetown in 1827, the first institution of higher learning in modern sub-Saharan Africa since the one at Timbuktu. Its first registered student, Samuel Ajayi Crowther, became the first Black Anglican bishop. Until the Second World War it was British West Africans' only alternative to Europe or America for a degree, earning Sierra Leone the nickname Athens of West Africa.",
+  "source": {
+   "name": "UNESCO World Heritage Centre Tentative Lists: Old Fourah Bay College Building",
+   "url": "https://whc.unesco.org/en/tentativelists/5744"
+  }
+ },
+ {
+  "id": "n09-umar-tal-pilgrim",
+  "era": "industrial",
+  "year": 1833,
+  "dateLabel": "1833",
+  "cat": "journeys",
+  "title": "A Pilgrim Scholar Comes Home",
+  "place": "Sokoto, Nigeria",
+  "lat": 13.06,
+  "lng": 5.24,
+  "text": "Born in Fouta-Toro, in today's Senegal, Umar Tal set out for Mecca at 23. On the way, Muhammad Bello, emir of Sokoto, offered him his daughter Maryam in marriage, and in Mecca he was named caliph for black Africa of the Tijani brotherhood. In 1833 he returned to the African interior, spending years with Bello before later founding the Tukulor empire.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Jean Claude Froelich): ʿUmar Tal",
+   "url": "https://www.britannica.com/biography/Umar-Tal"
+  }
+ },
+ {
+  "id": "n09-tunisia-abolition",
+  "era": "industrial",
+  "year": 1846,
+  "dateLabel": "1846",
+  "cat": "power",
+  "title": "Tunisia Abolishes Slavery",
+  "place": "Tunis, Tunisia",
+  "lat": 36.8,
+  "lng": 10.18,
+  "text": "In 1846 Ahmad Bey, ruler of Ottoman Tunisia, signed a decree that let enslaved Black people ask for certificates of freedom. It made the Regency of Tunis the first in the modern Islamic world to formally abolish slavery, and anti-slavery societies around the globe sent their praise. Today Tunisians remember the abolition every year on January 23.",
+  "source": {
+   "name": "Law and History Review (Cambridge Core): Ahmad Bey's 1846 Istiftāʾ, Its Dual Legislative Framework and Religio-Political Context",
+   "url": "https://www.cambridge.org/core/journals/law-and-history-review/article/ahmad-beys-1846-istifta-its-dual-legislative-framework-and-religiopolitical-context/1F6E264D15D111EF41160A3B169062A7"
+  },
+  "source2": {
+   "name": "MERIP (M'hamed Oualdi): The Politics of Commemorating the Abolition of Slavery in Post-Revolutionary Tunisia",
+   "url": "https://www.merip.org/the-politics-of-commemorating-the-abolition-of-slavery-in-post-revolutionary-tunisia/"
+  }
+ },
+ {
+  "id": "n09-livingstone-luanda",
+  "era": "industrial",
+  "year": 1854,
+  "dateLabel": "May 31, 1854",
+  "cat": "journeys",
+  "title": "Across Africa to Luanda",
+  "place": "Luanda, Angola",
+  "lat": -8.84,
+  "lng": 13.23,
+  "text": "In November 1853 David Livingstone left Linyanti, near the Zambezi, with little equipment and a small party of Africans, hoping to find a trade route to the Atlantic that could undercut the slave trade. After an arduous journey they reached Luanda on 31 May 1854. That September he set off back inland to take his Makololo companions home.",
+  "source": {
+   "name": "Encyclopaedia Britannica: David Livingstone",
+   "url": "https://www.britannica.com/biography/David-Livingstone"
+  }
+ },
+ {
+  "id": "n09-speke-ripon-falls",
+  "era": "industrial",
+  "year": 1862,
+  "dateLabel": "July 28, 1862",
+  "cat": "journeys",
+  "title": "Where the Nile Leaves the Lake",
+  "place": "Jinja, Uganda",
+  "lat": 0.42,
+  "lng": 33.2,
+  "text": "On 28 July 1862 the British explorer John Hanning Speke found the spot where the Nile flows out of Lake Victoria and named it Ripon Falls. He had first reached the great lake in 1858 and called it a source of the Nile, but many in England disputed him. He died in 1864 on the day he was due to debate the question.",
+  "source": {
+   "name": "Encyclopaedia Britannica: John Hanning Speke",
+   "url": "https://www.britannica.com/biography/John-Hanning-Speke"
+  }
+ },
+ {
+  "id": "n09-fort-hare-opens",
+  "era": "modern",
+  "year": 1916,
+  "dateLabel": "1916",
+  "cat": "culture",
+  "title": "The College That Taught Mandela",
+  "place": "Alice, Eastern Cape, South Africa",
+  "lat": -32.79,
+  "lng": 26.84,
+  "text": "In 1916 the South African Native College opened beside an old British fort called Fort Hare. Its first students came from every province of South Africa and from Basutoland. Renamed the University of Fort Hare, it educated Nelson Mandela, Oliver Tambo and Robert Sobukwe, the poet Dennis Brutus, the painter Ernest Mancoba and students from as far north as Kenya and Uganda.",
+  "source": {
+   "name": "University of Fort Hare: History",
+   "url": "https://www.ufh.ac.za/?p=2132"
+  },
+  "source2": {
+   "name": "South African History Online: University of Fort Hare, Alice – Eastern Cape",
+   "url": "https://sahistory.org.za/node/124017"
+  }
+ },
+ {
+  "id": "n09-kimbangu-prophet",
+  "era": "modern",
+  "year": 1921,
+  "dateLabel": "April 1921",
+  "cat": "culture",
+  "title": "The Prophet of Nkamba",
+  "place": "Nkamba, Kongo Central, DR Congo",
+  "lat": -5.12,
+  "lng": 14.71,
+  "text": "In April 1921 Simon Kimbangu, raised at a British Baptist mission, suddenly became famous among the Bakongo people of Lower Congo. People said he could heal the sick and raise the dead, and thousands came to hear him preach. Belgian colonial officials arrested him that September and he died in prison, but his followers later founded the Kimbanguist church.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Simon Kimbangu",
+   "url": "https://www.britannica.com/biography/Simon-Kimbangu"
+  }
+ },
+ {
+  "id": "n09-haile-selassie-returns",
+  "era": "modern",
+  "year": 1941,
+  "dateLabel": "1941",
+  "cat": "power",
+  "title": "The Emperor Comes Home",
+  "place": "Addis Ababa, Ethiopia",
+  "lat": 9.03,
+  "lng": 38.74,
+  "text": "When Italy invaded Ethiopia in 1935, Emperor Haile Selassie led the resistance but was forced into exile in 1936. During World War II he helped form an army of Ethiopian exiles in Sudan. In January 1941 British and Ethiopian forces invaded, and several months later they recaptured Addis Ababa. The emperor was reinstated, though he had to rebuild his authority.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Haile Selassie I",
+   "url": "https://www.britannica.com/biography/Haile-Selassie-I"
+  }
+ },
+ {
+  "id": "n09-nok-scarecrow",
+  "era": "modern",
+  "year": 1943,
+  "dateLabel": "1943",
+  "cat": "discovery",
+  "title": "The Scarecrow's Ancient Head",
+  "place": "Jos, Plateau State, Nigeria",
+  "lat": 9.9,
+  "lng": 8.86,
+  "text": "In 1943 a visitor brought the archaeologist Bernard Fagg a terracotta head that had been perched on a scarecrow in a yam field near Jos. Similar heads had turned up in tin-mining gravel. Fagg soon gathered nearly 200 such sculptures, with almond-shaped eyes and grand hairstyles, and named the unknown civilization that made them Nok. Radiocarbon dates ranged from 440 BCE to 200 CE.",
+  "source": {
+   "name": "Archaeology Magazine (Roger Atwood): The Nok of Nigeria",
+   "url": "https://archaeology.org/issues/online/features/the-nok-of-nigeria/"
+  }
+ },
+ {
+  "id": "n09-lake-chad-apollo",
+  "era": "modern",
+  "year": 1968,
+  "dateLabel": "October 1968",
+  "cat": "nature",
+  "title": "A Shrinking Lake Seen From Space",
+  "place": "Lake Chad, Chad",
+  "lat": 13.3,
+  "lng": 14.1,
+  "text": "In October 1968 an astronaut on NASA's Apollo 7 mission photographed Lake Chad, which then covered at least 22,000 square kilometres. Hard years followed: between 1968 and 1972, hundreds of thousands of people in the Sahel died of starvation. Through the 1970s water disappeared from the lake's northern basin, a lake that more than 30 million people rely on.",
+  "source": {
+   "name": "NASA Earth Observatory: Scientists Try to Understand the Fluctuations of Lake Chad",
+   "url": "https://science.nasa.gov/earth/earth-observatory/lake-chad/"
+  },
+  "source2": {
+   "name": "NASA Earth Observatory: A Tale of Fire and Water",
+   "url": "https://science.nasa.gov/earth/earth-observatory/a-tale-of-fire-and-water"
+  }
+ },
+ {
+  "id": "n09-aswan-high-dam",
+  "era": "modern",
+  "year": 1970,
+  "dateLabel": "1970 (inaugurated January 1971)",
+  "cat": "nature",
+  "title": "Taming the Nile Flood",
+  "place": "Aswan, Egypt",
+  "lat": 23.97,
+  "lng": 32.88,
+  "text": "Completed in 1970, the Aswan High Dam put the Nile's yearly flood under human control for the first time in history. Its reservoir, Lake Nasser, reaches far into Sudan. Ninety thousand Egyptian farmers and Sudanese Nubians had to move, and the temples of Abu Simbel were relocated. The dam also traps the rich silt that once fertilized riverside fields.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Aswan High Dam",
+   "url": "https://www.britannica.com/topic/Aswan-High-Dam"
+  }
+ },
+ {
+  "id": "n09-eritrea-votes",
+  "era": "modern",
+  "year": 1993,
+  "dateLabel": "April 23–25, 1993",
+  "cat": "power",
+  "title": "Eritrea Votes for Freedom",
+  "place": "Asmara, Eritrea",
+  "lat": 15.32,
+  "lng": 38.93,
+  "text": "After a 30-year war with Ethiopia, Eritreans voted on independence over three days in April 1993, and 99.8 percent said yes. UN monitors called the vote free and fair. In Asmara, dancers of all ages packed the avenues night after night, children paraded waving green leaves for peace, and war veterans in fighter jackets wheeled through the streets.",
+  "source": {
+   "name": "The Christian Science Monitor (Robert M. Press): Eritreans Celebrate Their Independence",
+   "url": "https://csmonitor.com/1993/0430/30081.html"
+  }
+ },
+ {
+  "id": "n09-mozambique-flood-baby",
+  "era": "modern",
+  "year": 2000,
+  "dateLabel": "February 2000",
+  "cat": "nature",
+  "title": "A Baby Born in a Tree",
+  "place": "Limpopo valley, Gaza Province, Mozambique",
+  "lat": -24.69,
+  "lng": 33.53,
+  "text": "In February 2000 floods swept Mozambique, leaving nearly 700 people dead and millions homeless. Thousands climbed trees or rooftops and waited, sometimes for days, to be rescued. One mother gave birth on top of a tree, and a South African helicopter crew rescued her and baby Rositha shortly afterwards. Television footage of the rescue was broadcast worldwide.",
+  "source": {
+   "name": "BBC News: Miracle baby flies to US (17 July 2000)",
+   "url": "http://news.bbc.co.uk/2/hi/africa/837500.stm"
+  }
+ },
+ {
+  "id": "n09-sirleaf-elected",
+  "era": "modern",
+  "year": 2005,
+  "dateLabel": "November 2005",
+  "cat": "power",
+  "title": "Liberia's Iron Lady",
+  "place": "Monrovia, Liberia",
+  "lat": 6.3,
+  "lng": -10.8,
+  "text": "In November 2005 Ellen Johnson-Sirleaf, 67, became Africa's first elected female head of state after winning Liberia's presidential run-off against former football star George Weah. Supporters called her the Iron Lady. She had been imprisoned in the 1980s for criticising a military regime and had twice gone into exile, and she promised to fight corruption.",
+  "source": {
+   "name": "BBC News: Profile: Liberia's 'Iron Lady' (23 November 2005)",
+   "url": "http://news.bbc.co.uk/2/hi/africa/4395978.stm"
+  }
+ },
+ {
+  "id": "n09-mpesa-launch",
+  "era": "modern",
+  "year": 2007,
+  "dateLabel": "March 6, 2007",
+  "cat": "daily",
+  "title": "Money on a Mobile Phone",
+  "place": "Nairobi, Kenya",
+  "lat": -1.29,
+  "lng": 36.82,
+  "text": "On 6 March 2007, Kenya's Safaricom officially launched M-PESA, a service for sending money by mobile phone. It grew out of a 2005 pilot in which airtime dealers' shops were given phones with an M-PESA menu. A month after launch it had 19,671 active users, and by that November it had more than a million.",
+  "source": {
+   "name": "Safaricom Newsroom: The M-PESA wonder: How it all begun",
+   "url": "https://newsroom.safaricom.co.ke/innovation/the-m-pesa-wonder-how-it-all-begun"
+  }
+ },
+ {
+  "id": "n09-meerkat-first-light",
+  "era": "modern",
+  "year": 2016,
+  "dateLabel": "July 16, 2016",
+  "cat": "discovery",
+  "title": "A Telescope Spots 1,300 Galaxies",
+  "place": "Karoo, Northern Cape, South Africa",
+  "lat": -30.71,
+  "lng": 21.44,
+  "text": "On 16 July 2016, South Africa's science minister Naledi Pandor released the first image from MeerKAT, a radio telescope in the Northern Cape. Using just 16 of its planned 64 dishes, it showed more than 1,300 galaxies in the distant universe, in a patch of sky where only 70 had been known. MeerKAT is a forerunner of the Square Kilometre Array.",
+  "source": {
+   "name": "Observatoire de Paris – PSL: MeerKAT First Light image",
+   "url": "https://observatoiredeparis.psl.eu/meerkat-first-light-image.html?lang=fr"
+  }
+ },
+ {
+  "id": "n09-zeitz-mocaa",
+  "era": "modern",
+  "year": 2017,
+  "dateLabel": "September 22, 2017",
+  "cat": "culture",
+  "title": "An Art Museum in a Grain Silo",
+  "place": "V&A Waterfront, Cape Town, South Africa",
+  "lat": -33.91,
+  "lng": 18.42,
+  "text": "On 22 September 2017, Zeitz MOCAA opened at Cape Town's V&A Waterfront as the world's largest museum dedicated to contemporary art from Africa and its diaspora. It sits inside a 57-metre grain silo built in 1921. London's Heatherwick Studio, working with South African architects, carved the galleries and atrium out of the silo's dense concrete tubes.",
+  "source": {
+   "name": "Zeitz MOCAA: Zeitz MOCAA officially opens",
+   "url": "https://zeitzmocaa.museum/?p=2982"
+  },
+  "source2": {
+   "name": "Zeitz MOCAA: Zeitz MOCAA opens, designed by Heatherwick Studio",
+   "url": "https://zeitzmocaa.museum/zeitz-mocaa-opens-designed-by-heatherwick-studio/"
+  }
+ },
+ {
+  "id": "n09-dakar-youth-olympics",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "October–November 2026",
+  "cat": "daily",
+  "title": "Africa's First Olympic Games",
+  "place": "Dakar, Senegal",
+  "lat": 14.72,
+  "lng": -17.47,
+  "text": "In 2026 Senegal hosted the Youth Olympic Games, the first Olympic event ever held in Africa. About 2,700 athletes aged 14 to 17 came to compete in Dakar, Diamniadio and the beach resort of Saly. Beach wrestling made its debut as a nod to Senegalese wrestling, the national sport, and the mascot Ayo was a young lion in a Fulani hat.",
+  "source": {
+   "name": "AP News (Mark Banchereau): Africa hosts Youth Olympic Games in Senegal",
+   "url": "https://apnews.com/article/senegal-youth-olympic-games-opening-ceremony-748d2608e80f3cdfcdb6f2c9b0afa051"
+  }
+ }
+]

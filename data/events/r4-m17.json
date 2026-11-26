@@ -1,0 +1,362 @@
+[
+ {
+  "id": "m17-griffin-warrior-pylos",
+  "era": "ancient",
+  "year": -1450,
+  "dateLabel": "c. 1450 BCE (tomb built about 1500–1450 BCE)",
+  "cat": "discovery",
+  "title": "The Griffin Warrior's Grave",
+  "place": "Near the Palace of Nestor, Pylos, Messenia, Greece",
+  "lat": 37.03,
+  "lng": 21.7,
+  "text": "In May 2015, University of Cincinnati archaeologists Jack Davis and Sharon Stocker uncovered a grave in an olive grove near Pylos, built around 1500–1450 BCE. Its owner lay with bronze weapons, a helmet made of boar tusks, ivory combs, a mirror and more than 50 sealstones. An ivory plaque carved with a griffin gave him his modern nickname: the Griffin Warrior.",
+  "source": {
+   "name": "National Geographic: This 3,500-year-old tomb held the treasures of Greece's 'Griffin Warrior'",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/this-tomb-held-the-treasures-of-greeces-griffin-warrior"
+  }
+ },
+ {
+  "id": "m17-histria-black-sea-colony",
+  "era": "ancient",
+  "year": -657,
+  "dateLabel": "657–656 BCE",
+  "cat": "journeys",
+  "title": "Greeks Settle the Danube Coast",
+  "place": "Histria (Istros), near Lake Sinoe, Constanța County, Romania",
+  "lat": 44.55,
+  "lng": 28.77,
+  "text": "Greeks from the city of Miletus founded Istros, later called Histria, in 657–656 BCE. It was the oldest Greek colony on the western shore of the Black Sea and grew into an important commercial and cultural centre for 14 centuries. Systematic digging began in 1914 under Vasile Pârvan, and a museum beside the ruins now holds its finds.",
+  "source": {
+   "name": "Museum of National History and Archaeology Constanța (MINAC): Histria Museum Complex",
+   "url": "https://minac.ro/en/complexul-muzeal-histria/"
+  }
+ },
+ {
+  "id": "m17-samos-heraion-lathe",
+  "era": "ancient",
+  "year": -570,
+  "dateLabel": "About 570–560 BCE",
+  "cat": "discovery",
+  "title": "Column Bases Spun on a Lathe",
+  "place": "Heraion of Samos, Samos, Greece",
+  "lat": 37.67,
+  "lng": 26.89,
+  "text": "Around 570–560 BCE, the builders Rhoecus and Theodorus began a colossal temple to the goddess Hera on the Aegean island of Samos. It measured 52.5 by 105 metres, stood on at least 100 columns, and its moulded column bases were turned on a lathe designed by Theodorus. Samos also cut a 1,036-metre tunnel through a mountain to bring water to its city.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Pythagoreion and Heraion of Samos",
+   "url": "https://whc.unesco.org/en/list/595"
+  }
+ },
+ {
+  "id": "m17-cleisthenes-reforms",
+  "era": "ancient",
+  "year": -508,
+  "dateLabel": "508 BCE",
+  "cat": "power",
+  "title": "Democracy by Neighbourhood",
+  "place": "Athens, Attica, Greece",
+  "lat": 37.98,
+  "lng": 23.72,
+  "text": "In 508 BCE the Athenian noble Cleisthenes sided with the popular Assembly against rival aristocrats and pushed through sweeping reforms. Political rights now depended on belonging to a deme, a local township, instead of a family clan. Ten new tribes mixed people from the city, the coast and the inland areas, and a Council of 500 took 50 members from each tribe.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Cleisthenes of Athens (Russell Meiggs)",
+   "url": "https://www.britannica.com/biography/Cleisthenes-of-Athens"
+  }
+ },
+ {
+  "id": "m17-aigai-palace",
+  "era": "classical",
+  "year": -340,
+  "dateLabel": "About 340 BCE",
+  "cat": "culture",
+  "title": "The Palace of Macedon's Kings",
+  "place": "Aigai (Vergina), Imathia, Greece",
+  "lat": 40.48,
+  "lng": 22.32,
+  "text": "Around 340 BCE a monumental palace rose at Aigai, the royal capital of ancient Macedon. UNESCO calls it the biggest building of classical Greece. Beside it lies a royal cemetery of more than 500 burial mounds, where in 1977–78 archaeologists found the unlooted tombs of Philip II, father of Alexander the Great, and of his grandson Alexander IV, a worldwide sensation.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Archaeological Site of Aigai (modern name Vergina)",
+   "url": "https://whc.unesco.org/en/list/780"
+  }
+ },
+ {
+  "id": "m17-thessaloniki-founded",
+  "era": "classical",
+  "year": -316,
+  "dateLabel": "316 BCE",
+  "cat": "journeys",
+  "title": "A City Named for Alexander's Sister",
+  "place": "Thessaloniki, Central Macedonia, Greece",
+  "lat": 40.64,
+  "lng": 22.94,
+  "text": "Thessaloniki was founded in 316 BCE and named for a sister of Alexander the Great. After 146 BCE it became the capital of the Roman province of Macedonia. Standing on the Via Egnatia, the road from the Adriatic Sea east to Byzantium, it grew into a great military and commercial station, and the Apostle Paul later wrote two letters to its people.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Thessaloníki",
+   "url": "https://www.britannica.com/place/Thessaloniki"
+  }
+ },
+ {
+  "id": "m17-kourion-earthquake-house",
+  "era": "classical",
+  "year": 365,
+  "dateLabel": "July 21, 365 CE",
+  "cat": "nature",
+  "title": "A Family in the Earthquake House",
+  "place": "Kourion, Limassol District, Cyprus",
+  "lat": 34.66,
+  "lng": 32.89,
+  "text": "At around dawn on July 21, 365 CE, an earthquake wrecked the Roman city of Kourion on Cyprus. In the mid-1980s a University of Arizona team led by David Soren found a man of 25, a woman of 19 and a baby of one and a half, cradled against each other beneath fallen plaster and heavy stone blocks in what is now called the Earthquake House.",
+  "source": {
+   "name": "University of Arizona News: U of A expert's discovery to be displayed in Cyprus archaeological museum",
+   "url": "https://news.arizona.edu/news/u-experts-discovery-be-displayed-cyprus-archaeological-museum"
+  }
+ },
+ {
+  "id": "m17-madara-rider",
+  "era": "medieval",
+  "year": 705,
+  "dateLabel": "Early 8th century (inscriptions from 705)",
+  "cat": "culture",
+  "title": "A Horseman Carved in a Cliff",
+  "place": "Madara, Shumen Province, Bulgaria",
+  "lat": 43.28,
+  "lng": 27.12,
+  "text": "Early in the 8th century, as the Bulgarian state was taking shape, sculptors carved a rider triumphing over a lion into a 100-metre cliff at Madara, the main sacred place of the First Bulgarian Empire. UNESCO says the relief has no parallel in Europe. Inscriptions beside it record events from 705 to 801 in the reigns of the Khans Tervel, Kormisos and Omurtag.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Madara Rider",
+   "url": "https://whc.unesco.org/en/list/43"
+  }
+ },
+ {
+  "id": "m17-studenica-saint-sava",
+  "era": "medieval",
+  "year": 1219,
+  "dateLabel": "1219",
+  "cat": "culture",
+  "title": "Saint Sava's Marble Monastery",
+  "place": "Studenica Monastery, Raška District, Serbia",
+  "lat": 43.49,
+  "lng": 20.53,
+  "text": "Studenica Monastery was founded in the late 12th century by Stefan Nemanja, who established the medieval Serbian state, and its Church of the Virgin was built of white marble. There, in 1219, Nemanja's youngest son, Saint Sava, launched the independent Serbian Orthodox Church. He also wrote the first literary work in the Serbian language.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Studenica Monastery",
+   "url": "https://whc.unesco.org/en/list/389"
+  }
+ },
+ {
+  "id": "m17-boyana-frescoes",
+  "era": "medieval",
+  "year": 1259,
+  "dateLabel": "1259",
+  "cat": "culture",
+  "title": "The Painted Walls of Boyana",
+  "place": "Boyana, Sofia, Bulgaria",
+  "lat": 42.64,
+  "lng": 23.27,
+  "text": "On the edge of Sofia stands Boyana Church, first built in the 10th century and enlarged in the early 13th century by the Sebastocrator Kaloyan with a second, two-storey church. Its frescoes were painted in 1259. UNESCO ranks them among the most important collections of medieval painting, with figures full of spiritual expressiveness and vitality, painted in harmonious proportions.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Boyana Church",
+   "url": "https://whc.unesco.org/en/list/42"
+  }
+ },
+ {
+  "id": "m17-ragusa-quarantine",
+  "era": "medieval",
+  "year": 1377,
+  "dateLabel": "1377",
+  "cat": "daily",
+  "title": "Thirty Days Before Entering Town",
+  "place": "Dubrovnik (Ragusa), Dubrovnik-Neretva, Croatia",
+  "lat": 42.64,
+  "lng": 18.11,
+  "text": "In 1377 the Great Council of Ragusa, today's Dubrovnik, ordered visitors from plague-stricken areas to stay apart for 30 days, a period called the trentino. It is described as the first quarantine. As the practice spread to other port cities, the wait grew to 40 days, quarantino in Italian, and that number gave English the word quarantine.",
+  "source": {
+   "name": "CDC Emerging Infectious Diseases: Etymologia: Quarantine",
+   "url": "https://wwwnc.cdc.gov/eid/article/19/2/ET-1902_article"
+  },
+  "source2": {
+   "name": "PMC (Emerging Infectious Diseases): Lessons from the History of Quarantine, from Plague to Influenza A",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3559034/"
+  }
+ },
+ {
+  "id": "m17-obod-cyrillic-press",
+  "era": "exploration",
+  "year": 1494,
+  "dateLabel": "January 4, 1494",
+  "cat": "discovery",
+  "title": "Montenegro's First Printed Book",
+  "place": "Obod, near Cetinje, Montenegro",
+  "lat": 42.36,
+  "lng": 19.02,
+  "text": "On January 4, 1494, the printing house of Đurđe Crnojević on Obod finished the Oktoih prvoglasnik, the first South Slavic book printed in Cyrillic. Crnojević had bought the press in Venice in 1492, and Hieromonk Macarius did the printing with the help of seven unnamed monks. Montenegro's National Library calls it the first state printing house in the world.",
+  "source": {
+   "name": "National Library of Montenegro: History",
+   "url": "https://www.nb-cg.me/en/about-us/history"
+  }
+ },
+ {
+  "id": "m17-michael-the-brave-union",
+  "era": "exploration",
+  "year": 1600,
+  "dateLabel": "May 1600",
+  "cat": "power",
+  "title": "Three Principalities, One Prince",
+  "place": "Alba Iulia, Alba County, Romania",
+  "lat": 46.07,
+  "lng": 23.58,
+  "text": "Prince Michael of Walachia, remembered as Michael the Brave, defeated the Transylvanian ruler Andreas Báthory in 1599. In May 1600 he conquered Moldavia and took the title prince of Ungro-Walachia, Transylvania and Moldavia. Within months he lost both new lands, but 19th-century Romanian nationalists hailed him as the pioneer of national unity.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Michael, prince of Walachia",
+   "url": "https://www.britannica.com/biography/Michael-prince-of-Walachia"
+  }
+ },
+ {
+  "id": "m17-parthenon-explosion",
+  "era": "exploration",
+  "year": 1687,
+  "dateLabel": "1687",
+  "cat": "power",
+  "title": "The Day the Parthenon Exploded",
+  "place": "Acropolis, Athens, Greece",
+  "lat": 37.97,
+  "lng": 23.73,
+  "text": "For over two thousand years the Parthenon stood almost intact, serving as a church and later a mosque. Then in 1687 Venetians fighting the Ottoman Turks bombarded the Acropolis, and a powder magazine inside the temple blew up, destroying the centre of the building. Trying to carry off sculptures as loot, the Venetians accidentally smashed several more.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Parthenon",
+   "url": "https://www.britannica.com/topic/Parthenon"
+  }
+ },
+ {
+  "id": "m17-venus-de-milo-found",
+  "era": "industrial",
+  "year": 1820,
+  "dateLabel": "1820",
+  "cat": "discovery",
+  "title": "The Venus de Milo Comes to Light",
+  "place": "Melos (Milos), Cyclades, Greece",
+  "lat": 36.74,
+  "lng": 24.42,
+  "text": "In 1820 a marble statue of the goddess Aphrodite was found on the island of Melos. Carved around 150–125 BCE from Parian marble and 204 cm tall, it was made of two blocks joined at the hips, and holes show it once wore a bronze diadem and bracelet. The Marquis de Rivière gave it to King Louis XVIII, and it reached the Louvre in 1821.",
+  "source": {
+   "name": "Musée du Louvre, Collections: Vénus de Milo (LL 299)",
+   "url": "https://collections.louvre.fr/en/ark:/53355/cl010277627"
+  }
+ },
+ {
+  "id": "m17-prizren-albanian-league",
+  "era": "industrial",
+  "year": 1878,
+  "dateLabel": "1878",
+  "cat": "power",
+  "title": "The League Founded at Prizren",
+  "place": "Prizren, Kosovo",
+  "lat": 42.21,
+  "lng": 20.74,
+  "text": "In 1878 Albanians met in Prizren, a town in Kosovo, and founded the Albanian League. It aimed to unite Albanian lands, then split among four Ottoman provinces, into one autonomous state, and to develop Albanian language, literature, education and culture. The Ottomans suppressed the league in 1881, but by then it had become a powerful symbol of Albania's national awakening.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of Albania (Peter R. Prifti)",
+   "url": "https://www.britannica.com/topic/history-of-Albania"
+  }
+ },
+ {
+  "id": "m17-ljubljana-easter-earthquake",
+  "era": "industrial",
+  "year": 1895,
+  "dateLabel": "April 14, 1895",
+  "cat": "nature",
+  "title": "An Easter Earthquake Remakes Ljubljana",
+  "place": "Ljubljana, Slovenia",
+  "lat": 46.05,
+  "lng": 14.51,
+  "text": "Late on Easter Sunday, April 14, 1895, at 23:17, an earthquake of intensity 8–9 struck with its epicentre at Ljubljana. Engineers inspected 1,420 structures and ruled that 145 houses had to be pulled down, while Austrian military pioneers put up more than 60 wooden barracks for the homeless. Ivan Hribar, mayor from 1896, became a central figure in modernising the city after the disaster.",
+  "source": {
+   "name": "Historia Provinciae (Institute of Slavic Studies, Russian Academy of Sciences), L. A. Kirilina: The 1895 Earthquake in Ljubljana: Catastrophe and Impetus for the Modernization of the City",
+   "url": "https://cyberleninka.ru/article/n/the-1895-earthquake-in-ljubljana-catastrophe-and-impetus-for-the-modernization-of-the-city"
+  }
+ },
+ {
+  "id": "m17-kishinev-pogrom",
+  "era": "industrial",
+  "year": 1903,
+  "dateLabel": "April 6–7, 1903",
+  "cat": "power",
+  "title": "The Kishinev Pogrom Shocks the World",
+  "place": "Chișinău (Kishinev), Moldova",
+  "lat": 47.02,
+  "lng": 28.83,
+  "text": "In 1897 Jews made up almost half of Kishinev's people. Before Passover 1903 the local paper Bessarabets falsely accused them of murdering a Christian child, and on April 6–7 a mob killed 49 people, maimed 586 and wrecked 1,350 Jewish houses and 588 shops. Protests followed across Europe and the United States, and Hayim Nahman Bialik's poem In the City of Slaughter recalled the horror.",
+  "source": {
+   "name": "YIVO Encyclopedia of Jews in Eastern Europe: Kishinev (Wolf Moskovich)",
+   "url": "https://encyclopedia.yivo.org/article/366"
+  }
+ },
+ {
+  "id": "m17-vlore-independence",
+  "era": "industrial",
+  "year": 1912,
+  "dateLabel": "November 28, 1912",
+  "cat": "power",
+  "title": "Albania Declares Independence at Vlorë",
+  "place": "Vlorë, Albania",
+  "lat": 40.47,
+  "lng": 19.49,
+  "text": "In October 1912 Albania's Balkan neighbours declared war on the Ottoman Empire, and Greek, Serbian and Montenegrin armies advanced into Albanian lands. To save the country, Albanian national delegates met at a congress in the port of Vlorë, led by Ismail Qemal, a former high Ottoman official. On November 28, 1912, they issued the Vlorë proclamation declaring Albania's independence.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of Albania (Peter R. Prifti)",
+   "url": "https://www.britannica.com/topic/history-of-Albania"
+  }
+ },
+ {
+  "id": "m17-skopje-earthquake",
+  "era": "modern",
+  "year": 1963,
+  "dateLabel": "July 26, 1963",
+  "cat": "nature",
+  "title": "Skopje Rises From the Rubble",
+  "place": "Skopje, North Macedonia",
+  "lat": 42,
+  "lng": 21.43,
+  "text": "In the early morning of July 26, 1963, a massive earthquake struck Skopje. Over 1,000 people died, over 3,000 were seriously injured, and three-quarters of the city's people lost their homes. Within days 35 nations asked the UN General Assembly to take up relief, and in 1965 an institute for earthquake engineering and urban planning was founded in the city with UNESCO's help.",
+  "source": {
+   "name": "United Nations: Secretary-General's message on the fortieth anniversary of the Skopje Earthquake",
+   "url": "https://www.un.org/sg/en/content/former-secretary-general/statements/2003-07-26/secretary-generals-message-the-fortieth-anniversary-of-the-skopje-earthquake"
+  }
+ },
+ {
+  "id": "m17-timisoara-1989",
+  "era": "modern",
+  "year": 1989,
+  "dateLabel": "December 16–25, 1989",
+  "cat": "power",
+  "title": "Timișoara Sparks a Revolution",
+  "place": "Timișoara, Timiș County, Romania",
+  "lat": 45.75,
+  "lng": 21.23,
+  "text": "Romania's uprising against the dictator Nicolae Ceaușescu began with small protests in Timișoara on December 16, 1989. When he ordered security forces to fire on the crowds, the army was pushed to switch sides, and demonstrations spread to Bucharest. On December 22 the army joined the protesters, and on December 25 Ceaușescu and his wife were tried by a military tribunal and executed.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Romania – The revolution of 1989",
+   "url": "https://www.britannica.com/place/Romania/National-communism"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Timișoara",
+   "url": "https://www.britannica.com/place/Timisoara"
+  }
+ },
+ {
+  "id": "m17-mostar-old-bridge-rebuilt",
+  "era": "modern",
+  "year": 2004,
+  "dateLabel": "2004",
+  "cat": "culture",
+  "title": "The Bridge Keepers' Bridge Returns",
+  "place": "Mostar, Herzegovina-Neretva, Bosnia and Herzegovina",
+  "lat": 43.34,
+  "lng": 17.82,
+  "text": "Mostar takes its name from the mostari, the keepers of its bridge over the Neretva River. Its Old Bridge, built by the Ottoman architect Hajruddin after a design by his teacher Sinan, was destroyed with most of the old town in the 1990s conflict. Rebuilt in 2004 with help from a UNESCO-founded scientific committee, it now stands as a symbol of reconciliation.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Old Bridge Area of the Old City of Mostar",
+   "url": "https://whc.unesco.org/en/list/946"
+  }
+ }
+]

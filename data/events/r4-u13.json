@@ -1,0 +1,50 @@
+[
+ {
+  "id": "u13-ocepeia-skull",
+  "era": "deep",
+  "year": -59500000,
+  "dateLabel": "About 59 to 60 million years ago",
+  "cat": "discovery",
+  "title": "The Oldest Skull of Africa's Own Mammals",
+  "place": "Sidi Chennane quarries, Ouled Abdoun Basin, near Khouribga, Morocco",
+  "lat": 32.7,
+  "lng": -6.6,
+  "text": "Phosphate quarries in Morocco's Ouled Abdoun Basin gave up skulls of Ocepeia, an early relative of elephants, hyraxes and sea cows. They are the oldest skulls known from the afrotherians, the mammal group that arose in Africa. Ocepeia weighed about 3.5 kilograms, roughly a hyrax's size, and had big front molars. Before such finds, the group's early history came almost entirely from DNA studies.",
+  "source": {
+   "name": "PLOS ONE: Ocepeia (Middle Paleocene of Morocco): The Oldest Skull of an Afrotherian Mammal",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0089739"
+  }
+ },
+ {
+  "id": "u13-mleisa-elephant-herd",
+  "era": "deep",
+  "year": -7000000,
+  "dateLabel": "About 7 million years ago",
+  "cat": "nature",
+  "title": "An Elephant Herd Walks Across Arabia",
+  "place": "Mleisa, Al Dhafra region, Abu Dhabi, United Arab Emirates",
+  "lat": 23.5,
+  "lng": 53.7,
+  "text": "In the inland desert of Abu Dhabi, footprints show prehistoric elephants on the move about seven million years ago. About 13 animals of different sizes walked together as a herd, and a larger elephant walked alone for more than 260 metres, one of the longest fossil mammal trails known. Researchers read it as modern elephant life: mothers and young in herds, adult males wandering solo.",
+  "source": {
+   "name": "YaleNews: Desert footprints reveal ancient origins of elephants' social lives",
+   "url": "https://news.yale.edu/2012/02/21/desert-footprints-reveal-ancient-origins-elephants-social-lives"
+  }
+ },
+ {
+  "id": "u13-foulden-maar-midges",
+  "era": "deep",
+  "year": -23000000,
+  "dateLabel": "About 23 million years ago",
+  "cat": "nature",
+  "title": "Fly Pupae in a Volcanic Crater Lake",
+  "place": "Foulden Maar, near Middlemarch, Otago, New Zealand",
+  "lat": -45.53,
+  "lng": 170.22,
+  "text": "Foulden Maar was a small lake inside a volcanic crater in Otago, where pale layers of diatoms built up for at least 130,000 years. In them, scientists found 30 tiny fly pupae and larvae, many of them midges. One is a phantom midge very close to Chaoborus, a fly found almost worldwide today except in New Zealand, showing that some insects later vanished from the islands.",
+  "source": {
+   "name": "PeerJ: New records of immature aquatic Diptera from the Foulden Maar Fossil-Lagerstätte, New Zealand",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10903341/"
+  }
+ }
+]

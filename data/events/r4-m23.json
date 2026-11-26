@@ -1,0 +1,350 @@
+[
+ {
+  "id": "m23-chariots-at-kadesh",
+  "era": "ancient",
+  "year": -1275,
+  "dateLabel": "1275 BCE",
+  "cat": "power",
+  "title": "Chariots Clash at Kadesh",
+  "place": "Kadesh, on the Orontes River near Homs, Syria",
+  "lat": 34.56,
+  "lng": 36.52,
+  "text": "Beside the Orontes River, Pharaoh Ramses II marched on the Hittite-held city of Kadesh and was tricked by two fake deserters. King Muwatallis's Hittites struck with heavy three-horse chariots, and some 5,000 chariots joined one of history's largest chariot battles. Neither side truly won, yet both claimed victory, and the stalemate led to the first recorded peace treaty.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Battle of Kadesh",
+   "url": "https://www.britannica.com/event/Battle-of-Kadesh"
+  }
+ },
+ {
+  "id": "m23-marib-capital-of-sheba",
+  "era": "ancient",
+  "year": -950,
+  "dateLabel": "About 950 BCE (start of Saba's era)",
+  "cat": "daily",
+  "title": "Sheba's Oasis Capital",
+  "place": "Maʾrib, Yemen",
+  "lat": 15.43,
+  "lng": 45.33,
+  "text": "Maʾrib, capital of the kingdom of Saba (Sheba) from about 950 BCE, grew rich on a trading monopoly on frankincense and myrrh. Its great dam, about 580 metres long, had sluice gates and watered more than 9,600 hectares of farmland. When the dam finally failed, the 'flood of Arim' entered the Qurʾān and Islamic legend.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Maʾrib",
+   "url": "https://www.britannica.com/place/Marib"
+  }
+ },
+ {
+  "id": "m23-mesha-stone",
+  "era": "ancient",
+  "year": -850,
+  "dateLabel": "Mid-800s BCE",
+  "cat": "power",
+  "title": "A King Carves His Side of the Story",
+  "place": "Dibon (Dhiban), Jordan",
+  "lat": 31.5,
+  "lng": 35.78,
+  "text": "King Mesha of Moab set up a black basalt stela at Dibon, about 1.1 metres high. Its 34 lines tell how Israel's King Omri had conquered Moab, blaming the anger of the god Chemosh, and then boast of Mesha's own successful revolt. Found in 1868, it is the only long written document to survive from Moab and is now in the Louvre.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Moabite",
+   "url": "https://www.britannica.com/topic/Moabite"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Dibon",
+   "url": "https://www.britannica.com/place/Dibon"
+  }
+ },
+ {
+  "id": "m23-canal-of-meinua",
+  "era": "ancient",
+  "year": -800,
+  "dateLabel": "Reign of Meinua, c. 810–781 BCE",
+  "cat": "discovery",
+  "title": "A Canal Still Flowing After Urartu",
+  "place": "Van, Van Province, Turkey",
+  "lat": 38.5,
+  "lng": 43.38,
+  "text": "The kingdom of Urartu, whose capital Tushpa stood at modern Van, built its first known irrigation project under King Meinua. The 'Canal of Meinua' carried fresh water about 45 kilometres from a plentiful spring to the southern edge of Van, and it still does. Urartian kings borrowed script and styles from Assyria but produced their own answers to its achievements.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Urartu",
+   "url": "https://www.britannica.com/place/Urartu"
+  }
+ },
+ {
+  "id": "m23-battle-of-issus",
+  "era": "classical",
+  "year": -333,
+  "dateLabel": "333 BCE",
+  "cat": "power",
+  "title": "Darius Flees at Issus",
+  "place": "Plain of Issus, Gulf of İskenderun, Hatay, Turkey",
+  "lat": 36.84,
+  "lng": 36.2,
+  "text": "On a coastal plain by the Gulf of İskenderun, Alexander the Great led a charge across the Pinarus River and smashed the left wing of King Darius III's Persian army. Darius escaped, but his family was captured and his camp was sacked. The ancient writer Arrian claimed only 450 Macedonians died, and that Alexander himself was wounded.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Battle of Issus",
+   "url": "https://www.britannica.com/event/Battle-of-Issus-Persian-history"
+  }
+ },
+ {
+  "id": "m23-antioch-founded",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "300 BCE",
+  "cat": "daily",
+  "title": "Antioch, Where the Caravans Ended",
+  "place": "Antakya (Antioch), Hatay, Turkey",
+  "lat": 36.2,
+  "lng": 36.16,
+  "text": "Seleucus I Nicator, once a general of Alexander the Great, founded Antioch near the mouth of the Orontes River in 300 BCE. It soon became the western end of caravan routes carrying goods from Persia and Asia to the Mediterranean. Under Rome it grew into the empire's third largest city, and it was here that Jesus's followers were first called Christians.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Antioch",
+   "url": "https://www.britannica.com/place/Antioch-modern-and-ancient-city-south-central-Turkey"
+  }
+ },
+ {
+  "id": "m23-caesarea-harbour",
+  "era": "classical",
+  "year": -22,
+  "dateLabel": "22–10 BCE",
+  "cat": "discovery",
+  "title": "A Harbour Built in the Open Sea",
+  "place": "Caesarea, Haifa District, Israel",
+  "lat": 32.5,
+  "lng": 34.89,
+  "text": "Herod the Great rebuilt a Phoenician town called Straton's Tower and renamed it Caesarea after his patron, Emperor Augustus. Its artificial harbour was probably the first ever built entirely in open sea, shielded by two huge breakwaters of concrete blocks filled with rubble. An aqueduct brought spring water from almost 16 kilometres away, and the port linked Rome with Asian trade.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Caesarea",
+   "url": "https://www.britannica.com/place/Caesarea"
+  }
+ },
+ {
+  "id": "m23-hegra-tombs",
+  "era": "classical",
+  "year": 50,
+  "dateLabel": "1st century CE (heyday)",
+  "cat": "culture",
+  "title": "Nabataean Tombs in the Arabian Sands",
+  "place": "Hegra (al-Hijr / Madāʾin Ṣāliḥ), AlUla, Saudi Arabia",
+  "lat": 26.79,
+  "lng": 37.95,
+  "text": "South of Petra, the Nabataean city of Hegra flourished above all in the 1st century CE on a caravan route between Arabia, the Mediterranean and Asia. Its people carved 111 monumental tombs straight into sandstone, 94 with decorated facades. They also sank wells into the rock to farm the desert, and those wells are still in use.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Hegra Archaeological Site (al-Hijr / Madāʾin Ṣāliḥ)",
+   "url": "https://whc.unesco.org/en/list/1293/"
+  }
+ },
+ {
+  "id": "m23-garni-temple",
+  "era": "classical",
+  "year": 77,
+  "dateLabel": "77 CE",
+  "cat": "culture",
+  "title": "A Sun Temple on a Canyon Edge",
+  "place": "Garni, Kotayk Province, Armenia",
+  "lat": 40.11,
+  "lng": 44.73,
+  "text": "High above the Azat River canyon, King Tiridates I restored Garni after Roman forces destroyed it and built a temple there in 77 CE. A Greek inscription found in 1945 says he raised an 'impregnable fortress' for his sister, the queen, and names the stonecutter Menneas. The temple stands on a podium ringed by 24 basalt Ionic columns.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Tentative List, submitted by Armenia): The Archaeological Complex of Garni",
+   "url": "https://whc.unesco.org/en/tentativelists/6808/"
+  }
+ },
+ {
+  "id": "m23-palmyra-tax-law",
+  "era": "classical",
+  "year": 137,
+  "dateLabel": "137 CE",
+  "cat": "daily",
+  "title": "Palmyra Posts Its Tax Rates",
+  "place": "Palmyra (Tadmur), Homs Governorate, Syria",
+  "lat": 34.55,
+  "lng": 38.27,
+  "text": "In 137 CE the caravan city of Palmyra set up a stone slab in its agora listing taxes on goods brought into and out of town. Carved in both Greek and the local Palmyrene language, the rates differed for loads carried by camel, donkey or donkey cart. The stele is now in the State Hermitage Museum in St. Petersburg.",
+  "source": {
+   "name": "Getty Research Institute: The Legacy of Ancient Palmyra",
+   "url": "https://www.getty.edu/research/exhibitions_events/exhibitions/palmyra/ancient_palmyra.html"
+  }
+ },
+ {
+  "id": "m23-himyar-unites-yemen",
+  "era": "classical",
+  "year": 280,
+  "dateLabel": "Late 200s CE",
+  "cat": "power",
+  "title": "One King for All of Yemen",
+  "place": "Ẓafār, Ibb Governorate, Yemen",
+  "lat": 14.21,
+  "lng": 44.4,
+  "text": "Through the 2nd and 3rd centuries CE, Ḥimyarite rulers based at Ẓafār fought on and off with Sabaean kings. In the last decades of the 3rd century CE their king Shammar Yuharʿish ended the independence of Saba and Hadhramaut, uniting all of Yemen. He took the title 'King of Saba and the Raydān and Hadhramaut and Yamnat' and sent envoys to the Persian court at Ctesiphon.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of Arabia: Ḥimyarites",
+   "url": "https://www.britannica.com/place/history-of-Arabia-31558/Himyarites"
+  }
+ },
+ {
+  "id": "m23-theodosian-walls",
+  "era": "classical",
+  "year": 413,
+  "dateLabel": "413 CE",
+  "cat": "power",
+  "title": "The Walls That Guarded Constantinople",
+  "place": "Theodosian Land Walls, Istanbul, Turkey",
+  "lat": 41.02,
+  "lng": 28.92,
+  "text": "In 413 the regent Anthemius built a mighty wall across the land side of Constantinople, though it carries the name of young Emperor Theodosius II. An outer wall followed in 447, with a moat in front. The inner wall stands about 9 metres high and 5 metres thick, and the 7-kilometre defences were breached only once, by Ottoman cannon.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Theodosius II",
+   "url": "https://www.britannica.com/biography/Theodosius-II"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Istanbul",
+   "url": "https://www.britannica.com/place/Istanbul"
+  }
+ },
+ {
+  "id": "m23-hijrah-to-medina",
+  "era": "medieval",
+  "year": 622,
+  "dateLabel": "622 CE",
+  "cat": "journeys",
+  "title": "The Journey That Started a Calendar",
+  "place": "Medina (Yathrib), Saudi Arabia",
+  "lat": 24.47,
+  "lng": 39.61,
+  "text": "Escaping persecution in Mecca, the Prophet Muhammad accepted an invitation to Yathrib, later called Medina. There he agreed the Constitution of Medina with local clans, and the Muslim community became a political body for the first time. In 639 Caliph ʿUmar made this migration, the Hijrah, the starting point of the Islamic calendar.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Hijrah",
+   "url": "https://www.britannica.com/event/Hijrah-Islam"
+  }
+ },
+ {
+  "id": "m23-great-mosque-damascus",
+  "era": "medieval",
+  "year": 705,
+  "dateLabel": "705–715 CE",
+  "cat": "culture",
+  "title": "A Fifth Wonder for Damascus",
+  "place": "Great Mosque of Damascus, Damascus, Syria",
+  "lat": 33.51,
+  "lng": 36.31,
+  "text": "Caliph al-Walīd I built the earliest surviving stone mosque on a site sacred for thousands of years, from an Aramaean temple to a church of St. John the Baptist. He told Damascenes their climate, water, fruits and baths already beat the world, and this mosque made five. Over an acre of mosaics once showed a dreamlike paradise landscape.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Great Mosque of Damascus",
+   "url": "https://www.britannica.com/topic/Great-Mosque-of-Damascus"
+  }
+ },
+ {
+  "id": "m23-quseir-amra-zodiac",
+  "era": "medieval",
+  "year": 712,
+  "dateLabel": "Early 700s CE",
+  "cat": "culture",
+  "title": "A Desert Bathhouse Full of Paintings",
+  "place": "Quseir Amra, eastern desert, Jordan",
+  "lat": 31.8,
+  "lng": 36.59,
+  "text": "In the semi-arid land east of Amman, the Umayyad caliphs built a small pleasure palace with a reception hall and a bath complex. Its walls are covered in paintings of hunts, animals, birds and portraits, labelled in Greek and Arabic. On the dome of the hot room is one of the earliest surviving maps of the heavens painted on a dome.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Quseir Amra",
+   "url": "https://whc.unesco.org/en/list/327/"
+  }
+ },
+ {
+  "id": "m23-aghtamar-holy-cross",
+  "era": "medieval",
+  "year": 915,
+  "dateLabel": "915–921 CE",
+  "cat": "culture",
+  "title": "An Island Church Wrapped in Carvings",
+  "place": "Akdamar (Aghtamar) Island, Lake Van, Turkey",
+  "lat": 38.34,
+  "lng": 43.03,
+  "text": "On an island in Lake Van, the architect Manuel built the Armenian Church of the Holy Cross between 915 and 921. Its outer walls are richly carved with vines, animals, apostles, the Mother of God, Bible scenes and a portrait of its founder, King Gagik of the Artsruni family. Inside, frescoes show mostly New Testament scenes.",
+  "source": {
+   "name": "Den Store Danske (lex.dk): Achtamar",
+   "url": "https://lex.dk/Ahtamar"
+  }
+ },
+ {
+  "id": "m23-krak-des-chevaliers",
+  "era": "medieval",
+  "year": 1142,
+  "dateLabel": "1142",
+  "cat": "power",
+  "title": "The Knights' Greatest Castle",
+  "place": "Qalʿat al-Ḥiṣn, Homs Governorate, Syria",
+  "lat": 34.76,
+  "lng": 36.29,
+  "text": "In 1142 the Knights of St. John, or Hospitallers, took over a hilltop that had held an earlier Muslim stronghold and made it Krak des Chevaliers. Its two rings of towered walls, split by a wide moat, could hold a garrison of 2,000 men. They kept it until 1271, when the Mamlūk sultan Baybars I captured it.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Krak des Chevaliers",
+   "url": "https://www.britannica.com/topic/Krak-des-Chevaliers"
+  }
+ },
+ {
+  "id": "m23-horns-of-hattin",
+  "era": "medieval",
+  "year": 1187,
+  "dateLabel": "July 4, 1187",
+  "cat": "power",
+  "title": "Thirst at the Horns of Hattin",
+  "place": "Horns of Hattin, near Tiberias, Israel",
+  "lat": 32.8,
+  "lng": 35.45,
+  "text": "Marching across a hot, dry plain to relieve Tiberias, about 20,000 Crusaders ran out of water while Saladin's cavalry harassed them. After a night without water they were driven back against two hills, the Horns of Hattin, and crushed. Saladin spared King Guy of Jerusalem, and the very next day began his campaign to retake Jerusalem.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Battle of Ḥaṭṭīn",
+   "url": "https://www.britannica.com/event/Battle-of-Hattin"
+  }
+ },
+ {
+  "id": "m23-divrigi-hospital",
+  "era": "medieval",
+  "year": 1228,
+  "dateLabel": "1228–1229",
+  "cat": "culture",
+  "title": "Turan Melek's Hospital of Stone",
+  "place": "Divriği, Sivas Province, Turkey",
+  "lat": 39.37,
+  "lng": 38.12,
+  "text": "At Divriği, Emir Ahmet Shah founded a great mosque, while his wife Turan Melek founded the hospital joined to it, designed by the architect Hurrem Shah. Its rooms surround a domed atrium with an open oculus over a pool. The stone portals are carved so exuberantly, each in its own style, that UNESCO calls the ensemble a masterpiece of Islamic architecture.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Great Mosque and Hospital of Divriği",
+   "url": "https://whc.unesco.org/en/list/358/"
+  }
+ },
+ {
+  "id": "m23-ani-earthquake",
+  "era": "medieval",
+  "year": 1319,
+  "dateLabel": "1319",
+  "cat": "nature",
+  "title": "The Quake That Emptied Ani",
+  "place": "Ani, Kars Province, Turkey",
+  "lat": 40.51,
+  "lng": 43.57,
+  "text": "Ani, on a plateau above a ravine bordering Armenia, had been capital of the Armenian Bagratid kingdom and a crossroads for Silk Road caravans. Byzantine, Seljuk and Georgian rulers kept it busy, but the Mongol invasion, a devastating earthquake in 1319 and shifting trade routes began its decline. By the 18th century the city was nearly abandoned.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Archaeological Site of Ani",
+   "url": "https://whc.unesco.org/en/list/1518/"
+  }
+ },
+ {
+  "id": "m23-bursa-first-ottoman-capital",
+  "era": "medieval",
+  "year": 1320,
+  "dateLabel": "1320s",
+  "cat": "daily",
+  "title": "Building the First Ottoman Capital",
+  "place": "Bursa, Bursa Province, Turkey",
+  "lat": 40.18,
+  "lng": 29.06,
+  "text": "The Ottomans took Bursa in the 1320s and made it their first great capital. Sultans built complexes outside the old walls with a mosque, school, public bath and a kitchen for the poor, and neighbourhoods grew around them. The nearby village of Cumalıkızık belonged to Orhan Ghazi's complex and supplied its income.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Bursa",
+   "url": "https://www.britannica.com/place/Bursa-Turkey"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Bursa and Cumalıkızık",
+   "url": "https://whc.unesco.org/en/list/1452/"
+  }
+ }
+]

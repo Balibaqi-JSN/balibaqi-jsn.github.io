@@ -1,0 +1,366 @@
+[
+ {
+  "id": "x03-hedgepeth-mounds",
+  "era": "ancient",
+  "year": -2888,
+  "dateLabel": "c. 2888 BCE (give or take 100 years)",
+  "cat": "discovery",
+  "title": "The Hearth Under Hedgepeth Mound",
+  "place": "Hedgepeth Mounds, Lincoln Parish, Louisiana, USA",
+  "lat": 32.68,
+  "lng": -92.66,
+  "text": "Hedgepeth Mounds is a pair of earthen mounds in north-central Louisiana, tested by archaeologists in 1991. Charcoal from a hearth buried beneath Mound A was radiocarbon dated to about 2888 BCE, give or take a century. Together with soil and other evidence, that places the site in the Archaic period. Today the old ground surface lies under about a metre of river-laid silt.",
+  "source": {
+   "name": "American Antiquity (Cambridge Core): Hedgepeth Mounds, an Archaic Mound Complex in North-Central Louisiana",
+   "url": "https://www.cambridge.org/core/journals/american-antiquity/article/hedgepeth-mounds-an-archaic-mound-complex-in-northcentral-louisiana/60180C1B125D9C1BA84BA5CD80BDF64A"
+  }
+ },
+ {
+  "id": "x03-port-au-choix-cemetery",
+  "era": "ancient",
+  "year": -2400,
+  "dateLabel": "Burials began c. 4,400 years ago",
+  "cat": "culture",
+  "title": "A Killer Whale in the Grave",
+  "place": "Port au Choix, Newfoundland and Labrador, Canada",
+  "lat": 50.71,
+  "lng": -57.36,
+  "text": "In 1967 a bulldozer digging a basement at Port au Choix, Newfoundland, turned up human bones. Archaeologist James Tuck went on to excavate a Maritime Archaic cemetery, where burials began about 4,400 years ago. Bodies were sprinkled with red ochre, a symbol of life, and buried with bone harpoon heads, carvings of diving birds and a killer whale carved nearly 20 cm long.",
+  "source": {
+   "name": "Parks Canada, Port au Choix National Historic Site: Maritime Archaic Traditions",
+   "url": "https://parks.canada.ca/lhn-nhs/nl/portauchoix/culture/maritime"
+  },
+  "source2": {
+   "name": "Parks Canada, Port au Choix National Historic Site: Archeology history",
+   "url": "https://parks.canada.ca/lhn-nhs/nl/portauchoix/culture/arch"
+  }
+ },
+ {
+  "id": "x03-fig-island-shell-rings",
+  "era": "ancient",
+  "year": -2290,
+  "dateLabel": "c. 2290–1730 BCE (4240–3680 cal BP)",
+  "cat": "culture",
+  "title": "The Tallest Shell Ring",
+  "place": "Fig Island, near Edisto Island, South Carolina, USA",
+  "lat": 32.54,
+  "lng": -80.35,
+  "text": "On a marsh island near Edisto Island, South Carolina, Fig Island holds shell rings occupied between about 4240 and 3680 calibrated years before present. Ring A of Fig Island 1 rises 5 to 6 metres above the marsh, the tallest shell ring known in the Southeast, around a plaza only 20 to 30 metres across. Probing also revealed a shell walkway now hidden beneath the marsh.",
+  "source": {
+   "name": "South Carolina Department of Archives and History (report by R. Saunders, ed., Louisiana State University and NPS): The Fig Island Ring Complex (38CH42)",
+   "url": "https://scdah.sc.gov/sites/scdah/files/Documents/Historic%20Preservation%20(SHPO)/Research/FigIsland.pdf"
+  }
+ },
+ {
+  "id": "x03-st-catherines-shell-ring",
+  "era": "ancient",
+  "year": -2230,
+  "dateLabel": "c. 2230–2030 BCE",
+  "cat": "daily",
+  "title": "No Oysters in Summer",
+  "place": "St. Catherines Shell Ring, St. Catherines Island, Georgia, USA",
+  "lat": 31.63,
+  "lng": -81.17,
+  "text": "On St. Catherines Island off Georgia, people heaped oyster shells into a ring 70 metres across between about 2230 and 2030 BCE. Were they there all year? Scientists measured tiny parasitic snails gathered by accident along with the oysters. Their sizes showed harvesting ran from late fall to late spring, so these Archaic people may have chosen to skip summer oysters.",
+  "source": {
+   "name": "PLOS ONE (via Europe PMC): Seasonal oyster harvesting recorded in a Late Archaic period shell ring",
+   "url": "https://europepmc.org/article/PMC/PMC6867601"
+  }
+ },
+ {
+  "id": "x03-old-whaling-culture",
+  "era": "ancient",
+  "year": -1800,
+  "dateLabel": "Around 1800 BCE",
+  "cat": "daily",
+  "title": "Whalers With Two Kinds of House",
+  "place": "Cape Krusenstern National Monument, Alaska, USA",
+  "lat": 67.2,
+  "lng": -163.6,
+  "text": "Around 1800 BCE, people of the Old Whaling culture hunted whales along the coast of Cape Krusenstern in northwest Alaska. They built two different house styles, one for winter and one for summer, and their house pits can still be seen. Special harpoons and butchering tools turn up at the site, yet the animal remains show whales were not their main resource.",
+  "source": {
+   "name": "National Park Service, Cape Krusenstern National Monument: History and Culture",
+   "url": "https://www.nps.gov/cakr/learn/historyculture/index.htm"
+  },
+  "source2": {
+   "name": "National Park Service: Cape Krusenstern Archeological District",
+   "url": "https://www.nps.gov/places/cape-krusenstern-archeological-district.htm"
+  }
+ },
+ {
+  "id": "x03-jaketown-mounds",
+  "era": "ancient",
+  "year": -1400,
+  "dateLabel": "c. 1500–1350 BCE",
+  "cat": "journeys",
+  "title": "Jasper Beads at Jaketown",
+  "place": "Jaketown, near Belzoni, Humphreys County, Mississippi, USA",
+  "lat": 33.2,
+  "lng": -90.49,
+  "text": "At Jaketown in the Mississippi Delta, Late Archaic hunter-gatherers began Mound A and at least two other mounds sometime between about 1500 and 1350 BCE. Red jasper beads and hematite plummets found there show trade networks reaching the Appalachian Mountains and the Great Lakes. Later floods buried that landscape under about 10 feet of deposits, hiding parts of as many as 13 mounds.",
+  "source": {
+   "name": "Mississippi Department of Archives and History, Mississippi Mound Trail: Jaketown Mounds",
+   "url": "https://trails.mdah.ms.gov/jaketown"
+  }
+ },
+ {
+  "id": "x03-lawyers-cave-woman",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1000 BCE (c. 2,950 calibrated years before present)",
+  "cat": "discovery",
+  "title": "The Woman in Lawyer's Cave",
+  "place": "Lawyer's Cave, Blake Channel, near Wrangell, Alaska, USA",
+  "lat": 56.4,
+  "lng": -132.05,
+  "text": "A small arm bone from Lawyer's Cave, in Tlingit territory in Southeast Alaska, belonged to a woman radiocarbon dated to about 2,950 calibrated years before present. Working with the Wrangell Cooperative Association, scientists named her Tatóok yík yées sháawat and read her DNA. She ate almost nothing but seafood, and her genes link her closely to today's Indigenous peoples of the northern Northwest Coast.",
+  "source": {
+   "name": "iScience (via Europe PMC): A paleogenome from a Holocene individual supports genetic continuity in Southeast Alaska",
+   "url": "https://europepmc.org/article/PMC/PMC10149335"
+  }
+ },
+ {
+  "id": "x03-choris-pottery",
+  "era": "ancient",
+  "year": -750,
+  "dateLabel": "c. 750–250 BCE",
+  "cat": "discovery",
+  "title": "The First Pots on the Arctic Coast",
+  "place": "Cape Krusenstern, Northwest Arctic, Alaska, USA",
+  "lat": 67.12,
+  "lng": -163.75,
+  "text": "At Cape Krusenstern in northwest Alaska, the Choris tradition was practised between about 750 and 250 BCE. Its people left temporary camps on the coast and winter camps inland, and archaeologists think some groups began living on the coast for all or most of the year. This period saw a highly significant new technology arrive here: pottery vessels.",
+  "source": {
+   "name": "National Park Service: Cape Krusenstern Archeological District",
+   "url": "https://www.nps.gov/places/cape-krusenstern-archeological-district.htm"
+  }
+ },
+ {
+  "id": "x03-hoko-river-fishhooks",
+  "era": "ancient",
+  "year": -600,
+  "dateLabel": "About 2,600 years ago",
+  "cat": "daily",
+  "title": "Fishhooks Saved by River Mud",
+  "place": "Hoko River, Clallam County, Washington, USA",
+  "lat": 48.26,
+  "lng": -124.36,
+  "text": "Excavations at the mouth of the Hoko River in Washington yielded fishhooks and nets about 2,600 years old. A National Park Service study calls Hoko a particularly important Early Maritime site because normally perishable objects survived there, including simple chipped stone tools still set in split cedar handles. Net and weir fragments and bentwood fishhooks show how skilled these fishers were.",
+  "source": {
+   "name": "University of Washington Libraries, Makah Cultural and Research Center exhibit: Fishing",
+   "url": "https://content.lib.washington.edu/cmpweb/exhibits/makah/fishing.html"
+  }
+ },
+ {
+  "id": "x03-ohlone-shoreline-mound",
+  "era": "ancient",
+  "year": -550,
+  "dateLabel": "From c. 550 BCE (2,500 cal BP) onward",
+  "cat": "daily",
+  "title": "A Great Mound on the Bay Shore",
+  "place": "Near Newark and Union City, Alameda County, California, USA",
+  "lat": 37.56,
+  "lng": -122.05,
+  "text": "Near today's Newark and Union City, ancestral Ohlone people used a great earthen mound, 91 by 122 metres at its base and about 3 metres high, from about 2,500 to 180 calibrated years before present. It once stood on the shore of San Francisco Bay. With the Muwekma Ohlone Tribe, scientists studied bones from 154 burials and found the diet barely changed over time.",
+  "source": {
+   "name": "American Journal of Biological Anthropology (via Europe PMC): Late Holocene Paleodietary Patterns Among the Ancestral Ohlone",
+   "url": "https://europepmc.org/article/PMC/PMC12365867"
+  }
+ },
+ {
+  "id": "x03-marsh-pass-basketmaker-maize",
+  "era": "classical",
+  "year": -400,
+  "dateLabel": "By 400 BCE",
+  "cat": "daily",
+  "title": "Basketmakers Who Lived on Maize",
+  "place": "Marsh Pass, Navajo County, Arizona, USA",
+  "lat": 36.66,
+  "lng": -110.4,
+  "text": "Scientists measured carbon and nitrogen in the bones of many Basketmaker people buried at Marsh Pass and nearby parts of northeastern Arizona, and radiocarbon dated them. The results show these Basketmaker II people were heavily dependent on maize by 400 BCE, as much as later Pueblo farmers of the Four Corners. Maize farming seems to have arrived quickly, perhaps with migrants.",
+  "source": {
+   "name": "American Antiquity (Cambridge Core): The Stable- and Radio-Isotope Chemistry of Western Basketmaker Burials",
+   "url": "https://www.cambridge.org/core/journals/american-antiquity/article/abs/stable-and-radioisotope-chemistry-of-western-basketmaker-burials-implications-for-early-puebloan-diets-and-origins/B0011DC35673D632D3AA5FCD20CFD58B"
+  }
+ },
+ {
+  "id": "x03-grave-creek-mound",
+  "era": "classical",
+  "year": -250,
+  "dateLabel": "c. 250–150 BCE",
+  "cat": "culture",
+  "title": "57,000 Tons of Earth at Grave Creek",
+  "place": "Grave Creek Mound, Moundsville, West Virginia, USA",
+  "lat": 39.92,
+  "lng": -80.74,
+  "text": "Adena people raised Grave Creek Mound in stages from about 250 to 150 BCE, placing burials at different levels inside it. The work meant moving more than 57,000 tons of sand and earth, and a ditch about 40 feet wide and five feet deep once circled the mound. When local amateurs dug into it in 1838, they found two burial vaults.",
+  "source": {
+   "name": "West Virginia Department of Arts, Culture and History: Grave Creek Mound",
+   "url": "https://wvculture.org/explore/grave-creek-mound/"
+  }
+ },
+ {
+  "id": "x03-okvik-ivory-figure",
+  "era": "classical",
+  "year": -205,
+  "dateLabel": "c. 200 BCE–100 CE",
+  "cat": "culture",
+  "title": "Ivory People of the Bering Strait",
+  "place": "Bering Strait region, Alaska, USA",
+  "lat": 65.61,
+  "lng": -168.09,
+  "text": "In the Bering Strait region of Alaska, Okvik carvers shaped walrus ivory into small human figures. One at the Metropolitan Museum of Art, titled Transformational Figure, is just 7.6 centimetres tall and dated to about 200 BCE–100 CE. A related incised figure at Princeton, labelled Okvik/Old Bering Sea I, stands 16.6 centimetres tall and is dated 100–400 CE.",
+  "source": {
+   "name": "The Metropolitan Museum of Art: Transformational figure, Okvik (collection record)",
+   "url": "https://www.metmuseum.org/art/collection/search/751541"
+  },
+  "source2": {
+   "name": "Princeton University Art Museum: Human figure, Okvik/Old Bering Sea I",
+   "url": "https://artmuseum.princeton.edu/art/collections/objects/38193"
+  }
+ },
+ {
+  "id": "x03-mounds-state-park-great-mound",
+  "era": "classical",
+  "year": -160,
+  "dateLabel": "About 160 BCE",
+  "cat": "culture",
+  "title": "Indiana's Great Mound",
+  "place": "Mounds State Park, Anderson, Indiana, USA",
+  "lat": 40.1,
+  "lng": -85.62,
+  "text": "Near Anderson, Indiana, Adena-Hopewell people built 10 earthworks. The largest, the Great Mound, is believed to have been constructed around 160 BCE. Research suggests these mounds were gathering places for religious ceremonies, sited so that astronomical alignments could be viewed from them. Today the Great Mound is the focal point of Indiana's Mounds State Park.",
+  "source": {
+   "name": "Indiana Department of Natural Resources: Mounds State Park",
+   "url": "https://www.in.gov/dnr/state-parks/parks-lakes/mounds-state-park/"
+  }
+ },
+ {
+  "id": "x03-palmrose-plank-house",
+  "era": "classical",
+  "year": -80,
+  "dateLabel": "c. 160–1 BCE (start of the plank house)",
+  "cat": "daily",
+  "title": "An Early Plank House in Oregon",
+  "place": "Palmrose site, Seaside, Oregon, USA",
+  "lat": 45.99,
+  "lng": -123.92,
+  "text": "At Seaside on the northern Oregon Coast, the Palmrose site holds one of the earliest rectangular plank houses known on that coast. Smithsonian and amateur archaeologists dug there in the 1960s and 1970s. New radiocarbon dates on ancient deer-family bones suggest people lived in the plank house from sometime between 160 and 1 BCE until about 170 to 320 CE.",
+  "source": {
+   "name": "PLOS ONE (via Europe PMC): Reevaluating the antiquity of the Palmrose site, an early plank house on the northern Oregon Coast",
+   "url": "https://europepmc.org/article/PMC/PMC8370638"
+  }
+ },
+ {
+  "id": "x03-pecos-river-mural",
+  "era": "classical",
+  "year": -40,
+  "dateLabel": "c. 40 BCE–25 CE (dated 1990–1925 cal BP)",
+  "cat": "culture",
+  "title": "194 Painted Figures in a Texas Canyon",
+  "place": "Lower Pecos Canyonlands, Val Verde County, Texas, USA",
+  "lat": 29.78,
+  "lng": -101.24,
+  "text": "In the Lower Pecos Canyonlands of Texas, foragers painted vast murals in limestone rock shelters. One, at site 41VV1230, holds about 194 figures of people, animals and puzzling shapes, dated to 1990–1925 calibrated years before present. Its painters laid down black, then red, yellow and white, the same order used in a far older mural, part of some 4,000 years of continuity.",
+  "source": {
+   "name": "Science Advances (via Europe PMC): Mapping the chronology of an ancient cosmovision, 4000 years of continuity in Pecos River style mural painting",
+   "url": "https://europepmc.org/article/PMC/PMC12652245"
+  }
+ },
+ {
+  "id": "x03-old-stone-fort",
+  "era": "classical",
+  "year": 30,
+  "dateLabel": "About 30 CE (earliest dated wall)",
+  "cat": "culture",
+  "title": "A 'Fort' That Faced the Solstice",
+  "place": "Old Stone Fort, Manchester, Tennessee, USA",
+  "lat": 35.49,
+  "lng": -86.1,
+  "text": "Between the Big and Little Duck Rivers in Tennessee, ancient builders raised long walls, one stretch running more than 2,000 feet. Radiocarbon dates of about 30, 230 and 430 CE suggest the walls were built, repaired and changed over some 400 years. Despite the name, archaeologists rule out a fort: no one lived inside, and the entrance walls point at the summer solstice sunrise.",
+  "source": {
+   "name": "Tennessee Technological University, Duck River Manual: Old Stone Fort",
+   "url": "https://www2.tntech.edu/wrc/DuckRiverManual/History/Prehistory_(to_1769)/Old_Stone_Fort.htm"
+  }
+ },
+ {
+  "id": "x03-southeast-alaska-fish-traps",
+  "era": "classical",
+  "year": 75,
+  "dateLabel": "c. 300 BCE–450 CE (most dated traps)",
+  "cat": "daily",
+  "title": "Fences of Stakes on the Tide Flats",
+  "place": "Tide flats of Southeast Alaska, Tongass National Forest, USA",
+  "lat": 57.5,
+  "lng": -134.3,
+  "text": "Across Southeast Alaska, people drove sharpened saplings into tidal mud to build fish traps and weirs; as the tide ebbed, fish were trapped behind them. Some looked like picket fences, probably with boughs woven between the stakes. Of 369 known trap and weir sites, 108 have dated stakes, and most were built between about 2250 and 1500 calibrated years before present.",
+  "source": {
+   "name": "USDA Forest Service, Tongass Archaeology Notes: Ancient Fish Traps in Southeast Alaska (J. L. Smith, 2012)",
+   "url": "https://www.fs.usda.gov/media/223755"
+  }
+ },
+ {
+  "id": "x03-pharr-mounds",
+  "era": "classical",
+  "year": 150,
+  "dateLabel": "c. 1–200 CE",
+  "cat": "journeys",
+  "title": "Pharr's Eight Dome-Shaped Mounds",
+  "place": "Pharr Mounds, Natchez Trace Parkway, Mississippi, USA",
+  "lat": 34.37,
+  "lng": -88.46,
+  "text": "Pharr Mounds in northeast Mississippi is a group of eight dome-shaped mounds spread over about 90 acres. Excavators found burials and cremation basins under the mounds, plus a copper-covered wooden object, a greenstone pipe and a cache of flint blades, with traits suggesting a date of about 1–200 CE. Modern Chickasaw people consider the mounds sacred and return as pilgrims.",
+  "source": {
+   "name": "National Park Service: Pharr Mounds",
+   "url": "https://www.nps.gov/places/pharr-mounds.htm"
+  }
+ },
+ {
+  "id": "x03-marksville-mounds",
+  "era": "classical",
+  "year": 250,
+  "dateLabel": "c. 1–400 CE (Marksville period)",
+  "cat": "culture",
+  "title": "Marksville's Mounds and Dogs",
+  "place": "Marksville, Avoyelles Parish, Louisiana, USA",
+  "lat": 31.12,
+  "lng": -92.06,
+  "text": "At Marksville in Louisiana, an earthen embankment encloses a group of mounds, and the site gave its name to the Marksville culture of about 1–400 CE. Thirty-six people and two dogs were buried in the site's only burial mound, along with a few pots, a copper artifact and two plain platform pipes. Marksville potters were the first to add temper to their clay.",
+  "source": {
+   "name": "64 Parishes (Louisiana Endowment for the Humanities): Marksville Culture",
+   "url": "https://64parishes.org/entry/marksville-culture"
+  }
+ },
+ {
+  "id": "x03-somerset-island-dorset",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "c. 200–500 CE (Dorset occupation)",
+  "cat": "discovery",
+  "title": "Pond Mud Remembers the Dorset",
+  "place": "Somerset Island, Nunavut, Canada",
+  "lat": 73.0,
+  "lng": -93.5,
+  "text": "On Somerset Island in Arctic Canada, scientists took sediment cores from ponds beside abandoned camps. Chemical markers such as coprostanol, extra nitrogen and algae rose whenever people lived nearby. The cores revealed Dorset people there from about 200 to 500 CE, at sites where archaeologists had found no Dorset traces, and later Thule hunters who killed many caribou around 1185–1510 CE.",
+  "source": {
+   "name": "Proceedings of the Royal Society B (via Europe PMC): Sedimentary biomarkers and bone specimens reveal a history of prehistoric occupation on Somerset Island",
+   "url": "https://europepmc.org/article/PMC/PMC11335012"
+  }
+ },
+ {
+  "id": "x03-chaco-late-basketmaker",
+  "era": "classical",
+  "year": 400,
+  "dateLabel": "c. 400/500–700 CE (Late Basketmaker period begins)",
+  "cat": "daily",
+  "title": "Pithouse Villages of Chaco",
+  "place": "Chaco Culture National Historical Park, New Mexico, USA",
+  "lat": 36.04,
+  "lng": -107.93,
+  "text": "In Chaco Canyon, the Late Basketmaker period began about 400 or 500 CE, and some 200 sites from it are recorded in the park. Most are clusters of 1 to 20 semi-underground pithouses. In this period the bow and arrow replaced the spear-thrower and a ceramic tradition developed, and the type site, Shabik'eshchee Village, even has a great kiva.",
+  "source": {
+   "name": "National Park Service, Chaco Culture National Historical Park: Late Basketmaker Period",
+   "url": "https://www.nps.gov/chcu/learn/historyculture/late-basketmaker-period.htm"
+  }
+ }
+]

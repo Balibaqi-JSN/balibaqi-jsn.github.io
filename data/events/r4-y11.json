@@ -1,0 +1,370 @@
+[
+ {
+  "id": "y11-chaco-supernova-pictograph",
+  "era": "medieval",
+  "year": 1054,
+  "dateLabel": "July 1054",
+  "cat": "discovery",
+  "title": "A New Star Over Chaco",
+  "place": "Peñasco Blanco Trail, Chaco Canyon, New Mexico, USA",
+  "lat": 36.07,
+  "lng": -107.99,
+  "text": "Painted on a cliff overhang six meters up, near the great house of Peñasco Blanco, are a crescent moon, a star shape and a life-size hand print. The painting may record the supernova first seen on July 4, 1054, which Chinese astronomers also noted. Calculations show that on July 5, 1054 the moon was a waning crescent.",
+  "source": {
+   "name": "High Altitude Observatory (NCAR/UCAR): Supernova Pictograph",
+   "url": "https://www2.hao.ucar.edu/education/prehistoric-southwest/supernova-pictograph"
+  },
+  "source2": {
+   "name": "National Park Service, Chaco Culture: Petroglyphs & Pictographs",
+   "url": "https://www.nps.gov/chcu/learn/historyculture/petroglyphs-pictographs.htm"
+  }
+ },
+ {
+  "id": "y11-chimney-rock-moonrise",
+  "era": "medieval",
+  "year": 1076,
+  "dateLabel": "1076",
+  "cat": "culture",
+  "title": "Moonrise Between Two Spires",
+  "place": "Chimney Rock National Monument, Colorado, USA",
+  "lat": 37.19,
+  "lng": -107.31,
+  "text": "At Chimney Rock, an outlier community on the far northeastern border of the Chacoan world, stands a great house, and tree-ring dating shows building work in 1076 and again in 1093. Both years matched a major lunar standstill, when the moon rises at its northernmost point and appears between the twin sandstone chimneys. That happens only every 18.6 years.",
+  "source": {
+   "name": "Notre Dame Magazine (University of Notre Dame): Moonrise Over Chimney Rock",
+   "url": "https://magazine.nd.edu/news/1350"
+  }
+ },
+ {
+  "id": "y11-aztec-west-great-house",
+  "era": "medieval",
+  "year": 1110,
+  "dateLabel": "About 1110",
+  "cat": "culture",
+  "title": "The Great House Called Aztec",
+  "place": "Aztec Ruins National Monument, Aztec, New Mexico, USA",
+  "lat": 36.84,
+  "lng": -108.0,
+  "text": "Around 1110, Ancestral Pueblo builders began the biggest construction phase at Aztec West, raising multi-story rooms in its north and east wings. With about 400 rooms and 30 kivas, it is the largest known great house outside Chaco Canyon. Its long, straight back wall marks both the summer and winter solstices.",
+  "source": {
+   "name": "National Park Service, Aztec Ruins: Engineering in Aztec Ruins",
+   "url": "https://www.nps.gov/azru/learn/historyculture/engineering-in-aztec-ruins.htm"
+  }
+ },
+ {
+  "id": "y11-wupatki-pueblo",
+  "era": "medieval",
+  "year": 1182,
+  "dateLabel": "1182",
+  "cat": "daily",
+  "title": "Wupatki, Town on the Cinders",
+  "place": "Wupatki National Monument, near Flagstaff, Arizona, USA",
+  "lat": 35.52,
+  "lng": -111.37,
+  "text": "About a century after Sunset Crater erupted, people gathered here and slowly built a pueblo of about 100 rooms with a community room, a ballcourt and a natural blowhole. By 1182 perhaps 85 to 100 people lived at Wupatki, the largest building for at least fifty miles. Hopi clans still return, saying the place is remembered, not abandoned.",
+  "source": {
+   "name": "National Park Service: Wupatki Pueblo & Blowhole",
+   "url": "https://www.nps.gov/places/wupatki-pueblo-blowhole.htm"
+  }
+ },
+ {
+  "id": "y11-gardar-bishop",
+  "era": "medieval",
+  "year": 1124,
+  "dateLabel": "1124",
+  "cat": "culture",
+  "title": "A Bishop for Greenland",
+  "place": "Garðar (Igaliku), South Greenland",
+  "lat": 60.99,
+  "lng": -45.42,
+  "text": "Greenland's Norse farmers asked King Sigurd of Norway for a bishop of their own, and he chose a Norwegian priest named Arnaldur. The diocese was set up at Garðar in 1124. The bishop consecrated priests and collected church taxes, and Garðar grew into the largest farm in Greenland, with a cathedral, a big barn and storehouses.",
+  "source": {
+   "name": "Trap Greenland (Gads Forlag): The Norse",
+   "url": "https://trap.gl/en/historie/the-norse/"
+  }
+ },
+ {
+  "id": "y11-greenland-taxes-norway",
+  "era": "medieval",
+  "year": 1261,
+  "dateLabel": "1261",
+  "cat": "power",
+  "title": "Greenland Agrees to Pay Norway",
+  "place": "Eastern Settlement, South Greenland",
+  "lat": 60.9,
+  "lng": -45.8,
+  "text": "In 1261, sailors came home to Norway after four winters in Greenland with news: the Greenlanders had agreed to pay taxes and levies to the Norwegian king. They probably did so willingly, hoping the king would keep ships, trade and supplies coming. The king had little presence in Greenland and mostly cared about customs duties on Greenland ships arriving in Bergen.",
+  "source": {
+   "name": "Trap Greenland (Gads Forlag): The Norse",
+   "url": "https://trap.gl/en/historie/the-norse/"
+  }
+ },
+ {
+  "id": "y11-kingittorsuaq-runestone",
+  "era": "medieval",
+  "year": 1280,
+  "dateLabel": "About 1250–1300",
+  "cat": "journeys",
+  "title": "Runes in the Far North",
+  "place": "Kingittorsuaq Island, north of Upernavik, Greenland",
+  "lat": 72.97,
+  "lng": -56.22,
+  "text": "Three Norsemen, Erling Sigvatsøn, Bjarne Thordarsøn and Einride Oddsøn, carved runes on a small slate stone saying they built a cairn on the Saturday before Rogation Day. Found in 1824 by the hunter Pelimut, it shows that Greenland Norse sailed far north, likely hunting walrus for ivory, and sometimes had to spend the winter there.",
+  "source": {
+   "name": "National Museum of Denmark, Collections Online: Slate stone with runes from Kingittorsuaq, Upernavik",
+   "url": "https://samlinger.natmus.dk/dmr/asset/167952"
+  },
+  "source2": {
+   "name": "Science Advances (via PMC): Greenland Norse walrus exploitation deep into the Arctic",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11430631/"
+  }
+ },
+ {
+  "id": "y11-toltec-plum-bayou-mounds",
+  "era": "medieval",
+  "year": 750,
+  "dateLabel": "About 750",
+  "cat": "culture",
+  "title": "Mounds That Watch the Sun",
+  "place": "Toltec Mounds (Plum Bayou Mounds), near Scott, Arkansas, USA",
+  "lat": 34.65,
+  "lng": -92.06,
+  "text": "Beside an old channel of the Arkansas River, Plum Bayou people built flat-topped mounds around two plazas, with Mound S in use from about 750. From Mound A, the sun rose over Mound B on the summer solstice. Perhaps only 50 leaders lived here; farm families came several times a year for ceremonies and to renew family ties.",
+  "source": {
+   "name": "Arkansas Archeological Survey (Martha Ann Rolingson): Toltec Mounds Site & State Park",
+   "url": "https://archeology.uark.edu/wp-content/uploads/2020/11/Toltec-Flyer-Color-2020.pdf"
+  }
+ },
+ {
+  "id": "y11-white-house-canyon-de-chelly",
+  "era": "medieval",
+  "year": 1060,
+  "dateLabel": "1060",
+  "cat": "daily",
+  "title": "The White House in the Cliff",
+  "place": "Canyon de Chelly National Monument, Chinle, Arizona, USA",
+  "lat": 36.13,
+  "lng": -109.47,
+  "text": "Built against a sheer 500-foot sandstone cliff, the White House was lived in from 1060 to 1275 by ancient Puebloan people, ancestors of today's Pueblo and Hopi Indians. It is named for the white plaster coating the long back wall of its upper dwelling. Today the canyon still sustains a living community of Navajo people.",
+  "source": {
+   "name": "National Park Service: Arizona: Canyon de Chelly National Monument",
+   "url": "https://www.nps.gov/articles/dechelly.htm"
+  }
+ },
+ {
+  "id": "y11-chaco-chocolate",
+  "era": "medieval",
+  "year": 1125,
+  "dateLabel": "Between 1000 and 1125",
+  "cat": "discovery",
+  "title": "Chocolate in Chaco's Tall Jars",
+  "place": "Pueblo Bonito, Chaco Canyon, New Mexico, USA",
+  "lat": 36.06,
+  "lng": -107.96,
+  "text": "Pueblo Bonito is famous for tall, narrow cylinder jars, many found in its Room 28. When UNM ceramics expert Patricia Crown had sherds from them tested by W. Jeffrey Hurst, three held traces of theobromine, a sign of cacao or chocolate. The sherds date between 1000 and 1125, and the nearest possible source of cacao was Central Mexico.",
+  "source": {
+   "name": "National Park Service, Chaco Culture: Pre-Columbian Chocolate Discovered at Chaco",
+   "url": "https://www.nps.gov/chcu/learn/historyculture/pre-columbian-chocolate-discovered-at-chaco.htm"
+  }
+ },
+ {
+  "id": "y11-seattle-fault-earthquake",
+  "era": "medieval",
+  "year": 910,
+  "dateLabel": "About 900–930",
+  "cat": "nature",
+  "title": "The Day a Beach Rose 7 Meters",
+  "place": "Restoration Point, Bainbridge Island, Washington, USA",
+  "lat": 47.58,
+  "lng": -122.49,
+  "text": "Sometime around 900 to 930, a major earthquake struck the Seattle fault. Restoration Point on Bainbridge Island was lifted 7 meters (23 feet) out of Puget Sound in an instant, and tsunami deposits were left behind. Modeling of the raised shorelines suggests a magnitude of about 7.5, though the fault's exact shape is still uncertain.",
+  "source": {
+   "name": "U.S. Geological Survey: Restoration Point on Bainbridge Island in the greater Seattle area",
+   "url": "https://www.usgs.gov/media/images/restoration-point-bainbridge-island-greater-seattle-area"
+  },
+  "source2": {
+   "name": "U.S. Geological Survey: Rupture models for the A.D. 900-930 Seattle fault earthquake from uplifted shorelines",
+   "url": "https://www.usgs.gov/publications/rupture-models-ad-900-930-seattle-fault-earthquake-uplifted-shorelines"
+  }
+ },
+ {
+  "id": "y11-miller-site-palisade",
+  "era": "medieval",
+  "year": 1230,
+  "dateLabel": "1200s",
+  "cat": "power",
+  "title": "Six Longhouses Behind a Wall",
+  "place": "Miller site, Pickering, Ontario, Canada",
+  "lat": 43.84,
+  "lng": -79.09,
+  "text": "In the 1200s, ancestral Huron-Wendat families lived in a village of six longhouses in what is now Pickering, each 45 to 60 feet long. An irregular wooden palisade ringed the village, and the Royal Ontario Museum excavators who dug it in the 1950s found no sign of a gate. Fortified villages like this became more common as violent conflict increased.",
+  "source": {
+   "name": "Government of Ontario: Indigenous culture and history along the TransCanada Trail",
+   "url": "https://www.ontario.ca/page/indigenous-culture-and-history-along-transcanada-trail"
+  }
+ },
+ {
+  "id": "y11-dunsmore-corn-village",
+  "era": "medieval",
+  "year": 1460,
+  "dateLabel": "Mid- to late 1400s",
+  "cat": "daily",
+  "title": "Corn Grown by Wendat Women",
+  "place": "Dunsmore site, Sunnidale Park, Barrie, Ontario, Canada",
+  "lat": 44.39,
+  "lng": -79.71,
+  "text": "In the mid- to late 1400s, the Dunsmore site in Barrie was both a seasonal fishing camp and a farming village with sixteen houses. Women planted, tended and harvested the corn, which could make up as much as 60% of the Huron-Wendat diet. It was eaten in soup, roasted, baked into bread for long journeys, and traded for hides, fish, meat and tobacco.",
+  "source": {
+   "name": "Government of Ontario: Indigenous culture and history along the TransCanada Trail",
+   "url": "https://www.ontario.ca/page/indigenous-culture-and-history-along-transcanada-trail"
+  }
+ },
+ {
+  "id": "y11-dorset-port-au-choix",
+  "era": "medieval",
+  "year": 650,
+  "dateLabel": "About 1,300 years ago",
+  "cat": "daily",
+  "title": "The Seal Hunters of Phillip's Garden",
+  "place": "Phillip's Garden, Port au Choix, Newfoundland and Labrador, Canada",
+  "lat": 50.72,
+  "lng": -57.38,
+  "text": "For centuries the Dorset people, an Arctic culture, hunted harp seals at Port au Choix, leaving at least 50 house depressions, sled runners, soapstone pots and harpoon heads. They seem to have left about 1,300 years ago. A new Indigenous population or a warming climate that changed the sea ice and their access to seal herds may explain why.",
+  "source": {
+   "name": "Parks Canada, Port au Choix National Historic Site: Dorset Peoples",
+   "url": "https://parks.canada.ca/lhn-nhs/nl/portauchoix/culture/dorset"
+  }
+ },
+ {
+  "id": "y11-calusa-watercourts",
+  "era": "medieval",
+  "year": 1300,
+  "dateLabel": "Between 1300 and 1400",
+  "cat": "daily",
+  "title": "Calusa Fish Pens at Mound Key",
+  "place": "Mound Key, Estero Bay, Florida, USA",
+  "lat": 26.42,
+  "lng": -81.86,
+  "text": "The Calusa did not grow staple crops; fishing fed their society. Between 1300 and 1400, at the mouth of the Grand Canal on Mound Key, later their capital, they built two huge 'watercourts' on oyster shell, ringed by berms about 3 feet high. They likely trapped fish with the tide and held them, including leaping mullet, before cooking, smoking or drying.",
+  "source": {
+   "name": "Florida Museum, Randell Research Center (Bill Marquardt): Mystery of the Watercourts",
+   "url": "https://www.floridamuseum.ufl.edu/rrc/blog/mystery-of-the-watercourts/"
+  }
+ },
+ {
+  "id": "y11-emerald-mound",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "From about 1200",
+  "cat": "culture",
+  "title": "Emerald Mound Rises in Mississippi",
+  "place": "Emerald Mound, Natchez Trace Parkway, near Stanton, Mississippi, USA",
+  "lat": 31.64,
+  "lng": -91.25,
+  "text": "Mississippian builders began this flat-topped ceremonial mound around 1200, and it stayed in use until 1730. It is 35 feet high, covers eight acres, and measures 770 by 435 feet at its base; two smaller mounds on top bring it to about 60 feet. Only Monks Mound at Cahokia is a bigger Mississippian ceremonial mound in the United States.",
+  "source": {
+   "name": "National Park Service, Natchez Trace Parkway: Emerald Mound",
+   "url": "https://www.nps.gov/natr/learn/historyculture/emeraldmound.htm"
+  }
+ },
+ {
+  "id": "y11-spruce-tree-house",
+  "era": "medieval",
+  "year": 1211,
+  "dateLabel": "About 1211–1278",
+  "cat": "daily",
+  "title": "Spruce Tree House Takes Shape",
+  "place": "Spruce Tree House, Mesa Verde National Park, Colorado, USA",
+  "lat": 37.18,
+  "lng": -108.46,
+  "text": "Between about 1211 and 1278, ancestors of today's Pueblo peoples built Spruce Tree House in an alcove 216 feet wide and 89 feet deep. Its roughly 130 rooms and 8 kivas, or ceremonial chambers, were home to perhaps 60 to 80 people. It is the third largest cliff dwelling in the park, and about 90% of its walls, wood and plaster are original.",
+  "source": {
+   "name": "National Park Service, Mesa Verde: Spruce Tree House",
+   "url": "https://www.nps.gov/meve/learn/historyculture/cd_spruce_tree_house.htm"
+  }
+ },
+ {
+  "id": "y11-tuniit-last-dorset",
+  "era": "medieval",
+  "year": 1310,
+  "dateLabel": "Early 1300s",
+  "cat": "culture",
+  "title": "The Strong Tuniit",
+  "place": "Pikialasorsuaq (North Water) region, Northwest Greenland",
+  "lat": 76.8,
+  "lng": -69.5,
+  "text": "Inuit legends from Arctic Canada and Greenland tell of the Tuniit, big and strong people who spoke another language, lived in square, half-buried houses and used neither bow nor kayak. Archaeologists now link them to the Late Dorset culture. Inuit arrived by the North Water around 1150, and the latest Dorset date in the area is from the early 1300s, so the two peoples may have met.",
+  "source": {
+   "name": "Trap Greenland (Gads Forlag): The strong Tuniit people",
+   "url": "https://trap.gl/en/historie/the-strong-tuniit-people/"
+  }
+ },
+ {
+  "id": "y11-nuulliit-winter-houses",
+  "era": "medieval",
+  "year": 1320,
+  "dateLabel": "1300s",
+  "cat": "journeys",
+  "title": "Inuit Winter Houses at Nuulliit",
+  "place": "Nuulliit, Qaanaaq area, Northwest Greenland",
+  "lat": 77.3,
+  "lng": -70.0,
+  "text": "Inuit ancestors travelled over 4,000 miles in a few generations from St. Lawrence Island, hunting whales from big skin boats and travelling far by dog sled in winter. In the 1300s they built winter houses at Nuulliit, near Qaanaaq, partly dug into the ground with walls of stone, peat and sometimes whale bone. A ring of chainmail dug up there hints at meetings with the Norse.",
+  "source": {
+   "name": "Trap Greenland (Gads Forlag): The Inuit culture, precolonial period",
+   "url": "https://trap.gl/en/historie/the-inuit-culture-precolonial-period/"
+  }
+ },
+ {
+  "id": "y11-casa-grande-vah-ki",
+  "era": "medieval",
+  "year": 1350,
+  "dateLabel": "About 1350",
+  "cat": "culture",
+  "title": "Vah Ki, the Great House",
+  "place": "Casa Grande Ruins National Monument, Coolidge, Arizona, USA",
+  "lat": 32.99,
+  "lng": -111.53,
+  "text": "Around 1350, ancient Sonoran Desert people raised a four-story, 11-room building from about 3,000 tons of caliche soil. Sunlight passes through a small hole at sunset on the longest day, and twin openings catch the March and September sunrise. O'odham oral tradition calls such a place a Vah Ki, a water house, perhaps used to mark times to plant and harvest.",
+  "source": {
+   "name": "National Park Service, Casa Grande Ruins: The Casa Grande",
+   "url": "https://www.nps.gov/cagr/learn/kidsyouth/the-casa-grande.htm"
+  },
+  "source2": {
+   "name": "National Park Service, Casa Grande Ruins: Why Build the Casa Grande?",
+   "url": "https://www.nps.gov/cagr/wayside6.htm"
+  }
+ },
+ {
+  "id": "y11-montezuma-castle-sinagua",
+  "era": "medieval",
+  "year": 1425,
+  "dateLabel": "About 1425",
+  "cat": "journeys",
+  "title": "The Sinagua Leave Their Castle",
+  "place": "Montezuma Castle National Monument, Camp Verde, Arizona, USA",
+  "lat": 34.61,
+  "lng": -111.84,
+  "text": "First built in the early 1100s, the five-story, 20-room cliff dwelling now called Montezuma Castle was part of a larger Sinagua settlement, with irrigation canals near Montezuma Well begun before 1150. Around 1425, for reasons still unknown, the Sinagua left both places. When Europeans came in the late 1500s, Yavapai people were living around the castle and the well.",
+  "source": {
+   "name": "National Park Service: Arizona: Montezuma Castle National Monument",
+   "url": "https://www.nps.gov/articles/montezuma.htm"
+  }
+ },
+ {
+  "id": "y11-bridge-river-village",
+  "era": "medieval",
+  "year": 1020,
+  "dateLabel": "About 1,000 years ago",
+  "cat": "daily",
+  "title": "Bridge River's Pithouse Village",
+  "place": "Bridge River village (Xwísten), near Lillooet, British Columbia, Canada",
+  "lat": 50.79,
+  "lng": -121.92,
+  "text": "Near Lillooet, a village of pithouses founded about 1,800 years ago grew steadily until about 1,000 years ago, when it was temporarily abandoned. Its 80 housepits range from about 10 to nearly 20 meters across. Xwísten, the Bridge River Indian Band, studies the site with University of Montana archaeologists; the village was re-established in the last 400 years.",
+  "source": {
+   "name": "University of Montana, Department of Anthropology: The Bridge River Project",
+   "url": "https://www.umt.edu/bridge-river/"
+  }
+ }
+]

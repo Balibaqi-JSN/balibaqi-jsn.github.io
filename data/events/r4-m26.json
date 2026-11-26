@@ -1,0 +1,378 @@
+[
+ {
+  "id": "m26-green-river-dogs",
+  "era": "ancient",
+  "year": -2950,
+  "dateLabel": "About 5,000 years ago",
+  "cat": "daily",
+  "title": "Dogs of the Green River Shell Heaps",
+  "place": "Indian Knoll, Green River, Ohio County, Kentucky, USA",
+  "lat": 37.33,
+  "lng": -87.0,
+  "text": "Around 5,000 years ago, families along Kentucky's Green River gathered mussels and left deep shell heaps. Archaeologists found 182 dog burials at these sites, one of the largest samples anywhere in the Southeast and Midwest. Some dogs were laid beside men, women or children. Graves also held copper from the Great Lakes and shell from the Atlantic and Gulf coasts.",
+  "source": {
+   "name": "Kentucky Heritage Council: Green River Archaic (booklet, 2006)",
+   "url": "https://heritage.ky.gov/Documents/Green-River-Archaic.pdf"
+  }
+ },
+ {
+  "id": "m26-majorville-medicine-wheel",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 4,500 years ago",
+  "cat": "culture",
+  "title": "The Wheel of Stones at Majorville",
+  "place": "Majorville Cairn and Medicine Wheel, near Bassano, Alberta, Canada",
+  "lat": 50.62,
+  "lng": -112.43,
+  "text": "On a prairie hilltop west of the Bow River, a 9-metre cairn is joined to a 27-metre ring of cobbles by 28 stone spokes. People have used the site continuously for about 4,500 years, adding objects layer by layer, so the oldest lie at the centre. Iniskim, the buffalo-calling stones central to Blackfoot ceremonies, were found in the cairn, and offerings are still left today.",
+  "source": {
+   "name": "Canada's Historic Places: Majorville Cairn and Medicine Wheel",
+   "url": "https://historicplaces.ca/en/rep-reg/place-lieu.aspx?id=15835"
+  }
+ },
+ {
+  "id": "m26-independence-i-peary-land",
+  "era": "ancient",
+  "year": -2400,
+  "dateLabel": "About 2400 BCE (calibrated)",
+  "cat": "journeys",
+  "title": "First Arrivals in the Far North",
+  "place": "Midsommersøerne, Peary Land, Greenland",
+  "lat": 82.2,
+  "lng": -33.5,
+  "text": "Around 2400 BCE, the people archaeologists call Independence I reached Peary Land in northern Greenland, where muskox were the main land animal. They lived in tent rings with a solid mid-passage and a square hearth, room for four to six people. Sites often hold five or more dwellings, suggesting working groups of 20 to 30 people.",
+  "source": {
+   "name": "National Museum of Denmark: Prehistory of Greenland, Independence I",
+   "url": "https://natmus.dk/organisation/forskning-og-kulturarv/nyere-tid-og-verdens-kulturer/etnografisk-samling/arktisk-forskning/prehistory-of-greenland/independence-i"
+  }
+ },
+ {
+  "id": "m26-split-twig-figurines",
+  "era": "ancient",
+  "year": -1975,
+  "dateLabel": "About 4,000–2,000 years ago",
+  "cat": "culture",
+  "title": "Little Deer Folded from Willow",
+  "place": "Grand Canyon, Arizona, USA",
+  "lat": 36.1,
+  "lng": -112.1,
+  "text": "Between 4,000 and 2,000 years ago, hunters folded single split twigs, often willow, into deer and bighorn sheep and left them in remote Grand Canyon caves, usually under rock cairns. Some are pierced by a tiny stick like a spear. Because the caves are so hard to reach, they were not toys; their exact purpose is still a mystery.",
+  "source": {
+   "name": "National Park Service, Grand Canyon: Archaeological Resources",
+   "url": "https://www.nps.gov/grca/learn/historyculture/arch.htm"
+  }
+ },
+ {
+  "id": "m26-hidden-cave-cache",
+  "era": "ancient",
+  "year": -1775,
+  "dateLabel": "About 3,800 years ago",
+  "cat": "daily",
+  "title": "A Desert Cave Used as a Storeroom",
+  "place": "Hidden Cave, Grimes Point, near Fallon, Nevada, USA",
+  "lat": 39.4,
+  "lng": -118.66,
+  "text": "Waves of ancient Lake Lahontan carved Hidden Cave. Around 3,800 years ago, ancestors of the Toi-Ticutta, the Cattail-Eaters, now the Fallon Paiute-Shoshone Tribe, began using it. They did not live inside but dug pits and buried tools and supplies to collect later. Many artifacts were found unbroken and grouped together, which is why archaeologists call it a cache.",
+  "source": {
+   "name": "Churchill County Museum: About Hidden Cave",
+   "url": "https://www.ccmuseum.org/hidden-cave/"
+  },
+  "source2": {
+   "name": "Bureau of Land Management: Grimes Point Archaeological Area / Hidden Cave",
+   "url": "https://www.blm.gov/visit/grimes-point-hidden-cave-site"
+  }
+ },
+ {
+  "id": "m26-quadra-clam-gardens",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 3,500 years ago",
+  "cat": "daily",
+  "title": "Gardens for Clams",
+  "place": "Northern Quadra Island, British Columbia, Canada",
+  "lat": 50.25,
+  "lng": -125.2,
+  "text": "Indigenous people of the Northwest Coast built rock walls at the low-tide mark, with a flattened terrace of beach behind them, to farm clams. Dating of gardens on northern Quadra Island shows they were in use 3,500 years ago. Such beaches can be two to four times more productive than unwalled ones, and First Nations kept the walls up into the 20th century.",
+  "source": {
+   "name": "PLOS ONE: 3500 years of shellfish mariculture on the Northwest Coast of North America (Smith et al., 2019)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211194"
+  }
+ },
+ {
+  "id": "m26-taltheilei-caribou-hunters",
+  "era": "ancient",
+  "year": -600,
+  "dateLabel": "About 2,600–2,500 years ago",
+  "cat": "journeys",
+  "title": "Following the Beverly Caribou",
+  "place": "Barrenlands, Northwest Territories, Canada",
+  "lat": 62.5,
+  "lng": -106.0,
+  "text": "About 2,600 to 2,500 years ago, the earliest Taltheilei hunters appeared on the Barrenlands, living along the migration route of the Beverly caribou herd. They made ground stemmed lanceheads, knives and triangular scrapers. Much later, Taltheilei hunters borrowed the bow from neighbours, and archaeologists see them as ancestors of the Chipewyan.",
+  "source": {
+   "name": "Carleton University, Rangifer Central: Taltheilei (after B. C. Gordon, Archaeological Survey of Canada)",
+   "url": "https://carleton.ca/rangifercentral/barrenlands-prehistory/ancestral-cultures/taltheilei/"
+  }
+ },
+ {
+  "id": "m26-crystal-river-mounds",
+  "era": "classical",
+  "year": -450,
+  "dateLabel": "About 2,500 years ago (first settled)",
+  "cat": "journeys",
+  "title": "Pilgrims to Crystal River",
+  "place": "Crystal River Archaeological State Park, Florida, USA",
+  "lat": 28.91,
+  "lng": -82.64,
+  "text": "People settled at Crystal River on Florida's Gulf coast about 2,500 years ago, once the river and estuary could feed a large settled population. The six-mound site, with burial mounds, temple mounds, a plaza and a substantial midden, served as a ceremonial centre for 1,600 years. As many as 7,500 people may have travelled there each year to trade and bury their dead.",
+  "source": {
+   "name": "Florida State Parks: Crystal River Archaeological State Park",
+   "url": "https://www.floridastateparks.org/parks-and-trails/crystal-river-archaeological-state-park"
+  },
+  "source2": {
+   "name": "Florida State Parks: Crystal River Archaeological State Park, History",
+   "url": "https://www.floridastateparks.org/parks-and-trails/crystal-river-archaeological-state-park/history"
+  }
+ },
+ {
+  "id": "m26-marpole-midden",
+  "era": "classical",
+  "year": -400,
+  "dateLabel": "About 400 BCE (start of the Marpole phase)",
+  "cat": "daily",
+  "title": "The Great Shell Heap of Marpole",
+  "place": "Marpole Midden, Vancouver, British Columbia, Canada",
+  "lat": 49.2,
+  "lng": -123.13,
+  "text": "From about 400 BCE to 450 CE, people of the Fraser Delta piled up one of the largest pre-contact middens on Canada's Pacific coast, up to 4.6 metres deep. Mostly mollusc shells, it also held bone and stone tools, utensils and ornaments. The skill with wood and the sea seen here carried on in later Northwest Coast cultures such as the Musqueam.",
+  "source": {
+   "name": "Parks Canada Directory of Federal Heritage Designations: Marpole Midden National Historic Site",
+   "url": "https://www.pc.gc.ca/apps/DFHD/page_nhs_eng.aspx?id=81"
+  },
+  "source2": {
+   "name": "Canada's Historic Places: Marpole Midden National Historic Site of Canada",
+   "url": "https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=15609"
+  }
+ },
+ {
+  "id": "m26-old-bering-sea-ivory",
+  "era": "classical",
+  "year": -150,
+  "dateLabel": "2nd century BCE–1st century CE",
+  "cat": "culture",
+  "title": "Ivory Art of the Bering Sea",
+  "place": "St. Lawrence Island, Alaska, USA",
+  "lat": 63.4,
+  "lng": -170.3,
+  "text": "On St. Lawrence Island, Old Bering Sea hunters lived on walrus, seal and whale. They decorated their ivory harpoon heads and socket pieces with spirit images honouring the animals they hunted. They also carved human figures from walrus ivory, most often women; one at the Met is 21 centimetres tall. Some experts call them dolls, others ceremonial objects.",
+  "source": {
+   "name": "The Metropolitan Museum of Art: Female Figure, Old Bering Sea (2001.760)",
+   "url": "https://www.metmuseum.org/art/collection/search/318953"
+  }
+ },
+ {
+  "id": "m26-turkey-pen-maize",
+  "era": "classical",
+  "year": 120,
+  "dateLabel": "About 1,900 years ago",
+  "cat": "discovery",
+  "title": "Bushy Corn of Turkey Pen",
+  "place": "Turkey Pen Shelter, Cedar Mesa, Utah, USA",
+  "lat": 37.43,
+  "lng": -109.93,
+  "text": "At Turkey Pen Shelter, a Utah cave, a farming community raised turkeys, wove baskets and shoes, and got about 80 percent of its diet from maize. Genomes from fifteen 1,900-year-old cobs show plants that were shorter and bushier than modern corn and flowered faster, an adaptation to the short growing season of the highlands.",
+  "source": {
+   "name": "Nature (news, Heidi Ledford, 2017): Ancient genomes show how maize adapted to life at high altitudes",
+   "url": "https://www.nature.com/articles/nature.2017.22403"
+  }
+ },
+ {
+  "id": "m26-alta-vista-sun-calendar",
+  "era": "classical",
+  "year": 400,
+  "dateLabel": "About 400–450 CE (founded)",
+  "cat": "discovery",
+  "title": "A Sun Calendar Near the Tropic",
+  "place": "Alta Vista, Chalchihuites, Zacatecas, Mexico",
+  "lat": 23.46,
+  "lng": -103.88,
+  "text": "Founded around 400–450 by priests linked to Teotihuacan, Alta Vista became the chief ceremonial centre of the Chalchihuites culture, peaking between 700 and 900. Lined up with three mountain peaks and the Tropic of Cancer, it served as a calendar on the eastern horizon, tracking the Sun through the year to anticipate seasons for farming and to mark ritual dates.",
+  "source": {
+   "name": "INAH: Chalchihuites, un centro ceremonial para observar al Sol",
+   "url": "https://inah.gob.mx/foto-del-dia/chalchihuites-un-centro-ceremonial-para-observar-al-sol"
+  },
+  "source2": {
+   "name": "INAH: Alta Vista, un centro ceremonial solar en Zacatecas",
+   "url": "https://inah.gob.mx/foto-del-dia/alta-vista-un-centro-ceremonial-solar-en-zacatecas"
+  }
+ },
+ {
+  "id": "m26-chumash-bow",
+  "era": "classical",
+  "year": 500,
+  "dateLabel": "About AD 500",
+  "cat": "discovery",
+  "title": "The Bow Comes to the Chumash Coast",
+  "place": "Santa Barbara Channel, California, USA",
+  "lat": 34.42,
+  "lng": -119.7,
+  "text": "For thousands of years, Chumash hunters on the Santa Barbara coast threw darts with the atlatl. Around AD 500 the bow and arrow replaced it. In this era fishing and sea-mammal hunting grew more important, large permanent settlements rose along the coast, and the museum dates the tomol, a plank canoe, to about 2,000 years ago.",
+  "source": {
+   "name": "Santa Barbara Museum of Natural History: Chumash Life, Timeline",
+   "url": "https://sbnature.org/collections-research/anthropology/chumash-life/timeline"
+  }
+ },
+ {
+  "id": "m26-effigy-mounds-bears",
+  "era": "medieval",
+  "year": 550,
+  "dateLabel": "Late Woodland period, from about 1,400 years ago",
+  "cat": "culture",
+  "title": "Bears and Birds Made of Earth",
+  "place": "Effigy Mounds National Monument, near Harpers Ferry, Iowa, USA",
+  "lat": 43.09,
+  "lng": -91.18,
+  "text": "In the Late Woodland period, people along the Upper Mississippi began shaping earthen mounds into animals: birds, bears, deer, bison, turtles, panthers and water spirits. One cluster, the Marching Bear Group, holds 10 bear-shaped mounds. Archaeologists still debate whether they marked seasons or territories, while the tribes descended from the builders describe them as sacred places.",
+  "source": {
+   "name": "National Park Service, Effigy Mounds National Monument: Effigy Moundbuilders",
+   "url": "https://www.nps.gov/efmo/learn/historyculture/effigy-moundbuilders.htm"
+  },
+  "source2": {
+   "name": "National Park Service: The Bears of Effigy Mounds",
+   "url": "https://www.nps.gov/articles/effigymounds.htm"
+  }
+ },
+ {
+  "id": "m26-yukon-ice-patch-bows",
+  "era": "medieval",
+  "year": 700,
+  "dateLabel": "About 1,250 years ago (radiocarbon years)",
+  "cat": "discovery",
+  "title": "Arrows Frozen in Yukon Ice",
+  "place": "Alpine ice patches, southwest Yukon, Canada",
+  "lat": 60.5,
+  "lng": -135.3,
+  "text": "Melting ice patches in southwest Yukon have released about 146 well-preserved hunting tools of antler, bone, wood and stone, studied by archaeologists together with First Nation researchers. They show that hunters threw darts with spear-throwers from at least 8,360 years ago until about 1,250 years ago, when the bow and arrow abruptly took over.",
+  "source": {
+   "name": "Arctic (University of Calgary journal): Hare et al., Ethnographic and Archaeological Investigations of Alpine Ice Patches in Southwest Yukon",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/63563"
+  }
+ },
+ {
+  "id": "m26-white-river-ash",
+  "era": "medieval",
+  "year": 846,
+  "dateLabel": "AD 846–848",
+  "cat": "nature",
+  "title": "Ash Falls on the Yukon",
+  "place": "Southern Yukon, Canada",
+  "lat": 61.5,
+  "lng": -137.5,
+  "text": "A huge Alaskan eruption in AD 846–848 buried parts of Yukon and the Northwest Territories under 5 to 50 centimetres of volcanic ash. Many local ecosystems bounced back fast, but caribou and salmon, whose routes crossed the thick ash, were hit harder. Researchers think it pushed hunter-gatherer families to live with less affected relatives for up to a century.",
+  "source": {
+   "name": "Arctic (University of Calgary journal): Kristensen, Beaudoin and Ives on the White River Ash eastern lobe",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/70268"
+  }
+ },
+ {
+  "id": "m26-ontario-first-villages",
+  "era": "medieval",
+  "year": 900,
+  "dateLabel": "About AD 900–1000",
+  "cat": "daily",
+  "title": "Ontario's First Village Houses",
+  "place": "Southwestern Ontario, Canada",
+  "lat": 42.98,
+  "lng": -81.25,
+  "text": "Around 900 to 1000 AD, the first elliptical houses appeared in southwestern Ontario, forerunners of the Iroquoian longhouse, as people began a settled village life. Corn had gradually entered the diet, and by the end of the 12th century corn, beans, squash and sunflower grew at village sites, often built on hills near a small stream.",
+  "source": {
+   "name": "The Canadian Encyclopedia (Michel Gagné): Woodland Culture",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/woodland-culture"
+  }
+ },
+ {
+  "id": "m26-mimbres-bowls",
+  "era": "medieval",
+  "year": 1000,
+  "dateLabel": "AD 1000–1130 (Mimbres Classic period)",
+  "cat": "culture",
+  "title": "Mimbres Bowls with a Hole",
+  "place": "Mimbres River Valley, Grant County, New Mexico, USA",
+  "lat": 32.85,
+  "lng": -107.97,
+  "text": "Between AD 1000 and 1130, Mimbres artists painted bold bowls: about two-thirds with geometric patterns, a third with figures. People buried their dead under their homes with a bowl placed on the skull, its centre tapped out as a kill hole, perhaps to let a spirit rise. Around 1130 the bowls stopped being made.",
+  "source": {
+   "name": "Archaeology (Archaeological Institute of America): On the Trail of the Mimbres",
+   "url": "https://archaeology.org/?p=1401"
+  }
+ },
+ {
+  "id": "m26-ocmulgee-earth-lodge",
+  "era": "medieval",
+  "year": 1015,
+  "dateLabel": "1015 (carbon date of the lodge floor)",
+  "cat": "power",
+  "title": "Council Chamber Under the Earth",
+  "place": "Ocmulgee Mounds, Macon, Georgia, USA",
+  "lat": 32.84,
+  "lng": -83.6,
+  "text": "Mississippian people at Ocmulgee built a sod-covered earth lodge whose clay floor is carbon-dated to the year 1015. Seats ran around the edge of the room, with a smaller group under the figure of an eagle, so it was probably a meeting place. Crews rebuilt the walls and roof in the late 1930s, but visitors still step onto the original floor.",
+  "source": {
+   "name": "National Park Service: Ocmulgee Mounds Earth Lodge",
+   "url": "https://www.nps.gov/places/ocmulgee-mounds-earth-lodge.htm"
+  },
+  "source2": {
+   "name": "National Park Service: Georgia: Ocmulgee National Monument",
+   "url": "https://www.nps.gov/articles/ocmulgee.htm"
+  }
+ },
+ {
+  "id": "m26-baker-village",
+  "era": "medieval",
+  "year": 1220,
+  "dateLabel": "1220–1295 (occupation)",
+  "cat": "daily",
+  "title": "Baker, a Planned Fremont Village",
+  "place": "Baker Village, near Baker, Nevada, USA",
+  "lat": 39.01,
+  "lng": -114.13,
+  "text": "Baker Village, the westernmost known Fremont site, was lived in from about 1220 to 1295. Its more than 15 buildings followed a specific plan. Fremont people farmed corn, beans and squash with irrigation, stored food in adobe structures, made grey coiled pottery, and wore moccasins cut from the hock of a deer or sheep leg.",
+  "source": {
+   "name": "National Park Service, Great Basin National Park: Fremont Culture",
+   "url": "https://www.nps.gov/grba/learn/historyculture/fremont-culture.htm"
+  }
+ },
+ {
+  "id": "m26-crow-creek",
+  "era": "medieval",
+  "year": 1325,
+  "dateLabel": "About 1325",
+  "cat": "power",
+  "title": "The Crow Creek Village Attack",
+  "place": "Crow Creek Site, near Chamberlain, South Dakota, USA",
+  "lat": 43.96,
+  "lng": -99.33,
+  "text": "Around 1325, raiders attacked a fortified village in south-central South Dakota. At least 486 people, perhaps 60 percent of the villagers, were later laid in the ditch that ringed the village. Their bones show scalping, skull fractures and other wounds, and the scarcity of young women suggests the attackers took captives. It is grim evidence of warfare on the Plains.",
+  "source": {
+   "name": "University of Tennessee dissertation abstract: Willey, Prehistoric Warfare on the Great Plains (Crow Creek)",
+   "url": "https://trace.tennessee.edu/utk_graddiss/4035"
+  }
+ },
+ {
+  "id": "m26-cuarenta-casas",
+  "era": "medieval",
+  "year": 1400,
+  "dateLabel": "Abandoned around the 15th century",
+  "cat": "daily",
+  "title": "Cliff Houses of Cuarenta Casas",
+  "place": "Cuarenta Casas, Madera, Chihuahua, Mexico",
+  "lat": 29.65,
+  "lng": -108.32,
+  "text": "In caves of the Sierra Madre Occidental, families built multi-level rooms of adobe and rammed earth, linked by wooden staircases, with small doorways for defence. Part of the trade network of Paquimé, they handled turquoise, Gulf of California shells, copper and exotic feathers. Around the 15th century the site was abandoned, perhaps through climate change, conflict or shifting trade.",
+  "source": {
+   "name": "INAH Lugares: Sala Introductoria a la Zona Arqueológica de las Cuarenta Casas",
+   "url": "https://lugares.inah.gob.mx/en/node/4693"
+  }
+ }
+]

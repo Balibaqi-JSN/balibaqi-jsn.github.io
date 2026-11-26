@@ -1,0 +1,374 @@
+[
+ {
+  "id": "m34-talepakemalai-stilt-village",
+  "era": "ancient",
+  "year": -1350,
+  "dateLabel": "By about 1350 BCE",
+  "cat": "daily",
+  "title": "A Lapita Village on Stilts",
+  "place": "Talepakemalai, Eloaua Island, Mussau Islands, Papua New Guinea",
+  "lat": -1.6,
+  "lng": 149.72,
+  "text": "No later than 1350 BCE, Lapita people on Eloaua Island built houses on stilts over a shallow lagoon. The waterlogged mud kept many of their wooden posts and stakes from rotting. Archaeologists have recovered more than 44,000 pieces of pottery, nearly 95,000 animal remains and 1.43 tonnes of discarded shells from this village, which was probably lived in for 400 to 500 years.",
+  "source": {
+   "name": "Academia Sinica, Institute of History and Philology, Lapita database: Talepakemalai (ECA)",
+   "url": "https://lapita.ihp.sinica.edu.tw/info.php?id=7"
+  }
+ },
+ {
+  "id": "m34-bourewa-fiji-first-settlers",
+  "era": "ancient",
+  "year": -1100,
+  "dateLabel": "About 1100 BCE",
+  "cat": "journeys",
+  "title": "Fiji's First Village",
+  "place": "Bourewa, Rove Peninsula, Viti Levu, Fiji",
+  "lat": -18.22,
+  "lng": 177.63,
+  "text": "Fiji's earliest known settlement, Bourewa, was first lived in about 1100 BCE by Lapita voyagers. They built houses on stilt platforms along a sand barrier, with a coral reef on one side and a tidal inlet on the other. At first they lived mostly by gathering food from the sea. Gardens of taro and yam came about 300 years later.",
+  "source": {
+   "name": "Nunn, P. D. (2009), Geographical Research 47(3): Geographical influences on settlement-location choices by initial colonizers: a case study of the Fiji Islands",
+   "url": "https://research.usc.edu.au/esploro/outputs/journalArticle/Geographical-influences-on-settlement-location-choices-by/99448842602621"
+  }
+ },
+ {
+  "id": "m34-caution-bay-lapita-mainland",
+  "era": "ancient",
+  "year": -950,
+  "dateLabel": "About 2,900 years ago",
+  "cat": "discovery",
+  "title": "Lapita Reaches the Mainland",
+  "place": "Caution Bay, Central Province, Papua New Guinea",
+  "lat": -9.33,
+  "lng": 147.03,
+  "text": "About 2,900 years ago, Lapita seafarers settled at Caution Bay on the south coast of Papua New Guinea. The sites, reported in 2011, were the first known Lapita settlements on the New Guinea mainland. These marine specialists ate shellfish, fish and sea turtles, and left behind pottery, shell armbands, stone adzes and obsidian tools as they spread westward along the coast.",
+  "source": {
+   "name": "McNiven et al. (2011), Australian Archaeology 72: New direction in human colonisation of the Pacific: Lapita settlement of south coast New Guinea",
+   "url": "https://researchonline.jcu.edu.au/17433/"
+  }
+ },
+ {
+  "id": "m34-oposisi-yule-island-potters",
+  "era": "classical",
+  "year": -50,
+  "dateLabel": "About 2,000 years ago",
+  "cat": "daily",
+  "title": "Potters Come to Yule Island",
+  "place": "Oposisi, Yule Island, Central Province, Papua New Guinea",
+  "lat": -8.82,
+  "lng": 146.53,
+  "text": "About 2,000 years ago, pottery-making villagers appear to have spread along the Papuan south coast, and the village of Oposisi on Yule Island is key to understanding them. New radiocarbon dates confirm its story began around then. Diggers also found much more obsidian than expected, carried from Fergusson Island 600 km to the east, a sign of strong long-distance links.",
+  "source": {
+   "name": "Allen, Summerhayes, Mandui and Leavesley (2010), Journal of Pacific Archaeology 2(1): New Data from Oposisi: Implications for the Early Papuan Pottery Phase",
+   "url": "https://www.pacificarchaeology.org/index.php/journal/article/view/47"
+  }
+ },
+ {
+  "id": "m34-rabaul-caldera-eruption",
+  "era": "medieval",
+  "year": 683,
+  "dateLabel": "About 683 CE",
+  "cat": "nature",
+  "title": "The Blast That Made Rabaul Harbour",
+  "place": "Rabaul Caldera, East New Britain, Papua New Guinea",
+  "lat": -4.25,
+  "lng": 152.19,
+  "text": "Around 683 CE, a catastrophic eruption at Rabaul ranked 6 on the Volcanic Explosivity Index, with pyroclastic flows and a caldera explosion. The 8 by 14 km caldera is open to the east, where the sea floods in as Blanche Bay. This sheltered harbour later became home to Rabaul, the island's largest city until a major eruption in 1994.",
+  "source": {
+   "name": "Smithsonian Institution, Global Volcanism Program: Rabaul",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=252140"
+  }
+ },
+ {
+  "id": "m34-tikopia-tongan-glass",
+  "era": "medieval",
+  "year": 1185,
+  "dateLabel": "About 765 years before present (c. 1185)",
+  "cat": "journeys",
+  "title": "Tongan Glass Reaches Tikopia",
+  "place": "Tikopia, Temotu Province, Solomon Islands",
+  "lat": -12.3,
+  "lng": 168.83,
+  "text": "Archaeologists chemically traced volcanic glass dug up on Tikopia, a Polynesian Outlier island. Its first settlers kept sailing back to a Melanesian homeland, but long voyages later dwindled. Then, about 765 years before present, glass from Tonga began to arrive. Such imports were surprisingly rare, and the researchers suggest Tongans may have targeted Tikopia for political expansion.",
+  "source": {
+   "name": "McCoy et al. (2020), Quaternary Research 98: Obsidian and volcanic glass artifact evidence for long-distance voyaging to the Polynesian Outlier island of Tikopia",
+   "url": "https://www.cambridge.org/core/journals/quaternary-research/article/obsidian-and-volcanic-glass-artifact-evidence-for-longdistance-voyaging-to-the-polynesian-outlier-island-of-tikopia/AC03C1980EA60297CF18E84CAC32FA9D"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: History of the Solomon Islands",
+   "url": "https://www.britannica.com/place/Solomon-Islands/History"
+  }
+ },
+ {
+  "id": "m34-kuwae-eruption-legend",
+  "era": "medieval",
+  "year": 1452,
+  "dateLabel": "About 1452 (debated)",
+  "cat": "nature",
+  "title": "Kuwae: Legend of a Lost Island",
+  "place": "Kuwae caldera, between Epi and Tongoa, Shefa, Vanuatu",
+  "lat": -16.83,
+  "lng": 168.54,
+  "text": "Between Epi and Tongoa islands lies Kuwae, a mostly underwater caldera 6 by 12 km wide. Local legends of a great eruption, plus radiocarbon dates from pumice flows, have been linked to a peak in ice cores dated to 1452 CE. Other scientists think the deposits came from smaller eruptions, and that the ice spike came from another, unknown South Pacific volcano.",
+  "source": {
+   "name": "Smithsonian Institution, Global Volcanism Program: Kuwae",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=257070"
+  }
+ },
+ {
+  "id": "m34-mendana-islands-of-solomon",
+  "era": "exploration",
+  "year": 1568,
+  "dateLabel": "1568",
+  "cat": "journeys",
+  "title": "Naming the Islands of Solomon",
+  "place": "Solomon Islands",
+  "lat": -9.43,
+  "lng": 160.03,
+  "text": "In 1568 the Spanish explorer Álvaro de Mendaña, who had sailed from Peru, became the first European to reach these islands. False rumours spread that he had found gold, and even the place where the biblical King Solomon got gold for his temple, so they were called the Islas de Solomón. Later Spanish voyages in 1595 and 1606 could not find them again.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of the Solomon Islands",
+   "url": "https://www.britannica.com/place/Solomon-Islands/History"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Álvaro de Mendaña de Neira",
+   "url": "https://www.britannica.com/biography/Alvaro-de-Mendana-de-Neira"
+  }
+ },
+ {
+  "id": "m34-long-island-time-of-darkness",
+  "era": "exploration",
+  "year": 1660,
+  "dateLabel": "About 1660",
+  "cat": "nature",
+  "title": "The Time of Darkness",
+  "place": "Long Island, Madang Province, Papua New Guinea",
+  "lat": -5.36,
+  "lng": 147.12,
+  "text": "Around 1660, Long Island exploded in a catastrophic eruption, rated 6 on the Volcanic Explosivity Index. Ash fell across the New Guinea Highlands, inspiring legends of a 'Time of Darkness'. Part of the volcano collapsed, and today its huge caldera is filled by Lake Wisdom, with a small newer cone, Motmot Island, rising from the water.",
+  "source": {
+   "name": "Smithsonian Institution, Global Volcanism Program: Long Island",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=251050"
+  }
+ },
+ {
+  "id": "m34-cook-names-new-caledonia",
+  "era": "exploration",
+  "year": 1774,
+  "dateLabel": "1774",
+  "cat": "journeys",
+  "title": "Cook Lands at Balade",
+  "place": "Balade, Province Nord, New Caledonia",
+  "lat": -20.28,
+  "lng": 164.4,
+  "text": "Melanesian people had lived on this island since about 3000 BCE when, in 1774, the British navigator James Cook landed at Balade on its east coast. He named it New Caledonia after his father's native Scotland. Regular contact with Europeans only began in 1841, when sandalwood traders from Australia introduced islanders to iron.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of New Caledonia",
+   "url": "https://www.britannica.com/place/New-Caledonia-French-unique-collectivity-Pacific-Ocean/History"
+  }
+ },
+ {
+  "id": "m34-la-perouse-vanikoro",
+  "era": "exploration",
+  "year": 1788,
+  "dateLabel": "About 1788",
+  "cat": "journeys",
+  "title": "The Vanishing of La Pérouse",
+  "place": "Vanikoro, Santa Cruz Islands, Temotu, Solomon Islands",
+  "lat": -11.65,
+  "lng": 166.92,
+  "text": "After leaving Botany Bay in March 1788, the French explorer La Pérouse and his ships La Boussole and Astrolabe simply vanished. Nothing more was known until 1826–27, when Peter Dillon found evidence that the ships had been near Vanikoro. In 1828 Dumont d'Urville saw wreckage there and heard from islanders that about 30 men from the ships had been killed on shore, while other well-armed sailors escaped.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Jean-François de Galaup, comte de La Pérouse",
+   "url": "https://www.britannica.com/biography/Jean-Francois-de-Galaup-comte-de-La-Perouse"
+  }
+ },
+ {
+  "id": "m34-cakobau-becomes-christian",
+  "era": "industrial",
+  "year": 1854,
+  "dateLabel": "1854",
+  "cat": "culture",
+  "title": "The Chief of Bau Converts",
+  "place": "Bau Island, Tailevu, Fiji",
+  "lat": -18.0,
+  "lng": 178.62,
+  "text": "Bau is a tiny island off Viti Levu, yet its rulers grew mighty in the 1800s, helped by trade wealth and muskets. By the 1850s Bau dominated western Fiji under Cakobau, whose great rival was the Tongan chief Maʻafu. In 1854 Cakobau became a Christian, bringing most Fijians under the influence of Methodist missionaries.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of Fiji",
+   "url": "https://www.britannica.com/place/Fiji-republic-Pacific-Ocean/History"
+  }
+ },
+ {
+  "id": "m34-kanak-uprising-1878",
+  "era": "industrial",
+  "year": 1878,
+  "dateLabel": "1878–79",
+  "cat": "power",
+  "title": "The Kanak Uprising of 1878",
+  "place": "West coast from Bouloupari to Poya, New Caledonia",
+  "lat": -21.5,
+  "lng": 165.6,
+  "text": "In 1878 Kanak people rose up along New Caledonia's west coast, from Bouloupari to Poya, angry at land seizures and settlers' cattle feeding in their gardens. The revolt seriously threatened French rule, but the French crushed it by destroying villages and crops. Louise Michel, a deported Paris revolutionary who had befriended the Kanaks, supported the uprising.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of New Caledonia",
+   "url": "https://www.britannica.com/place/New-Caledonia-French-unique-collectivity-Pacific-Ocean/History"
+  },
+  "source2": {
+   "name": "Encyclopedia of Modern Europe (Gale), via Encyclopedia.com: Michel, Louise (Susan K. Foley)",
+   "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/michel-louise"
+  }
+ },
+ {
+  "id": "m34-leonidas-girmit-fiji",
+  "era": "industrial",
+  "year": 1879,
+  "dateLabel": "May 14, 1879",
+  "cat": "journeys",
+  "title": "The Leonidas Reaches Levuka",
+  "place": "Levuka, Ovalau, Fiji",
+  "lat": -17.68,
+  "lng": 178.84,
+  "text": "On 14 May 1879 the ship Leonidas reached Levuka with the first indentured labourers from India, after a harrowing 72-day voyage from Calcutta. Cholera and smallpox broke out on board, and 17 of the 498 men, women and children died before arriving. About 60,000 Indians would follow. 'Girmit' comes from the 'agreement' they signed.",
+  "source": {
+   "name": "Lowy Institute, The Interpreter (Lisa Singh, Australia India Institute, University of Melbourne): Two dates, one wound: what Girmit Day means for Fiji's future",
+   "url": "https://www.lowyinstitute.org/the-interpreter/two-dates-one-wound-what-girmit-day-means-fiji-s-future"
+  }
+ },
+ {
+  "id": "m34-new-hebrides-condominium",
+  "era": "industrial",
+  "year": 1906,
+  "dateLabel": "1906",
+  "cat": "power",
+  "title": "Two Empires, One Government",
+  "place": "Port Vila, Efate, Vanuatu",
+  "lat": -17.74,
+  "lng": 168.32,
+  "text": "In 1906 Britain and France agreed to rule the New Hebrides, now Vanuatu, together as an Anglo-French condominium. British and French resident commissioners in Port-Vila each kept charge of their own citizens while jointly ruling the islanders. For most ni-Vanuatu, though, little changed: missionaries and planters remained the Europeans they actually dealt with.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of Vanuatu",
+   "url": "https://www.britannica.com/place/Vanuatu/History"
+  }
+ },
+ {
+  "id": "m34-malinowski-trobriands",
+  "era": "modern",
+  "year": 1915,
+  "dateLabel": "1915–16",
+  "cat": "discovery",
+  "title": "An Anthropologist in a Tent",
+  "place": "Kiriwina, Trobriand Islands, Milne Bay, Papua New Guinea",
+  "lat": -8.55,
+  "lng": 151.07,
+  "text": "In 1915 the Polish-born scholar Bronisław Malinowski began two long stays in the Trobriand Islands. He lived in a tent among the people, learned to speak their language fluently and wrote down what he saw as it happened. His Trobriand studies of exchange, farming, family life, magic and myth helped found modern social anthropology.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Bronisław Malinowski (Raymond William Firth)",
+   "url": "https://www.britannica.com/biography/Bronislaw-Malinowski"
+  }
+ },
+ {
+  "id": "m34-basiana-kwaio-malaita",
+  "era": "modern",
+  "year": 1927,
+  "dateLabel": "1927",
+  "cat": "power",
+  "title": "Basiana and the Kwaio Revolt",
+  "place": "Kwaio, east Malaita, Solomon Islands",
+  "lat": -9.0,
+  "lng": 161.05,
+  "text": "In 1927, Kwaio men on Malaita killed government tax collectors, led by a man named Basiana. Colonial authorities struck back with a savage punitive expedition, backed by an Australian warship, that burned and looted villages and killed many Kwaio. Basiana and some of his companions were hanged, and his young sons were forced to watch.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of the Solomon Islands",
+   "url": "https://www.britannica.com/place/Solomon-Islands/History"
+  }
+ },
+ {
+  "id": "m34-wahgi-valley-first-contact",
+  "era": "modern",
+  "year": 1933,
+  "dateLabel": "February 15, 1933",
+  "cat": "journeys",
+  "title": "A Hidden Valley Full of People",
+  "place": "Wahgi Valley, Western Highlands, Papua New Guinea",
+  "lat": -5.86,
+  "lng": 144.6,
+  "text": "In the early 1930s, outsiders met nearly a million Highlanders previously unknown to Europeans. On 15 February 1933, gold-seeking explorers Mick and Danny Leahy looked down on the crowded Wahgi Valley from Mount Erimbari. Mick's photographs and films of these meetings, some of them violent, became the 1983 documentary First Contact.",
+  "source": {
+   "name": "Australian Dictionary of Biography (ANU): Leahy, Michael James (Mick)",
+   "url": "https://adb.anu.edu.au/biography/leahy-michael-james-mick-7134"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Papua New Guinea, The colonial period",
+   "url": "https://www.britannica.com/place/Papua-New-Guinea/The-colonial-period"
+  }
+ },
+ {
+  "id": "m34-pt109-coconut-message",
+  "era": "modern",
+  "year": 1943,
+  "dateLabel": "August 1943",
+  "cat": "power",
+  "title": "A Message Carved on a Coconut",
+  "place": "Blackett Strait, Western Province, Solomon Islands",
+  "lat": -8.08,
+  "lng": 156.9,
+  "text": "In August 1943 a Japanese destroyer rammed the US patrol boat PT-109, commanded by John F. Kennedy, in Blackett Strait. Two Solomon Islander scouts, Biuku Gasa and Eroni Kumana, found the stranded crew, and Gasa showed Kennedy how to scratch a message into a green coconut husk: '11 alive ... need small boat'. Rescue boats later met Kennedy at a prearranged spot.",
+  "source": {
+   "name": "Australian War Memorial: Coastwatcher Arthur Reginald Evans and the rescue of John F. Kennedy and PT-109",
+   "url": "https://www.awm.gov.au/articles/blog/coastwatcher-arthur-reginald-evans-and-the-rescue-of-john-f-kennedy-and-pt-109"
+  }
+ },
+ {
+  "id": "m34-vanuatu-independence",
+  "era": "modern",
+  "year": 1980,
+  "dateLabel": "July 30, 1980",
+  "cat": "power",
+  "title": "The New Hebrides Become Vanuatu",
+  "place": "Port Vila, Efate, Vanuatu",
+  "lat": -17.73,
+  "lng": 168.31,
+  "text": "On 30 July 1980 the New Hebrides became the independent Republic of Vanuatu, ending Anglo-French rule. Just before, Jimmy Stevens of the Na-Griamel Party had tried and failed to make Espiritu Santo a separate country. Father Walter Lini of the Vanua'aku Pati, meaning 'Our Land Party', became the first prime minister.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of Vanuatu",
+   "url": "https://www.britannica.com/place/Vanuatu/History"
+  }
+ },
+ {
+  "id": "m34-new-caledonia-referendum-2018",
+  "era": "modern",
+  "year": 2018,
+  "dateLabel": "November 4, 2018",
+  "cat": "power",
+  "title": "New Caledonia Votes on Its Future",
+  "place": "Nouméa, New Caledonia",
+  "lat": -22.27,
+  "lng": 166.45,
+  "text": "On 4 November 2018 New Caledonians voted on independence from France, the first of up to three referendums promised by the 1998 Nouméa Accord. About 56 percent chose to stay with France. The margin was much narrower than expected, raising the hopes of independence supporters, and a second vote in 2020 was closer still, at about 53 percent.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of New Caledonia",
+   "url": "https://www.britannica.com/place/New-Caledonia-French-unique-collectivity-Pacific-Ocean/History"
+  }
+ },
+ {
+  "id": "m34-bougainville-referendum",
+  "era": "modern",
+  "year": 2019,
+  "dateLabel": "November–December 2019",
+  "cat": "power",
+  "title": "Bougainville Votes to Leave",
+  "place": "Bougainville, Papua New Guinea",
+  "lat": -6.23,
+  "lng": 155.57,
+  "text": "In late 2019, after three weeks of voting with 85 percent turnout, 97.7 percent of Bougainville's voters chose independence from Papua New Guinea. The vote was promised after peace ended a 1988–1997 conflict, centred on the Panguna gold and copper mine, in which about 20,000 people died. The result was non-binding: Papua New Guinea's parliament has the final say.",
+  "source": {
+   "name": "The Conversation (Anna Powles, Massey University): Bougainville has voted to become a new country, but the journey to independence is not yet over",
+   "url": "https://theconversation.com/bougainville-has-voted-to-become-a-new-country-but-the-journey-to-independence-is-not-yet-over-128236"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Papua New Guinea, Attempts at secession",
+   "url": "https://www.britannica.com/place/Papua-New-Guinea/Attempts-at-secession"
+  }
+ }
+]

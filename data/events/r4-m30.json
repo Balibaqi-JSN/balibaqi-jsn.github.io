@@ -1,0 +1,302 @@
+[
+ {
+  "id": "m30-hudson-set-adrift",
+  "era": "exploration",
+  "year": 1611,
+  "dateLabel": "June 1611",
+  "cat": "power",
+  "title": "Hudson Set Adrift in James Bay",
+  "place": "James Bay, Canada",
+  "lat": 51.6,
+  "lng": -79.6,
+  "text": "Henry Hudson's ship Discovery spent the winter of 1610–11 at the southern end of James Bay, probably in Rupert Bay. In June 1611 the crew mutinied. Hudson, his son John and seven companions were set adrift in a small boat and never seen again. He never found a passage to Asia, but Hudson Strait and Hudson Bay still carry his name.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Henry Hudson (Douglas Hunter)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/henry-hudson"
+  }
+ },
+ {
+  "id": "m30-munk-churchill-winter",
+  "era": "exploration",
+  "year": 1619,
+  "dateLabel": "Winter 1619–1620",
+  "cat": "journeys",
+  "title": "A Danish Winter at Churchill",
+  "place": "Churchill River estuary, Manitoba, Canada",
+  "lat": 58.77,
+  "lng": -94.2,
+  "text": "In 1619 King Christian IV of Denmark and Norway sent Jens Munk with two ships, the Unicorn and the Lamprey, and about 60 men to find a Northwest Passage. Frozen in at the mouth of the Churchill River, the crew was struck by cold and scurvy. Only Munk and two sailors survived, sailing home in July 1620. Munk's memoirs, published in 1624, inspired later voyages.",
+  "source": {
+   "name": "Royal Museums Greenwich: Jens Munk North-West Passage expedition 1619–20",
+   "url": "https://www.rmg.co.uk/stories/maritime-history/jens-munk-north-west-passage-expedition-1619-20"
+  },
+  "source2": {
+   "name": "Manitoba Heritage Council: Commemorative plaque, Jens Munk",
+   "url": "https://gov.mb.ca/chc/hrb/plaques/plaq0590.html"
+  }
+ },
+ {
+  "id": "m30-kelsey-prairies",
+  "era": "exploration",
+  "year": 1690,
+  "dateLabel": "1690–1692",
+  "cat": "daily",
+  "title": "Henry Kelsey Sees the Prairies",
+  "place": "Near The Pas, Manitoba, Canada",
+  "lat": 53.83,
+  "lng": -101.25,
+  "text": "In 1690 the Hudson's Bay Company sent Henry Kelsey inland from York Fort to invite distant peoples to come and trade furs. Travelling by canoe and on foot with Cree traders, he spent two years crossing parkland and prairie, becoming the first European to see the Prairies. Fluent in Cree and Assiniboine, he was described as never happier than when travelling among Indigenous people.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Henry Kelsey (Robert Coutts)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/henry-kelsey"
+  }
+ },
+ {
+  "id": "m30-matonabbee-coppermine",
+  "era": "exploration",
+  "year": 1771,
+  "dateLabel": "July 1771",
+  "cat": "journeys",
+  "title": "Matonabbee Leads the Way North",
+  "place": "Bloody Falls, Coppermine River, near Kugluktuk, Nunavut, Canada",
+  "lat": 67.74,
+  "lng": -115.37,
+  "text": "Samuel Hearne is famous for walking to the Arctic Ocean, but the Dene leader Matonabbee made it possible. His party, with Hearne the only European, left in December 1770 and reached the Coppermine River in July 1771. There, Dene men caught up in a violent conflict with the Inuit killed about 20 sleeping Inuit, an event remembered as the Bloody Falls Massacre.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Samuel Hearne (James H. Marsh, Daniel Panneton)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/samuel-hearne"
+  },
+  "source2": {
+   "name": "The Canadian Encyclopedia: Matonabbee (David Lee)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/matonabbee"
+  }
+ },
+ {
+  "id": "m30-mackenzie-by-land",
+  "era": "exploration",
+  "year": 1793,
+  "dateLabel": "July 22, 1793",
+  "cat": "journeys",
+  "title": "From Canada, by Land",
+  "place": "Dean Channel, near Bella Coola, British Columbia, Canada",
+  "lat": 52.37,
+  "lng": -127.47,
+  "text": "On 22 July 1793, fur trader Alexander Mackenzie of the North West Company reached the Pacific at Dean Channel after crossing the continent with Indigenous guides. Using grease and vermilion, he painted a message on a rock: 'Alexander Mackenzie, from Canada, by land, the twenty-second of July, one thousand seven hundred and ninety-three.' In 1789 he had travelled with Dene leader Aw-gee-nah to the Arctic Ocean instead.",
+  "source": {
+   "name": "Parks Canada: First Crossing of North America National Historic Site",
+   "url": "https://pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=1549"
+  },
+  "source2": {
+   "name": "Parks Canada: Sir Alexander Mackenzie (c. 1762-1820)",
+   "url": "https://www.canada.ca/en/parks-canada/news/2016/02/sir-alexander-mackenzie-c-1762-1820-.html"
+  }
+ },
+ {
+  "id": "m30-sitka-sapling-fort",
+  "era": "industrial",
+  "year": 1804,
+  "dateLabel": "October 1804",
+  "cat": "power",
+  "title": "The Tlingit Sapling Fort",
+  "place": "Indian River, Sitka, Alaska, USA",
+  "lat": 57.05,
+  "lng": -135.32,
+  "text": "After defeating the Russians in 1802, the Kiks.ádi Tlingit built Shís'gi Noow, the 'Sapling Fort', near Indian River. On 1 October 1804 Russian forces landed in front of it, backed by the sloop Neva, and their leader Baranov was shot in the chest. When the Tlingit reserve gunpowder exploded in a canoe, the clans left on what is now called the Survival March.",
+  "source": {
+   "name": "National Park Service, Sitka NHP: The Battle of 1804",
+   "url": "https://www.nps.gov/sitk/learn/historyculture/battle1804.htm"
+  }
+ },
+ {
+  "id": "m30-treaty-6-fort-carlton",
+  "era": "industrial",
+  "year": 1876,
+  "dateLabel": "August 23, 1876",
+  "cat": "power",
+  "title": "Not a Piece of Pemmican",
+  "place": "Fort Carlton, Saskatchewan, Canada",
+  "lat": 52.87,
+  "lng": -106.53,
+  "text": "Treaty 6 talks at Fort Carlton opened with a sacred Cree pipe ceremony. When the Crown's Alexander Morris spoke of reserves, Pitikwahanapiwiyin (Poundmaker) objected that the land was theirs, not a piece of pemmican to be cut up and handed back. Chiefs Mistawasis and Ahtahkakoop, seeing the bison hunt ending, chose to negotiate, and the treaty was signed on 23 August 1876.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Treaty 6 (Michelle Filice)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/treaty-6"
+  }
+ },
+ {
+  "id": "m30-nansen-crosses-greenland",
+  "era": "industrial",
+  "year": 1888,
+  "dateLabel": "August 15 – September 26, 1888",
+  "cat": "journeys",
+  "title": "Skiing Across Greenland's Ice",
+  "place": "Umivik, east coast of Greenland",
+  "lat": 64.25,
+  "lng": -40.75,
+  "text": "On 15 August 1888, Fridtjof Nansen and five companions, including Sámi travellers Samuel Balto and Ole Ravna, left their boats upturned at Umivik and set off across Greenland's ice. On 26 September they reached the sea at Ameralik fjord, completing the first crossing of Greenland. They missed the last ship home and wintered at Godthaab, which Nansen admitted was not very disagreeable.",
+  "source": {
+   "name": "Royal Scottish Geographical Society: Fridtjof Nansen, the first crossing of Greenland (Jo Woolf)",
+   "url": "https://www.rsgs.org/Blog/fridtjof-nansen-the-first-crossing-of-greenland"
+  },
+  "source2": {
+   "name": "The Canadian Encyclopedia: Roald Amundsen (Carolyn Harris)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/roald-amundsen"
+  }
+ },
+ {
+  "id": "m30-palm-sunday-avalanche",
+  "era": "industrial",
+  "year": 1898,
+  "dateLabel": "April 3, 1898",
+  "cat": "nature",
+  "title": "Avalanche on the Chilkoot Trail",
+  "place": "Between Sheep Camp and the Scales, Chilkoot Trail, Alaska, USA",
+  "lat": 59.65,
+  "lng": -135.25,
+  "text": "Heavy snow and warm winds made the Chilkoot slopes unstable in spring 1898. Alaska Natives refused to pack goods above Sheep Camp, but some Klondike stampeders ignored the warnings. On 3 April an avalanche buried the trail, probably killing over 65 people, the deadliest event of the gold rush. Many victims lie in the Slide Cemetery near Dyea.",
+  "source": {
+   "name": "National Park Service: The Palm Sunday Avalanche",
+   "url": "https://home.nps.gov/articles/palm-sunday-avalanche.htm"
+  }
+ },
+ {
+  "id": "m30-gjoa-haven-amundsen",
+  "era": "industrial",
+  "year": 1903,
+  "dateLabel": "1903–1906",
+  "cat": "discovery",
+  "title": "Lessons from the Inuit at Gjoa Haven",
+  "place": "Gjoa Haven, King William Island, Nunavut, Canada",
+  "lat": 68.63,
+  "lng": -95.88,
+  "text": "Roald Amundsen's ship Gjøa slipped out of Oslo in a storm in June 1903 to escape creditors. During two winters at what is now Gjoa Haven, he measured the North Magnetic Pole and studied Inuit dress, sled dogs and survival skills, writing that he would never meet better people. In August 1906 the Gjøa reached Nome, the first ship through the Northwest Passage.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Roald Amundsen (Carolyn Harris)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/roald-amundsen"
+  }
+ },
+ {
+  "id": "m30-novarupta-eruption",
+  "era": "industrial",
+  "year": 1912,
+  "dateLabel": "June 6, 1912",
+  "cat": "nature",
+  "title": "The Century's Biggest Eruption",
+  "place": "Novarupta, Katmai National Park, Alaska, USA",
+  "lat": 58.27,
+  "lng": -155.16,
+  "text": "On 6 June 1912 a brand-new volcano, Novarupta, exploded in the largest eruption of the 20th century. In Kodiak, a foot of ash smothered the town and the darkness was so complete that a lantern at arm's length could scarcely be seen. In 1916 botanist Robert Griggs found a valley full of tens of thousands of steaming vents and named it the Valley of Ten Thousand Smokes.",
+  "source": {
+   "name": "National Park Service: The Great Eruption of 1912",
+   "url": "https://www.nps.gov/articles/aps-v11-i1-c2.htm"
+  },
+  "source2": {
+   "name": "National Park Service, Katmai: Valley of Ten Thousand Smokes",
+   "url": "https://www.nps.gov/katm/learn/nature/valley-of-ten-thousand-smokes.htm"
+  }
+ },
+ {
+  "id": "m30-serum-run-nome",
+  "era": "modern",
+  "year": 1925,
+  "dateLabel": "Winter 1925",
+  "cat": "daily",
+  "title": "Sled Dogs Race Diphtheria",
+  "place": "Nome, Alaska, USA",
+  "lat": 64.5,
+  "lng": -165.41,
+  "text": "In 1925 diphtheria swept through icebound Nome, and without antitoxin doctors feared nearly everyone infected could die. Relays of dog teams carried serum 674 miles from Nenana through gales, whiteouts and temperatures of -85 degrees, delivering it in 127.5 hours without a single broken vial. Togo, aged 12, led his team over 261 miles, the longest and most dangerous leg; Balto ran 55.",
+  "source": {
+   "name": "National Park Service: Togo",
+   "url": "https://www.nps.gov/people/togo.htm"
+  },
+  "source2": {
+   "name": "Alaska State Archives: Serum Run of 1925",
+   "url": "https://archives.alaska.gov/education/serum.html"
+  }
+ },
+ {
+  "id": "m30-high-arctic-relocation",
+  "era": "modern",
+  "year": 1953,
+  "dateLabel": "July–September 1953",
+  "cat": "power",
+  "title": "Exiled to the High Arctic",
+  "place": "Craig Harbour and Grise Fiord, Ellesmere Island, Nunavut, Canada",
+  "lat": 76.42,
+  "lng": -82.9,
+  "text": "In July 1953, seven Inuit families from Inukjuak in northern Quebec boarded the ship CD Howe, promised plentiful wildlife and a chance to return after two years. Joined by families from Pond Inlet, they were split up and left at Craig Harbour and Resolute Bay, about 2,000 km from home. Canada apologized in 2010 for the hardship and its broken promise.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Inuit High Arctic Relocations in Canada (Samia Madwar)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/inuit-high-arctic-relocations"
+  },
+  "source2": {
+   "name": "Crown-Indigenous Relations and Northern Affairs Canada: Apology for the Inuit High Arctic relocation",
+   "url": "https://www.rcaanc-cirnac.gc.ca/eng/1100100016115/1534786491628"
+  }
+ },
+ {
+  "id": "m30-cape-dorset-prints",
+  "era": "modern",
+  "year": 1957,
+  "dateLabel": "1957",
+  "cat": "culture",
+  "title": "Printmaking Comes to Cape Dorset",
+  "place": "Kinngait (Cape Dorset), Baffin Island, Nunavut, Canada",
+  "lat": 64.23,
+  "lng": -76.54,
+  "text": "In 1957 printmaking was introduced at Cape Dorset, with artist James Houston as the spark. He later studied with Japanese printmaker Un'ichi Hiratsuka and brought Japanese papers and methods back north. Inuit artists drew at home and sold drawings to their co-operative, where others turned them into prints of Arctic animals, legends and spirits, first issued in editions of 30.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Inuit Printmaking (Bente Roed, Sandra Buhai Barz)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/inuit-printmaking"
+  }
+ },
+ {
+  "id": "m30-exxon-valdez",
+  "era": "modern",
+  "year": 1989,
+  "dateLabel": "March 24, 1989",
+  "cat": "nature",
+  "title": "Oil on Prince William Sound",
+  "place": "Bligh Reef, Prince William Sound, Alaska, USA",
+  "lat": 60.84,
+  "lng": -146.88,
+  "text": "On 24 March 1989 the fully loaded tanker Exxon Valdez ran aground on Bligh Reef. Nearly 11 million gallons of oil spilled into the sensitive habitats of Prince William Sound, at the time the largest single oil spill in American history. In August 1990 the Oil Pollution Act strengthened the federal government's power to prevent and respond to disastrous spills.",
+  "source": {
+   "name": "NOAA National Ocean Service: Oil Spills, Exxon Valdez",
+   "url": "https://oceanservice.noaa.gov/education/tutorial-coastal/oil-spills/os02.html"
+  }
+ },
+ {
+  "id": "m30-greenland-self-government",
+  "era": "modern",
+  "year": 2009,
+  "dateLabel": "June 21, 2009",
+  "cat": "power",
+  "title": "Greenlanders Recognized as a People",
+  "place": "Nuuk, Greenland",
+  "lat": 64.18,
+  "lng": -51.72,
+  "text": "On 21 June 2009 the Self-Government Act came into force, replacing the Home Rule arrangement Greenland had had since 1979. It recognizes the people of Greenland as a people with the right to self-determination under international law and makes Greenlandic the official language. If Greenlanders choose independence, negotiations with Denmark must begin, and any agreement needs a referendum.",
+  "source": {
+   "name": "Prime Minister's Office of Denmark: Greenland",
+   "url": "https://english.stm.dk/the-prime-ministers-office/the-unity-of-the-realm/greenland/"
+  }
+ },
+ {
+  "id": "m30-erebus-found",
+  "era": "modern",
+  "year": 2014,
+  "dateLabel": "September 2, 2014",
+  "cat": "discovery",
+  "title": "Franklin's Erebus Found at Last",
+  "place": "Wilmot and Crampton Bay, Nunavut, Canada",
+  "lat": 68.24,
+  "lng": -98.88,
+  "text": "On 1 September 2014, Government of Nunavut archaeologists checking an Inuit tent ring on a small island spotted a rusted piece of metal shaped like a bicycle fork. It was a davit pintle matching the plans of HMS Erebus. The next day the wreck itself was found. Since 2008 the search had drawn on Inuit knowledge, past and present.",
+  "source": {
+   "name": "Parks Canada: Finding HMS Erebus",
+   "url": "https://parks.canada.ca/lhn-nhs/nu/epaveswrecks/culture/archeologie-archeology/decouvertes-discoveries/erebus"
+  }
+ }
+]

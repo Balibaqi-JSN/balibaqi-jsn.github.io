@@ -1,0 +1,402 @@
+[
+ {
+  "id": "u09-khoratpithecus-myanmar",
+  "era": "deep",
+  "year": -10000000,
+  "dateLabel": "About 10 million years ago",
+  "cat": "discovery",
+  "title": "An Orangutan Cousin by the Ayeyarwady",
+  "place": "Irrawaddy Formation, south of Magway, Magway Region, Myanmar",
+  "lat": 20.05,
+  "lng": 94.95,
+  "text": "Around ten million years ago, a great ape lived in a humid evergreen forest on a floodplain in what is now central Myanmar. Its lower jaw, found by a villager near Magway, was named Khoratpithecus ayeyarwadyensis. Like today's orangutans, the jaw lacks the mark of one particular chin muscle, a quirk otherwise known only in orangutans and a Thai cousin. Its canine root hints it was male.",
+  "source": {
+   "name": "Proceedings of the Royal Society B (PMC): First hominoid from the Late Miocene of the Irrawaddy Formation (Myanmar)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3080362/"
+  }
+ },
+ {
+  "id": "u09-brunei-fossil-rainforest",
+  "era": "deep",
+  "year": -4500000,
+  "dateLabel": "About 4 to 5 million years ago",
+  "cat": "nature",
+  "title": "Brunei's Rainforest Giants Go Way Back",
+  "place": "Berakas Beach, Brunei-Muara, Brunei",
+  "lat": 4.99,
+  "lng": 114.93,
+  "text": "Four to five million years ago, Brunei's coast was lined with fern swamps and mangroves near lowland rainforest. Fossil leaves pressed into clay at Berakas Beach and Kampong Lugu show that dipterocarps, the giant trees that rule Borneo's forests today, were already the most common trees. Oddly, their pollen makes up under one percent of the same rocks, so only the leaves revealed their reign.",
+  "source": {
+   "name": "PeerJ (PMC): First fossil-leaf floras from Brunei Darussalam show dipterocarp dominance in Borneo by the Pliocene",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8958975/"
+  }
+ },
+ {
+  "id": "u09-bolaven-impact",
+  "era": "early",
+  "year": -789000,
+  "dateLabel": "About 789,000 years ago",
+  "cat": "nature",
+  "title": "The Space Rock Hidden Under Lava",
+  "place": "Bolaven Plateau, Champasak Province, Laos",
+  "lat": 15.25,
+  "lng": 106.25,
+  "text": "About 789,000 years ago, a space rock slammed into what is now southern Laos. Scientists traced the likely crater to the Bolaven Plateau, where it now lies buried under younger lava flows. Around it spreads a jumbled layer of boulders and pebbles, more than nine metres thick in places, topped with glassy beads called tektites. This impact threw out the most extensive spray of debris known on Earth.",
+  "source": {
+   "name": "PMC: Proximal ejecta of the Bolaven extraterrestrial impact, southern Laos",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10723122/"
+  }
+ },
+ {
+  "id": "u09-liang-tebo-amputation",
+  "era": "early",
+  "year": -31000,
+  "dateLabel": "About 31,000 years ago",
+  "cat": "discovery",
+  "title": "Surgery in a Borneo Cave",
+  "place": "Liang Tebo, Sangkulirang-Mangkalihat karst, East Kalimantan, Indonesia",
+  "lat": 1,
+  "lng": 117.85,
+  "text": "About 31,000 years ago in a Borneo cave, someone performed surgery. A young person buried at Liang Tebo had lost the lower third of the left leg, cut cleanly in childhood. The bone healed, and they lived at least six to nine more years, so their community must have cared for them in steep limestone country. It is the oldest known amputation, roughly 24,000 years older than the previous record.",
+  "source": {
+   "name": "Nature (PMC): Surgical amputation of a limb 31,000 years ago in Borneo",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9477728/"
+  }
+ },
+ {
+  "id": "u09-betel-nut-sucking",
+  "era": "iceage",
+  "year": -20000,
+  "dateLabel": "Between 25,000 and 16,000 years ago",
+  "cat": "daily",
+  "title": "Ice Age Foragers Hooked on Betel",
+  "place": "Leang Bulu Bettue, Maros, South Sulawesi, Indonesia",
+  "lat": -4.98,
+  "lng": 119.67,
+  "text": "Long before farming, foragers in Sulawesi had a habit. A person buried at Leang Bulu Bettue, who lived sometime between 25,000 and 16,000 years ago, has odd rounded grooves worn around the teeth. Chemists found arecoline, betel nut's stimulant, on a tooth. With no staining and no lime, researchers think whole nuts were sucked for hours, perhaps for a buzz or to ease pain.",
+  "source": {
+   "name": "Science Advances (PMC): Betel nut sucking is the earliest recorded evidence for the habitual use of a neuroactive plant drug",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13557070/"
+  }
+ },
+ {
+  "id": "u09-thung-binh-wounded-man",
+  "era": "iceage",
+  "year": -10200,
+  "dateLabel": "About 12,000 years ago",
+  "cat": "discovery",
+  "title": "A Fatal Wound in a Tràng An Cave",
+  "place": "Thung Binh 1 cave, Tràng An, Ninh Bình, Vietnam",
+  "lat": 20.25,
+  "lng": 105.89,
+  "text": "About 12,000 years ago, a man of around 35 died in a cave among the limestone towers of Tràng An. His near-complete skeleton, TBH1, shows a broken extra neck rib that became infected, probably from a narrow penetrating blow. A tiny quartz point lay by his neck and shoulder. He may have lived a few months more. It is the earliest hint of interpersonal violence in mainland Southeast Asia.",
+  "source": {
+   "name": "PMC: TBH1: 12 000-year-old human skeleton and projectile point shed light on demographics and mortality in Terminal Pleistocene Southeast Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12380486/"
+  }
+ },
+ {
+  "id": "u09-besse-leang-panninge",
+  "era": "ancient",
+  "year": -5250,
+  "dateLabel": "About 7,200 years ago",
+  "cat": "discovery",
+  "title": "A Toalean Teenager's Lost Lineage",
+  "place": "Leang Panninge, Mallawa, Maros, South Sulawesi, Indonesia",
+  "lat": -4.85,
+  "lng": 119.92,
+  "text": "About 7,200 years ago, a young woman of 17 or 18 was buried curled up in Leang Panninge cave, with large cobbles placed over her head, hands and hips. She belonged to the Toalean foragers, known for tiny stone points called Maros points, and two lay beside her. Her DNA revealed a previously unknown human lineage with Denisovan ancestry. No living group carries it.",
+  "source": {
+   "name": "Nature (PMC): Genome of a middle Holocene hunter-gatherer from Wallacea",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8387238/"
+  }
+ },
+ {
+  "id": "u09-sab-champa-marble-bracelets",
+  "era": "classical",
+  "year": 0,
+  "dateLabel": "About 500 BCE to 570 CE",
+  "cat": "daily",
+  "title": "Marble Bracelets on a Limestone Terrace",
+  "place": "Sab Champa, near the Pa Sak River, central Thailand",
+  "lat": 15.05,
+  "lng": 101.23,
+  "text": "On a limestone terrace in central Thailand, people lived at Sab Champa for well over a thousand years. During its Iron Age, roughly 500 BCE to 570 CE, they obtained glass beads and sea shells, and a workshop about two kilometres away turned out white marble disks and bracelets. Later, Dvaravati builders ringed the site, 834 by 704 metres, with a moat between two high walls.",
+  "source": {
+   "name": "Antiquity Project Gallery (Cambridge): Late prehistoric and early historic archaeology in the Central Highland of Thailand: excavation at the site of Sab Champa",
+   "url": "https://www.cambridge.org/core/journals/antiquity-project-gallery/article/late-prehistoric-and-early-historic-archaeology-in-the-central-highland-of-thailand-excavation-at-the-site-of-sab-champa/1E85C16C7B3CBF4150F0469694D84E75"
+  }
+ },
+ {
+  "id": "u09-sri-ksetra-yahanda-houses",
+  "era": "classical",
+  "year": 450,
+  "dateLabel": "About 400 to 700 CE",
+  "cat": "daily",
+  "title": "Where the Pyu Actually Lived",
+  "place": "Yahanda mound, Sri Ksetra (Hmawza), near Pyay, Myanmar",
+  "lat": 18.8,
+  "lng": 95.29,
+  "text": "Pyu cities in Myanmar are famous for their brick monuments, but where did ordinary people live? In 2015, test pits on Yahanda mound at Sri Ksetra found hardened work floors with cooking charcoal, iron nails and food scraps, used from about the 400s to the 600s CE. Downslope lay a wooden house floor, and one of its posts stood right on top of a cremation burial.",
+  "source": {
+   "name": "Antiquity Project Gallery (Cambridge): Early urban archaeology in Southeast Asia: the first evidence for a Pyu habitation site at Sri Ksetra, Myanmar",
+   "url": "https://www.cambridge.org/core/journals/antiquity-project-gallery/article/early-urban-archaeology-in-southeast-asia-the-first-evidence-for-a-pyu-habitation-site-at-sri-ksetra-myanmar/152AB2032D9CF1EACA26648936879556"
+  }
+ },
+ {
+  "id": "u09-phnom-da-krishna",
+  "era": "medieval",
+  "year": 600,
+  "dateLabel": "About 600 CE",
+  "cat": "culture",
+  "title": "Krishna Holds Up a Mountain",
+  "place": "Phnom Da, near Angkor Borei, Takéo Province, Cambodia",
+  "lat": 10.97,
+  "lng": 104.98,
+  "text": "Around 600 CE, sculptors near the city of Angkor Borei carved eight huge Hindu gods, each from a single block of stone, for a two-peaked hill rising from the Mekong floodplain. One shows Krishna lifting a whole mountain to shelter villagers and herds from storms sent by a jealous older god. Just a fragment of it weighs about 196 kilograms, and its pierced earlobes once held gold earrings.",
+  "source": {
+   "name": "Cleveland Museum of Art: Upper stele with hand for Krishna Lifting Mount Govardhan",
+   "url": "https://www.clevelandart.org/art/1973.106.b"
+  }
+ },
+ {
+  "id": "u09-dong-duong-planet-guardian",
+  "era": "medieval",
+  "year": 875,
+  "dateLabel": "875",
+  "cat": "culture",
+  "title": "A Planet Guards a Cham Monastery",
+  "place": "Đồng Dương, Thăng Bình, Quảng Nam, Vietnam",
+  "lat": 15.68,
+  "lng": 108.24,
+  "text": "In 875, according to Sanskrit inscriptions, a Mahayana Buddhist temple and monastery was founded at Đồng Dương in the Cham lands of central Vietnam. Among its guardians were the planets in human form. One survives as a seated sandstone king of the heavens, mustached and frowning, gripping a short dagger. Below him, a monster face called a kirtimukha spits out jewels and plants, promising abundance to worshippers.",
+  "source": {
+   "name": "Cleveland Museum of Art: Enthroned planetary deity",
+   "url": "https://www.clevelandart.org/art/1935.147"
+  }
+ },
+ {
+  "id": "u09-hevajra-bronze",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "About 1200",
+  "cat": "culture",
+  "title": "Eight Heads, Sixteen Arms, One Dance",
+  "place": "Khorat (Isaan) Plateau, northeastern Thailand",
+  "lat": 14.6,
+  "lng": 103.4,
+  "text": "Around 1200, when King Jayavarman VII made Tantric Buddhism public across the Khmer empire, a caster made this bronze Hevajra: a god with eight heads, sixteen arms and four legs, dancing on a corpse that stands for ignorance. His hands hold skull cups filled with animals and Hindu gods. Clay in its core points to northeastern Thailand. It survived inside a clay pot under water.",
+  "source": {
+   "name": "Cleveland Museum of Art: Hevajra",
+   "url": "https://www.clevelandart.org/art/2011.143"
+  }
+ },
+ {
+  "id": "u09-bidong-wreck",
+  "era": "exploration",
+  "year": 1550,
+  "dateLabel": "1500s",
+  "cat": "journeys",
+  "title": "A Fisherman Snags a Thai Cargo",
+  "place": "Off Pulau Bidong, Terengganu, Malaysia",
+  "lat": 5.62,
+  "lng": 103.07,
+  "text": "In March 2012, a fisherman off the east coast of Peninsular Malaysia kept snagging broken pottery in his fishing gear. He had found a 16th-century shipwreck, now called the Bidong wreck, loaded mostly with stoneware attributed to the Thai kingdoms of Sukhothai and Ayutthaya. Recent tests match the pots' clay to red clays of the Sukhothai region, and copper traces hint at corroded fittings or cargo.",
+  "source": {
+   "name": "PMC: Reflectance spectroscopy reveals mineralogy and preservation of ceramics from the Bidong Shipwreck",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12475043/"
+  }
+ },
+ {
+  "id": "u09-ifugao-terraces-resistance",
+  "era": "exploration",
+  "year": 1550,
+  "dateLabel": "About 1500s",
+  "cat": "power",
+  "title": "Rice Terraces as Resistance",
+  "place": "Old Kiyyangan Village, Kiangan, Ifugao, Philippines",
+  "lat": 16.78,
+  "lng": 121.09,
+  "text": "For decades, books said the Ifugao rice terraces of Luzon were 2,000 years old, a figure guessed by early 20th-century anthropologists. Excavations at Kiangan tell another story: rice appears only about 675 years ago and surges roughly 500 years ago, around when the Spanish arrived. The excavators see the terraces as a way of resisting colonial rule, though the National Museum disputes the new dating.",
+  "source": {
+   "name": "Archaeology Magazine: Letter From the Philippines, One Grain at a Time",
+   "url": "https://archaeology.org/issues/may-june-2018/letters-from/philippines-ifugao-rice-terraces/"
+  }
+ },
+ {
+  "id": "u09-gua-sireh-warriors",
+  "era": "exploration",
+  "year": 1690,
+  "dateLabel": "About 1670 to 1710",
+  "cat": "power",
+  "title": "Charcoal Warriors in a Refuge Cave",
+  "place": "Gua Sireh, Gunung Nambi, near Serian, Sarawak, Malaysia",
+  "lat": 1.22,
+  "lng": 110.52,
+  "text": "Inside Gua Sireh, a cave in western Sarawak, two charcoal figures taller than 75 centimetres loom on the wall, one seemingly gripping a knife in each hand. Radiocarbon dating places them around 1670 to 1710 and 1800 to 1830, an era of raids and heavy tolls on local Bidayuh people. An 1855 account says defenders once drove off attackers by rolling stones from the cave mouth.",
+  "source": {
+   "name": "PLOS ONE (PMC): Rock art and frontier conflict in Southeast Asia: Insights from direct radiocarbon ages for the large human figures of Gua Sireh, Sarawak",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10446206/"
+  }
+ },
+ {
+  "id": "u09-burmese-kammavaca",
+  "era": "industrial",
+  "year": 1850,
+  "dateLabel": "1800s",
+  "cat": "culture",
+  "title": "Scripture Written in Black Lacquer",
+  "place": "Burma (Myanmar); manuscript now in Cleveland, USA",
+  "lat": 21.97,
+  "lng": 96.08,
+  "text": "In 19th-century Burma, lay Buddhists paid for dazzling manuscripts to be read aloud at monks' ordination ceremonies. This kammavaca has leaves of lacquered cloth, its Pali words written in thick black lacquer in a rounded Burmese script nicknamed tamarind seed script. Gilded winged spirits called nats fly among plants sprouting from serpent shapes that stand for rain clouds, between jewelled covers.",
+  "source": {
+   "name": "Cleveland Museum of Art: Kammavacha: Buddhist Ordination Text",
+   "url": "https://www.clevelandart.org/art/1945.172"
+  }
+ },
+ {
+  "id": "u09-pina-blouse-panel",
+  "era": "industrial",
+  "year": 1890,
+  "dateLabel": "About 1875 to 1900",
+  "cat": "daily",
+  "title": "A Blouse Woven From Pineapple",
+  "place": "Philippines; panel now in Cleveland, USA",
+  "lat": 14.6,
+  "lng": 120.98,
+  "text": "This delicate, see-through panel from the late-1800s Philippines is woven from piña, fibre from the pineapple plant, which the Spanish brought to the islands in the 1500s. Embroiderers added pairs of flower bouquets in baskets with trailing bows, plus fine needle lace around an oval neck opening. The edges were never finished: it was meant to be sewn into a baro-camisa blouse.",
+  "source": {
+   "name": "Cleveland Museum of Art: Blouse front",
+   "url": "https://www.clevelandart.org/art/1955.419"
+  }
+ },
+ {
+  "id": "u09-philippine-american-war",
+  "era": "industrial",
+  "year": 1899,
+  "dateLabel": "1899",
+  "cat": "power",
+  "title": "From Allies to Enemies in Manila",
+  "place": "Manila, Philippines",
+  "lat": 14.6,
+  "lng": 120.98,
+  "text": "On 4 February 1899, fighting broke out between US troops and Filipino nationalists led by Emilio Aguinaldo, two days before the US Senate ratified the Treaty of Paris. Americans called it an 'insurrection', while Filipinos saw resistance to a new foreign invader. Over 20,000 Filipino fighters and 4,200 Americans died, and as many as 200,000 Filipino civilians perished from violence, famine and disease.",
+  "source": {
+   "name": "US Department of State, Office of the Historian: The Philippine-American War, 1899-1902",
+   "url": "https://history.state.gov/milestones/1899-1913/war"
+  }
+ },
+ {
+  "id": "u09-laos-neutrality-1962",
+  "era": "modern",
+  "year": 1962,
+  "dateLabel": "1962",
+  "cat": "power",
+  "title": "A Neutral Laos, on Paper",
+  "place": "Vientiane, Laos (declaration agreed in Geneva, Switzerland)",
+  "lat": 17.97,
+  "lng": 102.61,
+  "text": "On 23 July 1962, fourteen nations, including the US, the USSR, China and both Vietnams, agreed in Geneva that Laos would be neutral and that all foreign troops would leave. It soon unravelled. North Vietnam's showcase withdrawal began with just 15 soldiers, and it kept backing the communist Pathet Lao. The US pulled out its advisers but later backed Hmong and Thai forces.",
+  "source": {
+   "name": "US Department of State, Office of the Historian: The Laos Crisis, 1960-1963",
+   "url": "https://history.state.gov/milestones/1961-1968/laos-crisis"
+  }
+ },
+ {
+  "id": "u09-gulf-of-tonkin",
+  "era": "modern",
+  "year": 1964,
+  "dateLabel": "1964",
+  "cat": "power",
+  "title": "Two Nights in the Gulf of Tonkin",
+  "place": "Gulf of Tonkin, off northern Vietnam",
+  "lat": 19.5,
+  "lng": 107,
+  "text": "On 2 August 1964, US destroyers in the Gulf of Tonkin reported an attack by North Vietnamese patrol boats. On 4 August they reported a second one, though doubts later grew about whether it happened at all. The ships had been supporting South Vietnamese raids on the northern coast. Within days Congress passed a resolution, with just two Senate votes against, that underpinned years of war.",
+  "source": {
+   "name": "US Department of State, Office of the Historian: The Gulf of Tonkin and Escalation, 1964",
+   "url": "https://history.state.gov/milestones/1961-1968/gulf-of-tonkin"
+  }
+ },
+ {
+  "id": "u09-indonesia-1965-killings",
+  "era": "modern",
+  "year": 1965,
+  "dateLabel": "1965 to 1966",
+  "cat": "power",
+  "title": "Indonesia's Hidden Massacre",
+  "place": "Jakarta, Indonesia",
+  "lat": -6.18,
+  "lng": 106.83,
+  "text": "In late 1965, after officers of the so-called September 30th Movement kidnapped and killed six senior army generals, Indonesia's army and its allies turned on the Communist Party. From October 1965 to March 1966, up to 500,000 alleged supporters were killed and up to a million imprisoned. US embassy cables counted at least 100,000 dead by December. General Suharto went on to rule for 32 years.",
+  "source": {
+   "name": "National Security Archive (George Washington University): Indonesia Mass Murder 1965, U.S. Embassy Files",
+   "url": "https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files"
+  }
+ },
+ {
+  "id": "u09-tet-offensive",
+  "era": "modern",
+  "year": 1968,
+  "dateLabel": "1968",
+  "cat": "power",
+  "title": "Tet: Attack at the New Year",
+  "place": "US Embassy, Saigon (Ho Chi Minh City), Vietnam",
+  "lat": 10.78,
+  "lng": 106.7,
+  "text": "In late January 1968, during the Tet lunar new year holiday, communist forces launched surprise attacks on targets across South Vietnam, including the cities of Saigon and Huế. In Saigon, fighters breached the outer walls of the US Embassy. The psychological shock was huge. On 31 March, President Lyndon Johnson limited bombing of the North, capped troop levels and said he would not seek another term.",
+  "source": {
+   "name": "US Department of State, Office of the Historian: The Tet Offensive, 1968",
+   "url": "https://history.state.gov/milestones/1961-1968/tet"
+  }
+ },
+ {
+  "id": "u09-east-timor-1975",
+  "era": "modern",
+  "year": 1975,
+  "dateLabel": "1975",
+  "cat": "power",
+  "title": "A Green Light Over Jakarta",
+  "place": "Dili, Timor-Leste",
+  "lat": -8.56,
+  "lng": 125.58,
+  "text": "On 6 December 1975, US President Gerald Ford and Henry Kissinger met Indonesia's President Suharto in Jakarta. When Suharto raised East Timor, Ford said the US would understand and not press him. Kissinger urged that whatever Indonesia did should succeed quickly. The next day Indonesia invaded. By 1980 the occupation had caused more than 100,000 deaths from fighting, starvation and disease.",
+  "source": {
+   "name": "National Security Archive (George Washington University): East Timor Revisited, Ford, Kissinger and the Indonesian Invasion, 1975-76",
+   "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB62/"
+  }
+ },
+ {
+  "id": "u09-sopheap-pich-seed-pods",
+  "era": "modern",
+  "year": 2015,
+  "dateLabel": "2015",
+  "cat": "culture",
+  "title": "Seed Pods Bound With Bomb Wire",
+  "place": "Phnom Penh, Cambodia",
+  "lat": 11.56,
+  "lng": 104.92,
+  "text": "In 2015, Cambodian artist Sopheap Pich and a team of artisans in Phnom Penh wove a giant pair of seed pods from hand-shaved bamboo and rattan. The smaller pod leans toward the larger one, as if for comfort. The steel wire holding them together was recycled from bombs and mines left from Cambodia's wars of the 1970s and 1980s, and the hollow forms recall hunger under the Khmer Rouge.",
+  "source": {
+   "name": "Cleveland Museum of Art: Sopheap Pich, Seed Pods",
+   "url": "https://www.clevelandart.org/art/2016.37"
+  }
+ },
+ {
+  "id": "u09-inwa-earthquake-palace",
+  "era": "modern",
+  "year": 2025,
+  "dateLabel": "2025",
+  "cat": "discovery",
+  "title": "An Earthquake Uncovers a Water Palace",
+  "place": "Inwa (Ava), Mandalay Region, Myanmar",
+  "lat": 21.86,
+  "lng": 95.98,
+  "text": "In 2025, a major earthquake split open the ground at Inwa, once called Ratnapura Ava and a royal capital from the 1300s to the 1800s. The rift exposed a whole building complex, with foundations, stairways and traces of pavilions, from the Konbaung dynasty of 1752 to 1885. Archaeologists suspect a royal water palace for ceremonies, like those painted in palm-leaf manuscripts.",
+  "source": {
+   "name": "Archaeology Magazine: Earthquake in Myanmar Exposes Ancient Royal Structure",
+   "url": "https://archaeology.org/news/2025/04/15/earthquake-in-myanmar-exposes-ancient-royal-structure/"
+  }
+ }
+]

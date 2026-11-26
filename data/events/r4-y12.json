@@ -1,0 +1,222 @@
+[
+ {
+  "id": "y12-rainforest-near-the-pole",
+  "era": "deep",
+  "year": -90000000,
+  "dateLabel": "About 90 million years ago",
+  "cat": "nature",
+  "title": "A Rainforest Near the South Pole",
+  "place": "Seabed near Pine Island and Thwaites glaciers, West Antarctica",
+  "lat": -74.5,
+  "lng": -105.0,
+  "text": "A sediment core drilled into the seabed of West Antarctica held a dense network of fossil roots, plus countless grains of pollen and spores. They come from a 90-million-year-old temperate rainforest, like those of New Zealand today, growing within 900 km of the South Pole. Summers averaged about 19 degrees Celsius, and swamp and river water reached up to 20 degrees.",
+  "source": {
+   "name": "Imperial College London: Traces of ancient rainforest in Antarctica point to a warmer prehistoric world",
+   "url": "https://www.imperial.ac.uk/news/196516/traces-ancient-rainforest-antarctica-point-warmer/"
+  }
+ },
+ {
+  "id": "y12-mamontovaya-kurya-tusk",
+  "era": "early",
+  "year": -38000,
+  "dateLabel": "Nearly 40,000 years ago",
+  "cat": "discovery",
+  "title": "Ice Age Hunters at the Arctic Circle",
+  "place": "Mamontovaya Kurya, Usa River, Komi Republic, Russia",
+  "lat": 66.57,
+  "lng": 62.42,
+  "text": "At Mamontovaya Kurya, in the European part of the Russian Arctic, people were living nearly 40,000 years ago, during the last ice age. Russian and Norwegian archaeologists dug up hundreds of animal bones, stone tools, and a mammoth tusk that appears to have been cut by those very tools. Their report appeared in the journal Nature in 2001.",
+  "source": {
+   "name": "Scientific American: Humans Lived North of the Arctic Circle During Last Ice Age",
+   "url": "https://www.scientificamerican.com/article/humans-lived-north-of-the/"
+  }
+ },
+ {
+  "id": "y12-yana-arctic-art",
+  "era": "iceage",
+  "year": -26000,
+  "dateLabel": "About 28,000 years ago (radiocarbon age)",
+  "cat": "culture",
+  "title": "The Oldest Art of the Arctic",
+  "place": "Yana RHS, Yana River, Sakha Republic (Yakutia), Russia",
+  "lat": 70.72,
+  "lng": 135.42,
+  "text": "The Yana site in Arctic Siberia, dated to about 28,000 years ago, holds the earliest art ever excavated in the Arctic zone. Its people made decorated beads, pendants and needles, plus shallow dishes and human-like designs carved on mammoth tusks. Archaeologists see echoes of these images in the hunting and shamanic art of the Indigenous Yukaghir people recorded in the early 1900s.",
+  "source": {
+   "name": "Antiquity (Cambridge Core): Oldest art of the Eurasian Arctic: personal ornaments and symbolic objects from Yana RHS, Arctic Siberia",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/oldest-art-of-the-eurasian-arctic-personal-ornaments-and-symbolic-objects-from-yana-rhs-arctic-siberia/5683EA5DA6C26B29C2FB1BFCD947D55A"
+  }
+ },
+ {
+  "id": "y12-bolshoy-oleni-ostrov",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 1500 BCE (dated 1610–1436 BCE)",
+  "cat": "journeys",
+  "title": "Siberian Roots on the Kola Peninsula",
+  "place": "Bolshoy Oleni Ostrov, Murmansk Region, Russia",
+  "lat": 69.2,
+  "lng": 35.8,
+  "text": "About 3,500 years ago, people were buried at Bolshoy Oleni Ostrov on the Kola Peninsula, a region where Saami live today. Their DNA revealed that about half their ancestry came from Siberia, the earliest evidence of Siberian ancestry in Fennoscandia. Among Europeans today, the Saami carry the largest share of this ancient Siberian ancestry.",
+  "source": {
+   "name": "Nature Communications (PMC): Ancient Fennoscandian genomes reveal origin and spread of Siberian ancestry in Europe",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6258758/"
+  },
+  "source2": {
+   "name": "Max Planck Institute for the Science of Human History: First ancient DNA from mainland Finland",
+   "url": "https://shh.mpg.de/1128778/finland-adna"
+  }
+ },
+ {
+  "id": "y12-ipiutak-tikigaq",
+  "era": "medieval",
+  "year": 650,
+  "dateLabel": "AD 650–870 (peak population)",
+  "cat": "daily",
+  "title": "A Town of Whalebone Houses",
+  "place": "Ipiutak site, Tikigaq (Point Hope), North Slope, Alaska, USA",
+  "lat": 68.35,
+  "lng": -166.75,
+  "text": "On the Tikigaq spit, which juts into the Chukchi Sea, over 500 house ruins line the old beach ridges, making Ipiutak one of the largest early village sites in Arctic Alaska. The houses were surrounded by big whale and walrus bones. Ipiutak communities, famous for fine carving in ivory, wood, bone and stone, reached their peak population between AD 650 and 870.",
+  "source": {
+   "name": "U.S. National Park Service: Ipiutak Site",
+   "url": "https://www.nps.gov/places/ipiutak-site.htm"
+  }
+ },
+ {
+  "id": "y12-dorset-tuniit",
+  "era": "ancient",
+  "year": -800,
+  "dateLabel": "About 800–500 BCE (emergence)",
+  "cat": "culture",
+  "title": "The Dorset, or Tuniit, Appear",
+  "place": "Kinngait (Cape Dorset), Nunavut, Canada",
+  "lat": 64.23,
+  "lng": -76.54,
+  "text": "Around 2,800 years ago, the Dorset Palaeo-Inuit emerged in the Arctic, named by archaeologist Diamond Jenness after Kinngait, then called Cape Dorset. They built sunken-floor houses for winter and lit and heated their world with soapstone lamps, yet show little sign of dogsleds or bows. Inuit oral histories remember an earlier people, the Tuniit, whom many consider the same group.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Dorset Culture (Patrick Jolicoeur)",
+   "url": "https://thecanadianencyclopedia.ca/en/article/dorset-culture"
+  }
+ },
+ {
+  "id": "y12-ust-polui-bone-man",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "About 100 BCE to 100 CE",
+  "cat": "culture",
+  "title": "The Bone Man of Ust-Polui",
+  "place": "Ust-Polui, Salekhard, Yamal-Nenets Autonomous Okrug, Russia",
+  "lat": 66.53,
+  "lng": 66.6,
+  "text": "Inside today's city of Salekhard lies Ust-Polui, a sanctuary used around 100 BCE to 100 CE. Digs in the 1930s found about 7,000 objects, 1,500 of them finely made from bone. In 2009 archaeologists uncovered a 7.3 cm figure of a seated man hugging his knees, carved from deer antler with an iron knife. Permafrost even preserved decorated birch-bark objects.",
+  "source": {
+   "name": "SCIENCE First Hand (Siberian Branch, Russian Academy of Sciences): The Land of Ancestors. The Bone Man and Other Secrets of the Ancient Sanctuary",
+   "url": "https://scfh.ru/en/papers/the-land-of-ancestors-the-bone-man-and-other-secrets-of-the-ancient-sanctuary/"
+  },
+  "source2": {
+   "name": "Archaeology, Ethnology and Anthropology of Eurasia: Decorated Birch-Bark Artifacts from the Ust-Polui Sanctuary (100 BC to 100 AD)",
+   "url": "https://archaeology.nsc.ru/en/publications/jr-aeae-en/18-46-1/annot-06/"
+  }
+ },
+ {
+  "id": "y12-roman-lead-greenland-ice",
+  "era": "classical",
+  "year": 165,
+  "dateLabel": "Around 165 CE",
+  "cat": "discovery",
+  "title": "Rome's Smog, Frozen in Greenland",
+  "place": "Greenland Ice Sheet, Greenland",
+  "lat": 75.1,
+  "lng": -42.3,
+  "text": "Lead from Roman silver mining and smelting drifted all the way to Greenland and was locked in its ice. Scientists measuring about 1,300 feet of ice found lead pollution peaked in the first century CE, then dropped dramatically around the year 165, likely because of the Antonine Plague. It stayed low for more than 500 years.",
+  "source": {
+   "name": "Archaeology magazine (Archaeological Institute of America): Ice Core Study Tracks Roman Lead Levels",
+   "url": "https://archaeology.org/news/2018/05/16/180516-roman-lead-pollution/"
+  },
+  "source2": {
+   "name": "PNAS (University of Copenhagen research portal): Lead pollution recorded in Greenland ice indicates European emissions tracked plagues, wars, and imperial expansion during antiquity",
+   "url": "https://researchprofiles.ku.dk/en/publications/lead-pollution-recorded-in-greenland-ice-indicates-european-emiss/"
+  }
+ },
+ {
+  "id": "y12-enderby-polynesians",
+  "era": "medieval",
+  "year": 1300,
+  "dateLabel": "13th or 14th century",
+  "cat": "journeys",
+  "title": "Polynesians in the Subantarctic",
+  "place": "Sandy Bay, Enderby Island, Auckland Islands, New Zealand",
+  "lat": -50.5,
+  "lng": 166.29,
+  "text": "Radiocarbon dates show that a group of Polynesians and their dogs lived on windswept Enderby Island for at least one summer in the 1200s or 1300s. Food remains reveal they ate Hooker's sea lions, fur seals, sooty shearwaters, albatrosses and penguins. Their camp at Sandy Bay is the southernmost known site of prehistoric Polynesian voyaging.",
+  "source": {
+   "name": "New Zealand Department of Conservation: Enderby Island Māori occupation",
+   "url": "https://doc.govt.nz/parks-and-recreation/places-to-go/southland/places/subantarctic-islands/auckland-islands/heritage-sites/enderby-island-maori-occupation"
+  }
+ },
+ {
+  "id": "y12-kerguelen-terres-australes",
+  "era": "exploration",
+  "year": 1772,
+  "dateLabel": "February 1772",
+  "cat": "journeys",
+  "title": "Kerguelen Thinks He Found a Continent",
+  "place": "Kerguelen Islands, French Southern and Antarctic Lands",
+  "lat": -49.35,
+  "lng": 70.22,
+  "text": "Sailing south from Mauritius with the ships Fortune and Gros Ventre, Breton officer Yves-Joseph de Kerguelen reached an island in the southern Indian Ocean in February 1772, and it was claimed for France. Fog split the ships, and Kerguelen returned to France claiming he had found the great southern land. In truth the island was icy and inhospitable; Cook later named it after him.",
+  "source": {
+   "name": "Western Australian Museum: De Kerguelen and de Saint Aloüarn 1771–1772",
+   "url": "https://museum.wa.gov.au/exhibitions/journeys/The_Explorers/de_Kerguelen_and_de_Saint_Alouarn.html"
+  }
+ },
+ {
+  "id": "y12-franklin-inuit-memory",
+  "era": "industrial",
+  "year": 1848,
+  "dateLabel": "April 1848",
+  "cat": "journeys",
+  "title": "What Inuit Saw of Franklin's Men",
+  "place": "Near O'Reilly Island, Adelaide Peninsula, Nunavut, Canada",
+  "lat": 68.25,
+  "lng": -98.9,
+  "text": "Franklin's ships Erebus and Terror were trapped in ice in 1846, and in April 1848 the 105 surviving crew abandoned them. Inuit later said about 40 white men were seen heading south along King William Island. An Inuk named Inukpujijuk marked a wreck's location on explorer Charles Francis Hall's chart, and in 2014 searchers found HMS Erebus close to that spot.",
+  "source": {
+   "name": "Parks Canada: Wrecks of HMS Erebus and HMS Terror National Historic Site, Inuit traditional knowledge",
+   "url": "https://www.parks.canada.ca/lhn-nhs/nu/epaveswrecks/culture/inuit/qaujimajatuqangit"
+  }
+ },
+ {
+  "id": "y12-first-polar-year",
+  "era": "industrial",
+  "year": 1882,
+  "dateLabel": "1882–1883",
+  "cat": "discovery",
+  "title": "The First International Polar Year",
+  "place": "Near Utqiaġvik (Barrow), Alaska, USA",
+  "lat": 71.29,
+  "lng": -156.79,
+  "text": "Austro-Hungarian naval officer Karl Weyprecht argued that big results needed many expeditions observing at the same time. The result was the first International Polar Year, 1882–1883, with 12 camps. Near Barrow, Ray's team adapted to local ways, once travelling with local people by dog sled to the Prudhoe Bay area; all came home healthy. Far north on Ellesmere Island, Greely's party of 25 shrank to seven.",
+  "source": {
+   "name": "University of Alaska Fairbanks Geophysical Institute, Alaska Science Forum: First International Polar Year was edgy affair (Ned Rozell)",
+   "url": "https://www.gi.alaska.edu/alaska-science-forum/first-international-polar-year-was-edgy-affair"
+  }
+ },
+ {
+  "id": "y12-larsen-b-collapse",
+  "era": "modern",
+  "year": 2002,
+  "dateLabel": "January–March 2002",
+  "cat": "nature",
+  "title": "An Ice Shelf Shatters in a Month",
+  "place": "Larsen B Ice Shelf, Antarctic Peninsula, Antarctica",
+  "lat": -65.5,
+  "lng": -61.5,
+  "text": "In the southern summer of 2002, almost the entire Larsen B Ice Shelf, about 3,250 square kilometres, splintered and collapsed in just over a month. A run of warm summers ended in an exceptionally warm one, and melt ponds on the surface acted like wedges. Freed from the shelf, the glaciers behind it sped up, by about 300 percent on average.",
+  "source": {
+   "name": "NASA Earth Observatory: World of Change: Collapse of the Larsen-B Ice Shelf",
+   "url": "https://science.nasa.gov/earth/earth-observatory/world-of-change/larsen-b"
+  }
+ }
+]

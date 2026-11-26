@@ -1,0 +1,414 @@
+[
+ {
+  "id": "w01-geissenklosterle-ivory-flute",
+  "era": "early",
+  "year": -33000,
+  "dateLabel": "About 35,000 years ago",
+  "cat": "discovery",
+  "title": "A Flute Carved From Mammoth Ivory",
+  "place": "Geißenklösterle Cave, near Ulm, Baden-Württemberg, Germany",
+  "lat": 48.4,
+  "lng": 9.77,
+  "text": "In a cave in the mountains near Ulm, archaeologists rebuilt a flute from 31 fragments of mammoth ivory. It is 18.7 centimetres long with three finger holes, from layers dated 30,000 to 37,000 years old. Making it meant splitting a curved tusk, hollowing both halves and gluing them back with an airtight seam. Its excavator compared it to a Rolls-Royce beside the cave's simpler swan-bone flutes.",
+  "source": {
+   "name": "Nature News: Ice-age musicians fashioned ivory flute",
+   "url": "https://www.nature.com/news/2004/041213/full/news041213-14.html"
+  }
+ },
+ {
+  "id": "w01-marsoulas-conch-horn",
+  "era": "iceage",
+  "year": -16000,
+  "dateLabel": "About 18,000 years ago",
+  "cat": "discovery",
+  "title": "A Seashell Horn Sounds Again",
+  "place": "Marsoulas Cave, Haute-Garonne, France",
+  "lat": 43.11,
+  "lng": 1,
+  "text": "Found at the entrance of Marsoulas cave in the Pyrenean foothills in 1931, this big Atlantic seashell was labelled a 'loving cup' and then forgotten for 80 years. A fresh look revealed human changes and red finger dots like those painted on the cave walls. Magdalenian people had turned it into a horn, and in 2021 researchers revealed its deep, strong, echoing voice.",
+  "source": {
+   "name": "Science Advances (PMC): First record of the sound produced by the oldest Upper Paleolithic seashell horn",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7875526/"
+  }
+ },
+ {
+  "id": "w01-eynan-bird-bone-flutes",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "About 12,000 years ago",
+  "cat": "discovery",
+  "title": "Tiny Flutes That Call Like Falcons",
+  "place": "Eynan-Mallaha, Hula Valley, Israel",
+  "lat": 33.06,
+  "lng": 35.59,
+  "text": "Among more than 1,000 bird bones at the Natufian village of Eynan-Mallaha, researchers spotted several flutes carved from the bones of small waterfowl, about 12,000 years old. One intact flute is just two and a half inches long. A digital replica whistled like a sparrowhawk or a kestrel. Ochre traces show the flutes were painted red, and wear hints they hung on strings.",
+  "source": {
+   "name": "Archaeology Magazine: Prehistoric Bird Bone Flutes Found in Israel",
+   "url": "https://archaeology.org/news/2023/06/09/230612-bird-bone-flutes/"
+  }
+ },
+ {
+  "id": "w01-jiahu-crane-bone-flutes",
+  "era": "ancient",
+  "year": -7000,
+  "dateLabel": "About 7000 BCE",
+  "cat": "discovery",
+  "title": "Crane-Bone Flutes You Can Still Play",
+  "place": "Jiahu, Wuyang County, Henan, China",
+  "lat": 33.61,
+  "lng": 113.66,
+  "text": "At Jiahu, a village occupied from 7000 to 5700 BCE, excavators found six complete flutes in radiocarbon-dated layers, plus fragments of perhaps 30 more. They were carved from the wing bones of red-crowned cranes and have five to eight holes. The best-preserved one, nearly 9,000 years old, was played and its notes analysed, making these possibly the oldest playable multinote instruments known.",
+  "source": {
+   "name": "Nature: Oldest playable musical instruments found at Jiahu early Neolithic site in China",
+   "url": "https://www.nature.com/articles/43865"
+  }
+ },
+ {
+  "id": "w01-ur-bull-headed-lyre",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 2500 BCE",
+  "cat": "culture",
+  "title": "The Bull-Headed Lyre of Ur",
+  "place": "Royal Cemetery, Ur, Dhi Qar, Iraq",
+  "lat": 30.96,
+  "lng": 46.1,
+  "text": "Ur's Royal Cemetery gave up eleven stringed instruments, two harps and nine lyres. Without them, not one real stringed instrument from ancient Sumer would survive. The largest is a lyre topped with a gold bull's head wearing a lapis lazuli beard. Playable replicas show its long strings sounded like a bass viol, while a smaller silver lyre sounds closer to a cello.",
+  "source": {
+   "name": "Penn Museum Expedition Magazine: The Musical Instruments from Ur and Ancient Mesopotamian Music",
+   "url": "https://www.penn.museum/sites/expedition/the-musical-instruments-from-ur-and-ancient-mesopotamian-music/"
+  }
+ },
+ {
+  "id": "w01-dahwa-copper-cymbals",
+  "era": "ancient",
+  "year": -2100,
+  "dateLabel": "About 2200 to 2000 BCE",
+  "cat": "discovery",
+  "title": "Cymbals Hidden Under an Omani Floor",
+  "place": "Dahwa, Saham, North Al Batinah, Oman",
+  "lat": 24.06,
+  "lng": 56.73,
+  "text": "On a hilltop at Dahwa in northern Oman, archaeologists found two copper-alloy cymbals laid carefully one atop the other beneath a stone floor, perhaps as an offering. Made around 2200 to 2000 BCE, each is 5.4 inches across. Lead isotopes trace the copper to mines about 100 miles away, and the pair closely resembles cymbals from Mohenjo-Daro and Mesopotamia, hinting at shared music.",
+  "source": {
+   "name": "Archaeology Magazine: Musical Melting Pot",
+   "url": "https://archaeology.org/issues/september-october-2026/collection/musical-melting-pot/the-music-of-time/"
+  }
+ },
+ {
+  "id": "w01-mohenjo-daro-dancing-girl",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2300 to 1750 BCE",
+  "cat": "culture",
+  "title": "The Bronze 'Dancing Girl' of the Indus",
+  "place": "Mohenjo-daro, Sindh, Pakistan",
+  "lat": 27.33,
+  "lng": 68.14,
+  "text": "When excavators at Mohenjo Daro found a miniature bronze statuette of a nude woman in 1926, they celebrated, and she became known as the 'Dancing Girl.' She was cast by the lost-wax method sometime around 2300 to 1751 BCE. Her nickname is a guess, much like the city's 'Priest King' sculpture, so called even though there is no evidence he was a priest or king.",
+  "source": {
+   "name": "National Geographic: The lost city of Mohenjo Daro",
+   "url": "https://www.nationalgeographic.com/history/article/mohenjo-daro"
+  },
+  "source2": {
+   "name": "National Geographic: Did this ancient society thrive without elites?",
+   "url": "https://www.nationalgeographic.com/history/article/indus-valley-egalitarian-ancient-society-mohenjo-daro"
+  }
+ },
+ {
+  "id": "w01-saqqara-tomb-of-the-harps",
+  "era": "ancient",
+  "year": -1250,
+  "dateLabel": "About 1295 to 1186 BCE",
+  "cat": "culture",
+  "title": "A Tomb With Its Own Harp Quartet",
+  "place": "Saqqara necropolis, Giza Governorate, Egypt",
+  "lat": 29.87,
+  "lng": 31.22,
+  "text": "A tomb at Saqqara from Egypt's 19th Dynasty held fragments of four cedar angular harps of different sizes, plus wooden castanets shaped like hands. That's why it's called the Tomb of the Harps. One curator thinks its owner was probably a musician. The angular harp was a big innovation: it could hold far more strings than the older arched harp, which had eight at most.",
+  "source": {
+   "name": "Archaeology Magazine: Accompanying the Afterlife",
+   "url": "https://archaeology.org/issues/september-october-2026/collection/accompanying-the-afterlife/the-music-of-time/"
+  }
+ },
+ {
+  "id": "w01-valley-of-kings-chantress",
+  "era": "ancient",
+  "year": -850,
+  "dateLabel": "About 945 to 715 BCE",
+  "cat": "discovery",
+  "title": "The Singer of Amun's Unlooted Coffin",
+  "place": "Valley of the Kings, Luxor, Egypt",
+  "lat": 25.74,
+  "lng": 32.6,
+  "text": "In 2012, a Swiss team excavated a small tomb, spotted the year before, in Egypt's Valley of the Kings holding a black sycamore coffin painted with yellow hieroglyphs. It belonged to Nehemes-Bastet, a 'chantress of Amun' whose father was a priest at Karnak. Her burial, from about 945 to 715 BCE, reused an older tomb. It was the valley's first unlooted burial found since Tutankhamun's in 1922.",
+  "source": {
+   "name": "Archaeology Magazine: Tomb of the Chantress",
+   "url": "https://archaeology.org/issues/july-august-2012/features/tomb-of-the-chantress/"
+  }
+ },
+ {
+  "id": "w01-tintignac-carnyx-war-horns",
+  "era": "classical",
+  "year": -25,
+  "dateLabel": "Late 1st century BCE",
+  "cat": "power",
+  "title": "War Horns With Boar Heads",
+  "place": "Tintignac sanctuary, Naves, Corrèze, France",
+  "lat": 45.34,
+  "lng": 1.77,
+  "text": "At a Celtic sanctuary at Tintignac in central France, an archaeologist in 2004 found about 50 pieces of seven carnyces, metal war horns as tall as a man. One bell was a boar's head with ears flaring 18 inches; another had a serpent's head. Buried in the late first century BCE, the horns seem to have been dismantled on purpose as offerings, never to be played again.",
+  "source": {
+   "name": "Archaeology Magazine: War Pigs",
+   "url": "https://archaeology.org/issues/september-october-2026/collection/war-pigs/the-music-of-time/"
+  }
+ },
+ {
+  "id": "w01-trossingen-warrior-lyre",
+  "era": "medieval",
+  "year": 550,
+  "dateLabel": "500s CE",
+  "cat": "culture",
+  "title": "A Warrior Buried Cradling His Lyre",
+  "place": "Trossingen, Baden-Württemberg, Germany",
+  "lat": 48.07,
+  "lng": 8.63,
+  "text": "In 2001, on the grounds of a former Hohner factory in Trossingen, archaeologists opened a sixth-century CE grave of a nobleman holding a maple lyre in his left arm and a sword at his right side. The lyre still has six tuning pegs and a willow bridge, and is decorated with 12 warriors flanking a lance. Its owner may have been a warlord who sang heroic songs.",
+  "source": {
+   "name": "Archaeology Magazine: Medieval Warrior Troubadours",
+   "url": "https://archaeology.org/issues/september-october-2026/collection/medieval-warrior-troubadours/the-music-of-time/"
+  }
+ },
+ {
+  "id": "w01-broken-flute-cave-rain-flutes",
+  "era": "medieval",
+  "year": 650,
+  "dateLabel": "Mid-600s CE",
+  "cat": "culture",
+  "title": "Flutes That Seemed to Make Rain",
+  "place": "Broken Flute Cave, Prayer Rock District, northeastern Arizona, USA",
+  "lat": 36.8,
+  "lng": -109.2,
+  "text": "At Broken Flute Cave in northeastern Arizona, archaeologists found wooden flutes from the mid-600s CE, the largest nearly two and a half feet long, played by blowing at an angle into one end. A Jemez Pueblo flute maker says that as you play them, breath condenses inside until they drip, 'like you're making it rain.' Rock art of the time shows bird-headed flutists.",
+  "source": {
+   "name": "Archaeology Magazine: Southwest Symphony",
+   "url": "https://archaeology.org/issues/september-october-2026/collection/southwest-symphony/the-music-of-time/"
+  }
+ },
+ {
+  "id": "w01-shosoin-five-string-biwa",
+  "era": "medieval",
+  "year": 756,
+  "dateLabel": "756",
+  "cat": "culture",
+  "title": "The World's Last Five-Stringed Lute",
+  "place": "Shōsōin Repository, Tōdai-ji, Nara, Japan",
+  "lat": 34.69,
+  "lng": 135.84,
+  "text": "Nara's Shōsōin has guarded treasures since 756, when Empress Kōmyō offered Emperor Shōmu's favourite belongings to the Great Buddha of Tōdai-ji. One star is a lute of rare red sandalwood sparkling with mother-of-pearl inlay. Unlike the Shōsōin's other biwa, it has five strings and a straight neck, a type from ancient India. It is the only one left anywhere in the world.",
+  "source": {
+   "name": "Imperial Household Agency: Shosoin",
+   "url": "https://www.kunaicho.go.jp/en/kids/shisetsu/shosoin.html"
+  },
+  "source2": {
+   "name": "Tokyo National Museum: Shosoin, Essential Treasures of Ancient Japan",
+   "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=1968&lang=en"
+  }
+ },
+ {
+  "id": "w01-zeami-noh-shogun",
+  "era": "medieval",
+  "year": 1375,
+  "dateLabel": "About 1375",
+  "cat": "culture",
+  "title": "A 12-Year-Old Actor Wins a Shogun",
+  "place": "Kyoto, Japan",
+  "lat": 35.01,
+  "lng": 135.77,
+  "text": "The shogun Ashikaga Yoshimitsu watched a sarugaku show by the troupe leader Kan'ami and his son Zeami, then just 12 years old, and was so charmed that he became their generous patron. Zeami went on to study classical literature, shape Noh into graceful drama built on beautiful songs and dances, and write treatises such as Fushi Kaden, The Transmission of the Flower.",
+  "source": {
+   "name": "Japan Arts Council: Invitation to Nohgaku, Ascent to Greatness",
+   "url": "https://www2.ntj.jac.go.jp/unesco/noh/en/history/history2.html"
+  }
+ },
+ {
+  "id": "w01-wayang-beber-scrolls",
+  "era": "exploration",
+  "year": 1630,
+  "dateLabel": "1630",
+  "cat": "culture",
+  "title": "Scroll Theatre Banned at Court",
+  "place": "Mataram court, near Yogyakarta, Java, Indonesia",
+  "lat": -7.87,
+  "lng": 110.4,
+  "text": "Wayang beber tells stories with long painted scrolls; beber means unfolding. It is arguably Java's oldest art form tied to narrative storytelling and probably goes back to the Majapahit kingdom of the 1400s and 1500s. In 1630 a ruler of Mataram banned it as court entertainment. Later it nearly vanished, leaving a few scroll sets and even fewer dalangs, the master narrators.",
+  "source": {
+   "name": "Victoria and Albert Museum: Wayang Beber",
+   "url": "https://collections.vam.ac.uk/item/O24768/"
+  }
+ },
+ {
+  "id": "w01-amer-ragamala-gujari",
+  "era": "exploration",
+  "year": 1680,
+  "dateLabel": "About 1680",
+  "cat": "culture",
+  "title": "Painting the Mood of a Melody",
+  "place": "Amer, near Jaipur, Rajasthan, India",
+  "lat": 26.99,
+  "lng": 75.85,
+  "text": "Ragamala, 'garland of ragas,' paintings turn musical modes into scenes, with each raga and ragini acting as a male or female character in stories of love. In this one, painted at Amer around 1680, a lady plays her vina to two peacocks while a maid waves a fly-whisk and others prepare beds. The mode is Gujari ragini, and its mood is melancholy longing.",
+  "source": {
+   "name": "Victoria and Albert Museum: Gujari ragini",
+   "url": "https://collections.vam.ac.uk/item/O433160/"
+  }
+ },
+ {
+  "id": "w01-sonezaki-puppet-hit",
+  "era": "exploration",
+  "year": 1703,
+  "dateLabel": "1703",
+  "cat": "culture",
+  "title": "A Real Scandal Becomes a Puppet Hit",
+  "place": "Takemoto-za, Dōtonbori, Osaka, Japan",
+  "lat": 34.67,
+  "lng": 135.5,
+  "text": "In 1684 the narrator Takemoto Gidayu opened the Takemoto-za theatre in Osaka's Dotonbori, and Chikamatsu Monzaemon wrote plays for him. In 1703 their puppet drama The Love Suicides at Sonezaki retold a real Osaka double suicide from just a month before. Starring townspeople instead of samurai, it was a huge hit; love suicides followed, and the shogunate banned such plays.",
+  "source": {
+   "name": "Japan Arts Council: Invitation to Bunraku, Developmental period",
+   "url": "https://www2.ntj.jac.go.jp/unesco/bunraku/en/history/history2.html"
+  }
+ },
+ {
+  "id": "w01-forbidden-city-opera-stage",
+  "era": "exploration",
+  "year": 1790,
+  "dateLabel": "Qianlong era, late 1700s",
+  "cat": "culture",
+  "title": "Snowstorms on the Emperor's Stage",
+  "place": "Belvedere of Pleasant Sounds, Forbidden City, Beijing, China",
+  "lat": 39.92,
+  "lng": 116.4,
+  "text": "The grandest Qing palace opera shows played at the Belvedere of Pleasant Sounds, a stage with three floors so actors could perform on each. It had a skylight, pulleys, trapdoors and a real well beneath the floor for water effects. Old performers recalled shredded paper falling like snow and gods floating on harnesses, while the emperor watched from the tower opposite.",
+  "source": {
+   "name": "Palace Museum Youth: The Festive Gathering of the Emperor and Empress Dowager",
+   "url": "https://young.dpm.org.cn/en/article/1093"
+  }
+ },
+ {
+  "id": "w01-congo-square-sunday-dances",
+  "era": "exploration",
+  "year": 1750,
+  "dateLabel": "Mid-1700s onward",
+  "cat": "daily",
+  "title": "Sunday Drums at Congo Square",
+  "place": "Congo Square, New Orleans, Louisiana, USA",
+  "lat": 29.96,
+  "lng": -90.07,
+  "text": "By the mid-1700s, enslaved people in New Orleans gathered socially on Sundays at a special market outside the city's rampart. The spot became known as Congo Square, famous for African dances and drumming that kept African musical traditions alive. Dancing there ended before the Civil War, but the National Park Service names this tradition as a key early influence on jazz.",
+  "source": {
+   "name": "National Park Service: Jazz Origins in New Orleans",
+   "url": "https://www.nps.gov/jazz/learn/historyculture/history_early.htm"
+  }
+ },
+ {
+  "id": "w01-tlatelolco-death-whistles",
+  "era": "exploration",
+  "year": 1500,
+  "dateLabel": "Before 1521",
+  "cat": "culture",
+  "title": "Skull Whistles in a Victim's Hands",
+  "place": "Temple of Ehecatl, Tlatelolco, Mexico City, Mexico",
+  "lat": 19.45,
+  "lng": -99.14,
+  "text": "In front of the temple of the wind god Ehecatl at Tlatelolco, archaeologists found a sacrificed person holding two clay whistles decorated with skull faces. These 'death whistles' belong to a family of noise-makers that can mimic animal cries or the wind. One scholar suggests they kept bad energies away from the sacrificed, and a Mexican composer now writes them into concert works.",
+  "source": {
+   "name": "INAH, Arqueología: Silbato de la muerte",
+   "url": "https://revistas.inah.gob.mx/index.php/arqueologia/article/view/3531"
+  },
+  "source2": {
+   "name": "Gaceta UNAM: Música y sonoridad en el México prehispánico",
+   "url": "https://www.gaceta.unam.mx/musica-y-sonoridad-en-el-mexico-prehispanico/"
+  }
+ },
+ {
+  "id": "w01-chajul-hidden-dance-murals",
+  "era": "exploration",
+  "year": 1700,
+  "dateLabel": "1600s to 1700s",
+  "cat": "culture",
+  "title": "Dancers Hidden Under the Plaster",
+  "place": "Chajul, Quiché, Guatemala",
+  "lat": 15.49,
+  "lng": -91.04,
+  "text": "In 2003, Lucas Asicona was fixing his adobe house in Chajul, in Guatemala's highlands, when falling plaster revealed murals on three walls. They show musicians with a drum and a flute or chirimía, and dancers mixing Spanish trousers and heeled shoes with Ixil Maya feathered mantles and headdresses. Painted in the 1600s or 1700s, probably by Indigenous artists, they were repainted seven times.",
+  "source": {
+   "name": "Archaeology Magazine: Dancing Days of the Maya",
+   "url": "https://archaeology.org/issues/january-february-2025/features/dancing-days-of-the-maya/"
+  }
+ },
+ {
+  "id": "w01-kalakaua-hula-coronation",
+  "era": "industrial",
+  "year": 1883,
+  "dateLabel": "1883",
+  "cat": "culture",
+  "title": "The Merrie Monarch Brings Back Hula",
+  "place": "ʻIolani Palace, Honolulu, Hawaiʻi, USA",
+  "lat": 21.31,
+  "lng": -157.86,
+  "text": "With public hula outlawed under missionary influence, families kept dancing in caves and cane fields late at night. Then in 1883 King David Kalākaua held an extravagant coronation at the newly built ʻIolani Palace and filled the two-week celebration with once-forbidden hula, music and a lūʻau. The revival faded after 1893, but Hilo's Merrie Monarch Festival has honoured him since 1964.",
+  "source": {
+   "name": "National Geographic: The surprising history of Hawaiʻi's hula tradition",
+   "url": "https://www.nationalgeographic.com/history/article/the-surprising-history-of-hawaiis-hula-tradition"
+  }
+ },
+ {
+  "id": "w01-prome-saung-gauk-harp",
+  "era": "industrial",
+  "year": 1890,
+  "dateLabel": "Late 1800s",
+  "cat": "culture",
+  "title": "A Harp Shaped Like a Boat",
+  "place": "Pyay (Prome), Bago Region, Myanmar",
+  "lat": 18.82,
+  "lng": 95.22,
+  "text": "This saung-gauk, possibly made in Prome, today's Pyay, has a curved boat-shaped body topped with animal skin and 13 strings tied to a long arching prow. Black-and-gold panels around it tell scenes from the Ramayana, with inscriptions explaining the action. Boat harps appear in art at Pagan from about the 11th century. Lord Curzon probably acquired this one in 1901.",
+  "source": {
+   "name": "Victoria and Albert Museum: Harp (saung-gauk)",
+   "url": "https://collections.vam.ac.uk/item/O59700/"
+  }
+ },
+ {
+  "id": "w01-odjb-first-jazz-record",
+  "era": "modern",
+  "year": 1917,
+  "dateLabel": "1917",
+  "cat": "culture",
+  "title": "The Record That Made Jazz a Craze",
+  "place": "New York City, New York, USA",
+  "lat": 40.75,
+  "lng": -73.99,
+  "text": "In 1917 the Original Dixieland Jazz Band, musicians who had left New Orleans, cut the first commercial jazz recording while playing in New York City. The Victor release was an unexpected hit, and suddenly New Orleans-style jazz was a national craze. Demand lured more musicians north: clarinetist Sidney Bechet left for Chicago that year, and by 1919 the band was playing in England.",
+  "source": {
+   "name": "National Park Service: Jazz Origins in New Orleans",
+   "url": "https://www.nps.gov/jazz/learn/historyculture/history_early.htm"
+  }
+ },
+ {
+  "id": "w01-kansala-griot-songs-dig",
+  "era": "modern",
+  "year": 2024,
+  "dateLabel": "2024",
+  "cat": "discovery",
+  "title": "Griot Songs Confirmed by the Spade",
+  "place": "Kansala, Gabú Region, Guinea-Bissau",
+  "lat": 12.54,
+  "lng": -14.19,
+  "text": "For generations, griots of the Kaabu kingdom sang its history to the kora, including how a king blew up his capital, Kansala, by igniting the gunpowder house. To one griot it felt like legend. Then in 2024 archaeologists mapped nearly 150 acres at Kansala and found fortresses, signs of wide trade and that gunpowder house. They asked him to turn their report into song.",
+  "source": {
+   "name": "NPR: For one griot, the unearthing of this ancient West African capital offers vindication",
+   "url": "https://www.npr.org/2025/04/16/nx-s1-5336398/for-one-griot-the-unearthing-of-this-ancient-west-african-capital-offers-vindication"
+  }
+ }
+]

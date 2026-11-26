@@ -1,0 +1,330 @@
+[
+ {
+  "id": "m15-hal-saflieni-hypogeum",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "c. 2500 BCE",
+  "cat": "culture",
+  "title": "Malta's Underground Labyrinth",
+  "place": "Paola, Malta",
+  "lat": 35.87,
+  "lng": 14.51,
+  "text": "Around 2500 BCE, people on Malta carved three levels of chambers deep into soft limestone, the lowest more than ten metres down. This underground cemetery once held the remains of about 7,000 people. Its walls carry the only prehistoric paintings found on the islands, one niche echoes when you speak into it, and a tiny clay 'Sleeping Lady' was found inside.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Hal Saflieni Hypogeum",
+   "url": "https://whc.unesco.org/en/list/130"
+  }
+ },
+ {
+  "id": "m15-su-nuraxi-barumini",
+  "era": "ancient",
+  "year": -1600,
+  "dateLabel": "c. 1600–1200 BCE",
+  "cat": "culture",
+  "title": "Stone Towers Found Only in Sardinia",
+  "place": "Su Nuraxi, Barumini, Sardinia, Italy",
+  "lat": 39.71,
+  "lng": 9.0,
+  "text": "In the Middle to Late Bronze Age, Sardinians began building nuraghi: cone-shaped defensive towers of dressed stone with vaulted rooms inside, found nowhere else in the world. At Su Nuraxi people kept living for centuries, adding walls under Carthaginian pressure. Later the towers lay buried until archaeologists began digging them out in the 1950s.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Su Nuraxi di Barumini",
+   "url": "https://whc.unesco.org/en/list/833"
+  }
+ },
+ {
+  "id": "m15-tarquinia-painted-tombs",
+  "era": "ancient",
+  "year": -700,
+  "dateLabel": "7th century BCE",
+  "cat": "culture",
+  "title": "The Etruscans' Painted Tombs",
+  "place": "Monterozzi necropolis, Tarquinia, Lazio, Italy",
+  "lat": 42.25,
+  "lng": 11.77,
+  "text": "The Etruscans cut some 6,000 graves into the rock outside Tarquinia. About 200 of them are painted, the earliest dating from the 7th century BCE. Many tombs copy the shape of Etruscan houses, and their wall paintings of daily life are among the few major artworks of pre-Roman times to survive around the Mediterranean.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Etruscan Necropolises of Cerveteri and Tarquinia",
+   "url": "https://whc.unesco.org/en/list/1158"
+  }
+ },
+ {
+  "id": "m15-alalia-corsica",
+  "era": "ancient",
+  "year": -560,
+  "dateLabel": "About 560 BCE",
+  "cat": "journeys",
+  "title": "Greek Sailors Settle Corsica",
+  "place": "Aleria (ancient Alalia), Corsica, France",
+  "lat": 42.11,
+  "lng": 9.51,
+  "text": "Corsica's dolmens and standing stones show people lived there from at least the 3rd millennium BCE, but its recorded history starts about 560 BCE. That is when Greeks from Phocaea, in Asia Minor, founded the town of Alalia on the island's east coast. Carthaginians and then Romans followed, and the Latin the Romans brought became the root of today's Corsican dialect.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Corsica (History)",
+   "url": "https://www.britannica.com/place/Corsica"
+  }
+ },
+ {
+  "id": "m15-archimedes-syracuse",
+  "era": "classical",
+  "year": -212,
+  "dateLabel": "212 or 211 BCE",
+  "cat": "discovery",
+  "title": "Archimedes Defends Syracuse",
+  "place": "Syracuse, Sicily, Italy",
+  "lat": 37.07,
+  "lng": 15.29,
+  "text": "When Rome besieged Syracuse in 213 BCE, the mathematician Archimedes built war machines so effective that they long delayed its capture. The city fell in 212 or 211 BCE, and Archimedes was killed in the sack. He had found how a sphere relates to the cylinder around it, and was so proud of it that he asked for that shape on his tomb.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Archimedes, by Gerald J. Toomer",
+   "url": "https://www.britannica.com/biography/Archimedes"
+  }
+ },
+ {
+  "id": "m15-siege-of-numantia",
+  "era": "classical",
+  "year": -133,
+  "dateLabel": "133 BCE",
+  "cat": "power",
+  "title": "Numantia Holds Out Against Rome",
+  "place": "Numantia, Garray, Soria, Spain",
+  "lat": 41.81,
+  "lng": -2.44,
+  "text": "The Celtiberian town of Numantia beat back Roman armies again and again, and in 137 BCE even captured one. In 133 BCE Scipio Aemilianus surrounded it with about ten kilometres of continuous ramparts. After an eight-month siege, hunger forced the survivors to surrender, ending serious resistance to Rome in Celtiberia.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Numantia",
+   "url": "https://www.britannica.com/place/Numantia"
+  }
+ },
+ {
+  "id": "m15-augusta-emerita",
+  "era": "classical",
+  "year": -25,
+  "dateLabel": "25 BCE",
+  "cat": "daily",
+  "title": "A Little Rome in Spain",
+  "place": "Mérida, Extremadura, Spain",
+  "lat": 38.92,
+  "lng": -6.34,
+  "text": "In 25 BCE, after his campaigns in northern Hispania, Augustus founded the colony of Augusta Emerita, today's Mérida. Planned as an idealised model of Rome, it became capital of Lusitania, the empire's westernmost province. Its theatre, amphitheatre, vast circus, great bridge over the Guadiana and water-supply system still survive.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Archaeological Ensemble of Mérida",
+   "url": "https://whc.unesco.org/en/list/664"
+  }
+ },
+ {
+  "id": "m15-tariq-lands-gibraltar",
+  "era": "medieval",
+  "year": 711,
+  "dateLabel": "May 711",
+  "cat": "journeys",
+  "title": "Tariq's Mountain",
+  "place": "Gibraltar, Iberian Peninsula",
+  "lat": 36.14,
+  "lng": -5.35,
+  "text": "In May 711 the Berber general Tariq ibn Ziyad landed on Gibraltar with about 7,000 men, mostly Berbers, Syrians and Yemenis. The rock became known as Jabal Tariq, 'Mount Tarik', the origin of its name. Within months he had defeated the Visigothic king Roderick and taken Toledo. With Musa ibn Nusayr he went on to occupy more than two-thirds of the Iberian Peninsula.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Tariq ibn Ziyad",
+   "url": "https://www.britannica.com/biography/Tariq-ibn-Ziyad"
+  }
+ },
+ {
+  "id": "m15-fibonacci-liber-abaci",
+  "era": "medieval",
+  "year": 1202,
+  "dateLabel": "1202",
+  "cat": "discovery",
+  "title": "New Numbers Arrive in Europe",
+  "place": "Pisa, Tuscany, Italy",
+  "lat": 43.72,
+  "lng": 10.4,
+  "text": "As a boy, Leonardo of Pisa, later called Fibonacci, studied calculation with an Arab master in North Africa, where his merchant father worked. In 1202 he published Liber abaci, the 'Book of the Abacus', which introduced Hindu-Arabic numerals to Europe. It showed how place value works and used the numbers for real problems like profit, barter and money changing.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Fibonacci, by Frances Carney Gies",
+   "url": "https://www.britannica.com/biography/Fibonacci"
+  }
+ },
+ {
+  "id": "m15-giotto-scrovegni-chapel",
+  "era": "medieval",
+  "year": 1305,
+  "dateLabel": "c. 1305",
+  "cat": "culture",
+  "title": "Giotto Paints a Chapel in Padua",
+  "place": "Scrovegni (Arena) Chapel, Padua, Veneto, Italy",
+  "lat": 45.41,
+  "lng": 11.88,
+  "text": "Around 1305, Giotto covered the walls of a small chapel in Padua, built on the site of a Roman arena, with scenes in three tiers. In one, the Star of Bethlehem is painted as a realistic comet. UNESCO says these frescoes marked the start of a revolution in wall painting, with new ways of showing space that heralded Renaissance perspective.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Giotto, by Peter J. Murray",
+   "url": "https://www.britannica.com/biography/Giotto-di-Bondone"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Padua's fourteenth-century fresco cycles",
+   "url": "https://whc.unesco.org/en/list/1623"
+  }
+ },
+ {
+  "id": "m15-batalha-monastery",
+  "era": "medieval",
+  "year": 1385,
+  "dateLabel": "1385 (battle and royal vow)",
+  "cat": "culture",
+  "title": "A Monastery for a Victory",
+  "place": "Batalha, Leiria, Portugal",
+  "lat": 39.66,
+  "lng": -8.83,
+  "text": "After the Portuguese beat the Castilians at Aljubarrota in 1385, King João I kept a vow by building the Monastery of Batalha. Its church was finished in 1416, and for two centuries it was the monarchy's great workshop. João, his queen Philippa of Lancaster and their son Prince Henry the Navigator are buried there.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Monastery of Batalha",
+   "url": "https://whc.unesco.org/en/list/264"
+  }
+ },
+ {
+  "id": "m15-valletta-founded",
+  "era": "exploration",
+  "year": 1566,
+  "dateLabel": "1566",
+  "cat": "daily",
+  "title": "A City Born From a Siege",
+  "place": "Valletta, Malta",
+  "lat": 35.9,
+  "lng": 14.51,
+  "text": "The Siege of Malta in 1565 captured Europe's imagination, and it moved the Knights of St John to build a brand-new capital. Founded in 1566, Valletta was planned as a single late-Renaissance design, with a regular grid of streets inside bastioned walls. Today its 320 monuments are packed into just 55 hectares.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: City of Valletta",
+   "url": "https://whc.unesco.org/en/list/131"
+  }
+ },
+ {
+  "id": "m15-val-di-noto-rebuilt",
+  "era": "exploration",
+  "year": 1693,
+  "dateLabel": "1693",
+  "cat": "nature",
+  "title": "Sicily Rebuilds in Baroque Style",
+  "place": "Noto, Sicily, Italy",
+  "lat": 36.89,
+  "lng": 15.07,
+  "text": "A catastrophic earthquake struck Sicily in 1693. In the decades after, eight towns, including Catania, Noto, Ragusa and Modica, were rebuilt in the late Baroque style. Catania rose on its old site, while Noto moved to a new one. The work brought fresh ideas in town planning and earthquake-resistant building.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Late Baroque Towns of the Val di Noto",
+   "url": "https://whc.unesco.org/en/list/1024"
+  }
+ },
+ {
+  "id": "m15-volta-battery",
+  "era": "industrial",
+  "year": 1800,
+  "dateLabel": "1800",
+  "cat": "discovery",
+  "title": "Volta Stacks Up a Battery",
+  "place": "Pavia, Lombardy, Italy",
+  "lat": 45.19,
+  "lng": 9.16,
+  "text": "Alessandro Volta, physics professor at Pavia, tested tiny currents between metal disks by putting them on his tongue. In 1800 he announced the first electric battery: a pile of zinc and silver disks separated by cloth soaked in salt water. It gave the first continuous electric current, and within six weeks others used it to split water.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Alessandro Volta",
+   "url": "https://www.britannica.com/biography/Alessandro-Volta"
+  }
+ },
+ {
+  "id": "m15-altamira-bison",
+  "era": "industrial",
+  "year": 1879,
+  "dateLabel": "Late summer 1879",
+  "cat": "discovery",
+  "title": "A Girl Spots Bison on the Ceiling",
+  "place": "Altamira Cave, Santillana del Mar, Cantabria, Spain",
+  "lat": 43.38,
+  "lng": -4.12,
+  "text": "In 1879 Marcelino Sanz de Sautuola was digging in Altamira cave when his eight-year-old daughter, Maria, noticed bison painted on the ceiling of a side chamber. He published the finds in 1880, but most experts called the paintings modern forgeries. They were accepted as genuine only at the end of the century and are now dated to about 14,800 to 13,100 years ago.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Altamira",
+   "url": "https://www.britannica.com/place/Altamira"
+  }
+ },
+ {
+  "id": "m15-montessori-casa-dei-bambini",
+  "era": "industrial",
+  "year": 1907,
+  "dateLabel": "January 6, 1907",
+  "cat": "daily",
+  "title": "The First Children's House",
+  "place": "San Lorenzo, Rome, Italy",
+  "lat": 41.9,
+  "lng": 12.52,
+  "text": "In Rome's poor San Lorenzo quarter, about 50 young children lived unsupervised in renovated apartment blocks, with no toys and no teacher. Maria Montessori, then a medical officer of hygiene, agreed to help if conditions on food and sanitation were met. On January 6, 1907, the first Casa dei Bambini, or Children's House, opened there.",
+  "source": {
+   "name": "Association Montessori Internationale: On this Day, First Casa dei Bambini",
+   "url": "https://montessori-ami.org/news/day-first-casa-dei-bambini"
+  }
+ },
+ {
+  "id": "m15-tarxien-temples-found",
+  "era": "industrial",
+  "year": 1913,
+  "dateLabel": "1913",
+  "cat": "discovery",
+  "title": "A Farmer Finds Malta's Temples",
+  "place": "Tarxien, Malta",
+  "lat": 35.87,
+  "lng": 14.51,
+  "text": "In 1913 a farmer, Lorenzo Despott, came across the Tarxien Temples, four megalithic buildings from the late Neolithic. Sir Themistocles Zammit led excavations from 1915 to 1919. Finds included stone carvings of spirals and animals and the lower half of a colossal statue in a pleated skirt. After 2000 BC, newcomers used part of the site as a cremation cemetery.",
+  "source": {
+   "name": "Heritage Malta: Tarxien Temples",
+   "url": "https://heritagemalta.mt/explore/tarxien-temples/"
+  }
+ },
+ {
+  "id": "m15-bombing-of-guernica",
+  "era": "modern",
+  "year": 1937,
+  "dateLabel": "April 26, 1937",
+  "cat": "power",
+  "title": "Guernica Bombed, Picasso Responds",
+  "place": "Gernika (Guernica), Basque Country, Spain",
+  "lat": 43.32,
+  "lng": -2.68,
+  "text": "On April 26, 1937, during Spain's civil war, German aircraft bombed the Basque city of Guernica for three hours, killing or wounding a third of its people. In Paris, Picasso turned the news into a huge black-and-white painting in about three weeks for the Spanish Republic's world's fair pavilion. He refused to let it go to Spain while Franco ruled; it arrived in 1981.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Guernica, by Alicja Zelazko",
+   "url": "https://www.britannica.com/topic/Guernica-by-Picasso"
+  }
+ },
+ {
+  "id": "m15-carnation-revolution",
+  "era": "modern",
+  "year": 1974,
+  "dateLabel": "April 25, 1974",
+  "cat": "power",
+  "title": "Carnations in the Rifles",
+  "place": "Lisbon, Portugal",
+  "lat": 38.71,
+  "lng": -9.14,
+  "text": "By 1974, more than a decade of colonial wars in Africa had worn out Portugal's army, and part of it rose against the Estado Novo dictatorship that had ruled since 1933. The song 'Grândola Vila Morena' was the signal to begin on April 25. Images of the revolution show young soldiers with carnations in their rifles.",
+  "source": {
+   "name": "The Conversation: The 50th anniversary of Portugal's Carnation Revolution, by Fernando Camacho Padilla (Universidad Autónoma de Madrid)",
+   "url": "https://theconversation.com/the-50th-anniversary-of-portugals-carnation-revolution-the-peaceful-uprising-that-toppled-a-dictatorship-and-ended-a-decade-of-colonial-war-228536"
+  }
+ },
+ {
+  "id": "m15-otzi-found",
+  "era": "modern",
+  "year": 1991,
+  "dateLabel": "1991",
+  "cat": "discovery",
+  "title": "Hikers Find the Iceman",
+  "place": "Tisenjoch, Schnalstal/Val Senales, South Tyrol, Italy",
+  "lat": 46.78,
+  "lng": 10.84,
+  "text": "In 1991 hikers on a glacier in South Tyrol stumbled on Ötzi, a man who died over 5,300 years ago and was preserved in the ice. He was about 46, carried a valuable copper axe and had 61 tattoos. An X-ray in 2001 revealed a flint arrowhead in his shoulder: it cut an artery, and he bled to death within minutes.",
+  "source": {
+   "name": "South Tyrol Museum of Archaeology: The Iceman",
+   "url": "https://www.iceman.it/en/the-iceman/"
+  },
+  "source2": {
+   "name": "South Tyrol Museum of Archaeology: The mummy",
+   "url": "https://www.iceman.it/en/the-mummy/"
+  }
+ }
+]

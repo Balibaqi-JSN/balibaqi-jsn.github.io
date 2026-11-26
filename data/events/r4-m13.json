@@ -1,0 +1,374 @@
+[
+ {
+  "id": "m13-calanais-stones",
+  "era": "ancient",
+  "year": -2900,
+  "dateLabel": "Erected about 2900–2600 BCE",
+  "cat": "culture",
+  "title": "Stones Older Than Stonehenge's Circle",
+  "place": "Calanais (Callanish), Isle of Lewis, Scotland, UK",
+  "lat": 58.2,
+  "lng": -6.75,
+  "text": "Between 2900 and 2600 BCE, people on the Isle of Lewis raised the Calanais Standing Stones, before the main circle at Stonehenge. A 4.8m monolith stands at the heart, with lines of smaller stones radiating out and a small chambered tomb inside the circle. Peat slowly buried the site, and only peat cutting in 1857 revealed how tall the stones really are.",
+  "source": {
+   "name": "Historic Environment Scotland: Calanais Standing Stones, History",
+   "url": "https://www.historicenvironment.scot/visit-a-place/places/calanais-standing-stones/history/"
+  }
+ },
+ {
+  "id": "m13-amesbury-archer",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2300 BCE",
+  "cat": "journeys",
+  "title": "The Archer Who Came From Afar",
+  "place": "Amesbury, Wiltshire, England, UK",
+  "lat": 51.17,
+  "lng": -1.78,
+  "text": "Around 2300 BCE a man was buried near Amesbury with about 100 objects, including three copper knives, 16 flint arrowheads and two small gold hair tresses. Scientists found he grew up in central Europe, most probably in what is now Switzerland. Archaeologists uncovered his grave in May 2002, digging ahead of a new housing development.",
+  "source": {
+   "name": "Wessex Archaeology: The Amesbury Archer",
+   "url": "https://www.wessexarch.co.uk/our-work/amesbury-archer"
+  }
+ },
+ {
+  "id": "m13-mold-gold-cape",
+  "era": "ancient",
+  "year": -1900,
+  "dateLabel": "About 1900–1600 BCE",
+  "cat": "culture",
+  "title": "A Cape Beaten From Gold",
+  "place": "Bryn yr Ellyllon, Mold, Flintshire, Wales, UK",
+  "lat": 53.17,
+  "lng": -3.13,
+  "text": "This Bronze Age cape was laboriously beaten out of a single ingot of gold, then decorated with ribs and bosses that mimic strings of beads amid folds of cloth. In 1833 workmen quarrying stone in a mound called the Goblins' Hill found it crushed around a skeleton, with amber beads. It was so flimsy it may only have been worn on special occasions.",
+  "source": {
+   "name": "British Museum: The Mold Gold Cape (1836,0902.1)",
+   "url": "https://www.britishmuseum.org/collection/object/H_1836-0902-1"
+  },
+  "source2": {
+   "name": "Coflein (Royal Commission, Wales): Bryn yr Ellyllon, Mold",
+   "url": "https://coflein.gov.uk/en/site/410276/"
+  }
+ },
+ {
+  "id": "m13-must-farm-stilt-village",
+  "era": "ancient",
+  "year": -850,
+  "dateLabel": "About 850 BCE",
+  "cat": "daily",
+  "title": "Dinner Left in the Bowl",
+  "place": "Must Farm, Whittlesey, Cambridgeshire, England, UK",
+  "lat": 52.56,
+  "lng": -0.17,
+  "text": "Around 850 BCE, families in the Fens lived in roundhouses built on stilts above a slow-moving river. Less than a year after it was built, the village was destroyed by a catastrophic fire. Archaeologists later found a bowl still holding its final meal of wheat porridge mixed with animal fats, along with the finest textiles of this period found in Europe.",
+  "source": {
+   "name": "University of Cambridge (via EurekAlert!/AAAS): Must Farm news release, 19 March 2024",
+   "url": "https://www.eurekalert.org/news-releases/1037495"
+  }
+ },
+ {
+  "id": "m13-battersea-shield",
+  "era": "classical",
+  "year": -350,
+  "dateLabel": "Made about 350–50 BCE",
+  "cat": "culture",
+  "title": "A Shield Thrown to the Thames",
+  "place": "River Thames, Battersea, London, England, UK",
+  "lat": 51.48,
+  "lng": -0.15,
+  "text": "Pulled from the River Thames near Battersea, this Iron Age treasure is really a bronze cover for a wooden shield. Its swirling La Tène-style scrolls are studded with 27 pieces of opaque red glass. Experts find it hard to date closely, but its British-style central boss shows it was almost certainly made in Britain.",
+  "source": {
+   "name": "British Museum: The Battersea Shield (1857,0715.1)",
+   "url": "https://www.britishmuseum.org/collection/object/H_1857-0715-1"
+  }
+ },
+ {
+  "id": "m13-navan-fort-temple",
+  "era": "classical",
+  "year": -95,
+  "dateLabel": "About 95 BCE",
+  "cat": "culture",
+  "title": "A Temple Built to Be Burned",
+  "place": "Navan Fort (Emain Macha), County Armagh, Northern Ireland, UK",
+  "lat": 54.35,
+  "lng": -6.7,
+  "text": "Around 95 BCE, people at Navan Fort raised a timber-ringed structure 40 metres across. As soon as it was finished, they filled it with stones and burnt it to the ground, creating the great mound that still dominates the site. Archaeologists now think such buildings were huge temples, and Irish legend makes Navan the seat of the kings of Ulster.",
+  "source": {
+   "name": "Queen's University Belfast: Research unveils early Kings of Ulster and Iron Age temples at Navan Fort",
+   "url": "https://www.qub.ac.uk/Research/our-research/research-explore/feature/research-unveils-early-kings-of-ulster-and-iron-age-temples-at-navan-fort/"
+  }
+ },
+ {
+  "id": "m13-antonine-wall",
+  "era": "classical",
+  "year": 142,
+  "dateLabel": "Begun after AD 142",
+  "cat": "power",
+  "title": "Rome's Turf Wall in Scotland",
+  "place": "Antonine Wall, between the Forth and Clyde, Scotland, UK",
+  "lat": 55.97,
+  "lng": -3.97,
+  "text": "In the years after AD 142, Emperor Antoninus Pius had the Roman army build a turf wall on a stone base right across Scotland, from the Clyde to the Forth. Soldiers of three legions recorded their work on carved distance slabs showing scenes of their campaign. The new frontier did not last: it was abandoned in the 160s for Hadrian's Wall.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Antonine Wall (David J. Breeze)",
+   "url": "https://www.britannica.com/topic/Antonine-Wall"
+  }
+ },
+ {
+  "id": "m13-hoxne-hoard",
+  "era": "classical",
+  "year": 408,
+  "dateLabel": "Buried after AD 407–408",
+  "cat": "daily",
+  "title": "Treasure Hidden as Rome Left",
+  "place": "Hoxne, Suffolk, England, UK",
+  "lat": 52.35,
+  "lng": 1.2,
+  "text": "As Britain was passing out of Roman control, someone buried a fortune at Hoxne: about 15,000 coins, jewellery and silver tableware, probably in a wooden box. The newest coins date to 407–408. Among the treasures is a silver pepper pot shaped like an imperial lady, with a turning base for sprinkling spice that came from India.",
+  "source": {
+   "name": "British Museum: The Hoxne 'Empress' pepper pot (1994,0408.33)",
+   "url": "https://www.britishmuseum.org/collection/object/H_1994-0408-33"
+  },
+  "source2": {
+   "name": "Suffolk Heritage Explorer: HXN 019, The Hoxne Hoard",
+   "url": "https://heritage.suffolk.gov.uk/Monument/MSF16162"
+  }
+ },
+ {
+  "id": "m13-book-of-kells",
+  "era": "medieval",
+  "year": 800,
+  "dateLabel": "About 800",
+  "cat": "culture",
+  "title": "The Gospels Painted on Calfskin",
+  "place": "Iona, Argyll, Scotland, UK",
+  "lat": 56.33,
+  "lng": -6.39,
+  "text": "Close to the year 800, monks most likely working on the island of Iona wrote the four Gospels in Latin on calfskin, colouring them with blue from indigo or woad and yellow made from arsenic. After a Viking raid in 806 killed 68 of the community, the monks fled to Kells in Ireland. The book is now in Trinity College Dublin.",
+  "source": {
+   "name": "Trinity College Dublin Library: The Book of Kells",
+   "url": "https://www.tcd.ie/library/research-collections/book-of-kells.php"
+  }
+ },
+ {
+  "id": "m13-battle-of-clontarf",
+  "era": "medieval",
+  "year": 1014,
+  "dateLabel": "April 23, 1014",
+  "cat": "power",
+  "title": "Brian Boru's Last Battle",
+  "place": "Clontarf, Dublin, Ireland",
+  "lat": 53.36,
+  "lng": -6.21,
+  "text": "Brian Boru rose from king of a small state in Munster to high king of all Ireland. When the men of Leinster and the Northmen of Dublin rose against him, the armies met at Clontarf on 23 April 1014. Brian was too old to fight, and his son Murchad won the day, but fleeing Northmen stumbled on Brian's tent and killed him.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Brian, king of Ireland",
+   "url": "https://www.britannica.com/biography/Brian"
+  }
+ },
+ {
+  "id": "m13-domesday-book",
+  "era": "medieval",
+  "year": 1086,
+  "dateLabel": "1086",
+  "cat": "daily",
+  "title": "Every Ox, Cow and Pig Counted",
+  "place": "Winchester, Hampshire, England, UK",
+  "lat": 51.06,
+  "lng": -1.31,
+  "text": "At Christmas 1085 William the Conqueror ordered an inquest into who held land in England and what it was worth. Jurors answered royal commissioners' questions, and Domesday Book records about 270,000 people and 13,000 settlements. One chronicler grumbled that not one ox, cow or pig was left out.",
+  "source": {
+   "name": "The National Archives (UK): Domesday",
+   "url": "https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/medieval/domesday/"
+  }
+ },
+ {
+  "id": "m13-owain-glyndwr",
+  "era": "medieval",
+  "year": 1400,
+  "dateLabel": "September 16, 1400",
+  "cat": "power",
+  "title": "Wales Proclaims Its Own Prince",
+  "place": "Glyndyfrdwy, Denbighshire, Wales, UK",
+  "lat": 52.98,
+  "lng": -3.3,
+  "text": "On 16 September 1400 Owain Glyndŵr's followers proclaimed him Prince of Wales at his court in Glyndyfrdwy, and the same day he and his kinsmen attacked the town of Ruthin. His rising, which lasted until 1409, was the last of many attempts to free Wales from English rule. In 1403 the future Henry V burned his home at Sycharth.",
+  "source": {
+   "name": "Amgueddfa Cymru – Museum Wales: Owain Glyndŵr and a timber from Sycharth",
+   "url": "https://museum.wales/blog/1680/Owain-Glyndr-and-a-timber-from-Sycharth/"
+  },
+  "source2": {
+   "name": "Dictionary of Welsh Biography (National Library of Wales): Owain Glyndŵr",
+   "url": "https://biography.wales/article/s-OWAI-GLY-1354"
+  }
+ },
+ {
+  "id": "m13-mary-rose-sinks",
+  "era": "exploration",
+  "year": 1545,
+  "dateLabel": "July 19, 1545",
+  "cat": "power",
+  "title": "The King Watched His Ship Sink",
+  "place": "The Solent, off Portsmouth, Hampshire, England, UK",
+  "lat": 50.76,
+  "lng": -1.1,
+  "text": "Built between 1509 and 1511, the Mary Rose was Henry VIII's favourite warship. On 19 July 1545, while the king watched, she capsized and sank very quickly in the Solent; no one is sure exactly why. Only about 30 men survived. Lifted from the seabed in 1982, she has given up as many as 19,000 artefacts.",
+  "source": {
+   "name": "Royal Museums Greenwich: Mary Rose",
+   "url": "https://www.rmg.co.uk/stories/topics/mary-rose"
+  }
+ },
+ {
+  "id": "m13-girona-armada-wreck",
+  "era": "exploration",
+  "year": 1588,
+  "dateLabel": "October 1588",
+  "cat": "journeys",
+  "title": "Armada Gold off the Causeway",
+  "place": "Lacada Point, near the Giant's Causeway, County Antrim, Northern Ireland, UK",
+  "lat": 55.25,
+  "lng": -6.5,
+  "text": "In October 1588 La Girona, a galleass of the Spanish Armada, sank at Lacada Point near the Giant's Causeway, and most of the 1,400 people on board died. A huge amount of gold went down with her. Divers later raised a hoard of ornate jewellery, including a gold salamander set with rubies, now on display in the Ulster Museum.",
+  "source": {
+   "name": "Causeway Coast and Glens Borough Council: Celebrating the Girona gold 50 years on",
+   "url": "https://www.causewaycoastandglens.gov.uk/news/celebrating-the-girona-gold-50-years-on"
+  }
+ },
+ {
+  "id": "m13-great-storm-1703",
+  "era": "exploration",
+  "year": 1703,
+  "dateLabel": "November 1703",
+  "cat": "nature",
+  "title": "The Great Storm of 1703",
+  "place": "Goodwin Sands, off Deal, Kent, England, UK",
+  "lat": 51.27,
+  "lng": 1.5,
+  "text": "In November 1703 a storm wreaked havoc across southern Britain, and it remains one of the worst in British recorded history. Off the Goodwin Sands a sailor watched navy ships including the Northumberland and Restoration go down. Daniel Defoe, who had seen his barometer drop unnaturally low, asked people to send in their memories and published them as The Storm in 1704.",
+  "source": {
+   "name": "Royal Museums Greenwich, Library & Archive blog: The Great Storm of 1703",
+   "url": "https://www.rmg.co.uk/stories/blog/library-archive/great-storm-1703"
+  },
+  "source2": {
+   "name": "University of York, Borthwick Institute for Archives: The Great Storm of 1703",
+   "url": "https://blogs.york.ac.uk/borthwick-institute/?p=651"
+  }
+ },
+ {
+  "id": "m13-messiah-dublin",
+  "era": "exploration",
+  "year": 1742,
+  "dateLabel": "April 13, 1742",
+  "cat": "culture",
+  "title": "Hallelujah, First Heard in Dublin",
+  "place": "Fishamble Street, Dublin, Ireland",
+  "lat": 53.34,
+  "lng": -6.27,
+  "text": "Handel's Messiah, source of the famous Hallelujah Chorus, was first performed not in London but at the New Musick Hall in Fishamble Street, Dublin, on 13 April 1742. It premiered at Easter rather than Christmas and was a triumphant success. Dublin soon made annual charity performances of Messiah a tradition, while London was slower to warm to it.",
+  "source": {
+   "name": "Trinity College Dublin Library: Music in 18th-century Dublin",
+   "url": "https://www.tcd.ie/library/exhibitions/in-tune/music_in_18thcentury_dublin.php"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Messiah (Betsy Schwarm)",
+   "url": "https://www.britannica.com/topic/Messiah-oratorio-by-Handel"
+  }
+ },
+ {
+  "id": "m13-great-exhibition",
+  "era": "industrial",
+  "year": 1851,
+  "dateLabel": "May 1 – October 11, 1851",
+  "cat": "daily",
+  "title": "Six Million Visit the Crystal Palace",
+  "place": "Hyde Park, London, England, UK",
+  "lat": 51.5,
+  "lng": -0.17,
+  "text": "The Great Exhibition opened on 1 May 1851, and in five months over 6 million people came to see it, paying between 1 and 5 shillings a day. Visitors could gaze at the Koh-i-Noor diamond, a penknife with 80 blades, beehives shaped like little town houses and a locomotive. Outside, Prince Albert's model houses showed how workers' homes could be improved.",
+  "source": {
+   "name": "Royal Collection Trust: Great Exhibition of 1851, The Exhibition",
+   "url": "https://www.rct.uk/group/381/content/explore/themes/great-exhibition-of-1851/the-exhibition"
+  }
+ },
+ {
+  "id": "m13-forth-bridge",
+  "era": "industrial",
+  "year": 1890,
+  "dateLabel": "Opened 1890",
+  "cat": "discovery",
+  "title": "The Bridge of Giant Spans",
+  "place": "Forth Bridge, Queensferry, Scotland, UK",
+  "lat": 55.999,
+  "lng": -3.39,
+  "text": "When the Forth Bridge opened across the Forth estuary in 1890, it had the world's longest spans, at 541 metres. It was the earliest great multispan cantilever bridge, built from about 54,000 tons of mild steel, then a fairly new material, resting on three towers. Its form is largely unaltered, and passenger and freight trains still cross it today.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: The Forth Bridge",
+   "url": "https://whc.unesco.org/en/list/1485"
+  }
+ },
+ {
+  "id": "m13-marconi-poldhu",
+  "era": "industrial",
+  "year": 1901,
+  "dateLabel": "December 12, 1901",
+  "cat": "discovery",
+  "title": "Three Dots Across the Atlantic",
+  "place": "Poldhu, Cornwall, England, UK",
+  "lat": 50.03,
+  "lng": -5.26,
+  "text": "Many people assumed the curve of the Earth made it impossible to send radio signals across the Atlantic. Guglielmo Marconi built a transmitter of unprecedented power at Poldhu in Cornwall, and in Newfoundland his team raised an aerial on a kite. On 12 December 1901 they heard three faint dots, the letter S in Morse, though the weak signal left some unconvinced.",
+  "source": {
+   "name": "History of Science Museum, University of Oxford: Marconi, Atlantic Crossing",
+   "url": "https://www.mhs.ox.ac.uk/marconi/exhibition/atlanticcrossing.html"
+  }
+ },
+ {
+  "id": "m13-easter-rising",
+  "era": "modern",
+  "year": 1916,
+  "dateLabel": "April 24–29, 1916",
+  "cat": "power",
+  "title": "A Republic Proclaimed at the GPO",
+  "place": "General Post Office, O'Connell Street, Dublin, Ireland",
+  "lat": 53.35,
+  "lng": -6.26,
+  "text": "On Easter Monday, 24 April 1916, Irish Volunteers and the Irish Citizen Army seized Dublin's General Post Office, and Patrick Pearse read a proclamation announcing an Irish republic. After nearly a week of street fighting, they surrendered on 29 April. The execution of Pearse and 14 other leaders turned many Irish people against British rule.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Easter Rising",
+   "url": "https://www.britannica.com/event/Easter-Rising"
+  }
+ },
+ {
+  "id": "m13-edinburgh-festival",
+  "era": "modern",
+  "year": 1947,
+  "dateLabel": "1947",
+  "cat": "culture",
+  "title": "A Festival to Reunite People",
+  "place": "Edinburgh, Scotland, UK",
+  "lat": 55.95,
+  "lng": -3.19,
+  "text": "After the devastation of the Second World War, the Edinburgh International Festival was founded in 1947 to reunite people through great art. The idea began on a walk along Princes Street, when soprano Audrey Mildmay told Rudolf Bing the city would be a wonderful setting. Eight theatre groups turned up uninvited to that first festival, and so the Festival Fringe was born.",
+  "source": {
+   "name": "Edinburgh International Festival: Our history",
+   "url": "https://www.eif.co.uk/about/our-history"
+  }
+ },
+ {
+  "id": "m13-empire-windrush",
+  "era": "modern",
+  "year": 1948,
+  "dateLabel": "June 22, 1948",
+  "cat": "journeys",
+  "title": "Windrush Docks at Tilbury",
+  "place": "Tilbury, Essex, England, UK",
+  "lat": 51.46,
+  "lng": 0.36,
+  "text": "On 22 June 1948 the ship Empire Windrush docked at Tilbury near the Thames Estuary. Its log recorded 1,027 passengers, over 800 of them from Caribbean islands such as Jamaica, Barbados and Trinidad. Britain needed workers to rebuild after the Second World War, and ministers especially wanted such workers to staff the newly created National Health Service.",
+  "source": {
+   "name": "Royal Mint Museum: Windrush",
+   "url": "https://www.royalmintmuseum.org.uk/learning/learning-zone/crossing-continents/windrush/"
+  }
+ }
+]

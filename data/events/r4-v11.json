@@ -1,0 +1,402 @@
+[
+ {
+  "id": "v11-thomas-quarry-jaws",
+  "era": "early",
+  "year": -773000,
+  "dateLabel": "About 773,000 years ago",
+  "cat": "discovery",
+  "title": "Jaws from a Carnivore's Den",
+  "place": "Grotte à Hominidés, Thomas Quarry I, Casablanca, Morocco",
+  "lat": 33.55,
+  "lng": -7.68,
+  "text": "In a cave inside a Casablanca quarry, scientists studied jaws, teeth and vertebrae from adults and a child. A gnawed thigh bone suggests the cave was a carnivore's den. A flip of Earth's magnetic field, recorded in the layers, dates them to about 773,000 years ago. Their mix of old and new features places them near the root of the lineage that led to Homo sapiens.",
+  "source": {
+   "name": "Max Planck Society: Early hominins from Morocco reveal an African lineage near the root of Homo sapiens",
+   "url": "https://www.mpg.de/25951868/0105-evan-early-hominins-from-thomas-quarry-i-morocco-150495-x"
+  }
+ },
+ {
+  "id": "v11-melka-kunture-toddler-tracks",
+  "era": "early",
+  "year": -700000,
+  "dateLabel": "About 700,000 years ago",
+  "cat": "daily",
+  "title": "Toddler Footprints Beside the Hippos",
+  "place": "Gombore II-2, Melka Kunture, upper Awash Valley, Ethiopia",
+  "lat": 8.7,
+  "lng": 38.6,
+  "text": "On a muddy lakeshore 2,000 metres up in the Ethiopian highlands, adults and very young children left footprints about 700,000 years ago. Some tracks were probably made by toddlers around a year old. Hippos, antelopes, horses, pigs and birds walked the same mud. Sharp obsidian flakes and butchered hippo bones show the group was making tools and cutting meat right there.",
+  "source": {
+   "name": "Scientific Reports (PMC): Archaeology and ichnology at Gombore II-2, Melka Kunture, Ethiopia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5809588/"
+  }
+ },
+ {
+  "id": "v11-jojosi-hornfels-quarry",
+  "era": "early",
+  "year": -220000,
+  "dateLabel": "About 220,000 to 110,000 years ago",
+  "cat": "daily",
+  "title": "A Stone Quarry Used for 100,000 Years",
+  "place": "Jojosi Dongas, near Nquthu, KwaZulu-Natal, South Africa",
+  "lat": -28.14,
+  "lng": 30.65,
+  "text": "In the eroded gullies of Jojosi, early modern humans came back again and again for one stone: hornfels, a fine-grained rock baked by ancient magma. From about 220,000 to 110,000 years ago they knapped it on the spot and carried the blanks away. Millions of their stone flakes still pave the ground today, and researchers fitted 353 pieces back together like puzzles.",
+  "source": {
+   "name": "Nature Communications (PMC): Specialised and persistent raw material procurement by humans in the Middle Pleistocene",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13057256/"
+  }
+ },
+ {
+  "id": "v11-bete-rainforest-toolmakers",
+  "era": "early",
+  "year": -150000,
+  "dateLabel": "About 150,000 years ago",
+  "cat": "nature",
+  "title": "Toolmakers in the Rainforest",
+  "place": "Bété I, Anyama, near Abidjan, Côte d'Ivoire",
+  "lat": 5.52,
+  "lng": -4.06,
+  "text": "Quarrying 20 km north of Abidjan exposed deep layers holding stone picks, scrapers and points. Dating puts the first human visits at about 150,000 years ago, and plant waxes, pollen and tiny silica particles show the site sat in wet tropical forest. Before this study, the oldest clear link between humans and African rainforest was only about 18,000 years old.",
+  "source": {
+   "name": "Nature (PMC): Humans in Africa's wet tropical forests 150 thousand years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11981921/"
+  }
+ },
+ {
+  "id": "v11-contrebandiers-fur-tools",
+  "era": "early",
+  "year": -110000,
+  "dateLabel": "About 120,000 to 90,000 years ago",
+  "cat": "daily",
+  "title": "Fur Workers of the Smugglers' Cave",
+  "place": "Contrebandiers Cave, Témara, Atlantic coast, Morocco",
+  "lat": 33.93,
+  "lng": -6.91,
+  "text": "In a seaside cave near Rabat, people made 62 bone tools between 120,000 and 90,000 years ago, including smoothed spatula-like pieces probably used to work leather and fur. Bones of sand foxes, golden jackals and wildcats carry cut marks from skinning. One odd find is the tip of a tooth, probably from a sperm whale, that seems to have been used as a tool.",
+  "source": {
+   "name": "iScience (PMC): A worked bone assemblage from 120,000-90,000 year old deposits at Contrebandiers Cave",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8478944/"
+  }
+ },
+ {
+  "id": "v11-karonga-fire-landscape",
+  "era": "early",
+  "year": -92000,
+  "dateLabel": "About 92,000 years ago",
+  "cat": "nature",
+  "title": "Hunters Who Reshaped a Landscape with Fire",
+  "place": "Chitimwe Beds, Karonga District, northern Lake Malawi, Malawi",
+  "lat": -9.93,
+  "lng": 33.93,
+  "text": "Along northern Lake Malawi, dense spreads of Middle Stone Age tools appear after about 92,000 years ago. At the same moment, a sediment core from the lake records surging charcoal and a mix of plants unlike anything in the previous half-million years. Researchers argue early modern humans were setting fires out of season, changing the vegetation and loosening soils that washed down into fans.",
+  "source": {
+   "name": "Science Advances (PMC): Early human impacts and ecosystem reorganization in southern-central Africa",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8099189/"
+  }
+ },
+ {
+  "id": "v11-mumba-eggshell-bead-network",
+  "era": "early",
+  "year": -48000,
+  "dateLabel": "About 50,000 to 33,000 years ago",
+  "cat": "journeys",
+  "title": "Beads Shared Across 3,000 Kilometres",
+  "place": "Mumba Rockshelter, Lake Eyasi, Tanzania",
+  "lat": -3.54,
+  "lng": 35.3,
+  "text": "Researchers measured 1,516 ostrich eggshell beads from 31 African sites. Between about 50,000 and 33,000 years ago, beads from eastern African shelters such as Mumba and from Border Cave in South Africa, more than 3,000 km apart, fell in the same size range, hinting at a long social network. Around 33,000 years ago that link broke, and the regions stayed apart for many thousands of years.",
+  "source": {
+   "name": "Nature (PMC): Ostrich eggshell beads reveal 50,000-year-old social network in Africa",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8755535/"
+  }
+ },
+ {
+  "id": "v11-mlambalasi-oldest-dna",
+  "era": "iceage",
+  "year": -16500,
+  "dateLabel": "About 20,000 to 17,000 years ago",
+  "cat": "discovery",
+  "title": "Africa's Oldest Human DNA South of the Sahara",
+  "place": "Mlambalasi Rockshelter, Iringa Region, Tanzania",
+  "lat": -7.59,
+  "lng": 35.5,
+  "text": "Genetic material from a forager buried at Mlambalasi Rockshelter, dated to roughly 20,000 to 17,000 years ago, helped double the time depth of ancient DNA from sub-Saharan Africa. Studying six new individuals from Tanzania, Malawi and Zambia, researchers found that people were most closely related to near neighbours, a sign that groups were settling into separate regions as the Ice Age ended.",
+  "source": {
+   "name": "Nature (PMC): Ancient DNA and deep population structure in sub-Saharan African foragers",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8907066/"
+  }
+ },
+ {
+  "id": "v11-ga-mohana-coloured-beads",
+  "era": "iceage",
+  "year": -12800,
+  "dateLabel": "About 15,000 years ago",
+  "cat": "culture",
+  "title": "Bead Makers of the Kalahari",
+  "place": "Ga-Mohana Hill North Rockshelter, near Kuruman, Northern Cape, South Africa",
+  "lat": -27.37,
+  "lng": 23.35,
+  "text": "In a rock shelter 12 km from Kuruman, people were making ostrich eggshell beads about 15,000 years ago. Archaeologists found finished beads, half-drilled blanks and scraps, showing nearly every step of the craft. Most pieces turned yellow, suggesting heating to around 200 °C, ten of the 19 beads carry red residue, and one bead is black, perhaps coloured on purpose.",
+  "source": {
+   "name": "PLOS ONE: Ostrich eggshell beads from Ga-Mohana Hill North Rockshelter, southern Kalahari",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268943"
+  }
+ },
+ {
+  "id": "v11-dimtu-highest-camp",
+  "era": "iceage",
+  "year": -12400,
+  "dateLabel": "About 14,500 years ago",
+  "cat": "journeys",
+  "title": "Africa's Highest Ice Age Campsite",
+  "place": "Dimtu rock shelter, Sanetti Plateau, Bale Mountains, Ethiopia",
+  "lat": 6.8,
+  "lng": 39.8,
+  "text": "As glaciers melted from Ethiopia's Bale Mountains and rains returned about 15,000 years ago, hunter-gatherers climbed to Dimtu rock shelter at 4,023 metres, the highest known layered archaeological site in Africa. They left hearths, ash, bones and obsidian tools between about 14,800 and 13,900 years ago. Chemical tests show some obsidian came from lowland sources, proof of trade networks reaching the summit plateau.",
+  "source": {
+   "name": "Landscape Ecology (PMC): Human occupation of the Afroalpine Bale Mountains at the onset of the African Humid Period",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13083501/"
+  }
+ },
+ {
+  "id": "v11-taforalt-ephedra-burial",
+  "era": "iceage",
+  "year": -12600,
+  "dateLabel": "About 15,000 years ago",
+  "cat": "culture",
+  "title": "A Medicinal Plant at an Ice Age Grave",
+  "place": "Grotte des Pigeons, Taforalt, Oriental Region, Morocco",
+  "lat": 34.81,
+  "lng": -2.41,
+  "text": "In a burial area of Grotte des Pigeons, archaeologists found charred cone scales of Ephedra, a shrub rich in ephedrine. Radiocarbon dates show the plant and the buried people are both about 15,000 years old, the earliest Ephedra remains of this kind. The same Iberomaurusian foragers pulled teeth and drilled skulls, and the researchers suggest the plant may have served medicine as well as funerals.",
+  "source": {
+   "name": "Scientific Reports (PMC): Late Pleistocene exploitation of Ephedra in a funerary context in Morocco",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11531600/"
+  }
+ },
+ {
+  "id": "v11-qurta-aurochs-engravings",
+  "era": "iceage",
+  "year": -13000,
+  "dateLabel": "At least 15,000 years ago",
+  "cat": "culture",
+  "title": "Wild Cattle Carved Beside the Nile",
+  "place": "Qurta, near Kom Ombo, Aswan Governorate, Egypt",
+  "lat": 24.62,
+  "lng": 32.97,
+  "text": "On rock faces at Qurta in Upper Egypt, people carved images of aurochs, the huge wild cattle of the Ice Age, alongside other animals. Wind-blown sand later buried some panels. Luminescence dating of that sand shows the carvings are at least 15,000 years old, making them the first securely dated Ice Age rock art in North Africa and the oldest found there so far.",
+  "source": {
+   "name": "Antiquity (Cambridge): First evidence of Pleistocene rock art in North Africa: securing the age of the Qurta petroglyphs",
+   "url": "https://www.cambridge.org/core/product/FBE838867A15C3CE76CAF883568AC251"
+  }
+ },
+ {
+  "id": "v11-matjes-river-genomes",
+  "era": "iceage",
+  "year": -8250,
+  "dateLabel": "About 10,200 years ago",
+  "cat": "discovery",
+  "title": "Ancient Genomes from a Southern Shore",
+  "place": "Matjes River Rock Shelter, Keurbooms, Western Cape, South Africa",
+  "lat": -34.03,
+  "lng": 23.4,
+  "text": "At Matjes River on South Africa's southern coast, researchers sequenced the genomes of people who lived across 8,000 years, the oldest about 10,200 years ago. These ancient southern Africans had a genetic make-up outside the range of any people living today. Their DNA also hints at special adaptations: variants linked to kidney function across all Homo sapiens, and to sun protection in southern Africa.",
+  "source": {
+   "name": "Nature (PMC): Homo sapiens-specific evolution unveiled by ancient southern African genomes",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12872451/"
+  }
+ },
+ {
+  "id": "v11-marathousa-wooden-tools",
+  "era": "early",
+  "year": -430000,
+  "dateLabel": "About 430,000 years ago",
+  "cat": "discovery",
+  "title": "The Oldest Wooden Hand Tools",
+  "place": "Marathousa 1, Megalopolis Basin, Peloponnese, Greece",
+  "lat": 37.38,
+  "lng": 22.11,
+  "text": "By an ancient lakeshore in southern Greece, early humans butchered straight-tusked elephants about 430,000 years ago. The lake mud also preserved wood. A worked alder trunk shows wear from use as a digging stick, and a tiny willow or poplar piece was shaped, perhaps for making stone tools. They are the oldest handheld wooden tools known. Another log bears claw marks from a large carnivore.",
+  "source": {
+   "name": "PNAS (PMC): Evidence for the earliest hominin use of wooden handheld tools found at Marathousa 1 (Greece)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12890827/"
+  }
+ },
+ {
+  "id": "v11-barnham-fire-making",
+  "era": "early",
+  "year": -400000,
+  "dateLabel": "About 400,000 years ago",
+  "cat": "discovery",
+  "title": "Sparks from a Suffolk Clay Pit",
+  "place": "Barnham, near Thetford, Suffolk, England, United Kingdom",
+  "lat": 52.37,
+  "lng": 0.75,
+  "text": "At an old clay pit in Barnham, heat-reddened flints and repeatedly burnt sediment mark campfires about 400,000 years ago. Beside them lay two small fragments of pyrite, a mineral that throws sparks when struck with flint and does not occur naturally there. Someone carried it in to light fires, pushing back proof of fire-making by about 350,000 years. The makers were probably early Neanderthals.",
+  "source": {
+   "name": "Natural History Museum: Earliest fire-making dating back 400,000 years unearthed in Suffolk, England",
+   "url": "https://www.nhm.ac.uk/discover/news/2025/december/earliest-fire-making-dating-back-400-000-years-unearthed-in-suffolk-england.html"
+  }
+ },
+ {
+  "id": "v11-neumark-nord-fat-factory",
+  "era": "early",
+  "year": -125000,
+  "dateLabel": "About 125,000 years ago",
+  "cat": "daily",
+  "title": "A Neanderthal Fat Factory",
+  "place": "Neumark-Nord, near Halle, Saxony-Anhalt, Germany",
+  "lat": 51.33,
+  "lng": 11.88,
+  "text": "Beside a lake south of Halle, Neanderthals carried in parts of at least 172 large animals about 125,000 years ago. They smashed the bones into small pieces, almost certainly to boil out grease, the fat that floats to the top and can be skimmed off. Until this find, such bone-grease rendering was known only from much later Upper Palaeolithic hunters.",
+  "source": {
+   "name": "Science Advances (PMC): Large-scale processing of within-bone nutrients by Neanderthals, 125,000 years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12219469/"
+  }
+ },
+ {
+  "id": "v11-roche-cotard-finger-lines",
+  "era": "early",
+  "year": -57000,
+  "dateLabel": "More than 57,000 years ago",
+  "cat": "culture",
+  "title": "Finger Lines in a Sealed Cave",
+  "place": "La Roche-Cotard, Langeais, Loire Valley, France",
+  "lat": 47.34,
+  "lng": 0.43,
+  "text": "On a cave wall above the Loire, someone drew lines, waves and dotted patterns with their fingers in soft rock. Sediment later sealed the entrance until 1846, when it was dug out for a railway embankment. Dating shows the marks are more than 57,000 years old, before modern humans reached the area, so the artists were almost certainly Neanderthals. One panel incorporates a large fossil shell.",
+  "source": {
+   "name": "PLOS ONE: The earliest unambiguous Neanderthal engravings on cave walls: La Roche-Cotard, Loire Valley, France",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286568"
+  }
+ },
+ {
+  "id": "v11-abric-romani-woodwork",
+  "era": "early",
+  "year": -50000,
+  "dateLabel": "About 62,000 to 40,000 years ago",
+  "cat": "daily",
+  "title": "Neanderthal Trays, Spears and a Club",
+  "place": "Abric Romaní, Capellades, Barcelona, Catalonia, Spain",
+  "lat": 41.53,
+  "lng": 1.69,
+  "text": "At Abric Romaní, a limestone crust called travertine encased Neanderthal wooden objects, leaving 597 imprints and charred remains between 62,000 and 40,000 years ago. They include spears, pointed sticks, bark trays, posts and a tripod-like structure. One club-shaped object from level P has no clear match anywhere else in prehistory. The site has been dug since its discovery in 1909.",
+  "source": {
+   "name": "Science Advances (PMC): Neanderthal woodworking at Abric Romaní",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13644747/"
+  }
+ },
+ {
+  "id": "v11-zlaty-kun-first-europeans",
+  "era": "early",
+  "year": -45000,
+  "dateLabel": "More than 45,000 years ago",
+  "cat": "journeys",
+  "title": "A Woman from Europe's First Wave",
+  "place": "Zlatý kůň, Koněprusy Caves, Central Bohemia, Czechia",
+  "lat": 49.91,
+  "lng": 14.07,
+  "text": "A skull found in a Czech cave in 1950 long seemed only 15,000 years old, but animal glue used to conserve it probably skewed the dates. Her genome tells another story. Long Neanderthal DNA segments show she lived more than 45,000 years ago, among Europe's first modern humans, in a population that left no descendants among later Europeans or Asians. Marks on the skull look like hyena bites.",
+  "source": {
+   "name": "Nature Ecology & Evolution (PMC): A genome sequence from a modern human skull over 45,000 years old from Zlatý kůň in Czechia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8175239/"
+  }
+ },
+ {
+  "id": "v11-krems-twins",
+  "era": "iceage",
+  "year": -29000,
+  "dateLabel": "About 31,000 years ago",
+  "cat": "culture",
+  "title": "The Oldest Known Identical Twins",
+  "place": "Krems-Wachtberg, Krems an der Donau, Lower Austria, Austria",
+  "lat": 48.41,
+  "lng": 15.61,
+  "text": "On a hill above the Danube, two newborn boys were laid in red ochre about 31,000 years ago, and a mammoth shoulder blade was placed over the grave. Ancient DNA shows they were identical twins, the earliest known. One died at birth, the other lived about 50 days and wore 53 mammoth-ivory beads. A third baby nearby was a relative.",
+  "source": {
+   "name": "Communications Biology (PMC): Ancient DNA reveals monozygotic newborn twins from the Upper Palaeolithic",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7648643/"
+  }
+ },
+ {
+  "id": "v11-cussac-soft-shoes",
+  "era": "iceage",
+  "year": -27500,
+  "dateLabel": "About 31,000 to 28,000 years ago",
+  "cat": "daily",
+  "title": "Soft Shoes in a Painted Cave",
+  "place": "Grotte de Cussac, Le Buisson-de-Cadouin, Dordogne, France",
+  "lat": 44.83,
+  "lng": 0.87,
+  "text": "Cussac Cave, discovered in 2000, holds giant engravings and human remains laid in old bear nests. Its clay floors also kept footprints 28,000 to 31,000 years old. Strangely, the toes barely show, while bear prints beside them are crisp. Experiments with soft leather footwear produced similar prints, so the Gravettian visitors most likely wore shoes as they moved through the cave.",
+  "source": {
+   "name": "Scientific Reports (PMC): Evidence of the use of soft footwear in the Gravettian cave of Cussac",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8610977/"
+  }
+ },
+ {
+  "id": "v11-malalmuerzo-solutrean-dna",
+  "era": "iceage",
+  "year": -21000,
+  "dateLabel": "About 23,000 years ago",
+  "cat": "discovery",
+  "title": "DNA from the Coldest Age in Spain",
+  "place": "Cueva del Malalmuerzo, Moclín, Granada, Andalusia, Spain",
+  "lat": 37.34,
+  "lng": -3.79,
+  "text": "Two teeth from Cueva del Malalmuerzo, a cave known for its Ice Age paintings, were dated to about 23,000 years ago, at the height of the last glacial maximum. The DNA of this Solutrean-era person links Europe's earlier Aurignacian people with the Magdalenian groups who came after the ice. It suggests southern Iberia sheltered old western European ancestry through the cold.",
+  "source": {
+   "name": "Nature Ecology & Evolution (PMC): A 23,000-year-old southern Iberian individual links human groups before and after the Last Glacial Maximum",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10089921/"
+  }
+ },
+ {
+  "id": "v11-maszycka-magdalenian-cannibalism",
+  "era": "iceage",
+  "year": -16000,
+  "dateLabel": "About 18,000 years ago",
+  "cat": "culture",
+  "title": "Cut Marks in a Polish Cave",
+  "place": "Maszycka Cave, Prądnik Valley, near Kraków, Poland",
+  "lat": 50.17,
+  "lng": 19.81,
+  "text": "Maszycka Cave near Kraków was first dug in 1883. Re-examining its human bones, about 18,000 years old, researchers found remains of at least ten people, six adults and four young. Skulls were cut and broken to remove brains, and even thin leg bones were smashed for marrow. They argue cannibalism was a regular practice among Magdalenian groups, though whether ritual or warfare remains unclear.",
+  "source": {
+   "name": "Scientific Reports (PMC): New insights of cultural cannibalism amongst Magdalenian groups at Maszycka Cave, Poland",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11802845/"
+  }
+ },
+ {
+  "id": "v11-biscay-whale-bone-tools",
+  "era": "iceage",
+  "year": -15700,
+  "dateLabel": "About 20,000 to 14,000 years ago",
+  "cat": "daily",
+  "title": "Spear Points Made from Whales",
+  "place": "Santa Catalina Cave, Lekeitio, Biscay, Spain",
+  "lat": 43.37,
+  "lng": -2.52,
+  "text": "Ice Age hunters around the Bay of Biscay carved projectile points from whale bone. Protein fingerprinting of objects from caves such as Santa Catalina identified fin, sperm, gray and blue whales, plus porpoise. Radiocarbon dates of 20,000 to 14,000 years ago, peaking between 17,500 and 16,000, make this the oldest known whale-bone working. Gray whales today live only in the North Pacific.",
+  "source": {
+   "name": "Nature Communications (PMC): Late Paleolithic whale bone tools reveal human and whale ecology in the Bay of Biscay",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12117114/"
+  }
+ },
+ {
+  "id": "v11-font-de-gaume-charcoal-dates",
+  "era": "iceage",
+  "year": -11300,
+  "dateLabel": "About 13,300 years ago",
+  "cat": "discovery",
+  "title": "Dating Bison Drawn in Charcoal",
+  "place": "Font-de-Gaume Cave, Les Eyzies, Dordogne, France",
+  "lat": 44.94,
+  "lng": 1.03,
+  "text": "Dordogne cave art was thought to use only mineral pigments, which radiocarbon cannot date. Then imaging at Font-de-Gaume found figures drawn in carbon black, likely charcoal. Tiny samples gave the first direct dates for the region's cave art: a bison about 13,300 years old and a mysterious mask with lips about 15,000 years old. One sample from the mask's eye came out far younger.",
+  "source": {
+   "name": "PNAS (PMC): Radiocarbon dating and chemical imaging of carbon black-based Paleolithic cave art in the Dordogne region",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13012072/"
+  }
+ }
+]

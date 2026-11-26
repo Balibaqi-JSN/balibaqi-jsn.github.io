@@ -1,0 +1,422 @@
+[
+ {
+  "id": "w12-quanhucun-leopard-cats",
+  "era": "ancient",
+  "year": -3300,
+  "dateLabel": "About 3300 BCE",
+  "cat": "daily",
+  "title": "Mousers in a Millet Village",
+  "place": "Quanhucun, Hua County, Shaanxi, China",
+  "lat": 34.52,
+  "lng": 109.77,
+  "text": "In a Yangshao farming village, rodents tunnelled straight into the grain pits. Small cats moved in too. Their bones carry the chemical stamp of millet, so they were eating grain-fed mice and maybe scraps from people. One cat seems to have been fed directly. The twist: later skull studies showed these were leopard cats, not the ancestors of today's house cats, a partnership that lasted about 3,500 years.",
+  "source": {
+   "name": "PNAS (via PMC): Earliest evidence for commensal processes of cat domestication",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3890806/"
+  },
+  "source2": {
+   "name": "PLOS ONE: Earliest 'Domestic' Cats in China Identified as Leopard Cat",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147295"
+  }
+ },
+ {
+  "id": "w12-ban-non-wat-first-chickens",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 1650 to 1250 BCE",
+  "cat": "discovery",
+  "title": "Where the First Chickens Pecked",
+  "place": "Ban Non Wat, Nakhon Ratchasima, Thailand",
+  "lat": 15.2,
+  "lng": 102.27,
+  "text": "The earliest bones that are clearly from domestic chickens come from this Neolithic village in Thailand. Researchers think rice and millet fields drew wild red junglefowl into settlements, and taming followed. Chickens then spread slowly, reaching the Mediterranean around 800 BCE. In early Europe they were often buried whole with no cut marks, prized as something special long before they became dinner.",
+  "source": {
+   "name": "PNAS (via Europe PMC): The biocultural origins and dispersal of domestic chickens",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9214543/"
+  }
+ },
+ {
+  "id": "w12-tsunayoshi-dog-shogun",
+  "era": "exploration",
+  "year": 1687,
+  "dateLabel": "1687",
+  "cat": "power",
+  "title": "The Shogun Who Protected Dogs",
+  "place": "Nakano, Edo (Tokyo), Japan",
+  "lat": 35.71,
+  "lng": 139.66,
+  "text": "Born in the Year of the Dog, shogun Tokugawa Tsunayoshi began issuing his Orders on Compassion for Living Things in 1687. Abusing animals could eventually bring a death sentence. Frightened owners dumped their dogs, so the government built huge kennels, with Nakano said to hold about 100,000 strays. The laws died with him in 1709, and some kennel managers spent 48 years repaying their dog-care funds.",
+  "source": {
+   "name": "Japan Medical Association Journal: Shoguns and Animals (Tsuruoka, 2016)",
+   "url": "https://www.med.or.jp/english/activities/pdf/2016_01/05901049.pdf"
+  }
+ },
+ {
+  "id": "w12-yoshimune-elephant-court-rank",
+  "era": "exploration",
+  "year": 1729,
+  "dateLabel": "1729",
+  "cat": "journeys",
+  "title": "An Elephant Gets a Court Rank",
+  "place": "Imperial Palace, Kyoto, Japan",
+  "lat": 35.03,
+  "lng": 135.76,
+  "text": "Shogun Yoshimune ordered two elephants from Vietnam, and the surviving young male set off from Nagasaki in 1729, walking about 1,000 km to Edo. In Kyoto it was presented to the emperor. Only people with court rank could enter the palace, so officials hastily gave the elephant one. It later ended up as a show animal in Nakano and died in 1742, aged just 21.",
+  "source": {
+   "name": "Japan Medical Association Journal: Shoguns and Animals (Tsuruoka, 2016)",
+   "url": "https://www.med.or.jp/english/activities/pdf/2016_01/05901049.pdf"
+  }
+ },
+ {
+  "id": "w12-xian-dromedary-camel",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "About 1100 to 1300 CE",
+  "cat": "discovery",
+  "title": "An Arabian Camel in Song China",
+  "place": "Wei River floodplain, Gaoling District, Xi'an, Shaanxi, China",
+  "lat": 34.53,
+  "lng": 109.09,
+  "text": "Most camels on China's Silk Road were two-humped Bactrians, so a forearm bone dug from the Wei River floodplain was a shock. DNA showed it came from a one-humped Arabian camel of the Song period, the first genetically confirmed in China. Stranger still, nearly half its ancestry was Bactrian, hinting that caravan people deliberately crossbred the two species for tougher pack animals.",
+  "source": {
+   "name": "Zoological Research (via Europe PMC): Domestic camel paleogenomics in Xi'an, China",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13647054/"
+  }
+ },
+ {
+  "id": "w12-umm-el-marra-kungas",
+  "era": "ancient",
+  "year": -2400,
+  "dateLabel": "About 2550 to 2300 BCE",
+  "cat": "discovery",
+  "title": "Kungas, the First Designer Hybrids",
+  "place": "Tell Umm el-Marra, near Aleppo, Syria",
+  "lat": 36.19,
+  "lng": 37.68,
+  "text": "Bronze Age elites at Umm el-Marra buried 25 male equids in their own graves. DNA revealed they were kungas, bred from a domestic donkey mother and a wild Syrian ass father: the earliest known human-made hybrid animals. Cuneiform texts priced a kunga at up to six times a donkey. Big males pulled war wagons and the carts of nobles and gods, until horses arrived and took over.",
+  "source": {
+   "name": "Science Advances (via PMC): The genetic identity of the earliest human-made hybrid animals, the kungas",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8759742/"
+  }
+ },
+ {
+  "id": "w12-gath-egyptian-donkeys",
+  "era": "ancient",
+  "year": -2700,
+  "dateLabel": "About 2700 BCE",
+  "cat": "culture",
+  "title": "Egyptian Donkeys Under the Floor",
+  "place": "Tell es-Safi/Gath, central Israel",
+  "lat": 31.7,
+  "lng": 34.85,
+  "text": "Beneath ordinary house floors at early Bronze Age Gath, archaeologists found four young female donkeys, each trussed in its own pit with its head facing east. Chemical signals in their teeth showed they were born and raised in Egypt, fed on Nile Valley plants, then brought north and sacrificed as building offerings. One was beheaded and its head laid on its belly.",
+  "source": {
+   "name": "PLOS ONE (via Europe PMC): An isotopic perspective on equid selection in cult at Tell es-Safi/Gath",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12240359/"
+  }
+ },
+ {
+  "id": "w12-beni-hassan-cat-skulls",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "About 380 to 40 BCE",
+  "cat": "culture",
+  "title": "Cats Raised to Become Offerings",
+  "place": "Beni Hassan, Minya, Egypt",
+  "lat": 27.93,
+  "lng": 30.88,
+  "text": "In 1890 a ship brought about 200,000 animal mummies from Beni Hassan to Liverpool to be ground into fertiliser. Some cat skulls were saved, and 131 now sit in Vienna. Most were probably domestic cats, with a few jungle cats. Over 60 percent show disease, mostly bad teeth, hinting at cramped captivity, and some bear deliberate blows from people preparing them as votive offerings.",
+  "source": {
+   "name": "Journal of Archaeological Science (via Europe PMC): Keeping cats for mummification in ancient Egypt",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7619746/"
+  }
+ },
+ {
+  "id": "w12-nong-sarai-war-elephants",
+  "era": "exploration",
+  "year": 1593,
+  "dateLabel": "1593",
+  "cat": "power",
+  "title": "The Elephant Duel That Maybe Wasn't",
+  "place": "Nong Sarai, Don Chedi, Suphanburi, Thailand",
+  "lat": 14.64,
+  "lng": 99.98,
+  "text": "Thai schoolbooks tell how Prince Naresuan challenged the Burmese crown prince to a duel on war elephants at Nong Sarai in 1593. Historian Barend Terwiel compared ten accounts and found they clash. Burmese annals say one of their own elephants in musth, unblindfolded, gored the prince's mount before a gunshot finished him. Naresuan's elephant later received a noble rank and a state funeral.",
+  "source": {
+   "name": "Journal of the Siam Society: What Happened at Nong Sarai? (Terwiel, 2013)",
+   "url": "https://so06.tci-thaijo.org/index.php/pub_jss/article/download/158247/114632/433498"
+  }
+ },
+ {
+  "id": "w12-akbar-hawai-bridge",
+  "era": "exploration",
+  "year": 1561,
+  "dateLabel": "1561",
+  "cat": "power",
+  "title": "Akbar's Wild Ride on Hawa'i",
+  "place": "Agra Fort, Agra, Uttar Pradesh, India",
+  "lat": 27.18,
+  "lng": 78.02,
+  "text": "Outside Agra Fort in 1561, the young emperor Akbar climbed onto Hawa'i, one of the fiercest elephants in the imperial stables, and set him against the equally wild Ran Bagha. The chase thundered onto a bridge of boats across the Jumna, which lurched and gave way under the giants, sending servants diving into the river. Court painters later recorded the scene for the Akbarnama.",
+  "source": {
+   "name": "Victoria and Albert Museum: Akbar (Akbarnama painting, IS.2:22-1896)",
+   "url": "https://collections.vam.ac.uk/item/O9408/akbar-painting-basawan/"
+  }
+ },
+ {
+  "id": "w12-akbar-hunting-cheetahs",
+  "era": "exploration",
+  "year": 1560,
+  "dateLabel": "1560",
+  "cat": "daily",
+  "title": "Catching Cheetahs for the Emperor",
+  "place": "Countryside near Agra, Uttar Pradesh, India",
+  "lat": 27.25,
+  "lng": 77.95,
+  "text": "Akbar first hunted cheetahs in 1560, and his chronicler Abu'l Fazl called catching them the most remarkable hunting art in Hindustan. Wild cheetahs were lured into specially dug pits so they would not be hurt, then tamed and trained for the chase. The finest joined the royal establishment, led out by keepers on jewelled collars, as Akbarnama paintings of hunts near Agra show.",
+  "source": {
+   "name": "Victoria and Albert Museum: Akbar assists in capturing a cheetah",
+   "url": "https://collections.vam.ac.uk/item/O9248/akbar-assists-in-capturing-a-painting-tulsi/"
+  },
+  "source2": {
+   "name": "Victoria and Albert Museum: Akbar hunting with cheetahs near Agra (IS.2:24-1896)",
+   "url": "https://collections.vam.ac.uk/item/O9412/akbar-painting-basawan/"
+  }
+ },
+ {
+  "id": "w12-laika-sputnik-2",
+  "era": "modern",
+  "year": 1957,
+  "dateLabel": "3 November 1957",
+  "cat": "journeys",
+  "title": "A Moscow Stray Goes to Orbit",
+  "place": "Baikonur Cosmodrome (Tyuratam), Kazakhstan",
+  "lat": 45.92,
+  "lng": 63.34,
+  "text": "On 3 November 1957, less than a month after Sputnik 1, a rocket from Baikonur carried a dog named Laika into orbit. She was a part-Samoyed terrier picked up as a stray in Moscow, chosen partly for her calm temper. Sputnik 2 was rushed for propaganda, with no way home. Laika probably survived only hours, apparently after its temperature controls failed.",
+  "source": {
+   "name": "NASA: 60 Years Ago, The First Animal in Orbit",
+   "url": "https://www.nasa.gov/history/60-years-ago-the-first-animal-in-orbit/"
+  },
+  "source2": {
+   "name": "Royal Museums Greenwich: What was the first animal in space?",
+   "url": "https://www.rmg.co.uk/stories/space-astronomy/what-was-first-animal-space"
+  }
+ },
+ {
+  "id": "w12-dzhankent-pet-cat",
+  "era": "medieval",
+  "year": 860,
+  "dateLabel": "About 775 to 940 CE",
+  "cat": "daily",
+  "title": "A Nursed Cat on the Silk Road",
+  "place": "Dzhankent, Syr Darya delta, Kyzylorda Region, Kazakhstan",
+  "lat": 45.73,
+  "lng": 62.15,
+  "text": "In a rubbish heap inside Dzhankent, a walled Silk Road town near the Aral Sea, lay a small male cat from about 775 to 940 CE. He had a broken leg that was still healing, a damaged elbow and few front teeth, yet his bones show a rich, protein-heavy diet. Someone fed and nursed him, though the local Oghuz were herders with no known habit of keeping cats.",
+  "source": {
+   "name": "Scientific Reports (via Europe PMC): The earliest domestic cat on the Silk Road",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7347622/"
+  }
+ },
+ {
+  "id": "w12-swan-point-salmon-canids",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "About 12,000 years ago",
+  "cat": "discovery",
+  "title": "Wolves Fed on Salmon",
+  "place": "Swan Point, Tanana Valley, Alaska, USA",
+  "lat": 64.16,
+  "lng": -146.18,
+  "text": "Around 12,000 years ago at Swan Point in interior Alaska, a canid lived on a diet more than half salmon, just when people there began eating salmon too. At nearby Hollembaek's Hill, canids from about 8,100 years ago got 61 to 82 percent of their food from salmon, too much for scavenging. Researchers think they were tame wolves or early dogs fed by people.",
+  "source": {
+   "name": "Science Advances (via Europe PMC): Late Pleistocene onset of mutualistic human/canid relationships in subarctic Alaska",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11619702/"
+  }
+ },
+ {
+  "id": "w12-camp-verde-army-camels",
+  "era": "industrial",
+  "year": 1856,
+  "dateLabel": "1856",
+  "cat": "journeys",
+  "title": "The US Army's Camel Experiment",
+  "place": "Camp Verde, Kerr County, Texas, USA",
+  "lat": 29.89,
+  "lng": -99.11,
+  "text": "In May 1856 the ship USS Supply landed camels in Texas, the start of a US Army experiment pushed by War Secretary Jefferson Davis with $30,000 from Congress. Based at Camp Verde, the camels needed less food and water than mules and carried heavier loads, marching on through rocky country where horses and mules were exhausted. The Civil War ended it, and the camels were sold or escaped.",
+  "source": {
+   "name": "U.S. Army: The history of the Army Camel Corps",
+   "url": "https://www.army.mil/article/166054/the_history_of_the_army_camel_corps"
+  },
+  "source2": {
+   "name": "National Park Service, Big Bend: Camel Expedition Story",
+   "url": "https://www.nps.gov/bibe/learn/historyculture/camel-expeditions.htm"
+  }
+ },
+ {
+  "id": "w12-el-olivar-diaguita-llamas",
+  "era": "medieval",
+  "year": 1250,
+  "dateLabel": "About 1090 to 1440 CE",
+  "cat": "culture",
+  "title": "Llamas Buried Beside the Diaguita",
+  "place": "El Olivar, Elqui River mouth, La Serena, Chile",
+  "lat": -29.89,
+  "lng": -71.26,
+  "text": "At El Olivar, a huge Diaguita burial ground at the mouth of the Elqui River, people laid 57 whole camelids in graves between about 1090 and 1440 CE, some bigger than the humans buried with them. Bone chemistry, DNA and tartar on their teeth point to llamas tended by people, even fed cooked food. Researchers call it the first solid evidence of domestic llamas here before the Inca.",
+  "source": {
+   "name": "PLOS ONE (via Europe PMC): Multi-proxy analysis of El Olivar camelids (1,090-1,440 cal AD)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12118933/"
+  }
+ },
+ {
+  "id": "w12-patagonia-aonikenk-horses",
+  "era": "exploration",
+  "year": 1617,
+  "dateLabel": "About 1540 to 1650 CE",
+  "cat": "daily",
+  "title": "Patagonia's Early Horse Keepers",
+  "place": "Chorrillo Grande 1, Gallegos River, Santa Cruz, Argentina",
+  "lat": -51.68,
+  "lng": -69.85,
+  "text": "Written records put the first horses in southern Patagonia around 1741, but bones at Chorrillo Grande 1 tell an earlier story. Aónikenk hunter-gatherers were raising and eating horses perhaps by the early 1600s, within about a century of horses reaching the region. DNA showed they favoured young mares, an unusual choice for herders, and one horse's teeth record a long trip north and back.",
+  "source": {
+   "name": "Science Advances (via Europe PMC): Interdisciplinary evidence for early domestic horse exploitation in southern Patagonia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10708174/"
+  }
+ },
+ {
+  "id": "w12-kuri-polynesian-dog",
+  "era": "medieval",
+  "year": 1300,
+  "dateLabel": "About 1300 CE",
+  "cat": "journeys",
+  "title": "The Dog That Howled",
+  "place": "Moncks Cave, Redcliffs, Christchurch, New Zealand",
+  "lat": -43.56,
+  "lng": 172.74,
+  "text": "About 700 years ago, East Polynesian voyagers brought the kurī, a small, short-legged dog with pricked ears and a curled tail, to New Zealand. Of their dog, pig and chicken, only the dog took hold. Kurī guarded, hunted and were eaten, and their skins made kahu kurī, prized chiefs' cloaks. They reportedly howled instead of barking. A tiny carving from Moncks Cave is the only known image of one.",
+  "source": {
+   "name": "Canterbury Museum: Man's best friend in pre-European New Zealand",
+   "url": "https://www.canterburymuseum.com/explore/our-stories/mans-best-friend-in-pre-european-new-zealand"
+  },
+  "source2": {
+   "name": "Te Papa: Kahu kurī style of cloak",
+   "url": "https://collections.tepapa.govt.nz/topic/3631"
+  }
+ },
+ {
+  "id": "w12-port-augusta-cameleers",
+  "era": "industrial",
+  "year": 1865,
+  "dateLabel": "31 December 1865",
+  "cat": "journeys",
+  "title": "Camels Land in South Australia",
+  "place": "Port Augusta, South Australia, Australia",
+  "lat": -32.49,
+  "lng": 137.77,
+  "text": "On New Year's Eve 1865, a crowd at Port Augusta watched 124 camels being lifted ashore with 31 cameleers, brought by Elder & Co. for Beltana station. Called Afghans, most were Pathans from today's Afghanistan-Pakistan border. Camel trains supplied the Overland Telegraph and desert expeditions, the cameleers paid for Australia's first city mosque in Adelaide in 1888, and the Ghan train carries their name.",
+  "source": {
+   "name": "SA History Hub (History Trust of South Australia): Afghans",
+   "url": "https://sahistoryhub.history.sa.gov.au/subjects/afghans/"
+  }
+ },
+ {
+  "id": "w12-balt-sacrificed-horses",
+  "era": "medieval",
+  "year": 1115,
+  "dateLabel": "About 1115 CE",
+  "cat": "culture",
+  "title": "Horses for the Last Pagans",
+  "place": "Marvelė cemetery, Kaunas, Lithuania",
+  "lat": 54.87,
+  "lng": 23.9,
+  "text": "Pagan Balts in today's Lithuania, Poland and Kaliningrad buried sacrificed horses in their cemeteries for over a thousand years. DNA overturned an old assumption: about a third were mares, not just stallions. Chemical traces in teeth showed three horses came from across the sea, probably Sweden or Finland. One, buried at Marvelė around 1115 CE, may have been a prestige import.",
+  "source": {
+   "name": "Science Advances (via Europe PMC): Mares and long-distance imported horses sacrificed by the last pagans in temperate Europe",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11100556/"
+  }
+ },
+ {
+  "id": "w12-cher-ami-pigeon",
+  "era": "modern",
+  "year": 1918,
+  "dateLabel": "October 1918",
+  "cat": "power",
+  "title": "The Pigeon Who Stopped the Guns",
+  "place": "Charlevaux Ravine, Argonne Forest, France",
+  "lat": 49.27,
+  "lng": 4.88,
+  "text": "In October 1918, an American battalion was trapped in the Argonne Forest for six days, and its own artillery began shelling it. The men's hope was a pigeon, Cher Ami, carrying a note begging the gunners to stop. He arrived with a bullet wound in the chest. Of more than 500 men, 194 survived. He won France's Croix de Guerre with palm and died in 1919.",
+  "source": {
+   "name": "U.S. Army: Fine, Feathered Friends!",
+   "url": "https://www.army.mil/article/30666/"
+  }
+ },
+ {
+  "id": "w12-old-bara-oyo-horses",
+  "era": "exploration",
+  "year": 1700,
+  "dateLabel": "About 1625 to 1835",
+  "cat": "power",
+  "title": "Horse Breeding for Oyo's Cavalry",
+  "place": "Old Bara, near Oyo-Ile, Oyo State, Nigeria",
+  "lat": 8.94,
+  "lng": 4.39,
+  "text": "Just outside Oyo-Ile, capital of the Oyo Empire, lay the walled royal suburb of Old Bara. Bones from its refuse show two foals born on the spot, the first evidence of local horse breeding in the empire, while other horses' teeth point to Nupe country. The horses ate sorghum or millet fodder, perhaps sent as tribute from vassal towns in the dry season.",
+  "source": {
+   "name": "PLOS ONE (via Europe PMC): Multiproxy stable isotope analysis at Old Bara, Oyo Empire",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13052869/"
+  }
+ },
+ {
+  "id": "w12-westminster-horse-cemetery",
+  "era": "medieval",
+  "year": 1470,
+  "dateLabel": "About 1425 to 1517",
+  "cat": "daily",
+  "title": "Imported Horses of Westminster",
+  "place": "Elverton Street, Westminster, London, United Kingdom",
+  "lat": 51.49,
+  "lng": -0.13,
+  "text": "Late medieval Westminster had a horse cemetery: more than 70 horses buried at what is now Elverton Street, mostly around 1425 to 1517. Teeth from 15 of them showed at least seven grew up outside Britain, perhaps in Scandinavia or the Alps, arriving at about five years old. They were tall for their time. Researchers wonder whether they served the royal household or Westminster jousts.",
+  "source": {
+   "name": "Science Advances (via Europe PMC): Isotopic biographies reveal horse rearing and trading networks in medieval London",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10959406/"
+  }
+ },
+ {
+  "id": "w12-verona-horse-dog-burials",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "3rd to 1st century BCE",
+  "cat": "culture",
+  "title": "Buried With Horses and Dogs",
+  "place": "Seminario Vescovile necropolis, Verona, Italy",
+  "lat": 45.44,
+  "lng": 11,
+  "text": "In a Cenomani cemetery in Verona from the last centuries BCE, 16 of 161 graves held animals. A middle-aged woman lay with a nearly complete horse, parts of four more horses and a dog's skull. A newborn baby was buried with an 18-month-old dog whose broken leg had healed. A near-term fetus was only spotted after excavation, mixed in among the horse bones.",
+  "source": {
+   "name": "PLOS ONE (via Europe PMC): Human-animal co-burials from the Late Iron Age necropolis of Seminario Vescovile in Verona",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10866530/"
+  }
+ },
+ {
+  "id": "w12-jamestown-horses-donkey",
+  "era": "exploration",
+  "year": 1610,
+  "dateLabel": "1609 to 1610",
+  "cat": "daily",
+  "title": "Jamestown Eats Its Horses",
+  "place": "Jamestown Island, Virginia, USA",
+  "lat": 37.21,
+  "lng": -76.78,
+  "text": "During the Starving Time winter of 1609 to 1610, Jamestown's colonists butchered, boiled and cracked open their horses for marrow. Bones from a well and a kitchen cellar show four mares raised in Britain, plus a foal born in the colony. One tooth came from a donkey with partly West African ancestry, probably picked up on the voyage. Afterwards, a 1613 letter preferred donkeys to horses.",
+  "source": {
+   "name": "Science Advances (via Europe PMC): Early transatlantic movement of horses and donkeys at Jamestown",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12407088/"
+  }
+ }
+]

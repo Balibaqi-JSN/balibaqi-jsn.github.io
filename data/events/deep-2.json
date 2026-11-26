@@ -1,0 +1,956 @@
+[
+ {
+  "id": "dt2-chaohusaurus-birth",
+  "era": "deep",
+  "year": -248000000,
+  "dateLabel": "About 248 million years ago",
+  "emoji": "🐣",
+  "cat": "nature",
+  "title": "A Sea Reptile Caught Giving Birth",
+  "place": "Chaohu, Anhui, China",
+  "lat": 31.6,
+  "lng": 117.87,
+  "text": "Chaohusaurus was an early ichthyosaur, a dolphin-shaped sea reptile only about a metre long. One fossil from Chaohu, reported in 2014, shows a mother with babies inside her and one baby halfway out. The surprise: it was coming out head-first, the way land animals are born, a hint that ichthyosaurs had ancestors that lived on land.",
+  "source": {
+   "name": "PLOS ONE (Motani et al. 2014), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3922983"
+  },
+  "source2": {
+   "name": "National Geographic",
+   "url": "https://www.nationalgeographic.com/animals/article/140212-sea-monster-ichthyosaur-reptiles-paleontology-science-animals"
+  }
+ },
+ {
+  "id": "dt2-nyasasaurus",
+  "era": "deep",
+  "year": -243000000,
+  "dateLabel": "About 243 million years ago",
+  "emoji": "🦴",
+  "cat": "discovery",
+  "title": "The Maybe-First Dinosaur",
+  "place": "Ruhuhu Basin, Tanzania",
+  "lat": -10.4,
+  "lng": 34.9,
+  "text": "Nyasasaurus may be the oldest dinosaur ever found, or at least a very close cousin of dinosaurs. Its few bones were dug up in Tanzania in the 1930s, then sat in a London museum for decades. It was only formally described in December 2012, which could push the dinosaur story back 10 to 15 million years.",
+  "source": {
+   "name": "University of Washington News",
+   "url": "https://www.washington.edu/news/2012/12/04/scientists-find-oldest-dinosaur-or-closest-relative-yet/"
+  }
+ },
+ {
+  "id": "dt2-monte-san-giorgio",
+  "era": "deep",
+  "year": -240000000,
+  "dateLabel": "About 240 million years ago",
+  "emoji": "🦎",
+  "cat": "nature",
+  "title": "The Reptile with a Fishing-Rod Neck",
+  "place": "Monte San Giorgio, Switzerland",
+  "lat": 45.91,
+  "lng": 8.95,
+  "text": "This mountain beside Lake Lugano was once a shallow sea, and its rocks are packed with fossil fish and marine reptiles. The star is Tanystropheus, whose stiff neck was about three times as long as its torso. It was probably an ambush hunter, and the larger species ate fish and squid. The site is a UNESCO World Heritage Site.",
+  "source": {
+   "name": "State Museum of Natural History Stuttgart (press release)",
+   "url": "https://www.naturkundemuseum-bw.de/en/press/detailansicht/in-the-age-of-dinosaurs-long-necked-marine-reptiles-were-decapitated-by-their-predators"
+  },
+  "source2": {
+   "name": "Swiss Journal of Palaeontology (special issue editorial), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11457694/"
+  }
+ },
+ {
+  "id": "dt2-carnian-pluvial",
+  "era": "deep",
+  "year": -233000000,
+  "dateLabel": "About 233 million years ago",
+  "emoji": "🌧️",
+  "cat": "nature",
+  "title": "When It Rained for a Million Years",
+  "place": "Dolomites, Italy",
+  "lat": 46.5,
+  "lng": 11.85,
+  "text": "For roughly a million years or more, Earth's dry Triassic climate turned humid and rainy, a change geologists can read in rock layers like those of the Dolomites. Many animals and plants vanished during this Carnian Pluvial Event. Afterwards, dinosaurs spread and diversified fast, so a very long rainy spell may have helped set the stage for them.",
+  "source": {
+   "name": "Nature Communications (Bernardi et al. 2018), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5902586"
+  }
+ },
+ {
+  "id": "dt2-shonisaurus",
+  "era": "deep",
+  "year": -227000000,
+  "dateLabel": "About 227 million years ago",
+  "emoji": "🐋",
+  "cat": "nature",
+  "title": "Nevada's Giant Sea Monster",
+  "place": "Berlin-Ichthyosaur State Park, Nevada, USA",
+  "lat": 38.88,
+  "lng": -117.6,
+  "text": "Today this spot is high desert, but Shonisaurus once swam here in a sea that covered much of Nevada. These ichthyosaurs were sea reptiles the size of a school bus. Bones of some 37 animals were found beside the old mining town of Berlin, and in 1977 Nevada made Shonisaurus its official state fossil.",
+  "source": {
+   "name": "University of California Museum of Paleontology",
+   "url": "https://ucmp.berkeley.edu/about-ucmp/history-of-ucmp/ucmp-and-the-ichthyosaur-quarry-at-berlin-ichthyosaur-state-park/"
+  },
+  "source2": {
+   "name": "University of Nevada, Reno",
+   "url": "https://www.unr.edu/nevada-today/news/2022/ichthyosaur-smithsonian-collaboration"
+  }
+ },
+ {
+  "id": "dt2-petrified-forest",
+  "era": "deep",
+  "year": -220000000,
+  "dateLabel": "About 220 million years ago",
+  "emoji": "🪵",
+  "cat": "nature",
+  "title": "Trees That Turned into Rainbow Stone",
+  "place": "Petrified Forest National Park, Arizona, USA",
+  "lat": 34.91,
+  "lng": -109.81,
+  "text": "Giant logs washed into Triassic rivers and were buried quickly and deeply. Over time, silica dissolved from volcanic ash soaked in and replaced the wood with quartz, while traces of iron, carbon and manganese gave it its colours. Taking any is illegal: with over half a million visitors a year, the park could be stripped within a few years.",
+  "source": {
+   "name": "US National Park Service: Petrified Wood",
+   "url": "https://www.nps.gov/pefo/learn/nature/petrified-wood.htm"
+  },
+  "source2": {
+   "name": "US National Park Service: Petrified Forest FAQ",
+   "url": "https://www.nps.gov/pefo/faqs.htm"
+  }
+ },
+ {
+  "id": "dt2-manicouagan",
+  "era": "deep",
+  "year": -214000000,
+  "dateLabel": "About 214 million years ago",
+  "emoji": "☄️",
+  "cat": "nature",
+  "title": "A Crater You Can See from Space",
+  "place": "Manicouagan, Quebec, Canada",
+  "lat": 51.38,
+  "lng": -68.7,
+  "text": "A space rock about 5 kilometres wide slammed into what is now Quebec, leaving one of the world's largest impact craters. Erosion has worn it down to about 72 kilometres across, and a ring-shaped lake now fills part of it. Easy to spot from space and a favourite of astronaut photographers, it is sometimes called the 'Eye of Quebec'.",
+  "source": {
+   "name": "NASA Earth Observatory",
+   "url": "https://science.nasa.gov/earth/earth-observatory/a-modern-lake-in-an-ancient-crater-149414/"
+  }
+ },
+ {
+  "id": "dt2-eudimorphodon",
+  "era": "deep",
+  "year": -220000000,
+  "dateLabel": "About 220 million years ago",
+  "emoji": "🦇",
+  "cat": "nature",
+  "title": "One of the First Flying Reptiles",
+  "place": "Cene, near Bergamo, Italy",
+  "lat": 45.78,
+  "lng": 9.83,
+  "text": "Eudimorphodon showed that pterosaurs, the flying reptiles of the dinosaur age, were already in the air in the Triassic. Found in 1973 at Cene, near Bergamo, it was about the size of a seagull, with a wingspan of roughly a metre and a long tail. Its many sharp, pointed teeth were used to catch small fish over warm, shallow lagoons.",
+  "source": {
+   "name": "Museo Civico di Scienze Naturali di Bergamo",
+   "url": "https://www.museoscienzebergamo.it/esposizione/scienze-della-terra/bergamo-220-milioni-di-anni-fa/eudimorphodon-ranzii/"
+  }
+ },
+ {
+  "id": "dt2-dilophosaurus",
+  "era": "deep",
+  "year": -184000000,
+  "dateLabel": "About 184 million years ago",
+  "emoji": "🦖",
+  "cat": "discovery",
+  "title": "The Real Dilophosaurus",
+  "place": "Near Tuba City, Arizona, USA",
+  "lat": 36.13,
+  "lng": -111.24,
+  "text": "Dilophosaurus was a seven-metre hunter with two thin bony crests on its head. Its bones were first found in 1940 by Jesse Williams, a Navajo man, and dug up in 1942. Movie fans may picture it spitting venom with a frilly collar, but there is no fossil evidence for either. That was pure Hollywood.",
+  "source": {
+   "name": "University of California Museum of Paleontology",
+   "url": "https://ucmp.berkeley.edu/dilophosaur/discovery.html"
+  },
+  "source2": {
+   "name": "Natural History Museum, London (Dino Directory)",
+   "url": "https://www.nhm.ac.uk/discover/dino-directory/dilophosaurus.html"
+  }
+ },
+ {
+  "id": "dt2-karoo-ferrar",
+  "era": "deep",
+  "year": -183000000,
+  "dateLabel": "About 183 million years ago",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "Lava Over Africa and Antarctica",
+  "place": "Drakensberg, Lesotho",
+  "lat": -29.5,
+  "lng": 28.8,
+  "text": "As the supercontinent Gondwana started to crack, huge floods of lava poured out over what are now southern Africa and Antarctica, then joined together. The lava covered about three million square kilometres. Its gases warmed the planet and starved parts of the ocean of oxygen, and the thick lava layers now form Lesotho's dramatic mountains.",
+  "source": {
+   "name": "Duncan et al. 1997, Journal of Geophysical Research 102(B8), 'The timing and duration of the Karoo igneous event, southern Gondwana' (abstract via Crossref)",
+   "url": "https://doi.org/10.1029/97JB00972"
+  },
+  "source2": {
+   "name": "Science Advances 2022, 'Reduced plate motion controlled timing of Early Jurassic Karoo-Ferrar large igneous province volcanism'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9462690/"
+  }
+ },
+ {
+  "id": "dt2-holzmaden",
+  "era": "deep",
+  "year": -180000000,
+  "dateLabel": "About 180 million years ago",
+  "emoji": "🐬",
+  "cat": "discovery",
+  "title": "Ichthyosaur Mothers in Black Shale",
+  "place": "Holzmaden, Germany",
+  "lat": 48.63,
+  "lng": 9.53,
+  "text": "The seabed here was so low in oxygen that dead animals were not eaten or rotted away. That is why the Posidonia Shale holds ichthyosaurs with their full body outlines, even fins and tail flukes. Some mothers still carry babies inside them, proof that these sea reptiles gave birth to live young instead of laying eggs.",
+  "source": {
+   "name": "De La Garza, Sjövall, Hauff & Lindgren 2023, Palaeontology 66(4) e12668, 'Preservational modes of some ichthyosaur soft tissues from the Jurassic Posidonia Shale of Germany' (Lund University record)",
+   "url": "https://lup.lub.lu.se/search/publication/e1533ceb-9ab7-4bd1-a2a6-161de552cb0c"
+  },
+  "source2": {
+   "name": "Miedema et al. 2023, BMC Ecology and Evolution (Staatliches Museum für Naturkunde Stuttgart), ichthyosaur fetal orientation",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10114408/"
+  }
+ },
+ {
+  "id": "dt2-canadon-asfalto",
+  "era": "deep",
+  "year": -178000000,
+  "dateLabel": "About 178 million years ago",
+  "emoji": "🔥",
+  "cat": "nature",
+  "title": "Dinosaurs by a Salty, Fiery Lake",
+  "place": "Cerro Cóndor, Chubut, Argentina",
+  "lat": -43.42,
+  "lng": -69.17,
+  "text": "In Patagonia, rocks from a salty rift-valley lake, a bit like the lakes of East Africa today, hold long-necked dinosaurs such as Patagosaurus and hunters like Eoabelisaurus. The rocks are full of charcoal, a sign that wildfires swept through often. Nearby volcanoes kept erupting, so these dinosaurs lived in a smoky, restless world.",
+  "source": {
+   "name": "Royal Society Open Science 2024, 'The oldest monofenestratan pterosaur from the Queso Rallado locality (Cañadón Asfalto Formation, Toarcian) of Chubut'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11631458/"
+  },
+  "source2": {
+   "name": "Olivera et al. 2026, Journal of Micropalaeontology 45:335, palynofacies of the Cañadón Asfalto Formation",
+   "url": "https://jm.copernicus.org/articles/45/335/2026/"
+  }
+ },
+ {
+  "id": "dt2-skye-footprints",
+  "era": "deep",
+  "year": -170000000,
+  "dateLabel": "About 170 million years ago",
+  "emoji": "👣",
+  "cat": "nature",
+  "title": "Giant Footprints on a Scottish Beach",
+  "place": "Isle of Skye, United Kingdom",
+  "lat": 57.68,
+  "lng": -6.35,
+  "text": "On the rocky shores of Skye, low tide reveals footprints left by long-necked dinosaurs wading through a shallow lagoon. Some prints are over half a metre wide. Middle Jurassic dinosaur fossils are rare worldwide, so these tracks, studied closely since 2015, give a valuable glimpse of a time scientists know surprisingly little about.",
+  "source": {
+   "name": "Brusatte, Challands, Ross & Wilkinson 2015, Scottish Journal of Geology 51(2), 'Sauropod dinosaur trackways in a Middle Jurassic lagoon on the Isle of Skye, Scotland' (University of Edinburgh repository)",
+   "url": "https://www.pure.ed.ac.uk/ws/files/23788207/23781334._Brusatte_Challands_et_al_Skye_Sauropod_Prints_SJG_Revision_002_.pdf"
+  },
+  "source2": {
+   "name": "Blakesley et al. 2025, PLOS ONE, 'A new Middle Jurassic lagoon margin assemblage of theropod and sauropod dinosaur trackways from the Isle of Skye'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11964282/"
+  }
+ },
+ {
+  "id": "dt2-spinophorosaurus",
+  "era": "deep",
+  "year": -167000000,
+  "dateLabel": "About 167 million years ago",
+  "emoji": "🖨️",
+  "cat": "discovery",
+  "title": "The Spike-Bearing Lizard of Niger",
+  "place": "Near Aderbissinat, Niger",
+  "lat": 15.9,
+  "lng": 7.9,
+  "text": "Spinophorosaurus was a long-necked plant-eater found in Niger's desert near Aderbissinat, with a backbone about 13 metres long. Its name means 'spine-bearing lizard', because the scientists who described it in 2009 thought two spiky bones sat near the tip of its tail. The rocks are hard to date, but it probably lived in the Middle Jurassic.",
+  "source": {
+   "name": "PLOS ONE (Remes et al. 2009)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0006924"
+  }
+ },
+ {
+  "id": "dt2-leedsichthys",
+  "era": "deep",
+  "year": -165000000,
+  "dateLabel": "About 165 million years ago",
+  "emoji": "🐟",
+  "cat": "nature",
+  "title": "The Biggest Fish Ever",
+  "place": "Peterborough, United Kingdom",
+  "lat": 52.57,
+  "lng": -0.24,
+  "text": "Leedsichthys may be the largest bony fish that has ever lived, possibly around 16 metres long. Despite its size, it was gentle: like a whale shark, it swam with its mouth open, filtering tiny animals from the water. Its remains come from the Oxford Clay near Peterborough, and it is named after collector Alfred Leeds.",
+  "source": {
+   "name": "Peterborough Museum, The Jurassic Gallery large print guide",
+   "url": "https://peterboroughmuseum.org.uk/the-jurassic-gallery-large-print-guide"
+  },
+  "source2": {
+   "name": "Cambridge Prisms: Extinction 2024, 'The extinct marine megafauna of the Phanerozoic'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11895749/"
+  }
+ },
+ {
+  "id": "dt2-rhoetosaurus",
+  "era": "deep",
+  "year": -165000000,
+  "dateLabel": "Middle Jurassic, roughly 165 million years ago",
+  "emoji": "🦕",
+  "cat": "discovery",
+  "title": "A Giant Found on a Cattle Station",
+  "place": "Near Roma, Queensland, Australia",
+  "lat": -26.4,
+  "lng": 148.8,
+  "text": "In 1924 a station manager named Arthur Browne told the Queensland Museum about some strange bones found near Roma. They belonged to Rhoetosaurus, a long-necked dinosaur about 15 metres long, described in 1926. Its species name, brownei, honours him, and its genus name comes from Rhoetos, a giant of Greek myth.",
+  "source": {
+   "name": "Australian Museum",
+   "url": "https://australian.museum/learn/dinosaurs/fact-sheets/rhoetosaurus-brownei/"
+  }
+ },
+ {
+  "id": "dt2-anchiornis",
+  "era": "deep",
+  "year": -160000000,
+  "dateLabel": "About 160 million years ago",
+  "emoji": "🎨",
+  "cat": "discovery",
+  "title": "The First Dinosaur Painted in True Colour",
+  "place": "Jianchang, Liaoning, China",
+  "lat": 40.83,
+  "lng": 119.78,
+  "text": "Anchiornis was a crow-sized feathered dinosaur with wing feathers on both its arms and its legs. Traces of pigment in its fossils let scientists work out its colours: one specimen was mostly black and grey, with a red-brown crest on its head and brown speckles on its face. It lived in China in the Late Jurassic.",
+  "source": {
+   "name": "Natural History Museum, London (Dino Directory)",
+   "url": "https://www.nhm.ac.uk/discover/dino-directory/anchiornis.html"
+  }
+ },
+ {
+  "id": "dt2-tendaguru",
+  "era": "deep",
+  "year": -155000000,
+  "dateLabel": "About 155 million years ago",
+  "emoji": "⛏️",
+  "cat": "discovery",
+  "title": "Africa's Great Dinosaur Dig",
+  "place": "Tendaguru Hill, Tanzania",
+  "lat": -9.72,
+  "lng": 39.23,
+  "text": "Tendaguru Hill holds bones of Giraffatitan, a towering long-neck, and spiky Kentrosaurus. Between 1909 and 1913, hundreds of local Tanzanian workers dug and carried over 250 tonnes of fossils to the coast for a German museum, during colonial rule. The giant Giraffatitan skeleton now stands in Berlin, one of the tallest mounted dinosaurs anywhere.",
+  "source": {
+   "name": "Museum für Naturkunde Berlin, 'Research and Responsibility' Tendaguru project page",
+   "url": "https://www.museumfuernaturkunde.berlin/en/research/projects/research-and-responsibility/"
+  },
+  "source2": {
+   "name": "Museum für Naturkunde Berlin, 'The World of Dinosaurs' exhibition page",
+   "url": "https://www.museumfuernaturkunde.berlin/en/plan-your-visit/exhibition/the-world-of-dinosaurs/"
+  }
+ },
+ {
+  "id": "dt2-tamu-massif",
+  "era": "deep",
+  "year": -145000000,
+  "dateLabel": "About 145 million years ago",
+  "emoji": "🌊",
+  "cat": "nature",
+  "title": "A Hidden Mega-Volcano",
+  "place": "Shatsky Rise, Pacific Ocean",
+  "lat": 33.0,
+  "lng": 158.0,
+  "text": "Deep under the Pacific, about 1,600 kilometres east of Japan, lies Tamu Massif, an extinct volcano roughly the size of New Mexico. It formed in just a few million years and then went quiet. In 2013 scientists suggested it might be the biggest single volcano on Earth, though they still debate whether it is one volcano or several.",
+  "source": {
+   "name": "University of Houston College of Natural Sciences and Mathematics news, 'Scientists Confirm Existence of Largest Single Volcano on Earth' (5 Sept 2013)",
+   "url": "https://www.uh.edu/nsm/news-events/stories/2013/0905_largevolcano.php"
+  },
+  "source2": {
+   "name": "Sager et al. 2019, Nature Geoscience 12:661-666, 'Oceanic plateau formation by seafloor spreading implied by Tamu Massif magnetic anomalies' (abstract)",
+   "url": "https://www.nature.com/articles/s41561-019-0390-y"
+  }
+ },
+ {
+  "id": "dt2-nqwebasaurus",
+  "era": "deep",
+  "year": -140000000,
+  "dateLabel": "About 140 million years ago",
+  "emoji": "🏃",
+  "cat": "nature",
+  "title": "The Fast Runner of Kirkwood",
+  "place": "Kirkwood, South Africa",
+  "lat": -33.4,
+  "lng": 25.45,
+  "text": "Nqwebasaurus was a small, speedy theropod, a relative of the meat-eating dinosaurs. Its name mixes Xhosa words for the local Kirkwood district and 'fast runner'. Oddly, it had stomach stones in its belly, the kind plant-eaters and ostriches swallow to grind up food, so it may have eaten more plants than its cousins.",
+  "source": {
+   "name": "The Conversation, 'Unraveling the mystery of how dinosaurs get their names' by Prof. Anusuya Chinsamy-Turan (University of Cape Town)",
+   "url": "https://theconversation.com/unraveling-the-mystery-of-how-dinosaurs-get-their-names-44367"
+  },
+  "source2": {
+   "name": "PLOS ONE 2012, 'Abdominal contents from two large Early Cretaceous compsognathids' (lists Nqwebasaurus among theropods with gastroliths)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3430630/"
+  }
+ },
+ {
+  "id": "dt2-etendeka",
+  "era": "deep",
+  "year": -133000000,
+  "dateLabel": "About 133 million years ago",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "Lava as Africa and Brazil Split",
+  "place": "Etendeka Plateau, Namibia",
+  "lat": -20.5,
+  "lng": 14.2,
+  "text": "As South America and Africa began to pull apart, enormous lava floods poured out over both sides of the crack. Today most of the lava lies in Brazil's Paraná Basin, while a smaller severed piece forms Namibia's Etendeka hills, an ocean apart. The same hotspot may also have built volcanic islands far out in the South Atlantic, like Tristan da Cunha.",
+  "source": {
+   "name": "Scientific Reports 2023, 'Ignition of the southern Atlantic seafloor spreading machine without hot-mantle booster'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9867738/"
+  },
+  "source2": {
+   "name": "Nature Communications 2023, 'Evidence for compositionally distinct upper mantle plumelets since the early history of the Tristan-Gough hotspot'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10318034/"
+  }
+ },
+ {
+  "id": "dt2-montsechia",
+  "era": "deep",
+  "year": -130000000,
+  "dateLabel": "About 130 million years ago",
+  "emoji": "🌱",
+  "cat": "discovery",
+  "title": "One of the First Flowers Lived Underwater",
+  "place": "Montsec, Catalonia, Spain",
+  "lat": 42.03,
+  "lng": 0.73,
+  "text": "Montsechia is one of the oldest known flowering plants, and it did not look like a pretty bloom at all. It grew underwater in lakes, a bit like the modern hornwort in fish tanks. Its fossils in Spanish limestone show that flowering plants, now most plants on Earth, were around about 130 million years ago.",
+  "source": {
+   "name": "Gomez et al. 2015, PNAS 112:10985, 'Montsechia, an ancient aquatic angiosperm' (abstract via Europe PMC)",
+   "url": "https://europepmc.org/article/MED/26283347"
+  },
+  "source2": {
+   "name": "Frontiers in Cell and Developmental Biology 2022 (Ceratophyllum gynoecium review)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9098228/"
+  }
+ },
+ {
+  "id": "dt2-amargasaurus",
+  "era": "deep",
+  "year": -130000000,
+  "dateLabel": "About 130 million years ago",
+  "emoji": "🦕",
+  "cat": "nature",
+  "title": "The Dinosaur with a Spiky Neck",
+  "place": "La Amarga, Neuquén, Argentina",
+  "lat": -39.5,
+  "lng": -70.0,
+  "text": "Amargasaurus was a long-neck about 12 metres long, with a double row of tall spines running along its neck and back. They may have held up a twin 'sail' of skin, though nobody knows for sure. It lived in what is now Argentina and was named in 1991.",
+  "source": {
+   "name": "Natural History Museum, London (Dino Directory)",
+   "url": "https://www.nhm.ac.uk/discover/dino-directory/amargasaurus.html"
+  }
+ },
+ {
+  "id": "dt2-ontong-java",
+  "era": "deep",
+  "year": -120000000,
+  "dateLabel": "About 120 million years ago",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "The Biggest Underwater Lava Plateau",
+  "place": "Ontong Java Plateau, Solomon Islands",
+  "lat": -3.05,
+  "lng": 160.38,
+  "text": "North of the Solomon Islands, the Pacific seafloor hides the Ontong Java Plateau, the largest of the ocean's great volcanic plateaus. Its main building phase was around 120 million years ago. Some scientists think it once formed a single super-plateau with the Manihiki and Hikurangi plateaus, which would make it the biggest volcanic event recorded in Earth's history.",
+  "source": {
+   "name": "Scientific Reports (Tejada et al. 2023, \"New evidence for the Ontong Java Nui hypothesis\")",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10213030/"
+  }
+ },
+ {
+  "id": "dt2-sarcosuchus",
+  "era": "deep",
+  "year": -110000000,
+  "dateLabel": "About 110 million years ago",
+  "emoji": "🐊",
+  "cat": "nature",
+  "title": "SuperCroc of the Sahara",
+  "place": "Gadoufaoua, Niger",
+  "lat": 16.6,
+  "lng": 9.4,
+  "text": "What is now desert in Niger was once a land of rivers, home to Sarcosuchus, a crocodile relative that grew to about 11 or 12 metres long and weighed around 8 tonnes. Teams led by Paul Sereno recovered several partial skeletons in 1997 and 2000, and it was nicknamed 'SuperCroc'. Its long snout ended in a bulge scientists call a bulla.",
+  "source": {
+   "name": "Science (Sereno et al. 2001, \"The giant crocodyliform Sarcosuchus from the Cretaceous of Africa\"), abstract",
+   "url": "https://doi.org/10.1126/science.1066521"
+  },
+  "source2": {
+   "name": "University of Chicago Chronicle",
+   "url": "https://chronicle.uchicago.edu/011101/supercroc.shtml"
+  }
+ },
+ {
+  "id": "dt2-araripe-nodules",
+  "era": "deep",
+  "year": -110000000,
+  "dateLabel": "About 110 million years ago",
+  "emoji": "🐠",
+  "cat": "discovery",
+  "title": "Fossil Fish Inside Stone Eggs",
+  "place": "Santana do Cariri, Ceará, Brazil",
+  "lat": -7.19,
+  "lng": -39.74,
+  "text": "In northeast Brazil, rounded limestone lumps called concretions formed around dead fish, sealing them like time capsules. Split one open and you might find a fish preserved in 3D, sometimes with traces of muscle, gut lining and even its last meal still inside. These fish-bearing stones are extremely common on the slopes of the Chapada do Araripe.",
+  "source": {
+   "name": "University of Portsmouth research portal (Martill et al., \"Mass mortality of fishes in the Santana Formation (Lower Cretaceous) of Brazil\"), abstract",
+   "url": "https://researchportal.port.ac.uk/en/publications/mass-mortality-of-fishes-in-the-santana-formation-lower-cretaceou/"
+  }
+ },
+ {
+  "id": "dt2-dinosaur-cove",
+  "era": "deep",
+  "year": -106000000,
+  "dateLabel": "About 106 million years ago",
+  "emoji": "🌌",
+  "cat": "nature",
+  "title": "Dinosaurs of the Polar Night",
+  "place": "Dinosaur Cove, Victoria, Australia",
+  "lat": -38.78,
+  "lng": 143.4,
+  "text": "Back then, Victoria lay inside the Antarctic Circle, so dinosaurs here lived through dark polar winters. At Dinosaur Cove, diggers tunnelled into the sea cliff to reach fossils, including Leaellynasaura, a small plant-eater about a metre long with enlarged eyes. It was named after Leaellyn Rich, the daughter of the palaeontologists who described it.",
+  "source": {
+   "name": "Australian Museum (Leaellynasaura amicagraphica)",
+   "url": "https://australian.museum/learn/dinosaurs/fact-sheets/leaellynasaura-amicagraphica/"
+  },
+  "source2": {
+   "name": "PeerJ (Herne et al. 2018)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5767335/"
+  }
+ },
+ {
+  "id": "dt2-amber-tail",
+  "era": "deep",
+  "year": -99000000,
+  "dateLabel": "About 99 million years ago",
+  "emoji": "🟠",
+  "cat": "discovery",
+  "title": "A Feathered Dinosaur Tail in Amber",
+  "place": "Kachin State, Myanmar",
+  "lat": 26.4,
+  "lng": 96.7,
+  "text": "In 2016 scientists described the feathered tail of a small dinosaur trapped in amber, fossil tree resin, from Kachin State in Myanmar. About 99 million years old, it probably belonged to a young coelurosaur, a kind of meat-eating dinosaur. The amber kept the feathers in 3D, along with traces of soft tissue, in far finer detail than fossils squashed in rock.",
+  "source": {
+   "name": "Current Biology (Xing et al. 2016, \"A Feathered Dinosaur Tail with Primitive Plumage Trapped in Mid-Cretaceous Amber\"), abstract",
+   "url": "https://doi.org/10.1016/j.cub.2016.10.008"
+  }
+ },
+ {
+  "id": "dt2-timurlengia",
+  "era": "deep",
+  "year": -90000000,
+  "dateLabel": "About 90 million years ago",
+  "emoji": "👂",
+  "cat": "discovery",
+  "title": "The Tyrannosaur with Great Ears",
+  "place": "Kyzylkum Desert, Uzbekistan",
+  "lat": 42.1,
+  "lng": 62.6,
+  "text": "Timurlengia was a horse-sized cousin of T. rex, named after the Central Asian ruler Timur (Tamerlane). Its species name, euotica, means 'well-eared'. CT scans of its braincase, published in 2016, showed it already had the advanced brain and the inner ear tuned to low sounds of later giants. Tyrannosaurs, it seems, got smart heads first and giant bodies later.",
+  "source": {
+   "name": "PNAS (Brusatte et al. 2016, \"New tyrannosaur from the mid-Cretaceous of Uzbekistan...\")",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4822578/"
+  }
+ },
+ {
+  "id": "dt2-st-marys-islands",
+  "era": "deep",
+  "year": -88000000,
+  "dateLabel": "About 88 million years ago",
+  "emoji": "🏝️",
+  "cat": "nature",
+  "title": "When India Waved Goodbye to Madagascar",
+  "place": "St. Mary's Islands, Karnataka, India",
+  "lat": 13.38,
+  "lng": 74.67,
+  "text": "India and Madagascar were once joined. Around 88 million years ago, a hotspot deep in the Earth helped rip them apart, and India began its long drift north. On the little St. Mary's Islands off the Karnataka coast, lava from that time cooled into neat six-sided rock columns you can walk among today.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Tentative List entry 'Geological Heritage of St' Mary's Island Cluster' (submitted by India, 2025)",
+   "url": "https://whc.unesco.org/en/tentativelists/6891/"
+  }
+ },
+ {
+  "id": "dt2-futabasaurus",
+  "era": "deep",
+  "year": -85000000,
+  "dateLabel": "About 85 million years ago",
+  "emoji": "🐉",
+  "cat": "discovery",
+  "title": "A Schoolboy's Sea Dragon",
+  "place": "Iwaki, Fukushima, Japan",
+  "lat": 37.05,
+  "lng": 140.89,
+  "text": "In 1968 a high school student named Tadashi Suzuki found bones in a riverbank near Iwaki. They belonged to Futabasaurus, a long-necked plesiosaur over six metres long, and many bones show bite marks from sharks. It became so famous in Japan that it starred in the movie Doraemon: Nobita's Dinosaur.",
+  "source": {
+   "name": "Iwaki City Digital Museum (Iwaki City), 'Futabasaurus suzukii'",
+   "url": "https://iwaki-museum.com/3d/5/"
+  },
+  "source2": {
+   "name": "Sato, Hasegawa & Manabe 2006, Palaeontology 49:467, 'A new elasmosaurid plesiosaur from the Upper Cretaceous of Fukushima, Japan' (abstract via Crossref); plus Heibonsha encyclopedias on Kotobank",
+   "url": "https://doi.org/10.1111/j.1475-4983.2006.00554.x"
+  }
+ },
+ {
+  "id": "dt2-auca-mahuevo",
+  "era": "deep",
+  "year": -80000000,
+  "dateLabel": "About 80 million years ago",
+  "emoji": "🥚",
+  "cat": "nature",
+  "title": "A Giant Dinosaur Nursery",
+  "place": "Auca Mahuevo, Neuquén, Argentina",
+  "lat": -37.7,
+  "lng": -68.9,
+  "text": "At Auca Mahuevo in Patagonia, scientists found a nesting ground of titanosaurs, the biggest long-necked dinosaurs. Some eggs still held tiny embryos, and a few even preserve patches of scaly skin, among the only skin from unhatched dinosaurs ever found. Together they give a rare peek at baby giants before they hatched.",
+  "source": {
+   "name": "Communications Biology (Pittman et al. 2022)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8831608/"
+  }
+ },
+ {
+  "id": "dt2-majungasaurus",
+  "era": "deep",
+  "year": -70000000,
+  "dateLabel": "About 70 million years ago",
+  "emoji": "🦷",
+  "cat": "nature",
+  "title": "Madagascar's Cannibal Dinosaur",
+  "place": "Mahajanga Basin, Madagascar",
+  "lat": -15.9,
+  "lng": 46.6,
+  "text": "Majungasaurus was a meat-eating dinosaur from Madagascar with a single horn on top of its head. Scientists found dinosaur bones covered in its tooth marks, and some of those bones belonged to its own kind. Before this discovery, the evidence for dinosaurs eating members of their own species had been thin and patchy.",
+  "source": {
+   "name": "Nature (Rogers, Krause & Curry Rogers 2003, \"Cannibalism in the Madagascan dinosaur Majungatholus atopus\"), abstract",
+   "url": "https://doi.org/10.1038/nature01532"
+  },
+  "source2": {
+   "name": "Scientific Reports (Delcourt 2018)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6021374/"
+  }
+ },
+ {
+  "id": "dt2-vegavis",
+  "era": "deep",
+  "year": -69000000,
+  "dateLabel": "About 69 million years ago",
+  "emoji": "🦆",
+  "cat": "discovery",
+  "title": "The Oldest Known Bird Voice Box",
+  "place": "Vega Island, Antarctica",
+  "lat": -63.83,
+  "lng": -57.4,
+  "text": "Vegavis was a bird that lived in Antarctica while dinosaurs still roamed, about 66 to 69 million years ago. In 2016, CT scans of a fossil revealed its syrinx, the voice box birds use to make everything from songs to honks. It was the first bird voice box ever found from the age of dinosaurs.",
+  "source": {
+   "name": "Nature (Clarke et al. 2016, \"Fossil evidence of the avian vocal organ from the Mesozoic\"), abstract",
+   "url": "https://doi.org/10.1038/nature19852"
+  }
+ },
+ {
+  "id": "dt2-dinosaur-grass",
+  "era": "deep",
+  "year": -67000000,
+  "dateLabel": "About 67 million years ago",
+  "emoji": "🌾",
+  "cat": "discovery",
+  "title": "Dinosaurs Ate Grass After All",
+  "place": "Pisdura, Maharashtra, India",
+  "lat": 20.4,
+  "lng": 79.0,
+  "text": "In 2005, researchers looked at fossil dinosaur dung from India under the microscope and found phytoliths, tiny silica bits made by plants, from at least five kinds of grass. The dung probably came from titanosaurs, the giant long-necks. So some dinosaurs did eat grass, and grasses had already spread and diversified before the dinosaurs died out.",
+  "source": {
+   "name": "Science (Prasad et al. 2005, \"Dinosaur coprolites and the early evolution of grasses and grazers\"), abstract",
+   "url": "https://doi.org/10.1126/science.1118806"
+  }
+ },
+ {
+  "id": "dt2-waimanu",
+  "era": "deep",
+  "year": -61000000,
+  "dateLabel": "About 61 million years ago",
+  "emoji": "🐧",
+  "cat": "nature",
+  "title": "The First Penguins",
+  "place": "Waipara River, Canterbury, New Zealand",
+  "lat": -43.05,
+  "lng": 172.75,
+  "text": "Just a few million years after the asteroid wiped out the big dinosaurs, penguins were already living in New Zealand. Four skeletons of Waimanu were found in the Waipara Greensand of Canterbury, in rocks about 61 to 62 million years old. They are the oldest penguin fossils known and sit at the very base of the penguin family tree.",
+  "source": {
+   "name": "Molecular Biology and Evolution (Slack et al. 2006, \"Early penguin fossils, plus mitochondrial genomes, calibrate avian evolution\"), abstract",
+   "url": "https://doi.org/10.1093/molbev/msj124"
+  },
+  "source2": {
+   "name": "Nature Communications (Mayr et al. 2017)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727159/"
+  }
+ },
+ {
+  "id": "dt2-titanoboa",
+  "era": "deep",
+  "year": -59000000,
+  "dateLabel": "About 59 million years ago",
+  "emoji": "🐍",
+  "cat": "nature",
+  "title": "The Snake as Long as a Bus",
+  "place": "Cerrejón, La Guajira, Colombia",
+  "lat": 11.1,
+  "lng": -72.6,
+  "text": "Titanoboa is the largest snake ever discovered, about 13 metres long and more than a tonne in weight. Its fossils turned up in the Cerrejón coal mine in Colombia, in rocks from one of the oldest known tropical rainforests. Scientists worked out that a snake this huge could only survive where the average temperature was at least 30 to 34°C.",
+  "source": {
+   "name": "Nature (Head et al. 2009, \"Giant boid snake from the Palaeocene neotropics reveals hotter past equatorial temperatures\"), abstract",
+   "url": "https://doi.org/10.1038/nature07671"
+  },
+  "source2": {
+   "name": "PLOS ONE (Zaher et al. 2019)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6512042/"
+  }
+ },
+ {
+  "id": "dt2-petm",
+  "era": "deep",
+  "year": -56000000,
+  "dateLabel": "About 56 million years ago",
+  "emoji": "🌡️",
+  "cat": "nature",
+  "title": "The Great Heatwave and the Tiny Horses",
+  "place": "Bighorn Basin, Wyoming, USA",
+  "lat": 44.5,
+  "lng": -108.0,
+  "text": "About 56 million years ago, a huge release of carbon warmed the planet by about 5 °C, an event called the PETM. In Wyoming's Bighorn Basin, fossil teeth show that the earliest horse, Sifrhippus, shrank by about 30 percent to the size of a small house cat, then grew again as it cooled. Scientists study it as a clue to today's warming.",
+  "source": {
+   "name": "Science (Secord et al. 2012, \"Evolution of the earliest horses driven by climate change in the Paleocene-Eocene Thermal Maximum\"), abstract",
+   "url": "https://doi.org/10.1126/science.1213859"
+  },
+  "source2": {
+   "name": "University of Florida / UNL press release via EurekAlert (Secord et al. 2012)",
+   "url": "https://www.eurekalert.org/news-releases/708389"
+  }
+ },
+ {
+  "id": "dt2-archicebus",
+  "era": "deep",
+  "year": -55000000,
+  "dateLabel": "About 55 million years ago",
+  "emoji": "🐒",
+  "cat": "discovery",
+  "title": "Our Tiny Primate Great-Grandparent",
+  "place": "Jingzhou, Hubei, China",
+  "lat": 30.33,
+  "lng": 112.2,
+  "text": "Archicebus, described in 2013, is the oldest nearly complete primate skeleton ever found, about 55 million years old. This tree-dwelling animal from China was only the size of a pygmy mouse lemur and probably ate insects by day. It sits at the very base of the tarsier lineage, close to its split from the one leading to monkeys, apes and us.",
+  "source": {
+   "name": "Nature (Ni et al. 2013, \"The oldest known primate skeleton and early haplorhine evolution\"), abstract",
+   "url": "https://doi.org/10.1038/nature12200"
+  }
+ },
+ {
+  "id": "dt2-azolla-event",
+  "era": "deep",
+  "year": -49000000,
+  "dateLabel": "About 49 million years ago",
+  "emoji": "🌿",
+  "cat": "nature",
+  "title": "The Fern That Cooled the World",
+  "place": "Lomonosov Ridge, Arctic Ocean",
+  "lat": 87.5,
+  "lng": 140.0,
+  "text": "Drilling near the North Pole revealed that the Arctic Ocean was once carpeted with Azolla, a tiny floating fern. For hundreds of thousands of years it bloomed, died and sank, locking away huge amounts of carbon in the seafloor. Some scientists think this helped tip Earth from a hothouse toward a cooler climate.",
+  "source": {
+   "name": "Nature (Brinkhuis et al. 2006, \"Episodic fresh surface waters in the Eocene Arctic Ocean\"), abstract",
+   "url": "https://doi.org/10.1038/nature04692"
+  },
+  "source2": {
+   "name": "Geobiology (Speelman et al. 2009, \"The Eocene Arctic Azolla bloom: environmental conditions, productivity and carbon drawdown\"), abstract",
+   "url": "https://doi.org/10.1111/j.1472-4669.2009.00195.x"
+  }
+ },
+ {
+  "id": "dt2-mega-penguin",
+  "era": "deep",
+  "year": -37000000,
+  "dateLabel": "About 37 million years ago",
+  "emoji": "🐧",
+  "cat": "nature",
+  "title": "The Mega Penguin",
+  "place": "Seymour Island, Antarctica",
+  "lat": -64.25,
+  "lng": -56.65,
+  "text": "Palaeeudyptes klekowskii was a giant penguin that lived in Antarctica in the Eocene, far bigger than any penguin alive today. Its fragmentary bones rank among the very largest penguin fossils ever found. Scientists think such giants disappeared later, when seals and whales spread through the seas and began to compete with them.",
+  "source": {
+   "name": "Nature Communications (Mayr et al. 2017, \"A Paleocene penguin from New Zealand substantiates multiple origins of gigantism in fossil Sphenisciformes\")",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5727159/"
+  }
+ },
+ {
+  "id": "dt2-rukwa-apes",
+  "era": "deep",
+  "year": -25000000,
+  "dateLabel": "About 25 million years ago",
+  "emoji": "🐵",
+  "cat": "discovery",
+  "title": "When Apes and Monkeys Went Separate Ways",
+  "place": "Rukwa Rift Basin, Tanzania",
+  "lat": -8.9,
+  "lng": 33.2,
+  "text": "In 2013 scientists described two fossil primates from the same Tanzanian rocks: Rukwapithecus, an early ape, and Nsungwepithecus, an early Old World monkey. Found together, they show that the ape and monkey families had already split by about 25 million years ago. Just a couple of fossil jaw pieces told the story.",
+  "source": {
+   "name": "Nature (Stevens et al. 2013, \"Palaeontological evidence for an Oligocene divergence between Old World monkeys and apes\")",
+   "url": "https://www.nature.com/articles/nature12161"
+  }
+ },
+ {
+  "id": "dt2-proconsul",
+  "era": "deep",
+  "year": -18000000,
+  "dateLabel": "About 18 million years ago",
+  "emoji": "💀",
+  "cat": "discovery",
+  "title": "Mary Leakey's Ape Skull",
+  "place": "Rusinga Island, Kenya",
+  "lat": -0.42,
+  "lng": 34.17,
+  "text": "In 1948 Mary Leakey spotted a fossil skull on Rusinga Island in Lake Victoria. It belonged to Proconsul, a tailless early ape that climbed through forest trees on all fours. The skull caused a sensation and was flown to Britain for study. Proconsul helps show what our ape ancestors were like before humans existed.",
+  "source": {
+   "name": "African Fossils virtual laboratory (Turkana Basin Institute / National Museums of Kenya / Stony Brook University), 'Proconsul' skull entry",
+   "url": "https://africanfossils.org/hominids/Proconsul"
+  },
+  "source2": {
+   "name": "PeerJ 2016, 'First steps of bipedality in hominids: evidence from the atelid and proconsulid pelvis' (states proconsulids lacked tails and were above-branch quadrupeds)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4715437/"
+  }
+ },
+ {
+  "id": "dt2-ashfall",
+  "era": "deep",
+  "year": -12000000,
+  "dateLabel": "About 12 million years ago",
+  "emoji": "🦏",
+  "cat": "nature",
+  "title": "Rhinos Buried in Volcanic Ash",
+  "place": "Ashfall Fossil Beds, Nebraska, USA",
+  "lat": 42.43,
+  "lng": -98.15,
+  "text": "About 12 million years ago a huge volcano erupted in what is now south-western Idaho, nearly 1,450 kilometres (900 miles) away, and its ash blanketed a Nebraska waterhole. Horses, camels and finally the big rhinos slowly suffocated as their lungs filled with the dust. Their whole skeletons were preserved, and rhino skulls often still have grass seeds stuck between the teeth.",
+  "source": {
+   "name": "University of Nebraska State Museum - Ashfall Fossil Beds",
+   "url": "https://museum.unl.edu/ashfall/about-ashfall/"
+  }
+ },
+ {
+  "id": "dt2-livyatan",
+  "era": "deep",
+  "year": -12000000,
+  "dateLabel": "About 12–13 million years ago",
+  "emoji": "🐳",
+  "cat": "nature",
+  "title": "The Whale That Hunted Whales",
+  "place": "Cerro Colorado, Ica, Peru",
+  "lat": -14.35,
+  "lng": -75.88,
+  "text": "Livyatan was a giant sperm whale relative with a 3-metre head and enormous teeth more than 36 centimetres long. Unlike today's squid-eating sperm whales, it probably hunted baleen whales. Its skull was found in Peru's coastal desert in November 2008. It is named after the Biblical sea monster Leviathan and Moby-Dick author Herman Melville.",
+  "source": {
+   "name": "Lambert et al. 2010, Nature 466:105-108",
+   "url": "https://www.nature.com/articles/nature09067"
+  },
+  "source2": {
+   "name": "National Geographic",
+   "url": "https://www.nationalgeographic.com/science/article/behold-leviathan-the-sperm-whale-that-killed-other-whales"
+  }
+ },
+ {
+  "id": "dt2-toumai",
+  "era": "deep",
+  "year": -7000000,
+  "dateLabel": "About 7 million years ago",
+  "emoji": "🌅",
+  "cat": "discovery",
+  "title": "Toumaï, Hope of Life",
+  "place": "Djurab Desert, Chad",
+  "lat": 16.25,
+  "lng": 17.5,
+  "text": "In July 2001 a team led by Michel Brunet found a small but nearly complete skull in Chad's Djurab Desert. Named Sahelanthropus, it is about 7 million years old and may be one of the oldest members of the human family, from near the time our line split from chimpanzees. Its nickname Toumaï means 'hope of life' in the local language.",
+  "source": {
+   "name": "Australian Museum",
+   "url": "https://australian.museum/learn/science/human-evolution/sahelanthropus-tchadensis/"
+  },
+  "source2": {
+   "name": "Lebatard et al. 2008, PNAS (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18305174/"
+  }
+ },
+ {
+  "id": "dt2-ardi",
+  "era": "deep",
+  "year": -4400000,
+  "dateLabel": "About 4.4 million years ago",
+  "emoji": "🦶",
+  "cat": "discovery",
+  "title": "Ardi, Older Than Lucy",
+  "place": "Aramis, Afar, Ethiopia",
+  "lat": 10.42,
+  "lng": 40.53,
+  "text": "Ardi is a partial skeleton of Ardipithecus, more than a million years older than Lucy. Found in 1994, it took scientists 15 years to study and publish. Ardi walked upright on the ground but still had a big toe that could grab branches like a thumb, a mix of tree climber and walker.",
+  "source": {
+   "name": "Smithsonian National Museum of Natural History - Human Origins",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/species/ardipithecus-ramidus"
+  }
+ },
+ {
+  "id": "dt2-lomekwi-tools",
+  "era": "deep",
+  "year": -3300000,
+  "dateLabel": "About 3.3 million years ago",
+  "emoji": "🪨",
+  "cat": "discovery",
+  "title": "The Oldest Stone Tools",
+  "place": "Lomekwi, West Turkana, Kenya",
+  "lat": 3.95,
+  "lng": 35.75,
+  "text": "In 2015 archaeologists announced stone tools from Lomekwi 3 in Kenya that are about 3.3 million years old, some 700,000 years older than the oldest tools known before. Some are big and heavy, weighing two kilograms or more, and were made by pounding stone against stone. Scientists had long supposed the first toolmakers belonged to our own genus, Homo; these finds point to someone earlier.",
+  "source": {
+   "name": "Harmand et al. 2015, Nature 521:310-315",
+   "url": "https://www.nature.com/articles/nature14464"
+  }
+ },
+ {
+  "id": "dt2-shangchen",
+  "era": "deep",
+  "year": -2100000,
+  "dateLabel": "About 2.1 million years ago",
+  "emoji": "🔨",
+  "cat": "journeys",
+  "title": "Early Tools Far from Africa",
+  "place": "Shangchen, Lantian, Shaanxi, China",
+  "lat": 34.2,
+  "lng": 109.5,
+  "text": "On the Loess Plateau of central China, scientists found stone tools in 17 layers of ancient soil and dust, the oldest dated to about 2.1 million years ago. Reported in 2018, they suggest human relatives left Africa earlier than anyone thought, before the famous early humans of Dmanisi in Georgia, who lived about 1.8 million years ago.",
+  "source": {
+   "name": "Zhu et al. 2018, Nature 559:608-612",
+   "url": "https://www.nature.com/articles/s41586-018-0299-4"
+  }
+ },
+ {
+  "id": "dt2-wonderwerk-fire",
+  "era": "deep",
+  "year": -1000000,
+  "dateLabel": "About 1 million years ago",
+  "emoji": "🔥",
+  "cat": "discovery",
+  "title": "The Oldest Campfire Clues",
+  "place": "Wonderwerk Cave, South Africa",
+  "lat": -27.85,
+  "lng": 23.55,
+  "text": "About 30 metres inside Wonderwerk Cave, scientists found burnt bone and ash from plants about a million years old. Because the burning happened again and again so far inside the cave, wildfires are an unlikely cause. It is the earliest secure evidence of fire at an archaeological site, probably tended by Homo erectus.",
+  "source": {
+   "name": "Berna et al. 2012, PNAS 109:E1215-E1220",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3356665/"
+  }
+ }
+]

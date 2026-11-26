@@ -1,0 +1,362 @@
+[
+ {
+  "id": "m43-angkor-world-heritage",
+  "era": "modern",
+  "year": 1992,
+  "dateLabel": "1992",
+  "cat": "culture",
+  "title": "Angkor Joins the World Heritage List",
+  "place": "Angkor Archaeological Park, Siem Reap, Cambodia",
+  "lat": 13.41,
+  "lng": 103.87,
+  "text": "In 1992 UNESCO inscribed Angkor, a park of some 400 square kilometres holding the capitals of the Khmer Empire from the 9th to the 15th century. Besides famous temples like Angkor Wat and the Bayon, it has reservoirs, dykes and canals. Conservation went so well that Angkor was taken off the List of World Heritage in Danger in 2004.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Angkor",
+   "url": "https://whc.unesco.org/en/list/668"
+  }
+ },
+ {
+  "id": "m43-plain-of-jars-listed",
+  "era": "modern",
+  "year": 2019,
+  "dateLabel": "2019",
+  "cat": "discovery",
+  "title": "The Mystery Jars of Laos",
+  "place": "Plain of Jars, Xiengkhuang, Laos",
+  "lat": 19.43,
+  "lng": 103.15,
+  "text": "In 2019 UNESCO listed the Plain of Jars in central Laos, named after more than 2,100 giant stone jars used for Iron Age funerals. The jars were carved in quarries and moved to burial sites between about 500 BCE and 500 CE. Little is known about the people who made them, and some jars were damaged by wartime bombing.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Megalithic Jar Sites in Xiengkhuang - Plain of Jars",
+   "url": "https://whc.unesco.org/en/list/1587"
+  }
+ },
+ {
+  "id": "m43-hoi-an-ancient-town",
+  "era": "modern",
+  "year": 1999,
+  "dateLabel": "1999",
+  "cat": "daily",
+  "title": "A Trading Port Frozen in Time",
+  "place": "Hội An, Quảng Nam, Vietnam",
+  "lat": 15.88,
+  "lng": 108.33,
+  "text": "Hội An, a trading port active from the 15th to 19th centuries, became a World Heritage Site in 1999. Its trade declined in the later 1800s, so no one rebuilt its 1,107 timber-frame buildings in modern materials. Shops face narrow streets while their backs open onto the river, and an 18th-century Japanese bridge carries a small pagoda.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Hoi An Ancient Town",
+   "url": "https://whc.unesco.org/en/list/948"
+  }
+ },
+ {
+  "id": "m43-chang-and-eng-sail",
+  "era": "industrial",
+  "year": 1829,
+  "dateLabel": "April 1, 1829",
+  "cat": "journeys",
+  "title": "The Twins Who Named a Word",
+  "place": "Mae Klong, Samut Songkhram, Thailand",
+  "lat": 13.41,
+  "lng": 100.0,
+  "text": "Chang and Eng, born in 1811 in Meklong, Siam, were joined at the breastbone by a small piece of cartilage. They worked as merchants and raised ducks for their eggs. On April 1, 1829, they sailed with merchant Robert Hunter on a 138-day voyage to Boston, and doctors and journalists later began calling them the Siamese twins.",
+  "source": {
+   "name": "Arizona State University, Embryo Project Encyclopedia: Chang and Eng Bunker (1811-1874)",
+   "url": "https://embryo.asu.edu/pages/chang-and-eng-bunker-1811-1874"
+  }
+ },
+ {
+  "id": "m43-mongkut-offers-elephants",
+  "era": "industrial",
+  "year": 1861,
+  "dateLabel": "February 14, 1861",
+  "cat": "daily",
+  "title": "Elephants for America",
+  "place": "Bangkok, Thailand",
+  "lat": 13.75,
+  "lng": 100.49,
+  "text": "In a letter dated February 14, 1861, King Mongkut of Siam offered the United States several pairs of elephants, to be turned loose in forests until there were large herds. He thought they could carry loads through uncleared woods. Abraham Lincoln kindly accepted the king's sword and photograph, but declined the elephants, saying the American climate did not favour them.",
+  "source": {
+   "name": "U.S. National Archives: Special Display of King of Siam's Letter to President Buchanan",
+   "url": "https://www.archives.gov/press/press-releases/1999/nr99-122"
+  }
+ },
+ {
+  "id": "m43-burma-thailand-railway",
+  "era": "modern",
+  "year": 1943,
+  "dateLabel": "October 1943",
+  "cat": "power",
+  "title": "The Death Railway Is Finished",
+  "place": "Hellfire Pass, Kanchanaburi, Thailand",
+  "lat": 14.35,
+  "lng": 98.95,
+  "text": "Japan's railway through the jungle between Thailand and Burma was completed in October 1943. It was built by about 60,000 Allied prisoners of war and 200,000 Asian labourers called romusha, and perhaps 75,000 romusha died. At Hellfire Pass, starving men cut through solid rock with hammers and chisels, working by torchlight that looked like a scene from hell.",
+  "source": {
+   "name": "Australian War Memorial: Stolen Years - The Burma-Thailand Railway",
+   "url": "https://www.awm.gov.au/visit/exhibitions/stolenyears/ww2/japan/burmathai"
+  },
+  "source2": {
+   "name": "Hellfire Pass Interpretive Centre (Australian Government DVA): History",
+   "url": "https://hellfirepass.dva.gov.au/history/"
+  }
+ },
+ {
+  "id": "m43-us-siam-treaty",
+  "era": "industrial",
+  "year": 1833,
+  "dateLabel": "March 20, 1833",
+  "cat": "power",
+  "title": "America's First Asian Treaty",
+  "place": "Bangkok, Thailand",
+  "lat": 13.75,
+  "lng": 100.49,
+  "text": "On March 20, 1833, Siam and the United States signed a Treaty of Amity and Commerce, their first official diplomatic contact. It was negotiated by Edmund Roberts, a special agent sent on a mission to the Far East to make treaties with Siam and other powers. It became the first treaty the United States ever made with an Asian country.",
+  "source": {
+   "name": "U.S. Department of State, Office of the Historian: Thailand - Countries",
+   "url": "https://history.state.gov/countries/thailand"
+  }
+ },
+ {
+  "id": "m43-preah-vihear-judgment",
+  "era": "modern",
+  "year": 1962,
+  "dateLabel": "June 15, 1962",
+  "cat": "power",
+  "title": "A Court Decides a Cliff-Top Temple",
+  "place": "Preah Vihear Temple, Preah Vihear, Cambodia",
+  "lat": 14.39,
+  "lng": 104.68,
+  "text": "Preah Vihear, a temple to Shiva from the early 11th century, sits on the edge of a plateau above the Cambodian plain. Cambodia and Thailand both claimed it, and on June 15, 1962, the International Court of Justice ruled that it stood on Cambodian territory. Thailand had to withdraw its forces and return objects taken from the ruins since 1954.",
+  "source": {
+   "name": "International Court of Justice: Temple of Preah Vihear (Cambodia v. Thailand)",
+   "url": "https://www.icj-cij.org/case/45"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Temple of Preah Vihear",
+   "url": "https://whc.unesco.org/en/list/1224"
+  }
+ },
+ {
+  "id": "m43-thailand-great-flood",
+  "era": "modern",
+  "year": 2011,
+  "dateLabel": "October 2011",
+  "cat": "nature",
+  "title": "Ayutthaya Under Water",
+  "place": "Ayutthaya, Thailand",
+  "lat": 14.35,
+  "lng": 100.57,
+  "text": "In October 2011 the Chao Phraya River spilled over its floodplains, and satellites saw much of the historic city of Ayutthaya under water. Fields, roads and buildings were swamped by muddy floodwater, factories closed, and Bangkok flooded too. Such a wide flood was unusual even for the monsoon, and by mid-December the Bangkok Post reported 740 deaths nationwide.",
+  "source": {
+   "name": "NASA Earth Observatory: Floods Swamp Historic City in Thailand",
+   "url": "https://science.nasa.gov/earth/earth-observatory/floods-swamp-historic-city-in-thailand-76234"
+  },
+  "source2": {
+   "name": "NASA Earth Observatory: Flooding in Thailand",
+   "url": "https://science.nasa.gov/earth/earth-observatory/flooding-in-thailand-76683/"
+  }
+ },
+ {
+  "id": "m43-siam-embassy-versailles",
+  "era": "exploration",
+  "year": 1686,
+  "dateLabel": "September 1, 1686",
+  "cat": "journeys",
+  "title": "Siam's Ambassador Dazzles Versailles",
+  "place": "Ayutthaya, Thailand (embassy to Versailles, France)",
+  "lat": 14.36,
+  "lng": 100.57,
+  "text": "On September 1, 1686, Kosa Pan, ambassador of King Narai of Siam, was received by Louis XIV at Versailles in one of the most sumptuous events of the reign. Among countless gifts from Narai or his minister Constantine Phaulkon was a silver jug, the only known silver item. Today it is displayed at the very spot where it was handed over.",
+  "source": {
+   "name": "Palace of Versailles: Acquisition of the silver jug",
+   "url": "https://en.chateauversailles.fr/news/life-estate/acquisition-silver-jug"
+  },
+  "source2": {
+   "name": "Musee du Louvre collections: Almanach de 1687, Audience aux ambassadeurs de Siam",
+   "url": "https://collections.louvre.fr/en/ark:/53355/cl020559238"
+  }
+ },
+ {
+  "id": "m43-dutch-lodge-lawec",
+  "era": "exploration",
+  "year": 1643,
+  "dateLabel": "1643",
+  "cat": "daily",
+  "title": "Deer Skins and a Bamboo Fence",
+  "place": "Longvek (Lawec), Kampong Chhnang, Cambodia",
+  "lat": 12.03,
+  "lng": 104.7,
+  "text": "The Dutch East India Company traded near Lawec, Cambodia's capital, buying deer and manta ray skins to sell on to Japan. In 1643 a senior merchant grumbled that the lodge was rough and poor, with a light bamboo fence. That same year Company men were killed and local people, helped by the Portuguese, looted and destroyed the post.",
+  "source": {
+   "name": "Rijksmuseum: Two Views of Dutch East India Company Trading Posts - Lawec in Cambodia (SK-A-4475)",
+   "url": "https://www.rijksmuseum.nl/en/collection/SK-A-4475"
+  },
+  "source2": {
+   "name": "Northern Illinois University SEAsite, International Conference on Lao Studies: W. Feldberg (IIAS), Gerrit Wuijsthoff's Journey to the Lao Court at Vientiane, 1641-1642",
+   "url": "https://seasite.niu.edu/lao/LaoStudies/wfeld.htm"
+  }
+ },
+ {
+  "id": "m43-wuysthoff-vientiane",
+  "era": "exploration",
+  "year": 1641,
+  "dateLabel": "July 1641",
+  "cat": "journeys",
+  "title": "A Dutch Merchant Sails to Laos",
+  "place": "Vientiane, Laos",
+  "lat": 17.97,
+  "lng": 102.61,
+  "text": "In July 1641 Gerrit Wuijsthoff of the Dutch East India Company set out from Loveck, Cambodia's capital, up the Mekong to the Lao court of King Souligna Vongsa at Vientiane, in search of new trade. His notes made him the first European to write a detailed report on Laos, and the only long European account until the French arrived two centuries later.",
+  "source": {
+   "name": "Northern Illinois University SEAsite, International Conference on Lao Studies: W. Feldberg (IIAS), Gerrit Wuijsthoff's Journey to the Lao Court at Vientiane, 1641-1642",
+   "url": "https://seasite.niu.edu/lao/LaoStudies/wfeld.htm"
+  }
+ },
+ {
+  "id": "m43-alaungpaya-golden-letter",
+  "era": "exploration",
+  "year": 1756,
+  "dateLabel": "1756",
+  "cat": "journeys",
+  "title": "A Letter Made of Gold",
+  "place": "Royal court of Burma, Myanmar (letter now in Hanover, Germany)",
+  "lat": 22.57,
+  "lng": 95.7,
+  "text": "In 1756 the Myanmar king Alaungmintaya sent King George II of Great Britain a letter offering trade cooperation. It was engraved in the Myanmar language on a gold plaque, with a line of 12 rubies along each of two sides. Nobody in Hanover's library could read it for 250 years, and in 2015 UNESCO added it to its Memory of the World Register.",
+  "source": {
+   "name": "UK National Commission for UNESCO: The Golden Letter of the Burmese King",
+   "url": "https://unesco.org.uk/our-sites/memory-of-the-world/the-golden-letter-of-the-burmese-king"
+  }
+ },
+ {
+  "id": "m43-8888-uprising",
+  "era": "modern",
+  "year": 1988,
+  "dateLabel": "August 8, 1988",
+  "cat": "power",
+  "title": "The 8-8-88 Uprising",
+  "place": "Yangon (Rangoon), Myanmar",
+  "lat": 16.8,
+  "lng": 96.16,
+  "text": "On August 8, 1988, remembered in Burma as 8-8-88, hundreds of thousands of people, perhaps up to a million, marched in Rangoon calling for democracy, elections and economic reform. University students had sparked the protests, and Buddhist monks acted as marshals. Soldiers shot at unarmed crowds, and on September 18 the army seized back control of the cities.",
+  "source": {
+   "name": "Human Rights Watch: Crackdown - Repression of the 2007 Popular Protests in Burma (background on 1988)",
+   "url": "https://www.hrw.org/reports/2007/burma1207/burma1207.htm"
+  }
+ },
+ {
+  "id": "m43-quang-duc-protest",
+  "era": "modern",
+  "year": 1963,
+  "dateLabel": "June 11, 1963",
+  "cat": "culture",
+  "title": "A Monk's Fiery Protest",
+  "place": "Near Xa Loi Pagoda, Ho Chi Minh City (Saigon), Vietnam",
+  "lat": 10.78,
+  "lng": 106.69,
+  "text": "On the morning of June 11, 1963, at a Saigon street corner near Xa Loi Pagoda, the Buddhist monk Quang Duc poured gasoline on his robe and set himself alight. Hundreds of monks and nuns surrounded him, and hundreds more people watched. Buddhists used loudspeakers to link his death to five demands they had made of the South Vietnamese government.",
+  "source": {
+   "name": "U.S. Department of State, Office of the Historian: Foreign Relations of the United States, 1961-1963, Vol. III, Document 163",
+   "url": "https://history.state.gov/historicaldocuments/frus1961-63v03/d163"
+  }
+ },
+ {
+  "id": "m43-yersin-nha-trang-lab",
+  "era": "industrial",
+  "year": 1895,
+  "dateLabel": "1895",
+  "cat": "discovery",
+  "title": "A Plague Hunter's Seaside Lab",
+  "place": "Nha Trang, Khánh Hòa, Vietnam",
+  "lat": 12.24,
+  "lng": 109.19,
+  "text": "Having isolated the plague bacillus in 1894, Alexandre Yersin travelled to Indochina in 1895 and set up a small laboratory in Nha Trang to study cattle diseases. It became a branch of the Institut Pasteur in 1905. Yersin also explored the Lang-Bian plateau, suggesting the town that became Dalat, and brought the rubber tree to Indochina in 1899.",
+  "source": {
+   "name": "Institut Pasteur Archives: Alexandre Yersin chronology",
+   "url": "https://webext.pasteur.fr/archives/e_yer0.html"
+  }
+ },
+ {
+  "id": "m43-british-land-rangoon",
+  "era": "industrial",
+  "year": 1824,
+  "dateLabel": "May 10, 1824",
+  "cat": "power",
+  "title": "Redcoats Land at Rangoon",
+  "place": "Yangon (Rangoon), Myanmar",
+  "lat": 16.77,
+  "lng": 96.16,
+  "text": "After frontier clashes in Cachar and Arakan, Britain declared war on Burma in March 1824, and on May 10 a seaborne force landed at lightly defended Rangoon. The war dragged on until 1826. At least 15,000 British and Indian soldiers died, about three-quarters from illnesses such as malaria and dysentery, and Burma lost Arakan, Assam, Manipur and Tenasserim.",
+  "source": {
+   "name": "National Army Museum (UK): First Burma War",
+   "url": "https://www.nam.ac.uk/explore/first-burma-war"
+  }
+ },
+ {
+  "id": "m43-rodin-cambodian-dancers",
+  "era": "industrial",
+  "year": 1906,
+  "dateLabel": "July 1906",
+  "cat": "culture",
+  "title": "Rodin Chases the Royal Ballet",
+  "place": "Royal Palace, Phnom Penh, Cambodia (tour to France)",
+  "lat": 11.56,
+  "lng": 104.93,
+  "text": "In 1906 King Sisowath made the first trip to France by a Cambodian ruler, bringing dancers of the royal ballet. The sculptor Auguste Rodin saw them in Paris in July and found it like a revelation. He followed them to Marseille, leaving without paper or pencils, and in about a week made roughly 150 drawings, fascinated by their arms and hands.",
+  "source": {
+   "name": "Musee Rodin: Rodin and the Cambodian Dancers",
+   "url": "https://www.musee-rodin.fr/en/musee/expositions/rodin-and-cambodian-dancers"
+  }
+ },
+ {
+  "id": "m43-long-bien-bridge",
+  "era": "industrial",
+  "year": 1902,
+  "dateLabel": "February 1902",
+  "cat": "daily",
+  "title": "A Steel Giant Over the Red River",
+  "place": "Long Biên Bridge, Hanoi, Vietnam",
+  "lat": 21.04,
+  "lng": 105.86,
+  "text": "Begun in September 1898 and inaugurated in February 1902, Hanoi's 1,862-metre bridge over the Red River was first named after Paul Doumer. The French firm Daydé-Pillié designed it, and many Vietnamese workers built it under French experts. It was one of the largest steel bridges in the world, renamed Long Biên after 1945, and later damaged 14 times by American bombs.",
+  "source": {
+   "name": "Nhân Dân: Long Bien Bridge - A priceless part of Hanoi's history",
+   "url": "https://en.nhandan.vn/long-bien-bridge-a-priceless-part-of-hanois-history-post119289.html"
+  }
+ },
+ {
+  "id": "m43-siam-embassy-hague",
+  "era": "exploration",
+  "year": 1608,
+  "dateLabel": "September 10, 1608",
+  "cat": "journeys",
+  "title": "Siam's Envoys Meet the Telescope",
+  "place": "Ayutthaya, Thailand (embassy to The Hague, Netherlands)",
+  "lat": 14.35,
+  "lng": 100.56,
+  "text": "In 1608 the Dutch East India Company opened an office in Ayutthaya, and an embassy from the King of Siam reached The Hague on September 10 to meet Prince Maurits. It was the first Siamese diplomatic mission to Europe. A newsletter of the time reported both the visit and the first documented demonstration of a telescope anywhere in the world.",
+  "source": {
+   "name": "Royal Netherlands Academy of Arts and Sciences (KNAW): Zuidervaart and Zoomers, Embassies of the King of Siam sent to his excellence Prince Maurits (2008)",
+   "url": "https://pure.knaw.nl/portal/en/publications/embassies-of-the-king-of-siam-sent-to-his-excellence-prince-mauri/"
+  },
+  "source2": {
+   "name": "Rijksmuseum: View of Ayutthaya, the Former Capital of Thailand (SK-A-4477)",
+   "url": "https://www.rijksmuseum.nl/collectie/SK-A-4477"
+  }
+ },
+ {
+  "id": "m43-tay-son-uprising",
+  "era": "exploration",
+  "year": 1771,
+  "dateLabel": "1771",
+  "cat": "power",
+  "title": "Three Brothers Shake Vietnam",
+  "place": "Tây Sơn, Bình Định, Vietnam",
+  "lat": 13.95,
+  "lng": 108.9,
+  "text": "In 1771 three brothers from the hamlet of Tây Sơn launched an uprising that would last until 1802. Their mixed army drove out the ruling families in both halves of divided Vietnam and eventually toppled the 350-year-old Lê dynasty. The upheaval affected every region of the country and every level of society, a story historians trace through Vietnamese sources and European missionary accounts.",
+  "source": {
+   "name": "University of Hawai'i Press: George Dutton, The Tây Sơn Uprising - Society and Rebellion in Eighteenth-Century Vietnam",
+   "url": "https://uhpress.hawaii.edu/title/the-tay-son-uprising-society-and-rebellion-in-eighteenth-century-vietnam/"
+  }
+ }
+]

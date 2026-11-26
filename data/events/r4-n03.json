@@ -1,0 +1,350 @@
+[
+ {
+  "id": "n03-takalik-abaj",
+  "era": "ancient",
+  "year": -800,
+  "dateLabel": "About 800 BCE",
+  "cat": "journeys",
+  "title": "Where Olmec Became Maya",
+  "place": "Tak'alik Ab'aj, El Asintal, Retalhuleu, Guatemala",
+  "lat": 14.64,
+  "lng": -91.73,
+  "text": "On Guatemala's Pacific slopes, Tak'alik Ab'aj grew up beside a long-distance trade route running from the Isthmus of Tehuantepec to present-day El Salvador. Its 1,700-year history, from 800 BCE to 900 CE, saw Olmec traditions give way to early Maya culture. Its mix of sculpture styles is more varied than at other Mesoamerican sites, and Indigenous groups still visit to perform rituals.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: National Archaeological Park Tak'alik Ab'aj",
+   "url": "https://whc.unesco.org/en/list/1663"
+  }
+ },
+ {
+  "id": "n03-copan-founder",
+  "era": "classical",
+  "year": 426,
+  "dateLabel": "426 CE",
+  "cat": "power",
+  "title": "The Left-Handed Founder of Copán",
+  "place": "Copán Ruinas, Copán, Honduras",
+  "lat": 14.84,
+  "lng": -89.14,
+  "text": "In 426 CE K'inich Yax K'uk' Mo' became the founder of Copán's royal dynasty, and the city stayed a prosperous Maya capital until 822. University of Pennsylvania archaeologists found a tomb deep inside the Acropolis they link to him. The bones show a man over 50 with old injuries, including a severe blow to his right forearm, perhaps from blocking with a shield.",
+  "source": {
+   "name": "Penn Museum: Early Copan Acropolis Program",
+   "url": "https://www.penn.museum/research/project.php?pid=7"
+  },
+  "source2": {
+   "name": "Penn Today: Penn Archaeologist Featured on PBS 'NOVA' for Un-earthing Tomb of Founder of Mayan City of Copan",
+   "url": "https://penntoday.upenn.edu/news/penn-archaeologist-featured-pbs-nova-un-earthing-tomb-founder-mayan-city-copan"
+  }
+ },
+ {
+  "id": "n03-tres-zapotes-stela-c",
+  "era": "classical",
+  "year": -31,
+  "dateLabel": "31 BCE (date carved on the stone)",
+  "cat": "discovery",
+  "title": "A Date Written in Bars and Dots",
+  "place": "Tres Zapotes, Veracruz, Mexico",
+  "lat": 18.47,
+  "lng": -95.44,
+  "text": "Stela C from Tres Zapotes, on Mexico's Gulf Coast, carries a Long Count date written in bars and dots, 7.16.6.16.18, or 31 BCE, one of Mesoamerica's oldest calendar inscriptions. Matthew Stirling found its bottom half in 1939, and the top turned up thirty years later. His reading started a debate over whether writing and calendars began with the Maya or on the Gulf Coast.",
+  "source": {
+   "name": "FAMSI, Richard Diehl: Death Gods, Smiling Faces and Colossal Heads: Archaeology of the Mexican Gulf Lowlands",
+   "url": "https://www.famsi.org/research/diehl/section01d.html"
+  }
+ },
+ {
+  "id": "n03-yaxchilan-lintel-24",
+  "era": "medieval",
+  "year": 709,
+  "dateLabel": "October 24, 709 CE",
+  "cat": "culture",
+  "title": "Lady K'abal Xook's Blood Offering",
+  "place": "Yaxchilán, Chiapas, Mexico",
+  "lat": 16.9,
+  "lng": -90.96,
+  "text": "On October 24, 709, at Yaxchilán, Lady K'abal Xook pulled a rope, probably studded with obsidian blades, through her tongue while her husband, the ruler Itzamnaaj Bahlam, held a flaming torch above her. Her blood fell onto bark paper in a bowl. The scene was carved on a limestone lintel, now in the British Museum, considered one of the masterpieces of Maya art.",
+  "source": {
+   "name": "British Museum (via Google Arts & Culture): Yaxchilan Lintel 24",
+   "url": "https://artsandculture.google.com/asset/yaxchilan-lintel-24/nwGUv6jWUJzDhQ"
+  }
+ },
+ {
+  "id": "n03-el-tajin",
+  "era": "medieval",
+  "year": 800,
+  "dateLabel": "About 800 CE (lived in 800–1200)",
+  "cat": "daily",
+  "title": "El Tajín, City of 17 Ballcourts",
+  "place": "El Tajín, Papantla, Veracruz, Mexico",
+  "lat": 20.45,
+  "lng": -97.38,
+  "text": "El Tajín was lived in from about 800 to 1200 CE and became the most important centre in north-east Mesoamerica after Teotihuacan fell. Some 15,000 to 20,000 people lived there. The city had 17 ballcourts, and UNESCO calls its Pyramid of the Niches a masterpiece of ancient American architecture. Carved reliefs and wall paintings at the site record scenes of ritual and daily life.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: El Tajin, Pre-Hispanic City",
+   "url": "https://whc.unesco.org/en/list/631"
+  }
+ },
+ {
+  "id": "n03-paquime-macaws",
+  "era": "medieval",
+  "year": 1300,
+  "dateLabel": "1300s–1400s (its peak)",
+  "cat": "daily",
+  "title": "Paquimé, Desert Town of Macaws",
+  "place": "Paquimé, Casas Grandes, Chihuahua, Mexico",
+  "lat": 30.37,
+  "lng": -107.95,
+  "text": "In the Chihuahua Desert, Paquimé peaked in the 14th and 15th centuries, with some 2,000 adobe rooms and doors shaped like a T. It linked the Pueblo peoples of the American Southwest with Mesoamerica. Scarlet macaws were an important trade item in the region, and Paquimé is the only site with evidence of substantial macaw-breeding facilities.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Archaeological Zone of Paquimé, Casas Grandes",
+   "url": "https://whc.unesco.org/en/list/560"
+  },
+  "source2": {
+   "name": "American Antiquity (Cambridge Core): Prehistoric Macaw Breeding in the North American Southwest",
+   "url": "https://www.cambridge.org/core/journals/american-antiquity/article/prehistoric-macaw-breeding-in-the-north-american-southwest/029F2A53B1083EB0D50201DF706D77BC"
+  }
+ },
+ {
+  "id": "n03-templo-mayor-1487",
+  "era": "medieval",
+  "year": 1487,
+  "dateLabel": "1487 (the year 8 Reed)",
+  "cat": "culture",
+  "title": "Two Kings Finish the Great Temple",
+  "place": "Templo Mayor, Tenochtitlan (Mexico City), Mexico",
+  "lat": 19.43,
+  "lng": -99.13,
+  "text": "In the year 8 Reed, or 1487, workers finished enlarging Tenochtitlan's Templo Mayor, and chroniclers say grand ceremonies followed, with prisoners sacrificed. A greenstone plaque marked the moment. It shows the rulers Tízoc and Ahuízotl offering their own blood to the Earth, with a bale of hay between them holding their bloody knives. It is now in Mexico's National Museum of Anthropology.",
+  "source": {
+   "name": "Museo Nacional de Antropología (via Google Arts & Culture): Lápida conmemorativa del Templo Mayor",
+   "url": "https://artsandculture.google.com/asset/l%C3%A1pida-conmemorativa-del-templo-mayor-unknown/BwEmPKIPrth6eQ"
+  }
+ },
+ {
+  "id": "n03-quirigua-cauac-sky",
+  "era": "medieval",
+  "year": 723,
+  "dateLabel": "723 CE (Cauac Sky's reign begins)",
+  "cat": "culture",
+  "title": "Quiriguá Carves Its History in Stone",
+  "place": "Quiriguá, Los Amates, Izabal, Guatemala",
+  "lat": 15.27,
+  "lng": -89.04,
+  "text": "Under Cauac Sky, who reigned from 723, Quiriguá became the capital of a prosperous, independent Maya state. Its Great Plaza is the largest known public space in the whole Maya area. Sculptors carved its sandstone stelae without metal tools, recording eclipses, myths and political events, and Quiriguá was one of only two cities to regularly mark the end of five-year periods.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Archaeological Park and Ruins of Quirigua",
+   "url": "https://whc.unesco.org/en/list/149"
+  }
+ },
+ {
+  "id": "n03-khoa-reef-offerings",
+  "era": "medieval",
+  "year": 794,
+  "dateLabel": "794–964 CE (radiocarbon dates)",
+  "cat": "culture",
+  "title": "Gifts Dropped Into Lake Titicaca",
+  "place": "Khoa Reef, near the Island of the Sun, Lake Titicaca, Bolivia",
+  "lat": -15.95,
+  "lng": -69.22,
+  "text": "Underwater excavations at Khoa Reef, near Bolivia's Island of the Sun, found puma-shaped incense burners, sacrificed young llamas, and gold, shell and stone ornaments, radiocarbon dated to 794–964 CE. Anchors nearby suggest religious leaders dropped the offerings during rituals held from boats. Researchers think such ceremonies helped bind lakeside groups into the Tiwanaku state.",
+  "source": {
+   "name": "Penn State News: Rise of religion pre-dates Incas at Lake Titicaca",
+   "url": "https://www.psu.edu/news/research/story/rise-religion-pre-dates-incas-lake-titicaca"
+  },
+  "source2": {
+   "name": "EurekAlert! (AAAS): release on Delaere, Capriles and Stanish, PNAS 2019",
+   "url": "https://www.eurekalert.org/news-releases/909030"
+  }
+ },
+ {
+  "id": "n03-cerro-sechin",
+  "era": "ancient",
+  "year": -1900,
+  "dateLabel": "About 1900 BCE",
+  "cat": "power",
+  "title": "The Stone Warriors of Sechín",
+  "place": "Cerro Sechín, Casma, Áncash, Peru",
+  "lat": -9.48,
+  "lng": -78.26,
+  "text": "Peru's National Library dates the temple of Cerro Sechín and its carved stones to about 1900 BCE, calling them the oldest of their kind on the continent. Around the great temple, a wall shows 20 carved warriors alongside the remains of defeated or sacrificed enemies. Scholars still debate whether it shows a bloody battle or human sacrifice. Julio C. Tello discovered the site in 1937.",
+  "source": {
+   "name": "Biblioteca Nacional del Perú: page on Sechín and its stone warriors",
+   "url": "https://www.bnp.gob.pe/?p=31266"
+  }
+ },
+ {
+  "id": "n03-chankillo-towers",
+  "era": "classical",
+  "year": -250,
+  "dateLabel": "About 250–200 BCE",
+  "cat": "discovery",
+  "title": "Thirteen Towers That Track the Sun",
+  "place": "Chankillo, Casma Valley, Áncash, Peru",
+  "lat": -9.56,
+  "lng": -78.23,
+  "text": "In Peru's Casma Valley desert, people at Chankillo built a line of 13 towers along a hilltop ridge, used between about 250 and 200 BCE. Watching the sun rise and set behind the towers from two observation points, they could mark the solstices, the equinoxes and every other date of the year to within 1 or 2 days. The site probably served a solar cult.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Chankillo Archaeoastronomical Complex",
+   "url": "https://whc.unesco.org/en/list/1624"
+  }
+ },
+ {
+  "id": "n03-tierradentro-tombs",
+  "era": "medieval",
+  "year": 600,
+  "dateLabel": "About 600–900 CE",
+  "cat": "culture",
+  "title": "Painted Houses for the Dead",
+  "place": "Tierradentro, Inzá, Cauca, Colombia",
+  "lat": 2.58,
+  "lng": -76.03,
+  "text": "Between about 600 and 900 CE, people in Colombia's Andes carved huge tombs into volcanic rock beneath hilltops at Tierradentro. Stairs lead down to chambers up to 12 metres wide, with columns and walls painted red and black on white. The tombs copy the inside of houses of the time, linking the homes of the living above ground with those of the ancestors below.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: National Archeological Park of Tierradentro",
+   "url": "https://whc.unesco.org/en/list/743"
+  }
+ },
+ {
+  "id": "n03-samaipata-rock",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "About 300 CE (carving begins)",
+  "cat": "culture",
+  "title": "A Whole Hilltop Carved Into a Temple",
+  "place": "Fuerte de Samaipata, Florida Province, Santa Cruz, Bolivia",
+  "lat": -18.18,
+  "lng": -63.82,
+  "text": "By about 300 CE, people of the Mojocoyas culture began shaping a huge red sandstone rock above Samaipata in Bolivia. About 220 metres long, it is carved all over with animals, geometric shapes, niches and water channels used in rituals. UNESCO calls it one of the most colossal ancient ceremonial works of the Andes and Amazon. The Inca later made the site a provincial capital.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Fuerte de Samaipata",
+   "url": "https://whc.unesco.org/en/list/883"
+  }
+ },
+ {
+  "id": "n03-uxmal-puuc",
+  "era": "medieval",
+  "year": 700,
+  "dateLabel": "About 700 CE (founded)",
+  "cat": "nature",
+  "title": "Uxmal Saves Every Drop of Rain",
+  "place": "Uxmal, Santa Elena, Yucatán, Mexico",
+  "lat": 20.36,
+  "lng": -89.77,
+  "text": "Founded around 700 CE in Yucatán's Puuc hills, Uxmal grew from a farming town into a Maya capital of up to 20,000 people. Builders dug reservoirs called chultunoob to store rainwater, and sculptures of Chaac, the rain god, cover its buildings. Instead of a grid, the city was laid out to match the hills and events in the sky such as the rising and setting of Venus.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Pre-Hispanic Town of Uxmal",
+   "url": "https://whc.unesco.org/en/list/791"
+  }
+ },
+ {
+  "id": "n03-ventarron-deer-murals",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2300–2035 BCE (first temple phase)",
+  "cat": "culture",
+  "title": "Deer Caught in Painted Nets",
+  "place": "Huaca Ventarrón, Lambayeque Valley, Peru",
+  "lat": -6.8,
+  "lng": -79.75,
+  "text": "The Ventarrón Temple on Peru's north coast was first built around 2300–2035 BCE, and its wall paintings are among the oldest in the Americas. Beside an altar, two murals show deer caught in nets, painted in reds, pinks, yellow, white, black and grey. Scientists found the painters mixed mineral pigments, iron oxides, clays and earths to create this wide range of colours.",
+  "source": {
+   "name": "Heritage Science (peer-reviewed): The origins of mural painting in Ancient Peru: archaeometric preliminary study of the Ventarrón mural paintings",
+   "url": "https://www.nature.com/articles/s40494-015-0059-9"
+  }
+ },
+ {
+  "id": "n03-puerto-escondido-cacao",
+  "era": "ancient",
+  "year": -1100,
+  "dateLabel": "About 1100 BCE",
+  "cat": "daily",
+  "title": "Cacao Before Chocolate",
+  "place": "Puerto Escondido, Ulúa Valley, Cortés, Honduras",
+  "lat": 15.45,
+  "lng": -87.88,
+  "text": "Pottery shards from Puerto Escondido in Honduras, dated to 1100 BCE, held the earliest chemical evidence of cacao drinking that Cornell and Penn Museum scientists had found. The first cacao drinkers probably fermented the pulp around the seeds into an alcoholic brew. They poured it from bottles with long, skinny spouts, quite unlike the wide jugs later used to froth chocolate.",
+  "source": {
+   "name": "Cornell Chronicle: In search of wine, ancients become earliest chocoholics",
+   "url": "https://news.cornell.edu/node/276016"
+  }
+ },
+ {
+  "id": "n03-sierra-san-francisco-murals",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "About 100 BCE (paintings made c. 100 BCE–1300 CE)",
+  "cat": "culture",
+  "title": "The Great Murals of Baja California",
+  "place": "Sierra de San Francisco, Mulegé, Baja California Sur, Mexico",
+  "lat": 27.58,
+  "lng": -113.03,
+  "text": "From about 100 BCE to 1300 CE, a people who have since disappeared painted the rock shelters of Baja California's Sierra de San Francisco. Some huge panels hold hundreds or even thousands of figures of people, sea creatures and land animals in red, black, white and yellow. The dry climate and hard-to-reach ravines have kept them remarkably well preserved.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Rock Paintings of the Sierra de San Francisco",
+   "url": "https://whc.unesco.org/en/list/714"
+  }
+ },
+ {
+  "id": "n03-upano-valley-towns",
+  "era": "classical",
+  "year": -500,
+  "dateLabel": "About 500 BCE (settlement begins)",
+  "cat": "daily",
+  "title": "Towns Hidden Under the Amazon Forest",
+  "place": "Upano Valley, Morona Santiago, Ecuador",
+  "lat": -2.3,
+  "lng": -78.12,
+  "text": "Beginning around 500 BCE, people in the Upano Valley of Ecuador's Amazon, near a massive volcano, built 15 settlements linked by an intricate road system. Laser scanning from the air, called lidar, revealed them under the forest across a 600-square-kilometre stretch of the valley. The farmers here grew maize, beans, sweet potatoes and yucca.",
+  "source": {
+   "name": "Science News: An ancient, massive urban complex has been found in the Ecuadorian Amazon",
+   "url": "https://www.sciencenews.org/article/ancient-urban-complex-ecuador-amazon-laser"
+  }
+ },
+ {
+  "id": "n03-vichama-famine-reliefs",
+  "era": "ancient",
+  "year": -1800,
+  "dateLabel": "About 3,800 years ago",
+  "cat": "nature",
+  "title": "Carvings of a Famine at Vichama",
+  "place": "Vichama, Végueta, Huaura, Lima, Peru",
+  "lat": -11.02,
+  "lng": -77.64,
+  "text": "About 3,800 years ago, people of the Caral civilization at Vichama, on Peru's coast, carved 32 wall reliefs that archaeologists call the Dance of Death and Life. They show dead adults with ribs showing and, above them, young people between two fish. A human-like toad, linked to the coming of rain, tops the building. Archaeologist Ruth Shady ties the scenes to a famine caused by climate change.",
+  "source": {
+   "name": "Andina (Peru's state news agency): Vichama registra evidencias del cambio climático que afectó a la Civilización Caral",
+   "url": "https://andina.pe/agencia/noticia-vichama-registra-evidencias-del-cambio-climatico-afecto-a-civilizacion-caral-860260.aspx"
+  }
+ },
+ {
+  "id": "n03-la-mojarra-stela",
+  "era": "classical",
+  "year": 139,
+  "dateLabel": "July 13, 139 CE (eclipse recorded on the stone)",
+  "cat": "discovery",
+  "title": "A Stone That Remembers an Eclipse",
+  "place": "La Mojarra, Alvarado, Veracruz, Mexico",
+  "lat": 18.77,
+  "lng": -95.76,
+  "text": "La Mojarra Stela 1, a volcanic stone over four tonnes and 2.2 metres tall, shows a figure in profile holding a glyph, beside 21 columns of signs. Its writing system, still not understood though it resembles Maya script, is one of the oldest and most complete in the Americas. Researcher Fernando Winfield Capitaine reads one glyph as the solar eclipse of July 13, 139 CE.",
+  "source": {
+   "name": "Universidad Veracruzana, Gaceta No. 63: article on the Estela de La Mojarra at the Museo de Antropología de Xalapa",
+   "url": "https://uv.mx/gaceta/Gaceta63/63/ser/seraca01.htm"
+  }
+ },
+ {
+  "id": "n03-cuello-maya-village",
+  "era": "ancient",
+  "year": -1200,
+  "dateLabel": "About 1200 BCE",
+  "cat": "daily",
+  "title": "The Oldest Lowland Maya Village",
+  "place": "Cuello, Orange Walk District, Belize",
+  "lat": 18.09,
+  "lng": -88.58,
+  "text": "Cuello, in northern Belize, was settled around 1200 BCE and remains the oldest known lowland Maya village. Archaeologist Norman Hammond's team dug there from 1975 to 2002, finding houses, early public buildings and almost 200 burials showing ranks and long-distance trade. They also found the earliest known Mesoamerican sweatbath, which the Maya call a pib na.",
+  "source": {
+   "name": "Anthropological Notebooks, Norman Hammond: The dawn and the dusk: beginning and ending a long-term research program at the Preclassic Maya site of Cuello, Belize",
+   "url": "https://anthropological-notebooks.zrc-sazu.si/Notebooks/article/view/404"
+  }
+ }
+]

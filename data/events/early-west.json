@@ -1,0 +1,1035 @@
+[
+ {
+  "id": "eh-w-daka-skull",
+  "era": "early",
+  "year": -999000,
+  "dateLabel": "About 1 million years ago",
+  "emoji": "💀",
+  "cat": "discovery",
+  "title": "The Daka Skull",
+  "place": "Bouri, Middle Awash, Ethiopia",
+  "lat": 10.27,
+  "lng": 40.53,
+  "text": "Found in December 1997 in Ethiopia's Middle Awash, the Daka skull cap belonged to a Homo erectus who lived about a million years ago. The same layer held thighbones and a shinbone from other individuals, many animal fossils, and Acheulean hand axes and cleavers. The skull looks so much like its Asian cousins that its finders argue Homo erectus was one widespread species.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "University of California, Berkeley - press release (Asfaw et al., Nature 2002)",
+   "url": "https://www.berkeley.edu/news/media/releases/2002/03/20_daka.html"
+  },
+  "source2": {
+   "name": "Asfaw et al. 2002, Nature 416:317-320",
+   "url": "https://www.nature.com/articles/416317a"
+  }
+ },
+ {
+  "id": "eh-w-happisburgh-footprints",
+  "era": "early",
+  "year": -900000,
+  "dateLabel": "About 850,000–950,000 years ago",
+  "emoji": "👣",
+  "cat": "discovery",
+  "title": "Footprints on a Norfolk Beach",
+  "place": "Happisburgh, United Kingdom",
+  "lat": 52.82,
+  "lng": 1.53,
+  "text": "In May 2013, stormy seas scoured the sand off an ancient mud layer on an English beach and revealed footprints left by about five people, adults and children together. They are the oldest known human footprints outside Africa. Scientists raced to photograph them in 3D, because within about two weeks the tide had washed them away forever.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Ashton et al. 2014, PLOS ONE 9(2): e88329",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0088329"
+  }
+ },
+ {
+  "id": "eh-w-homo-antecessor",
+  "era": "early",
+  "year": -850000,
+  "dateLabel": "About 850,000 years ago",
+  "emoji": "🦴",
+  "cat": "discovery",
+  "title": "The Pioneers of Gran Dolina",
+  "place": "Atapuerca, Burgos, Spain",
+  "lat": 42.35,
+  "lng": -3.52,
+  "text": "At Gran Dolina in Spain's Atapuerca hills, diggers from 1994 found bones of Homo antecessor, a name meaning \"pioneer\", among Western Europe's first known people. A youngster's face looks surprisingly modern. Many bones carry cut marks just like those on butchered animals, a sign of cannibalism, though scientists still debate exactly what happened and why.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Australian Museum",
+   "url": "https://australian.museum/learn/science/human-evolution/homo-antecessor/"
+  },
+  "source2": {
+   "name": "Fernández-Jalvo et al. 1999, Journal of Human Evolution (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10497001/"
+  }
+ },
+ {
+  "id": "eh-w-gesher-fire",
+  "era": "early",
+  "year": -780000,
+  "dateLabel": "About 780,000 years ago",
+  "emoji": "🔥",
+  "cat": "discovery",
+  "title": "Campfires by the Jordan River",
+  "place": "Gesher Benot Ya'aqov, Israel",
+  "lat": 33.01,
+  "lng": 35.63,
+  "text": "At Gesher Benot Ya'aqov, beside the upper Jordan River, burned seeds, wood and flint suggest that humans controlled fire nearly 790,000 years ago. Clusters of burnt flint show where hearths probably were. Fish teeth found around them had been gently heated, perhaps the oldest known evidence of cooking, so dinner was probably cooked fish.",
+  "collections": [
+   "ancestors",
+   "inventions"
+  ],
+  "source": {
+   "name": "Goren-Inbar et al. 2004, Science (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15118160/"
+  },
+  "source2": {
+   "name": "Zohar et al. 2022, Nature Ecology & Evolution",
+   "url": "https://www.nature.com/articles/s41559-022-01910-z"
+  }
+ },
+ {
+  "id": "eh-w-mauer-jaw",
+  "era": "early",
+  "year": -609000,
+  "dateLabel": "About 609,000 years ago",
+  "emoji": "🦷",
+  "cat": "discovery",
+  "title": "The Jaw That Named a Species",
+  "place": "Mauer, near Heidelberg, Germany",
+  "lat": 49.34,
+  "lng": 8.8,
+  "text": "On October 21, 1907, a huge human jawbone turned up 24 metres down in a sand pit at Mauer, near Heidelberg. The next year Otto Schoetensack named a new species from it, Homo heidelbergensis. In 2010 the sands were dated to about 609,000 years old, making the jaw the oldest human fossil then known from central and northern Europe.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Wagner et al. 2010, PNAS 107:19726-19730",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2993404/"
+  }
+ },
+ {
+  "id": "eh-w-kathu-spear-points",
+  "era": "early",
+  "year": -500000,
+  "dateLabel": "About 500,000 years ago",
+  "emoji": "🎯",
+  "cat": "discovery",
+  "title": "The First Stone-Tipped Spears?",
+  "place": "Kathu Pan, Northern Cape, South Africa",
+  "lat": -27.66,
+  "lng": 23,
+  "text": "At Kathu Pan in South Africa, archaeologists studied stone points about 500,000 years old. Impact breaks at their tips and shaping near their bases suggest they were fixed to wooden shafts as spear tips. If so, early humans were building multi-part tools about 200,000 years earlier than anyone had thought.",
+  "collections": [
+   "inventions"
+  ],
+  "source": {
+   "name": "Wilkins et al. 2012, Science (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23161998/"
+  }
+ },
+ {
+  "id": "eh-w-boxgrove",
+  "era": "early",
+  "year": -500000,
+  "dateLabel": "About 500,000 years ago",
+  "emoji": "🐎",
+  "cat": "daily",
+  "title": "Butchers on an Ancient Beach",
+  "place": "Boxgrove, West Sussex, United Kingdom",
+  "lat": 50.88,
+  "lng": -0.71,
+  "text": "At Boxgrove in southern England, early humans about 500,000 years ago skilfully butchered large animals, leaving behind many horse, deer and rhinoceros bones and finely made hand axes. The site also gave Britain its oldest human fossils, a shin bone and two teeth, from a tall, muscular human assigned to Homo heidelbergensis.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Natural History Museum, London",
+   "url": "https://www.nhm.ac.uk/discover/first-britons.html"
+  },
+  "source2": {
+   "name": "Roberts, Stringer & Parfitt 1994, Nature (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/8183368/"
+  }
+ },
+ {
+  "id": "eh-w-kalambo-wood",
+  "era": "early",
+  "year": -476000,
+  "dateLabel": "About 476,000 years ago",
+  "emoji": "🪵",
+  "cat": "discovery",
+  "title": "The Oldest Wooden Building Work",
+  "place": "Kalambo Falls, Zambia",
+  "lat": -8.6,
+  "lng": 31.24,
+  "text": "Beside Kalambo Falls in Zambia, scientists in 2023 announced two logs at least 476,000 years old, joined crosswise by a deliberately cut notch, perhaps part of a raised platform or walkway on wet ground. That is older than our own species. Wood almost never survives this long, so the find shows early humans could shape tree trunks into large structures.",
+  "collections": [
+   "inventions",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Barham et al. 2023, Nature 622:107-111",
+   "url": "https://www.nature.com/articles/s41586-023-06557-9"
+  }
+ },
+ {
+  "id": "eh-w-tautavel-man",
+  "era": "early",
+  "year": -455000,
+  "dateLabel": "About 455,000 years ago",
+  "emoji": "🏔️",
+  "cat": "daily",
+  "title": "The People of Arago Cave",
+  "place": "Tautavel, France",
+  "lat": 42.81,
+  "lng": 2.75,
+  "text": "The Caune de l'Arago is a cave perched above the Verdouble valley in southern France. Diggers have found 152 human remains there, including the famous Arago 21 skull, discovered on 22 July 1971 and about 450,000 years old. A child's tooth unearthed in 2018 is about 560,000 years old, the oldest human remain yet found in France.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Musée de Préhistoire de Tautavel (Centre Européen de Préhistoire)",
+   "url": "https://450000ans.com/la-grotte-de-tautavel"
+  }
+ },
+ {
+  "id": "eh-w-sima-de-los-huesos",
+  "era": "early",
+  "year": -430000,
+  "dateLabel": "About 430,000 years ago",
+  "emoji": "🕳️",
+  "cat": "discovery",
+  "title": "The Pit of Bones",
+  "place": "Sima de los Huesos, Atapuerca, Spain",
+  "lat": 42.35,
+  "lng": -3.51,
+  "text": "Deep in a Spanish cave lies the Sima de los Huesos, \"pit of bones\", holding the remains of at least 28 people from about 430,000 years ago. DNA recovered from the bones shows they were early relatives of the Neanderthals. Their skulls already have Neanderthal-like faces and jaws.",
+  "collections": [
+   "ancestors",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Meyer et al. 2016, Nature 531:504-507",
+   "url": "https://www.nature.com/articles/nature17405"
+  },
+  "source2": {
+   "name": "Arsuaga et al. 2014, Science (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24948730/"
+  }
+ },
+ {
+  "id": "eh-w-dover-megaflood",
+  "era": "early",
+  "year": -450000,
+  "dateLabel": "About 450,000 years ago",
+  "emoji": "🌊",
+  "cat": "nature",
+  "title": "The Flood That Made Britain an Island",
+  "place": "Strait of Dover, between England and France",
+  "lat": 51,
+  "lng": 1.45,
+  "text": "Britain was once joined to France by a chalk ridge. About 450,000 years ago, ice sheets dammed a huge lake in the southern North Sea, and it spilled over the ridge in giant waterfalls. Deep holes in the Channel floor look like the plunge pools they carved. A later catastrophic flood finished the breach, setting Britain up to become an island.",
+  "collections": [
+   "earth-shakers",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "Gupta et al. 2017, Nature Communications 8:15101",
+   "url": "https://www.nature.com/articles/ncomms15101"
+  }
+ },
+ {
+  "id": "eh-w-nor-geghi-levallois",
+  "era": "early",
+  "year": -330000,
+  "dateLabel": "About 335,000–325,000 years ago",
+  "emoji": "🪨",
+  "cat": "discovery",
+  "title": "Smart Stone Tools Under Lava",
+  "place": "Nor Geghi, Armenia",
+  "lat": 40.32,
+  "lng": 44.58,
+  "text": "At Nor Geghi 1 in Armenia, archaeologists found old-style two-faced tools together with Levallois tools, made by shaping a stone core first so a ready-made flake comes off in one blow. It is the earliest known case of both methods in use side by side outside Africa. The mix suggests local people worked out the Levallois trick themselves, rather than learning it from newcomers.",
+  "collections": [
+   "inventions"
+  ],
+  "source": {
+   "name": "Adler et al. 2014, Science (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/25258079/"
+  }
+ },
+ {
+  "id": "eh-w-olorgesailie-obsidian",
+  "era": "early",
+  "year": -320000,
+  "dateLabel": "About 320,000 years ago",
+  "emoji": "🖤",
+  "cat": "journeys",
+  "title": "Carrying Stone from Far Away",
+  "place": "Olorgesailie, Kenya",
+  "lat": -1.58,
+  "lng": 36.45,
+  "text": "In Kenya's Olorgesailie basin, sites about 320,000 years old hold stone points and tools made of rock, such as obsidian, carried in from 25 to 50 kilometres away or more. The same people dug out iron-rich rocks to make red pigment. These are some of the earliest signs of the wide-ranging, colour-using habits we think of as modern human behaviour.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Brooks et al. 2018, Science (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29545508/"
+  },
+  "source2": {
+   "name": "Smithsonian National Museum of Natural History - Human Origins",
+   "url": "https://humanorigins.si.edu/research/east-african-research-projects/olorgesailie-kenya"
+  }
+ },
+ {
+  "id": "eh-w-jebel-irhoud",
+  "era": "early",
+  "year": -315000,
+  "dateLabel": "About 315,000 years ago",
+  "emoji": "🧑",
+  "cat": "discovery",
+  "title": "The Oldest Homo Sapiens",
+  "place": "Jebel Irhoud, Morocco",
+  "lat": 31.86,
+  "lng": -8.87,
+  "text": "Human fossils have been known from Jebel Irhoud since the 1960s, but their age was long uncertain. New digs and dating published in 2017 put them at about 315,000 years old and showed they were early Homo sapiens, our own species. That makes them the oldest securely dated members, and suggests our species emerged across the whole of Africa, not only in the east.",
+  "collections": [
+   "ancestors",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Hublin et al. 2017, Nature 546:289-292",
+   "url": "https://www.nature.com/articles/nature22336"
+  },
+  "source2": {
+   "name": "Max Planck Society",
+   "url": "https://www.mpg.de/11322481/oldest-homo-sapiens-fossils-at-jebel-irhoud-morocco"
+  }
+ },
+ {
+  "id": "eh-w-schoningen-spears",
+  "era": "early",
+  "year": -300000,
+  "dateLabel": "About 300,000 years ago (debated)",
+  "emoji": "🏹",
+  "cat": "discovery",
+  "title": "The World's Oldest Complete Spears",
+  "place": "Schöningen, Lower Saxony, Germany",
+  "lat": 52.13,
+  "lng": 10.96,
+  "text": "In an open-cast coal mine at Schöningen, excavators found nine wooden spears and a lance lying among the butchered remains of more than 50 horses on an old lakeshore. They are the oldest complete wooden hunting weapons known. Their age is debated: first put at 400,000 years, then about 300,000, while a 2025 study argued for about 200,000, made by Neanderthals.",
+  "collections": [
+   "inventions",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Hutson et al. 2025, Science Advances 11: eadv0752",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12063642/"
+  }
+ },
+ {
+  "id": "eh-w-kabwe-skull",
+  "era": "early",
+  "year": -299000,
+  "dateLabel": "About 300,000 years ago",
+  "emoji": "🦷",
+  "cat": "discovery",
+  "title": "Broken Hill Man's Toothache",
+  "place": "Kabwe, Zambia",
+  "lat": -14.45,
+  "lng": 28.45,
+  "text": "In 1921, miners at a lead and zinc mine in Zambia unearthed one of the best-preserved ancient human skulls, the first early human fossil ever found in Africa. Dated to about 299,000 years, it has large brow ridges and terrible teeth: ten of its upper teeth have cavities. Zambia has long asked Britain to send it home, and talks were agreed.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Natural History Museum, London",
+   "url": "https://www.nhm.ac.uk/discover/news/2020/april/dating-the-broken-hill-skull--homo-heidelbergensis.html"
+  },
+  "source2": {
+   "name": "Smithsonian Human Origins Program",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/kabwe-1"
+  }
+ },
+ {
+  "id": "eh-w-rising-star-naledi",
+  "era": "early",
+  "year": -285000,
+  "dateLabel": "About 335,000–236,000 years ago",
+  "emoji": "🔦",
+  "cat": "discovery",
+  "title": "Small Brains in a Pitch-Dark Cave",
+  "place": "Rising Star Cave, Gauteng, South Africa",
+  "lat": -26.02,
+  "lng": 27.71,
+  "text": "Homo naledi had a brain less than half the size of ours, yet lived until roughly 335,000 to 236,000 years ago, alongside early Homo sapiens. Its bones lie deep in an unlit cave chamber. Some researchers argue the dead were deliberately buried and that naledi carved marks on the walls, but many scientists strongly dispute both claims.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Natural History Museum, London",
+   "url": "https://www.nhm.ac.uk/discover/homo-naledi-your-most-recently-discovered-human-relative.html"
+  },
+  "source2": {
+   "name": "Scientific American",
+   "url": "https://www.scientificamerican.com/article/this-small-brained-human-species-may-have-buried-its-dead-controlled-fire-and-made-art/"
+  }
+ },
+ {
+  "id": "eh-w-florisbad-skull",
+  "era": "early",
+  "year": -259000,
+  "dateLabel": "About 259,000 years ago (debated)",
+  "emoji": "♨️",
+  "cat": "discovery",
+  "title": "A Skull from a Spring",
+  "place": "Florisbad, Free State, South Africa",
+  "lat": -28.77,
+  "lng": 26.07,
+  "text": "At the Florisbad spring in South Africa, Professor T. F. Dreyer found a partial human skull in 1932, lying at the bottom of an old spring vent. A tooth found with it was dated to about 259,000 years, though a 2026 study suggests it may be younger, perhaps 212,000 to 154,000 years. Experts have called it Homo heidelbergensis or an early Homo sapiens.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Smithsonian Human Origins Program",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/florisbad"
+  },
+  "source2": {
+   "name": "Communications Earth & Environment (2026)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13722590/"
+  }
+ },
+ {
+  "id": "eh-w-azykh-jaw",
+  "era": "early",
+  "year": -300000,
+  "dateLabel": "About 300,000 years ago",
+  "emoji": "🐻",
+  "cat": "discovery",
+  "title": "The Jaw from Azykh Cave",
+  "place": "Azykh Cave, Azerbaijan",
+  "lat": 39.62,
+  "lng": 46.98,
+  "text": "Azykh (Azokh) Cave in the Caucasus was dug for about twenty years from the 1960s. In a layer about 300,000 years old, the diggers found a piece of human jawbone, later classified as Homo heidelbergensis. Cave bears hibernated here too, and researchers think people sometimes came in afterwards to take meat and skins from bears that had died.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "IPHES (Catalan Institute of Human Paleoecology and Social Evolution)",
+   "url": "https://www.iphes.cat/en/azokh-cave-site-caucasus-was-important-passageway-hominins-during-their-migration-africa-europe-and"
+  },
+  "source2": {
+   "name": "Journal of Human Evolution (Fernández-Jalvo et al. 2010), abstract",
+   "url": "https://docta.ucm.es/entities/publication/d9d3e4ad-83fb-4a3f-b14b-a3fe894984b9"
+  }
+ },
+ {
+  "id": "eh-w-omo-kibish",
+  "era": "early",
+  "year": -233000,
+  "dateLabel": "At least 233,000 years ago",
+  "emoji": "🌋",
+  "cat": "discovery",
+  "title": "Early Humans of the Omo River",
+  "place": "Omo Kibish, Ethiopia",
+  "lat": 5.4,
+  "lng": 35.93,
+  "text": "In 1967, a team directed by Richard Leakey found human remains by the Omo River in southwestern Ethiopia: Omo I, a partial skull and skeleton, and Omo II, a nearly complete skullcap. Both are Homo sapiens, though Omo I looks more modern than Omo II. Volcanic ash above them shows the fossils are at least 233,000 years old, among the oldest of our species.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Nature (Vidal et al. 2022)",
+   "url": "https://www.nature.com/articles/s41586-021-04275-8"
+  },
+  "source2": {
+   "name": "Journal of Human Evolution (Fleagle et al. 2008), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/18617219/"
+  }
+ },
+ {
+  "id": "eh-w-apidima-skulls",
+  "era": "early",
+  "year": -210000,
+  "dateLabel": "More than 210,000 years ago (claimed)",
+  "emoji": "🇬🇷",
+  "cat": "discovery",
+  "title": "A Sapiens in Greece? Maybe!",
+  "place": "Apidima Cave, Mani Peninsula, Greece",
+  "lat": 36.66,
+  "lng": 22.38,
+  "text": "Two broken skulls were found in the late 1970s in a cliffside cave on Greece's southern coast. In 2019, one over 170,000 years old was found to be Neanderthal-like, while the other, over 210,000 years old, was identified as an early Homo sapiens. If right, it is the oldest trace of our species outside Africa, but some experts doubt it because the skull is so incomplete.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Nature (Harvati et al. 2019)",
+   "url": "https://www.nature.com/articles/s41586-019-1376-z"
+  },
+  "source2": {
+   "name": "Science News",
+   "url": "https://www.sciencenews.org/?p=950891"
+  }
+ },
+ {
+  "id": "eh-w-misliya-jaw",
+  "era": "early",
+  "year": -185000,
+  "dateLabel": "About 185,000 years ago",
+  "emoji": "🦷",
+  "cat": "discovery",
+  "title": "An Early Traveller's Jaw",
+  "place": "Misliya Cave, Mount Carmel, Israel",
+  "lat": 32.73,
+  "lng": 34.97,
+  "text": "In Misliya Cave on Mount Carmel, diggers found an adult upper jawbone with several teeth. In 2018 it was dated to about 177,000 to 194,000 years ago, at least 50,000 years older than any modern human fossil then known outside Africa. Only the Apidima skull from Greece, announced a year later, is claimed to be older.",
+  "collections": [
+   "ancestors",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Science (Hershkovitz et al. 2018), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29371468/"
+  },
+  "source2": {
+   "name": "The Leakey Foundation",
+   "url": "https://leakeyfoundation.org/earliest-modern-human-outside-of-africa-unearthed-in-israel/"
+  }
+ },
+ {
+  "id": "eh-w-bruniquel-rings",
+  "era": "early",
+  "year": -176500,
+  "dateLabel": "About 176,500 years ago",
+  "emoji": "⭕",
+  "cat": "culture",
+  "title": "Neanderthal Rings Deep Underground",
+  "place": "Bruniquel Cave, France",
+  "lat": 44.06,
+  "lng": 1.67,
+  "text": "Some 336 metres inside a French cave, early Neanderthals broke off stalagmites and arranged them into ring-shaped structures, the larger more than five metres across, with traces of fire on them. Dated in a 2016 study to about 176,500 years ago, they are among the oldest known well-dated constructions made by humans. Nobody knows what they were for.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Nature (Jaubert et al. 2016)",
+   "url": "https://www.nature.com/articles/nature18291"
+  }
+ },
+ {
+  "id": "eh-w-pinnacle-point",
+  "era": "early",
+  "year": -164000,
+  "dateLabel": "From about 164,000 years ago",
+  "emoji": "🦪",
+  "cat": "daily",
+  "title": "Seafood in an Ice Age Cave",
+  "place": "Pinnacle Point, Mossel Bay, South Africa",
+  "lat": -34.2,
+  "lng": 22.09,
+  "text": "During a long ice age that made much of Africa cooler and drier, people lived in sea caves at Pinnacle Point on South Africa's south coast. By about 164,000 years ago they were eating shellfish, the earliest evidence then known of humans using seafood. They also ground red ochre, perhaps for body paint, and heated stone to make it easier to shape into tools.",
+  "collections": [
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Nature (Marean et al. 2007), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17943129/"
+  },
+  "source2": {
+   "name": "Science (Brown et al. 2009), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19679810/"
+  }
+ },
+ {
+  "id": "eh-w-herto-man",
+  "era": "early",
+  "year": -157000,
+  "dateLabel": "About 160,000–154,000 years ago",
+  "emoji": "🦛",
+  "cat": "daily",
+  "title": "Hippo Hunters of Herto",
+  "place": "Herto, Middle Awash, Ethiopia",
+  "lat": 10.25,
+  "lng": 40.55,
+  "text": "By a shallow lake in Ethiopia's Afar region, early Homo sapiens butchered hippos and buffalo with stone tools. Their fossils, found in 1997, are about 160,000 years old. Three skulls, two adults and a child of six or seven, carry cut marks that point to rituals for the dead, perhaps removing the flesh before keeping and handling the bones.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "UC Berkeley News",
+   "url": "https://newsarchive.berkeley.edu/news/media/releases/2003/06/11_idaltu.shtml"
+  }
+ },
+ {
+  "id": "eh-w-krapina-talons",
+  "era": "early",
+  "year": -130000,
+  "dateLabel": "About 130,000 years ago",
+  "emoji": "🦅",
+  "cat": "culture",
+  "title": "Neanderthal Eagle-Claw Jewellery",
+  "place": "Krapina, Croatia",
+  "lat": 46.16,
+  "lng": 15.87,
+  "text": "At Krapina in Croatia, one of the largest known Neanderthal sites with about 900 human fossils, diggers more than a century ago found eight white-tailed eagle talons about 130,000 years old. Cut marks, polished patches and notches suggest they were strung together and worn, perhaps as a necklace or bracelet. That is long before modern humans arrived in Europe.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "PLOS ONE (Radovčić et al. 2015)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4356571/"
+  },
+  "source2": {
+   "name": "Museums of Hrvatsko Zagorje - Krapina Neanderthal Museum",
+   "url": "https://www.mhz.hr/en/about-museums/museum-units/krapina-neanderthal-museum/"
+  }
+ },
+ {
+  "id": "eh-w-crete-hand-axes",
+  "era": "early",
+  "year": -130000,
+  "dateLabel": "At least 130,000 years ago",
+  "emoji": "⛵",
+  "cat": "journeys",
+  "title": "Stone Tools on an Island",
+  "place": "Plakias, Crete, Greece",
+  "lat": 35.19,
+  "lng": 24.39,
+  "text": "A survey in southern Crete in 2008 and 2009 turned up very old stone tools, some of them dated by their geological setting to at least 130,000 years ago. That was a shock, because Crete has been an island for millions of years. It pushes the history of Mediterranean seafaring back by more than 100,000 years: somehow, early humans crossed open water.",
+  "collections": [
+   "great-voyages",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Hesperia, American School of Classical Studies at Athens (Strasser et al. 2010)",
+   "url": "https://www.ascsa.edu.gr/publications/hesperia/article/79/2/145-190"
+  },
+  "source2": {
+   "name": "Journal of Quaternary Science (Strasser et al. 2011), abstract",
+   "url": "https://doi.org/10.1002/jqs.1482"
+  }
+ },
+ {
+  "id": "eh-w-jebel-faya",
+  "era": "early",
+  "year": -125000,
+  "dateLabel": "About 125,000 years ago",
+  "emoji": "🏜️",
+  "cat": "journeys",
+  "title": "Early Footsteps in Arabia",
+  "place": "Jebel Faya, Sharjah, United Arab Emirates",
+  "lat": 25.12,
+  "lng": 55.85,
+  "text": "Stone tools buried at Jebel Faya, in what is now the United Arab Emirates, are up to about 125,000 years old. They resemble tools made in east Africa at the time, suggesting people crossed from Africa by a southern route. Low sea levels made the crossing easier, and more rain then turned Arabia greener.",
+  "collections": [
+   "great-voyages",
+   "ancestors"
+  ],
+  "source": {
+   "name": "Science (Armitage et al. 2011), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21273486/"
+  },
+  "source2": {
+   "name": "ScienceDaily (AAAS press release)",
+   "url": "https://www.sciencedaily.com/releases/2011/01/110127141651.htm"
+  }
+ },
+ {
+  "id": "eh-w-hippos-in-britain",
+  "era": "early",
+  "year": -120000,
+  "dateLabel": "About 129,000–115,000 years ago",
+  "emoji": "🦛",
+  "cat": "nature",
+  "title": "When Hippos Swam in England",
+  "place": "Trafalgar Square, London, United Kingdom",
+  "lat": 51.508,
+  "lng": -0.128,
+  "text": "During the Last Interglacial, a warm spell about 129,000 to 115,000 years ago, hippos lived in Europe. In Britain their bones are the classic sign of that period: they have been dug up under Trafalgar Square in London and from Victoria Cave in Yorkshire. Genes show they were the same species as today's African hippos.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Quaternary Science Reviews (Penkman et al. 2013)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3566634/"
+  },
+  "source2": {
+   "name": "Current Biology (2025), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/41067227/"
+  }
+ },
+ {
+  "id": "eh-w-qafzeh-burials",
+  "era": "early",
+  "year": -100000,
+  "dateLabel": "About 100,000–90,000 years ago",
+  "emoji": "🦌",
+  "cat": "culture",
+  "title": "A Child Buried with Antlers",
+  "place": "Qafzeh Cave, Nazareth, Israel",
+  "lat": 32.68,
+  "lng": 35.3,
+  "text": "At Qafzeh Cave in Lower Galilee, early Homo sapiens buried their dead about 100,000 to 90,000 years ago. One child of 12 or 13, who had survived a serious head injury, was laid with red deer antlers on the chest. Lumps of red ochre and seashells carried 35 kilometres from the coast, some stained with ochre, were found in the cave too.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "PLOS ONE (Coqueugniot et al. 2014)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4108366/"
+  },
+  "source2": {
+   "name": "Journal of Human Evolution (Bar-Yosef Mayer et al. 2009), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19285591/"
+  }
+ },
+ {
+  "id": "eh-w-semliki-harpoons",
+  "era": "early",
+  "year": -90000,
+  "dateLabel": "About 90,000 years ago",
+  "emoji": "🐟",
+  "cat": "daily",
+  "title": "Harpoons for Giant Catfish",
+  "place": "Katanda, Semliki River, DR Congo",
+  "lat": -0.05,
+  "lng": 29.65,
+  "text": "At Katanda on the Semliki River, archaeologists Alison Brooks and John Yellen found barbed harpoon points carved from bone in 1988, about 90,000 years old. The site is full of fish bones, mostly catfish, so these were specialised fishers. Some of the giant catfish they speared weighed up to 68 kilograms, enough to feed a crowd.",
+  "collections": [
+   "inventions",
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Science (Yellen et al. 1995), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/7725100/"
+  },
+  "source2": {
+   "name": "Smithsonian Human Origins Program",
+   "url": "https://humanorigins.si.edu/evidence/behavior/getting-food/katanda-bone-harpoon-point"
+  }
+ },
+ {
+  "id": "eh-w-taforalt-beads",
+  "era": "early",
+  "year": -82000,
+  "dateLabel": "About 82,000 years ago",
+  "emoji": "📿",
+  "cat": "culture",
+  "title": "Shell Beads Far from the Sea",
+  "place": "Taforalt (Grotte des Pigeons), Morocco",
+  "lat": 34.81,
+  "lng": -2.41,
+  "text": "In the Grotte des Pigeons at Taforalt in Morocco, layers about 82,000 years old hold small sea-snail shells with holes, some worn from hanging on a string and covered in red ochre. The cave lies about 40 kilometres from the sea, so the shells were carried inland. Similar beads at other North African sites hint at networks linking early communities.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "PNAS (Bouzouggar et al. 2007)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1891266/"
+  }
+ },
+ {
+  "id": "eh-w-panga-ya-saidi-mtoto",
+  "era": "early",
+  "year": -78000,
+  "dateLabel": "About 78,000 years ago",
+  "emoji": "🕯️",
+  "cat": "culture",
+  "title": "A Child Laid to Rest",
+  "place": "Panga ya Saidi, Kenya",
+  "lat": -3.68,
+  "lng": 39.72,
+  "text": "In a cave near Kenya's coast, archaeologists found the grave of a child about two and a half to three years old, buried about 78,000 years ago. It is the oldest known human burial in Africa. A small pit had been dug on purpose, and the child was laid in it curled up and then covered with earth.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Nature (Martinón-Torres et al. 2021), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/33953416/"
+  }
+ },
+ {
+  "id": "eh-w-blombos-drawing",
+  "era": "early",
+  "year": -73000,
+  "dateLabel": "About 73,000 years ago",
+  "emoji": "🖍️",
+  "cat": "culture",
+  "title": "The Oldest Drawing",
+  "place": "Blombos Cave, South Africa",
+  "lat": -34.41,
+  "lng": 21.22,
+  "text": "On a small flake of rock from a seaside cave, someone drew a crosshatch of red lines with an ochre crayon about 73,000 years ago. It is the oldest known drawing, by at least 30,000 years. The same cave held engraved ochre, shell beads, and an even older paint workshop, 100,000 years old, that used abalone shells as pots.",
+  "collections": [
+   "masterpieces",
+   "ancestors"
+  ],
+  "source": {
+   "name": "Nature (Henshilwood et al. 2018)",
+   "url": "https://www.nature.com/articles/s41586-018-0514-3"
+  },
+  "source2": {
+   "name": "Science (Henshilwood et al. 2011), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/21998386/"
+  }
+ },
+ {
+  "id": "eh-w-mezmaiskaya-infant",
+  "era": "early",
+  "year": -65000,
+  "dateLabel": "More than 45,000 years ago",
+  "emoji": "👶",
+  "cat": "discovery",
+  "title": "A Newborn Neanderthal",
+  "place": "Mezmaiskaya Cave, Adygea, Russia",
+  "lat": 44.17,
+  "lng": 40,
+  "text": "In Mezmaiskaya Cave in the North Caucasus, researchers found the skeleton of a Neanderthal baby who died only one or two weeks after birth, still lying in position in the cave's oldest Neanderthal layer. Its brain was already as big as a modern newborn's. Its DNA showed that this Neanderthal mitochondrial line did not pass into living humans.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "PNAS (Ponce de León et al. 2008)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2533682/"
+  },
+  "source2": {
+   "name": "PNAS (Pinhasi et al. 2011)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3102382/"
+  }
+ },
+ {
+  "id": "eh-w-la-pasiega-ladder",
+  "era": "early",
+  "year": -64000,
+  "dateLabel": "Over 64,000 years ago (disputed)",
+  "emoji": "🎨",
+  "cat": "culture",
+  "title": "Did Neanderthals Paint Caves?",
+  "place": "Cave of La Pasiega, Cantabria, Spain",
+  "lat": 43.29,
+  "lng": -3.97,
+  "text": "In 2018, scientists dated mineral crusts lying over a red painted sign in a Spanish cave and reported it was older than 64,800 years. That would mean Neanderthals painted it, at least 20,000 years before modern humans reached Europe. Other researchers dispute the dating and argue for about 47,000 years, so the question is still hotly argued.",
+  "collections": [
+   "masterpieces",
+   "ancestors"
+  ],
+  "source": {
+   "name": "Science (Hoffmann et al. 2018), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29472483/"
+  },
+  "source2": {
+   "name": "Science (Slimak et al. 2018, Comment), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30237321/"
+  }
+ },
+ {
+  "id": "eh-w-diepkloof-eggshells",
+  "era": "early",
+  "year": -60000,
+  "dateLabel": "About 60,000 years ago",
+  "emoji": "🥚",
+  "cat": "culture",
+  "title": "Decorated Water Bottles",
+  "place": "Diepkloof Rock Shelter, Western Cape, South Africa",
+  "lat": -32.39,
+  "lng": 18.45,
+  "text": "About 60,000 years ago, people in a South African rock shelter carried water in ostrich eggshells and engraved them with patterns of lines and hatching. Some 270 decorated fragments from about 25 containers have been found. The repeated designs may be early symbols, like a group's own logo on its water bottles.",
+  "collections": [
+   "masterpieces",
+   "inventions"
+  ],
+  "source": {
+   "name": "PNAS (Texier et al. 2010)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2851956/"
+  }
+ },
+ {
+  "id": "eh-w-manot-skull",
+  "era": "early",
+  "year": -54500,
+  "dateLabel": "About 54,700 years ago",
+  "emoji": "🚜",
+  "cat": "discovery",
+  "title": "A Modern Human Among Neanderthals",
+  "place": "Manot Cave, Western Galilee, Israel",
+  "lat": 33.05,
+  "lng": 35.21,
+  "text": "In Manot Cave in northern Israel, researchers found the top of a modern human skull about 54,700 years old. It shows our species lived in the region at the same time as Neanderthals, close to when the two are thought to have interbred. Its shape suggests these people were related to the first modern humans who later settled Europe.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Nature (Hershkovitz et al. 2015)",
+   "url": "https://www.nature.com/articles/nature14134"
+  }
+ },
+ {
+  "id": "eh-w-mandrin-cave",
+  "era": "early",
+  "year": -54000,
+  "dateLabel": "About 54,000 years ago",
+  "emoji": "🤝",
+  "cat": "discovery",
+  "title": "Neighbours in the Rhône Valley",
+  "place": "Mandrin Cave, Drôme, France",
+  "lat": 44.48,
+  "lng": 4.77,
+  "text": "A rock shelter above the Rhône was used by Neanderthals and Homo sapiens, sometimes only years apart. A 2022 study dated a modern human visit to about 54,000 years ago, among the earliest in Europe. A Neanderthal found there, nicknamed Thorin, came from a group that stayed genetically isolated for about 50,000 years.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Natural History Museum, London (press release on Slimak et al. 2022, Science Advances)",
+   "url": "https://www.nhm.ac.uk/press-office/press-releases/scientists-discover-earliest-evidence-modern-humans-europe.html"
+  },
+  "source2": {
+   "name": "Slimak et al. 2024, Cell Genomics (abstract hosted by CARTA, UC San Diego)",
+   "url": "https://carta.anthropogeny.org/node/330397"
+  }
+ },
+ {
+  "id": "eh-w-shanidar-care",
+  "era": "early",
+  "year": -45000,
+  "dateLabel": "About 45,000 years ago",
+  "emoji": "💐",
+  "cat": "culture",
+  "title": "The Neanderthal Who Was Cared For",
+  "place": "Shanidar Cave, Kurdistan Region, Iraq",
+  "lat": 36.83,
+  "lng": 44.22,
+  "text": "In a cave in the Zagros Mountains of Iraqi Kurdistan, Ralph Solecki's team found Neanderthal skeletons in the 1950s. One older man, Shanidar 1, was probably blind in one eye, hard of hearing and had a withered arm, yet his injuries healed, so his group probably cared for him. Pollen from another skeleton's famous \"flower burial\" may instead have been left by bees.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Smithsonian National Museum of Natural History, Human Origins: Shanidar 1",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/shanidar-1"
+  },
+  "source2": {
+   "name": "Liverpool John Moores University news (Hunt et al. 2023, Journal of Archaeological Science)",
+   "url": "https://www.ljmu.ac.uk/about-us/news/articles/2023/8/29/neanderthals"
+  }
+ },
+ {
+  "id": "eh-w-bacho-kiro",
+  "era": "early",
+  "year": -46000,
+  "dateLabel": "About 46,000 years ago",
+  "emoji": "🇧🇬",
+  "cat": "journeys",
+  "title": "Early Sapiens in the Balkans",
+  "place": "Bacho Kiro Cave, Bulgaria",
+  "lat": 42.95,
+  "lng": 25.43,
+  "text": "Bacho Kiro Cave in Bulgaria holds some of the oldest Homo sapiens remains in Europe, about 46,000 to 43,000 years old. Their DNA shows Neanderthal ancestors only about five to seven generations back. Surprisingly, these people were more closely related to present-day East Asians and Native Americans than to present-day Europeans.",
+  "collections": [
+   "ancestors",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Max Planck Society (press release on Hajdinjak et al. 2021, Nature)",
+   "url": "https://www.mpg.de/16663512/genomes-of-the-earliest-europeans"
+  }
+ },
+ {
+  "id": "eh-w-campanian-eruption",
+  "era": "early",
+  "year": -39500,
+  "dateLabel": "About 39,500 years ago",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "Europe's Biggest Blast",
+  "place": "Phlegraean Fields, Naples, Italy",
+  "lat": 40.83,
+  "lng": 14.14,
+  "text": "Just west of today's Naples, the Campi Flegrei volcano produced the largest explosive eruption in Europe in 200,000 years. Its ash fell over a vast area of the Mediterranean region. It may have caused a volcanic winter in an already cold climate, and scientists debate whether it hurt the last Neanderthals.",
+  "collections": [
+   "earth-shakers",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "Fitzsimmons et al. 2013, PLOS ONE (PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3684589/"
+  }
+ },
+ {
+  "id": "eh-w-lion-man",
+  "era": "early",
+  "year": -39000,
+  "dateLabel": "About 41,000–35,000 years ago",
+  "emoji": "🦁",
+  "cat": "culture",
+  "title": "The Lion-Man",
+  "place": "Hohlenstein-Stadel, Baden-Württemberg, Germany",
+  "lat": 48.55,
+  "lng": 10.17,
+  "text": "Carved from mammoth ivory with stone tools about 40,000 years ago, the Lion-man has a human body and a cave lion's head. Its fragments were found in a German cave on 25 August 1939, the last day of digging before World War II, and lay unrecognised for about 30 years. After later digs found more pieces, it was rebuilt in 2012-13 from more than 300 fragments.",
+  "collections": [
+   "masterpieces",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Museum Ulm, official Lion Man site (loewenmensch.de)",
+   "url": "https://loewenmensch.de/lion_man.html"
+  },
+  "source2": {
+   "name": "British Museum blog: The Lion Man, an Ice Age masterpiece",
+   "url": "https://www.britishmuseum.org/blog/lion-man-ice-age-masterpiece"
+  }
+ },
+ {
+  "id": "eh-w-gorhams-hashtag",
+  "era": "early",
+  "year": -39000,
+  "dateLabel": "At least 39,000 years ago",
+  "emoji": "#️⃣",
+  "cat": "culture",
+  "title": "A Neanderthal Hashtag",
+  "place": "Gorham's Cave, Gibraltar",
+  "lat": 36.12,
+  "lng": -5.34,
+  "text": "Deep inside a seaside cave in Gibraltar, crossed lines like a hashtag were cut into the rock floor and later buried under a layer more than 39,000 years old containing only Neanderthal stone tools. Its discoverers see it as Neanderthal abstract art. Some researchers think Gorham's Cave was one of the last Neanderthal homes, though that is debated.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Rodriguez-Vidal et al. 2014, PNAS (PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4169962/"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Gorham's Cave Complex",
+   "url": "https://whc.unesco.org/en/list/1500"
+  }
+ },
+ {
+  "id": "eh-w-chauvet-cave",
+  "era": "early",
+  "year": -36000,
+  "dateLabel": "About 37,000–33,500 years ago",
+  "emoji": "🐎",
+  "cat": "culture",
+  "title": "The Lions of Chauvet",
+  "place": "Chauvet-Pont-d'Arc Cave, Ardèche, France",
+  "lat": 44.39,
+  "lng": 4.42,
+  "text": "Cavers found it in December 1994: a French cave covered in lions, horses, rhinos and bears, painted mostly about 37,000 to 33,500 years ago. A rockfall later sealed the entrance, keeping everything untouched. The floor still holds cave bear paw prints and their sleeping hollows, plus torch smudges left by the painters.",
+  "collections": [
+   "masterpieces",
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "French Ministry of Culture: Chauvet-Pont d'Arc Cave",
+   "url": "https://archeologie.culture.gouv.fr/chauvet/en"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Chauvet-Pont d'Arc (by Jean Clottes)",
+   "url": "https://www.britannica.com/place/Chauvet-Pont-dArc"
+  }
+ }
+]

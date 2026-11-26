@@ -1,0 +1,582 @@
+[
+ {
+  "id": "cl-confucius",
+  "era": "classical",
+  "year": -495,
+  "dateLabel": "About 500 BCE",
+  "emoji": "📚",
+  "cat": "culture",
+  "title": "Confucius, the Wandering Teacher",
+  "place": "Qufu, China",
+  "lat": 35.6,
+  "lng": 116.99,
+  "text": "Confucius taught that good government starts with good people: rulers should care for others, children should respect their parents, and everyone should be eager to learn. He spent years traveling between rival states in search of a ruler who would use his ideas, mostly without luck. Tradition says his students collected his sayings in the Analects, and his family tree is the longest on record.",
+  "source": {
+   "name": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/confucius/"
+  },
+  "source2": {
+   "name": "Focus Taiwan (Central News Agency)",
+   "url": "https://focustaiwan.tw/society/201504190019"
+  }
+ },
+ {
+  "id": "cl-persepolis-payday",
+  "era": "classical",
+  "year": -500,
+  "dateLabel": "About 500 BCE",
+  "emoji": "🍺",
+  "cat": "daily",
+  "title": "Payday Tablets of Persepolis",
+  "place": "Persepolis, Iran",
+  "lat": 29.93,
+  "lng": 52.89,
+  "text": "Over 30,000 clay tablets from Persepolis record food handed out to workers under Darius I, including barley, flour, wine, and beer. Women worked alongside men, and teams were often led by a woman who got the highest ration of all. New mothers got bonus rations, though twice as much for a boy as for a girl.",
+  "source": {
+   "name": "Encyclopaedia Iranica, 'WOMEN i. In Pre-Islamic Persia' (M. Brosius)",
+   "url": "https://www.iranicaonline.org/articles/women-i/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica, 'PERSEPOLIS ELAMITE TABLETS'",
+   "url": "https://www.iranicaonline.org/articles/persepolis-elamite-tablets/"
+  }
+ },
+ {
+  "id": "cl-bodh-gaya",
+  "era": "classical",
+  "year": -450,
+  "dateLabel": "About 5th century BCE",
+  "emoji": "🌳",
+  "cat": "culture",
+  "title": "Awakening Under the Bodhi Tree",
+  "place": "Bodh Gaya, India",
+  "lat": 24.7,
+  "lng": 84.99,
+  "text": "Here, tradition says, a wandering prince named Siddhartha Gautama sat beneath a fig tree and reached enlightenment, becoming the Buddha, 'the awakened one.' His teachings spread across Asia. A branch of the tree was carried to Sri Lanka and planted at Anuradhapura in 288 BCE, where it still grows. The tree at Bodh Gaya today is said to descend from the original.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Mahabodhi Temple Complex at Bodh Gaya (statement read via UNESCO open-data API)",
+   "url": "https://whc.unesco.org/en/list/1056"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Mahabodhi Temple Complex (statement read via UNESCO open-data API)",
+   "url": "https://whc.unesco.org/en/list/1056"
+  }
+ },
+ {
+  "id": "cl-ostracism",
+  "era": "classical",
+  "year": -471,
+  "dateLabel": "About 471 BCE",
+  "emoji": "🗳️",
+  "cat": "power",
+  "title": "Voting With Broken Pots",
+  "place": "Athens, Greece",
+  "lat": 37.97,
+  "lng": 23.73,
+  "text": "In democratic Athens, citizens could vote to send a powerful man away for 10 years by scratching his name on a broken bit of pottery called an ostrakon. Even Themistocles, hero of the naval victory at Salamis, was exiled this way. Archaeologists found 190 shards with his name written by just a handful of people, perhaps prepared in advance.",
+  "source": {
+   "name": "The Open University (OpenLearn)",
+   "url": "https://www.open.edu/openlearn/mod/oucontent/view.php?id=114240&section=9.1"
+  },
+  "source2": {
+   "name": "Robin Osborne, 'The Politics of Expulsion: Ostracism at Athens', Omnibus 33",
+   "url": "https://ia601500.us.archive.org/2/items/omnibus33/02OsborneExpulsion.pdf"
+  }
+ },
+ {
+  "id": "cl-tollund-man",
+  "era": "classical",
+  "year": -400,
+  "dateLabel": "About 400 BCE",
+  "emoji": "🧢",
+  "cat": "daily",
+  "title": "The Face From the Bog",
+  "place": "Silkeborg, Denmark",
+  "lat": 56.17,
+  "lng": 9.55,
+  "text": "In 1950, peat cutters in Denmark found a man so well preserved they thought he was a recent crime victim. He had lived about 2,400 years ago and still wore a pointed sheepskin cap and a belt. His last meal was a porridge of barley, flax, and wild seeds, with some fish. He was probably a sacrifice.",
+  "source": {
+   "name": "National Geographic",
+   "url": "https://www.nationalgeographic.com/history/article/tollund-mans-last-meal"
+  },
+  "source2": {
+   "name": "Ancient Europe 8000 B.C.-A.D. 1000: Encyclopedia of the Barbarian World (Gale), via Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/tollund-man"
+  }
+ },
+ {
+  "id": "cl-pazyryk-carpet",
+  "era": "classical",
+  "year": -380,
+  "dateLabel": "About 400 BCE",
+  "emoji": "🧶",
+  "cat": "daily",
+  "title": "The World's Oldest Carpet",
+  "place": "Pazyryk Valley, Russia",
+  "lat": 50.74,
+  "lng": 88.05,
+  "text": "In the Altai Mountains, nomadic horse riders buried their leaders in log tombs that filled with ice, freezing everything inside. One tomb held the oldest known knotted-pile carpet, bordered with rows of deer and horsemen. Bodies from these tombs even kept their tattoos of real and fantastic animals.",
+  "source": {
+   "name": "Scientific Reports via PubMed Central (X-ray microscopy of Pazyryk textiles)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7970846/"
+  },
+  "source2": {
+   "name": "PBS NOVA, 'Ice Mummies: Siberian Ice Maiden' (transcript)",
+   "url": "https://www.pbs.org/wgbh/nova/transcripts/2517siberian.html"
+  }
+ },
+ {
+  "id": "cl-hydaspes",
+  "era": "classical",
+  "year": -326,
+  "dateLabel": "326 BCE",
+  "emoji": "🐘",
+  "cat": "power",
+  "title": "Alexander Meets King Porus",
+  "place": "Jhelum River, Pakistan",
+  "lat": 32.93,
+  "lng": 73.73,
+  "text": "Alexander the Great crossed the Hydaspes River in a storm and defeated King Porus, whose army included war elephants. Impressed by Porus, Alexander let him keep ruling. Soon after, his exhausted soldiers refused to march farther east, and Alexander turned back. He named a new city here after his beloved horse, Bucephalus.",
+  "source": {
+   "name": "Plutarch, Life of Alexander 60-61 (Loeb translation, LacusCurtius, University of Chicago)",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Alexander*/8.html"
+  },
+  "source2": {
+   "name": "Plutarch, Life of Alexander 62 (same edition)",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Alexander*/9.html"
+  }
+ },
+ {
+  "id": "cl-ashoka-edicts",
+  "era": "classical",
+  "year": -260,
+  "dateLabel": "About 260 BCE",
+  "emoji": "🪷",
+  "cat": "power",
+  "title": "Ashoka's Messages in Stone",
+  "place": "Dhauli, India",
+  "lat": 20.19,
+  "lng": 85.84,
+  "text": "After his bloody conquest of Kalinga, the Mauryan emperor Ashoka was filled with regret and turned toward Buddhist ideas of nonviolence. He had messages carved on rocks and pillars across his empire, promising wells, shade trees, and medical care for both people and animals. Their script stayed unreadable until James Prinsep cracked it in 1837.",
+  "source": {
+   "name": "National Geographic",
+   "url": "https://www.nationalgeographic.com/culture/article/ashoka"
+  },
+  "source2": {
+   "name": "INFLIBNET e-PG Pathshala (University Grants Commission, India), 'The Mauryan Empire'",
+   "url": "https://ebooks.inflibnet.ac.in/icp01/chapter/the-mauryan-empire/"
+  }
+ },
+ {
+  "id": "cl-jenne-jeno",
+  "era": "classical",
+  "year": -250,
+  "dateLabel": "About 250 BCE",
+  "emoji": "🍚",
+  "cat": "daily",
+  "title": "Jenne-Jeno, a Town Without Kings?",
+  "place": "Djenné, Mali",
+  "lat": 13.89,
+  "lng": -4.54,
+  "text": "On the floodplains of the inland Niger Delta, people settled Jenne-Jeno around 250 BCE and grew African rice. Over centuries it became a busy trading town with ironworkers and clay figurines. Archaeologists have found no sign of a very wealthy ruling class, so power may have been shared among different groups.",
+  "source": {
+   "name": "Journal of African History (Cambridge University Press), McIntosh & McIntosh, 'The Inland Niger Delta before the Empire of Mali: Evidence from Jenne-Jeno'",
+   "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/abs/inland-niger-delta-before-the-empire-of-mali-evidence-from-jennejeno/111CBA0644CA0D9EE7B3210C7A8F50F6"
+  },
+  "source2": {
+   "name": "National Geographic History",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/what-happened-to-these-four-lost-cities-of-ancient-africa"
+  }
+ },
+ {
+  "id": "cl-eratosthenes",
+  "era": "classical",
+  "year": -240,
+  "dateLabel": "About 240 BCE",
+  "emoji": "📐",
+  "cat": "discovery",
+  "title": "Measuring Earth With a Shadow",
+  "place": "Aswan, Egypt",
+  "lat": 24.09,
+  "lng": 32.9,
+  "text": "Eratosthenes learned that at noon on midsummer in Syene, today's Aswan, the sun shone straight down a well. In Alexandria, farther north, a stick still cast a small shadow at that moment. Using that angle and the distance between the two cities, he estimated the size of the whole Earth and got remarkably close.",
+  "source": {
+   "name": "MacTutor History of Mathematics, University of St Andrews",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Eratosthenes/"
+  }
+ },
+ {
+  "id": "cl-hannibal-alps",
+  "era": "classical",
+  "year": -218,
+  "dateLabel": "218 BCE",
+  "emoji": "🏔️",
+  "cat": "power",
+  "title": "Hannibal's Elephants Cross the Alps",
+  "place": "Western Alps, France",
+  "lat": 45.2,
+  "lng": 6.9,
+  "text": "The Carthaginian general Hannibal led an army, horses, and 37 war elephants from Spain over the snowy Alps to attack Rome from the north. Many soldiers and animals died on the way, and historians still argue over which mountain pass he used. He went on to beat the Romans in huge battles, but never captured Rome.",
+  "source": {
+   "name": "PubMed Central (peer-reviewed article), 'Energy costs of Hannibal's alpine crossing'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13367890/"
+  }
+ },
+ {
+  "id": "cl-terracotta-army",
+  "era": "classical",
+  "year": -210,
+  "dateLabel": "About 210 BCE",
+  "emoji": "💂",
+  "cat": "power",
+  "title": "An Army Made of Clay",
+  "place": "Xi'an, China",
+  "lat": 34.38,
+  "lng": 109.27,
+  "text": "In 1974, farmers digging a well near Xi'an struck pieces of a clay soldier. It belonged to an army of roughly 8,000 life-size warriors, plus horses and chariots, buried to guard China's first emperor, Qin Shi Huang, in the afterlife. They were once painted in bright colors. His own burial mound has still not been opened.",
+  "source": {
+   "name": "National Museums Liverpool",
+   "url": "https://www.liverpoolmuseums.org.uk/stories/top-10-facts-about-terracotta-warriors"
+  },
+  "source2": {
+   "name": "National Geographic",
+   "url": "https://www.nationalgeographic.com/travel/world-heritage/article/mausoleum-first-qin-emperor"
+  }
+ },
+ {
+  "id": "cl-xin-zhui",
+  "era": "classical",
+  "year": -163,
+  "dateLabel": "About 163 BCE",
+  "emoji": "🍈",
+  "cat": "daily",
+  "title": "Lady Dai's Last Snack",
+  "place": "Changsha, China",
+  "lat": 28.21,
+  "lng": 113.01,
+  "text": "Xin Zhui, wife of the Marquis of Dai, was buried in a tomb sealed so tightly with clay that her skin was still soft when it was opened in the early 1970s. Her tomb held more than a thousand objects, including lacquerware, embroidered silk and a gauze robe weighing only 49 grams. Doctors found 138 melon seeds inside her, so her last snack was probably melon.",
+  "source": {
+   "name": "PubMed Central (peer-reviewed), 'Coronary Arteriosclerotic Disease Existed in China Over 2,200 Years Ago'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3405812/"
+  },
+  "source2": {
+   "name": "CGTN, 'Mawangdui Han Tomb's oriental sleeping beauty'",
+   "url": "https://news.cgtn.com/news/2019-09-26/Mawangdui-Han-Tomb-s-oriental-sleeping-beauty-KiXU7TeD04/index.html"
+  }
+ },
+ {
+  "id": "cl-dead-sea-scrolls",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "About 100 BCE",
+  "emoji": "🫙",
+  "cat": "culture",
+  "title": "Scrolls in the Desert Caves",
+  "place": "Qumran, West Bank",
+  "lat": 31.74,
+  "lng": 35.46,
+  "text": "In 1947, a young Bedouin shepherd searching for a stray animal found a cave near the Dead Sea with clay jars holding ancient scrolls. Eventually, pieces of more than 900 manuscripts turned up, written mostly between the 3rd century BCE and the 1st century CE. They include the oldest known copies of books of the Hebrew Bible, about a thousand years older than those known before.",
+  "source": {
+   "name": "Israel Antiquities Authority, Leon Levy Dead Sea Scrolls Digital Library",
+   "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication"
+  },
+  "source2": {
+   "name": "Israel Antiquities Authority, Leon Levy Dead Sea Scrolls Digital Library: Introduction",
+   "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/introduction"
+  }
+ },
+ {
+  "id": "cl-hopewell-trade",
+  "era": "classical",
+  "year": 50,
+  "dateLabel": "About 1st century CE",
+  "emoji": "🐚",
+  "cat": "journeys",
+  "title": "Hopewell's Continent-Wide Trade",
+  "place": "Newark, United States",
+  "lat": 40.05,
+  "lng": -82.43,
+  "text": "People of the Hopewell tradition in Ohio built giant earthworks shaped like circles, squares, and an octagon lined up with the rising and setting moon. Their trade reached across North America, bringing obsidian from the Rocky Mountains, copper from Lake Superior, shells from the Gulf of Mexico, and even shark teeth.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, 'Hopewell Ceremonial Earthworks'",
+   "url": "https://whc.unesco.org/en/list/1689"
+  },
+  "source2": {
+   "name": "U.S. National Park Service, Hopewell Culture NHP: History & Culture",
+   "url": "https://www.nps.gov/hocu/learn/historyculture/index.htm"
+  }
+ },
+ {
+  "id": "cl-pompeii",
+  "era": "classical",
+  "year": 79,
+  "dateLabel": "79 CE",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "Pompeii Frozen in Ash",
+  "place": "Pompeii, Italy",
+  "lat": 40.75,
+  "lng": 14.49,
+  "text": "When Mount Vesuvius erupted, ash buried the Roman town of Pompeii and froze daily life in place. Archaeologists found loaves of bread still in a bakery oven and walls covered in graffiti, from election slogans to jokes. A young eyewitness across the bay, Pliny the Younger, later described the eruption in letters.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Pompeii' (W. F. Jashemski)",
+   "url": "https://www.britannica.com/place/Pompeii"
+  },
+  "source2": {
+   "name": "Smithsonian Magazine, 'Pompeii's Graffiti Captures Every Joke, Boast and Argument...'",
+   "url": "https://www.smithsonianmag.com/history/pompeiis-graffiti-captures-every-joke-boast-and-argument-of-an-ancient-roman-city-frozen-in-time-180987831/"
+  }
+ },
+ {
+  "id": "cl-vindolanda",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "About 100 CE",
+  "emoji": "🎂",
+  "cat": "daily",
+  "title": "A Birthday Party on the Frontier",
+  "place": "Vindolanda, United Kingdom",
+  "lat": 54.99,
+  "lng": -2.36,
+  "text": "At a Roman fort in northern England, letters written in ink on thin wooden slips survived in soggy soil. One is a birthday invitation from Claudia Severa to her friend Sulpicia Lepidina, among the earliest known Latin writing by a woman. Another mentions socks and underpants sent to a soldier, a reminder that the frontier was chilly.",
+  "source": {
+   "name": "Roman Inscriptions of Britain online, Tab. Vindol. 291",
+   "url": "https://romaninscriptionsofbritain.org/inscriptions/TabVindol291"
+  },
+  "source2": {
+   "name": "Roman Inscriptions of Britain online, Tab. Vindol. 346",
+   "url": "https://romaninscriptionsofbritain.org/inscriptions/TabVindol346"
+  }
+ },
+ {
+  "id": "cl-cai-lun-paper",
+  "era": "classical",
+  "year": 105,
+  "dateLabel": "105 CE",
+  "emoji": "📄",
+  "cat": "discovery",
+  "title": "Cai Lun's Better Paper",
+  "place": "Luoyang, China",
+  "lat": 34.62,
+  "lng": 112.45,
+  "text": "Cai Lun, an official at the Han court, presented the emperor with a way to make paper from tree bark, hemp, old rags, and fishing nets. Paper existed before him, but his recipe made it cheaper and better. It slowly spread across Asia and, roughly a thousand years later, reached Europe.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Cai Lun'",
+   "url": "https://www.britannica.com/biography/Cai-Lun"
+  },
+  "source2": {
+   "name": "Smithsonian Folklife Festival 2002, 'Paper' (The Silk Road)",
+   "url": "https://festival.si.edu/2002/the-silk-road/paper/smithsonian"
+  }
+ },
+ {
+  "id": "cl-oc-eo",
+  "era": "classical",
+  "year": 150,
+  "dateLabel": "About 150 CE",
+  "emoji": "🪙",
+  "cat": "journeys",
+  "title": "A Roman Coin in the Mekong Delta",
+  "place": "Óc Eo, Vietnam",
+  "lat": 10.25,
+  "lng": 105.15,
+  "text": "Óc Eo, linked to the sea by canals, is thought to have been the main port of Funan, an early kingdom in the Mekong Delta. Diggers found Indian beads, Chinese bronzes, and a gold coin of the Roman emperor Antoninus Pius dated 152 CE. Goods traveled thousands of kilometers to get here, showing how connected the ancient world already was.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'History of Southeast Asia: Rise of indigenous states'",
+   "url": "https://www.britannica.com/place/history-of-Southeast-Asia-556509"
+  },
+  "source2": {
+   "name": "The Concise Oxford Dictionary of Archaeology (Oxford Reference), 'Oc Eo, Vietnam'",
+   "url": "https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100244798"
+  }
+ },
+ {
+  "id": "cl-teotihuacan",
+  "era": "classical",
+  "year": 200,
+  "dateLabel": "About 200 CE",
+  "emoji": "🌞",
+  "cat": "daily",
+  "title": "The City of the Gods",
+  "place": "Teotihuacan, Mexico",
+  "lat": 19.69,
+  "lng": -98.84,
+  "text": "Teotihuacan grew into the largest city of the ancient Americas, home at its height to an estimated 125,000 to 200,000 people. Most lived in some 2,000 apartment compounds, including a neighborhood of migrants from Oaxaca. Its Pyramid of the Sun is among the biggest in the Americas. The Aztecs named it centuries later; its people's own language is still unknown.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: 'Teotihuacan'",
+   "url": "https://www.metmuseum.org/essays/teotihuacan"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, 'Pre-Hispanic City of Teotihuacan'",
+   "url": "https://whc.unesco.org/en/list/414"
+  }
+ },
+ {
+  "id": "cl-himiko",
+  "era": "classical",
+  "year": 239,
+  "dateLabel": "238 or 239 CE",
+  "emoji": "🪞",
+  "cat": "power",
+  "title": "Queen Himiko Writes to China",
+  "place": "Makimuku, Japan",
+  "lat": 34.55,
+  "lng": 135.84,
+  "text": "Chinese records describe Himiko, a queen of Wa (early Japan) who ruled through spiritual power and was rarely seen after becoming ruler. In 238 or 239 CE she sent envoys to the Wei court, which sent back a gold seal and 100 bronze mirrors. Where her land of Yamatai lay is still debated: northern Kyushu or the Nara region.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Japan: The Yayoi period' (Chinese chronicles)",
+   "url": "https://www.britannica.com/place/Japan/The-Yayoi-period-c-300-bce-c-250-ce"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Himiko'",
+   "url": "https://www.britannica.com/topic/Himiko-Japanese-ruler"
+  }
+ },
+ {
+  "id": "cl-zenobia",
+  "era": "classical",
+  "year": 270,
+  "dateLabel": "About 270 CE",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "Zenobia Challenges Rome",
+  "place": "Palmyra, Syria",
+  "lat": 34.55,
+  "lng": 38.27,
+  "text": "Zenobia ruled the desert trading city of Palmyra for her young son, then seized Egypt and much of Rome's eastern lands. She even issued coins showing herself as empress. The emperor Aurelian defeated and captured her in 272 CE. Some ancient writers say she was paraded through Rome, others that she died on the way, but she lived on in legend as the queen who challenged an empire.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Zenobia'",
+   "url": "https://www.britannica.com/biography/Zenobia"
+  },
+  "source2": {
+   "name": "Talanta (Proceedings of the Dutch Archaeological and Historical Society) 40-41, A. Senden, 'Zenobia in nummis'",
+   "url": "https://www.talanta.nl/wp-content/uploads/2014/08/TAL-40-412008-2009-pag-137-150-Senden.pdf"
+  }
+ },
+ {
+  "id": "cl-ezana-aksum",
+  "era": "classical",
+  "year": 340,
+  "dateLabel": "About 340 CE",
+  "emoji": "✝️",
+  "cat": "power",
+  "title": "Aksum's King Picks a New Faith",
+  "place": "Aksum, Ethiopia",
+  "lat": 14.13,
+  "lng": 38.72,
+  "text": "King Ezana of Aksum, a trading kingdom in what is now Ethiopia and Eritrea, became one of the first rulers anywhere to adopt Christianity. His coins swapped the old crescent-and-disc symbol for the cross. Aksum was one of only a few powers of its time to strike coins in gold, silver and copper, and some of its giant stone pillars still stand.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline of Art History, 'Foundations of Aksumite Civilization and Its Christian Legacy'",
+   "url": "https://www.metmuseum.org/toah/hd/aksu_1/hd_aksu_1.htm"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, 'Aksum'",
+   "url": "https://whc.unesco.org/en/list/15"
+  }
+ },
+ {
+  "id": "cl-gwanggaeto-stele",
+  "era": "classical",
+  "year": 414,
+  "dateLabel": "414 CE",
+  "emoji": "🪨",
+  "cat": "power",
+  "title": "The Stele of a Korean Conqueror",
+  "place": "Ji'an, China",
+  "lat": 41.15,
+  "lng": 126.18,
+  "text": "King Jangsu of Goguryeo, a Korean kingdom, raised a stone about 6.4 meters tall to honor his late father, King Gwanggaeto the Great. Its roughly 1,800 carved characters celebrate his conquests across Manchuria and the Korean Peninsula. The stele still stands on the Chinese side of the Yalu River, and scholars still argue over parts of its text.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, 'Capital Cities and Tombs of the Ancient Koguryo Kingdom'",
+   "url": "https://whc.unesco.org/en/list/1135"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Goguryeo'",
+   "url": "https://www.britannica.com/place/Goguryeo"
+  }
+ },
+ {
+  "id": "cl-lady-of-cao",
+  "era": "classical",
+  "year": 450,
+  "dateLabel": "About 450 CE",
+  "emoji": "🕷️",
+  "cat": "power",
+  "title": "The Tattooed Lady of Cao",
+  "place": "El Brujo, Peru",
+  "lat": -7.92,
+  "lng": -79.3,
+  "text": "In the mid-2000s, archaeologists in northern Peru unwrapped the mummy of a young Moche woman covered in tattoos of snakes, spiders, and other creatures. She was buried with gold jewelry, war clubs, and spear-throwers, objects Moche experts see as classic male warrior gear. It suggests women could hold great power in Moche society.",
+  "source": {
+   "name": "El Brujo Archaeological Complex (Fundacion Wiese), 'Lady of Cao: History, Funerary Bundle, and Moche Power'",
+   "url": "https://www.elbrujo.pe/en/blog/lady-of-cao-history-funerary-bundle"
+  },
+  "source2": {
+   "name": "Harvard University, Dept. of History of Art and Architecture, event 'Elegant in Life, Ambiguous in Death' (Dumbarton Oaks)",
+   "url": "https://haa.fas.harvard.edu/event/elegant-life-ambiguous-death-high-status-mummy-northern-coastal-peru"
+  }
+ },
+ {
+  "id": "cl-ajanta-caves",
+  "era": "classical",
+  "year": 480,
+  "dateLabel": "About 480 CE",
+  "emoji": "🎨",
+  "cat": "culture",
+  "title": "Ajanta's Painted Caves",
+  "place": "Ajanta, India",
+  "lat": 20.55,
+  "lng": 75.7,
+  "text": "Buddhist monks carved prayer halls and monasteries into a horseshoe-shaped cliff at Ajanta and covered the walls with brilliant paintings of the Buddha's past lives, princesses, and elephants. Long hidden by jungle, the caves were rediscovered in 1819 by a British army officer of the Madras Regiment who was out on a hunting trip.",
+  "source": {
+   "name": "Archaeological Survey of India, 'World Heritage: Ajanta Caves'",
+   "url": "https://asi.nic.in/pages/WorldHeritageAjantaCaves"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, '11 Caves That Made History'",
+   "url": "https://www.britannica.com/list/11-caves-that-made-history"
+  }
+ },
+ {
+  "id": "cl-aryabhata",
+  "era": "classical",
+  "year": 499,
+  "dateLabel": "499 CE",
+  "emoji": "🔭",
+  "cat": "discovery",
+  "title": "Aryabhata Sets the Earth Spinning",
+  "place": "Patna, India",
+  "lat": 25.61,
+  "lng": 85.14,
+  "text": "Aryabhata wrote that he was 23 years old in 499 CE, around when he produced a book in verse packed with astronomy and math. He worked out pi as about 3.1416, explained eclipses as shadows rather than demons swallowing the sun, and suggested that Earth spins on its axis. India named its first satellite after him in 1975.",
+  "source": {
+   "name": "MacTutor History of Mathematics Archive, University of St Andrews, 'Aryabhata I'",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Aryabhata_I/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Aryabhata' (satellite)",
+   "url": "https://www.britannica.com/topic/Aryabhata"
+  }
+ },
+ {
+  "id": "cl-lydenburg-heads",
+  "era": "classical",
+  "year": 500,
+  "dateLabel": "About 500 CE",
+  "emoji": "🗿",
+  "cat": "culture",
+  "title": "The Lydenburg Heads",
+  "place": "Lydenburg, South Africa",
+  "lat": -25.1,
+  "lng": 30.45,
+  "text": "A young boy noticed pieces of fired clay eroding out of a gully near Lydenburg in South Africa; they turned out to be seven heads, made around 500 CE by early farming communities. The two largest may have been worn as masks or helmets. They are among the oldest known Iron Age artworks from Africa south of the equator.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline of Art History, 'Lydenburg Heads (ca. 500 A.D.)'",
+   "url": "https://www.metmuseum.org/toah/hd/lyde/hd_lyde.htm"
+  },
+  "source2": {
+   "name": "University of Cape Town, Centre for Curating the Archive, 'Lydenburg heads'",
+   "url": "https://humanities.uct.ac.za/cca/projects-archive-and-curatorship-arc-visual-university/lydenburg-heads"
+  }
+ }
+]

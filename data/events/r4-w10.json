@@ -1,0 +1,406 @@
+[
+ {
+  "id": "w10-xuanquan-posthouse",
+  "era": "classical",
+  "year": -65,
+  "dateLabel": "1st century BCE",
+  "cat": "journeys",
+  "title": "The Desert Post House That Fed Kings",
+  "place": "Xuanquanzhi, near Dunhuang, Gansu, China",
+  "lat": 40.3,
+  "lng": 95.35,
+  "text": "Out in the Gobi, Xuanquanzhi was one of more than 80 major Han post stations strung between Chang'an and Dunhuang. It had a stable, a horse doctor's clinic, a mill and a restaurant. Its wooden slips record envoys passing through, including up to 1,074 guests travelling with the King of Yutian. That delegation ate huge amounts of beef and mutton and broke over 300 cups.",
+  "source": {
+   "name": "China Daily: Reviving the glory of millennia-old posthouse ruins in Dunhuang",
+   "url": "https://global.chinadaily.com.cn/a/202308/09/WS64d3315ba31035260b81b271.html"
+  }
+ },
+ {
+  "id": "w10-mawangdui-silk-map",
+  "era": "classical",
+  "year": -168,
+  "dateLabel": "168 BCE",
+  "cat": "discovery",
+  "title": "A Map on Silk for a General",
+  "place": "Mawangdui, Changsha, Hunan, China",
+  "lat": 28.21,
+  "lng": 113.02,
+  "text": "In 168 BCE a Han general, probably the son of Changsha's ruler Li Cang, was buried with a lacquer box holding three silk maps. One shows the mountains, rivers and towns of the kingdom's southern half, with squares marking cities. Another plots military garrisons near a hostile frontier. Beside the Nine Beguiling Mountains, the mapmaker drew shadowy shapes that may be peaks reflected in a lake.",
+  "source": {
+   "name": "Archaeology Magazine: Mapping the Past, Han Dynasty Map",
+   "url": "https://archaeology.org/issues/may-june-2019/collection/maps-china-han-dynasty-topographic-map/mapping-the-past/"
+  }
+ },
+ {
+  "id": "w10-selden-map",
+  "era": "exploration",
+  "year": 1620,
+  "dateLabel": "Early 1600s",
+  "cat": "journeys",
+  "title": "A Merchant's Map of the China Seas",
+  "place": "Quanzhou, Fujian, China",
+  "lat": 24.87,
+  "lng": 118.68,
+  "text": "The Selden Map, probably drawn in the early 1600s, covers all of East and Southeast Asia, with China taking up less than half. Shipping routes with compass bearings fan out from Quanzhou. A London lawyer, John Selden, owned it by 1653, and it reached Oxford in 1659. Its importance went unnoticed until 2008. When old backing was removed, its main sea routes turned up on the reverse, a first draft.",
+  "source": {
+   "name": "Bodleian Libraries: The Selden Map of China",
+   "url": "https://seldenmap.bodleian.ox.ac.uk/"
+  }
+ },
+ {
+  "id": "w10-ino-tadataka-survey",
+  "era": "industrial",
+  "year": 1800,
+  "dateLabel": "1800",
+  "cat": "discovery",
+  "title": "A Retired Merchant Measures Japan",
+  "place": "Ezo (Hokkaido), near Hakodate, Japan",
+  "lat": 41.77,
+  "lng": 140.73,
+  "text": "Inō Tadataka ran a merchant business in Sawara until he retired at fifty. Then he moved to Edo to study astronomy, hoping to find the exact length of one degree of latitude. In 1800 he surveyed Ezo, now Hokkaido, almost on his own. The government then hired him to map all Japan. His Great Map was handed over in 1821, three years after his death.",
+  "source": {
+   "name": "Tokyo National Museum: Maps of Japan by Ino Tadataka",
+   "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=1757&lang=en"
+  }
+ },
+ {
+  "id": "w10-khmer-rest-houses",
+  "era": "medieval",
+  "year": 1190,
+  "dateLabel": "About 1190",
+  "cat": "journeys",
+  "title": "Rest Stops on the Roads of Angkor",
+  "place": "Preah Khan of Kompong Svay, Preah Vihear, Cambodia",
+  "lat": 13.4,
+  "lng": 104.8,
+  "text": "Jayavarman VII, who ruled Angkor from 1181 to 1218, lined his roads with rest stops every seven to nine miles. The network crossed land that is now Cambodia, southern Vietnam, Laos and Thailand. Each stop had a small stone fire shrine for the gods, plus lighter buildings where travellers could rest, pray and water their animals. One archaeologist compares them to modern highway rest areas.",
+  "source": {
+   "name": "Archaeology Magazine: The Pursuit of Wellness, Rest",
+   "url": "https://archaeology.org/issues/september-october-2021/collection/wellness-cambodia-khmer-rest-houses/the-pursuit-of-wellness/"
+  }
+ },
+ {
+  "id": "w10-sher-shah-serai",
+  "era": "exploration",
+  "year": 1540,
+  "dateLabel": "1540s",
+  "cat": "journeys",
+  "title": "An Inn for Sher Shah's Mail Riders",
+  "place": "Near Harappa, Sahiwal, Punjab, Pakistan",
+  "lat": 30.63,
+  "lng": 72.87,
+  "text": "Close to the ruins of Harappa, archaeologists found a brick serai, an inn where postal convoys stopped on the road of Sher Shah Suri, who ruled from 1540 to 1545. Three rooms sit on each side of the main gateway, with a veranda and a pond. Finds include terracotta figurines, gaming pieces, bangles and a toy cart, so travellers had time to relax.",
+  "source": {
+   "name": "Archaeology Magazine: Sixteenth-Century Inn Uncovered in Pakistan",
+   "url": "https://archaeology.org/news/2025/11/12/sixteenth-century-inn-uncovered-in-pakistan/"
+  }
+ },
+ {
+  "id": "w10-kashgari-world-map",
+  "era": "medieval",
+  "year": 1074,
+  "dateLabel": "1074",
+  "cat": "culture",
+  "title": "A World Map Centred on Kashgar",
+  "place": "Kashgar, Xinjiang, China",
+  "lat": 39.47,
+  "lng": 75.99,
+  "text": "Mahmud al-Kashgari finished his three-volume book on Turkic languages in 1074 and presented it to the Abbasid caliph in Baghdad, who ordered copies made. It holds about 290 proverbs and a round map of the world. Arab maps of the time usually put Mecca in the middle. Kashgari put the Karakhanid cities of Kashgar, Barskan and Balasagun there instead.",
+  "source": {
+   "name": "e-history.kz: Diwan Lughat al-Turk, or The Compendium of the Turkic Languages",
+   "url": "https://e-history.kz/en/news/show/7656"
+  }
+ },
+ {
+  "id": "w10-nippur-map-tablet",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 1500 BCE",
+  "cat": "power",
+  "title": "Fields and Canals on Clay",
+  "place": "Nippur, Al-Qadisiyah, Iraq",
+  "lat": 32.13,
+  "lng": 45.23,
+  "text": "This clay map, about 13 by 11 centimetres, shows the land around Nippur. Lines mark irrigation canals, and circles mark towns and farm estates. A cuneiform label calls the central part a field of the palace. Most landholdings in Mesopotamia were described in writing, not drawn. At the top sits a field of Marduk, a sign that Babylon's god was taking land in Enlil's own city.",
+  "source": {
+   "name": "Archaeology Magazine: Mapping the Past, Nippur Map Tablet",
+   "url": "https://archaeology.org/issues/may-june-2019/collection/maps-iraq-babylonian-nippur-map-tablet/mapping-the-past/"
+  }
+ },
+ {
+  "id": "w10-ea-nasir-complaint",
+  "era": "ancient",
+  "year": -1750,
+  "dateLabel": "About 1750 BCE",
+  "cat": "daily",
+  "title": "A Very Angry Letter About Copper",
+  "place": "Ur, Dhi Qar, Iraq",
+  "lat": 30.96,
+  "lng": 46.1,
+  "text": "Around 1750 BCE a man named Nanni pressed a furious letter into clay for the merchant Ea-nasir. Ea-nasir had promised fine copper ingots and sent poor ones, then told Nanni's messenger to take them or leave. Nanni wrote that he would accept no more copper unless it was good, and he would pick the ingots in his own yard. It is called the first recorded customer complaint.",
+  "source": {
+   "name": "Archaeology Magazine: The World's Oldest Writing",
+   "url": "https://archaeology.org/issues/may-june-2016/collection/cuneiform-letters/the-worlds-oldest-writing/"
+  }
+ },
+ {
+  "id": "w10-mossel-bay-post-tree",
+  "era": "exploration",
+  "year": 1500,
+  "dateLabel": "1500",
+  "cat": "journeys",
+  "title": "A Letter Left in a Sailor's Shoe",
+  "place": "Post Office Tree, Mossel Bay, Western Cape, South Africa",
+  "lat": -34.18,
+  "lng": 22.14,
+  "text": "In 1500 the Portuguese captain Pedro de Ataíde, cut off from Cabral's fleet, landed at what is now Mossel Bay. He left a letter in a sailor's shoe tied to a tree. It warned of hostility at Calicut and rough waters to the east. In July 1501 the next fleet bound for India found it. A boot-shaped postbox now stands beside the tree.",
+  "source": {
+   "name": "Dias Museum: Post Office Tree",
+   "url": "https://diasmuseum.co.za/post-office-tree/"
+  }
+ },
+ {
+  "id": "w10-goldmine-papyrus",
+  "era": "ancient",
+  "year": -1150,
+  "dateLabel": "About 1150 BCE",
+  "cat": "discovery",
+  "title": "Egypt's Map of a Desert Quarry",
+  "place": "Deir el-Medina, Luxor, Egypt",
+  "lat": 25.73,
+  "lng": 32.6,
+  "text": "About 1150 BCE Amennakhte, chief scribe of the royal tomb builders, drew a papyrus almost three metres long showing the Wadi Hammamat. It marks roads labelled in hieroglyphs, a well, a temple of Amun and blocks of prized greywacke stone. Colours show what the hills hold: dark brown for greywacke, pink for granite and gold. It is called the world's oldest known geological map.",
+  "source": {
+   "name": "Archaeology Magazine: Mapping the Past, The Goldmine Papyrus",
+   "url": "https://archaeology.org/issues/may-june-2019/collection/maps-egypt-new-kingdom-goldmine-papyrus/mapping-the-past/"
+  }
+ },
+ {
+  "id": "w10-qashqash-letter",
+  "era": "exploration",
+  "year": 1600,
+  "dateLabel": "Late 1500s or 1600s",
+  "cat": "power",
+  "title": "A Nubian King's Note About Sheep",
+  "place": "Dongola, Northern State, Sudan",
+  "lat": 18.22,
+  "lng": 30.75,
+  "text": "Excavating a wealthy house in Dongola, archaeologists found a small paper letter, about 10 centimetres wide, written in Arabic in the late 1500s or 1600s. Its author was King Qashqash, a ruler many thought half legend. The letter proves he was real. Its message is very ordinary: an order to hand over livestock, including a ewe and her lambs, along with pieces of cloth.",
+  "source": {
+   "name": "Archaeology Magazine: Post-Makurian Letter (from Dongola)",
+   "url": "https://archaeology.org/issues/september-october-2026/artifacts/post-makurian-letter-from-dongola/"
+  }
+ },
+ {
+  "id": "w10-tamil-graffiti-egypt",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "1st to 3rd century CE",
+  "cat": "journeys",
+  "title": "Tamil Names in Pharaohs' Tombs",
+  "place": "Valley of the Kings, Luxor, Egypt",
+  "lat": 25.74,
+  "lng": 32.6,
+  "text": "About 2,000 years ago, visitors from India carved roughly 30 messages into six royal tombs in Egypt's Valley of the Kings. Most are in Old Tamil. One traveller, Cikai Korran, carved his name high on the walls of five tombs. One tag reads, \"Cikai Korran, having come, has seen.\" He copied the style of the Greek graffiti beside it, a language useful for Indian Ocean trade.",
+  "source": {
+   "name": "Archaeology Magazine: Tamil Tourists",
+   "url": "https://archaeology.org/issues/july-august-2026/digs-discoveries/tamil-tourists/"
+  }
+ },
+ {
+  "id": "w10-hereford-mappa-mundi",
+  "era": "medieval",
+  "year": 1300,
+  "dateLabel": "About 1300",
+  "cat": "culture",
+  "title": "The World on One Calfskin",
+  "place": "Hereford Cathedral, Hereford, England, UK",
+  "lat": 52.05,
+  "lng": -2.72,
+  "text": "Around 1300, someone drew the whole known world on a single sheet of calfskin about 1.6 metres tall. The Hereford Mappa Mundi puts Jerusalem at the centre and east at the top, where medieval Christians expected Christ to return. Europe, Asia and North Africa crowd around, and the British Isles squeeze into the bottom left. It mixes geography with history and Christian belief.",
+  "source": {
+   "name": "Hereford Cathedral: The Mappa Mundi",
+   "url": "https://www.themappamundi.co.uk/"
+  }
+ },
+ {
+  "id": "w10-forma-urbis-romae",
+  "era": "classical",
+  "year": 205,
+  "dateLabel": "203 to 211 CE",
+  "cat": "power",
+  "title": "Rome Carved on a Marble Wall",
+  "place": "Temple of Peace, Rome, Italy",
+  "lat": 41.89,
+  "lng": 12.49,
+  "text": "Under Emperor Septimius Severus, Rome was mapped in marble at a scale of 1:240. The whole plan measured about 18 by 13 metres and covered a wall in the Temple of Peace. It showed streets and blocks, even colonnades and staircases inside buildings. Only a small part survives. Its huge size suggests it was more of a monument to Severus than a map for daily use.",
+  "source": {
+   "name": "Archaeology Magazine: Mapping the Past, The Forma Urbis Romae",
+   "url": "https://archaeology.org/issues/may-june-2019/collection/maps-rome-forma-urbis-romae/mapping-the-past/"
+  }
+ },
+ {
+  "id": "w10-lorange-bottle",
+  "era": "industrial",
+  "year": 1874,
+  "dateLabel": "1874",
+  "cat": "discovery",
+  "title": "An Archaeologist's Note to the Future",
+  "place": "Myklebust Farm, Nordfjordeid, Norway",
+  "lat": 61.91,
+  "lng": 5.99,
+  "text": "In 1874 Anders Lorange dug into a Viking ship burial at Myklebust Farm but recorded little. When Bergen archaeologists reopened the mound, they found his bottle near the centre. Inside were a letter to future archaeologists and his business card. Above it lay more than 600 ship nails he had pulled out. The letter ends with his sweetheart's name, Emma Gade, written in Viking runes.",
+  "source": {
+   "name": "Archaeology Magazine: Hidden Messages",
+   "url": "https://archaeology.org/issues/march-april-2025/digs-discoveries/hidden-messages/"
+  }
+ },
+ {
+  "id": "w10-pony-express",
+  "era": "industrial",
+  "year": 1860,
+  "dateLabel": "1860",
+  "cat": "journeys",
+  "title": "1,800 Miles in Ten Days",
+  "place": "St. Joseph, Missouri, USA",
+  "lat": 39.76,
+  "lng": -94.85,
+  "text": "In April 1860 the Pony Express began carrying letters on horseback between St. Joseph, Missouri, and Sacramento, California, promising more than 1,800 miles in ten days. Riders were offered $50 a month. Yet the service lasted only about 18 months. On October 26, 1861, the telegraph linked San Francisco to New York, and the riders were no longer needed.",
+  "source": {
+   "name": "National Park Service: Pony Express National Historic Trail, History and Culture",
+   "url": "https://www.nps.gov/poex/learn/historyculture/index.htm"
+  }
+ },
+ {
+  "id": "w10-catawba-deerskin-map",
+  "era": "exploration",
+  "year": 1721,
+  "dateLabel": "About 1721",
+  "cat": "power",
+  "title": "Circles and Squares on a Deerskin",
+  "place": "Charleston, South Carolina, USA",
+  "lat": 32.78,
+  "lng": -79.93,
+  "text": "Around 1721 the new governor of South Carolina, Francis Nicholson, received a map drawn on deerskin, probably by a Catawba mapmaker. It shows 13 Native nations as circles joined by lines, with the Catawba town of Nasaw in the middle. English settlements, including Charleston and Virginia, appear as squares. One archaeologist thinks the squares marked the English as outsiders, perhaps as a quiet criticism.",
+  "source": {
+   "name": "Archaeology Magazine: Mapping the Past, Catawba Map",
+   "url": "https://archaeology.org/issues/may-june-2019/collection/maps-south-carolina-catawba-map/mapping-the-past/"
+  }
+ },
+ {
+  "id": "w10-inuit-wooden-maps",
+  "era": "industrial",
+  "year": 1885,
+  "dateLabel": "1885",
+  "cat": "culture",
+  "title": "Coastlines Carved in Wood",
+  "place": "Ammassalik (Tasiilaq), East Greenland",
+  "lat": 65.61,
+  "lng": -37.64,
+  "text": "In 1885 an Inuit hunter named Kunit traded three small wooden maps to the Danish explorer Gustav Holm at Ammassalik. One shows a jagged coast of land and fjords, another a string of islands, a third a peninsula. A curved groove marks where a traveller would carry a kayak overland. They were storytelling aids, and no others like them are known.",
+  "source": {
+   "name": "Archaeology Magazine: Mapping the Past, Wooden Inuit Maps",
+   "url": "https://archaeology.org/issues/may-june-2019/collection/maps-greenland-wooden-inuit-maps/mapping-the-past/"
+  }
+ },
+ {
+  "id": "w10-vicksburg-bottle-cipher",
+  "era": "industrial",
+  "year": 1863,
+  "dateLabel": "1863",
+  "cat": "power",
+  "title": "A Coded Note That Came Too Late",
+  "place": "Vicksburg, Mississippi, USA",
+  "lat": 32.35,
+  "lng": -90.88,
+  "text": "A glass bottle from the American Civil War held a coded message, and modern codebreakers finally read it. Meant for Confederate general John C. Pemberton, trapped in the Siege of Vicksburg, it begins: \"You can expect no help from this side of the river.\" The note never reached him. It is dated July 4, 1863, the same day Pemberton surrendered to Grant.",
+  "source": {
+   "name": "Archaeology Magazine: Around the World, Virginia",
+   "url": "https://archaeology.org/issues/online/around-the-world/virginia/"
+  }
+ },
+ {
+  "id": "w10-rondon-telegraph",
+  "era": "industrial",
+  "year": 1907,
+  "dateLabel": "1907 to 1915",
+  "cat": "journeys",
+  "title": "A Telegraph Wire Into the Amazon",
+  "place": "Cuiabá, Mato Grosso, Brazil",
+  "lat": -15.6,
+  "lng": -56.1,
+  "text": "In 1907 Brazil sent Cândido Rondon to run a telegraph line from Cuiabá towards the Madeira River. About 150 people surveyed and mapped the region and met Indigenous peoples such as the Paresí and Nambikwara. The line reached Santo Antônio do Madeira in January 1915. Rondon later said the wire was only the pretext, and the scientific exploration was everything.",
+  "source": {
+   "name": "SciELO, História, Ciências, Saúde-Manguinhos: Telegraphs and an inventory of the territory of Brazil, the scientific work of the Rondon Commission",
+   "url": "https://www.scielo.br/j/hcsm/a/XBVfm3GBSBF3Lxts4bvRZRB/?lang=en"
+  }
+ },
+ {
+  "id": "w10-paracas-textile-map",
+  "era": "classical",
+  "year": 200,
+  "dateLabel": "100 to 300 CE",
+  "cat": "culture",
+  "title": "A Parade That Maps Time",
+  "place": "Paracas Peninsula, Ica, Peru",
+  "lat": -13.84,
+  "lng": -76.25,
+  "text": "Made by the Nazca culture between 100 and 300 CE, the Paracas Textile was probably wrapped around a dead person's head. Its border holds 90 tiny figures, each in different dress, many carrying plants and animals. One geographer reads it as a map of time: a procession circling a village plaza forever, which the dead person could join on the way to the next world.",
+  "source": {
+   "name": "Archaeology Magazine: Mapping the Past, The Paracas Textile",
+   "url": "https://archaeology.org/issues/may-june-2019/collection/maps-peru-paracas-textile/mapping-the-past/"
+  }
+ },
+ {
+  "id": "w10-paula-bottle-message",
+  "era": "modern",
+  "year": 2018,
+  "dateLabel": "2018",
+  "cat": "discovery",
+  "title": "A Gin Bottle Afloat Since 1886",
+  "place": "Wedge Island, Western Australia, Australia",
+  "lat": -30.82,
+  "lng": 115.19,
+  "text": "In January 2018 Tonya Illman picked up an old Dutch gin bottle in the dunes near Wedge Island, north of Perth. Inside was a note dated 12 June 1886, thrown from the German ship Paula about 950 kilometres offshore. Germany ran a 69-year experiment tracking ocean currents with thousands of such bottles. The captain's own logbook confirmed it: the oldest message in a bottle found.",
+  "source": {
+   "name": "Western Australian Museum: 132 year old message in a bottle found on WA beach",
+   "url": "https://visit.museum.wa.gov.au/learn/news-stories/132-year-old-message-bottle-found-on-wa-beach"
+  },
+  "source2": {
+   "name": "National Geographic: World's Oldest Message in a Bottle Found in Australia",
+   "url": "https://www.nationalgeographic.com/history/article/oldest-message-in-a-bottle-australia-german-spd"
+  }
+ },
+ {
+  "id": "w10-marshall-stick-chart",
+  "era": "industrial",
+  "year": 1880,
+  "dateLabel": "Late 1800s",
+  "cat": "journeys",
+  "title": "Charts Made of Sticks and Shells",
+  "place": "Marshall Islands",
+  "lat": 7.09,
+  "lng": 171.38,
+  "text": "Marshallese navigators built charts from wood and cowrie shells to model how ocean swells bend around islands. The charts were mainly teaching tools, not aids used at sea. Training could start with a blindfolded canoe ride to feel the waves. The charts teach the dilep, or backbone wave, which navigators still treat as the most important wave to follow between islands.",
+  "source": {
+   "name": "Archaeology Magazine: Mapping the Past, Marshall Islands Stick Chart",
+   "url": "https://archaeology.org/issues/may-june-2019/collection/maps-marshall-islands-stick-chart/mapping-the-past/"
+  }
+ },
+ {
+  "id": "w10-tin-can-mail",
+  "era": "industrial",
+  "year": 1882,
+  "dateLabel": "1882",
+  "cat": "daily",
+  "title": "Mail by Biscuit Tin and Swimmer",
+  "place": "Niuafo'ou, Tonga",
+  "lat": -15.6,
+  "lng": -175.63,
+  "text": "Niuafo'ou has no harbour, so from 1882 passing ships dropped the island's mail overboard in sealed tins. Swimmers swam about a mile out to fetch them, and at night a bonfire on shore guided them home. Cruise passengers came to watch. After a shark killed a swimmer in 1931, canoes took over. The system only ended when the island got an airport in 1983.",
+  "source": {
+   "name": "Vincent Graves Greene Philatelic Research Foundation: Tin Can Mail, Niuafo'ou, Tonga",
+   "url": "https://www.greenefoundation.ca/news/tin-can-mail"
+  }
+ }
+]

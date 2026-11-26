@@ -1,0 +1,1173 @@
+[
+ {
+  "id": "r3l-argentinosaurus",
+  "era": "deep",
+  "year": -90000000,
+  "dateLabel": "About 90 million years ago",
+  "emoji": "🦕",
+  "cat": "nature",
+  "title": "Argentina's Slow-Walking Giant",
+  "place": "Plaza Huincul, Neuquén, Argentina",
+  "lat": -38.93,
+  "lng": -69.15,
+  "text": "Argentinosaurus was a plant-eating titanosaur about 35 metres long and around 70 tonnes, one of the largest land animals known. Its fossils are incomplete, so its exact size is uncertain. When scientists built a computer model of its skeleton and muscles, the 83-tonne virtual giant managed only a slow walking pace, well within the range of a walking human.",
+  "collections": [
+   "dinosaur-hunter"
+  ],
+  "source": {
+   "name": "Natural History Museum, London (Dino Directory: Argentinosaurus)",
+   "url": "https://www.nhm.ac.uk/discover/dino-directory/argentinosaurus.html"
+  },
+  "source2": {
+   "name": "PLOS ONE (Sellers et al. 2013, \"March of the Titans\")",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078733"
+  }
+ },
+ {
+  "id": "r3l-carnotaurus",
+  "era": "deep",
+  "year": -68000000,
+  "dateLabel": "About 68 million years ago",
+  "emoji": "🦖",
+  "cat": "nature",
+  "title": "The Horned Hunter With Scaly Skin",
+  "place": "Telsen Department, Chubut, Argentina",
+  "lat": -42.4,
+  "lng": -67.0,
+  "text": "Carnotaurus was a meat-eating dinosaur from Argentina with a pair of thick, cone-shaped horns sticking out above its eyes. Its skeleton was found with rare impressions of its skin still pressed into the rock. A study of its tail bones suggests it had huge leg-pulling muscles there, which may have made it a fast runner.",
+  "collections": [
+   "dinosaur-hunter"
+  ],
+  "source": {
+   "name": "PLOS ONE (Persons & Currie 2011, \"Dinosaur Speed Demon: The Caudal Musculature of Carnotaurus sastrei...\")",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3197156/"
+  }
+ },
+ {
+  "id": "r3l-kelenken",
+  "era": "deep",
+  "year": -15000000,
+  "dateLabel": "About 15 million years ago",
+  "emoji": "🐦",
+  "cat": "nature",
+  "title": "The Terror Bird With the Biggest Bird Skull",
+  "place": "Comallo, Río Negro, Argentina",
+  "lat": -41.03,
+  "lng": -70.27,
+  "text": "Kelenken was a \"terror bird\", a giant hunting bird that lived in Patagonia about 15 million years ago. Its skull, about 71.6 centimetres long with a very long beak, is the largest known of any bird. The species, Kelenken guillermoi, is named after Guillermo Aguirre-Zabala, who discovered the fossil at Comallo in Argentina and helped clean it.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Bertelli, Chiappe & Tambussi 2007, Journal of Vertebrate Paleontology (Universidad Nacional de La Plata repository)",
+   "url": "https://naturalis.fcnym.unlp.edu.ar/bitstreams/22815ef4-a0b9-4eed-a529-5d28b48b3da3/download"
+  }
+ },
+ {
+  "id": "r3l-campo-laborde",
+  "era": "iceage",
+  "year": -10600,
+  "dateLabel": "About 12,600 years ago",
+  "emoji": "🦥",
+  "cat": "discovery",
+  "title": "Hunters Who Took Down a Giant Sloth",
+  "place": "Campo Laborde, Buenos Aires Province, Argentina",
+  "lat": -36.9,
+  "lng": -60.3,
+  "text": "Megatherium was a giant ground sloth that roamed the grassy Pampas. At Campo Laborde, at the edge of an old swamp, people killed and butchered one about 12,600 years ago. It is the only confirmed giant ground-sloth kill site in the Americas, a clue that human hunting may have helped wipe these giants out.",
+  "collections": [
+   "beasts-through-time",
+   "becoming-human"
+  ],
+  "source": {
+   "name": "Science Advances (Politis et al. 2019), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6402857/"
+  }
+ },
+ {
+  "id": "r3l-pedra-furada",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "About 12,000 years ago",
+  "emoji": "🎨",
+  "cat": "discovery",
+  "title": "Painted Cliffs and a Fierce Debate",
+  "place": "Serra da Capivara, Piauí, Brazil",
+  "lat": -8.83,
+  "lng": -42.55,
+  "text": "Many rock shelters in Serra da Capivara are covered in paintings; the oldest site with surviving, dated rock art is about 10,500 radiocarbon years old. The real argument lies underneath Pedra Furada: hearths and chipped stones claimed to be as old as 48,000 years. Archaeologist Niède Guidon's team said people arrived far earlier than anyone thought; many experts think nature made them.",
+  "collections": [
+   "becoming-human",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/606"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Pedra-Furada"
+  }
+ },
+ {
+  "id": "r3l-guitarrero-cave",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "About 12,000 years ago",
+  "emoji": "🧺",
+  "cat": "daily",
+  "title": "South America's Oldest Textiles",
+  "place": "Guitarrero Cave, Ancash, Peru",
+  "lat": -9.2,
+  "lng": -77.71,
+  "text": "High in Peru's Andes, dry Guitarrero Cave preserved things that usually rot away, including wooden artifacts and cords. Scraps of twined plant-fiber fabric and cord, perhaps from bags, mats or bedding, are about 11,000 to 12,100 years old, the oldest textiles found in South America. Most remains come from short stays in the cave around 8000–7000 BCE.",
+  "collections": [
+   "becoming-human"
+  ],
+  "source": {
+   "name": "University of New Mexico Newsroom, 'Carbon Dating Identifies South America's Oldest Textiles' (2011, on Jolie et al., Current Anthropology)",
+   "url": "https://news.unm.edu/news/carbon-dating-identifies-south-america-e2-80-99s-oldest-textiles"
+  },
+  "source2": {
+   "name": "Science 229 (1985), Lynch et al., 'Chronology of Guitarrero Cave, Peru' (abstract, Europe PMC)",
+   "url": "https://europepmc.org/article/MED/17777927"
+  }
+ },
+ {
+  "id": "r3l-guila-naquitz",
+  "era": "iceage",
+  "year": -8000,
+  "dateLabel": "About 10,000 years ago",
+  "emoji": "🎃",
+  "cat": "discovery",
+  "title": "The First Farmers Grew Squash",
+  "place": "Guilá Naquitz Cave, Oaxaca, Mexico",
+  "lat": 16.98,
+  "lng": -96.31,
+  "text": "Foragers who used this small cave in Oaxaca left behind pieces of squash. Some are directly dated to about 10,000 years ago, making them the earliest known domesticated squash, thousands of years older than the cave's earliest maize, from about 6,300 years ago. Squash, maize and beans later became the \"Three Sisters,\" planted side by side.",
+  "collections": [
+   "food-and-drink",
+   "becoming-human"
+  ],
+  "source": {
+   "name": "PLOS ONE 2023, Kennett et al., Trans-Holocene Bayesian chronology from El Gigante rockshelter (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10289419/"
+  },
+  "source2": {
+   "name": "Scientific Reports 2024, cucurbit use in the Mesoamerican Neotropics (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11091142/"
+  }
+ },
+ {
+  "id": "r3l-first-cacao",
+  "era": "ancient",
+  "year": -3300,
+  "dateLabel": "About 3300 BCE",
+  "emoji": "🍫",
+  "cat": "daily",
+  "title": "Cacao's First Farmers",
+  "place": "Santa Ana-La Florida, Zamora-Chinchipe, Ecuador",
+  "lat": -4.62,
+  "lng": -79.13,
+  "text": "Cacao was long thought to have been first domesticated in Mesoamerica. But at Santa Ana-La Florida, in the upper Amazon of southeast Ecuador, starch grains, chemical traces and ancient DNA show people were using cacao about 5,300 years ago. It is the earliest evidence of cacao use in the Americas and the oldest known centre of cacao domestication.",
+  "collections": [
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Nature Ecology & Evolution (Zarrillo et al. 2018)",
+   "url": "https://www.nature.com/articles/s41559-018-0697-x"
+  }
+ },
+ {
+  "id": "r3l-valdivia-figurines",
+  "era": "ancient",
+  "year": -3200,
+  "dateLabel": "About 3500–3000 BCE",
+  "emoji": "🏺",
+  "cat": "culture",
+  "title": "The Little Clay Ladies of Valdivia",
+  "place": "Valdivia, Santa Elena, Ecuador",
+  "lat": -1.93,
+  "lng": -80.71,
+  "text": "Around 4000–3500 BCE, people on the coast of Ecuador carved tiny stone figures, the earliest representational images known in the Americas. About 500 years later they began shaping them in clay. Most of these Valdivia figurines seem to show women, with elaborately styled hair added as a separate cap of clay, and many were found near hearths.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline of Art History",
+   "url": "https://www.metmuseum.org/essays/valdivia-figurines"
+  }
+ },
+ {
+  "id": "r3l-chinchorro",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "Chinchorro culture, about 5450–890 BCE",
+  "emoji": "🕯️",
+  "cat": "culture",
+  "title": "The World's First Mummy Makers",
+  "place": "Arica, Chile",
+  "lat": -18.48,
+  "lng": -70.32,
+  "text": "On the desert coast of northern Chile, the Chinchorro, sea-going hunter-gatherers who lived there from about 5450 to 890 BCE, made the oldest known artificial mummies in the world. They did it for men, women and children of every rank, taking bodies apart and carefully putting them back together.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1634"
+  }
+ },
+ {
+  "id": "r3l-el-manati",
+  "era": "ancient",
+  "year": -1600,
+  "dateLabel": "About 1600 BCE",
+  "emoji": "⚫",
+  "cat": "discovery",
+  "title": "The Oldest Rubber Balls Ever Found",
+  "place": "El Manatí, Veracruz, Mexico",
+  "lat": 17.62,
+  "lng": -94.64,
+  "text": "At the foot of El Manatí hill in swampy southern Veracruz, early Olmec people left offerings: 33 wooden busts, stone axes and 14 rubber balls. The balls, estimated at 3,200 to 3,600 years old, are the oldest known, and tell us about the early Mesoamerican ballgame. Human remains found with them show it was a ritual place.",
+  "collections": [
+   "lost-and-found",
+   "inventions"
+  ],
+  "source": {
+   "name": "INAH (Instituto Nacional de Antropología e Historia), Boletín 456, 15 Sept 2025",
+   "url": "https://inah.gob.mx/images/boletines/2025/456/Boletin%20456.pdf"
+  },
+  "source2": {
+   "name": "MIT News: 'Rubber processed in ancient Mesoamerica, MIT researchers find'",
+   "url": "https://news.mit.edu/1999/rubber-0714"
+  }
+ },
+ {
+  "id": "r3l-cascajal-block",
+  "era": "ancient",
+  "year": -900,
+  "dateLabel": "About 900 BCE",
+  "emoji": "✍️",
+  "cat": "culture",
+  "title": "A Stone Slab of Mystery Signs",
+  "place": "Lomas de Tacamichapan, Veracruz, Mexico",
+  "lat": 17.96,
+  "lng": -94.73,
+  "text": "In the 1990s, road builders in Veracruz found a carved stone slab in the rubble of a gravel quarry near the Olmec center of San Lorenzo. On it are 62 unknown signs, including ones that look like maize and an insect. Dated to about 900 BCE, it may be the earliest writing in the Americas, but nobody can read it yet.",
+  "collections": [
+   "scripts-and-alphabets",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Science News (Society for Science), B. Bower, 'Scripted Stone: Ancient block may bear Americas' oldest writing' (2006)",
+   "url": "https://www.sciencenews.org/article/scripted-stone-ancient-block-may-bear-americas-oldest-writing"
+  },
+  "source2": {
+   "name": "Science 313 (2006), Rodríguez Martínez et al., 'Oldest writing in the New World' (abstract, Europe PMC); also Archaeology magazine (AIA) 'What We Learn: The Cascajal Block' (2007)",
+   "url": "https://europepmc.org/article/MED/16973873"
+  }
+ },
+ {
+  "id": "r3l-saladoid-voyagers",
+  "era": "classical",
+  "year": -400,
+  "dateLabel": "About 400 BCE",
+  "emoji": "🛶",
+  "cat": "journeys",
+  "title": "Canoe Farmers Settle the Caribbean",
+  "place": "Saladero, Monagas, Venezuela",
+  "lat": 8.7,
+  "lng": -62.2,
+  "text": "From the Orinoco River in South America, pottery-making farmers took to the sea, reaching Puerto Rico, the Virgin Islands and parts of the Lesser Antilles from about 500 BCE. Archaeologists call them Saladoid, after the site of Saladero in Venezuela. They grew manioc and made polished pots with white-on-red and multicoloured painted designs, and they are thought to have spoken an Arawakan language.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "U.S. National Park Service",
+   "url": "https://www.nps.gov/articles/caribbean-trade-and-networks.htm"
+  },
+  "source2": {
+   "name": "Florida Museum of Natural History, University of Florida",
+   "url": "https://www.floridamuseum.ufl.edu/caribarch/education/tc-archaeology/"
+  }
+ },
+ {
+  "id": "r3l-cholula-pyramid",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "About 200 BCE",
+  "emoji": "🛕",
+  "cat": "culture",
+  "title": "The Biggest Pyramid on Earth",
+  "place": "Cholula, Puebla, Mexico",
+  "lat": 19.06,
+  "lng": -98.3,
+  "text": "Building began by about the 2nd century BCE, and over roughly a thousand years this temple grew into the largest pyramid by volume anywhere, bigger even than Egypt's Great Pyramid of Giza. By the time the Spanish arrived it was so overgrown it looked like a hill, and in the late 1500s they built a church on top. Archaeologists have dug about 8 km of tunnels inside.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "INAH (Instituto Nacional de Antropologia e Historia, Mexico), Lugares INAH: Cholula",
+   "url": "https://lugares.inah.gob.mx/en/node/4336"
+  },
+  "source2": {
+   "name": "University of Calgary, G. McCafferty, 'The Great Pyramid' (Cholula)",
+   "url": "https://antharky.ucalgary.ca/mccafferty/cholula/the-great-pyramid"
+  }
+ },
+ {
+  "id": "r3l-la-tolita-platinum",
+  "era": "classical",
+  "year": 1,
+  "dateLabel": "About 2,000 years ago",
+  "emoji": "💍",
+  "cat": "discovery",
+  "title": "The World's First Platinum Smiths",
+  "place": "La Tolita Island, Esmeraldas, Ecuador",
+  "lat": 1.23,
+  "lng": -79.07,
+  "text": "On the mangrove coast where Ecuador meets Colombia, the Tumaco-La Tolita people built earth mounds and became master metalworkers. Flourishing between roughly 400 BCE and 500 CE, they crafted gold and a metal hardly anyone else could handle: platinum. Experts call them the only culture in the ancient world known to have isolated and worked it.",
+  "collections": [
+   "inventions"
+  ],
+  "source": {
+   "name": "Museo Chileno de Arte Precolombino, 'La Tolita'",
+   "url": "https://precolombino.cl/wp/en/culturas-americanas/culturas-precolombinas/intermedia/la-tolita/"
+  },
+  "source2": {
+   "name": "Latin American Antiquity (Cambridge), 'La Tolita-Tumaco Culture: Master Metalsmiths in Gold and Platinum' (abstract)",
+   "url": "https://www.cambridge.org/core/journals/latin-american-antiquity/article/la-tolitatumaco-culture-master-metalsmiths-in-gold-and-platinum/93BD10270762B074913EBBD01F44C610"
+  }
+ },
+ {
+  "id": "r3l-san-agustin",
+  "era": "classical",
+  "year": 150,
+  "dateLabel": "About 1–900 CE",
+  "emoji": "🗿",
+  "cat": "culture",
+  "title": "Colombia's Valley of Stone Guardians",
+  "place": "San Agustín, Huila, Colombia",
+  "lat": 1.92,
+  "lng": -76.23,
+  "text": "In the hills where the Magdalena River begins, chiefdom societies raised burial mounds guarded by stone statues of gods and mythical animals. About 600 statues are known, most carved between roughly 1 and 900 CE, some over 4 metres tall. The first written account came from a friar, Juan de Santa Gertrudis. UNESCO calls it South America's largest group of megalithic sculptures.",
+  "collections": [
+   "masterpieces",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre, 'San Agustín Archaeological Park'",
+   "url": "https://whc.unesco.org/en/list/744"
+  },
+  "source2": {
+   "name": "Instituto Colombiano de Antropología e Historia (ICANH), 'Parque Arqueológico San Agustín'",
+   "url": "https://www.icanh.gov.co/parques-icanh/parque-arqueologico-san-agustin"
+  }
+ },
+ {
+  "id": "r3l-cuicuilco",
+  "era": "classical",
+  "year": 280,
+  "dateLabel": "Between 245 and 315 CE",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "A City Swallowed by Lava",
+  "place": "Cuicuilco, Mexico City, Mexico",
+  "lat": 19.3,
+  "lng": -99.18,
+  "text": "Cuicuilco was one of the first true urban centres in the Basin of Mexico, with a pyramid begun a few centuries BCE, and it rivalled Teotihuacan. Radiocarbon dates suggest that sometime between about 245 and 315 CE the nearby volcano Xitle erupted and lava covered the city, and its people resettled elsewhere in the valley. Today the ruins sit among the streets of southern Mexico City.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "Aberystwyth University Research Portal: abstract of 'Timing of the prehistoric eruption of Xitle Volcano and the abandonment of Cuicuilco pyramid, southern Basin of Mexico'",
+   "url": "https://research.aber.ac.uk/en/publications/timing-of-the-prehistoric-eruption-of-xitle-volcano-and-the-aband/"
+  },
+  "source2": {
+   "name": "Oregon State University, Volcano World: 'Xitle: The Volcano that Engulfed a City'",
+   "url": "https://volcano.oregonstate.edu/news/xitle-volcano-engulfed-city"
+  }
+ },
+ {
+  "id": "r3l-marajoara",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "About 300–1350 CE",
+  "emoji": "🏺",
+  "cat": "culture",
+  "title": "Painted Pots at the Amazon's Mouth",
+  "place": "Marajó Island, Pará, Brazil",
+  "lat": -1.0,
+  "lng": -49.5,
+  "text": "On Marajó Island, where the Amazon meets the Atlantic, people made large painted pottery decorated with animals, including funeral urns nearly a meter tall, from about 300 to 1350 CE. They built big earth mounds as platforms for whole villages of longhouses, lifting them above seasonal floods. These finds point to a complex society in the Amazon.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "University of California, Berkeley, ORIAS, 'Ancient Marajo'",
+   "url": "https://orias.berkeley.edu/resources-teachers/societies-americas/ancient-maraj%C3%B3"
+  },
+  "source2": {
+   "name": "Encyclopedia of Latin American History and Culture, 'Marajoara' (Anna C. Roosevelt), via encyclopedia.com",
+   "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/marajoara"
+  }
+ },
+ {
+  "id": "r3l-tiwanaku",
+  "era": "medieval",
+  "year": 550,
+  "dateLabel": "About 500–900 CE",
+  "emoji": "🌞",
+  "cat": "culture",
+  "title": "Tiwanaku, the Stone in the Center",
+  "place": "Tiwanaku, La Paz, Bolivia",
+  "lat": -16.55,
+  "lng": -68.67,
+  "text": "Near Lake Titicaca, Tiwanaku grew from a small settlement into a planned city that reached its peak between about 500 and 900 CE. Its Gate of the Sun shows a front-facing figure holding a staff in each hand. An old Aymara name for the site means \"stone in the center\", from a belief that it lay at the center of the world.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre, 'Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture'",
+   "url": "https://whc.unesco.org/en/list/567"
+  },
+  "source2": {
+   "name": "Penn Museum, Expedition Magazine, 'Reed Boats and Experimental Archaeology on Lake Titicaca'",
+   "url": "https://www.penn.museum/sites/expedition/reed-boats-and-experimental-archaeology-on-lake-titicaca/"
+  }
+ },
+ {
+  "id": "r3l-wari-empire",
+  "era": "medieval",
+  "year": 700,
+  "dateLabel": "About 700 CE",
+  "emoji": "🌽",
+  "cat": "power",
+  "title": "The Wari Empire Terraces the Andes",
+  "place": "Huari, Ayacucho, Peru",
+  "lat": -13.06,
+  "lng": -74.2,
+  "text": "From their capital Huari, near today's Ayacucho in Peru's highlands, the Wari ruled an empire across the highlands and coast between about 600 and 1000 CE, irrigating terraced fields with canals. In 2013 archaeologists announced the first unlooted Wari royal tomb, at El Castillo de Huarmey. It held noblewomen and more than a thousand fine objects, from gold ear ornaments to silver bowls.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "National Geographic, 'First Unlooted Royal Tomb of Its Kind Unearthed in Peru' (2013)",
+   "url": "https://www.nationalgeographic.com/culture/article/130627-peru-archaeology-wari-south-america-human-sacrifice-royal-ancient-world"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Huari)",
+   "url": "https://www.britannica.com/place/Huari"
+  }
+ },
+ {
+  "id": "r3l-copan-altar-q",
+  "era": "medieval",
+  "year": 776,
+  "dateLabel": "776",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "Sixteen Kings on One Stone",
+  "place": "Copán, Honduras",
+  "lat": 14.84,
+  "lng": -89.14,
+  "text": "In 776, King Yax Pasaj of Copán had a square altar carved with all sixteen rulers of his dynasty, four on each side, each sitting on his own name glyph. The line starts with the founder Yax K'uk' Mo', who began ruling in 426, shown handing the royal scepter to Yax Pasaj himself, linking the new king directly to the founder.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Penn Museum, Expedition Magazine (R. Sharer, 'Copan Altar Q')",
+   "url": "https://www.penn.museum/sites/expedition/copan-altar-q/"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre (Maya Site of Copan)",
+   "url": "https://whc.unesco.org/en/list/129"
+  }
+ },
+ {
+  "id": "r3l-bonampak-murals",
+  "era": "medieval",
+  "year": 790,
+  "dateLabel": "About 790",
+  "emoji": "🖌️",
+  "cat": "culture",
+  "title": "The Murals That Tell a Battle",
+  "place": "Bonampak, Chiapas, Mexico",
+  "lat": 16.7,
+  "lng": -91.07,
+  "text": "Around 790, artists covered three rooms of a small temple at Bonampak, an ally of the larger city of Yaxchilan, with murals of a new heir, a raid and the fate of its captives. Though somewhat faded, the paintings are remarkably well preserved. Outsiders only saw them in 1946, when local Lacandon Maya led the photographer Giles Healey there.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Peabody Museum of Archaeology & Ethnology, Harvard University",
+   "url": "https://peabody.harvard.edu/united-fruit-company-0"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Bonampak)",
+   "url": "https://www.britannica.com/place/Bonampak"
+  }
+ },
+ {
+  "id": "r3l-eight-deer",
+  "era": "medieval",
+  "year": 1063,
+  "dateLabel": "1063–1115",
+  "emoji": "🐆",
+  "cat": "power",
+  "title": "Eight Deer, the Jaguar-Claw King",
+  "place": "Tilantongo, Oaxaca, Mexico",
+  "lat": 17.25,
+  "lng": -97.3,
+  "text": "Lord Eight Deer of Tilantongo was born in 1063 and died in 1115, the son of Lord Five Crocodile, high priest at Tilantongo. Painted Mixtec books, including the Codex Zouche-Nuttall, tell of his conquests, his visits to oracles and his war with the rival queen Lady Six Monkey. Lord Four Jaguar gave him a tecuhtli nose ornament, a symbol of the highest authority.",
+  "collections": [
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "FAMSI, John Pohl, 'Mesoamerica Ancient Books: Mixtec Group Codices' (pages 3 and 7)",
+   "url": "https://www.famsi.org/research/pohl/jpcodices/pohlmixtec7.html"
+  },
+  "source2": {
+   "name": "FAMSI, John Pohl, 'Codex Bodley'",
+   "url": "https://www.famsi.org/research/pohl/jpcodices/bodley/index.html"
+  }
+ },
+ {
+  "id": "r3l-dresden-codex",
+  "era": "medieval",
+  "year": 1150,
+  "dateLabel": "11th or 12th century",
+  "emoji": "📜",
+  "cat": "discovery",
+  "title": "The Maya Book of Venus",
+  "place": "Yucatán Peninsula, Mexico",
+  "lat": 20.6,
+  "lng": -88.8,
+  "text": "This Maya folding book of bark paper, painted in glyphs, holds remarkably accurate tables tracking the planet Venus and the moon, with intervals that match eclipses. Bought from a private owner in Vienna in 1739, it entered the royal library in Dresden, Germany, in 1744 and survived heavy water damage in World War II.",
+  "collections": [
+   "star-gazers",
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Dresden-Codex"
+  },
+  "source2": {
+   "name": "National Geographic",
+   "url": "https://www.nationalgeographic.com/history/article/maya-calendar-dresden-codex-venus-tables-archaeology-science"
+  }
+ },
+ {
+  "id": "r3l-caguana",
+  "era": "medieval",
+  "year": 1270,
+  "dateLabel": "1200s",
+  "emoji": "🪨",
+  "cat": "culture",
+  "title": "Taíno Ballcourts in the Mountains",
+  "place": "Caguana, Utuado, Puerto Rico",
+  "lat": 18.29,
+  "lng": -66.78,
+  "text": "By the 1200s, Taíno people were using a ceremonial center above Puerto Rico's Tanamá River, with about 13 plazas and ballcourts, or bateyes, edged with lines of stones. It is the largest ballcourt site in the West Indies, and some of its stones carry carved petroglyphs. The best known, the \"Caguana woman,\" is a fertility symbol that many Taíno today see as Atabey.",
+  "collections": [
+   "star-gazers"
+  ],
+  "source": {
+   "name": "Latin American Antiquity (Cambridge University Press): Rivera-Collazo, Rodríguez-Delgado & Rodríguez-Miranda 2022, 'Lidar Inspection for Indigenous Architecture at Caguana Ceremonial Complex, Borikén'",
+   "url": "https://doi.org/10.1017/laq.2021.86"
+  },
+  "source2": {
+   "name": "American Indian magazine (Smithsonian National Museum of the American Indian), 'Abuelas, Ancestors and Atabey', Fall 2018",
+   "url": "https://www.americanindianmagazine.org/story/abuelas-ancestors-and-atabey-spirit-taino-resurgence"
+  }
+ },
+ {
+  "id": "r3l-muisca-raft",
+  "era": "medieval",
+  "year": 1350,
+  "dateLabel": "About 1200–1500",
+  "emoji": "🥇",
+  "cat": "culture",
+  "title": "The Golden Raft of El Dorado",
+  "place": "Pasca, Cundinamarca, Colombia",
+  "lat": 4.31,
+  "lng": -74.3,
+  "text": "The Muisca of Colombia's highlands cast this small gold raft with figures aboard using the lost-wax method, probably between 1200 and 1500. Many link it to the ceremony behind the El Dorado legend: a new chief sailed a raft on Lake Guatavita while gold and emerald offerings were thrown into the water. Found in a cave at Pasca in 1969, it is now a national emblem.",
+  "collections": [
+   "lost-and-found",
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Banco de la República, Enciclopedia Banrepcultural, 'Balsa muisca'",
+   "url": "https://enciclopedia.banrepcultural.org/index.php?title=Balsa_muisca"
+  },
+  "source2": {
+   "name": "Banco de la República, Enciclopedia Banrepcultural, 'Balsa muisca'",
+   "url": "https://enciclopedia.banrepcultural.org/index.php?title=Balsa_muisca"
+  }
+ },
+ {
+  "id": "r3l-inca-road",
+  "era": "medieval",
+  "year": 1480,
+  "dateLabel": "Late 1400s",
+  "emoji": "🌉",
+  "cat": "journeys",
+  "title": "The Inca Road and Its Grass Bridges",
+  "place": "Queshuachaca, Cusco, Peru",
+  "lat": -14.38,
+  "lng": -71.48,
+  "text": "The Inca ran an empire of about 12 million people without wheels, tied together by more than 30,000 km of roads. Relay runners called chasquis carried messages and quipus, while llama caravans hauled goods. Rope bridges spanned the gorges, and at Queshuachaca villagers still weave a new grass bridge over the Apurímac River every June.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre, Qhapaq Ñan, Andean Road System (read via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/1459"
+  },
+  "source2": {
+   "name": "UNESCO Intangible Cultural Heritage, 'Knowledge, skills and rituals related to the annual renewal of the Q'eswachaka bridge'",
+   "url": "https://ich.unesco.org/en/RL/knowledge-skills-and-rituals-related-to-the-annual-renewal-of-the-qeswachaka-bridge-00594"
+  }
+ },
+ {
+  "id": "r3l-anacaona",
+  "era": "exploration",
+  "year": 1503,
+  "dateLabel": "1503",
+  "emoji": "🌺",
+  "cat": "power",
+  "title": "Anacaona, Poet Queen of the Taíno",
+  "place": "Léogâne, Haiti",
+  "lat": 18.51,
+  "lng": -72.63,
+  "text": "Anacaona was a Taíno poet, composer and ruler of Jaragua on Hispaniola. For years she cooperated with the Spanish, even as they enslaved her people. In 1503 Governor Nicolás de Ovando came to Jaragua with about 270 men, trapped dozens of Taíno leaders and burned them alive; Anacaona was later hanged. Caribbean poems and songs still honor her.",
+  "collections": [
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "BBC News Mundo (republished by Acento, 12 Oct 2022)",
+   "url": "https://acento.com.do/bbc-news-mundo/quieacuten-era-anacaona-la-cacique-taiacutena-que-fue-condenada-a-una-traacutegica-muerte-por-un-rumor-9117364.html"
+  }
+ },
+ {
+  "id": "r3l-quipu-ban",
+  "era": "exploration",
+  "year": 1583,
+  "dateLabel": "1583",
+  "emoji": "🪢",
+  "cat": "culture",
+  "title": "The Order to Burn the Knotted Cords",
+  "place": "Lima, Peru",
+  "lat": -12.05,
+  "lng": -77.04,
+  "text": "Quipus were bundles of knotted cords the Inca used to keep records, with knots marking numbers in a base-ten system. In 1583 the Third Council of Lima, a Church meeting, declared quipus idolatrous and ordered them destroyed. Many were lost, though more than 600 survive, and simple knotted cords stayed in use in remote Andean villages.",
+  "collections": [
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "Museo Chileno de Arte Precolombino (Quipu: Counting with knots in the Inka Empire)",
+   "url": "https://precolombino.cl/wp/en/?p=35430"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (quipu)",
+   "url": "https://www.britannica.com/technology/quipu"
+  }
+ },
+ {
+  "id": "r3l-huaynaputina",
+  "era": "exploration",
+  "year": 1600,
+  "dateLabel": "February 19, 1600",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "The Eruption That Froze Russia",
+  "place": "Huaynaputina, Moquegua, Peru",
+  "lat": -16.62,
+  "lng": -70.85,
+  "text": "On February 19, 1600, Huaynaputina in southern Peru exploded in the largest eruption in South America's recorded history, killing some 1,500 people and hurting the region's economy for decades. Its sulfur haze cooled the Northern Hemisphere, bringing bitter winters, and it is linked to Russia's famine of 1601 to 1603, the worst in Russian history.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "Smithsonian Institution Global Volcanism Program (Huaynaputina)",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=354030"
+  },
+  "source2": {
+   "name": "The Columbia Encyclopedia, 6th ed. (via Encyclopedia.com), 'Huaynaputina'",
+   "url": "https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/huaynaputina"
+  }
+ },
+ {
+  "id": "r3l-barbados-sugar",
+  "era": "exploration",
+  "year": 1640,
+  "dateLabel": "1640s",
+  "emoji": "🍬",
+  "cat": "daily",
+  "title": "Barbados Bets Everything on Sugar",
+  "place": "Bridgetown, Barbados",
+  "lat": 13.1,
+  "lng": -59.62,
+  "text": "In the 1640s, with help from Dutch traders and exiles from northern Brazil, who brought sugar know-how and windmills, the small island of Barbados turned to sugar cane. Planters first relied on white indentured servants but soon forced more and more enslaved Africans to do the brutal work. The island was stripped of its forests, a grim sign of how sugar was reshaping the Caribbean.",
+  "collections": [
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (History of Barbados)",
+   "url": "https://www.britannica.com/topic/history-of-Barbados"
+  },
+  "source2": {
+   "name": "College of Charleston Libraries, Lowcountry Digital History Initiative, 'Barbados Influence'",
+   "url": "https://ldhi.library.cofc.edu/exhibits/show/africanpassageslowcountryadapt/sectionii_introduction/barbados_influence"
+  }
+ },
+ {
+  "id": "r3l-port-royal-quake",
+  "era": "exploration",
+  "year": 1692,
+  "dateLabel": "June 7, 1692",
+  "emoji": "🏴‍☠️",
+  "cat": "nature",
+  "title": "The Pirate Port That Sank",
+  "place": "Port Royal, Jamaica",
+  "lat": 17.94,
+  "lng": -76.84,
+  "text": "Port Royal was nicknamed the \"wickedest city in the world,\" a rich harbor full of privateers and pirates. On June 7, 1692, an earthquake and tsunami sank most of the city below sea level. About 2,000 people died at once and 3,000 more in the following days. A pocket watch found in the harbor in 1959 had stopped at about 11:43 a.m.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "USGS Historic Earthquakes: Jamaica 1692 June 07 (archived; quotes Texas A&M Institute of Nautical Archaeology Port Royal Project)",
+   "url": "https://web.archive.org/web/2008/http://earthquake.usgs.gov/regional/world/events/1692_06_07.php"
+  },
+  "source2": {
+   "name": "National Geographic, 'How the wickedest city on Earth was sunk by an earthquake'",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/how-the-wickedest-city-on-earth-was-sunk-by-an-earthquake"
+  }
+ },
+ {
+  "id": "r3l-guarani-war",
+  "era": "exploration",
+  "year": 1756,
+  "dateLabel": "February 10, 1756",
+  "emoji": "⛪",
+  "cat": "power",
+  "title": "The Guaraní Fight for Their Missions",
+  "place": "São Miguel das Missões, Rio Grande do Sul, Brazil",
+  "lat": -28.55,
+  "lng": -54.56,
+  "text": "Seven Jesuit mission towns east of the Uruguay River were home to some 30,000 Guaraní people. In 1750 Spain and Portugal redrew the border and ordered the towns moved. Led by Sepé Tiaraju, the Guaraní refused. Sepé was killed on February 7, 1756, and three days later a Spanish-Portuguese army of about 3,200 attacked at Caiboaté, where about 1,500 Guaraní died and only four Europeans.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Universidade Federal Fluminense (UFF), Impressões Rebeldes: Resistência indígena nos campos de Caiboaté",
+   "url": "https://www.historia.uff.br/impressoesrebeldes/revolta/resistencia-indigena-nos-campos-de-caiboate/"
+  },
+  "source2": {
+   "name": "Tau Golin (Universidade de Passo Fundo), 'Cartografia da Guerra Guaranítica', Anais do I Simpósio Brasileiro de Cartografia Histórica (2011)",
+   "url": "https://www.ufmg.br/rededemuseus/crch/simposio/GOLIN_LUIZ_CARLOS_TAU.pdf"
+  }
+ },
+ {
+  "id": "r3l-tupac-katari",
+  "era": "exploration",
+  "year": 1781,
+  "dateLabel": "March 1781",
+  "emoji": "🐍",
+  "cat": "power",
+  "title": "Túpac Katari Besieges La Paz",
+  "place": "El Alto, Bolivia",
+  "lat": -16.5,
+  "lng": -68.19,
+  "text": "Julián Apasa, an Aymara leader, took the name Túpac Katari and claimed to rule as viceroy for the Inca Túpac Amaru. In March 1781 tens of thousands of Aymara community troops laid siege to Spanish-ruled La Paz for more than six months. His wife Bartolina Sisa rode into El Alto as the 'female viceroy'. The rebellion was crushed, and both were executed.",
+  "collections": [
+   "revolutions-and-freedom",
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "Sinclair Thomson, 'Moments of Redemption', e-misférica 12.1, Hemispheric Institute (NYU)",
+   "url": "https://hemisphericinstitute.org/en/emisferica-121-caribbean-rasanblaj/12-1-essays/e-121-essay-thomson-moments-of-redemption.html"
+  }
+ },
+ {
+  "id": "r3l-chincha-guano",
+  "era": "industrial",
+  "year": 1841,
+  "dateLabel": "1841",
+  "emoji": "🐦",
+  "cat": "daily",
+  "title": "Peru's Fortune in Bird Droppings",
+  "place": "Chincha Islands, Peru",
+  "lat": -13.64,
+  "lng": -76.4,
+  "text": "Seabird droppings piled up on Peru's Chincha Islands made a prized fertilizer called guano. In 1841 the first full cargo reached Britain, and the islands became so valuable that Spain's seizure of them led to war from 1864 to 1866. The digging was done largely by Chinese contract workers in horrific conditions; a report from the time said very few, if any, survived more than a few months.",
+  "source": {
+   "name": "Clark & Foster, 'Ecological Imperialism and the Global Metabolic Rift', International Journal of Comparative Sociology 50 (2009), author copy",
+   "url": "https://johnbellamyfoster.org/wp-content/uploads/2014/07/Foster-Clark-Ecological-Imperialism-Guano.pdf"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Chincha Islands",
+   "url": "https://www.britannica.com/place/Chincha-Islands"
+  }
+ },
+ {
+  "id": "r3l-paraguayan-war",
+  "era": "industrial",
+  "year": 1870,
+  "dateLabel": "1864–1870",
+  "emoji": "⚔️",
+  "cat": "power",
+  "title": "The War That Emptied Paraguay",
+  "place": "Cerro Corá, Amambay, Paraguay",
+  "lat": -22.66,
+  "lng": -56.03,
+  "text": "From 1864 to 1870, Paraguay fought Brazil, Argentina and Uruguay at once. The war ended when President Francisco Solano López was killed at Cerro Corá on March 1, 1870. Battle, hunger and disease killed perhaps 60 to 69 percent of Paraguayans, and an 1870 census found young women outnumbering men four or five to one. Argentina and Brazil annexed about 140,000 square kilometres of Paraguayan territory.",
+  "source": {
+   "name": "Latin American Research Review 34:1 (1999), Whigham & Potthast, 'The Paraguayan Rosetta Stone' (Cambridge)",
+   "url": "https://www.cambridge.org/core/journals/latin-american-research-review/article/paraguayan-rosetta-stone-new-insights-into-the-demographics-of-the-paraguayan-war-18641870/96CAE01376E54D5376172E9398F4951B"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'War of the Triple Alliance'",
+   "url": "https://www.britannica.com/event/War-of-the-Triple-Alliance"
+  }
+ },
+ {
+  "id": "r3l-tango",
+  "era": "industrial",
+  "year": 1880,
+  "dateLabel": "1880s",
+  "emoji": "💃",
+  "cat": "culture",
+  "title": "Tango Is Born by the River",
+  "place": "Buenos Aires, Argentina",
+  "lat": -34.6,
+  "lng": -58.38,
+  "text": "In the 1880s, a new partner dance took shape along the Río de la Plata, the river between Argentina and Uruguay. Many scholars trace the word to Ki-Kongo and say \"tango\" once covered the dances, drums and meeting places of Black communities there. In the early 1900s tango swept Paris, though by late 1913 its teachers were banished for being too racy.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, tango",
+   "url": "https://www.britannica.com/art/tango-dance"
+  },
+  "source2": {
+   "name": "Smithsonian Magazine, The First Tango in Paris Made a Stir Worth Remembering",
+   "url": "https://www.smithsonianmag.com/arts-culture/first-tango-in-paris-made-stir-worth-remembering-180984505/"
+  }
+ },
+ {
+  "id": "r3l-finlay-mosquito",
+  "era": "industrial",
+  "year": 1881,
+  "dateLabel": "1881",
+  "emoji": "🦟",
+  "cat": "discovery",
+  "title": "The Doctor Who Blamed the Mosquito",
+  "place": "Havana, Cuba",
+  "lat": 23.13,
+  "lng": -82.38,
+  "text": "In 1881 Havana doctor Carlos Finlay, who had trained in eye medicine in Paris, proposed that a mosquito spreads yellow fever from sick people to healthy ones. When he presented the idea to Havana's Royal Academy, the audience met it with ridicule. About twenty years later Walter Reed's US Army board proved him right, and Reed acknowledged Finlay's invaluable contribution.",
+  "collections": [
+   "plagues-and-cures"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, Carlos J. Finlay",
+   "url": "https://www.britannica.com/biography/Carlos-J-Finlay"
+  },
+  "source2": {
+   "name": "Hektoen International, Enrique Chaves-Carballo, 'Carlos J. Finlay: The mosquito man' (2020)",
+   "url": "https://hekint.org/2020/11/02/carlos-j-finlay-the-mosquito-man/"
+  }
+ },
+ {
+  "id": "r3l-amazon-theatre",
+  "era": "industrial",
+  "year": 1896,
+  "dateLabel": "December 31, 1896",
+  "emoji": "🎭",
+  "cat": "culture",
+  "title": "An Opera House in the Rainforest",
+  "place": "Manaus, Amazonas, Brazil",
+  "lat": -3.13,
+  "lng": -60.02,
+  "text": "Rubber made Manaus, deep in the Amazon, fabulously rich, and the city built an opera house that opened on December 31, 1896. Its dome wears 36,000 glazed tiles from Alsace in the colors of Brazil's flag, with iron columns from Glasgow and Carrara marble from Italy inside. Manaus declined in the 1920s, when the world price of natural rubber collapsed.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, Manaus",
+   "url": "https://www.britannica.com/place/Manaus"
+  },
+  "source2": {
+   "name": "National Geographic, famous theatres around the world worth visiting",
+   "url": "https://www.nationalgeographic.com/travel/article/famous-theatres-around-the-world-worth-visiting"
+  }
+ },
+ {
+  "id": "r3l-machu-picchu-1911",
+  "era": "industrial",
+  "year": 1911,
+  "dateLabel": "July 24, 1911",
+  "emoji": "🏔️",
+  "cat": "discovery",
+  "title": "Machu Picchu Reaches the World",
+  "place": "Machu Picchu, Cusco, Peru",
+  "lat": -13.16,
+  "lng": -72.55,
+  "text": "On July 24, 1911, local resident Melchor Arteaga led Yale scholar Hiram Bingham up to Machu Picchu. The Inca site was never truly lost: local people already knew of it. Bingham made it world-famous, but thousands of objects from his excavations went to Yale, which only began returning them to Peru in 2011, after a long dispute.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Yale News: Peru-Yale partnership for the future of Machu Picchu artifacts (4 June 2015)",
+   "url": "https://news.yale.edu/2015/06/04/peru-yale-partnership-future-machu-picchu-artifacts"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Machu Picchu",
+   "url": "https://www.britannica.com/place/Machu-Picchu"
+  }
+ },
+ {
+  "id": "r3l-calavera-catrina",
+  "era": "industrial",
+  "year": 1913,
+  "dateLabel": "1913",
+  "emoji": "💀",
+  "cat": "culture",
+  "title": "The Dapper Skull of the Day of the Dead",
+  "place": "Mexico City, Mexico",
+  "lat": 19.43,
+  "lng": -99.13,
+  "text": "Printmaker José Guadalupe Posada drew an elegant skeleton lady to poke fun at Mexicans who aped European high-society fashions. He called her La Calavera Garbancera, and her earliest known printing dates to around 1913. In 1947 Diego Rivera painted her into a giant mural, naming her La Calavera Catrina, and she became a beloved symbol of the Day of the Dead.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "University of Wisconsin-Madison, Community Altar project: José Guadalupe Posada and the Famous Catrina (E. Belén Chávez-Galván)",
+   "url": "https://communityaltar.wisc.edu/jose-guadalupe-posada-and-the-famous-catrina/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: José Guadalupe Posada",
+   "url": "https://www.britannica.com/biography/Jose-Guadalupe-Posada"
+  }
+ },
+ {
+  "id": "r3l-first-samba-school",
+  "era": "modern",
+  "year": 1928,
+  "dateLabel": "1928",
+  "emoji": "🥁",
+  "cat": "culture",
+  "title": "The First Samba School",
+  "place": "Estácio, Rio de Janeiro, Brazil",
+  "lat": -22.91,
+  "lng": -43.2,
+  "text": "In 1928, musicians in Rio's Estácio neighborhood founded Deixa Falar (\"Let Them Talk\"), considered the first samba school. It stood near a teachers' school, and its founders came to be known as \"professors\". In 1929 it paraded at Carnival as a bloco calling itself a samba school, and its formula gained wide attention at the 1930 and 1931 carnivals.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Dicionário Cravo Albin da Música Popular Brasileira, Ismael Silva",
+   "url": "https://dicionariompb.com.br/artista/ismael-silva/"
+  },
+  "source2": {
+   "name": "Scripta Nova (Univ. of Barcelona) XVI-418(47): N. da Nóbrega Fernandes (UFF), 'Escolas de samba, identidade nacional e o direito à cidade'",
+   "url": "https://www.ub.edu/geocrit/sn/sn-418/sn-418-47.htm"
+  }
+ },
+ {
+  "id": "r3l-two-fridas",
+  "era": "modern",
+  "year": 1939,
+  "dateLabel": "1939",
+  "emoji": "🎨",
+  "cat": "culture",
+  "title": "Frida Kahlo Paints Two Fridas",
+  "place": "Mexico City, Mexico",
+  "lat": 19.42,
+  "lng": -99.18,
+  "text": "In 1939, the year she divorced painter Diego Rivera, Frida Kahlo painted an unusually large canvas: two versions of herself sitting side by side. One wears a white European-style dress, the other a traditional Tehuana dress, and a single blood vessel links their exposed hearts, perhaps reflecting her German father and Mexican mother. The couple remarried a year later.",
+  "collections": [
+   "masterpieces",
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, Frida Kahlo",
+   "url": "https://www.britannica.com/biography/Frida-Kahlo"
+  }
+ },
+ {
+  "id": "r3l-evita-vote",
+  "era": "modern",
+  "year": 1947,
+  "dateLabel": "September 9, 1947",
+  "emoji": "🗳️",
+  "cat": "power",
+  "title": "Evita and the Women's Vote",
+  "place": "Buenos Aires, Argentina",
+  "lat": -34.61,
+  "lng": -58.39,
+  "text": "Eva Perón moved to Buenos Aires at 15 to become an actress, and later became Argentina's First Lady. She was largely responsible for winning women the vote: on September 9, 1947, Congress gave final approval to Law 13,010, granting women equal political rights. She died of cancer at just 33.",
+  "collections": [
+   "remarkable-women",
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, Eva Perón",
+   "url": "https://www.britannica.com/biography/Eva-Peron"
+  },
+  "source2": {
+   "name": "Gobierno de Argentina, 23 de septiembre de 1947: Día del voto femenino",
+   "url": "https://www.argentina.gob.ar/noticias/23-de-septiembre-de-1947-dia-del-voto-femenino"
+  }
+ },
+ {
+  "id": "r3l-macondo",
+  "era": "modern",
+  "year": 1967,
+  "dateLabel": "1967",
+  "emoji": "📚",
+  "cat": "culture",
+  "title": "The Town That Became Macondo",
+  "place": "Aracataca, Magdalena, Colombia",
+  "lat": 10.59,
+  "lng": -74.19,
+  "text": "Gabriel García Márquez spent his childhood in his grandparents' house in Aracataca, a small Colombian town that became the model for Macondo, the setting of One Hundred Years of Solitude. Published in 1967, the novel follows seven generations of the Buendía family. It has sold more than 50 million copies in more than 25 languages, and in 1982 he won the Nobel Prize.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "NobelPrize.org, 'Gabriel García Márquez - Biographical' (Nobel Prize in Literature 1982)",
+   "url": "https://www.nobelprize.org/prizes/literature/1982/marquez/biographical/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'One Hundred Years of Solitude' (Drew Milne)",
+   "url": "https://www.britannica.com/topic/One-Hundred-Years-of-Solitude"
+  }
+ },
+ {
+  "id": "r3l-plaza-de-mayo",
+  "era": "modern",
+  "year": 1977,
+  "dateLabel": "April 30, 1977",
+  "emoji": "🤍",
+  "cat": "power",
+  "title": "The Mothers of the Plaza de Mayo",
+  "place": "Plaza de Mayo, Buenos Aires, Argentina",
+  "lat": -34.61,
+  "lng": -58.37,
+  "text": "Under Argentina's military dictatorship, thousands of young people were \"disappeared\": seized by security forces and never seen again. On April 30, 1977, their mothers began gathering in the square in front of the presidential palace, defying a ban on assemblies. Their white headscarves, first made from babies' diapers, bear their children's names. They still gather on Thursdays.",
+  "collections": [
+   "remarkable-women",
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Government of Argentina, 'Las Madres de Plaza de Mayo cumplieron 45 años de lucha'",
+   "url": "https://www.argentina.gob.ar/noticias/las-madres-de-plaza-de-mayo-cumplieron-45-anos-de-lucha"
+  },
+  "source2": {
+   "name": "El Economista (Argentina), 'Taty Almeida cuenta la historia del panuelo blanco'",
+   "url": "https://eleconomista.com.ar/actualidad/taty-almeida-cuenta-historia-panuelo-blanco-n60856"
+  }
+ },
+ {
+  "id": "r3l-itaipu-dam",
+  "era": "modern",
+  "year": 1984,
+  "dateLabel": "May 5, 1984",
+  "emoji": "⚡",
+  "cat": "discovery",
+  "title": "Itaipu Dam Switches On",
+  "place": "Itaipu Dam, Brazil–Paraguay border",
+  "lat": -25.41,
+  "lng": -54.59,
+  "text": "Brazil and Paraguay built a giant dam together on the Paraná River, and its first generator started running on May 5, 1984. It became one of the world's biggest producers of hydroelectric power. The cost was high: about 65,000 people were displaced, and the reservoir drowned Guaíra Falls, which probably had the greatest volume of falling water in the world.",
+  "collections": [
+   "wonders-of-the-world",
+   "inventions"
+  ],
+  "source": {
+   "name": "Itaipu Binacional, 'Nossa história'",
+   "url": "https://www.itaipu.gov.br/institucional/sobre-itaipu/nossa-historia"
+  },
+  "source2": {
+   "name": "Global Infrastructure Hub (G20), 'Itaipu Hydroelectric Dam'",
+   "url": "https://www.gihub.org/resources/showcase-projects/itaipu-hydroelectric-dam/"
+  }
+ },
+ {
+  "id": "r3l-armero",
+  "era": "modern",
+  "year": 1985,
+  "dateLabel": "November 13, 1985",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "The Mudflow That Buried Armero",
+  "place": "Armero, Tolima, Colombia",
+  "lat": 4.96,
+  "lng": -74.91,
+  "text": "Virtually dormant since 1916, Nevado del Ruiz erupted on November 13, 1985, melting snow and ice into huge mudflows called lahars. They swept over Armero, killing more than 20,000 of its 29,000 residents, even though scientists had explained the danger to Colombia's parliament that September. A photo of Omayra Sánchez, a girl trapped in the debris, became the World Press Photo of the Year.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "Oregon State University, Volcano World: Nevado del Ruiz",
+   "url": "https://volcano.oregonstate.edu/nevado-del-ruiz"
+  },
+  "source2": {
+   "name": "USGS, This Dynamic Earth: Armero, Colombia",
+   "url": "https://pubs.usgs.gov/gip/dynamic/Armero.html"
+  }
+ },
+ {
+  "id": "r3l-lonesome-george",
+  "era": "modern",
+  "year": 2012,
+  "dateLabel": "June 24, 2012",
+  "emoji": "🐢",
+  "cat": "nature",
+  "title": "Lonesome George, Last of His Kind",
+  "place": "Santa Cruz Island, Galápagos, Ecuador",
+  "lat": -0.74,
+  "lng": -90.3,
+  "text": "In 1971 a scientist spotted a lone giant tortoise on Pinta Island, where introduced goats had devastated the tortoises' food supply. He was the last known Pinta Island tortoise, and was moved to the Charles Darwin Research Station. Lonesome George became a worldwide symbol of conservation long before he died on June 24, 2012.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Charles Darwin Foundation: Remembering the Story of Lonesome George",
+   "url": "https://www.darwinfoundation.org/en/news/all-news-stories/remembering-the-story-of-lonesome-george-in-the-galapagos-islands/"
+  },
+  "source2": {
+   "name": "Galapagos Conservancy: The Lonesome George Story (Linda Cayot)",
+   "url": "https://www.galapagos.org/thelonesomegeorgestory/"
+  }
+ },
+ {
+  "id": "r3l-kuntur-wasi",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 3,000 years ago",
+  "emoji": "👑",
+  "cat": "culture",
+  "title": "The Condor House and Its Golden Crowns",
+  "place": "Kuntur Wasi, Cajamarca, Peru",
+  "lat": -7.13,
+  "lng": -78.85,
+  "text": "Kuntur Wasi was a hilltop temple in Peru's northern Andes, one of the most important ceremonial centers of its time. From 1988, Japanese-led excavations found tombs holding gold crowns, including one with fourteen human faces. The treasures stayed home: touring exhibitions in Japan raised funds, and in 1994 a museum opened in the village, run by an association of local men and women.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Agencia Andina (Peru's state news agency), 'Cajamarca: renovado museo Kuntur Wasi reabre sus puertas' (quoting the Ministry of Culture's DDC Cajamarca)",
+   "url": "https://andina.pe/agencia/noticia-cajamarca-renovado-museo-kuntur-wasi-reabre-sus-puertas-e-incorpora-mas-piezas-originales-1011642.aspx"
+  },
+  "source2": {
+   "name": "MINCETUR (Peru Ministry of Foreign Trade and Tourism), national tourism inventory sheet 'Museo de Sitio Kuntur Wasi'",
+   "url": "https://consultasenlinea.mincetur.gob.pe/fichaInventario/index.aspx?cod_Ficha=656"
+  }
+ }
+]

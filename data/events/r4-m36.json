@@ -1,0 +1,318 @@
+[
+ {
+  "id": "m36-skjoldehamn-bog-burial",
+  "era": "medieval",
+  "year": 1075,
+  "dateLabel": "Later 11th century (found 1936)",
+  "cat": "discovery",
+  "title": "The Body in the Andøya Bog",
+  "place": "Skjoldehamn, Andøya, Nordland, Norway",
+  "lat": 68.97,
+  "lng": 15.63,
+  "text": "In 1936 a clothed skeleton, wrapped in a blanket and covered with birch bark, turned up in a bog at Skjoldehamn. The body had been laid on a reindeer pelt resting on birch sticks, and the grave dates to the 11th century, probably its later half. Its costume and pewter ornaments point to a Sámi identity, though the burial mixes several traditions.",
+  "source": {
+   "name": "Viking (University of Oslo journal), Asgeir Svestad: Svøpt i myra – Synspunkter på Skjoldehamnfunnets etniske og kulturelle tilknytning",
+   "url": "https://journals.uio.no/viking/article/view/5476"
+  }
+ },
+ {
+  "id": "m36-vardohus-fortress",
+  "era": "medieval",
+  "year": 1307,
+  "dateLabel": "About 1307",
+  "cat": "power",
+  "title": "The World's Northernmost Fortress",
+  "place": "Vardø, Finnmark, Norway",
+  "lat": 70.37,
+  "lng": 31.1,
+  "text": "Norway's King Håkon V probably set up a fortress at Vardø around 1307, to protect the Norwegian fishing settlement, assert the crown's rule over Finnmark and guard against Karelian raids. The first firm written evidence for it dates from 1339–1340. Today's eight-pointed star fort was built in 1734–1738, and Vardøhus is counted as the northernmost fortress in the world.",
+  "source": {
+   "name": "Store norske leksikon: Vardøhus festning",
+   "url": "https://snl.no/Vardøhus_festning"
+  }
+ },
+ {
+  "id": "m36-treaty-of-novgorod",
+  "era": "medieval",
+  "year": 1326,
+  "dateLabel": "June 3, 1326",
+  "cat": "power",
+  "title": "A Border That Wasn't a Line",
+  "place": "Finnmark and the Kola Peninsula (Norway and Russia)",
+  "lat": 69.6,
+  "lng": 30.0,
+  "text": "On June 3, 1326, Novgorod and Norway made peace after decades of fighting in the far north. Instead of drawing a clear frontier, their treaty created a buffer zone, the \"common districts,\" where both sides could tax the Indigenous Sámi and exploit the region's fish and fur. The arrangement lasted until the present Norwegian-Russian border was set in 1826.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Treaty of Novgorod",
+   "url": "https://www.britannica.com/event/Treaty-of-Novgorod"
+  }
+ },
+ {
+  "id": "m36-trondenes-church",
+  "era": "medieval",
+  "year": 1400,
+  "dateLabel": "About 1400",
+  "cat": "culture",
+  "title": "A Stone Church Behind Walls",
+  "place": "Trondenes, Harstad, Troms, Norway",
+  "lat": 68.82,
+  "lng": 16.56,
+  "text": "Around 1400 a Gothic stone church went up at Trondenes. It is Norway's northernmost medieval stone church, and in the Middle Ages it was ringed by a high wall with defensive towers; part of the wall and two towers still stand. Its highlights are three altarpieces made in the Hanseatic city of Lübeck in the late 1400s and early 1500s.",
+  "source": {
+   "name": "Store norske leksikon: Trondenes kirke",
+   "url": "https://snl.no/Trondenes_kirke"
+  }
+ },
+ {
+  "id": "m36-mangazeya",
+  "era": "exploration",
+  "year": 1601,
+  "dateLabel": "1601",
+  "cat": "daily",
+  "title": "Gold-Boiling Mangazeya",
+  "place": "Mangazeya, Taz River, Yamalo-Nenets Okrug, Russia",
+  "lat": 66.69,
+  "lng": 82.27,
+  "text": "In 1601 Mangazeya was built on the river Taz, beyond the Arctic Circle; Moscow's State Historical Museum calls it the first Russian city in the Arctic. Nicknamed \"gold-boiling Mangazeya,\" it remained a centre of the fur trade until the mid-1600s. Excavations at its hillfort have turned up a chess set, beads, cases for seals and a gingerbread mould shaped like a fish.",
+  "source": {
+   "name": "State Historical Museum, Moscow: Siberia in the 16th–17th centuries (hall guide)",
+   "url": "https://nav.shm.ru/en/halls/1005/"
+  }
+ },
+ {
+  "id": "m36-smeerenburg",
+  "era": "exploration",
+  "year": 1620,
+  "dateLabel": "Around 1620",
+  "cat": "daily",
+  "title": "Blubber Town at Almost 80° North",
+  "place": "Smeerenburg, Amsterdamøya, Svalbard, Norway",
+  "lat": 79.72,
+  "lng": 11.05,
+  "text": "In the years before 1620, Dutch whalers built up Smeerenburg, \"blubber town,\" as their main Arctic base, boiling whale blubber in ovens on the beach. Legends spoke of up to 20,000 inhabitants, but excavations suggest about 200 workers. The remains of 12 ovens and 101 whalers' graves are still there; the station fell into disuse in the later 1600s when the whales left.",
+  "source": {
+   "name": "Norwegian Polar Institute, Cruise Handbook for Svalbard: Smeerenburg",
+   "url": "https://cruise-handbook.npolar.no/en/nordvesthjornet/smeerenburg.html"
+  },
+  "source2": {
+   "name": "AECO site guidelines: Smeerenburg",
+   "url": "https://aeco.no/guideline/site-specific/smeerenburg/"
+  }
+ },
+ {
+  "id": "m36-maupertuis-flattened-earth",
+  "era": "exploration",
+  "year": 1736,
+  "dateLabel": "1736–1737",
+  "cat": "discovery",
+  "title": "Measuring the Shape of the Earth",
+  "place": "Tornio River valley, Lapland, on the Finland–Sweden border",
+  "lat": 66.39,
+  "lng": 23.72,
+  "text": "In 1736 the French mathematician Pierre-Louis Moreau de Maupertuis led an expedition to Lapland to measure the length of a degree along the meridian, working in the River Tornio valley into 1737. The result backed Newton: the Earth is flattened at the poles. It was the first significant triangulation survey in Northern Europe, and Voltaire later mocked Maupertuis as the \"earth flattener.\"",
+  "source": {
+   "name": "Encyclopaedia Britannica: Pierre-Louis Moreau de Maupertuis",
+   "url": "https://www.britannica.com/biography/Pierre-Louis-Moreau-de-Maupertuis"
+  },
+  "source2": {
+   "name": "National Land Survey of Finland: Struve Geodetic Arc, information for tourists",
+   "url": "https://www.maanmittauslaitos.fi/en/about-nls/themes/struve-geodetic-arc/information-tourists"
+  }
+ },
+ {
+  "id": "m36-bouvet-island",
+  "era": "exploration",
+  "year": 1739,
+  "dateLabel": "1739",
+  "cat": "journeys",
+  "title": "One of Earth's Loneliest Islands",
+  "place": "Bouvetøya, South Atlantic Ocean",
+  "lat": -54.42,
+  "lng": 3.36,
+  "text": "In 1739 the French navigator Jean-Baptiste-Charles Bouvet de Lozier found the island that now bears his name, one of the most isolated on Earth, about 2,400 km southwest of the Cape of Good Hope. Volcanic and almost entirely ice-covered, it is ringed by ice cliffs that make landing extremely difficult. Norway annexed it in 1930 and made it a nature reserve in 1971.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Bouvet Island",
+   "url": "https://www.britannica.com/place/Bouvet-Island"
+  }
+ },
+ {
+  "id": "m36-kautokeino-uprising",
+  "era": "industrial",
+  "year": 1852,
+  "dateLabel": "November 8, 1852",
+  "cat": "power",
+  "title": "Revolt in Kautokeino",
+  "place": "Kautokeino (Guovdageaidnu), Finnmark, Norway",
+  "lat": 69.01,
+  "lng": 23.04,
+  "text": "On November 8, 1852, Sámi followers of the Laestadian revival, a movement that preached against alcohol, stormed the trading post in Kautokeino and set it on fire. The trader and the local lensmann (sheriff) were killed and the priest was flogged. Two leaders, Mons Somby and Aslak Hætta, were beheaded in 1854; their skulls were finally handed back to descendants in 1997.",
+  "source": {
+   "name": "Store norske leksikon: Kautokeino-opprøret",
+   "url": "https://snl.no/Kautokeino-opprøret"
+  }
+ },
+ {
+  "id": "m36-andree-balloon",
+  "era": "industrial",
+  "year": 1897,
+  "dateLabel": "July 11, 1897",
+  "cat": "journeys",
+  "title": "By Balloon Toward the Pole",
+  "place": "Danskøya (Danes Island), Svalbard, Norway",
+  "lat": 79.68,
+  "lng": 10.9,
+  "text": "On July 11, 1897, Salomon August Andrée, photographer Nils Strindberg and Knut Fraenkel lifted off from Danes Island in a balloon, trying to reach the North Pole. After 65 hours it was forced down onto the pack ice, and the men spent over two months on the floes before reaching White Island (Kvitøya). Their bodies, a diary and still-developable film were found there by chance in 1930.",
+  "source": {
+   "name": "Scott Polar Research Institute, University of Cambridge: The Andrée Expedition",
+   "url": "https://www.spri.cam.ac.uk/museum/news/exhibitions/2014/09/04/the-andree-expedition-the-fated-expedition/"
+  },
+  "source2": {
+   "name": "Library of Congress blog: Lost on the ice, the 1897 balloon attempt to reach the North Pole",
+   "url": "https://blogs.loc.gov/loc/2026/03/lost-on-the-ice-the-1897-hot-air-balloon-attempt-to-reach-the-north-pole/"
+  }
+ },
+ {
+  "id": "m36-cape-adare-huts",
+  "era": "industrial",
+  "year": 1899,
+  "dateLabel": "February 20, 1899",
+  "cat": "daily",
+  "title": "The First Buildings in Antarctica",
+  "place": "Cape Adare, Victoria Land, Antarctica",
+  "lat": -71.31,
+  "lng": 170.2,
+  "text": "On February 20, 1899, Carsten Borchgrevink's team began building huts at remote Cape Adare, the first buildings ever put up on the Antarctic continent. They moved in on March 1 and spent the first Antarctic winter in cramped isolation; Nicolai Hanson died there in October, the first person to die on the continent. The huts still stand amid a huge Adélie penguin colony.",
+  "source": {
+   "name": "Antarctic Heritage Trust: Cape Adare buildings Antarctic's most significant",
+   "url": "https://nzaht.org/cape-adare-buildings-antarctics-most-significant/"
+  }
+ },
+ {
+  "id": "m36-grytviken-whaling",
+  "era": "industrial",
+  "year": 1904,
+  "dateLabel": "1904",
+  "cat": "daily",
+  "title": "Whaling Comes to South Georgia",
+  "place": "Grytviken, South Georgia",
+  "lat": -54.28,
+  "lng": -36.51,
+  "text": "In 1904 the Norwegian captain Carl Anton Larsen set up Grytviken, the first whaling station on South Georgia. In summer around 400 people lived and worked there, and in 1913 station workers built a Norwegian-style wooden church in their spare time. In all, 175,250 whales were killed in the waters around South Georgia from 1904 onward; Grytviken closed in 1964.",
+  "source": {
+   "name": "South Georgia Museum: History of South Georgia",
+   "url": "https://sgmuseum.gs/the-museum/history-of-south-georgia/"
+  },
+  "source2": {
+   "name": "South Georgia Museum: Discover Grytviken",
+   "url": "https://sgmuseum.gs/the-museum/grytviken/"
+  }
+ },
+ {
+  "id": "m36-mawson-far-eastern-journey",
+  "era": "industrial",
+  "year": 1912,
+  "dateLabel": "November 1912 – February 1913",
+  "cat": "journeys",
+  "title": "Alone in the Home of the Blizzard",
+  "place": "Cape Denison, Commonwealth Bay, Antarctica",
+  "lat": -67.01,
+  "lng": 142.66,
+  "text": "Douglas Mawson, Ninnis and Mertz left Cape Denison on November 10, 1912, to explore the coast. On December 14 Ninnis broke through a snow bridge into a crevasse, and with him went the best dogs, most of the food and the main tent. Mertz died on January 8. Mawson struggled on alone, sighting the hut on February 8, 1913, just as his ship Aurora steamed away.",
+  "source": {
+   "name": "Australian Antarctic Division magazine: Life and death in the Home of the Blizzard",
+   "url": "https://www.antarctica.gov.au/magazine/issue-22-2012/exploration/life-and-death-in-the-home-of-the-blizzard/"
+  },
+  "source2": {
+   "name": "Australian Antarctic Division, Home of the Blizzard: Mawson's fatal journey",
+   "url": "https://mawsonshuts.antarctica.gov.au/cape-denison/mawsons-fatal-journey/"
+  }
+ },
+ {
+  "id": "m36-svalbard-treaty",
+  "era": "modern",
+  "year": 1920,
+  "dateLabel": "February 9, 1920",
+  "cat": "power",
+  "title": "A Treaty for a No-Man's-Land",
+  "place": "Svalbard, Norway (treaty signed in Paris)",
+  "lat": 78.22,
+  "lng": 15.65,
+  "text": "Svalbard had long been a no-man's-land. On February 9, 1920, a treaty signed in Paris recognised Norway's full and unrestricted sovereignty over the archipelago, with conditions: citizens of the treaty countries got equal rights there, and Norway promised never to set up or allow naval bases or fortifications. The treaty came into force on August 14, 1925.",
+  "source": {
+   "name": "Store norske leksikon: Svalbardtraktaten",
+   "url": "https://snl.no/Svalbardtraktaten"
+  }
+ },
+ {
+  "id": "m36-finnmark-forced-evacuation",
+  "era": "modern",
+  "year": 1944,
+  "dateLabel": "October–November 1944",
+  "cat": "power",
+  "title": "Finnmark Burned and Emptied",
+  "place": "Finnmark and Nord-Troms, Norway",
+  "lat": 70.4,
+  "lng": 23.5,
+  "text": "In autumn 1944, as Soviet forces crossed the border and freed Kirkenes, Hitler ordered on October 28 that northern Norway be emptied. About 50,000 people from Finnmark and Nord-Troms were forced to leave, and coastal towns and fishing villages were razed. Around 23,000 people in Finnmark avoided evacuation; on the island of Sørøya, many survived the winter in caves.",
+  "source": {
+   "name": "Store norske leksikon: Tvangsevakueringen av Finnmark og Nord-Troms",
+   "url": "https://snl.no/tvangsevakueringen_av_Finnmark_og_Nord-Troms"
+  }
+ },
+ {
+  "id": "m36-sami-parliament",
+  "era": "modern",
+  "year": 1989,
+  "dateLabel": "October 9, 1989",
+  "cat": "power",
+  "title": "A Parliament for the Sámi",
+  "place": "Karasjok (Kárášjohka), Finnmark, Norway",
+  "lat": 69.47,
+  "lng": 25.51,
+  "text": "On October 9, 1989, King Olav V opened Norway's first official Sámi Parliament in Karasjok, set up under the Sámi Act of 1987. Voters on the Sámi electoral register elect 39 representatives from seven constituencies every four years. The parliament speaks on matters it sees as affecting the Sámi people, and since 2000 it has met in a landmark building in Karasjok.",
+  "source": {
+   "name": "Sámediggi (Sámi Parliament of Norway): Om Sametinget",
+   "url": "https://sametinget.no/om-sametinget/"
+  },
+  "source2": {
+   "name": "Store norske leksikon: Sametinget",
+   "url": "https://snl.no/Sametinget"
+  }
+ },
+ {
+  "id": "m36-steilneset-memorial",
+  "era": "modern",
+  "year": 2011,
+  "dateLabel": "June 23, 2011",
+  "cat": "culture",
+  "title": "Remembering Vardø's Witch Trials",
+  "place": "Steilneset, Vardø, Finnmark, Norway",
+  "lat": 70.38,
+  "lng": 31.08,
+  "text": "Between 1600 and 1692, witch trials in Finnmark sentenced 91 people to death: 77 women and 14 men, most of the men Sámi. On June 23, 2011, Queen Sonja opened the Steilneset memorial at Vardø, where the condemned were burned at the stake. Architect Peter Zumthor and artist Louise Bourgeois created it, with texts based on the old court records.",
+  "source": {
+   "name": "Store norske leksikon: Steilneset minnested",
+   "url": "https://snl.no/Steilneset_minnested"
+  },
+  "source2": {
+   "name": "Norwegian Scenic Routes (Norwegian Public Roads Administration): Steilneset",
+   "url": "https://www.nasjonaleturistveger.no/en/routes/varanger/steilneset/"
+  }
+ },
+ {
+  "id": "m36-verkhoyansk-heat-record",
+  "era": "modern",
+  "year": 2020,
+  "dateLabel": "June 20, 2020",
+  "cat": "nature",
+  "title": "38°C Above the Arctic Circle",
+  "place": "Verkhoyansk, Sakha Republic, Russia",
+  "lat": 67.55,
+  "lng": 133.39,
+  "text": "On June 20, 2020, Verkhoyansk in eastern Siberia, about 115 kilometres north of the Arctic Circle, reached 38°C, a temperature the World Meteorological Organization called more befitting the Mediterranean than the Arctic. It came during a long Siberian heatwave with fires and massive sea ice loss. The WMO later recognised it as a new Arctic record, in a category created for it.",
+  "source": {
+   "name": "World Meteorological Organization: WMO recognizes new Arctic temperature record of 38°C",
+   "url": "https://wmo.int/media/news/wmo-recognizes-new-arctic-temperature-record-of-380c"
+  }
+ }
+]

@@ -1,0 +1,346 @@
+[
+ {
+  "id": "z03-artemis-ii-moon-flyby",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "April 2026",
+  "cat": "journeys",
+  "title": "Four Astronauts Swing Around the Moon",
+  "place": "Launch Pad 39B, Kennedy Space Center, Florida, USA",
+  "lat": 28.63,
+  "lng": -80.62,
+  "text": "On 1 April 2026, NASA's giant SLS rocket lifted off from Pad 39B carrying Reid Wiseman, Victor Glover, Christina Koch and Canada's Jeremy Hansen in an Orion capsule they named Integrity. Passing 4,067 miles above the Moon, they reached 252,756 miles from Earth, farther than any humans before, beating Apollo 13's 1970 record. They splashed down off San Diego on 10 April.",
+  "source": {
+   "name": "NASA: NASA Welcomes Record-Setting Artemis II Moonfarers Back to Earth",
+   "url": "https://www.nasa.gov/news-release/nasa-welcomes-record-setting-artemis-ii-moonfarers-back-to-earth/"
+  }
+ },
+ {
+  "id": "z03-homo-erectus-rainforest-teeth",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "November 2026",
+  "cat": "discovery",
+  "title": "Homo erectus Hid in the Rainforest",
+  "place": "Baxian and Naxian caves, Chongzuo, Guangxi, China",
+  "lat": 22.4,
+  "lng": 107.4,
+  "text": "In November 2026, scientists announced eight Homo erectus teeth from two karst caves in Guangxi, dated 324,000 to 184,000 years ago. That makes them the youngest securely dated Homo erectus in mainland China. Chemistry in the teeth showed these people lived in dense tropical forest, a habitat once thought open only to our own species, alongside orangutans and an extinct forest elephant.",
+  "source": {
+   "name": "EurekAlert (Macquarie University): Hidden in the rainforest: The surprising last chapter of Homo erectus in China",
+   "url": "https://www.eurekalert.org/news-releases/1151969"
+  },
+  "source2": {
+   "name": "National Geographic: Homo Erectus May Have Survived in China 200,000 Years Longer Than We Thought",
+   "url": "https://www.nationalgeographic.com/history/article/homo-erectus-china-rainforest"
+  }
+ },
+ {
+  "id": "z03-xujiayao-denisovan-proteins",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "October 2026",
+  "cat": "discovery",
+  "title": "Old Skull Pieces Turn Out Denisovan",
+  "place": "Xujiayao, Nihewan Basin, northern China",
+  "lat": 40.1,
+  "lng": 113.98,
+  "text": "A skull fragment and a jaw piece dug up at Xujiayao in the 1970s got a new identity in October 2026. Qiaomei Fu's team found 18 ancient proteins in them, including a collagen variant seen only in Denisovans. 3D reconstructions suggest these lost cousins had low, flat skulls, thick bones, heavy brows and flattened faces, and probably lived right across East Asia.",
+  "source": {
+   "name": "Archaeology Magazine: Denisovan Fossils Identified",
+   "url": "https://archaeology.org/news/2026/10/27/denisovan-fossils-identified/"
+  }
+ },
+ {
+  "id": "z03-duurlig-nars-roman-glass",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "November 2026",
+  "cat": "discovery",
+  "title": "A Roman Glass Cup on the Steppe",
+  "place": "Duurlig Nars cemetery, Bayan-Adarga, Khentii, Mongolia",
+  "lat": 48.54,
+  "lng": 111.08,
+  "text": "In November 2026, Korean and Mongolian museum and academy teams reported on a 240-foot-long Xiongnu tomb at Duurlig Nars, buried under nine layers of stones more than 45 feet deep. Inside lay a lacquered carriage, 15 jade pieces echoing Han Dynasty disks, a silver gourd-shaped harness pendant, and a clear handled glass vessel thought to come from the Roman Empire.",
+  "source": {
+   "name": "Archaeology Magazine: Monumental Mongolian Tomb Excavated",
+   "url": "https://archaeology.org/news/2026/11/12/monumental-mongolian-tomb-excavated/"
+  }
+ },
+ {
+  "id": "z03-naju-hwatong-gun",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "October 2026",
+  "cat": "discovery",
+  "title": "A Pocket Cannon With Its Maker's Name",
+  "place": "Mount Geumseong, Naju, South Jeolla, South Korea",
+  "lat": 35.04,
+  "lng": 126.72,
+  "text": "In 2026, researchers in Naju identified a bronze handheld gun found on Mount Geumseong as a Hwangja Hwatong, which fired arrows or pellets. About nine inches long, it is engraved with its name, weight, supervisor, craftsman and a partial date pointing to 1377 or 1437. Firearms from the late Goryeo and early Joseon years are extremely rare finds.",
+  "source": {
+   "name": "Archaeology Magazine: Early South Korean Gunpowder Weapon Identified",
+   "url": "https://archaeology.org/news/2026/10/01/early-gunpowder-weapon-from-south-korea-identified/"
+  }
+ },
+ {
+  "id": "z03-nazca-cyclopia-infant",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "November 2026",
+  "cat": "discovery",
+  "title": "Two Baby Girls in One Nazca Jar",
+  "place": "Nazca culture cemetery, southern Peru",
+  "lat": -14.83,
+  "lng": -74.94,
+  "text": "In November 2026, Peruvian researchers described two infant girls buried together in one pot in a Nazca cemetery between 325 and 440 CE. One had cyclopia, a rare condition: a single eye socket in the middle of her forehead and no nose bones. DNA revealed an extra copy of chromosome 13, a likely cause, and showed the girls had different mothers.",
+  "source": {
+   "name": "Archaeology Magazine: Remains of Two Infant Girls Found in Peruvian Nazca Cemetery",
+   "url": "https://archaeology.org/news/2026/11/12/remains-of-two-infant-girls-found-in-peruvian-nazca-cemetery/"
+  }
+ },
+ {
+  "id": "z03-chalcatzingo-teotihuacan-glyphs",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "October 2026",
+  "cat": "discovery",
+  "title": "Red Glyphs Read Like Writing",
+  "place": "Cave 19, Chalcatzingo, Morelos, Mexico",
+  "lat": 18.68,
+  "lng": -98.77,
+  "text": "In October 2026, Christophe Helmke's team published new images of three red glyphs in a cliff cave at Chalcatzingo, left by settlers from Teotihuacan. One shows a mountain with speech scrolls, perhaps a place called Singing Mountain. Another lists a warrior's necklace, cloak and dart, like a title. Helmke argues Teotihuacan signs were a true writing system.",
+  "source": {
+   "name": "Archaeology Magazine: Cave Paintings May Have Been Part of Mesoamerican Writing System",
+   "url": "https://archaeology.org/news/2026/10/01/cave-paintings-may-have-been-part-of-mesoamerican-writing-system/"
+  }
+ },
+ {
+  "id": "z03-punin-face-rebuilt",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "October 2026",
+  "cat": "discovery",
+  "title": "A 3,000-Year-Old Andean Face Returns",
+  "place": "Punín, Chimborazo, Ecuador",
+  "lat": -1.77,
+  "lng": -78.65,
+  "text": "In 2026, forensic artist Christopher Rynn rebuilt the face of Punín-2, a man who died around age 50 about 3,000 years ago in Ecuador's Chimborazo region. His skull had lain in a ravine until the 1970s. Rynn asked local people, likely his descendants, how to style the hair and place the eyes, since a wrong hairstyle looks like a different tribe.",
+  "source": {
+   "name": "Archaeology Magazine: Face of Ancient Andean Man Reconstructed",
+   "url": "https://archaeology.org/news/2026/10/05/face-of-ancient-andean-man-reconstructed/"
+  }
+ },
+ {
+  "id": "z03-la-rochelle-stencils",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "October 2026",
+  "cat": "discovery",
+  "title": "Rare Stencilled People on a Cliff",
+  "place": "La Rochelle rock shelter, near Carolina, Mpumalanga, South Africa",
+  "lat": -26.07,
+  "lng": 30.12,
+  "text": "In October 2026, David Pearce of Wits University reported two humanlike figures stencilled onto the La Rochelle rock shelter, beside painted hartebeest and eland. Southern Africa's rock art is usually brushed or finger-painted, so stencils are rare. Pearce thinks paint was blown over a template, perhaps of beeswax, clay or wood, and the trick may once have decorated bodies and clothing too.",
+  "source": {
+   "name": "Archaeology Magazine: Stenciled Rock Art Found in South Africa",
+   "url": "https://archaeology.org/news/2026/10/28/stenciled-rock-art-found-in-south-africa/"
+  },
+  "source2": {
+   "name": "Archaeology Magazine (archaeologymag.com): First stencilled rock art in southern Africa",
+   "url": "https://archaeologymag.com/2026/10/first-stencilled-rock-art-in-southern-africa/"
+  }
+ },
+ {
+  "id": "z03-miseeda-kushite-carving",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "September 2026",
+  "cat": "discovery",
+  "title": "A Church Built Around a King",
+  "place": "Miseeda, Mahas region, northern Sudan",
+  "lat": 19.88,
+  "lng": 30.39,
+  "text": "In September 2026, University of Warsaw archaeologists suggested that a life-sized rock carving at Miseeda, near the Nile's Third Cataract, may show an ancient Kushite ruler. In the 7th century CE, Christians built a church right around it. The hill also bears a lion, an elephant, ships and crosses, and it may once have marked a border.",
+  "source": {
+   "name": "Archaeology Magazine: Ancient Carving May Represent Nubian King",
+   "url": "https://archaeology.org/news/2026/09/29/ancient-carving-may-represent-nubian-king/"
+  },
+  "source2": {
+   "name": "University of Warsaw, Faculty of Archaeology: Miseeda – church and surroundings, Mahas region, Sudan",
+   "url": "https://www.archeologia.uw.edu.pl/?p=25422"
+  }
+ },
+ {
+  "id": "z03-ethiopian-water-mouse",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "November 2026",
+  "cat": "nature",
+  "title": "A Swimming Mouse Lost for a Century",
+  "place": "Yayu Coffee Forest Biosphere Reserve, southwestern Ethiopia",
+  "lat": 8.38,
+  "lng": 35.8,
+  "text": "In November 2026, ecologist Mengistu Wale announced that a peanut-butter trap by a stream where villagers wash clothes had caught what appears to be an Ethiopian water mouse, unseen since its discovery in 1927; genetic tests are still confirming it. White spots behind its ears helped identify it. Its silky fur may keep it afloat, and its big hind feet may work like paddles.",
+  "source": {
+   "name": "National Geographic: Ethiopian water mouse rediscovered after nearly a century",
+   "url": "https://www.nationalgeographic.com/animals/article/ethiopia-water-mouse-extinct-rediscovery"
+  }
+ },
+ {
+  "id": "z03-boma-badingilo-heritage",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "July 2026",
+  "cat": "nature",
+  "title": "Six Million Antelope Win World Heritage",
+  "place": "Boma and Badingilo National Parks, South Sudan",
+  "lat": 6.4,
+  "lng": 33,
+  "text": "In July 2026, UNESCO listed South Sudan's Boma-Badingilo Migratory Landscape under its emergency procedure. Covering about 11 million hectares where the Sudd wetlands meet savanna, it may host the largest remaining land mammal migration on Earth: an estimated six million white-eared kob, tiang and Mongalla gazelle each year. It went straight onto the endangered list too.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Decision 48 COM 8B.2, Boma-Badingilo Migratory Landscape",
+   "url": "https://whc.unesco.org/en/decisions/9153"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: New Inscribed Properties (48COM)",
+   "url": "https://whc.unesco.org/en/newproperties/meeting=48COM&mode=lis"
+  }
+ },
+ {
+  "id": "z03-uruq-aljelibah-poison-points",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "November 2026",
+  "cat": "discovery",
+  "title": "Hippo Hunters of Green Arabia",
+  "place": "'Uruq Aljelibah, Mundafan basin, Rub' al-Khali, Saudi Arabia",
+  "lat": 18.55,
+  "lng": 45.37,
+  "text": "In November 2026, a Saudi and Australian team described a 125,000-year-old lakeshore in the Empty Quarter, now one of Earth's driest places. Among over 5,000 stone tools lay hippo, buffalo, camel and oryx bones. Some spear points were hafted with resin and fibre, and several carried traces of the arrow-poison tree, hinting that hunters may have used poison.",
+  "source": {
+   "name": "EurekAlert (Griffith University): 125,000-year-old Arabian lakeshore reveals poisoned hunting weapons",
+   "url": "https://www.eurekalert.org/news-releases/1150817"
+  },
+  "source2": {
+   "name": "Archaeology Magazine: Did Paleolithic Arabians Poison Their Weapons?",
+   "url": "https://archaeology.org/news/2026/11/16/did-paleolithic-arabians-poison-their-weapons/"
+  }
+ },
+ {
+  "id": "z03-tell-muhammad-tavern",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "November 2026",
+  "cat": "discovery",
+  "title": "Beer on Credit Near Baghdad",
+  "place": "Tell Muhammad, southern Baghdad, Iraq",
+  "lat": 33.3,
+  "lng": 44.45,
+  "text": "In November 2026, Nicola Laneri's team reported a possible 3,800-year-old tavern at Tell Muhammad near the Tigris: a room with a curved mudbrick counter facing the street and a basin perhaps for brewing or baking. There, a cuneiform tablet records a loan of barley and beer, signed before two witnesses. The city also had a 16-foot-thick wall and reed-and-clay water pipes.",
+  "source": {
+   "name": "Archaeology Magazine: Possible Ancient Tavern Investigated Near Baghdad",
+   "url": "https://archaeology.org/news/2026/11/20/possible-ancient-tavern-investigated-near-baghdad/"
+  }
+ },
+ {
+  "id": "z03-aqaba-reef-heritage",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "July 2026",
+  "cat": "nature",
+  "title": "The Northernmost Tropical Reef Is Honoured",
+  "place": "Aqaba Marine Reserve, Gulf of Aqaba, Jordan",
+  "lat": 29.43,
+  "lng": 34.97,
+  "text": "In July 2026, UNESCO added Jordan's Aqaba Marine Reserve to the World Heritage List. At the tip of the Red Sea, it is the world's northernmost tropical coral reef system, with heat-tolerant corals. It holds over 150 hard coral species, more than 500 kinds of fish and over 1,000 molluscs, many found only in the Red Sea.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Decision 48 COM 8B.5, Aqaba Marine Reserve",
+   "url": "https://whc.unesco.org/en/decisions/9157"
+  }
+ },
+ {
+  "id": "z03-mindoro-bleeding-heart",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "August 2026",
+  "cat": "nature",
+  "title": "A Pigeon With a Bleeding Heart Returns",
+  "place": "Puerto Galera rainforest, Mindoro Island, Philippines",
+  "lat": 13.45,
+  "lng": 120.92,
+  "text": "In August 2026, a camera trap in the Puerto Galera rainforest on Mindoro photographed a Mindoro bleeding-heart, a critically endangered ground pigeon unconfirmed for about 20 years. The project was run by Philippine conservationists with Indigenous Iraya Mangyan communities. Once common in Mindoro's lowland forests, the bird faded as most were cleared last century; its last sure photos came from near Sablayan Prison in 2005.",
+  "source": {
+   "name": "Search for Lost Birds: Critically Endangered Mindoro Bleeding-heart Rediscovered After More Than 20 Years",
+   "url": "https://searchforlostbirds.org/news/found-critically-endangered-mindoro-bleeding-heart-rediscovered-after-more-than-20-years"
+  },
+  "source2": {
+   "name": "Mongabay: A lost Philippine pigeon reappears after 20 years, but its forest is disappearing",
+   "url": "https://news.mongabay.com/2026/09/a-lost-philippine-pigeon-reappears-after-20-years-but-its-forest-is-disappearing/"
+  }
+ },
+ {
+  "id": "z03-guadalcanal-honeyeater",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "August 2026",
+  "cat": "nature",
+  "title": "Lost Songs on Guadalcanal's Highest Ridge",
+  "place": "Mount Popomanaseu, Guadalcanal, Solomon Islands",
+  "lat": -9.7,
+  "lng": 160.05,
+  "text": "In August 2026, after a landslide forced one retreat, birder Julien Mazenauer's group climbed back up a ridge on Mount Popomanaseu, the Solomon Islands' tallest peak. They heard and saw a pair of Guadalcanal honeyeaters, greyish birds with yellow neck patches, undocumented since 2015. On the same climb they photographed a rare moustached kingfisher at dawn, its first photo there since 2015.",
+  "source": {
+   "name": "Search for Lost Birds: Guadalcanal Honeyeater Rediscovered and Moustached Kingfisher Photographed",
+   "url": "https://searchforlostbirds.org/news/found-guadalcanal-honeyeater-rediscovered-and-moustached-kingfisher-photographed-in-the-montane-forests-of-the-solomon-islands"
+  }
+ },
+ {
+  "id": "z03-thirumalapuram-iron-spear",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "January 2026",
+  "cat": "discovery",
+  "title": "India's Longest Ancient Iron Spear",
+  "place": "Thirumalapuram, near Tenkasi, Tamil Nadu, India",
+  "lat": 9,
+  "lng": 77.35,
+  "text": "In January 2026, Tamil Nadu archaeologists reported an eight-foot iron spear from a burial at Thirumalapuram, said to be the longest Iron Age iron implement yet found in India. A second, 6.5-foot spear lay crossed over it in an X beside an urn holding gold objects. The burial has reportedly been dated to about 5,300 years ago, and the spear may have been a battle weapon or a mark of high status.",
+  "source": {
+   "name": "Archaeology Magazine: Iron Age Spear Excavated in Southern India",
+   "url": "https://archaeology.org/news/2026/01/29/iron-age-spear-excavated-in-southern-india/"
+  }
+ },
+ {
+  "id": "z03-sarnath-world-heritage",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "July 2026",
+  "cat": "culture",
+  "title": "The Buddha's First Sermon Site Listed",
+  "place": "Sarnath, near Varanasi, Uttar Pradesh, India",
+  "lat": 25.38,
+  "lng": 83.02,
+  "text": "In July 2026, UNESCO inscribed the Ancient Buddhist Site of Sarnath, where the Buddha is believed to have given his first sermon and met his first disciples. Its two parts, the Chaukhandi Stupa and Sarnath's ruins, hold stupas, temples and monasteries built over centuries. The site declined in the 12th century, was rediscovered in the 18th, and pilgrims returned in the 20th.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Decision 48 COM 8B.17, Ancient Buddhist Site of Sarnath",
+   "url": "https://whc.unesco.org/en/decisions/9171"
+  }
+ },
+ {
+  "id": "z03-mangystau-rock-mosques",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "July 2026",
+  "cat": "culture",
+  "title": "Underground Mosques by the Caspian",
+  "place": "Shakpak-Ata and other sacred sites, Mangystau Peninsula, Kazakhstan",
+  "lat": 44.45,
+  "lng": 50.6,
+  "text": "In July 2026, UNESCO listed five sacred complexes on Kazakhstan's dry Mangystau Peninsula, including Shopan-Ata, Shakpak-Ata and Bekete-Ata. Carved into cliffs and caves in the 12th to 14th centuries, these underground mosques honour Sufi masters, blending Islam with older Turkic ancestor veneration. Pilgrims still come, and grave guardians called shirakshi still tend the tombs and welcome them.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Decision 48 COM 8B.20, Rock Mosques and Associated Sacred Sites of Mangystau",
+   "url": "https://whc.unesco.org/en/decisions/9174"
+  }
+ }
+]

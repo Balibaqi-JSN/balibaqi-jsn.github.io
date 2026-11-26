@@ -1,0 +1,330 @@
+[
+ {
+  "id": "m20-jiskairumoko-gold-necklace",
+  "era": "ancient",
+  "year": -2155,
+  "dateLabel": "Between 2155 and 1936 BCE",
+  "cat": "discovery",
+  "title": "The Oldest Gold in the Americas",
+  "place": "Jiskairumoko, Río Ilave, Puno, Peru",
+  "lat": -16.2,
+  "lng": -69.7,
+  "text": "Near Lake Titicaca, an elderly person was buried wearing a necklace of nine gold beads mixed with green stones. Radiocarbon dates put the grave at 2155 to 1936 BCE, making the beads the earliest worked gold yet found anywhere in the Americas. Surprisingly, the owners were not rich kings but a small community of hunters and gatherers starting to settle down.",
+  "source": {
+   "name": "PNAS (via PubMed Central): Four-thousand-year-old gold artifacts from the Lake Titicaca basin, southern Peru",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2278197"
+  }
+ },
+ {
+  "id": "m20-buena-vista-temple-of-the-fox",
+  "era": "ancient",
+  "year": -2200,
+  "dateLabel": "About 2200 BCE",
+  "cat": "culture",
+  "title": "The Temple of the Fox",
+  "place": "Buena Vista, Chillón Valley, Lima, Peru",
+  "lat": -11.83,
+  "lng": -76.98,
+  "text": "In the Chillón Valley near Lima stands a temple from about 2200 BCE. At its entrance, archaeologist Robert Benfer found a mural of a fox carved inside a painted llama. Its offering chamber lines up with a rock on an eastern ridge, pointing to where the sun rises on December 21, the southern summer solstice.",
+  "source": {
+   "name": "University of Missouri release via Phys.org: Researcher unearths earliest Western sculptures and astronomical alignments in Peru",
+   "url": "https://phys.org/news/2006-04-unearths-earliest-western-sculptures-astronomical.html"
+  }
+ },
+ {
+  "id": "m20-lady-of-pacopampa",
+  "era": "ancient",
+  "year": -850,
+  "dateLabel": "About 900–800 BCE",
+  "cat": "discovery",
+  "title": "The Lady of Pacopampa",
+  "place": "Pacopampa, Chota, Cajamarca, Peru",
+  "lat": -6.33,
+  "lng": -79.02,
+  "text": "In 2009 a Japanese-Peruvian team found a woman buried at the ancient temple of Pacopampa in Peru's northern highlands. About 1.55 metres tall, she lay curled up and surrounded by gold pendants, necklaces and plates. Team leader Yuji Seki estimated she was 30 to 40 years old and lived 800 to 900 years before Christ.",
+  "source": {
+   "name": "AFP via Phys.org: Japanese help uncover ancient Peru remains",
+   "url": "https://phys.org/news/2009-09-japanese-uncover-ancient-peru.html"
+  },
+  "source2": {
+   "name": "Archaeology (Archaeological Institute of America): 3,000-Year-Old Tomb Found in Peru",
+   "url": "https://archaeology.org/news/2023/08/29/230830-peru-pacopampa-tomb/"
+  }
+ },
+ {
+  "id": "m20-casarabe-amazon-towns",
+  "era": "classical",
+  "year": 500,
+  "dateLabel": "From about 500 CE (lasting to about 1400)",
+  "cat": "daily",
+  "title": "Pyramids of the Bolivian Savanna",
+  "place": "Llanos de Mojos, near Casarabe, Beni, Bolivia",
+  "lat": -14.85,
+  "lng": -64.4,
+  "text": "From about 500 CE, the Casarabe people built towns in the flooded savannas of the Bolivian Amazon. Laser scans from the air, called lidar, revealed terraces 5 metres high, conical pyramids 21 metres tall, straight causeways, checkpoints and water reservoirs. The finds challenge the old idea that western Amazonia was only thinly populated before the Spanish arrived.",
+  "source": {
+   "name": "University of Exeter: Newly discovered ancient Amazon settlements revealed by lidar",
+   "url": "https://news-archive.exeter.ac.uk/2022/may/articles/newlydiscoveredancientama.html"
+  }
+ },
+ {
+  "id": "m20-teyuna-lost-city",
+  "era": "medieval",
+  "year": 850,
+  "dateLabel": "9th century CE",
+  "cat": "daily",
+  "title": "Colombia's Lost City in the Clouds",
+  "place": "Teyuna (Ciudad Perdida), Sierra Nevada de Santa Marta, Magdalena, Colombia",
+  "lat": 11.04,
+  "lng": -73.93,
+  "text": "Archaeologists believe the Tairona built Teyuna in the 9th century in the jungle-covered Sierra Nevada de Santa Marta, with a staircase of around 1,200 steps. Between 2,000 and 8,000 people may have lived there. It was abandoned in the 1600s, and the nearby Kogi, Wiwa, Arhuaco and Kankuamo peoples are seen as living descendants of the Tairona.",
+  "source": {
+   "name": "National Geographic: Tales of ancient treasures lured looters to Colombia's 'Lost City'",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/ancient-lost-city-colombia-teyuna"
+  }
+ },
+ {
+  "id": "m20-huarmey-wari-queens",
+  "era": "medieval",
+  "year": 750,
+  "dateLabel": "About 750 CE",
+  "cat": "power",
+  "title": "The Tomb of the Wari Queens",
+  "place": "Castillo de Huarmey, Áncash, Peru",
+  "lat": -10.07,
+  "lng": -78.15,
+  "text": "Around 750 CE, three or possibly four royal women of the Wari Empire were laid to rest at Castillo de Huarmey, beside 40 noblewomen seated in burial positions. The tomb, found unlooted in 2013 by Polish and Peruvian archaeologists, held over 1,300 objects, including weaving tools of gold and silver. It hints at how powerful women were at the top of Wari society.",
+  "source": {
+   "name": "Archaeology (Archaeological Institute of America): A Wari Matriarchy?",
+   "url": "https://archaeology.org/issues/january-february-2014/digs-discoveries/wari-castillo-de-huarmey-peru-tomb/"
+  }
+ },
+ {
+  "id": "m20-curalaba-mapuche-victory",
+  "era": "exploration",
+  "year": 1598,
+  "dateLabel": "1598",
+  "cat": "power",
+  "title": "The Mapuche Win at Curalaba",
+  "place": "Curalaba, near Lumaco, Araucanía, Chile",
+  "lat": -38.15,
+  "lng": -72.9,
+  "text": "In 1598 Mapuche warriors defeated a Spanish force at Curalaba in southern Chile, and the governor, Martín García Oñez de Loyola, was beheaded. The Spanish were forced to fall back north of the Biobío River, abandoning the cities they had founded in the south. Valdivia fell in 1599, followed by La Imperial and Angol in 1600.",
+  "source": {
+   "name": "Memoria Chilena (Biblioteca Nacional de Chile): La Guerra de Arauco (1550-1656)",
+   "url": "https://www.memoriachilena.gob.cl/602/w3-article-691.html"
+  }
+ },
+ {
+  "id": "m20-eloisa-diaz-first-doctor",
+  "era": "industrial",
+  "year": 1887,
+  "dateLabel": "January 3, 1887",
+  "cat": "discovery",
+  "title": "South America's First Woman Doctor",
+  "place": "Santiago, Chile",
+  "lat": -33.44,
+  "lng": -70.65,
+  "text": "A decree of 1877 finally let Chilean girls sit university entrance exams, and Eloísa Díaz entered the University of Chile's medical school in 1881. On January 3, 1887, President Balmaceda handed her the title of surgeon. She went on to inspect Santiago's public schools and led the national school medical service from 1911 until 1940, caring for children's health and food.",
+  "source": {
+   "name": "Memoria Chilena (Biblioteca Nacional de Chile): Eloísa Díaz Insunza (1866-1950)",
+   "url": "https://www.memoriachilena.gob.cl/602/w3-article-636811.html"
+  }
+ },
+ {
+  "id": "m20-gabriela-mistral-nobel",
+  "era": "modern",
+  "year": 1945,
+  "dateLabel": "December 10, 1945",
+  "cat": "culture",
+  "title": "A Nobel Prize for Gabriela Mistral",
+  "place": "Vicuña, Coquimbo, Chile",
+  "lat": -30.03,
+  "lng": -70.71,
+  "text": "On December 10, 1945, the Chilean poet Gabriela Mistral received the Nobel Prize in Literature from King Gustav. No Latin American had ever won it before, and only four women had. The Swedish Academy praised her lyricism, inspired by powerful feeling, as a symbol of Latin American idealism. Her home town, Vicuña, had already named her its favourite daughter in 1925.",
+  "source": {
+   "name": "Memoria Chilena (Biblioteca Nacional de Chile): Premio Nobel de Literatura (1945)",
+   "url": "https://www.memoriachilena.gob.cl/602/w3-article-96132.html"
+  }
+ },
+ {
+  "id": "m20-bogotazo",
+  "era": "modern",
+  "year": 1948,
+  "dateLabel": "April 9, 1948",
+  "cat": "power",
+  "title": "The Day Bogotá Burned",
+  "place": "Bogotá, Colombia",
+  "lat": 4.6,
+  "lng": -74.07,
+  "text": "On April 9, 1948, the popular Liberal leader Jorge Eliécer Gaitán was shot dead in Bogotá. His furious working- and middle-class supporters attacked government buildings, churches and a Conservative newspaper, and many shops were looted. Hundreds were killed or wounded before order returned on April 11, and the riot deepened the partisan violence tearing Colombia apart.",
+  "source": {
+   "name": "Encyclopedia of Latin American History and Culture (Helen Delpar), via Encyclopedia.com: Bogotazo",
+   "url": "https://encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/bogotazo"
+  }
+ },
+ {
+  "id": "m20-zenu-canals-san-jorge",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "From about 200 BCE",
+  "cat": "daily",
+  "title": "The Zenú Tame a Flooded Land",
+  "place": "San Marcos, La Mojana, Sucre, Colombia",
+  "lat": 8.66,
+  "lng": -75.13,
+  "text": "From about 200 BCE, the Zenú turned one of the Americas' biggest flood zones, in Colombia's Caribbean lowlands, into farmland. They dug canals up to four kilometres long and raised ridges about three metres high, in fishbone, fan and chessboard patterns, to steer the water away. These ditches and raised fields covered about half a million hectares and are still visible today.",
+  "source": {
+   "name": "LACMA (Los Angeles County Museum of Art): Zenú ditch-and-raised-field systems",
+   "url": "https://www.lacma.org/es/node/41472"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre (Tentative List): Pre-Hispanic Hydraulic System of the San Jorge River",
+   "url": "https://whc.unesco.org/en/tentativelists/5764"
+  }
+ },
+ {
+  "id": "m20-huaca-del-sol-bricks",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "About 100 CE",
+  "cat": "culture",
+  "title": "143 Million Bricks for the Sun",
+  "place": "Huacas de Moche, Moche Valley, La Libertad, Peru",
+  "lat": -8.13,
+  "lng": -78.99,
+  "text": "Around 100 CE, the Moche began building the Huaca del Sol and Huaca de la Luna in Peru's Moche Valley. The sun-dried adobe bricks carry makers' marks, ranging from hand- and footprints to circles and squiggles. When finished, the Huaca del Sol held an estimated 143 million bricks, painted red on the outside.",
+  "source": {
+   "name": "The Met, Heilbrunn Timeline of Art History: Central and Southern Andes, 1–500 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/05/sac"
+  }
+ },
+ {
+  "id": "m20-ingapirca-canari-noblewoman",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "About 1200",
+  "cat": "culture",
+  "title": "The Cañari Noblewoman of Ingapirca",
+  "place": "Ingapirca, Cañar, Ecuador",
+  "lat": -2.54,
+  "lng": -78.88,
+  "text": "Around 1200 at Ingapirca, northeast of Cuenca in the southern Andes of Ecuador, a Cañari noblewoman aged between 20 and 30 was buried with all her finery. Ten male and female attendants were laid to rest with her. Her grave was marked with a stone pavement and a standing stone slab, called a stela, at one end.",
+  "source": {
+   "name": "The Met, Heilbrunn Timeline of Art History: Northern Andes, 1000–1400 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/07/san"
+  }
+ },
+ {
+  "id": "m20-diaguita-duck-jars",
+  "era": "medieval",
+  "year": 1000,
+  "dateLabel": "About 1000",
+  "cat": "culture",
+  "title": "The Diaguita and Their Duck Jugs",
+  "place": "Elqui Valley, Coquimbo, Chile",
+  "lat": -29.95,
+  "lng": -70.8,
+  "text": "Around 1000 CE, the Diaguita culture clearly emerged in the Huasco, Elqui, Limarí and Choapa valleys of northern Chile. They lived from farming, herding and the sea, and painted pottery with white, black and red geometric designs, including a famous duck-shaped jug. They reached their peak around 1300 and joined the Inka Empire around 1400.",
+  "source": {
+   "name": "Museo Chileno de Arte Precolombino: The art of being Diaguita – A bit of history",
+   "url": "https://precolombino.cl/wp/en/exposiciones/exposiciones-temporales/el-arte-de-ser-diaguita/un-poco-de-historia/"
+  }
+ },
+ {
+  "id": "m20-manteno-sailing-raft",
+  "era": "exploration",
+  "year": 1526,
+  "dateLabel": "About 1526",
+  "cat": "journeys",
+  "title": "A Sailing Raft Meets a Spanish Ship",
+  "place": "Pacific coast off Manabí, Ecuador",
+  "lat": -1.0,
+  "lng": -80.9,
+  "text": "The Manteño people of coastal Ecuador dove for bright red Spondylus shells and sailed balsa rafts, with trade reaching as far as western Mexico. Around 1526, a giant Indigenous sailing raft met a Spanish ship. It carried silver and gold ornaments, textiles and mirrors to barter, and the Spanish sailors took the raft's crew captive.",
+  "source": {
+   "name": "UC Berkeley ORIAS: Manteño",
+   "url": "https://orias.berkeley.edu/resources-teachers/societies-americas/mante%C3%B1o"
+  }
+ },
+ {
+  "id": "m20-antonio-ricardo-first-press",
+  "era": "exploration",
+  "year": 1584,
+  "dateLabel": "July 14, 1584",
+  "cat": "discovery",
+  "title": "South America's First Printing Press",
+  "place": "Lima, Peru",
+  "lat": -12.05,
+  "lng": -77.03,
+  "text": "Italian-born printer Antonio Ricardo sailed from Acapulco in 1580 with his press and settled in Lima. On July 14, 1584, he printed a decree removing ten days from the calendar, the earliest known work from a South American press. He then printed the Doctrina Christiana, a catechism with Spanish set above parallel columns of Quechua and Aymara.",
+  "source": {
+   "name": "John Carter Brown Library: Antonio Ricardo, a 16th century printer on both sides of the Equator",
+   "url": "https://jcblibrary.org/news/antonio-ricardo-16th-century-printer-both-sides-equator/"
+  }
+ },
+ {
+  "id": "m20-la-condamine-measure-earth",
+  "era": "exploration",
+  "year": 1736,
+  "dateLabel": "1736",
+  "cat": "discovery",
+  "title": "Measuring the Earth at the Equator",
+  "place": "Quito, Ecuador",
+  "lat": -0.22,
+  "lng": -78.51,
+  "text": "In 1736 French scientists including La Condamine, Bouguer and Godin reached Quito, joined by two Spanish naval officers, and laid out a 10-kilometre baseline near the equator. High altitude, suspicious locals and bitter quarrels slowed them by years. But their survey confirmed that the Earth is flattened at the poles, backing Newton over Descartes.",
+  "source": {
+   "name": "Physics World (Institute of Physics): review of Measure of the Earth by Larrie D. Ferreiro",
+   "url": "https://physicsworld.com/?p=33822"
+  }
+ },
+ {
+  "id": "m20-humboldt-chimborazo",
+  "era": "industrial",
+  "year": 1802,
+  "dateLabel": "1802",
+  "cat": "journeys",
+  "title": "Humboldt on Chimborazo",
+  "place": "Chimborazo, Ecuador",
+  "lat": -1.47,
+  "lng": -78.82,
+  "text": "In 1802 Alexander von Humboldt climbed Chimborazo to 19,286 feet, the highest anyone had then climbed. Snow fell, his shoes were terrible, and their soles were shredded on jagged rocks until his feet bled. Stopped by a huge crevasse below the peak, he saw nature as a global force with matching climate and vegetation zones.",
+  "source": {
+   "name": "National Geographic: Interview with Andrea Wulf on Alexander von Humboldt",
+   "url": "https://www.nationalgeographic.com/adventure/article/150913-humboldt-south-america-nature-book-talk-simon-worrall-andrea-wulf-darwin-orinoco"
+  }
+ },
+ {
+  "id": "m20-battle-of-pichincha",
+  "era": "industrial",
+  "year": 1822,
+  "dateLabel": "May 24, 1822",
+  "cat": "power",
+  "title": "Victory on a Volcano's Slopes",
+  "place": "Cerro Pichincha, Quito, Ecuador",
+  "lat": -0.17,
+  "lng": -78.53,
+  "text": "On May 24, 1822, rebel forces commanded by Antonio José de Sucre defeated Spanish royalists on the lower slopes of Pichincha, an Andean volcano. The next day the rebels occupied nearby Quito. Simón Bolívar was acclaimed liberator, and Ecuador was joined to the new but short-lived Republic of Gran Colombia.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Battle of Pichincha",
+   "url": "https://www.britannica.com/event/Battle-of-Pichincha"
+  }
+ },
+ {
+  "id": "m20-bolivian-national-revolution",
+  "era": "modern",
+  "year": 1952,
+  "dateLabel": "April 1952",
+  "cat": "power",
+  "title": "Bolivia's National Revolution",
+  "place": "La Paz, Bolivia",
+  "lat": -16.5,
+  "lng": -68.15,
+  "text": "In April 1952 the MNR party, backed by armed workers, civilians and peasants, overthrew Bolivia's military regime. That year everyone got the vote when literacy requirements were scrapped, and in October the three largest tin-mining companies were nationalized. A sweeping land reform in 1953 gave Indigenous peoples land and freed them from servile labour obligations.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Bolivia – The rise of new political groups and the Bolivian National Revolution",
+   "url": "https://www.britannica.com/place/Bolivia/Increase-in-tin-mining"
+  }
+ }
+]

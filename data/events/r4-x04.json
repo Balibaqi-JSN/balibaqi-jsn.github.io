@@ -1,0 +1,322 @@
+[
+ {
+  "id": "x04-malindi-pilot",
+  "era": "exploration",
+  "year": 1498,
+  "dateLabel": "April 14, 1498",
+  "cat": "journeys",
+  "title": "Malindi Points the Way to India",
+  "place": "Malindi, Kilifi County, Kenya",
+  "lat": -3.22,
+  "lng": 40.12,
+  "text": "Vasco da Gama's fleet anchored at the Swahili port of Malindi on April 14, 1498. There a Gujarati pilot who knew the route to Calicut, on India's southwest coast, came aboard. After a 23-day run across the Indian Ocean, the crew sighted India's Ghats mountains, and the ships reached Calicut on May 20.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Vasco da Gama",
+   "url": "https://www.britannica.com/biography/Vasco-da-Gama"
+  }
+ },
+ {
+  "id": "x04-sapi-ivories",
+  "era": "exploration",
+  "year": 1510,
+  "dateLabel": "c. 1490–1530",
+  "cat": "culture",
+  "title": "Sapi Ivories for Portuguese Patrons",
+  "place": "Coast of Sierra Leone",
+  "lat": 7.55,
+  "lng": -12.6,
+  "text": "Sapi carvers in Sierra Leone turned West African ivory, which Europeans called \"white gold\", into lidded saltcellars and spoons for Portuguese buyers. Patrons sometimes brought silverware to copy, yet the artists added their own flat geometric patterns. The round bowls may echo the calabash gourd, still used across Africa as a container and in musical instruments.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Afro-Portuguese Ivories",
+   "url": "https://www.metmuseum.org/essays/afro-portuguese-ivories"
+  }
+ },
+ {
+  "id": "x04-benin-brass-plaques",
+  "era": "exploration",
+  "year": 1540,
+  "dateLabel": "c. 1540–70",
+  "cat": "culture",
+  "title": "Brass Plaques for Benin's Palace",
+  "place": "Benin City, Edo State, Nigeria",
+  "lat": 6.34,
+  "lng": 5.63,
+  "text": "Benin traded pepper, textiles and ivory for large amounts of imported metal, and the royal brass-casters' guild turned it into art. Around 1540 to 1570 they cast plaques that hung on the wooden pillars of the oba's palace, showing the king, courtiers and foreign visitors. One shows Portuguese traders with brass manillas, linking these newcomers with wealth.",
+  "source": {
+   "name": "The Metropolitan Museum of Art: Plaque with Oba (King) or Chief",
+   "url": "https://www.metmuseum.org/art/collection/search/316489"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art: Plaque with Portuguese Traders and Manillas",
+   "url": "https://www.metmuseum.org/art/collection/search/316486"
+  }
+ },
+ {
+  "id": "x04-galawdewos-lake-tana",
+  "era": "exploration",
+  "year": 1543,
+  "dateLabel": "February 21, 1543",
+  "cat": "power",
+  "title": "Galawdewos Wins Back Ethiopia",
+  "place": "Weyna Dega, near Lake Tana, Ethiopia",
+  "lat": 11.85,
+  "lng": 37.6,
+  "text": "After years of defeats by Ahmad Gran of Adal, the young emperor Galawdewos switched to hit-and-run warfare in Ethiopia's rugged hills. Near Lake Tana he caught Ahmad in the open, and Ahmad was killed in the fighting. His army broke, and that single death ended the war, returning north-central Ethiopia to the Christian kingdom.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Ethiopia, the Zagwe and Solomonic dynasties",
+   "url": "https://www.britannica.com/place/Ethiopia/The-Zagwe-and-Solomonic-dynasties"
+  }
+ },
+ {
+  "id": "x04-idris-alawma-bornu",
+  "era": "exploration",
+  "year": 1571,
+  "dateLabel": "c. 1571",
+  "cat": "power",
+  "title": "Idris Alawma Rebuilds Bornu",
+  "place": "Birni Ngazargamu, Yobe State, Nigeria",
+  "lat": 13.0,
+  "lng": 12.0,
+  "text": "Around 1571 Idris Alawma became mai, or king, of Kanem-Bornu, an old Muslim trading empire around Lake Chad that linked North Africa, the Nile valley and lands to the south. Ruling from Birni Ngazargamu, west of the lake, he extended and consolidated the state until about 1603. The earliest mention of firearms in this region appears to date from his reign.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Kanem-Bornu",
+   "url": "https://www.britannica.com/place/Kanem-Bornu"
+  },
+  "source2": {
+   "name": "Journal of African History (H.J. Fisher and V. Rowland): Firearms in the Central Sudan",
+   "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/firearms-in-the-central-sudan/6E62EDB849B9F16A83DEB9A956EC11A9"
+  }
+ },
+ {
+  "id": "x04-amina-of-zazzau",
+  "era": "exploration",
+  "year": 1575,
+  "dateLabel": "Late 1500s",
+  "cat": "power",
+  "title": "Queen Amina Expands Zazzau",
+  "place": "Zaria, Kaduna State, Nigeria",
+  "lat": 11.07,
+  "lng": 7.71,
+  "text": "Zazzau was the southernmost of the Hausa states, where camel caravans from the Sahara traded salt for cloth, leather, grain and captives. In the later 1500s its ruler, Queen Amina, enlarged her realm by conquering the Nupe and Jukun kingdoms. Even the powerful Hausa cities of Kano and Katsina had to pay her tribute.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Zaria (historical kingdom)",
+   "url": "https://www.britannica.com/place/Zaria-historical-kingdom-and-province-Nigeria"
+  }
+ },
+ {
+  "id": "x04-oromo-gada-expansion",
+  "era": "exploration",
+  "year": 1600,
+  "dateLabel": "By 1600",
+  "cat": "journeys",
+  "title": "The Oromo Spread North",
+  "place": "Southern and central highlands, Ethiopia",
+  "lat": 6.5,
+  "lng": 39.2,
+  "text": "The Oromo were herders from the upper Genale River basin. Their gada system grouped all males born in the same eight-year span, who moved through life's stages together. In the 1500s their warrior groups began long-distance expeditions, and by 1600 the Oromo had spread so widely that the emperor governed only Ethiopia's northern regions.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Assefa Mehretu et al.): Ethiopia, the Zagwe and Solomonic dynasties",
+   "url": "https://www.britannica.com/place/Ethiopia/The-Zagwe-and-Solomonic-dynasties"
+  }
+ },
+ {
+  "id": "x04-antemoro-writing",
+  "era": "exploration",
+  "year": 1630,
+  "dateLabel": "By the 1630s",
+  "cat": "culture",
+  "title": "Malagasy Written in Arabic Letters",
+  "place": "Matitana River valley, Vatovavy, Madagascar",
+  "lat": -22.36,
+  "lng": 47.84,
+  "text": "Between 1507 and 1513, Afro-Arab newcomers known as the \"Moors from Malindi\" settled in the Matitana valley of southeastern Madagascar and merged with local people to form the Antemoro. By the 1630s the Antemoro had a state led by holy clans, the only one on the island with written texts: Malagasy words in the Arabic alphabet.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Maureen Ann Covell et al.): History of Madagascar",
+   "url": "https://www.britannica.com/place/Madagascar/History"
+  }
+ },
+ {
+  "id": "x04-muzura-maravi",
+  "era": "exploration",
+  "year": 1632,
+  "dateLabel": "Early 1630s",
+  "cat": "power",
+  "title": "Muzura's Maravi Strike the Coast",
+  "place": "Southern end of Lake Malawi, Malawi",
+  "lat": -14.4,
+  "lng": 35.2,
+  "text": "From the southern end of Lake Malawi, the Maravi ruler Muzura built a powerful state that took tribute from the Portuguese and their allies. In the early 1630s he joined a Karanga and Manyika alliance to drive the Portuguese out of the Zambezi lands and attacked the port of Quelimane. The attack failed, and he turned to the Shire Highlands, trading ivory and, increasingly, slaves.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Shula E. Marks): Southern Africa, European and African interaction from the 15th through the 18th century",
+   "url": "https://www.britannica.com/place/Southern-Africa/European-and-African-interaction-from-the-15th-through-the-18th-century"
+  }
+ },
+ {
+  "id": "x04-walatta-petros-life",
+  "era": "exploration",
+  "year": 1672,
+  "dateLabel": "1672",
+  "cat": "culture",
+  "title": "The Saint Who Defied the Jesuits",
+  "place": "Lake Tana region, Amhara, Ethiopia",
+  "lat": 11.75,
+  "lng": 37.44,
+  "text": "Walatta Petros, born in 1594 to noble parents, publicly rebuked Emperor Susenyos when he turned Catholic, even though he threatened her family. She resisted Jesuit efforts to re-educate her and founded seven monastic communities. After her death in 1642, nuns told her story aloud, and a monk wrote it down in 1672, the oldest known book-length biography of an African woman by an African author.",
+  "source": {
+   "name": "American Historical Association, Perspectives on History (Allison Miller): The Saint Who Sent the Jesuits Packing",
+   "url": "https://www.historians.org/perspectives-article/the-saint-who-sent-the-jesuits-packing-a-new-translation-of-an-ethiopian-manuscript-sheds-light-on-african-womens-anticolonialism-november-2015/"
+  }
+ },
+ {
+  "id": "x04-cape-slave-lodge",
+  "era": "exploration",
+  "year": 1679,
+  "dateLabel": "1679",
+  "cat": "daily",
+  "title": "The Cape's Windowless Slave Lodge",
+  "place": "Cape Town, Western Cape, South Africa",
+  "lat": -33.93,
+  "lng": 18.42,
+  "text": "In 1679 the Dutch East India Company built a new lodge beside its gardens for the people it enslaved, who came from Madagascar and parts of western and eastern Africa. The building had no windows, only barred slits, and was wet, dark and dirty. By the mid-1700s about a thousand people lived there. Today it is a museum.",
+  "source": {
+   "name": "Iziko Museums of South Africa: The building (Slave Lodge)",
+   "url": "https://slavery.iziko.org.za/slavelodgebuilding/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Shula E. Marks): Southern Africa, European and African interaction",
+   "url": "https://www.britannica.com/place/Southern-Africa/European-and-African-interaction-from-the-15th-through-the-18th-century"
+  }
+ },
+ {
+  "id": "x04-pate-resistance",
+  "era": "exploration",
+  "year": 1696,
+  "dateLabel": "1696",
+  "cat": "power",
+  "title": "Pate Leads the Swahili Resistance",
+  "place": "Pate, Lamu archipelago, Kenya",
+  "lat": -2.14,
+  "lng": 40.98,
+  "text": "The Swahili town of Pate, in the Lamu islands, became the centre of East Africa's resistance to Portuguese rule. In 1696, allied with Pate, the imam of Oman sailed in with more than 3,000 men to besiege Mombasa, which fell in 1698. Afterwards Pate, Lamu, Kilwa and Zanzibar largely kept free of both Omani and Portuguese control.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Harold G. Marcus et al.): Eastern Africa, the Portuguese invasion",
+   "url": "https://www.britannica.com/place/eastern-Africa/The-Portuguese-invasion"
+  }
+ },
+ {
+  "id": "x04-khoekhoe-smallpox",
+  "era": "exploration",
+  "year": 1713,
+  "dateLabel": "1713",
+  "cat": "nature",
+  "title": "Smallpox Strikes the Khoekhoe",
+  "place": "Southwestern Cape (near Paarl), Western Cape, South Africa",
+  "lat": -33.73,
+  "lng": 18.97,
+  "text": "Since the late 1500s, Khoekhoe herders at the Cape had bartered cattle with passing ships for iron, copper, beads and tobacco. As Dutch demand for livestock grew, they became wary and conflicts followed. Then, beginning in 1713, smallpox ravaged many Khoekhoe communities. By the end of the 1700s their chiefdoms were largely destroyed.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Andries Nel et al.): South Africa, the Iron Age and Europeans in South Africa",
+   "url": "https://www.britannica.com/place/South-Africa/The-Iron-Age"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Shula E. Marks): Southern Africa, European and African interaction",
+   "url": "https://www.britannica.com/place/Southern-Africa/European-and-African-interaction-from-the-15th-through-the-18th-century"
+  }
+ },
+ {
+  "id": "x04-oyo-cavalry",
+  "era": "exploration",
+  "year": 1726,
+  "dateLabel": "1726",
+  "cat": "power",
+  "title": "Oyo's Horsemen Ride on Dahomey",
+  "place": "Oyo-Ile (Old Oyo), Oyo State, Nigeria",
+  "lat": 8.93,
+  "lng": 4.38,
+  "text": "Oyo, the northernmost Yoruba kingdom, used its cavalry to control trade routes to the coast. In 1726 Oyo first invaded Dahomey, easily defeating King Agaja's army and burning his capital, Abomey. Although Dahomey's soldiers carried muskets, Oyo's horsemen were consistently successful against them, and by 1730 Agaja had to pay tribute.",
+  "source": {
+   "name": "Encyclopaedia Britannica (T.C. McCaskie): Western Africa, the southward expansion of Oyo",
+   "url": "https://www.britannica.com/place/western-Africa/The-southward-expansion-of-Oyo"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Agaja",
+   "url": "https://www.britannica.com/biography/Agaja"
+  }
+ },
+ {
+  "id": "x04-fouta-djallon",
+  "era": "exploration",
+  "year": 1729,
+  "dateLabel": "Late 1720s",
+  "cat": "power",
+  "title": "A Muslim State in the Highlands",
+  "place": "Timbo, Fouta Djallon, Guinea",
+  "lat": 10.63,
+  "lng": -11.83,
+  "text": "In the late 1720s, Fulbe and Malinke Muslims led by Karamoko Alfa and Ibrahima Sori launched a jihad in the Fouta Djallon highlands of Guinea, where great rivers like the Gambia and Senegal begin. It created a Muslim state ruled from Timbo, which went on to organise trade with the coast and dominated central and coastal Guinea.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Fouta Djallon",
+   "url": "https://www.britannica.com/place/Fouta-Djallon"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (T.C. McCaskie): Western Africa, the Islamic revolution in the western Sudan",
+   "url": "https://www.britannica.com/place/western-Africa/The-Islamic-revolution-in-the-western-Sudan"
+  }
+ },
+ {
+  "id": "x04-kazembe-kingdom",
+  "era": "exploration",
+  "year": 1740,
+  "dateLabel": "About 1740",
+  "cat": "journeys",
+  "title": "Lunda Explorers Found Kazembe",
+  "place": "Luapula valley, Luapula Province, Zambia",
+  "lat": -9.8,
+  "lng": 28.75,
+  "text": "About 1740 an exploring party from the western Lunda empire created a new kingdom, Kazembe. Its greatest ruler, Kazembe II Kaniembo, conquered neighbouring states and gave citizenship to the people he conquered, binding them with a network of tribute and trade. Kazembe became the largest and most highly organised of all the Lunda kingdoms.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Kazembe",
+   "url": "https://www.britannica.com/place/Kazembe"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Lunda empire",
+   "url": "https://www.britannica.com/place/Lunda-empire"
+  }
+ },
+ {
+  "id": "x04-asante-osei-kwadwo",
+  "era": "exploration",
+  "year": 1764,
+  "dateLabel": "About 1764",
+  "cat": "power",
+  "title": "Asante Kings Hire on Merit",
+  "place": "Besease, near Kumasi, Ashanti Region, Ghana",
+  "lat": 6.69,
+  "lng": -1.47,
+  "text": "Starting with Osei Kwadwo, who took the throne about 1764, Asante kings built a strong central state with a merit-based bureaucracy and a fine communications system. Shrines near Kumasi from this great age have walls of timber, bamboo and mud plaster, decorated with bold reliefs of spirals, animals and plants linked to Adinkra symbols.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Asante empire",
+   "url": "https://www.britannica.com/place/Asante-empire"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Asante Traditional Buildings",
+   "url": "https://whc.unesco.org/en/list/35"
+  }
+ },
+ {
+  "id": "x04-freetown-nova-scotians",
+  "era": "exploration",
+  "year": 1792,
+  "dateLabel": "January 1792",
+  "cat": "journeys",
+  "title": "Black Loyalists Sail to Freetown",
+  "place": "Freetown, Sierra Leone",
+  "lat": 8.48,
+  "lng": -13.23,
+  "text": "Thomas Peters was born around 1738 in what is now Nigeria and enslaved in North America. He escaped, served the British, then fought for the land Black Loyalists had been promised in Nova Scotia. In January 1792 almost 1,200 Black settlers, about a third recruited by Peters, sailed from Halifax to Africa, where they founded Freetown.",
+  "source": {
+   "name": "The Canadian Encyclopedia (James W. St.G. Walker, Tabitha de Bruin): Thomas Peters",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/thomas-peters"
+  }
+ }
+]

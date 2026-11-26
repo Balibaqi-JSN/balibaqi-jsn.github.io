@@ -1,0 +1,980 @@
+[
+ {
+  "id": "r3o-diprotodon",
+  "era": "deep",
+  "year": -1700000,
+  "dateLabel": "Pleistocene Ice Age (roughly 1.8 million years ago onward)",
+  "emoji": "🦛",
+  "cat": "nature",
+  "title": "The Largest Marsupial Ever",
+  "place": "Wellington Caves, New South Wales, Australia",
+  "lat": -32.6,
+  "lng": 148.94,
+  "text": "Diprotodon was the largest marsupial that ever lived: nearly 4 metres long and up to about 2,800 kilograms, though still smaller than a hippo or rhino. Its bones are known from Wellington Caves and many other sites, and in 1838 it became the first fossil mammal named from Australia. It lived alongside the first Aboriginal people for thousands of years.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Australian Museum",
+   "url": "https://australian.museum/learn/australia-over-time/extinct-animals/diprotodon-optatum/"
+  }
+ },
+ {
+  "id": "r3o-kow-swamp",
+  "era": "iceage",
+  "year": -11000,
+  "dateLabel": "Roughly 15,000 to 9,000 years ago",
+  "emoji": "🦴",
+  "cat": "discovery",
+  "title": "The Ancestors of Kow Swamp",
+  "place": "Ghow (Kow) Swamp, Victoria, Australia",
+  "lat": -35.95,
+  "lng": 144.32,
+  "text": "Beside an old lake shore at Kow Swamp lay perhaps the largest group of human burials known from the late Ice Age, about 15,000 to 9,000 years old. Archaeologists dug them up in the late 1960s without the Traditional Owners' approval. Around 1990 the remains were returned to the Yorta Yorta community, who reburied them.",
+  "collections": [
+   "becoming-human",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Journal of Human Evolution (Stone and Cupper 2003), abstract via Europe PMC",
+   "url": "https://europepmc.org/article/MED/14529647"
+  },
+  "source2": {
+   "name": "National Museum of Australia, Repatriation handbook ch. 2",
+   "url": "https://www.nma.gov.au/about/publications/repatriation-handbook/chapter-2"
+  }
+ },
+ {
+  "id": "r3o-wyrie-boomerang",
+  "era": "iceage",
+  "year": -8000,
+  "dateLabel": "About 10,000 years ago",
+  "emoji": "🪃",
+  "cat": "discovery",
+  "title": "Australia's Oldest Known Boomerangs",
+  "place": "Wyrie Swamp, South Australia",
+  "lat": -37.6,
+  "lng": 140.4,
+  "text": "In 1973, archaeologist Roger Luebbers dug wooden boomerangs out of a peat bog at Wyrie Swamp in South Australia. At about 10,000 years old, they are the oldest known boomerangs in Australia. Wet peat kept the wood from rotting away, and one is now kept by the South Australian Museum.",
+  "collections": [
+   "becoming-human",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "South Australian Museum, \"Alive with Wonder: Highlights of the South Australian Museum\"",
+   "url": "https://docs.samuseum.sa.gov.au/bl1q2z4wy"
+  }
+ },
+ {
+  "id": "r3o-wandjina",
+  "era": "medieval",
+  "year": 600,
+  "dateLabel": "Age uncertain (perhaps the last 1,500 years)",
+  "emoji": "🌧️",
+  "cat": "culture",
+  "title": "The Wandjina of the Kimberley",
+  "place": "Kimberley, Western Australia",
+  "lat": -16.5,
+  "lng": 125.9,
+  "text": "Wandjina are powerful creator beings painted in rock shelters, found only in the Kimberley region of northwest Australia. The ghostlike figures have large white faces and no mouths, and the paintings are traditionally renewed by repainting. They are far from ancient history: the Mowanjum community, home to Worrorra, Ngarinyin and Wunambal people, are custodians of Wandjina law and imagery today.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/art/Wandjina-style"
+  },
+  "source2": {
+   "name": "ANU Press, Humanities Research XV.2 (2009), 'Antiquity of the Wandjina'",
+   "url": "https://press-files.anu.edu.au/downloads/press/p14881/mobile/ch10s06.html"
+  }
+ },
+ {
+  "id": "r3o-chamorro-arrive",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 1500 BCE",
+  "emoji": "🛶",
+  "cat": "journeys",
+  "title": "Seafarers Reach the Marianas",
+  "place": "Guam",
+  "lat": 13.44,
+  "lng": 144.79,
+  "text": "About 3,500 years ago, Austronesian-speaking seafarers crossed some 1,300 miles of open ocean to settle the Mariana Islands, becoming the ancestors of the Chamorro people. Most evidence points to a start in the northern or central Philippines, though a route from Indonesia has also been proposed. Their descendants made pottery, wove coconut leaves and later built latte structures.",
+  "collections": [
+   "pacific-voyagers"
+  ],
+  "source": {
+   "name": "Guampedia (Guam's online encyclopedia): 'Origin of Guam's Indigenous People'",
+   "url": "https://www.guampedia.com/origin-of-guams-indigenous-people/"
+  },
+  "source2": {
+   "name": "Guampedia: Ancient Guam",
+   "url": "https://www.guampedia.com/ancient-guam/"
+  }
+ },
+ {
+  "id": "r3o-ambum-stone",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 1500 BCE",
+  "emoji": "🗿",
+  "cat": "culture",
+  "title": "The Mysterious Ambum Stone",
+  "place": "Ambum Valley, Papua New Guinea",
+  "lat": -5.5,
+  "lng": 143.7,
+  "text": "This finely pecked stone carving from Enga Province in the New Guinea highlands is now in the National Gallery of Australia. Similar Enga stone figures have been carbon dated to about 3,500 years ago. It may show an echidna or a mythical creature. It was made as a pestle, and was later used as a fertility object.",
+  "collections": [
+   "masterpieces",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Bowers Museum: 'Sailing Stones: Prehistoric Art of Melanesia'",
+   "url": "https://bowers.org/index.php/collection/collections-blog/sailing-stones-prehistoric-art-of-melanesia"
+  }
+ },
+ {
+  "id": "r3o-dingo-arrives",
+  "era": "ancient",
+  "year": -1250,
+  "dateLabel": "About 3,300–3,100 years ago",
+  "emoji": "🐕",
+  "cat": "nature",
+  "title": "The Dingo Lands in Australia",
+  "place": "Madura Caves, Nullarbor Plain, Australia",
+  "lat": -31.9,
+  "lng": 127.0,
+  "text": "The oldest directly dated dingo bones in Australia, from Madura Cave on the Nullarbor Plain, are between 3,348 and 3,081 years old. Dingoes probably arrived by boat with people from Southeast Asia. They may have helped drive the thylacine, or Tasmanian tiger, off the mainland, though this is debated. Dingoes never reached Tasmania, where thylacines hung on.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Scientific Reports (Nature): Balme, O'Connor & Fallon 2018, 'New dates on dingo bones from Madura Cave'",
+   "url": "https://www.nature.com/articles/s41598-018-28324-x"
+  }
+ },
+ {
+  "id": "r3o-mulifanua-lapita",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1000 BCE",
+  "emoji": "🏺",
+  "cat": "discovery",
+  "title": "Ancient Pots Under a Ferry Wharf",
+  "place": "Mulifanua, Upolu, Samoa",
+  "lat": -13.83,
+  "lng": -171.98,
+  "text": "In the early 1970s, blasting and dredging to make a berth for Samoa's inter-island ferries hit something unexpected: a Lapita village now under the sea. The dredging brought up thousands of pieces of locally made pottery, about 3,000 years old. It remains the only place in Samoa with decorated, dentate-stamped Lapita pottery, made by the famous Lapita voyagers.",
+  "collections": [
+   "pacific-voyagers",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Pacific Science 29 (1975), R. C. Green & H. G. Richards, 'Lapita Pottery and a Lower Sea Level in Western Samoa' (University of Hawai'i ScholarSpace, full text)",
+   "url": "https://scholarspace.manoa.hawaii.edu/handle/10125/1510"
+  },
+  "source2": {
+   "name": "Radiocarbon 43 (2001), F. Petchey, 'Radiocarbon Determinations from the Mulifanua Lapita Site, Upolu, Western Samoa' (abstract via Crossref)",
+   "url": "https://doi.org/10.1017/s0033822200031635"
+  }
+ },
+ {
+  "id": "r3o-sigatoka-dunes",
+  "era": "ancient",
+  "year": -600,
+  "dateLabel": "Over 2,600 years ago",
+  "emoji": "🏜️",
+  "cat": "discovery",
+  "title": "Secrets in Fiji's Sand Dunes",
+  "place": "Sigatoka Sand Dunes, Viti Levu, Fiji",
+  "lat": -18.17,
+  "lng": 177.48,
+  "text": "Fiji's tall coastal dunes hold layers of human settlement going back about 2,600 years and have produced the largest collection of complete Lapita pots in the Pacific. A burial ground dug in 1987-88 held 55 people buried around the middle of the first millennium CE. Shifting sands keep uncovering pottery and stone tools, and in 1989 the dunes became Fiji's first national park.",
+  "collections": [
+   "lost-and-found",
+   "pacific-voyagers"
+  ],
+  "source": {
+   "name": "PLOS ONE (2024), 'Life histories in Fiji as reconstructed from first millennium CE Sigatoka Sand Dune burials using isotopes' (PMC11081393)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11081393/"
+  },
+  "source2": {
+   "name": "National Trust of Fiji, 'Sigatoka Sand Dunes'",
+   "url": "https://nationaltrust.org.fj/ssd/"
+  }
+ },
+ {
+  "id": "r3o-torres-strait",
+  "era": "classical",
+  "year": -500,
+  "dateLabel": "About 2,500 years ago",
+  "emoji": "🐢",
+  "cat": "daily",
+  "title": "A Sea Culture Between Two Lands",
+  "place": "Torres Strait Islands, Australia",
+  "lat": -10.0,
+  "lng": 142.5,
+  "text": "Archaeologists still debate when people first lived on the Torres Strait Islands, between Australia and New Guinea; some sites hint at much earlier visits. By about 3,000 to 2,500 years ago, seafaring people with ties to New Guinea were settling many of the islands, living mainly by hunting and gathering from the sea. On some islands, gardening later became important too.",
+  "collections": [
+   "pacific-voyagers"
+  ],
+  "source": {
+   "name": "Australian National University Open Research (David et al. 2004, Archaeology in Oceania)",
+   "url": "https://openresearch-repository.anu.edu.au/items/2eb1ae78-2587-49b5-beb6-9bf3e7d82720"
+  },
+  "source2": {
+   "name": "Memoirs of the Queensland Museum, Cultural Heritage Series (Barham et al. 2004)",
+   "url": "https://www.museum.qld.gov.au/assets/media/project/qm/qm-website/collections-and-research/memoirs/cultural-memoirs/culture-volume-3/mqm-c3-1-1-barham-et-al.pdf"
+  }
+ },
+ {
+  "id": "r3o-chuuk-settlers",
+  "era": "classical",
+  "year": 1,
+  "dateLabel": "About 2,000 years ago",
+  "emoji": "🏝️",
+  "cat": "journeys",
+  "title": "First Homes in Chuuk Lagoon",
+  "place": "Fefen (Fefan), Chuuk, Micronesia",
+  "lat": 7.45,
+  "lng": 151.85,
+  "text": "Chuuk Lagoon is a wide Micronesian lagoon whose name means 'high mountains' in the Chuukese language. People were living here about 2,000 years ago: pottery from a site now underwater off Fefen island dates from about 2,350 to 1,650 years ago. Much later the lagoon became a Japanese fleet anchorage, heavily bombed by American forces in February 1944.",
+  "collections": [
+   "pacific-voyagers"
+  ],
+  "source": {
+   "name": "Jeffery, McKinnon & Van Tilburg 2021, 'Underwater Cultural Heritage in the Pacific', International Journal of Asia Pacific Studies 17(2)",
+   "url": "https://ijaps.usm.my/wp-content/uploads/2021/07/IJAPS172_Art6-135-168.pdf"
+  },
+  "source2": {
+   "name": "Naval History and Heritage Command, H-Gram 026-3 'Operation Hailstone - Carrier Raid on Truk Island, 17-18 February 1944'",
+   "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-026/H-026-3.html"
+  }
+ },
+ {
+  "id": "r3o-tui-tonga",
+  "era": "medieval",
+  "year": 950,
+  "dateLabel": "From at least the 10th century",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "The Rise of the Tuʻi Tonga",
+  "place": "Mua, Tongatapu, Tonga",
+  "lat": -21.17,
+  "lng": -175.12,
+  "text": "From at least the 10th century, Tonga was ruled by a line of sacred kings, the Tuʻi Tonga. Their chiefdom became a maritime power whose influence spread widely across the central Pacific. From the 1300s-1400s their capital at Lapaha, on the lagoon at Mua, grew into a ceremonial centre of huge stone-faced royal tombs, with a wharf for mooring large double-hulled canoes.",
+  "collections": [
+   "pacific-voyagers"
+  ],
+  "source": {
+   "name": "Clark, Burley & Murray 2008, 'Monumentality and the development of the Tongan maritime chiefdom', Antiquity 82 (ANU Open Research full text)",
+   "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/795dc36b-7232-4c7a-91f6-b57ffdf20d51/content"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Tonga: History' (Sione Latukefu)",
+   "url": "https://www.britannica.com/place/Tonga/History"
+  }
+ },
+ {
+  "id": "r3o-latte-stones",
+  "era": "medieval",
+  "year": 1000,
+  "dateLabel": "About 1000",
+  "emoji": "🍄",
+  "cat": "culture",
+  "title": "Stone Mushrooms of the Marianas",
+  "place": "House of Taga, Tinian, Northern Mariana Islands",
+  "lat": 14.96,
+  "lng": 145.63,
+  "text": "About 1,000 years ago, the Chamorro people began raising houses on latte stones: stone pillars topped with rounded caps, set curved side down and flat side up. The caps may have helped keep crabs and vermin out. The largest standing latte, at the House of Taga on Tinian, are about 15 feet long overall, and on Rota even bigger latte were left unfinished in their quarry.",
+  "collections": [
+   "pacific-voyagers"
+  ],
+  "source": {
+   "name": "Guampedia (Guam's online encyclopedia), Lawrence J. Cunningham, 'Latte Structures'",
+   "url": "https://www.guampedia.com/?p=141"
+  },
+  "source2": {
+   "name": "Guampedia, 'Latte's Significance' and 'Latte Structures' (Lawrence J. Cunningham)",
+   "url": "https://guampedia.com/?p=320"
+  }
+ },
+ {
+  "id": "r3o-taputapuatea",
+  "era": "medieval",
+  "year": 1000,
+  "dateLabel": "About 1000",
+  "emoji": "🪨",
+  "cat": "culture",
+  "title": "Taputapuātea, Heart of the Voyagers",
+  "place": "Opoa, Raiatea, French Polynesia",
+  "lat": -16.83,
+  "lng": -151.36,
+  "text": "On Raiatea stands Taputapuātea, a marae complex whose central marae, an open-air temple, is dedicated to the god ʻOro. Its importance grew with the power of the Tamatoa line of chiefs, and it became the centre of an alliance reaching across much of Polynesia, held together by canoe voyaging. UNESCO lists it as a testimony to 1,000 years of Maʻohi civilisation.",
+  "collections": [
+   "pacific-voyagers",
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre, Taputapuatea (via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/1529"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Taputapuātea (read in browser)",
+   "url": "https://whc.unesco.org/en/list/1529"
+  }
+ },
+ {
+  "id": "r3o-hawaii-settled",
+  "era": "medieval",
+  "year": 1100,
+  "dateLabel": "About 1000–1290 (debated)",
+  "emoji": "🌺",
+  "cat": "journeys",
+  "title": "Voyagers Find Hawaiʻi",
+  "place": "Island of Hawaiʻi, USA",
+  "lat": 19.6,
+  "lng": -155.5,
+  "text": "Polynesian voyagers reached the Hawaiian Islands sometime between about 1000 and 1290; scholars still debate the exact date, and one major radiocarbon study puts it in the 1200s. Small settlements grew into chiefdoms ruling whole islands, and chiefs used genealogy chants to prove their right to rule. For a while canoes sailed between Hawaiʻi and Tahiti, but those voyages ended by about 1400.",
+  "collections": [
+   "pacific-voyagers",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Wilmshurst et al. 2011, PNAS (via PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3033267/"
+  },
+  "source2": {
+   "name": "Matsumoto & Berger, He Huakaʻi Honua: Journeys in World History I (Honolulu Community College / UH Pressbooks), ch. 8",
+   "url": "https://pressbooks-dev.oer.hawaii.edu/honcchist151/chapter/8-americas-and-oceania/"
+  }
+ },
+ {
+  "id": "r3o-haamonga",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "13th century",
+  "emoji": "⛩️",
+  "cat": "culture",
+  "title": "The 'Stonehenge of the Pacific'",
+  "place": "Niutōua, Tongatapu, Tonga",
+  "lat": -21.14,
+  "lng": -175.05,
+  "text": "King Tuʻitātui built Haʻamonga ʻa Maui, 'the Burden of Maui', in the 13th century: two upright coral limestone slabs topped by a third. Each upright weighs roughly 30 to 40 tons above ground. Some say it honoured his two sons; others think it may also mark sunrise at the solstices and equinoxes.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "World History Commons (Roy Rosenzweig Center for History and New Media / World History Association)",
+   "url": "https://worldhistorycommons.org/haamonga-maui-tonga"
+  }
+ },
+ {
+  "id": "r3o-leluh",
+  "era": "medieval",
+  "year": 1350,
+  "dateLabel": "14th century",
+  "emoji": "🏯",
+  "cat": "power",
+  "title": "Leluh, the Walled Island City",
+  "place": "Lelu Island, Kosrae, Micronesia",
+  "lat": 5.33,
+  "lng": 163.03,
+  "text": "On little Lelu Island off Kosrae stood Leluh, the island's ancient capital, built with walls of basalt and coral. At its peak about 1,500 people lived there, from kings and chiefs to commoners. In the 14th century its rulers built pyramid-shaped coral tombs, where royal bodies were laid before the bones were reburied on the reef.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "Science Advances, Richards et al. 2015, 'New precise dates for the ancient and sacred coral pyramidal tombs of Leluh (Kosrae, Micronesia)' (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4643814/"
+  },
+  "source2": {
+   "name": "Archaeology magazine (AIA), 'Leluh Island's Temporary Royal Tombs Are 700 Years Old' (2015)",
+   "url": "https://www.archaeology.org/news/3094-150318-leluh-ruins-kosrae-micronesia"
+  }
+ },
+ {
+  "id": "r3o-haasts-eagle",
+  "era": "medieval",
+  "year": 1445,
+  "dateLabel": "About 500–600 years ago",
+  "emoji": "🦅",
+  "cat": "nature",
+  "title": "Goodbye to the Biggest Eagle Ever",
+  "place": "Canterbury, South Island, New Zealand",
+  "lat": -43.4,
+  "lng": 172.0,
+  "text": "Haast's eagle, weighing up to about 15 kilograms, was the largest eagle known to have existed. It hunted moa, giant flightless birds that could weigh around 200 kilograms. After Māori arrived, people overhunted the moa and burned forests where its prey lived, and the eagle died out about 500 to 600 years ago, around the same time as the moa.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Museum of New Zealand Te Papa Tongarewa, 'Haast's eagle'",
+   "url": "https://collections.tepapa.govt.nz/topic/2504"
+  },
+  "source2": {
+   "name": "Proceedings of the Royal Society B (2021), 'New Zealand's extinct giant raptor (Hieraaetus moorei) killed like an eagle, ate like a condor' (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8634616/"
+  }
+ },
+ {
+  "id": "r3o-magellan-guam",
+  "era": "exploration",
+  "year": 1521,
+  "dateLabel": "March 6, 1521",
+  "emoji": "⛵",
+  "cat": "journeys",
+  "title": "Magellan Meets the Flying Proas",
+  "place": "Umatac, Guam",
+  "lat": 13.3,
+  "lng": 144.66,
+  "text": "After crossing the Pacific, Magellan's three hungry ships reached Guam. Chamorro outrigger canoes called proas raced out so fast they seemed to fly, and Magellan named the place the Islands of Lateen Sails. Chamorros then helped themselves to things on deck, following their own ideas about sharing property, and the Spanish branded the islands the 'Islands of Thieves'.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Guampedia (Ferdinand Magellan)",
+   "url": "https://www.guampedia.com/ferdinand-magellan/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Ferdinand Magellan: Discovery of the Strait)",
+   "url": "https://www.britannica.com/biography/Ferdinand-Magellan/Discovery-of-the-Strait-of-Magellan"
+  }
+ },
+ {
+  "id": "r3o-roi-mata",
+  "era": "exploration",
+  "year": 1600,
+  "dateLabel": "About 1600",
+  "emoji": "🪦",
+  "cat": "discovery",
+  "title": "Chief Roi Mata's Grave Found by Legend",
+  "place": "Eretoka (Hat Island), Vanuatu",
+  "lat": -17.63,
+  "lng": 168.18,
+  "text": "Roi Mata was a chiefly title in central Vanuatu, and its most famous holder lived around 1600. In 1967 French archaeologist José Garanger, guided by local people who knew the traditions, found his grave on Eretoka island. More than 50 people were buried with him. His home, death place and grave became World Heritage Sites in 2008.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre (Chief Roi Mata's Domain), text via UNESCO open data API",
+   "url": "https://whc.unesco.org/en/list/1280"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Vanuatu history, Roy Mata)",
+   "url": "https://www.britannica.com/biography/Roy-Mata"
+  }
+ },
+ {
+  "id": "r3o-hartog-plate",
+  "era": "exploration",
+  "year": 1616,
+  "dateLabel": "October 25, 1616",
+  "emoji": "🍽️",
+  "cat": "journeys",
+  "title": "A Dinner Plate Left on a Beach",
+  "place": "Cape Inscription, Dirk Hartog Island, Australia",
+  "lat": -25.48,
+  "lng": 112.97,
+  "text": "Dutch skipper Dirk Hartog's ship Eendracht came unexpectedly upon islands off Western Australia on its way to the East Indies. Before sailing off, Hartog nailed a pewter plate to a post, scratched with the date, the ship's name and the names of its senior crew. Amsterdam's Rijksmuseum, where it is kept today, calls it the earliest surviving Western object from Australia.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Dirck Hartog)",
+   "url": "https://www.britannica.com/biography/Dirck-Hartog"
+  },
+  "source2": {
+   "name": "Rijksmuseum, object NG-NM-825 (Dirck Hartogh dish)",
+   "url": "https://www.rijksmuseum.nl/en/collection/NG-NM-825"
+  }
+ },
+ {
+  "id": "r3o-yap-rai-stones",
+  "era": "exploration",
+  "year": 1700,
+  "dateLabel": "About 1700",
+  "emoji": "🪙",
+  "cat": "daily",
+  "title": "Money Too Heavy to Carry",
+  "place": "Yap, Micronesia",
+  "lat": 9.54,
+  "lng": 138.1,
+  "text": "Yapese voyagers quarried their famous rai, stone discs with a hole in the middle, mainly on faraway Palau; quarrying there intensified after European contact, and iron tools came to be used to bore the holes. Big stones rarely moved: everyone simply remembered who owned them. Island tradition tells of a rai lost to the seabed in a storm that still counted as money.",
+  "collections": [
+   "pacific-voyagers"
+  ],
+  "source": {
+   "name": "University of Oregon news: 'UO team puts an ancient spin on a new digital currency' (Scott Fitzpatrick)",
+   "url": "https://news.uoregon.edu/content/uo-team-puts-ancient-spin-new-digital-currency"
+  },
+  "source2": {
+   "name": "Houston Museum of Natural Science, Dirk Van Tuerenhout (curator of anthropology), 'Hard currency: Stone money of the Yap Islands'",
+   "url": "https://blog.hmns.org/2015/05/hard-currency-stone-money-of-the-yap-islands"
+  }
+ },
+ {
+  "id": "r3o-tupaia-chart",
+  "era": "exploration",
+  "year": 1769,
+  "dateLabel": "August 1769",
+  "emoji": "🧭",
+  "cat": "journeys",
+  "title": "Tupaia Maps the Pacific",
+  "place": "Raiatea, French Polynesia",
+  "lat": -16.75,
+  "lng": -151.45,
+  "text": "Tupaia, a priest and navigator from a Raiatean family of master navigators, joined Captain Cook's ship Endeavour in 1769. He once described nearly 130 islands to the British, and from August 1769 helped draw a chart that grew to show 74 islands across a vast stretch of ocean. In New Zealand he became an interpreter, adviser and bringer of news from islands Māori had left long ago.",
+  "collections": [
+   "pacific-voyagers",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "University of Potsdam, Institute of English and American Studies: Tupaia's Map",
+   "url": "https://www.uni-potsdam.de/en/iaa-cult/staff/schwarz/tupaias-map"
+  },
+  "source2": {
+   "name": "New Zealand Geographic, 'Tupaia'",
+   "url": "https://www.nzgeo.com/stories/tupaia/"
+  }
+ },
+ {
+  "id": "r3o-cook-kealakekua",
+  "era": "exploration",
+  "year": 1779,
+  "dateLabel": "February 14, 1779",
+  "emoji": "🌊",
+  "cat": "power",
+  "title": "Captain Cook's Last Voyage Ends",
+  "place": "Kealakekua Bay, Hawaiʻi, USA",
+  "lat": 19.48,
+  "lng": -155.93,
+  "text": "Cook's ships first reached Kealakekua Bay during Makahiki, a festival for the god Lono, and were warmly received. Returning for repairs after the season ended, tensions grew over thefts and reprisals. When Cook tried to take the ruling chief Kalaniʻōpuʻu hostage over a stolen boat, a fight broke out on the beach, killing Cook, four marines and a number of Hawaiians.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "U.S. National Park Service: Cook Landing Site",
+   "url": "https://www.nps.gov/places/cook-landing-site.htm"
+  },
+  "source2": {
+   "name": "Royal Museums Greenwich: The Death of Captain James Cook, 14 February 1779",
+   "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-11916"
+  }
+ },
+ {
+  "id": "r3o-makassan-trepang",
+  "era": "exploration",
+  "year": 1780,
+  "dateLabel": "Late 1700s",
+  "emoji": "🥒",
+  "cat": "daily",
+  "title": "Sea Cucumbers for China",
+  "place": "Arnhem Land, Northern Territory, Australia",
+  "lat": -11.5,
+  "lng": 133.0,
+  "text": "For generations, fleets of fishermen from Makassar in Sulawesi sailed to the coast they called Marege, now Arnhem Land, to gather trepang, or sea cucumber, a delicacy in Chinese markets. Yolngu people traded and worked with them and learned to make dugout canoes and work metal. Stands of tamarind trees still mark their old camps; the last fleet sailed in 1907.",
+  "collections": [
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "National Museum of Australia: Trade with the Makasar",
+   "url": "https://www.nma.gov.au/defining-moments/resources/trade-with-the-makasar"
+  },
+  "source2": {
+   "name": "Museums Victoria Collections: Aboriginal People & Trade",
+   "url": "https://collections.museumsvictoria.com.au/articles/15844"
+  }
+ },
+ {
+  "id": "r3o-pitcairn-bounty",
+  "era": "exploration",
+  "year": 1790,
+  "dateLabel": "January 1790",
+  "emoji": "🔥",
+  "cat": "journeys",
+  "title": "The Bounty Mutineers' Hideaway",
+  "place": "Bounty Bay, Pitcairn Island",
+  "lat": -25.07,
+  "lng": -130.1,
+  "text": "HMS Bounty had come to Tahiti to collect breadfruit plants when Fletcher Christian led a mutiny in 1789. He and eight mutineers, with Tahitian companions, hid on remote Pitcairn Island and burned the ship. When outsiders found them in 1808, only one mutineer, John Adams, was still alive. Their descendants still live there.",
+  "collections": [
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Internet Archaeology 11: Settlement at Pitcairn Island",
+   "url": "https://intarch.ac.uk/journal/issue11/4/5.html"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Pitcairn Island",
+   "url": "https://www.britannica.com/place/Pitcairn-Island"
+  }
+ },
+ {
+  "id": "r3o-rabbits",
+  "era": "industrial",
+  "year": 1859,
+  "dateLabel": "December 25, 1859",
+  "emoji": "🐇",
+  "cat": "nature",
+  "title": "A Few Rabbits Run Wild",
+  "place": "Barwon Park, Winchelsea, Victoria, Australia",
+  "lat": -38.24,
+  "lng": 143.98,
+  "text": "Settler Thomas Austin had wild rabbits sent from England and released 13 on his Barwon Park estate on Christmas Day 1859, so they could be hunted for sport. By 1866, hunters had bagged 14,000 there. Within 50 years rabbits covered almost the whole continent, overgrazing native plants and causing soil erosion, despite a rabbit-proof fence built across Western Australia between 1901 and 1907.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "National Museum of Australia, Defining Moments: Rabbits introduced",
+   "url": "https://www.nma.gov.au/defining-moments/resources/rabbits-introduced"
+  }
+ },
+ {
+  "id": "r3o-rongorongo",
+  "era": "industrial",
+  "year": 1864,
+  "dateLabel": "1864",
+  "emoji": "📜",
+  "cat": "culture",
+  "title": "A Script No One Can Read",
+  "place": "Rapa Nui (Easter Island), Chile",
+  "lat": -27.12,
+  "lng": -109.35,
+  "text": "In 1864 the missionary Eugène Eyraud became the first outsider to report rongorongo, rows of glyphs carved on wooden tablets. Soon after, Peruvian slave raids and epidemics devastated Rapa Nui, and no new tablets were made after the late 1860s. No one has deciphered rongorongo, and none of the 27 surviving inscribed objects remain on the island.",
+  "collections": [
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "Scientific Reports (2024), Ferrara et al., 'The invention of writing on Rapa Nui', PMC10837134",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10837134/"
+  },
+  "source2": {
+   "name": "Smithsonian Magazine, 'Did the People of Easter Island Invent a Writing System From Scratch?'",
+   "url": "https://www.smithsonianmag.com/smart-news/research-reveals-the-natives-of-easter-island-invented-a-written-language-from-scratch-180983793/"
+  }
+ },
+ {
+  "id": "r3o-father-damien",
+  "era": "industrial",
+  "year": 1873,
+  "dateLabel": "1873",
+  "emoji": "⛪",
+  "cat": "daily",
+  "title": "Father Damien Goes to Molokaʻi",
+  "place": "Kalaupapa, Molokaʻi, Hawaiʻi, USA",
+  "lat": 21.18,
+  "lng": -156.95,
+  "text": "Belgian priest Damien De Veuster arrived at the isolated leprosy settlement on Molokaʻi in 1873. He bandaged sores, built houses and a water system, enlarged the church, buried the dead and shared poi with residents. In 1884 it was announced that he had caught leprosy himself, but he kept working until his death in 1889. He was declared a saint in 2009.",
+  "collections": [
+   "plagues-and-cures"
+  ],
+  "source": {
+   "name": "National Park Service, Kalaupapa National Historical Park",
+   "url": "https://www.nps.gov/kala/learn/historyculture/damien.htm"
+  },
+  "source2": {
+   "name": "Vatican, biography of St Damien De Veuster (canonization 2009)",
+   "url": "https://www.vatican.va/news_services/liturgy/saints/2009/ns_lit_doc_20091011_de-veuster_en.html"
+  }
+ },
+ {
+  "id": "r3o-fiji-measles",
+  "era": "industrial",
+  "year": 1875,
+  "dateLabel": "1875",
+  "emoji": "🦠",
+  "cat": "daily",
+  "title": "The Measles Epidemic That Struck Fiji",
+  "place": "Levuka, Ovalau, Fiji",
+  "lat": -17.68,
+  "lng": 178.83,
+  "text": "Just after Fiji became a British colony, the high chief Cakobau and two of his sons visited Sydney and came home early in 1875 carrying measles. No quarantine procedure existed yet, and Fijians had no immunity. The disease swept the islands, killing more than 40,000 people, roughly a quarter of the population, and officials reported whole families carried off and starvation rampant.",
+  "collections": [
+   "plagues-and-cures"
+  ],
+  "source": {
+   "name": "ANU Press, 'Ma'afu, prince of Tonga, chief of Fiji', ch. 12",
+   "url": "https://press-files.anu.edu.au/downloads/press/p312281/html/ch12.xhtml?page=22"
+  },
+  "source2": {
+   "name": "ANU Press, 'The General's Goose', ch. 1",
+   "url": "https://press-files.anu.edu.au/downloads/press/n2550/html/ch01.xhtml"
+  }
+ },
+ {
+  "id": "r3o-parihaka",
+  "era": "industrial",
+  "year": 1881,
+  "dateLabel": "November 5, 1881",
+  "emoji": "🕊️",
+  "cat": "power",
+  "title": "Parihaka's Peaceful Resistance",
+  "place": "Parihaka, Taranaki, New Zealand",
+  "lat": -39.29,
+  "lng": 173.84,
+  "text": "Led by Te Whiti o Rongomai and Tohu Kākahi, the Māori village of Parihaka resisted land confiscation without violence, ploughing disputed land and fencing across roads. On 5 November 1881 about 1,600 troops and volunteers marched in to find singing children on the road, girls skipping and 500 loaves baked to feed the men. Te Whiti and Tohu were held 16 months without trial.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "The Conversation (Alexander Gillespie, University of Waikato), How NZ's colonial government misused laws to crush non-violent dissent at Parihaka",
+   "url": "https://theconversation.com/how-nzs-colonial-government-misused-laws-to-crush-non-violent-dissent-at-parihaka-126495"
+  },
+  "source2": {
+   "name": "Papers Past (National Library of New Zealand), Star (Christchurch), 7 November 1881, 'The March on Parihaka'",
+   "url": "https://paperspast.natlib.govt.nz/newspapers/TS18811107.2.20"
+  }
+ },
+ {
+  "id": "r3o-platypus-eggs",
+  "era": "industrial",
+  "year": 1884,
+  "dateLabel": "1884",
+  "emoji": "🥚",
+  "cat": "discovery",
+  "title": "Proof That Platypuses Lay Eggs",
+  "place": "Burnett River, Queensland, Australia",
+  "lat": -25.0,
+  "lng": 151.7,
+  "text": "European scientists doubted that a furry mammal could lay eggs, until Cambridge zoologist William Caldwell spent months searching along Queensland's Burnett River, helped by about 150 Aboriginal Wakkawakka people. In 1884 they finally found eggs. His four-word telegram to a scientific meeting in Montreal read simply: 'Monotremes oviparous, ovum meroblastic.'",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "History Today, Placing the Platypus",
+   "url": "https://www.historytoday.com/archive/natural-histories/placing-platypus"
+  },
+  "source2": {
+   "name": "University of Cambridge Museum of Zoology, William Caldwell (1859–1941)",
+   "url": "https://www.museum.zoo.cam.ac.uk/collections-research/collections-uncovered/colonial-histories-australian-mammal-collections/william-caldwell"
+  }
+ },
+ {
+  "id": "r3o-tarawera",
+  "era": "industrial",
+  "year": 1886,
+  "dateLabel": "June 10, 1886",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "Tarawera Buries the Pink and White Terraces",
+  "place": "Mount Tarawera, New Zealand",
+  "lat": -38.23,
+  "lng": 176.51,
+  "text": "In the small hours of 10 June 1886, Mount Tarawera split open along a rift about 17 kilometres long. The rumbling was heard as far south as Blenheim in the South Island, and between about 108 and 120 people died. The eruption destroyed the Pink and White Terraces, celebrated at the time as one of the great natural wonders of the world.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "GeoNet (GNS Science / EQC), About Okataina volcano",
+   "url": "https://www.geonet.org.nz/about/volcano/okataina"
+  },
+  "source2": {
+   "name": "Auckland War Memorial Museum, The eruption of Mt Tarawera",
+   "url": "https://www.aucklandmuseum.com/discover/collections/topics/the-eruption-of-mt-tarawera"
+  }
+ },
+ {
+  "id": "r3o-federation",
+  "era": "industrial",
+  "year": 1901,
+  "dateLabel": "January 1, 1901",
+  "emoji": "🇦🇺",
+  "cat": "power",
+  "title": "Six Colonies Become One Australia",
+  "place": "Royal Exhibition Building, Melbourne, Australia",
+  "lat": -37.8,
+  "lng": 144.97,
+  "text": "On 1 January 1901, six British colonies became the states of the Commonwealth of Australia. New Zealand and Fiji had also been part of the federation talks but stayed out. As a compromise, the new capital had to be in New South Wales but at least 100 miles from Sydney. On 9 May 1901 the first federal parliament was opened in Melbourne's grand Exhibition Building.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Federation",
+   "url": "https://www.nma.gov.au/defining-moments/resources/federation"
+  },
+  "source2": {
+   "name": "Parliament of Australia, Parliamentary Library FlagPost: First Sitting of the Commonwealth Parliament",
+   "url": "https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/Research/FlagPost/2019/May/First_Sitting_of_the_Commonwealth_Parliament"
+  }
+ },
+ {
+  "id": "r3o-duke-surfing",
+  "era": "modern",
+  "year": 1914,
+  "dateLabel": "December 24, 1914",
+  "emoji": "🏄",
+  "cat": "daily",
+  "title": "Duke Kahanamoku Surfs Sydney",
+  "place": "Freshwater Beach, Sydney, Australia",
+  "lat": -33.78,
+  "lng": 151.29,
+  "text": "Hawaiian Olympic swimming champion Duke Kahanamoku gave a surfing show at Freshwater Beach on Christmas Eve 1914, now seen as a turning point for Australian surfing. He carved his board from a piece of sugar pine he bought locally. The board is still kept by the Freshwater Surf Life Saving Club.",
+  "source": {
+   "name": "NSW Government Environment and Heritage, Blue Plaques: Duke Kahanamoku",
+   "url": "https://www.environment.nsw.gov.au/topics/heritage/blue-plaques/duke-kahanamoku"
+  },
+  "source2": {
+   "name": "Northern Beaches Council, Manly Art Gallery & Museum: Duke Kahanamoku and the early development of surfing in Australia",
+   "url": "https://www.northernbeaches.nsw.gov.au/things-to-do/arts-and-culture/manly-art-gallery-museum/collections/collection-stories/duke"
+  }
+ },
+ {
+  "id": "r3o-last-thylacine",
+  "era": "modern",
+  "year": 1936,
+  "dateLabel": "September 7, 1936",
+  "emoji": "🐯",
+  "cat": "nature",
+  "title": "The Last Tasmanian Tiger",
+  "place": "Hobart, Tasmania, Australia",
+  "lat": -42.88,
+  "lng": 147.33,
+  "text": "The thylacine, a striped, dog-like marsupial nicknamed the Tasmanian tiger, was hunted for decades under government bounty schemes as a supposed threat to livestock. The last known one died at Hobart Zoo on 7 September 1936. Australia now marks that date as National Threatened Species Day, and scientists have even mapped its genome.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "National Museum of Australia, Defining Moments: Extinction of thylacine",
+   "url": "https://www.nma.gov.au/defining-moments/resources/extinction-of-thylacine"
+  },
+  "source2": {
+   "name": "Genome Research (2023), Historical RNA expression profiles from the extinct Tasmanian tiger, PMC",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10552650/"
+  }
+ },
+ {
+  "id": "r3o-kokoda",
+  "era": "modern",
+  "year": 1942,
+  "dateLabel": "July–November 1942",
+  "emoji": "🥾",
+  "cat": "power",
+  "title": "The Battle for the Kokoda Track",
+  "place": "Kokoda, Papua New Guinea",
+  "lat": -8.88,
+  "lng": 147.74,
+  "text": "In 1942, Japanese forces tried to reach Port Moresby by marching over the steep, jungle-covered Owen Stanley Range along the Kokoda Track. Australian and Papuan troops fought them in isolated mountain jungle, where carrying supplies was a constant struggle. From Ioribaiwa the Japanese could see the lights of Port Moresby at night before withdrawing, and were pushed back to the north coast by November.",
+  "source": {
+   "name": "Australian War Memorial, Kokoda Trail Campaign",
+   "url": "https://www.awm.gov.au/collection/E84663"
+  },
+  "source2": {
+   "name": "Libraries ACT (ACT Government), Kokoda Campaign: Ioribaiwa and Imita",
+   "url": "https://www.library.act.gov.au/find/history/stories_from_the_act_memorial/kokoda-campaign-ioribaiwa-and-imita"
+  }
+ },
+ {
+  "id": "r3o-bikini-tests",
+  "era": "modern",
+  "year": 1946,
+  "dateLabel": "July 1946",
+  "emoji": "☢️",
+  "cat": "power",
+  "title": "Bikini Atoll's Nuclear Tests",
+  "place": "Bikini Atoll, Marshall Islands",
+  "lat": 11.59,
+  "lng": 165.5,
+  "text": "In 1946, the United States moved Bikini's 167 residents away, promising they could return, and began testing atomic bombs on the atoll. Between 1946 and 1958 it set off more than 20 nuclear weapons there; one 1954 blast was about 1,000 times stronger than the Hiroshima bomb. Contamination left the atoll unsafe to live on for a long time.",
+  "source": {
+   "name": "UN Human Rights Council report A/HRC/57/77 (2024)",
+   "url": "https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/sessions-regular/session57/advance-versions/A-HRC-57-77-AUV.pdf"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Bikini Atoll Nuclear Test Site (via UNESCO open-data API)",
+   "url": "https://whc.unesco.org/en/list/1339"
+  }
+ },
+ {
+  "id": "r3o-wave-hill",
+  "era": "modern",
+  "year": 1966,
+  "dateLabel": "August 23, 1966",
+  "emoji": "✊",
+  "cat": "power",
+  "title": "The Wave Hill Walk-Off",
+  "place": "Kalkarindji, Northern Territory, Australia",
+  "lat": -17.39,
+  "lng": 131.12,
+  "text": "Led by Vincent Lingiari, about 200 Gurindji stockmen, domestic workers and their families walked off the Wave Hill cattle station. Their white union supporters saw it as a strike over wages, but the Gurindji really wanted their land back. The dispute lasted nine years, until Prime Minister Gough Whitlam handed back part of it in 1975, inspiring the song 'From Little Things Big Things Grow'.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "National Museum of Australia, Defining Moments: 'Wave Hill Walk-Off'",
+   "url": "https://www.nma.gov.au/defining-moments/resources/wave-hill-walk-off"
+  },
+  "source2": {
+   "name": "National Film and Sound Archive, australianscreen, 'From Little Things Big Things Grow' curator's notes",
+   "url": "https://aso.gov.au/titles/music/from-little-things-big-things/notes/"
+  }
+ },
+ {
+  "id": "r3o-hokulea",
+  "era": "modern",
+  "year": 1976,
+  "dateLabel": "1976",
+  "emoji": "🌟",
+  "cat": "journeys",
+  "title": "Hōkūleʻa Sails to Tahiti",
+  "place": "Honolua Bay, Maui, Hawaiʻi, USA",
+  "lat": 20.99,
+  "lng": -156.64,
+  "text": "In 1976, the double-hulled canoe Hōkūleʻa sailed from Maui to Tahiti without instruments. No living Hawaiian then knew the old deep-sea wayfinding, so master navigator Mau Piailug from Satawal in Micronesia guided it. The trip backed the idea that Polynesians explored the Pacific on purpose, and became a symbol of Hawaiian cultural revival.",
+  "collections": [
+   "pacific-voyagers",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Polynesian Voyaging Society (Hokulea.com), 50th anniversary of the 1976 voyage",
+   "url": "https://hokulea.com/polynesian-voyaging-society-honors-the-50th-anniversary-of-hokule%CA%BBas-1976-maiden-voyage-to-tahiti/"
+  },
+  "source2": {
+   "name": "Polynesian Voyaging Society, History",
+   "url": "https://hokulea.com/history/"
+  }
+ },
+ {
+  "id": "r3o-mabo",
+  "era": "modern",
+  "year": 1992,
+  "dateLabel": "June 3, 1992",
+  "emoji": "⚖️",
+  "cat": "power",
+  "title": "Mabo: The Land Was Never Empty",
+  "place": "Mer (Murray Island), Torres Strait, Australia",
+  "lat": -9.92,
+  "lng": 144.05,
+  "text": "Torres Strait Islander Eddie Mabo and others took Queensland to court over land on Mer. In 1992 the High Court rejected the idea that Australia had belonged to no one when the British arrived, and recognised native title for the first time. The ruling even pops up in the 1997 comedy film The Castle: 'It's Mabo... it's the vibe.'",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "National Museum of Australia, 'Mabo decision'",
+   "url": "https://www.nma.gov.au/defining-moments/resources/mabo-decision"
+  },
+  "source2": {
+   "name": "ABC News, 'Straight to the pool room: Why The Castle is still a classic 25 years on'",
+   "url": "https://www.abc.net.au/news/2022-04-22/the-castle-at-25-year-anniversary/101002292"
+  }
+ },
+ {
+  "id": "r3o-tuvalu-falepili",
+  "era": "modern",
+  "year": 2023,
+  "dateLabel": "November 9, 2023",
+  "emoji": "🌊",
+  "cat": "journeys",
+  "title": "A Climate Treaty for Tuvalu",
+  "place": "Funafuti, Tuvalu",
+  "lat": -8.52,
+  "lng": 179.2,
+  "text": "The small island nation of Tuvalu and Australia signed the Falepili Union, a treaty covering climate change, security and migration. Australia created a special visa pathway, initially up to 280 places a year, for Tuvaluans to live, work and study there, and pledged to expand a project reclaiming land in Funafuti against rising seas. Falepili is a Tuvaluan idea of good neighbourliness, care and mutual respect.",
+  "source": {
+   "name": "Australian Government DFAT: Australia-Tuvalu Falepili Union treaty",
+   "url": "https://www.dfat.gov.au/geo/tuvalu/australia-tuvalu-falepili-union-treaty"
+  },
+  "source2": {
+   "name": "DFAT: Treaty text - Falepili Union",
+   "url": "https://www.dfat.gov.au/geo/tuvalu/australia-tuvalu-falepili-union-treaty/treaty-text-falepili-union"
+  }
+ }
+]

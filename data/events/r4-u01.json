@@ -1,0 +1,402 @@
+[
+ {
+  "id": "u01-repenomamus-attack",
+  "era": "deep",
+  "year": -125700000,
+  "dateLabel": "About 125.7 million years ago",
+  "cat": "nature",
+  "title": "A Mammal That Attacked a Dinosaur",
+  "place": "Lujiatun, Liaoning, China",
+  "lat": 41.61,
+  "lng": 120.91,
+  "text": "In beds nicknamed the \"Chinese Pompeii\", a volcanic mudflow froze a fight. A 47-centimetre mammal, Repenomamus, sits on top of a plant-eating Psittacosaurus, gripping its jaw and leg, teeth clamped on its ribs. The dinosaur was about three times heavier. Scientists checked the slab for forgery and found it genuine: proof that some early mammals were not just hiding from dinosaurs, but hunting them.",
+  "source": {
+   "name": "Scientific Reports: An extraordinary fossil captures the struggle for existence during the Mesozoic",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10354204/"
+  }
+ },
+ {
+  "id": "u01-paraceratherium-linxia",
+  "era": "deep",
+  "year": -26500000,
+  "dateLabel": "About 26.5 million years ago",
+  "cat": "journeys",
+  "title": "A Giant Rhino Crosses Low Tibet",
+  "place": "Wangjiachuan, Dongxiang, Linxia Basin, Gansu, China",
+  "lat": 35.6,
+  "lng": 103.31,
+  "text": "Giant rhinos without horns were among the largest land mammals ever. A complete skull found near Wangjiachuan village, on the edge of the Tibetan Plateau, belongs to a new species, Paraceratherium linxiaense. Its long, flexible neck and a possible short trunk helped it browse high. The find suggests Tibet then stood under about 2,000 metres, low enough for these giants to walk through to South Asia.",
+  "source": {
+   "name": "Communications Biology: An Oligocene giant rhino provides insights into Paraceratherium evolution",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8211792/"
+  }
+ },
+ {
+  "id": "u01-platybelodon-trunk",
+  "era": "deep",
+  "year": -15000000,
+  "dateLabel": "About 15 million years ago",
+  "cat": "nature",
+  "title": "The Shovel-Tusker Learns to Use Its Trunk",
+  "place": "Tongxin, Ningxia, China",
+  "lat": 36.98,
+  "lng": 105.91,
+  "text": "Platybelodon, an elephant relative from northern China, had flat lower tusks like a shovel with a sharp cutting edge. Computer models show the jaw was best at slicing upright stems such as soft herbs. Its skull points to a strong, flexible trunk that could coil around grass and grab it. It may be the first elephant relative to graze this way, as the trunk took over from the jaw.",
+  "source": {
+   "name": "eLife: The trunk replaces the longer mandible as the main feeding organ in elephant evolution",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11189625/"
+  }
+ },
+ {
+  "id": "u01-hamipterus-eggs",
+  "era": "deep",
+  "year": -120000000,
+  "dateLabel": "About 120 million years ago",
+  "cat": "nature",
+  "title": "Storm-Buried Pterosaur Eggs Near the Tian Shan",
+  "place": "Hami, Turpan-Hami Basin, Xinjiang, China",
+  "lat": 42.8,
+  "lng": 92.4,
+  "text": "South of the Tian Shan mountains lies one of the world's few pterosaur bone beds. A large number of Hamipterus, a flying reptile whose males and females looked different, were buried in an ancient lake. Storms swept their bones and even three-dimensional eggs with embryos into sandy layers. The same beds later gave up the first dinosaur bones known from the region, including a long-necked sauropod.",
+  "source": {
+   "name": "Scientific Reports: The first dinosaurs from the Early Cretaceous Hami Pterosaur Fauna, China",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8361124/"
+  }
+ },
+ {
+  "id": "u01-maiacetus-mother",
+  "era": "deep",
+  "year": -47500000,
+  "dateLabel": "About 47.5 million years ago",
+  "cat": "nature",
+  "title": "A Whale Mother Who Gave Birth on Land",
+  "place": "Kunvit, Kohlu District, Balochistan, Pakistan",
+  "lat": 29.9,
+  "lng": 69.25,
+  "text": "Maiacetus was an early whale about 2.6 metres long that still had four legs. One fossil female from Balochistan holds a nearly full-term baby inside her ribs, lying head first. Living whales are born tail first, but land mammals are born head first, so these whales probably came ashore to give birth.",
+  "source": {
+   "name": "PLOS ONE: New Protocetid Whale from the Middle Eocene of Pakistan: Birth on Land, Precocial Development, and Sexual Dimorphism",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004366"
+  }
+ },
+ {
+  "id": "u01-darwinius-ida",
+  "era": "deep",
+  "year": -47000000,
+  "dateLabel": "About 47 million years ago",
+  "cat": "discovery",
+  "title": "The Primate Sold in Two Halves",
+  "place": "Grube Messel, near Darmstadt, Germany",
+  "lat": 49.92,
+  "lng": 8.76,
+  "text": "In 1983 private collectors dug up a young primate at Messel and split the slab in two, selling the halves separately. One half was partly faked to look more complete. The other, bought by Oslo's Natural History Museum in 2007, was almost perfect, with its body outline and a last meal of leaves and fruit. Named Darwinius, she had once broken her wrist and healed.",
+  "source": {
+   "name": "PLOS ONE: Complete Primate Skeleton from the Middle Eocene of Messel in Germany",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005723"
+  }
+ },
+ {
+  "id": "u01-hatzegopteryx",
+  "era": "deep",
+  "year": -69000000,
+  "dateLabel": "About 69 million years ago",
+  "cat": "nature",
+  "title": "A Giant Pterosaur Rules an Island",
+  "place": "Sebeș Formation, Transylvanian Basin, Romania",
+  "lat": 45.96,
+  "lng": 23.57,
+  "text": "Hațeg in Romania was an island at the end of the dinosaur age, with no big meat-eating dinosaurs. A giant flying reptile, Hatzegopteryx, may have filled the gap. One neck bone is 24 centimetres long and almost as wide, with thick walls, showing a short, sturdy neck. Researchers suggest it stalked the ground and grabbed small dinosaurs, acting as the island's top predator.",
+  "source": {
+   "name": "PeerJ: Neck biomechanics indicate that giant Transylvanian azhdarchid pterosaurs were short-necked arch predators",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5248582/"
+  }
+ },
+ {
+  "id": "u01-icaronycteris-gunnelli",
+  "era": "deep",
+  "year": -52000000,
+  "dateLabel": "About 52 million years ago",
+  "cat": "discovery",
+  "title": "The Oldest Bat Skeletons on Earth",
+  "place": "Fossil Lake, Green River Formation, Wyoming, USA",
+  "lat": 41.83,
+  "lng": -110.69,
+  "text": "On the shore of an ancient lake in Wyoming, two tiny bats were buried about 52 million years ago. Found in 1994 and 2017 in the same quarry, they are the oldest bat skeletons known anywhere. The new species, Icaronycteris gunnelli, weighed only about 25 grams. It shows bats were already spreading quickly across several continents.",
+  "source": {
+   "name": "PLOS ONE: The oldest known bat skeletons and their implications for Eocene chiropteran diversification",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10096270/"
+  }
+ },
+ {
+  "id": "u01-florissant-redwoods",
+  "era": "deep",
+  "year": -34000000,
+  "dateLabel": "About 34 million years ago",
+  "cat": "nature",
+  "title": "Stone Redwoods and 1,800 Fossil Species",
+  "place": "Florissant Fossil Beds, Colorado, USA",
+  "lat": 38.91,
+  "lng": -105.29,
+  "text": "Volcanic eruptions buried a valley in Colorado at the end of the Eocene. Giant redwoods turned to stone; some stumps are up to 14 feet wide, from trees that may have stood over 230 feet tall and lived 500 to 750 years. One fossil is a trio of trunks growing as one plant. Scientists have described more than 1,800 species here, and over 30 kinds of animals with backbones.",
+  "source": {
+   "name": "U.S. National Park Service: Florissant Fossil Beds National Monument",
+   "url": "https://www.nps.gov/flfo/index.htm"
+  }
+ },
+ {
+  "id": "u01-mcgraths-flat",
+  "era": "deep",
+  "year": -13000000,
+  "dateLabel": "About 11 to 16 million years ago",
+  "cat": "discovery",
+  "title": "A Rainforest Frozen in Iron",
+  "place": "McGraths Flat, near Gulgong, New South Wales, Australia",
+  "lat": -32.17,
+  "lng": 149.69,
+  "text": "Farm ploughing near Gulgong turned up blocks of iron-rich rock holding a lost rainforest. Here, around an oxbow lake, fossils are so fine that a feather still shows its colour granules and fly eyes keep their tiny lenses. Fish guts are packed with phantom midge larvae, and pollen still clings to a sawfly's head. Today the same land is dry eucalyptus and acacia country.",
+  "source": {
+   "name": "Science Advances: A Lagerstätte from Australia provides insight into the nature of Miocene mesic ecosystems",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8741189/"
+  }
+ },
+ {
+  "id": "u01-siamogale-otter",
+  "era": "deep",
+  "year": -6000000,
+  "dateLabel": "Late Miocene, about 6 million years ago",
+  "cat": "nature",
+  "title": "The Giant Otter That Out-Bit a Sea Otter",
+  "place": "Shuitangba, Zhaotong, Yunnan, China",
+  "lat": 27.3,
+  "lng": 103.72,
+  "text": "Siamogale melilutra, found at Shuitangba in Yunnan, weighed about 50 kilograms, bigger than any living otter. Computer tests of its jaw show it was far stronger than a sea otter's, even allowing for size. It probably crunched shellfish and other hard prey in forested wetlands shared with deer, tapirs and beavers, where large land predators were almost unknown, leaving the giant otter as top hunter.",
+  "source": {
+   "name": "Scientific Reports: Feeding capability in the extinct giant Siamogale melilutra and comparative mandibular biomechanics of living Lutrinae",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5680181/"
+  }
+ },
+ {
+  "id": "u01-kryoryctes-platypus",
+  "era": "deep",
+  "year": -105000000,
+  "dateLabel": "About 103 to 108 million years ago",
+  "cat": "nature",
+  "title": "The Platypus Way of Life Is Ancient",
+  "place": "Slippery Rocks, Dinosaur Cove, Victoria, Australia",
+  "lat": -38.78,
+  "lng": 143.4,
+  "text": "Kryoryctes, an egg-laying mammal from Australia's polar past, is known from a single upper arm bone. Its outside shape looks like an echidna's, but inside the bone is thick-walled with almost no marrow space, like a platypus that swims and digs. So platypus-style living goes back over 100 million years, and echidnas later moved back onto dry land.",
+  "source": {
+   "name": "PNAS: Bone microstructure supports a Mesozoic origin for a semiaquatic burrowing lifestyle in monotremes",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12088390/"
+  }
+ },
+ {
+  "id": "u01-giraffa-sivalensis",
+  "era": "deep",
+  "year": -2000000,
+  "dateLabel": "About 2 million years ago",
+  "cat": "discovery",
+  "title": "A Lost Giraffe of the Siwalik Hills",
+  "place": "Siwalik Hills, northern India",
+  "lat": 30.8,
+  "lng": 77,
+  "text": "In 1838 the fossil hunter Cautley described a striking neck bone from India's Siwalik Hills that looked just like a modern giraffe's. Named in 1843, it was the first extinct giraffe species of the genus Giraffa ever discovered. Modern estimates from the bone suggest an animal about 3.9 metres tall, weighing roughly 400 kilograms, with a neck nearly 1.5 metres long, probably the last giraffe of South Asia.",
+  "source": {
+   "name": "PeerJ: On reconstructing Giraffa sivalensis, an extinct giraffid from the Siwalik Hills, India",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4540016/"
+  }
+ },
+ {
+  "id": "u01-masripithecus",
+  "era": "deep",
+  "year": -17500000,
+  "dateLabel": "About 17 to 18 million years ago",
+  "cat": "discovery",
+  "title": "Egypt's Ape Shakes Up Our Family Tree",
+  "place": "Wadi Moghra, Qattara Depression, Egypt",
+  "lat": 30.24,
+  "lng": 28.93,
+  "text": "A single lower jaw from Wadi Moghra in Egypt's desert belongs to Masripithecus, from Masr, the Arabic word for Egypt. Announced in 2026, it is the first definite fossil ape from North Africa. It is more closely related to living apes than any East African ape of its age, hinting that the ancestor of all today's apes may have lived in North Africa or the Middle East.",
+  "source": {
+   "name": "EurekAlert (Mansoura University / USC): Masripithecus, a new Miocene ape from Egypt sheds light on the origins of modern apes",
+   "url": "https://www.eurekalert.org/news-releases/1120971"
+  }
+ },
+ {
+  "id": "u01-buronius-small-ape",
+  "era": "deep",
+  "year": -11620000,
+  "dateLabel": "About 11.6 million years ago",
+  "cat": "discovery",
+  "title": "Two Apes Shared a Bavarian Forest",
+  "place": "Hammerschmiede clay pit, Pforzen, Bavaria, Germany",
+  "lat": 47.93,
+  "lng": 10.59,
+  "text": "From a clay pit in Bavaria came a single tooth, a tooth fragment and a kneecap. They belong to Buronius, named after Buron, the medieval name of nearby Kaufbeuren. At about 10 kilograms it is the smallest great-ape relative known. It lived beside the larger ape Danuvius but had thin enamel for soft fruit and leaves: the first case of two such apes living together in Europe.",
+  "source": {
+   "name": "PLOS ONE: Buronius manfredschmidi, a new small hominid from the early late Miocene of Hammerschmiede (Bavaria, Germany)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11161025/"
+  }
+ },
+ {
+  "id": "u01-anadoluvius",
+  "era": "deep",
+  "year": -8700000,
+  "dateLabel": "About 8.7 million years ago",
+  "cat": "discovery",
+  "title": "An Anatolian Ape and Human Origins",
+  "place": "Çorakyerler, Çankırı Basin, Türkiye",
+  "lat": 40.7,
+  "lng": 33.6,
+  "text": "At Çorakyerler in central Türkiye, researchers studied a female ape's partial skull with a nearly complete forehead. They named the genus Anadoluvius, from Anadolu, the Turkish word for Anatolia. Like early African human relatives, it had thick enamel and small canines. The team argues that the African apes and human line may have begun around the Mediterranean, though an African origin cannot be ruled out.",
+  "source": {
+   "name": "Communications Biology: A new ape from Türkiye and the radiation of late Miocene hominines",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10447513/"
+  }
+ },
+ {
+  "id": "u01-najash-legged-snake",
+  "era": "deep",
+  "year": -95000000,
+  "dateLabel": "About 95 million years ago",
+  "cat": "nature",
+  "title": "The Snake That Kept Its Legs",
+  "place": "La Buitrera, Río Negro Province, Argentina",
+  "lat": -39.75,
+  "lng": -68.55,
+  "text": "In the rocks of La Buitrera in Patagonia, researchers found eight new skulls of Najash, a snake that still had hind legs and hips. Micro-CT scans of the first 3D skulls revealed a large, lizard-like cheekbone. The scientists argue that this legged body was not a brief in-between stage, but a stable, successful design in early snakes. Najash is the best-known snake of the dinosaur age.",
+  "source": {
+   "name": "Science Advances: New skulls and skeletons of the Cretaceous legged snake Najash, and the evolution of the modern snake body plan",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6867888/"
+  }
+ },
+ {
+  "id": "u01-thalassocnus-sea-sloth",
+  "era": "deep",
+  "year": -7000000,
+  "dateLabel": "Late Miocene, roughly 7 million years ago",
+  "cat": "nature",
+  "title": "Sloths That Swam in the Pacific",
+  "place": "Norte Bahía Caldera, Atacama Region, Chile",
+  "lat": -27,
+  "lng": -70.8,
+  "text": "North of the port town of Caldera, in Chile's Atacama Desert, rocks hold a nearly complete skeleton of Thalassocnus, a sloth that went to sea. It foraged underwater in shallow coasts, gripping with strong hands, and probably ate some seagrass. Its bones were extra dense and heavy, like a manatee's, which helped it control buoyancy. It is the most complete such sloth found in Chile.",
+  "source": {
+   "name": "PeerJ: Aquatic sloths (Thalassocnus) from the Miocene of Chile and the evolution of marine mammal herbivory",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12497401/"
+  }
+ },
+ {
+  "id": "u01-arctic-coryphodon",
+  "era": "deep",
+  "year": -53000000,
+  "dateLabel": "About 53 million years ago",
+  "cat": "nature",
+  "title": "A Swamp Forest Near the North Pole",
+  "place": "Strathcona Fiord, Ellesmere Island, Nunavut, Canada",
+  "lat": 78.6,
+  "lng": -82,
+  "text": "At almost 79 degrees north on Ellesmere Island, stone tree stumps over a metre wide stand like a cypress swamp. Winters there stayed above freezing and summers topped 20°C. Tiny enamel fragments, the first animal fossils from this forest, belonged to Coryphodon, a big hoofed plant-eater. Its unusual tooth enamel may have helped it chew tough food through months of polar night.",
+  "source": {
+   "name": "PLOS ONE: Using tooth enamel microstructure to identify mammalian fossils at an Eocene Arctic forest",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7511010/"
+  }
+ },
+ {
+  "id": "u01-cambay-amber-termites",
+  "era": "deep",
+  "year": -52000000,
+  "dateLabel": "Early Eocene, about 52 million years ago",
+  "cat": "nature",
+  "title": "The Oldest Termite of a Mega-Family",
+  "place": "Tadkeshwar lignite mine, Surat District, Gujarat, India",
+  "lat": 21.36,
+  "lng": 73.08,
+  "text": "In lignite mines of Gujarat, scientists collected amber from forests that grew near the equator as India drifted toward Asia. Inside are termites, including the minute Nanotermes isaacae. It is the oldest definite member of the Termitidae, a family that today makes up more than 75% of all termite species, and it pushes the family's record back by about 20 million years.",
+  "source": {
+   "name": "ZooKeys: The termites of Early Eocene Cambay amber, with the earliest record of the Termitidae (Isoptera)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3264413/"
+  }
+ },
+ {
+  "id": "u01-aegyptopithecus-femur",
+  "era": "deep",
+  "year": -30000000,
+  "dateLabel": "About 30 million years ago",
+  "cat": "discovery",
+  "title": "A Thighbone From Before Apes and Monkeys",
+  "place": "Quarry M, Jebel Qatrani Formation, Fayum, Egypt",
+  "lat": 29.62,
+  "lng": 30.68,
+  "text": "In 2009, at Quarry M in Egypt's Fayum Depression, researchers found the first well-preserved upper thighbone of Aegyptopithecus, a primate living before apes and Old World monkeys split. 3D analysis showed its hip shape is unlike any living monkey or ape. So both groups evolved their different ways of moving from a shared starting point that Aegyptopithecus still kept.",
+  "source": {
+   "name": "Nature Communications: Early anthropoid femora reveal divergent adaptive trajectories in catarrhine hind-limb evolution",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6838095/"
+  }
+ },
+ {
+  "id": "u01-taeniolabis-corral-bluffs",
+  "era": "deep",
+  "year": -65300000,
+  "dateLabel": "About 65 million years ago",
+  "cat": "nature",
+  "title": "Big Beaver-Like Mammals After the Asteroid",
+  "place": "Corral Bluffs, Colorado Springs, Colorado, USA",
+  "lat": 38.85,
+  "lng": -104.65,
+  "text": "Inside stony lumps at Corral Bluffs, on the edge of Colorado Springs, scientists found skulls of Taeniolabis, the largest known multituberculate, a group of rodent-like mammals now extinct. The oldest lay in river deposits about 730,000 years after the dinosaurs' extinction, around when legumes first appeared there. Researchers estimate it was about as heavy as a beaver, or heavier, with a skull now rebuilt from these finds.",
+  "source": {
+   "name": "Journal of Mammalian Evolution: New Skull Material of Taeniolabis taoensis (Multituberculata, Taeniolabididae) from the Early Paleocene of the Denver Basin, Colorado",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8667543/"
+  }
+ },
+ {
+  "id": "u01-piscobalaena-baleen",
+  "era": "deep",
+  "year": -7000000,
+  "dateLabel": "Late Miocene, about 7 million years ago",
+  "cat": "discovery",
+  "title": "A Whale's Comb Turned to Stone",
+  "place": "Cerro Ballena, near Ocucaje, Ica, Peru",
+  "lat": -14.35,
+  "lng": -75.71,
+  "text": "Baleen, the comb-like plates whales use to sieve food from seawater, almost never fossilises. But on a rocky hill near Ocucaje in Peru's desert, a small extinct whale, Piscobalaena nana, lay belly up with its baleen intact. The plates were packed close with fine tubes, like those of today's rare pygmy right whale, revealing how a whole vanished family of whales filtered their food.",
+  "source": {
+   "name": "Journal of Anatomy: How whales used to filter: exceptionally preserved baleen in a Miocene cetotheriid",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5522891/"
+  }
+ },
+ {
+  "id": "u01-barbaturex-lizard-king",
+  "era": "deep",
+  "year": -37000000,
+  "dateLabel": "About 37 million years ago",
+  "cat": "nature",
+  "title": "The Lizard King of Myanmar",
+  "place": "Pondaung Formation, near Mogaung, Sagaing Region, Myanmar",
+  "lat": 21.7,
+  "lng": 94.7,
+  "text": "In the Pondaung hills of Myanmar, jawbones revealed a giant plant-eating lizard about a metre long from snout to hips, weighing around 27 kilograms. Scientists named it Barbaturex morrisoni: bearded king, honouring Jim Morrison, the singer who called himself the Lizard King. It was bigger than most meat-eating mammals around it, thriving in a climate a few degrees warmer than today's.",
+  "source": {
+   "name": "Proceedings of the Royal Society B: Giant lizards occupied herbivorous mammalian ecospace during the Paleogene greenhouse in Southeast Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3774227/"
+  }
+ },
+ {
+  "id": "u01-anthradapis-vietnam",
+  "era": "deep",
+  "year": -37000000,
+  "dateLabel": "About 36 to 38 million years ago",
+  "cat": "discovery",
+  "title": "Vietnam's First Ancient Primate, From a Coal Mine",
+  "place": "Na Duong coal mine, Lang Son Province, Vietnam",
+  "lat": 21.7,
+  "lng": 106.98,
+  "text": "In the Na Duong coal mine of northern Vietnam, layers of clay and lignite formed in an old lake. There, researchers found the first Eocene primate from Vietnam. They named it Anthradapis vietnamensis, from the Greek for coal. At about 5.3 kilograms, it is the largest sivaladapid, a family of early primates, ever found, and so odd it got a new subfamily.",
+  "source": {
+   "name": "Scientific Reports: A new primate from the late Eocene of Vietnam illuminates unexpected strepsirrhine diversity and evolution in Southeast Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6934687/"
+  }
+ }
+]

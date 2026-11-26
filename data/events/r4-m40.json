@@ -1,0 +1,394 @@
+[
+ {
+  "id": "m40-talikota-hampi",
+  "era": "exploration",
+  "year": 1565,
+  "dateLabel": "1565",
+  "cat": "power",
+  "title": "The Battle That Emptied Hampi",
+  "place": "Hampi, Karnataka, India",
+  "lat": 15.33,
+  "lng": 76.46,
+  "text": "Hampi was the capital of the Vijayanagara Empire, with temples, bazaars, stepped tanks and wide chariot streets built mostly of local granite beside the Tungabhadra River. Then came the Battle of Talikota in 1565, which destroyed the kingdom and caused massive destruction to the city. More than 1,600 remains survive today, including the Vitthala temple with its stone chariot.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Group of Monuments at Hampi",
+   "url": "https://whc.unesco.org/en/list/241"
+  }
+ },
+ {
+  "id": "m40-bom-jesus-goa",
+  "era": "exploration",
+  "year": 1605,
+  "dateLabel": "1605",
+  "cat": "culture",
+  "title": "Saint Francis Xavier's Basilica",
+  "place": "Old Goa, Goa, India",
+  "lat": 15.5,
+  "lng": 73.91,
+  "text": "In 1605 the Basilica of Bom Jesus rose in Old Goa, capital of the Portuguese Indies, a city later nicknamed the \"Rome of the Orient\". It holds the tomb of Saint Francis Xavier, made in Florence with bronze work by Giovanni Battista Foggini. Goa's churches mixed European styles with local materials, creating an Indo-Portuguese style that spread to missions across Asia.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Churches and Convents of Goa",
+   "url": "https://whc.unesco.org/en/list/234"
+  }
+ },
+ {
+  "id": "m40-fort-st-george-madras",
+  "era": "exploration",
+  "year": 1639,
+  "dateLabel": "1639",
+  "cat": "daily",
+  "title": "A Trading Fort Becomes Madras",
+  "place": "Chennai (Madras), Tamil Nadu, India",
+  "lat": 13.08,
+  "lng": 80.29,
+  "text": "In 1639 Damarla Venkatapathy Nayak, an influential chieftain under Venkata III, granted the English a strip of waste land where the Cooum River meets the sea. There they founded Fort St. George, purely for business. The settlement that grew around it was named after Chennapatanam, and the British called the combined town Madras Patnam, today's Chennai.",
+  "source": {
+   "name": "Chennai District Administration (Government of Tamil Nadu): History",
+   "url": "https://chennai.nic.in/history/"
+  }
+ },
+ {
+  "id": "m40-hortus-malabaricus",
+  "era": "exploration",
+  "year": 1678,
+  "dateLabel": "1678 (first of 12 volumes)",
+  "cat": "discovery",
+  "title": "The Garden of Malabar in Print",
+  "place": "Kochi (Cochin), Kerala, India",
+  "lat": 9.97,
+  "lng": 76.24,
+  "text": "In 1678 the first of 12 volumes of Hortus Malabaricus appeared in Amsterdam, compiled by the Dutch official Hendrik van Rheede. It described hundreds of plants used by Kerala's Ayurvedic physicians, with 794 plates in all. Van Rheede relied on a board of Malabar experts, whom the first volume thanked by name, a rare honour for Asian scholars in European books of the time.",
+  "source": {
+   "name": "Ancient Science of Life (via Europe PMC): Hortus malabaricus and the ethnoiatrical knowledge of ancient Malabar",
+   "url": "https://europepmc.org/article/MED/22557457"
+  },
+  "source2": {
+   "name": "Berichte zur Wissenschaftsgeschichte (via Europe PMC): Kundige inlanders - Indigenous Contributions to Jacob Breyne's Work",
+   "url": "https://europepmc.org/article/PMC/PMC8518645"
+  }
+ },
+ {
+  "id": "m40-tranquebar-printing-press",
+  "era": "exploration",
+  "year": 1712,
+  "dateLabel": "1712",
+  "cat": "culture",
+  "title": "Tamil Books from Tranquebar",
+  "place": "Tharangambadi (Tranquebar), Tamil Nadu, India",
+  "lat": 11.03,
+  "lng": 79.85,
+  "text": "In 1706 two missionaries recruited in Halle and sent by Denmark's King Frederik IV, Bartholomäus Ziegenbalg and Heinrich Plütschau, arrived in Tranquebar. In 1712 their mission set up a printing press that came to play a decisive role in spreading printed Tamil literature. Its schools also gave children from the lowest castes, previously shut out of schooling, a chance to learn.",
+  "source": {
+   "name": "National Museum of Denmark: Schools, Missionaries and Book Printing",
+   "url": "https://en.natmus.dk/historical-knowledge/historical-knowledge-the-world/asia/india/tranquebar/schools-missionaries-and-book-printing/"
+  }
+ },
+ {
+  "id": "m40-battle-of-colachel",
+  "era": "exploration",
+  "year": 1741,
+  "dateLabel": "1741",
+  "cat": "power",
+  "title": "Travancore Beats the Dutch",
+  "place": "Colachel, Kanyakumari District, Tamil Nadu, India",
+  "lat": 8.17,
+  "lng": 77.26,
+  "text": "European powers fought one another for dominance in Kerala, and in 1663 the Dutch seized Cochin from the Portuguese. Then in 1741 the Maharaja of Travancore, Anizham Thirunal Marthanda Varma, defeated the Dutch at the Battle of Colachel, a town now in Tamil Nadu. It was the biggest setback in India for the Dutch, then the greatest maritime force of the age.",
+  "source": {
+   "name": "Government of Kerala, Information and Public Relations Department: Kerala Calling, November 2021",
+   "url": "https://www.prd.kerala.gov.in/sites/default/files/inline-files/Kerala%20Calling%20NOV%20LR.pdf"
+  }
+ },
+ {
+  "id": "m40-mysore-war-rockets",
+  "era": "exploration",
+  "year": 1792,
+  "dateLabel": "1791–1792 (siege of Seringapatam)",
+  "cat": "discovery",
+  "title": "Mysore's Iron Rockets",
+  "place": "Srirangapatna, Karnataka, India",
+  "lat": 12.42,
+  "lng": 76.69,
+  "text": "Mysore's armies fired rockets at the British during the siege of Seringapatam in 1791–1792. Each was a steel tube packed with gunpowder, lashed by a leather thong to a bamboo guide stick, and could fly up to a kilometre. They carried no explosives and were meant to frighten enemy troops. Reports of them led William Congreve to develop his improved British rockets.",
+  "source": {
+   "name": "Smithsonian National Air and Space Museum: Model, Rocket, War, Indian, Late 18th Century",
+   "url": "https://airandspace.si.edu/collection-objects/model-rocket-war-indian-late-18th-century/nasm_A19760025000"
+  }
+ },
+ {
+  "id": "m40-vellore-mutiny",
+  "era": "industrial",
+  "year": 1806,
+  "dateLabel": "July 10, 1806",
+  "cat": "power",
+  "title": "Midnight Revolt at Vellore Fort",
+  "place": "Vellore, Tamil Nadu, India",
+  "lat": 12.92,
+  "lng": 79.13,
+  "text": "Two hours after midnight on July 10, 1806, sepoys rose at Vellore fort, where Tipu Sultan's family were held prisoner, and hoisted the striped tiger flag of Mysore. The revolt was crushed swiftly. New army rules had banned caste marks and ordered Muslim soldiers to shave their beards; the Governor of Madras blamed the dress regulations, and they were later abolished.",
+  "source": {
+   "name": "Cambridge Core (Boydell & Brewer): The Vellore Mutiny and the Pamphlet War 1806–1808, in The East India Company and Religion",
+   "url": "https://www.cambridge.org/core/books/abs/east-india-company-and-religion-16981858/wisdom-of-the-serpent-and-the-innocence-of-the-dove-the-vellore-mutiny-and-the-pamphlet-war-18061808/8A20A4A4A60ADB6F6618B724E2EAD020"
+  },
+  "source2": {
+   "name": "National Army Museum: Sepoy of Madras Native Infantry and his wife, c1810",
+   "url": "https://collection.nam.ac.uk/detail.php?acc=1962-10-16-1"
+  }
+ },
+ {
+  "id": "m40-kandyan-convention",
+  "era": "industrial",
+  "year": 1815,
+  "dateLabel": "March 1815",
+  "cat": "power",
+  "title": "The Last Kingdom of Kandy Falls",
+  "place": "Kandy, Central Province, Sri Lanka",
+  "lat": 7.29,
+  "lng": 80.64,
+  "text": "Kandy, last capital of the Sinhala kings and home of the Temple of the Tooth Relic, had resisted European powers for over two hundred years. In March 1815, after political manoeuvring between Kandyan chiefs and the British, a convention handed the kingdom's sovereignty to the British Empire. In return, the British promised to protect the Buddhist Order and its customs.",
+  "source": {
+   "name": "Department of National Archives, Sri Lanka: 1815 Convention",
+   "url": "https://archives.gov.lk/online-exhibits/path-to-freedom/1-1815-convention"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Sacred City of Kandy",
+   "url": "https://whc.unesco.org/en/list/450"
+  }
+ },
+ {
+  "id": "m40-kandyan-rebellion-tooth-relic",
+  "era": "industrial",
+  "year": 1818,
+  "dateLabel": "1818",
+  "cat": "power",
+  "title": "A Rebellion and a Sacred Tooth",
+  "place": "Kandyan highlands, Central Province, Sri Lanka",
+  "lat": 7.2,
+  "lng": 80.8,
+  "text": "Soon after Britain took Kandy, discontent among the chiefs grew into a rebellion that began sweeping the Kandyan regions in 1817. The Tooth Relic was at its heart: removed from the palace in May 1818, it was found with a monk hiding in the forest. The British governor implied that losing the relic ended the revolt. His 1818 order branding nineteen chiefs traitors was cancelled in 2016.",
+  "source": {
+   "name": "Department of National Archives, Sri Lanka: Freedom Struggle, 1818",
+   "url": "https://archives.gov.lk/online-exhibits/path-to-freedom/freedom-struggle"
+  }
+ },
+ {
+  "id": "m40-eclipse-helium-masulipatam",
+  "era": "industrial",
+  "year": 1868,
+  "dateLabel": "August 18, 1868",
+  "cat": "discovery",
+  "title": "A New Element in the Eclipse",
+  "place": "Machilipatnam (Masulipatam), Andhra Pradesh, India",
+  "lat": 16.19,
+  "lng": 81.14,
+  "text": "At the total solar eclipse of August 18, 1868, visible from India, the spectroscope first revealed that the Sun's prominences are made of gas. At Masulipatam, Madras Observatory's N. R. Pogson saw strong hydrogen lines and a bright yellow line near those of sodium. That yellow line came from an unknown element, later named helium after the Sun where it was first detected.",
+  "source": {
+   "name": "Indian Institute of Astrophysics: A Brief History of IIA",
+   "url": "https://www.iiap.res.in/about-us/history/"
+  }
+ },
+ {
+  "id": "m40-ceylon-coffee-rust",
+  "era": "industrial",
+  "year": 1869,
+  "dateLabel": "1869",
+  "cat": "nature",
+  "title": "The Fungus That Killed Ceylon Coffee",
+  "place": "Central hill country, Sri Lanka",
+  "lat": 6.95,
+  "lng": 80.65,
+  "text": "In 1869 the first major outbreak of coffee leaf rust struck Ceylon's booming, highly profitable coffee plantations. The Victorian mycologist M. J. Berkeley described the fungus, Hemileia vastatrix, from specimens sent from the island. The disease eventually drove planters to abandon coffee in favour of tea, and since then almost every coffee-growing region in the world has reported attacks.",
+  "source": {
+   "name": "PLOS ONE (via Europe PMC): Cryptosexuality and the genetic diversity paradox in coffee rust, Hemileia vastatrix",
+   "url": "https://europepmc.org/article/PMC/PMC3216932"
+  },
+  "source2": {
+   "name": "Ecology and Evolution (via Europe PMC): On the hunt for the alternate host of Hemileia vastatrix",
+   "url": "https://europepmc.org/article/PMC/PMC6912922"
+  }
+ },
+ {
+  "id": "m40-nilgiri-mountain-railway",
+  "era": "industrial",
+  "year": 1908,
+  "dateLabel": "1908",
+  "cat": "journeys",
+  "title": "A Toy Train Climbs the Nilgiris",
+  "place": "Udhagamandalam (Ooty), Tamil Nadu, India",
+  "lat": 11.41,
+  "lng": 76.7,
+  "text": "A railway up the Nilgiri Hills was first proposed in 1854, but the steep terrain meant work only began in 1891. Completed in 1908, the 46-kilometre metre-gauge line climbs from 326 metres to 2,203 metres above sea level, using the latest technology of its day. It still runs, and is part of the Mountain Railways of India World Heritage site.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Mountain Railways of India",
+   "url": "https://whc.unesco.org/en/list/944"
+  }
+ },
+ {
+  "id": "m40-kodaikanal-evershed-effect",
+  "era": "industrial",
+  "year": 1909,
+  "dateLabel": "1909",
+  "cat": "discovery",
+  "title": "Rivers of Gas in Sunspots",
+  "place": "Kodaikanal, Tamil Nadu, India",
+  "lat": 10.23,
+  "lng": 77.46,
+  "text": "High in the hills of South India, the Kodaikanal Solar Observatory was set up by the British on April 1, 1899. There, in 1909, John Evershed discovered that gas in sunspots flows radially, now called the Evershed effect. The observatory has one of the world's longest continuous daily records of the Sun, now digitised and open to astronomers everywhere.",
+  "source": {
+   "name": "Press Information Bureau, Government of India: Kodaikanal Solar Observatory celebrates 125 years of studying the Sun",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2016952"
+  },
+  "source2": {
+   "name": "Indian Institute of Astrophysics: A Brief History of IIA",
+   "url": "https://www.iiap.res.in/about-us/history/"
+  }
+ },
+ {
+  "id": "m40-osmania-university-urdu",
+  "era": "modern",
+  "year": 1917,
+  "dateLabel": "April 26, 1917",
+  "cat": "culture",
+  "title": "A University That Taught in Urdu",
+  "place": "Hyderabad, Telangana, India",
+  "lat": 17.41,
+  "lng": 78.53,
+  "text": "On April 26, 1917, a royal farman in the princely state of Hyderabad founded Osmania University. The idea came from a civil servant, Sir Akbar Hydari, who argued it should teach in Urdu, the state's official language and understood by most of its people. Even medicine and engineering were taught in Urdu until 1947, though every student also had to learn English.",
+  "source": {
+   "name": "Osmania University: 104th Annual Report (Historical Background)",
+   "url": "https://www.osmania.ac.in/Annual%20Reports/104th%20A.R%20FINAL.pdf"
+  }
+ },
+ {
+  "id": "m40-ceylon-universal-vote",
+  "era": "modern",
+  "year": 1931,
+  "dateLabel": "1931",
+  "cat": "power",
+  "title": "Everyone Over 21 Gets the Vote",
+  "place": "Colombo, Sri Lanka",
+  "lat": 6.93,
+  "lng": 79.85,
+  "text": "Under the Donoughmore reforms of 1931, both men and women over 21 in Ceylon gained the right to vote, and voters chose 50 members for a new State Council, which first met on July 7, 1931. Evidence given to the commission by the Society for Women's Suffrage, including Agnes de Silva, helped win women the vote.",
+  "source": {
+   "name": "Department of National Archives, Sri Lanka: Donoughmore Commission, 1931",
+   "url": "https://archives.gov.lk/online-exhibits/path-to-freedom/vote-women"
+  },
+  "source2": {
+   "name": "Election Commission of Sri Lanka: History",
+   "url": "https://elections.gov.lk/en/aboutus/aboutus_history_E.html"
+  }
+ },
+ {
+  "id": "m40-suriya-mal-movement",
+  "era": "modern",
+  "year": 1933,
+  "dateLabel": "1933",
+  "cat": "daily",
+  "title": "Suriya Flowers Instead of Poppies",
+  "place": "Colombo, Sri Lanka",
+  "lat": 6.92,
+  "lng": 79.86,
+  "text": "In 1933 young Sri Lankans who had studied abroad started the Suriya-Mal Movement, a welfare campaign set up as a counter to Britain's Poppy Movement. Its founding president was Doreen Wickramasinghe. Members worked to raise education levels among children from lower castes and carried medicine, food and other essentials to remote areas during the malaria epidemic, while spreading anti-imperialist ideas.",
+  "source": {
+   "name": "Department of National Archives, Sri Lanka: Suriyamal Movement",
+   "url": "https://archives.gov.lk/online-exhibits/path-to-freedom/suriyamal-"
+  }
+ },
+ {
+  "id": "m40-travancore-temple-entry",
+  "era": "modern",
+  "year": 1936,
+  "dateLabel": "November 12, 1936",
+  "cat": "culture",
+  "title": "Temple Doors Open in Travancore",
+  "place": "Thiruvananthapuram, Kerala, India",
+  "lat": 8.48,
+  "lng": 76.95,
+  "text": "On November 12, 1936, Sri Chithira Thirunal, Maharaja of Travancore, issued the Temple Entry Proclamation, later called the \"spiritual Magna Carta\" of Travancore. It let Ezhavas and other communities treated as Untouchable enter temples long closed to them. Historians debate the motives: it came in the diwan Ramaswamy Aiyar's first year, under pressure from Gandhians and fears of conversion to Christianity.",
+  "source": {
+   "name": "Modern Asian Studies (Cambridge Core): A forgotten famine of '43? Travancore's muffled 'cry of distress'",
+   "url": "https://www.cambridge.org/core/journals/modern-asian-studies/article/forgotten-famine-of-43-travancores-muffled-cry-of-distress/BB804EA24281112CC57ACAAADDB5BFD2"
+  },
+  "source2": {
+   "name": "Kerala Legislature: Business of the Legislature",
+   "url": "https://www.niyamasabha.org/codes/bus_1.htm"
+  }
+ },
+ {
+  "id": "m40-thumba-first-rocket",
+  "era": "modern",
+  "year": 1963,
+  "dateLabel": "November 21, 1963",
+  "cat": "discovery",
+  "title": "Rockets from a Fishing Village Church",
+  "place": "Thumba, Thiruvananthapuram, Kerala, India",
+  "lat": 8.53,
+  "lng": 76.87,
+  "text": "On November 21, 1963, a two-stage Nike-Apache rocket lifted off from Thumba, a coastal village chosen for its closeness to the magnetic equator. It marked the start of India's space exploration. Local people gave their old St. Mary Magdalene Church to science: it became offices and laboratories, the bishop's house became the director's office, and the church is now a space museum.",
+  "source": {
+   "name": "Vikram Sarabhai Space Centre: Genesis",
+   "url": "https://www.vssc.gov.in/genesis.html"
+  },
+  "source2": {
+   "name": "ISRO: Diamond jubilee of first sounding rocket launch",
+   "url": "https://www.isro.gov.in/diamond_jubilee_first_sounding_rocket_launch.html"
+  }
+ },
+ {
+  "id": "m40-maldives-independence",
+  "era": "modern",
+  "year": 1965,
+  "dateLabel": "July 26, 1965",
+  "cat": "power",
+  "title": "The Maldives Goes It Alone",
+  "place": "Malé, Maldives",
+  "lat": 4.18,
+  "lng": 73.51,
+  "text": "On July 26, 1965, the Maldives gained full independence after years as a British Protectorate. In 2009 President Nasheed paid tribute to former President Ibrahim Nasir's role in securing it. Every year on July 26 the country marks Independence Day with a flag-hoisting at Republic Square in Malé at 6 in the morning, a special prayer, and the national anthem played by the military band.",
+  "source": {
+   "name": "The President's Office, Maldives: Flag-hoisting ceremony to commemorate the 61st Independence Day",
+   "url": "https://presidency.gov.mv/Press/Article/37058"
+  },
+  "source2": {
+   "name": "The President's Office, Maldives: Concerted efforts needed to realize the requisites of freedom (2009)",
+   "url": "https://presidency.gov.mv/Press/Article/426"
+  }
+ },
+ {
+  "id": "m40-tsunami-sri-lanka",
+  "era": "modern",
+  "year": 2004,
+  "dateLabel": "December 26, 2004",
+  "cat": "nature",
+  "title": "The Wave That Struck a Train",
+  "place": "Peraliya, Galle District, Sri Lanka",
+  "lat": 6.16,
+  "lng": 80.07,
+  "text": "On December 26, 2004, a magnitude 9.0 earthquake off Sumatra sent the deadliest tsunami in recorded history across the Indian Ocean, killing more than 31,000 people in Sri Lanka. At Peraliya the waves hit a train broadside, killing everyone aboard. Sri Lanka's Geological Survey and Mines Bureau was the first scientific agency to respond, sending teams to survey the battered coasts.",
+  "source": {
+   "name": "USGS Pacific Coastal and Marine Science Center: The December 26, 2004 Indian Ocean Tsunami: Initial Findings in Sri Lanka",
+   "url": "https://cmgds.marine.usgs.gov/data/srilanka05/index.html"
+  },
+  "source2": {
+   "name": "USGS Pacific Coastal and Marine Science Center: Perelyga train photo",
+   "url": "https://cmgds.marine.usgs.gov/data/srilanka05/perelyga_train.html"
+  }
+ },
+ {
+  "id": "m40-maldives-underwater-cabinet",
+  "era": "modern",
+  "year": 2009,
+  "dateLabel": "October 17, 2009",
+  "cat": "nature",
+  "title": "A Cabinet Meeting Under the Sea",
+  "place": "Girifushi, Kaafu Atoll, Maldives",
+  "lat": 4.32,
+  "lng": 73.6,
+  "text": "On October 17, 2009, the Maldives' president, vice president and eleven ministers dived 4 metres into a lagoon off Girifushi Island for the world's first underwater cabinet meeting. Using waterproof pencils on a plastic slate, they signed an \"SOS from the frontline\" calling for global carbon cuts before the Copenhagen climate summit. The Maldives, the president said, is a frontline state.",
+  "source": {
+   "name": "The President's Office, Maldives: Maldives holds world's first underwater Cabinet meeting",
+   "url": "https://presidency.gov.mv/Press/Article/633"
+  }
+ }
+]

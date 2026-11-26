@@ -1,0 +1,430 @@
+[
+ {
+  "id": "z05-damascus-room-painted-panels",
+  "era": "exploration",
+  "year": 1788,
+  "dateLabel": "1785–1788",
+  "cat": "daily",
+  "title": "A Painted Room Kept Cool in Damascus",
+  "place": "Old City, Damascus, Syria",
+  "lat": 33.51,
+  "lng": 36.31,
+  "text": "Between 1785 and 1788, craftsmen in Damascus painted and lacquered the wooden walls of a reception room with flower bouquets bursting from vases and gilded sprays. Damascus houses had flat roofs, and main halls rose through both floors, keeping rooms airy and cool in summer. The varnish probably came from a scented cypress resin. In 1883 a London museum bought the whole room for 500 pounds.",
+  "source": {
+   "name": "Victoria and Albert Museum: The Damascus Room, doors, Syria, 1785-88",
+   "url": "https://collections.vam.ac.uk/item/O41776/"
+  }
+ },
+ {
+  "id": "z05-isfahan-cope-armenian-carpet",
+  "era": "exploration",
+  "year": 1625,
+  "dateLabel": "About 1600–1650",
+  "cat": "culture",
+  "title": "A Priest's Robe Woven Like a Carpet",
+  "place": "New Julfa, Isfahan, Iran",
+  "lat": 32.63,
+  "lng": 51.66,
+  "text": "Armenian Christians in Safavid Isfahan wove this priest's vestment as a carpet with a superfine silk pile. Worn at Mass, it showed the Crucifixion on the priest's back, while Mary and the Archangel Gabriel faced each other across his chest. The Crucifixion copied a Western picture, perhaps from a printed Armenian Bible. Centuries later, an owner began cutting it up to sell as carpet samples.",
+  "source": {
+   "name": "Victoria and Albert Museum: Armenian church vestment (The Isfahan Cope)",
+   "url": "https://collections.vam.ac.uk/item/O93501/"
+  }
+ },
+ {
+  "id": "z05-fath-ali-shah-oil-portraits",
+  "era": "industrial",
+  "year": 1810,
+  "dateLabel": "About 1800–1830",
+  "cat": "power",
+  "title": "The Shah Who Painted Himself Young",
+  "place": "Tehran, Iran",
+  "lat": 35.68,
+  "lng": 51.42,
+  "text": "Fath 'Ali Shah, second ruler of Iran's Qajar dynasty, revived oil painting with a purpose. His uncle, the dynasty's founder, had been castrated as a child by enemies, so the new shah had himself painted slim-waisted, youthful and with a magnificent beard. These life-size portraits went abroad as diplomatic gifts or were built into palace walls, flanked by paintings of sons, courtiers and acrobatic dancers.",
+  "source": {
+   "name": "Victoria and Albert Museum: Portrait of Fath 'Ali Shah",
+   "url": "https://collections.vam.ac.uk/item/O97147/"
+  },
+  "source2": {
+   "name": "Victoria and Albert Museum: Female Tumbler",
+   "url": "https://collections.vam.ac.uk/item/O81783/"
+  }
+ },
+ {
+  "id": "z05-iznik-tomato-red",
+  "era": "exploration",
+  "year": 1557,
+  "dateLabel": "1550s",
+  "cat": "discovery",
+  "title": "Iznik Potters Find a Brilliant Red",
+  "place": "İznik, Bursa Province, Turkey",
+  "lat": 40.43,
+  "lng": 29.72,
+  "text": "When the Süleymaniye mosque rose in Istanbul between 1550 and 1557, the Ottoman court turned again to the potters of Iznik. They made their first tiles for it and added a dazzling new colour: a bright red under the glaze, made from a slip of special clay. Soon dishes and bottles bloomed with big tulips, roses and carnations in red, green and blue.",
+  "source": {
+   "name": "Victoria and Albert Museum: Bottle, Iznik, 1575-1580",
+   "url": "https://collections.vam.ac.uk/item/O105389/"
+  }
+ },
+ {
+  "id": "z05-kutahya-archangel-dish",
+  "era": "exploration",
+  "year": 1718,
+  "dateLabel": "1718",
+  "cat": "culture",
+  "title": "An Archangel on an Armenian Dish",
+  "place": "Kütahya, Kütahya Province, Turkey",
+  "lat": 39.42,
+  "lng": 29.98,
+  "text": "In 1718, Armenian potters in Ottoman Kütahya painted a dish of the Archangel Michael holding a sword and a dead man's soul. Michael's blouse folds into a hidden face with ears and a moustache. The patron, a cleric named Abraham, later became head of the whole Armenian church. Three years earlier, a French merchant had shipped home a dozen Kütahya coffee cups.",
+  "source": {
+   "name": "Victoria and Albert Museum: Dish with the Archangel Michael, Kütahya, 1718",
+   "url": "https://collections.vam.ac.uk/item/O9327/"
+  },
+  "source2": {
+   "name": "Victoria and Albert Museum: Coffee pot, Kütahya, about 1725",
+   "url": "https://collections.vam.ac.uk/item/O85345/"
+  }
+ },
+ {
+  "id": "z05-el-gigante-avocados",
+  "era": "ancient",
+  "year": -5400,
+  "dateLabel": "About 5400 BCE",
+  "cat": "daily",
+  "title": "Honduran Foragers Grow Bigger Avocados",
+  "place": "El Gigante rockshelter, Estanzuela River, western Honduras",
+  "lat": 14.22,
+  "lng": -88.06,
+  "text": "High on a volcanic plateau in western Honduras, a huge dry rockshelter 42 metres wide kept avocado leftovers for 11,000 years, including more than 1,600 bits of rind. Measuring them, researchers found people were already favouring bigger fruit with thicker skins by about 7,400 years ago. Selection continued for millennia, and the seeds resemble today's Guatemalan avocado variety, a highland fruit shaped by human hands.",
+  "source": {
+   "name": "PNAS (PMC): Early evidence of avocado domestication from El Gigante Rockshelter, Honduras",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11912431/"
+  }
+ },
+ {
+  "id": "z05-checua-lost-lineage",
+  "era": "ancient",
+  "year": -4000,
+  "dateLabel": "About 6,000 years ago",
+  "cat": "discovery",
+  "title": "A Lost Family Line in the Andes",
+  "place": "Checua, Nemocón, Bogotá Altiplano, Colombia",
+  "lat": 5.1,
+  "lng": -73.85,
+  "text": "Around 6,000 years ago, hunter-gatherers buried their dead at Checua on Colombia's high Bogotá plateau. Ancient DNA from seven of them revealed a surprise: a previously unknown branch of the very first peoples to spread across South America. Yet these foragers left no genetic trace in later South Americans. By 2,000 years ago, newcomers with Central American ancestry had replaced them on the plateau.",
+  "source": {
+   "name": "Science Advances (PMC): A 6000-year-long genomic transect from the Bogotá Altiplano",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12118548/"
+  }
+ },
+ {
+  "id": "z05-atacama-megatsunami",
+  "era": "ancient",
+  "year": -1800,
+  "dateLabel": "About 3,800 years ago",
+  "cat": "nature",
+  "title": "A Giant Wave Empties the Desert Coast",
+  "place": "Zapatero shell midden, near Taltal, Antofagasta, Chile",
+  "lat": -24.93,
+  "lng": -70.52,
+  "text": "About 3,800 years ago, a fault roughly 1,000 kilometres long ruptured off northern Chile, probably a magnitude 9.5 quake. Its tsunami tore into fishing camps on the Atacama coast. At Zapatero, waves toppled stone houses on a shell midden, and sand still fills the wreckage. Afterwards, sites in the Taltal area dropped by about 65 percent, and a cemetery of sea-fishing people soon appeared at an oasis 40 kilometres inland.",
+  "source": {
+   "name": "Science Advances (PMC): Did a 3800-year-old Mw ~9.5 earthquake trigger major social disruption in the Atacama Desert?",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8985920/"
+  }
+ },
+ {
+  "id": "z05-huenul-rock-art",
+  "era": "ancient",
+  "year": -6200,
+  "dateLabel": "About 8,200 years ago",
+  "cat": "culture",
+  "title": "Patagonia's Oldest Dated Paintings",
+  "place": "Cueva Huenul 1, northern Neuquén, Argentina",
+  "lat": -36.95,
+  "lng": -69.85,
+  "text": "In a desert cave in northern Patagonia, people began painting about 8,200 years ago and kept adding images for over 3,000 years, roughly 130 generations. Most are red hematite dots, lines, grids and crosses, with a few humans, guanacos and rheas. Dating the pigments made them South America's oldest directly dated paintings. They began during a harsh dry spell, perhaps as a way to share knowledge.",
+  "source": {
+   "name": "Science Advances (PMC): Earliest directly dated rock art from Patagonia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10866545/"
+  }
+ },
+ {
+  "id": "z05-chavin-snuff-tubes",
+  "era": "ancient",
+  "year": -800,
+  "dateLabel": "About 800 BCE",
+  "cat": "culture",
+  "title": "Snuff Tubes in Chavín's Secret Tunnel",
+  "place": "Gallery 3, Chavín de Huántar, Áncash, Peru",
+  "lat": -9.59,
+  "lng": -77.18,
+  "text": "Deep inside Chavín de Huántar, Peru's great temple, archaeologists opened a sealed underground gallery about seven metres long. It held bone tubes like those used for sniffing plants elsewhere in the Andes. Chemical tests on six found DMT, bufotenine and nicotine, traces of vilca seeds and wild tobacco. It is the first direct proof that rituals in Chavín's hidden rooms involved mind-altering plants.",
+  "source": {
+   "name": "PNAS (PMC): Pre-Hispanic ritual use of psychoactive plants at Chavín de Huántar, Peru",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12088378/"
+  }
+ },
+ {
+  "id": "z05-crooked-tree-fish-weirs",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 2000 BCE",
+  "cat": "daily",
+  "title": "Zigzag Fish Traps in a Belize Swamp",
+  "place": "Crooked Tree Wildlife Sanctuary, Belize District, Belize",
+  "lat": 17.78,
+  "lng": -88.53,
+  "text": "Drones flying over Belize's largest inland wetland in the dry season spotted 167 zigzag channels, about 108 kilometres in total, many paired with ponds. Dug by hunter-gatherer-fishers and later used by their Maya descendants, they steered fish during yearly floods. Most radiocarbon dates fall before 1200 BCE, making this the earliest large fish-trapping system known in Mesoamerica. Today the channels are only 20 centimetres deep.",
+  "source": {
+   "name": "Science Advances (PMC): Late Archaic large-scale fisheries in the wetlands of the pre-Columbian Maya Lowlands",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11584014/"
+  }
+ },
+ {
+  "id": "z05-ortiz-first-puerto-ricans",
+  "era": "ancient",
+  "year": -1800,
+  "dateLabel": "About 1900–800 BCE",
+  "cat": "culture",
+  "title": "Puerto Rico's Oldest Graves",
+  "place": "Ortiz site, Cabo Rojo, Puerto Rico",
+  "lat": 18.03,
+  "lng": -67.16,
+  "text": "Fewer than twenty burials survive from Puerto Rico's first islanders, so five skeletons from the Ortiz site in Cabo Rojo matter a lot. Radiocarbon dating made them the island's oldest known graves, spread over more than 1,000 years. Each person was buried with a pendant, plus shell, stone tools, coral and ochre. Their teeth were worn almost to the roots, from tough food or using teeth as tools.",
+  "source": {
+   "name": "PLOS ONE (PMC): Reconsidering the lives of the earliest Puerto Ricans: the Ortiz site",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10132640/"
+  }
+ },
+ {
+  "id": "z05-callacpuma-stone-circle",
+  "era": "ancient",
+  "year": -2750,
+  "dateLabel": "About 2750 BCE",
+  "cat": "power",
+  "title": "A Ring of Standing Stones in Peru",
+  "place": "Callacpuma, Cajamarca basin, Cajamarca, Peru",
+  "lat": -7.17,
+  "lng": -78.45,
+  "text": "Around 2750 BCE, people in Peru's northern highlands raised a circular plaza 18 metres across, walled with huge stones set upright and free-standing. Charcoal under the walls gave the date. It is one of the earliest megalithic ceremonial monuments in the Americas, dating between Stonehenge (about 2900 BCE) and Giza's pyramids (about 2650 BCE). No other Andean circular plaza is known to be built this way.",
+  "source": {
+   "name": "Science Advances (PMC): A monumental stone plaza at 4750 B.P. in the Cajamarca Valley of Peru",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10866561/"
+  }
+ },
+ {
+  "id": "z05-daniells-muscat-forts",
+  "era": "exploration",
+  "year": 1793,
+  "dateLabel": "1793",
+  "cat": "journeys",
+  "title": "Painters Stranded by War in Muscat",
+  "place": "Muscat harbour, Muscat, Oman",
+  "lat": 23.62,
+  "lng": 58.59,
+  "text": "In June 1793, the painter Thomas Daniell and his nephew William sailed from Bombay to Muscat, planning to head home to England. In Muscat they learned that Britain and France were at war, so they turned back to India. They sketched the harbour, guarded by two 16th-century Portuguese forts. Few European artists ever reached Muscat, and William exhibited his view nearly forty years later.",
+  "source": {
+   "name": "Victoria and Albert Museum: East View of The Forts Jellali & Merani, Muscat, by William Daniell",
+   "url": "https://collections.vam.ac.uk/item/O142682/"
+  }
+ },
+ {
+  "id": "z05-tholozan-relapsing-fever-tick",
+  "era": "industrial",
+  "year": 1882,
+  "dateLabel": "1882",
+  "cat": "discovery",
+  "title": "The Shah's Doctor and the Fever Tick",
+  "place": "Tehran, Iran",
+  "lat": 35.69,
+  "lng": 51.39,
+  "text": "Joseph Tholozan, a French doctor born in the Indian Ocean, came to Tehran in 1858 as Naser al-Din Shah's personal physician and stayed 38 years. Puzzled by a fever that kept returning in waves, he picked ticks off his patients and mailed them to colleagues in France. In 1882 entomologists named the culprit after him: Ornithodoros tholozani, still the main carrier of the disease in Iran.",
+  "source": {
+   "name": "Archives of Iranian Medicine (PMC): Discovery of Ornithodoros tholozani, the main vector of Iranian tick-borne relapsing fever",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11532656/"
+  }
+ },
+ {
+  "id": "z05-bursa-1839-register",
+  "era": "industrial",
+  "year": 1839,
+  "dateLabel": "1839",
+  "cat": "daily",
+  "title": "A Head Count That Noted Beards",
+  "place": "Bursa, Bursa Province, Turkey",
+  "lat": 40.19,
+  "lng": 29.06,
+  "text": "In 1839, Ottoman officials listed every male in the silk city of Bursa, boys included, to plan army recruitment and taxes. For each they wrote name, age and job, plus height (short, medium or tall), facial hair, and any disability. Women were left out until the empire's first modern census in 1881. Historians have now typed the whole register into a database, household by household.",
+  "source": {
+   "name": "Scientific Data (PMC): A nineteenth-century urban Ottoman population micro dataset from the 1840s Bursa registers",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11148089/"
+  }
+ },
+ {
+  "id": "z05-gertrude-bell-hatra-photos",
+  "era": "industrial",
+  "year": 1911,
+  "dateLabel": "1911",
+  "cat": "journeys",
+  "title": "Gertrude Bell Photographs Hatra",
+  "place": "Hatra, Nineveh Governorate, Iraq",
+  "lat": 35.59,
+  "lng": 42.72,
+  "text": "In 1911, on her third great journey across the Middle East, 43-year-old Gertrude Bell reached the desert ruins of Hatra in Ottoman Iraq. An amateur archaeologist, she took a set of 42 photographs there. In one, a moustached Turkish soldier with field glasses leans against a ruined Parthian temple. Years later, Bell would advise British officials, including Winston Churchill, on creating modern Iraq.",
+  "source": {
+   "name": "Victoria and Albert Museum: Photograph by Gertrude Bell of a ruined temple at Hatra, Iraq, 1911",
+   "url": "https://collections.vam.ac.uk/item/O1270062/"
+  }
+ },
+ {
+  "id": "z05-jerusalem-pearl-souvenirs",
+  "era": "exploration",
+  "year": 1650,
+  "dateLabel": "17th century",
+  "cat": "culture",
+  "title": "Mother-of-Pearl Souvenirs for Pilgrims",
+  "place": "Old City, Jerusalem",
+  "lat": 31.78,
+  "lng": 35.23,
+  "text": "Christian pilgrims to Jerusalem went home with glittering souvenirs. Craftsmen, probably in Jerusalem, made little wooden shrines inlaid with mother-of-pearl, some shaped as sections of model churches copying the Church of the Holy Sepulchre, with cross-shaped spaces inside for relics. Later, carvers, probably including Franciscan friars, cut Nativity scenes into shells to make baptismal spoons. One of the largest models, the Pearson Model, is now in Paris.",
+  "source": {
+   "name": "Victoria and Albert Museum: Miniature shrine, possibly Jerusalem, 17th century",
+   "url": "https://collections.vam.ac.uk/item/O301241/"
+  },
+  "source2": {
+   "name": "Victoria and Albert Museum: Baptismal spoon, The Nativity, Jerusalem, early 19th century",
+   "url": "https://collections.vam.ac.uk/item/O88873/"
+  }
+ },
+ {
+  "id": "z05-yemen-jewish-filigree",
+  "era": "industrial",
+  "year": 1875,
+  "dateLabel": "1850–1900",
+  "cat": "daily",
+  "title": "Yemen's Jewish Silversmiths",
+  "place": "Sanaa, Yemen",
+  "lat": 15.35,
+  "lng": 44.21,
+  "text": "In 19th-century Yemen, Jewish goldsmiths made most of the country's silver jewellery, famed for delicate filigree. Muslim and Jewish women alike wore their necklaces, such as the many-stranded lazem with a tiny amulet case. Its knobbly beads, built from little pyramids of silver granules soldered together, are found nowhere else. The craft continued until the smiths left for Israel in the 1950s.",
+  "source": {
+   "name": "Victoria and Albert Museum: Multi-strand necklace (lazem), Yemen, 1850-1900",
+   "url": "https://collections.vam.ac.uk/item/O79322/"
+  },
+  "source2": {
+   "name": "Victoria and Albert Museum: Necklace (douggeh) of silver filigree beads, Yemen, 1850-1900",
+   "url": "https://collections.vam.ac.uk/item/O79839/"
+  }
+ },
+ {
+  "id": "z05-wood-dawkins-palmyra",
+  "era": "exploration",
+  "year": 1751,
+  "dateLabel": "1751",
+  "cat": "discovery",
+  "title": "Two Englishmen Measure Palmyra's Ruins",
+  "place": "Palmyra (Tadmur), Homs Governorate, Syria",
+  "lat": 34.55,
+  "lng": 38.27,
+  "text": "In 1751 two English antiquaries, Robert Wood and James Dawkins, reached the ruined Roman-era city of Palmyra in the Syrian desert. Their 1753 book, The Ruins of Palmyra, was packed with careful plans and architectural details. A later painting showed them arriving in Roman togas. In 1859 the painter Carl Haag swore he would walk there in Bedouin sandals if he had to, and did reach it.",
+  "source": {
+   "name": "Victoria and Albert Museum: Dawkins and Wood discovering Palmyra, engraving, 1773",
+   "url": "https://collections.vam.ac.uk/item/O77355/"
+  },
+  "source2": {
+   "name": "Victoria and Albert Museum: The Triumphal Arch, Palmyra, by Carl Haag, 1859",
+   "url": "https://collections.vam.ac.uk/item/O144562/"
+  }
+ },
+ {
+  "id": "z05-sadiq-bey-mecca-photos",
+  "era": "industrial",
+  "year": 1880,
+  "dateLabel": "1880",
+  "cat": "journeys",
+  "title": "The First Camera at the Hajj",
+  "place": "Masjid al-Haram, Mecca, Saudi Arabia",
+  "lat": 21.42,
+  "lng": 39.83,
+  "text": "Muhammad Sadiq Bey, an Egyptian army engineer and treasurer of Egypt's Hajj caravan, carried a glass-plate camera to the holy cities. In 1880 and 1881 he photographed the Great Mosque of Mecca, Medina, and pilgrims camped at Mina. His album of 12 views, including four panoramas, won a gold medal at a geography congress in Venice in 1881. A single unmounted print sold for 40 francs.",
+  "source": {
+   "name": "Khalili Collections: Panorama of the Meccan Sanctuary and its environs, Muhammad Sadiq Bey",
+   "url": "https://khalilicollections.org/collections/hajj-and-the-arts-of-pilgrimage/panorama-al-haram-almakki-wa-ma-hawluhu-arc-pp-0254-1/"
+  },
+  "source2": {
+   "name": "Victoria and Albert Museum: Encampment of pilgrims at Mina, by Sadic Bey, 1880",
+   "url": "https://collections.vam.ac.uk/item/O1031125/"
+  }
+ },
+ {
+  "id": "z05-isfahan-astrolabe-1667",
+  "era": "exploration",
+  "year": 1667,
+  "dateLabel": "1667",
+  "cat": "discovery",
+  "title": "A Brass Star Map from Isfahan",
+  "place": "Isfahan, Iran",
+  "lat": 32.66,
+  "lng": 51.68,
+  "text": "In 1667 an Isfahan craftsman named Khalil Muhammad made this brass astrolabe, and an artist from Yazd decorated it. Its lace-like top disc is a rotating star map with pointers marking the stars. Owners could find the five daily prayer times or the direction of Mecca, or cast horoscopes. Many survive from this era, when astrolabe-making revived and astrology was popular at court.",
+  "source": {
+   "name": "Victoria and Albert Museum: Astrolabe, Isfahan, dated 1667",
+   "url": "https://collections.vam.ac.uk/item/O69976/"
+  },
+  "source2": {
+   "name": "Victoria and Albert Museum: Astrolabe, Isfahan, 1715",
+   "url": "https://collections.vam.ac.uk/item/O81928/"
+  }
+ },
+ {
+  "id": "z05-ouseley-mission-bushehr",
+  "era": "industrial",
+  "year": 1811,
+  "dateLabel": "1811",
+  "cat": "journeys",
+  "title": "An Envoy Sails Home to Persia",
+  "place": "Bushehr, Bushehr Province, Iran",
+  "lat": 28.97,
+  "lng": 50.84,
+  "text": "On 1 March 1811, a British mission to the Shah dropped anchor at Bushehr, Persia's Gulf port, almost eight months after leaving England. With them came Mirza Abul Hassan Khan, Persia's ambassador, returning from London. While the party waited in port until 25 March before setting out for Tehran, Colonel Joseph D'Arcy sketched how water was raised from a well to irrigate the fields.",
+  "source": {
+   "name": "Victoria and Albert Museum: Method of Raising Water for Irrigation, al-Bushire, by Joseph D'Arcy, 1811",
+   "url": "https://collections.vam.ac.uk/item/O134359/"
+  }
+ },
+ {
+  "id": "z05-nixtun-chich-grid-city",
+  "era": "ancient",
+  "year": -600,
+  "dateLabel": "Before 500 BCE",
+  "cat": "power",
+  "title": "The Only Maya City Built on a Grid",
+  "place": "Nixtun-Ch'ich', Lake Petén Itzá, Petén, Guatemala",
+  "lat": 16.93,
+  "lng": -89.95,
+  "text": "On a peninsula jutting into Lake Petén Itzá, the largest lake in the Maya lowlands, early Maya laid out a city on a grid before 500 BCE. Streets running east to west cross avenues at near-right angles, a plan known nowhere else in the Maya world. Archaeologist Prudence Rice thinks the blocks may echo the scales of a mythical crocodile from a creation story.",
+  "source": {
+   "name": "Archaeology Magazine: The City at the Beginning of the World",
+   "url": "https://archaeology.org/issues/online/collection/maya-urban-grid/"
+  }
+ },
+ {
+  "id": "z05-taperinha-early-pottery",
+  "era": "ancient",
+  "year": -5000,
+  "dateLabel": "About 7,000 years ago",
+  "cat": "daily",
+  "title": "Pots from an Amazon Shell Heap",
+  "place": "Taperinha shell midden, near Santarém, Pará, Brazil",
+  "lat": -2.52,
+  "lng": -54.3,
+  "text": "Near Santarém on the Amazon, generations of people left a heap of shells more than six metres deep at Taperinha. Its deepest layers held pottery about 7,000 years old, among the earliest in the Americas, made by people who lived largely on fish and shellfish. Archaeologist Anna Roosevelt first estimated the mound's age from old shells in museum drawers before she dug it.",
+  "source": {
+   "name": "Pesquisa FAPESP: Anna Curtenius Roosevelt, the rainforest archaeologist",
+   "url": "https://revistapesquisa.fapesp.br/en/anna-curtenius-roosevelt-the-rainforest-archaeologist/"
+  }
+ }
+]

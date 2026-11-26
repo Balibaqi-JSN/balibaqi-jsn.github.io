@@ -1,0 +1,350 @@
+[
+ {
+  "id": "m44-yijing-visits-srivijaya",
+  "era": "medieval",
+  "year": 671,
+  "dateLabel": "671 CE",
+  "cat": "journeys",
+  "title": "A Pilgrim Stops at Srivijaya",
+  "place": "Palembang, South Sumatra, Indonesia",
+  "lat": -2.99,
+  "lng": 104.76,
+  "text": "In 671 the Chinese Buddhist pilgrim I-ching (Yijing) reached Srivijaya after less than 20 days at sea from Canton, on his way to the great teaching centre of Nalanda in India. The ruler helped him on his journey. I-ching praised Palembang, with more than a thousand monks, as an excellent place to begin studying Buddhist texts.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Indonesia, The Malay kingdom of Srivijaya-Palembang",
+   "url": "https://www.britannica.com/place/Indonesia/The-Malay-kingdom-of-Srivijaya-Palembang"
+  }
+ },
+ {
+  "id": "m44-airlangga-hailed-ruler",
+  "era": "medieval",
+  "year": 1019,
+  "dateLabel": "1019 CE",
+  "cat": "power",
+  "title": "The Hermit Prince Becomes King",
+  "place": "Pasuruan, East Java, Indonesia",
+  "lat": -7.64,
+  "lng": 112.91,
+  "text": "After the eastern Javanese capital was destroyed in 1016, the half-Balinese prince Erlangga (Airlangga) lived with hermits until 1019, when he was hailed as ruler of the small principality of Pasuruan. He slowly rebuilt the kingdom, winning his final victory around 1035. Later he split it between two sons, a choice that led to fighting between Kadiri and Janggala.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Indonesia, Eastern Java and the archipelago from c. 1000 to c. 1300",
+   "url": "https://www.britannica.com/place/Indonesia/Eastern-Java-and-the-archipelago-from-c-1000-to-c-1300"
+  }
+ },
+ {
+  "id": "m44-ken-angrok-singhasari",
+  "era": "medieval",
+  "year": 1222,
+  "dateLabel": "1222 CE",
+  "cat": "power",
+  "title": "An Adventurer Seizes the Throne",
+  "place": "Singosari, Malang, East Java, Indonesia",
+  "lat": -7.89,
+  "lng": 112.66,
+  "text": "In 1222 Kertajaya, king of Kadiri, was defeated by an adventurer named Ken Angrok. Angrok made himself king and set up a new capital at Kutaraja, later renamed Singhasari, near the harbours of east Java. A later chronicle says he saw himself as Bhatara Guru, the divine teacher linked with the god Shiva.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Indonesia, Eastern Java and the archipelago from c. 1000 to c. 1300",
+   "url": "https://www.britannica.com/place/Indonesia/Eastern-Java-and-the-archipelago-from-c-1000-to-c-1300"
+  }
+ },
+ {
+  "id": "m44-kertanagara-malayu",
+  "era": "medieval",
+  "year": 1275,
+  "dateLabel": "1275 CE",
+  "cat": "journeys",
+  "title": "Java Reaches Across to Sumatra",
+  "place": "Jambi, Sumatra, Indonesia",
+  "lat": -1.61,
+  "lng": 103.61,
+  "text": "In 1275 the Javanese king Kertanagara imposed his authority on Malayu in southern Sumatra. Historians have suggested he wanted a religious alliance against the Mongol ruler Kublai Khan, though his demands were probably limited to homage and tribute. His followers revered him as a Shiva-Buddha, and the poet Prapancha admired his scholarly zeal.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Indonesia, Eastern Java and the archipelago from c. 1000 to c. 1300",
+   "url": "https://www.britannica.com/place/Indonesia/Eastern-Java-and-the-archipelago-from-c-1000-to-c-1300"
+  }
+ },
+ {
+  "id": "m44-samudra-pasai-royal-tomb",
+  "era": "medieval",
+  "year": 1297,
+  "dateLabel": "1297 CE",
+  "cat": "culture",
+  "title": "A Royal Tomb in Arabic",
+  "place": "Samudera Pasai, North Aceh, Indonesia",
+  "lat": 5.16,
+  "lng": 97.16,
+  "text": "Strong evidence of Islam in Indonesia appears at the end of the 13th century in northern Sumatra, where small Muslim trading kingdoms grew up at Samudra-Pasai and Perlak. A royal tomb at Samudra-Pasai, dating to 1297, is inscribed entirely in Arabic. By the end of the 14th century Pasai had become a wealthy commercial centre, likely run with the help of Muslim traders and teachers.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Indonesia, The Majapahit era and Islamic influence",
+   "url": "https://www.britannica.com/place/Indonesia/The-Majapahit-era"
+  }
+ },
+ {
+  "id": "m44-terengganu-inscribed-stone",
+  "era": "medieval",
+  "year": 1303,
+  "dateLabel": "1303 CE",
+  "cat": "culture",
+  "title": "The Stone in the Riverbank",
+  "place": "Kuala Berang, Hulu Terengganu, Malaysia",
+  "lat": 5.07,
+  "lng": 103.01,
+  "text": "The Terengganu Inscribed Stone carries the oldest Jawi writing found in Malaysia. Its text names Islam as the official religion and sets out Islamic laws against wrongdoing, and it is seen as evidence that Islam had reached Terengganu by 1303. Centuries later, in 1903, it was found half-sunk in the bank of the Tersat River at Kuala Berang.",
+  "source": {
+   "name": "Perpustakaan Negara Malaysia (National Library of Malaysia): Batu Bersurat Terengganu",
+   "url": "https://www.pnm.gov.my/yangpertama/Kom_Batusurat.htm"
+  }
+ },
+ {
+  "id": "m44-wang-dayuan-temasek",
+  "era": "medieval",
+  "year": 1349,
+  "dateLabel": "1349 CE",
+  "cat": "journeys",
+  "title": "A Trader's Eyewitness Singapore",
+  "place": "Fort Canning Hill, Singapore",
+  "lat": 1.29,
+  "lng": 103.85,
+  "text": "In 1349 the Chinese trader Wang Dayuan wrote Dao yi zhi lue, the only surviving eyewitness account of ancient Singapore. He described Longyamen, the Dragon's Tooth Strait, as a dangerous pirate lair and placed the meeting point of the Eastern and Western Oceans there. His Banzu is linked to today's Fort Canning Hill, where finds from 1300 to 1600 have been excavated.",
+  "source": {
+   "name": "National Library Board Singapore: The Yuan in the Straits of Malacca",
+   "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=af451766-b8b1-4d47-824f-78ab79aab805"
+  },
+  "source2": {
+   "name": "National Library Board Singapore, Curiocity: Bukit Larangan, Early Singapore in Maps, Texts, and Artifacts",
+   "url": "https://curiocity.nlb.gov.sg/digital-stories/fort-canning-hill/bukit-larangan/"
+  }
+ },
+ {
+  "id": "m44-nagarakertagama-poem",
+  "era": "medieval",
+  "year": 1365,
+  "dateLabel": "1365 CE",
+  "cat": "culture",
+  "title": "A Poem Paints Majapahit",
+  "place": "Trowulan, Mojokerto, East Java, Indonesia",
+  "lat": -7.56,
+  "lng": 112.38,
+  "text": "In 1365 the poet Prapancha finished the Nagarakertagama, a rare 14th-century view of the Majapahit kingdom under Hayam Wuruk. It follows the king on constant tours of his lands and describes a New Year ceremony where village leaders and envoys came to pay homage. The poem survives in a manuscript found on Lombok at the end of the 19th century.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Indonesia, The Majapahit era",
+   "url": "https://www.britannica.com/place/Indonesia/The-Majapahit-era"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Indonesia, Eastern Java and the archipelago from c. 1000 to c. 1300",
+   "url": "https://www.britannica.com/place/Indonesia/Eastern-Java-and-the-archipelago-from-c-1000-to-c-1300"
+  }
+ },
+ {
+  "id": "m44-king-of-boni-nanjing",
+  "era": "medieval",
+  "year": 1408,
+  "dateLabel": "1408 CE",
+  "cat": "journeys",
+  "title": "Brunei's King Sails to China",
+  "place": "Kota Batu, Brunei-Muara, Brunei",
+  "lat": 4.88,
+  "lng": 114.97,
+  "text": "Friendly contact between Boni (Brunei) and China went back to the Northern Song dynasty. In 1408 Manarejiana, ruler of Boni, paid a friendly visit to China, fell ill that October and died at the age of 28. He was buried in Nanjing, and his tomb is one of only two foreign rulers' tombs in China.",
+  "source": {
+   "name": "ASEAN-China Centre: Visit to the Tomb of the King of Boni",
+   "url": "http://www.asean-china-center.org/english/2016-11/11/c_135823037.htm"
+  }
+ },
+ {
+  "id": "m44-paduka-batara-sulu",
+  "era": "medieval",
+  "year": 1417,
+  "dateLabel": "1417 CE",
+  "cat": "journeys",
+  "title": "Sulu's Eastern King Meets the Emperor",
+  "place": "Jolo, Sulu, Philippines",
+  "lat": 6.05,
+  "lng": 121.0,
+  "text": "In 1417 Paduka Batara, the Eastern King of Sulu, travelled to China with more than 340 people. He gave Emperor Yongle a letter in golden script and pearls, and received official seals in return. Heading home after 27 days in China, he fell ill and died in Dezhou. Two sons stayed to guard his tomb, and their descendants still live there.",
+  "source": {
+   "name": "National Historical Commission of the Philippines, National Memory Project: Paduka Batara",
+   "url": "https://memory.nhcp.gov.ph/historical-sites/paduka-batara/"
+  }
+ },
+ {
+  "id": "m44-timor-first-dogs",
+  "era": "ancient",
+  "year": -1050,
+  "dateLabel": "About 3,000 years ago (c. 1050 BCE)",
+  "cat": "nature",
+  "title": "Timor's Well-Fed First Dog",
+  "place": "Matja Kuru, Lake Ira Lalaro, Lautém, Timor-Leste",
+  "lat": -8.45,
+  "lng": 127.14,
+  "text": "Dogs are dated to about 3,000 years ago in Timor-Leste. At the cave of Matja Kuru 2, north of the large lake Ira Lalaro, archaeologists found a dog that had been carefully buried. Chemical and size studies show it was well nourished, suggesting it lived in a settled farming community. Pottery had reached Timor's caves at least 3,500 years ago.",
+  "source": {
+   "name": "Sue O'Connor, Archipel 90 (2015): Rethinking the Neolithic in Island Southeast Asia, with Particular Reference to Timor-Leste and Sulawesi",
+   "url": "https://journals.openedition.org/archipel/362?lang=en"
+  }
+ },
+ {
+  "id": "m44-karama-valley-pottery",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 3,500 years ago",
+  "cat": "discovery",
+  "title": "Red Pots on a Sulawesi River",
+  "place": "Minanga Sipakko, Karama Valley, West Sulawesi, Indonesia",
+  "lat": -2.52,
+  "lng": 119.38,
+  "text": "Villages in Sulawesi's Karama valley, such as Minanga Sipakko and Kamassi, were lived in from about 3,500 to 2,800 years ago. Red-slipped pottery fills their earliest layers and closely resembles pots from Taiwan and the Philippines. Diggers also found schist and slate adzes like Neolithic ones from those lands, plus a few bones of domestic pigs.",
+  "source": {
+   "name": "Sue O'Connor, Archipel 90 (2015): Rethinking the Neolithic in Island Southeast Asia, with Particular Reference to Timor-Leste and Sulawesi",
+   "url": "https://journals.openedition.org/archipel/362?lang=en"
+  }
+ },
+ {
+  "id": "m44-faxian-storm-yepoti",
+  "era": "classical",
+  "year": 411,
+  "dateLabel": "c. 411 CE",
+  "cat": "journeys",
+  "title": "A Monk Blown Ashore in Java",
+  "place": "Yepoti (probably Java), Indonesia",
+  "lat": -6.9,
+  "lng": 110.4,
+  "text": "Around 411 the Chinese monk Faxian sailed home from Ceylon (Sri Lanka) with Buddhist texts he had collected. A violent storm drove his ship to an island called Yepoti, probably Java, though some scholars say Sumatra. After five months there he boarded another ship, which a second storm blew off course. In all he spent more than 200 days at sea.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Faxian",
+   "url": "https://www.britannica.com/biography/Faxian"
+  },
+  "source2": {
+   "name": "Himanshu Prabha Ray, Southeast Asian Site Reports (NUS Press): Of Bronzes and Heritage Routes across the Bay of Bengal",
+   "url": "https://epress.nus.edu.sg/sitereports/samis/content/4.%20Of%20Bronzes%20and%20Heritage%20Routes/"
+  }
+ },
+ {
+  "id": "m44-outriggers-to-africa",
+  "era": "classical",
+  "year": 50,
+  "dateLabel": "1st century CE",
+  "cat": "journeys",
+  "title": "Outriggers Bound for Africa",
+  "place": "Java Sea, Indonesia",
+  "lat": -5.5,
+  "lng": 110.0,
+  "text": "People of the Indonesian archipelago may have sailed far across Asia long before written trade records begin. The Roman writer Pliny the Elder's Natural History suggests that in the 1st century CE Indonesian outriggers were trading with the east coast of Africa. Indonesian settlements may already have existed on Madagascar, an island with distinct Indonesian cultural traits.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Indonesia, History (The archipelago: its prehistory and early historical records)",
+   "url": "https://www.britannica.com/place/Indonesia/History"
+  }
+ },
+ {
+  "id": "m44-ptolemy-iabadiou",
+  "era": "classical",
+  "year": 150,
+  "dateLabel": "2nd century CE",
+  "cat": "journeys",
+  "title": "Java on Ptolemy's Map",
+  "place": "Java, Indonesia",
+  "lat": -6.9,
+  "lng": 107.6,
+  "text": "In the 2nd century CE the geographer Ptolemy used reports from Indian merchants in his Guide to Geography. He wrote of Iabadiou, presumably Java, and Malaiou, which may stand for Malayu, a name once used for interior regions and kingdoms of Sumatra. Timber and spices from Java and the eastern islands were already known in faraway lands.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Indonesia, History (The archipelago: its prehistory and early historical records)",
+   "url": "https://www.britannica.com/place/Indonesia/History"
+  }
+ },
+ {
+  "id": "m44-sumatra-camphor-china",
+  "era": "classical",
+  "year": 450,
+  "dateLabel": "5th century CE",
+  "cat": "daily",
+  "title": "Camphor and 'Persian' Resins",
+  "place": "Northern Sumatra, Indonesia",
+  "lat": 2.0,
+  "lng": 98.4,
+  "text": "Regular voyages between Indonesia and China began in the 5th century CE. Chinese writings of the 5th and 6th centuries mention camphor from northern Sumatra, and they call two Indonesian resins 'Persian resins from the south ocean'. Indonesian shippers were probably taking advantage of southern China being cut off from the old overland route through Central Asia.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Indonesia, History (The archipelago: its prehistory and early historical records)",
+   "url": "https://www.britannica.com/place/Indonesia/History"
+  }
+ },
+ {
+  "id": "m44-lore-lindu-megaliths",
+  "era": "classical",
+  "year": -480,
+  "dateLabel": "Peak about 2,500 to 1,500 years ago",
+  "cat": "culture",
+  "title": "Stone Jars of the Sulawesi Highlands",
+  "place": "Behoa Valley, Lore Lindu, Central Sulawesi, Indonesia",
+  "lat": -1.71,
+  "lng": 120.26,
+  "text": "In the highlands of Central Sulawesi lie at least 2,000 megaliths: giant stone burial jars called kalamba with carved lids, stone mortars and ancestor statues up to 380 cm tall. The culture that made them reached its peak in the Early Metal Period, around 2,500 to 1,500 years ago. People lived in villages of pile-built houses on stone pillars.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Tentative List: Megalithic Cultural Heritage of Lore Lindu Area",
+   "url": "https://whc.unesco.org/en/tentativelists/6826/"
+  }
+ },
+ {
+  "id": "m44-pulau-ay-nutmeg",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "About 2,300 years ago",
+  "cat": "daily",
+  "title": "The Nutmeg Island Empties Out",
+  "place": "Pulau Ay, Banda Islands, Maluku, Indonesia",
+  "lat": -4.52,
+  "lng": 129.78,
+  "text": "On tiny Pulau Ay in the Banda Islands, people settled for over a thousand years and left pottery holding traces of nutmeg, the earliest known human use of the spice, at least 3,500 years old. They also raised pigs brought from afar. Then, about 2,300 years ago, the village was suddenly abandoned, and researchers still do not know why.",
+  "source": {
+   "name": "Smithsonian Magazine: Archaeologists Uncover Earliest Human Use of Nutmeg",
+   "url": "https://www.smithsonianmag.com/smart-news/prehistoric-pumpkin-spice-archaeologists-uncover-earliest-use-nutmeg-180970478/"
+  }
+ },
+ {
+  "id": "m44-bali-subak-water",
+  "era": "medieval",
+  "year": 850,
+  "dateLabel": "9th century",
+  "cat": "daily",
+  "title": "Bali's Water-Sharing Farmers",
+  "place": "Pakerisan Watershed, Gianyar, Bali, Indonesia",
+  "lat": -8.42,
+  "lng": 115.31,
+  "text": "Bali's subak, a cooperative system of canals and weirs run through water temples, dates back to the 9th century. Groups of farmers share water from each source, and water flows through the temples before reaching the rice fields. The Pakerisan watershed holds Bali's oldest known irrigation system, and today the island has about 1,200 water collectives.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Cultural Landscape of Bali Province, the Subak System",
+   "url": "https://whc.unesco.org/en/list/1194/"
+  }
+ },
+ {
+  "id": "m44-atisha-muarajambi",
+  "era": "medieval",
+  "year": 1050,
+  "dateLabel": "11th century",
+  "cat": "culture",
+  "title": "A Bengali Sage Studies in Sumatra",
+  "place": "Muarajambi Temple Compound, Jambi, Indonesia",
+  "lat": -1.48,
+  "lng": 103.67,
+  "text": "In the 11th century Atisha, a great Buddhist scholar from Bengal, sailed for 13 months to study with the Sumatran teacher Swarnadwipa Dharmakirti. He stayed 12 years at Muarajambi, a vast Buddhist learning centre linked to Nalanda in India. Atisha later went to Tibet, where his reforms gave rise to the Kadampa school, and Dharmakirti is still honoured there.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Tentative List: Muarajambi Temple Compound",
+   "url": "https://whc.unesco.org/en/tentativelists/6827/"
+  }
+ },
+ {
+  "id": "m44-cagayan-shell-middens",
+  "era": "ancient",
+  "year": -2200,
+  "dateLabel": "About 4,200 years ago",
+  "cat": "daily",
+  "title": "Mountains of Shells on the Cagayan",
+  "place": "Lal-lo, Cagayan, Philippines",
+  "lat": 18.2,
+  "lng": 121.66,
+  "text": "Along the Cagayan River, people piled up the shells of kabibe clams for thousands of years. By the Neolithic, about 4,200 to 4,000 years ago, these middens were about 100 by 50 metres and 3 metres deep. Their layers hold red-slipped pottery, clay spindle whorls, bark-cloth beaters, ornaments of Taiwan jade, domestic pig bones and grains of rice.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Tentative List: Prehistoric Sites of the Cagayan Valley Basin",
+   "url": "https://whc.unesco.org/en/tentativelists/6720/"
+  }
+ }
+]

@@ -1,0 +1,298 @@
+[
+ {
+  "id": "m04-laas-geel-painted-cattle",
+  "era": "ancient",
+  "year": -2700,
+  "dateLabel": "3rd millennium BCE",
+  "cat": "culture",
+  "title": "Painted Cows of Laas Geel",
+  "place": "Laas Geel, Somaliland, Somalia",
+  "lat": 9.78,
+  "lng": 44.45,
+  "text": "On a granite hill in Somaliland, some twenty rock shelters are covered with many-coloured paintings. Made in the 3rd millennium BCE by the region's first cattle breeders, they show flat-backed cattle, a two-coloured cow wearing a decorated chest-piece, and clothed people with arms opened wide. Nobody expected such art here until a French team found the site in December 2002.",
+  "source": {
+   "name": "French Ministry of Culture, Archéologie: Laas Geel, the African Lascaux",
+   "url": "https://archeologie.culture.gouv.fr/en/laas-geel-african-lascaux"
+  }
+ },
+ {
+  "id": "m04-mota-man-genome",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 4,500 years ago",
+  "cat": "discovery",
+  "title": "Africa's First Ancient Genome",
+  "place": "Mota Cave, Ethiopian highlands, Ethiopia",
+  "lat": 6.62,
+  "lng": 37.3,
+  "text": "About 4,500 years ago, a man was buried face-down in Mota, a cave in the highlands of Ethiopia cool and dry enough to preserve his DNA for thousands of years. From his petrous bone, a thick part of the skull just behind the ear, scientists read the first ancient human genome from Africa ever sequenced. Modern people of those highlands are his direct descendants.",
+  "source": {
+   "name": "University of Cambridge: Ancient genome from Africa sequenced for the first time",
+   "url": "https://www.cam.ac.uk/research/news/ancient-genome-from-africa-sequenced-for-the-first-time"
+  }
+ },
+ {
+  "id": "m04-baboons-from-punt",
+  "era": "ancient",
+  "year": -1550,
+  "dateLabel": "New Kingdom, 1550–1069 BCE",
+  "cat": "journeys",
+  "title": "Sacred Baboons from Punt",
+  "place": "Southern Red Sea coast, Eritrea",
+  "lat": 15.61,
+  "lng": 39.45,
+  "text": "Egyptians traded with the land of Punt for at least 1,100 years, bringing home incense, gold, leopard skins and living baboons, which were honoured as forms of Thoth, god of the moon and wisdom. Scientists tested two baboon mummies from Egypt's New Kingdom and found they were born outside Egypt, most likely in Eritrea, Ethiopia or Somalia, which helps narrow down where Punt lay.",
+  "source": {
+   "name": "Dartmouth College via EurekAlert!: Mummified baboons shine new light on the lost land of Punt",
+   "url": "https://www.eurekalert.org/news-releases/466834"
+  },
+  "source2": {
+   "name": "Dartmouth Anthropology: Mummified Baboons Shine New Light on the Lost Land of Punt",
+   "url": "https://anthropology.dartmouth.edu/news/2021/01/mummified-baboons-shine-new-light-lost-land-punt"
+  }
+ },
+ {
+  "id": "m04-luxmanda-grinding-circles",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 3,000 years ago",
+  "cat": "daily",
+  "title": "Herders' Grinding-Stone Circles",
+  "place": "Luxmanda, Tanzania",
+  "lat": -4.3,
+  "lng": 35.65,
+  "text": "Around 3,000 years ago, early livestock herders settled at Luxmanda, the southernmost known site of eastern Africa's Pastoral Neolithic. Its rubbish heaps are full of pottery, stone tools and livestock bones. Excavators were surprised to find circles of large lower grinding stones, twelve in just one dug section. The discovery, unprecedented for the era, challenges old ideas about how these herders moved and ate.",
+  "source": {
+   "name": "Antiquity (Cambridge Core): Grinding-stone features from the Pastoral Neolithic at Luxmanda, Tanzania",
+   "url": "https://www.cambridge.org/core/product/D5FF23BFF77742BF3AC869A5504E9CA7/core-reader"
+  }
+ },
+ {
+  "id": "m04-adulis-merchants-guide",
+  "era": "classical",
+  "year": 50,
+  "dateLabel": "1st century CE",
+  "cat": "daily",
+  "title": "A Merchant's Guide to Adulis",
+  "place": "Adulis, Northern Red Sea Region, Eritrea",
+  "lat": 15.26,
+  "lng": 39.66,
+  "text": "A first-century merchant's sailing guide, the Periplus of the Erythraean Sea, describes Adulis as a port on a Red Sea bay. Ships brought cloth, glass, copper, wine, olive oil and iron for spears used against elephants, and left with ivory, tortoiseshell and rhinoceros horn. The local ruler, Zoscales, was called miserly and always striving for more, but he knew Greek literature.",
+  "source": {
+   "name": "Fordham University, Internet Ancient History Sourcebook: The Periplus of the Erythraean Sea",
+   "url": "https://sourcebooks.fordham.edu/ancient/periplus.asp"
+  }
+ },
+ {
+  "id": "m04-aksum-giant-stelae",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "3rd–4th centuries CE",
+  "cat": "culture",
+  "title": "Aksum's Skyscrapers of Stone",
+  "place": "Aksum, Tigray, Ethiopia",
+  "lat": 14.13,
+  "lng": 38.72,
+  "text": "In the 3rd and 4th centuries CE, Aksum raised exquisitely carved stone stelae. The tallest still standing rises over 23 metres, carved to look like a nine-storey building. A giant some 33 metres long lies where it fell, perhaps while being erected, possibly the largest single stele people ever tried to raise. In the 4th century, King Ezana left inscriptions in Greek, Sabaean and Ge'ez.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Aksum",
+   "url": "https://whc.unesco.org/en/list/15"
+  }
+ },
+ {
+  "id": "m04-beta-samati-basilica",
+  "era": "classical",
+  "year": 350,
+  "dateLabel": "4th century CE",
+  "cat": "culture",
+  "title": "An Early Church in Aksum's Lands",
+  "place": "Beta Samati, near Yeha, Tigray, Ethiopia",
+  "lat": 14.33,
+  "lng": 39.06,
+  "text": "At Beta Samati, an Aksumite trade and religious town 6.5 km north-east of Yeha, archaeologists uncovered a basilica built during the fourth century CE, measuring 18.7 by 12.4 metres. Finds included a gold ring with a carnelian engraved with a bull's head, and a pendant inscribed in Ge'ez, 'venerable cross'. In Ethiopia, the basilica form seems to have first appeared together with Christianity.",
+  "source": {
+   "name": "Antiquity (Cambridge Core): Beta Samati, discovery and excavation of an Aksumite town",
+   "url": "https://www.cambridge.org/core/product/643FA872A5B2F9B5E0E765D850C4A526/core-reader"
+  }
+ },
+ {
+  "id": "m04-shanga-earthen-mosques",
+  "era": "medieval",
+  "year": 750,
+  "dateLabel": "8th century",
+  "cat": "culture",
+  "title": "Eight Mosques Under Shanga",
+  "place": "Shanga, Pate Island, Lamu County, Kenya",
+  "lat": -2.13,
+  "lng": 41.03,
+  "text": "Beneath the ruined stone town of Shanga, archaeologist Mark Horton uncovered a succession of eight earthen mosques, the oldest going back to the eighth century, shortly after Islam was founded. His seven-year excavation also found clear evidence that the stone town was preceded by a distinctively indigenous African one.",
+  "source": {
+   "name": "Archaeology (Archaeological Institute of America): Stone Towns of the Swahili Coast",
+   "url": "https://archaeology.org/issues/january-february-2014/features/swahili-coast-towns/"
+  }
+ },
+ {
+  "id": "m04-engaruka-mud-trap-fields",
+  "era": "medieval",
+  "year": 1400,
+  "dateLabel": "From the 15th century",
+  "cat": "daily",
+  "title": "Farms That Trapped the Mud",
+  "place": "Engaruka, Arusha Region, Tanzania",
+  "lat": -2.99,
+  "lng": 35.96,
+  "text": "Just east of Tanzania's Crater Highlands, farmers at Engaruka built the largest abandoned irrigated and terraced landscape in East Africa, occupied for about 400 years before it was abandoned in the 18th century. Drystone check dams caught river sediment, creating more than 1,000 hectares of fields, in places over 2 metres deep, and some fields were deliberately flooded to make paddy-like soils.",
+  "source": {
+   "name": "Quaternary Research (Cambridge Core): Lang and Stump, terraced landscape at Engaruka, Tanzania",
+   "url": "https://www.cambridge.org/core/product/05DBDE9BE807417CB5A0FD6A564943EA/core-reader"
+  },
+  "source2": {
+   "name": "University of York Research Portal: Geoarchaeological evidence for the construction, irrigation, cultivation and resilience of the terraced landscape at Engaruka",
+   "url": "https://pure.york.ac.uk/portal/en/publications/geoarchaeological-evidence-for-the-construction-irrigation-cultiv/"
+  }
+ },
+ {
+  "id": "m04-dodo-last-sighting",
+  "era": "exploration",
+  "year": 1662,
+  "dateLabel": "1662 (last reliable sighting)",
+  "cat": "nature",
+  "title": "The Last Dodo Seen",
+  "place": "Mauritius",
+  "lat": -20.3,
+  "lng": 57.58,
+  "text": "When Dutch sailors landed on Mauritius in 1598, they met the dodo, a bird about 70 cm tall that had evolved from pigeon-like ancestors. Unafraid of people, dodos were hunted by the sailors, and animals brought by newcomers killed the birds and likely ate their eggs. The last reliable sighting came in 1662, or possibly 1680. Dodos were probably leaner and more agile than legend says.",
+  "source": {
+   "name": "Natural History Museum, London: The dodo bird, the real facts about this icon of extinction",
+   "url": "https://www.nhm.ac.uk/discover/the-dodo-bird-the-real-facts-about-this-icon-of-extinction.html"
+  }
+ },
+ {
+  "id": "m04-seychelles-first-settlers",
+  "era": "exploration",
+  "year": 1770,
+  "dateLabel": "1770",
+  "cat": "journeys",
+  "title": "First Settlers on Sainte-Anne",
+  "place": "Sainte-Anne Island, Seychelles",
+  "lat": -4.61,
+  "lng": 55.5,
+  "text": "No people lived in the Seychelles until 1770, when a few families of French colonists arrived with enslaved people from the colony of Île de France and settled on little Sainte-Anne island, facing Mahé. The aim was to develop timber and spices. By 1789 the islands counted 69 French colonists, three soldiers, 32 people of mixed descent and 487 enslaved people.",
+  "source": {
+   "name": "Encyclopædia Universalis (Charles Cadoux): Seychelles, Histoire",
+   "url": "https://www.universalis.fr/encyclopedie/seychelles/2-histoire/"
+  }
+ },
+ {
+  "id": "m04-aapravasi-ghat-steps",
+  "era": "industrial",
+  "year": 1834,
+  "dateLabel": "1834",
+  "cat": "journeys",
+  "title": "Fourteen Steps to a New Life",
+  "place": "Aapravasi Ghat, Port Louis, Mauritius",
+  "lat": -20.16,
+  "lng": 57.5,
+  "text": "After slavery was abolished in the British Empire in 1834, Britain chose Mauritius for a 'great experiment' using indentured instead of enslaved labour. Between 1834 and 1920, almost half a million indentured labourers arrived from India at Aapravasi Ghat in Port Louis, to work on sugar estates or be sent on to other colonies. Each newcomer climbed a flight of 14 steps into the depot.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Aapravasi Ghat",
+   "url": "https://whc.unesco.org/en/list/1227"
+  }
+ },
+ {
+  "id": "m04-mauritius-post-office-stamps",
+  "era": "industrial",
+  "year": 1847,
+  "dateLabel": "September 21, 1847",
+  "cat": "daily",
+  "title": "The Rarest Stamps of Mauritius",
+  "place": "Port Louis, Mauritius",
+  "lat": -20.16,
+  "lng": 57.51,
+  "text": "On September 21, 1847, Mauritius issued two postage stamps, a One Penny orange-red and a Two Pence deep blue, engraved and printed by jeweller Joseph Osmond Barnard and marked 'Post Office Mauritius'. Only 500 of each were printed, and they quickly sold out. Just 12 survive today; two unused ones, bought by Mauritian companies in 1993, are displayed in Port Louis.",
+  "source": {
+   "name": "Mauritius Post: Postal Museum",
+   "url": "https://www.mauritiuspost.mu/philately/postal-museum"
+  }
+ },
+ {
+  "id": "m04-kasubi-royal-tombs",
+  "era": "industrial",
+  "year": 1882,
+  "dateLabel": "1882",
+  "cat": "culture",
+  "title": "A Palace of Grass and Reeds",
+  "place": "Kasubi Hill, Kampala, Uganda",
+  "lat": 0.33,
+  "lng": 32.55,
+  "text": "On Kasubi hill in Kampala, a palace of the Kabakas, the kings of Buganda, was built in 1882 and turned into a royal burial ground in 1884. Its huge circular, domed tomb house, Muzibu Azaala Mpanga, was raised from wooden poles, spear grass, reeds and wattle, and holds four royal tombs. It is still the most active religious place in the kingdom.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Tombs of Buganda Kings at Kasubi",
+   "url": "https://whc.unesco.org/en/list/1022"
+  }
+ },
+ {
+  "id": "m04-tsavo-man-eaters",
+  "era": "industrial",
+  "year": 1898,
+  "dateLabel": "1898",
+  "cat": "nature",
+  "title": "The Man-Eaters of Tsavo",
+  "place": "Tsavo River, Taita-Taveta County, Kenya",
+  "lat": -2.99,
+  "lng": 38.47,
+  "text": "In March 1898, the British began building a railway bridge over Kenya's Tsavo River. Over nine months, two maneless male lions developed a taste for humans. Lt. Col. John Henry Patterson shot them in late 1898 and said they had killed 135 people, but later research by Field Museum scientists cut that estimate to 35. In 1925 he sold the lions to the Chicago museum.",
+  "source": {
+   "name": "Field Museum: Tsavo Lions",
+   "url": "https://www.fieldmuseum.org/blog/tsavo-lions"
+  }
+ },
+ {
+  "id": "m04-nutcracker-man",
+  "era": "modern",
+  "year": 1959,
+  "dateLabel": "1959",
+  "cat": "discovery",
+  "title": "Mary Leakey Finds Nutcracker Man",
+  "place": "Olduvai Gorge, Arusha Region, Tanzania",
+  "lat": -2.99,
+  "lng": 35.35,
+  "text": "In 1959 at Olduvai Gorge, Mary Leakey found a nearly complete adult male skull about 1.8 million years old. First named Zinjanthropus boisei, and still nicknamed 'Zinj', it now belongs to the species Paranthropus boisei, or 'Nutcracker Man'. It has a big crest on top, wide cheekbones and very large cheek teeth, and is sometimes called 'hyper-robust'.",
+  "source": {
+   "name": "Smithsonian National Museum of Natural History, Human Origins: OH 5",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/oh-5"
+  }
+ },
+ {
+  "id": "m04-turkana-boy",
+  "era": "modern",
+  "year": 1984,
+  "dateLabel": "1984",
+  "cat": "discovery",
+  "title": "The Boy from Nariokotome",
+  "place": "Nariokotome, West Turkana, Kenya",
+  "lat": 4.13,
+  "lng": 35.85,
+  "text": "In 1984 at Nariokotome in West Turkana, fossil hunter Kamoya Kimeu found the skeleton of a Homo erectus boy who lived about 1.6 million years ago. About 40% complete, it shows he was eight or nine when he died and already 1.6 metres tall. His long legs and narrow shoulders resemble those of people living in hot, dry climates today.",
+  "source": {
+   "name": "Smithsonian National Museum of Natural History, Human Origins: KNM-WT 15000",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/knm-wt-15000"
+  }
+ },
+ {
+  "id": "m04-aksum-obelisk-returns",
+  "era": "modern",
+  "year": 2008,
+  "dateLabel": "July 2008",
+  "cat": "culture",
+  "title": "The Obelisk Comes Home",
+  "place": "Aksum, Tigray, Ethiopia",
+  "lat": 14.13,
+  "lng": 38.72,
+  "text": "The 1,700-year-old Aksum Obelisk, 24 metres high and weighing 150 tons, was carted off to Rome by Italian soldiers during Mussolini's invasion in 1937. Italy decided to return it in April 2005. In 2008, UNESCO teams mounted the third and final block, and the obelisk stood once again at its original location in Aksum.",
+  "source": {
+   "name": "UN News: UNESCO teams successfully reinstall Ethiopian obelisk to original site",
+   "url": "https://news.un.org/en/node/268092"
+  }
+ }
+]

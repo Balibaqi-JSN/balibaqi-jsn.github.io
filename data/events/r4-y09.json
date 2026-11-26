@@ -1,0 +1,294 @@
+[
+ {
+  "id": "y09-sorghum-in-the-pots",
+  "era": "ancient",
+  "year": -3500,
+  "dateLabel": "3500–3000 BCE",
+  "cat": "discovery",
+  "title": "Sorghum Caught in Clay",
+  "place": "Butana region, Kassala State, Sudan",
+  "lat": 15.0,
+  "lng": 35.9,
+  "text": "Broken pots from a site called KG23 in eastern Sudan hold Africa's earliest known evidence of domesticated sorghum. Archaeologists studied plant impressions left in the pottery by people of the Butana Group, who harvested wild sorghum intensively until the plant began to change genetically into domesticated forms. Sorghum went on to become one of the world's five most important cereal crops.",
+  "source": {
+   "name": "Current Anthropology (University of Chicago Press) via EurekAlert: Earliest evidence for a native African cultigen discovered in Eastern Sudan",
+   "url": "https://www.eurekalert.org/news-releases/779193"
+  }
+ },
+ {
+  "id": "y09-wonderful-things-of-punt",
+  "era": "ancient",
+  "year": -1786,
+  "dateLabel": "c. 1786–1777 BCE (reign of Amenemhet IV)",
+  "cat": "journeys",
+  "title": "Boxes Labelled From Punt",
+  "place": "Mersa/Wadi Gawasis, Red Sea coast, Egypt",
+  "lat": 26.55,
+  "lng": 34.04,
+  "text": "In caves cut into a bluff above an ancient Red Sea port, archaeologists found stone anchors, ship timbers, cedar steering oars and about 26 coils of rigging rope. Outside lay more than 40 cargo boxes; two carry King Amenemhet IV's name and the label \"the wonderful things of Punt.\" Ships were built at Coptos, taken apart and carried by donkey caravan across the desert to the sea.",
+  "source": {
+   "name": "Boston University Arts & Sciences Magazine: Kathryn Bard's excavations at Mersa/Wadi Gawasis",
+   "url": "https://www.bu.edu/cas/magazine/fall10/Egypt/"
+  }
+ },
+ {
+  "id": "y09-lion-temple-apedemak",
+  "era": "classical",
+  "year": -235,
+  "dateLabel": "c. 235–218 BCE (reign of Arnakhamani)",
+  "cat": "culture",
+  "title": "A Temple for the Lion God",
+  "place": "Musawwarat es-Sufra, River Nile State, Sudan",
+  "lat": 16.42,
+  "lng": 33.32,
+  "text": "Built for the Meroitic king Arnakhamani, the Lion Temple at Musawwarat es-Sufra honoured Apedemak, a powerful lion-headed god of Kush. It is the first known Meroitic one-room temple, a type made for local gods rather than Egyptian ones. A hymn on its walls calls Apedemak lord of Aborepe, the site's ancient name. The temple fell down in antiquity, but neatly enough to be stood up again.",
+  "source": {
+   "name": "Max Planck Institute for the History of Science, Musawwarat Graffiti Archive: The Lion Temple",
+   "url": "https://musawwaratgraffiti.mpiwg-berlin.mpg.de/the_site/the_lion_temple"
+  }
+ },
+ {
+  "id": "y09-tombos-entangled-burials",
+  "era": "ancient",
+  "year": -1400,
+  "dateLabel": "New Kingdom graves, c. 1550–1070 BCE",
+  "cat": "daily",
+  "title": "Buried Half Egyptian, Half Nubian",
+  "place": "Tombos, Northern State, Sudan",
+  "lat": 19.71,
+  "lng": 30.4,
+  "text": "After Egypt conquered Nubia, Tombos in northern Sudan became an important colonial hub. In one middle-class tomb, archaeologists found a woman laid in an Egyptian-style tomb but buried the Nubian way, flexed on her side on a bed, wearing amulets of the Egyptian household god Bes. Skeletons and graves here point to intermarriage, and to Nubians sharing in running the colony.",
+  "source": {
+   "name": "UC Santa Barbara News: Identity Unearthed (Tombos excavations, Smith and Buzon)",
+   "url": "https://news.ucsb.edu/2016/016245/identity-unearthed"
+  },
+  "source2": {
+   "name": "Current Anthropology via EurekAlert: Ancient tomb sheds new light on Egyptian colonialism",
+   "url": "https://www.eurekalert.org/news-releases/867891"
+  }
+ },
+ {
+  "id": "y09-yeha-sabaean-temple",
+  "era": "ancient",
+  "year": -660,
+  "dateLabel": "7th century BCE",
+  "cat": "culture",
+  "title": "Yemeni Stonework in Ethiopia",
+  "place": "Yeha, Tigray, Ethiopia",
+  "lat": 14.29,
+  "lng": 39.02,
+  "text": "Early in the first millennium BCE, Sabaean groups from Yemen settled in the northern Ethiopian highlands and made Yeha their political and religious centre. Its Great Temple honoured Almaqah, the top Sabaean god. Excavators found a second temple of the same seventh century BCE, built the South Arabian way: stones laid without mortar or dowels, each with a smoothed edge and a roughened centre.",
+  "source": {
+   "name": "German Archaeological Institute (DAI) press release via idw: 2.700 Jahre alter Tempel im äthiopischen Hochland entdeckt",
+   "url": "https://idw-online.de/de/news731709"
+  },
+  "source2": {
+   "name": "University of Jena press release via idw: Preserving northern Ethiopia's ancient cultural heritage",
+   "url": "https://idw-online.de/en/news786609"
+  }
+ },
+ {
+  "id": "y09-nkang-early-bananas",
+  "era": "classical",
+  "year": -500,
+  "dateLabel": "About 500 BCE",
+  "cat": "journeys",
+  "title": "Bananas in the Rainforest",
+  "place": "Nkang, southern Cameroon",
+  "lat": 4.25,
+  "lng": 11.6,
+  "text": "At Nkang, in the forests of southern Cameroon, Belgian-led scientists found phytoliths, tiny silica bodies left by plants, which they identified as banana and dated to about 500 BC. Bananas were thought to have come to Africa from Southeast Asia much later, so the find pushed their arrival back by about a thousand years. Critics challenged it, and the team agreed that more finds were needed.",
+  "source": {
+   "name": "Archaeology Magazine (Archaeological Institute of America): Africa's Earliest Bananas",
+   "url": "https://archive.archaeology.org/0609/abstracts/bananas.html"
+  },
+  "source2": {
+   "name": "Azania (2006), Mbida et al.: The initial history of bananas in Africa, a reply (Université libre de Bruxelles repository)",
+   "url": "https://dipot.ulb.ac.be/dspace/bitstream/2013/50632/1/2006TheinitialhistoryofbananasinAfrica.Areply.pdf"
+  }
+ },
+ {
+  "id": "y09-garamantes-desert-castles",
+  "era": "classical",
+  "year": 1,
+  "dateLabel": "Mostly c. 1–500 CE",
+  "cat": "daily",
+  "title": "Castles of the Garamantes",
+  "place": "Fazzan, south-western Libya",
+  "lat": 26.2,
+  "lng": 12.6,
+  "text": "From satellite images, archaeologists spotted more than 100 fortified farms and villages and several towns in Libya's south-western desert, most dating from AD 1 to 500. Built by the Garamantes, their mud-brick, castle-like walls still stand up to four metres high, beside wells and irrigation systems. Roman writers called these people barbaric nomads; the researchers describe oasis farmers with towns and a written language.",
+  "source": {
+   "name": "European Research Council: Castles in the desert, satellites reveal lost cities of Libya",
+   "url": "https://erc.europa.eu/projects-statistics/science-stories/castles-desert-satellites-reveal-lost-cities-libya"
+  }
+ },
+ {
+  "id": "y09-naga-chapel-of-hathor",
+  "era": "classical",
+  "year": 30,
+  "dateLabel": "First half of the 1st century CE",
+  "cat": "culture",
+  "title": "A Royal City in the Steppe",
+  "place": "Naga, River Nile State, Sudan",
+  "lat": 16.27,
+  "lng": 33.27,
+  "text": "Naga, a secondary royal residence of the Kingdom of Meroe, lies in the steppe 30 km from the Nile. Its Chapel of Hathor, once called the \"Roman Kiosk\", blends Hellenistic-Roman and Egyptian features into a new, Meroitic design. It dates to the reigns of king and queen Natakamani and Amanitore. Today local people still water their animals at the well in the city's centre.",
+  "source": {
+   "name": "Naga Project (State Museum of Egyptian Art, Munich): The Site",
+   "url": "https://naga-project.com/der-fundplatz/"
+  },
+  "source2": {
+   "name": "Naga Project (State Museum of Egyptian Art, Munich): The Excavation Project",
+   "url": "https://naga-project.com/das-grabungsprojekt/"
+  }
+ },
+ {
+  "id": "y09-gobero-embrace",
+  "era": "ancient",
+  "year": -3315,
+  "dateLabel": "About 3315 BCE",
+  "cat": "daily",
+  "title": "A Lakeside Grave in the Sahara",
+  "place": "Gobero, Agadez Region, Niger",
+  "lat": 16.9,
+  "lng": 9.3,
+  "text": "Gobero, in Niger, holds the largest early cemetery in the Sahara, beside a long-vanished lake where people ate clams and fish and kept some cattle. Around 3315 BCE an adult woman was buried facing two children of about 8 and 5, their arms, hands and legs intertwined. Four stone points lay with her; other graves held bracelets of hippo ivory.",
+  "source": {
+   "name": "PLOS ONE (2008), Sereno et al.: Lakeside Cemeteries in the Sahara, 5000 Years of Holocene Population and Environmental Change",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0002995"
+  }
+ },
+ {
+  "id": "y09-nok-honey-pots",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "Around 3,500 years ago",
+  "cat": "daily",
+  "title": "Honey in Nok Cooking Pots",
+  "place": "Nok region, Kaduna State, Nigeria",
+  "lat": 9.5,
+  "lng": 8.03,
+  "text": "The Nok people of central Nigeria were early farmers whose diet included millet. Chemists analysed 458 of their pottery vessels and found beeswax in over a third of those that kept fat residues, direct evidence of collecting and processing bee products, probably honey, around 3,500 years ago. Acidic soils have destroyed all animal bones at Nok sites, so pots are a precious window on what people ate.",
+  "source": {
+   "name": "Nature Communications (2021), Dunne et al.: Honey-collecting in prehistoric West Africa from 3500 years ago",
+   "url": "https://www.nature.com/articles/s41467-021-22425-4"
+  }
+ },
+ {
+  "id": "y09-augustine-hippo-priest",
+  "era": "classical",
+  "year": 391,
+  "dateLabel": "391 CE",
+  "cat": "culture",
+  "title": "A Reluctant Priest at Hippo",
+  "place": "Hippo Regius (Annaba), Algeria",
+  "lat": 36.88,
+  "lng": 7.75,
+  "text": "Augustine was born in 354 at Thagaste in Roman Africa, today Souk Ahras in Algeria. In 391 he was ordained a priest in the port city of Hippo Regius, apparently against his will, and about five years later he became its bishop. Preaching daily and writing in fierce religious debates, he became perhaps the greatest Christian philosopher of antiquity. He died in 430 as the Vandals besieged Hippo.",
+  "source": {
+   "name": "Stanford Encyclopedia of Philosophy: Augustine of Hippo",
+   "url": "https://plato.stanford.edu/entries/augustine/"
+  }
+ },
+ {
+  "id": "y09-carthage-tophet-infants",
+  "era": "classical",
+  "year": -146,
+  "dateLabel": "Tophet in use until 146 BCE",
+  "cat": "discovery",
+  "title": "The Tophet's Tiny Urns",
+  "place": "Salammbô Tophet, Carthage, Tunisia",
+  "lat": 36.85,
+  "lng": 10.32,
+  "text": "Ancient Greek writers claimed Carthaginians burned infants as sacrifices, and some scholars say the practice lasted until Rome won the last Punic War in 146 BCE. Scientists who studied 348 burial urns from Carthage's Tophet, holding 540 individuals, found most were babies who died shortly before or after birth. They argue it was a cemetery for the very young, whatever killed them, though the debate goes on.",
+  "source": {
+   "name": "PLOS ONE (2010), Schwartz et al.: Skeletal Remains from Punic Carthage Do Not Support Systematic Sacrifice of Infants",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009177"
+  }
+ },
+ {
+  "id": "y09-oxyrhynchus-arrest-order",
+  "era": "classical",
+  "year": 256,
+  "dateLabel": "February 28, 256 CE",
+  "cat": "power",
+  "title": "Arrest Warrant From a Rubbish Dump",
+  "place": "Oxyrhynchus (el-Bahnasa), Minya, Egypt",
+  "lat": 28.53,
+  "lng": 30.65,
+  "text": "On 28 February AD 256, the head of the council of Oxyrhynchus ordered police in a country village to arrest a man described as a Christian; no reason was given. It is one of the earliest uses of the word \"Christian\" on papyrus. Like thousands of other texts, it survived in the town's ancient rubbish dumps, which Oxford classicists Grenfell and Hunt dug from 1896.",
+  "source": {
+   "name": "University of Oxford, The Oxyrhynchus Papyri Project: Daily Life",
+   "url": "https://oxyrhynchus.web.ox.ac.uk/daily-life"
+  },
+  "source2": {
+   "name": "University of Oxford, The Oxyrhynchus Papyri Project: home page",
+   "url": "https://oxyrhynchus.web.ox.ac.uk/"
+  }
+ },
+ {
+  "id": "y09-nuwayrat-genome",
+  "era": "ancient",
+  "year": -2855,
+  "dateLabel": "Radiocarbon dated 2855–2570 BCE",
+  "cat": "discovery",
+  "title": "The Man in the Pot",
+  "place": "Nuwayrat, near Beni Hasan, Minya, Egypt",
+  "lat": 27.93,
+  "lng": 30.88,
+  "text": "Buried in a large pottery vessel inside a rock-cut tomb at Nuwayrat, near Beni Hasan, this man gave scientists the first whole genome of an ancient Egyptian. He lived a few centuries after Egypt's unification. Most of his ancestry was North African, but about 20% traced to the eastern Fertile Crescent, including Mesopotamia. Worn teeth and arthritis suggest years of hard labour, possibly as a potter.",
+  "source": {
+   "name": "Nature (2025), Morez Jacobs et al.: Whole-genome ancestry of an Old Kingdom Egyptian",
+   "url": "https://www.nature.com/articles/s41586-025-09195-5"
+  }
+ },
+ {
+  "id": "y09-saqqara-embalming-workshop",
+  "era": "ancient",
+  "year": -664,
+  "dateLabel": "26th Dynasty, c. 664–525 BCE",
+  "cat": "journeys",
+  "title": "An Embalmers' Labelled Pots",
+  "place": "Saqqara, Giza Governorate, Egypt",
+  "lat": 29.87,
+  "lng": 31.21,
+  "text": "Just south of King Unas's pyramid at Saqqara lay an embalming workshop of Egypt's 26th Dynasty. Its pots were labelled with their contents, letting chemists match Egyptian names to real substances: juniper or cypress and cedar oils or tars, animal fat, and resins such as elemi and dammar. Some came from tropical forest regions, showing that mummification depended on long-distance trade, including imports from Asia.",
+  "source": {
+   "name": "Nature (2023), Rageot et al.: Biomolecular analyses enable new insights into ancient Egyptian embalming",
+   "url": "https://www.nature.com/articles/s41586-022-05663-4"
+  }
+ },
+ {
+  "id": "y09-ad365-tsunami",
+  "era": "classical",
+  "year": 365,
+  "dateLabel": "July 21, 365 CE",
+  "cat": "nature",
+  "title": "The Day the Sea Struck Egypt",
+  "place": "Nile Delta coast, near Alexandria, Egypt",
+  "lat": 31.2,
+  "lng": 29.9,
+  "text": "On 21 July 365 a huge earthquake struck in the eastern Mediterranean. Historical accounts describe a tsunami that destroyed cities and drowned thousands of people along coasts from the Nile Delta to modern Dubrovnik. Geologists later found that western Crete was lifted out of the sea by up to 10 metres at the same moment, and estimate a quake like it on that one fault every 5,000 years or so.",
+  "source": {
+   "name": "Nature Geoscience (2008), Shaw et al.: Eastern Mediterranean tectonics and tsunami hazard inferred from the AD 365 earthquake",
+   "url": "https://www.nature.com/articles/ngeo151"
+  }
+ },
+ {
+  "id": "y09-oxyrhynchus-horoscope",
+  "era": "classical",
+  "year": 430,
+  "dateLabel": "July 7, 430 CE",
+  "cat": "discovery",
+  "title": "A Baby's Horoscope on Papyrus",
+  "place": "Oxyrhynchus (el-Bahnasa), Minya, Egypt",
+  "lat": 28.53,
+  "lng": 30.66,
+  "text": "A large papyrus from Oxyrhynchus, once probably sixteen columns wide, is a horoscope recording the zodiac positions of the Sun, Moon and five planets, Saturn, Jupiter, Mars, Venus and Mercury, at someone's birth. Scholars computed the moment as 4 a.m. on 7 July AD 430. The person's name is lost, and only one other comparable fragment, also from Oxyrhynchus, survives from antiquity.",
+  "source": {
+   "name": "University of Oxford, The Oxyrhynchus Papyri Project: Daily Life",
+   "url": "https://oxyrhynchus.web.ox.ac.uk/daily-life"
+  }
+ }
+]

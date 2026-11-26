@@ -1,0 +1,362 @@
+[
+ {
+  "id": "y07-bauhaus-weimar",
+  "era": "modern",
+  "year": 1919,
+  "dateLabel": "1919",
+  "cat": "culture",
+  "title": "The Bauhaus Begins in Weimar",
+  "place": "Bauhaus, Weimar, Thuringia, Germany",
+  "lat": 50.97,
+  "lng": 11.33,
+  "text": "In 1919 the Bauhaus school began in Weimar, later moving to Dessau. Until 1933 its teachers, among them Walter Gropius, Wassily Kandinsky and László Moholy-Nagy, rethought building with the new materials of the age, reinforced concrete, glass and steel, and threw out traditional decoration. Their buildings launched the Modern Movement that shaped much of 20th-century architecture.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Bauhaus and its Sites in Weimar, Dessau and Bernau",
+   "url": "https://whc.unesco.org/en/list/729"
+  }
+ },
+ {
+  "id": "y07-antwerp-olympics",
+  "era": "modern",
+  "year": 1920,
+  "dateLabel": "August 14, 1920",
+  "cat": "culture",
+  "title": "Pigeons Over Antwerp's Olympics",
+  "place": "Olympic Stadium, Antwerp, Belgium",
+  "lat": 51.19,
+  "lng": 4.41,
+  "text": "Antwerp was given the 1920 Olympics when World War I had been over only a year, and the war-ravaged Belgians staged decidedly austere Games. The opening ceremony brought three firsts: the Olympic flag, an athlete taking the Olympic Oath, and homing pigeons released as a symbol of peace. Germany, Austria, Hungary and Bulgaria were barred from competing.",
+  "source": {
+   "name": "Olympedia: 1920 Summer Olympics Overview",
+   "url": "https://www.olympedia.org/editions/7"
+  }
+ },
+ {
+  "id": "y07-rur-robots",
+  "era": "modern",
+  "year": 1921,
+  "dateLabel": "January 25, 1921",
+  "cat": "culture",
+  "title": "The Play That Invented Robots",
+  "place": "National Theatre, Prague, Czechia (then Czechoslovakia)",
+  "lat": 50.08,
+  "lng": 14.41,
+  "text": "The word \"robot\" first appeared in Karel Čapek's play R.U.R., short for Rossum's Universal Robots, which opened at Prague's National Theatre on 25 January 1921. Amateur actors in Hradec Králové, directed by a State Railways inspector, had actually staged the world premiere on 2 January. Within a few years the play reached Warsaw, Belgrade, New York, London, Tokyo and Paris.",
+  "source": {
+   "name": "Embassy of the Czech Republic in Copenhagen: The Czech word ROBOT celebrates its 100th birthday",
+   "url": "https://mzv.gov.cz/copenhagen/en/news/x2021/the_czech_word_robot_celebrates_its_1.html"
+  }
+ },
+ {
+  "id": "y07-rietveld-schroder-house",
+  "era": "modern",
+  "year": 1924,
+  "dateLabel": "1924",
+  "cat": "culture",
+  "title": "A House Like a Painting",
+  "place": "Rietveld Schröder House, Utrecht, Netherlands",
+  "lat": 52.09,
+  "lng": 5.15,
+  "text": "In 1924 Truus Schröder-Schräder had architect Gerrit Rietveld build her a small family house on the edge of Utrecht. Its flexible layout, which let the rooms change over time as their uses changed, made it a manifesto of the Dutch De Stijl group of artists and architects. Its interiors and furniture are part of the design, and it became an icon of modern architecture.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Rietveld Schröderhuis (Rietveld Schröder House)",
+   "url": "https://whc.unesco.org/en/list/965"
+  }
+ },
+ {
+  "id": "y07-afsluitdijk",
+  "era": "modern",
+  "year": 1932,
+  "dateLabel": "May 28, 1932",
+  "cat": "nature",
+  "title": "The Day the Zuiderzee Vanished",
+  "place": "Vlieter gap, Afsluitdijk, Netherlands",
+  "lat": 53.03,
+  "lng": 5.14,
+  "text": "At half past one on Saturday 28 May 1932, workers closed the Vlieter, the last gap in the Afsluitdijk, a 32-kilometre dike between North Holland and Friesland. The Zuiderzee was sealed off from the sea and was called the IJsselmeer from then on. Engineer Cornelis Lely had drawn up the first plans in 1891; a deadly flood in 1916 came before work finally began.",
+  "source": {
+   "name": "Rijkswaterstaat: Afsluitdijk",
+   "url": "https://www.rijkswaterstaat.nl/water/waterbeheer/bescherming-tegen-het-water/waterkeringen/dijken/afsluitdijk"
+  }
+ },
+ {
+  "id": "y07-nuclear-fission",
+  "era": "modern",
+  "year": 1938,
+  "dateLabel": "December 1938",
+  "cat": "discovery",
+  "title": "Splitting the Uranium Atom",
+  "place": "Kaiser Wilhelm Institute for Chemistry, Berlin, Germany",
+  "lat": 52.45,
+  "lng": 13.28,
+  "text": "In December 1938, chemists Otto Hahn and Fritz Strassmann in Berlin bombarded uranium with neutrons and found what looked like barium. Puzzled, Hahn wrote to his longtime colleague Lise Meitner. On a walk in the snow, Meitner and her nephew Otto Frisch realised the uranium nucleus had split in two. Hahn won the 1944 Nobel Prize in chemistry; Meitner was never recognised.",
+  "source": {
+   "name": "APS News: December 1938, Discovery of Nuclear Fission",
+   "url": "https://www.aps.org/apsnews/2007/12/december-1938-discovery-nuclear-fission"
+  }
+ },
+ {
+  "id": "y07-warsaw-rebuilt",
+  "era": "modern",
+  "year": 1945,
+  "dateLabel": "1945–1951",
+  "cat": "daily",
+  "title": "Warsaw Rebuilds Its Old Town",
+  "place": "Old Town, Warsaw, Poland",
+  "lat": 52.25,
+  "lng": 21.01,
+  "text": "During the Warsaw Uprising in August 1944, Nazi troops destroyed more than 85 percent of Warsaw's historic centre. From 1945 to 1951 the Warsaw Reconstruction Office, backed by the determination of the city's people and the support of the whole nation, rebuilt the Old Town: its market square, townhouses, city walls and churches, using surviving buildings and pre-war conservation records.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Historic Centre of Warsaw",
+   "url": "https://whc.unesco.org/en/list/30"
+  }
+ },
+ {
+  "id": "y07-tollund-man",
+  "era": "modern",
+  "year": 1950,
+  "dateLabel": "May 6, 1950",
+  "cat": "discovery",
+  "title": "A Bog Body Mistaken for Murder",
+  "place": "Bjældskovdal bog, near Silkeborg, Denmark",
+  "lat": 56.16,
+  "lng": 9.4,
+  "text": "On 6 May 1950, a family cutting peat for fuel near Silkeborg found a body so fresh-looking they thought it was a recent murder victim. Grethe Højgaard first noticed something strange and started digging in the mud herself. He lay 2.5 metres down in the peat with a rope around his neck, so the police soon handed the case to the museum. He became Tollund Man.",
+  "source": {
+   "name": "Museum Silkeborg: The discovery of Tollund Man",
+   "url": "https://museumsilkeborg.dk/the-discovery-of-tollund-man"
+  }
+ },
+ {
+  "id": "y07-four-minute-mile",
+  "era": "modern",
+  "year": 1954,
+  "dateLabel": "May 6, 1954",
+  "cat": "daily",
+  "title": "Under Four Minutes at Last",
+  "place": "Iffley Road track, Oxford, England, UK",
+  "lat": 51.75,
+  "lng": -1.24,
+  "text": "On 6 May 1954, in front of 3,000 people at Oxford's Iffley Road track, 25-year-old medical student Roger Bannister became the first man to run a mile in under four minutes, in 3 minutes 59.4 seconds. He had worked a morning shift at St Mary's Hospital in London first. Years earlier, a groundsman at the same track had told him he'd never be any good.",
+  "source": {
+   "name": "World Athletics: Roger Bannister's sub-four-minute mile, 70 years on",
+   "url": "https://worldathletics.org/heritage/news/roger-bannister-sub-four-minute-mile-70-years"
+  }
+ },
+ {
+  "id": "y07-austrian-state-treaty",
+  "era": "modern",
+  "year": 1955,
+  "dateLabel": "May 15, 1955",
+  "cat": "power",
+  "title": "\"Austria Is Free!\"",
+  "place": "Belvedere Palace, Vienna, Austria",
+  "lat": 48.19,
+  "lng": 16.38,
+  "text": "On 15 May 1955, Austria and the victorious powers of World War II signed the State Treaty at Vienna's Belvedere Palace, making the young Second Republic sovereign again. Foreign Minister Leopold Figl ended his speech there with \"Österreich ist frei!\" (\"Austria is free!\"). The key had been neutrality: Austria promised to stay out of military alliances, and passed its neutrality law that October.",
+  "source": {
+   "name": "Bundeszentrale für politische Bildung: Vor 65 Jahren: Österreich unterzeichnet Staatsvertrag",
+   "url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/309806/vor-65-jahren-oesterreich-unterzeichnet-staatsvertrag/"
+  }
+ },
+ {
+  "id": "y07-hungary-1956",
+  "era": "modern",
+  "year": 1956,
+  "dateLabel": "October 23, 1956",
+  "cat": "power",
+  "title": "Only Stalin's Boots Remained",
+  "place": "Near Heroes' Square, Budapest, Hungary",
+  "lat": 47.51,
+  "lng": 19.08,
+  "text": "What began as peaceful student demonstrations in Budapest on 23 October 1956 quickly became an armed uprising. Students demanded reforms and the withdrawal of Soviet troops, and protesters tore down a towering statue of Stalin, leaving behind only his boots. Soviet forces crushed the revolution in November; about 2,600 Hungarians died and some 200,000 fled to the West.",
+  "source": {
+   "name": "Origins (Ohio State University), Harrison King: Remembering '56, The Hungarian Revolution at Sixty",
+   "url": "https://origins.osu.edu/milestones/october-2016-remembering-56-hungarian-revolution-sixty"
+  }
+ },
+ {
+  "id": "y07-florence-flood",
+  "era": "modern",
+  "year": 1966,
+  "dateLabel": "November 4, 1966",
+  "cat": "nature",
+  "title": "The Arno Drowns Florence's Art",
+  "place": "Santa Croce, Florence, Tuscany, Italy",
+  "lat": 43.77,
+  "lng": 11.26,
+  "text": "After days of heavy rain, the Arno overflowed in the early hours of 4 November 1966 and swept through Florence, rising 3 metres around the cathedral. Mud and heating oil soaked the city's treasures. In Santa Croce, Cimabue's great crucifix lost 60 percent of its painted surface. Thousands of volunteers came from all over the world to help Florence climb out of the mud.",
+  "source": {
+   "name": "Gallerie degli Uffizi: The 1966 flood's damages to the art heritage of Florence",
+   "url": "https://www.uffizi.it/en/artworks/1966-flood-damages-to-art-in-florence"
+  }
+ },
+ {
+  "id": "y07-dagen-h",
+  "era": "modern",
+  "year": 1967,
+  "dateLabel": "September 3, 1967",
+  "cat": "daily",
+  "title": "Sweden Swaps Sides of the Road",
+  "place": "Sweden (nationwide); Stockholm",
+  "lat": 59.33,
+  "lng": 18.07,
+  "text": "On 3 September 1967, a day many Swedes would remember as \"Dagen H\", the whole country switched from driving on the left to driving on the right. Voters had rejected the idea in a 1955 referendum, with 82.9 percent against, but parliament decided on the change anyway in 1963. Little souvenir pins stamped \"3.9 1967\" marked the big day.",
+  "source": {
+   "name": "Arkiv Gävleborg via DigitaltMuseum: Högertrafikomläggningen 1967 (pin)",
+   "url": "https://digitaltmuseum.se/0210210502358/pin"
+  }
+ },
+ {
+  "id": "y07-concorde-001",
+  "era": "modern",
+  "year": 1969,
+  "dateLabel": "March 2, 1969",
+  "cat": "journeys",
+  "title": "Concorde Takes to the Sky",
+  "place": "Toulouse, Occitanie, France",
+  "lat": 43.63,
+  "lng": 1.37,
+  "text": "On 2 March 1969, Concorde 001, the first prototype of a supersonic airliner built under a 1962 treaty between France and Great Britain, took off from Toulouse with André Turcat at the controls. It reached twice the speed of sound in November 1970. In 1973 it flew from Las Palmas to Fort-Lamy so that astronomers could watch a solar eclipse for 74 minutes without a break.",
+  "source": {
+   "name": "Musée de l'Air et de l'Espace: BAC-Sud Aviation Concorde prototype 001 F-WTSS",
+   "url": "https://museeairespace.fr/en/collections/bac-sud-aviation-concorde-prototype-001-f-wtss"
+  }
+ },
+ {
+  "id": "y07-sakharov-nobel",
+  "era": "modern",
+  "year": 1975,
+  "dateLabel": "1975",
+  "cat": "power",
+  "title": "A Peace Prize He Couldn't Collect",
+  "place": "Moscow, Russia (then USSR)",
+  "lat": 55.76,
+  "lng": 37.62,
+  "text": "In 1975 Andrei Sakharov, the physicist known as the father of the Soviet hydrogen bomb, won the Nobel Peace Prize for his struggle for human rights. Furious Soviet leaders refused to let him travel to Oslo, so his wife, Jelena Bonner, received it for him. The couple were later kept under strict surveillance in the town of Gorky until Gorbachev came to power.",
+  "source": {
+   "name": "NobelPrize.org: Andrei Sakharov, Facts",
+   "url": "https://www.nobelprize.org/prizes/peace/1975/sakharov/facts/"
+  }
+ },
+ {
+  "id": "y07-vergina-tombs",
+  "era": "modern",
+  "year": 1977,
+  "dateLabel": "1977",
+  "cat": "discovery",
+  "title": "Unlooted Tomb of Philip II",
+  "place": "Vergina (ancient Aigai), Central Macedonia, Greece",
+  "lat": 40.48,
+  "lng": 22.32,
+  "text": "In 1977, digging at Vergina in northern Greece uncovered unlooted royal tombs, one identified as that of Philip II, father of Alexander the Great, and the find made a worldwide sensation. Vergina sits on ancient Aigai, the first royal capital of Macedon, with a great palace and a cemetery of hundreds of burial mounds. It is now a UNESCO World Heritage Site.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Archaeological Site of Aigai (modern name Vergina)",
+   "url": "https://whc.unesco.org/en/list/780"
+  }
+ },
+ {
+  "id": "y07-first-ivf-baby",
+  "era": "modern",
+  "year": 1978,
+  "dateLabel": "July 25, 1978",
+  "cat": "discovery",
+  "title": "Louise, the First IVF Baby",
+  "place": "Oldham General Hospital, Greater Manchester, England, UK",
+  "lat": 53.55,
+  "lng": -2.1,
+  "text": "At 11:47 pm on 25 July 1978, Louise Brown was born at Oldham General Hospital, the first baby conceived through in vitro fertilisation (IVF). The technique was developed by Patrick Steptoe, Robert Edwards and Jean Purdy. In 1971 the Medical Research Council had refused to fund their work on ethical grounds. A government film crew raced to Oldham to record the birth.",
+  "source": {
+   "name": "The National Archives (UK): Louise Brown, A glimmer of hope",
+   "url": "https://www.nationalarchives.gov.uk/explore-the-collection/stories/ivf-and-reproductive-technology-in-the-archive/"
+  }
+ },
+ {
+  "id": "y07-sarajevo-olympics",
+  "era": "modern",
+  "year": 1984,
+  "dateLabel": "February 8, 1984",
+  "cat": "culture",
+  "title": "Winter Games in Sarajevo",
+  "place": "Sarajevo, Bosnia and Herzegovina (then Yugoslavia)",
+  "lat": 43.86,
+  "lng": 18.41,
+  "text": "In February 1984 Sarajevo hosted the first Winter Olympics held in the Eastern Bloc. A blizzard after the opening ceremony delayed the men's downhill by a week. Finland's Marja-Liisa Hämäläinen won three cross-country gold medals, and British ice dancers Torvill and Dean skated to Ravel's Bolero for 12 perfect 6.0s. Many Olympic sites were later destroyed in the 1990s war.",
+  "source": {
+   "name": "Olympedia: 1984 Winter Olympics Overview",
+   "url": "https://www.olympedia.org/editions/42"
+  }
+ },
+ {
+  "id": "y07-chauvet-cave",
+  "era": "modern",
+  "year": 1994,
+  "dateLabel": "1994",
+  "cat": "discovery",
+  "title": "A Cave Sealed for 20,000 Years",
+  "place": "Grotte Chauvet-Pont d'Arc, Ardèche, France",
+  "lat": 44.39,
+  "lng": 4.42,
+  "text": "A cave in a limestone plateau above the Ardèche River in southern France had been sealed by a rock fall about 20,000 years ago, until its discovery in 1994. Inside were more than 1,000 images, among the earliest-known figurative drawings in the world: mammoths, cave lions, rhinos, bears and bison, along with human footprints and 4,000 remains of prehistoric animals.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Decorated Cave of Pont d'Arc, known as Grotte Chauvet-Pont d'Arc",
+   "url": "https://whc.unesco.org/en/list/1426"
+  }
+ },
+ {
+  "id": "y07-heaney-nobel",
+  "era": "modern",
+  "year": 1995,
+  "dateLabel": "October 5, 1995",
+  "cat": "culture",
+  "title": "A Nobel for the Poet of Peat",
+  "place": "Dublin, Ireland",
+  "lat": 53.35,
+  "lng": -6.26,
+  "text": "On 5 October 1995 the Swedish Academy gave the Nobel Prize in Literature to Seamus Heaney, \"for works of lyrical beauty and ethical depth\". Born on a farm in Northern Ireland, he had lived in Dublin since 1976. His down-to-earth poems often paint the grey, damp Irish landscape, peat moss has a special place in them, and some reach back to prehistoric times.",
+  "source": {
+   "name": "NobelPrize.org: The Nobel Prize in Literature 1995, Press release",
+   "url": "https://www.nobelprize.org/prizes/literature/1995/press-release/"
+  },
+  "source2": {
+   "name": "NobelPrize.org: Seamus Heaney, Facts",
+   "url": "https://www.nobelprize.org/prizes/literature/1995/heaney/facts/"
+  }
+ },
+ {
+  "id": "y07-guggenheim-bilbao",
+  "era": "modern",
+  "year": 1997,
+  "dateLabel": "October 1997",
+  "cat": "daily",
+  "title": "Titanium on the Riverbank",
+  "place": "Guggenheim Museum Bilbao, Basque Country, Spain",
+  "lat": 43.27,
+  "lng": -2.93,
+  "text": "Built between October 1993 and October 1997 on a former industrial wharf on the Nervión, Frank Gehry's Guggenheim Museum Bilbao reclaimed the riverbank for culture and leisure. His design was so mathematically complex that he used CATIA, software first made for the aerospace industry. Its skin is about 33,000 extremely thin titanium sheets that change colour with the weather and light.",
+  "source": {
+   "name": "Guggenheim Museum Bilbao: The construction",
+   "url": "https://www.guggenheim-bilbao.eus/en/the-building/the-construction"
+  }
+ },
+ {
+  "id": "y07-herta-muller-nobel",
+  "era": "modern",
+  "year": 2009,
+  "dateLabel": "October 8, 2009",
+  "cat": "power",
+  "title": "Writing Against a Dictatorship",
+  "place": "Nițchidorf, Timiș County, Romania",
+  "lat": 45.58,
+  "lng": 21.53,
+  "text": "Herta Müller grew up in a farming family of Romania's German-speaking minority in Nițchidorf, outside Timișoara. She lost her job as a translator after refusing to cooperate with the Securitate secret police, and her first book appeared in Romania only in a censored version. She went into exile in Germany in 1987. In 2009 her books about fear under Ceaușescu won the Nobel Prize in Literature.",
+  "source": {
+   "name": "NobelPrize.org: Herta Müller, Facts",
+   "url": "https://www.nobelprize.org/prizes/literature/2009/muller/facts/"
+  },
+  "source2": {
+   "name": "NobelPrize.org: The Nobel Prize in Literature 2009, Press release",
+   "url": "https://www.nobelprize.org/prizes/literature/2009/press-release/"
+  }
+ }
+]

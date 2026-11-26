@@ -1,0 +1,61 @@
+[
+  {
+    "id": "r3o-jack-hills-zircons",
+    "era": "deep",
+    "year": -4404000000,
+    "dateLabel": "About 4.4 billion years ago",
+    "emoji": "💎",
+    "cat": "nature",
+    "title": "The Oldest Crumbs of Planet Earth",
+    "place": "Jack Hills, Western Australia",
+    "lat": -26.12,
+    "lng": 117.15,
+    "text": "Tiny crystals called zircons from these dry hills formed about 4.4 billion years ago, making them the oldest known bits of material from Earth itself. Clues locked inside hint that the young planet already had continental crust and liquid water. They are the deepest look back at our planet's childhood we have."
+  },
+  {
+    "id": "r3o-dresser-stromatolites",
+    "era": "deep",
+    "year": -3480000000,
+    "dateLabel": "About 3.48 billion years ago",
+    "emoji": "🦠",
+    "cat": "nature",
+    "title": "Early Life at the 'North Pole'",
+    "place": "North Pole Dome, Pilbara, Australia",
+    "lat": -21.15,
+    "lng": 119.44,
+    "text": "In a ring of Pilbara hills oddly named the North Pole Dome, rocks about 3.48 billion years old hold stromatolites, layered mounds built by microbes. They are among the earliest widely accepted signs of life on Earth. For billions of years, slimy microbe mats like these were the planet's main inhabitants."
+  },
+  {
+    "id": "r3o-ediacara",
+    "era": "deep",
+    "year": -555000000,
+    "dateLabel": "About 555 million years ago",
+    "emoji": "🪼",
+    "cat": "nature",
+    "title": "The Soft-Bodied Pioneers of Ediacara",
+    "place": "Ediacara Hills, South Australia",
+    "lat": -30.82,
+    "lng": 138.13,
+    "text": "In 1946 geologist Reg Sprigg spotted what looked like fossil 'jellyfishes' in these low hills. They turned out to be some of the oldest known complex, many-celled life, soft creatures living about 555 million years ago. The find was so important that a whole slice of geological time, the Ediacaran Period, is named after these hills.",
+    "collections": [
+      "beasts-through-time"
+    ]
+  },
+  {
+    "id": "r3e-chengjiang",
+    "era": "deep",
+    "year": -518000000,
+    "dateLabel": "About 518 million years ago",
+    "emoji": "🦐",
+    "cat": "nature",
+    "title": "Chengjiang's Soft-Bodied Sea Creatures",
+    "place": "Chengjiang County, Yunnan, China",
+    "lat": 24.67,
+    "lng": 102.98,
+    "text": "Fine mud in an ancient sea buried animals so gently that even their soft bodies survived as fossils. The Chengjiang beds are one of the best windows into the Cambrian explosion, when complex animal life suddenly diversified. They even hold some of the earliest relatives of animals with backbones, and the site became a World Heritage Site in 2012.",
+    "collections": [
+      "beasts-through-time",
+      "lost-and-found"
+    ]
+  }
+]

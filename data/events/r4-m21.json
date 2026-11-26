@@ -1,0 +1,346 @@
+[
+ {
+  "id": "m21-babitonga-whale-hunters",
+  "era": "ancient",
+  "year": -3000,
+  "dateLabel": "About 5,000 years ago",
+  "cat": "discovery",
+  "title": "Whale Hunters of Babitonga Bay",
+  "place": "Babitonga Bay, Santa Catarina, Brazil",
+  "lat": -26.25,
+  "lng": -48.65,
+  "text": "On Brazil's southern coast, the Sambaqui people built huge mounds of shells. Studying old museum collections from these mounds, scientists found bone harpoons and whale remains suggesting that southern right whales and humpbacks were probably hunted here 5,000 years ago. Whale bones were also placed in graves, showing how much these giant animals mattered to coastal life long before Europeans arrived.",
+  "source": {
+   "name": "Nature Communications: Molecular and zooarchaeological identification of 5000 year old whale-bone harpoons in coastal Brazil (2026)",
+   "url": "https://www.nature.com/articles/s41467-025-67530-w"
+  }
+ },
+ {
+  "id": "m21-los-ajos-plaza-village",
+  "era": "ancient",
+  "year": -2800,
+  "dateLabel": "About 4,800–4,200 years ago",
+  "cat": "daily",
+  "title": "A Plaza Village in the Wetlands",
+  "place": "Los Ajos, wetlands of Rocha, Uruguay",
+  "lat": -33.7,
+  "lng": -54.03,
+  "text": "Archaeologists once thought only small bands of hunter-gatherers lived in the La Plata basin. Then digs at Los Ajos, a mound complex in southeastern Uruguay's wetlands, revealed a circle of households around a central public plaza. Its farmers grew maize, squash, beans and tubers, the earliest crops known in southern South America, and later raised seven platform mounds around the plaza.",
+  "source": {
+   "name": "Smithsonian Tropical Research Institute via EurekAlert: A complex agricultural society in Uruguay's La Plata basin, 4,800-4,200 years ago",
+   "url": "https://www.eurekalert.org/news-releases/622594"
+  },
+  "source2": {
+   "name": "Nature: Evidence for cultivar adoption and emerging complexity during the mid-Holocene in the La Plata basin (Iriarte et al., 2004)",
+   "url": "https://www.nature.com/articles/nature02983"
+  }
+ },
+ {
+  "id": "m21-canimar-abajo-shell-cemetery",
+  "era": "ancient",
+  "year": -1380,
+  "dateLabel": "Between 1380 and 800 BCE",
+  "cat": "discovery",
+  "title": "Cuba's Ancient Shell-Mound Cemetery",
+  "place": "Canímar Abajo, Matanzas, Cuba",
+  "lat": 23.03,
+  "lng": -81.5,
+  "text": "Canímar Abajo, near Matanzas in Cuba, is a mound built up from shells, and people buried their dead in it. Radiocarbon dating puts its older burials between 1380 and 800 BCE. Chemical clues locked in the teeth of these early islanders suggest they mostly stayed put, living off nearby coastal food rather than roaming widely, the earliest such evidence in the Antilles.",
+  "source": {
+   "name": "Radiocarbon (Cambridge Core): Radiocarbon and Stratigraphic Chronology of Canímar Abajo, Matanzas, Cuba (Roksandic et al., 2015)",
+   "url": "https://www.cambridge.org/core/journals/radiocarbon/article/radiocarbon-and-stratigraphic-chronology-of-canimar-abajo-matanzas-cuba/2A92AB5E28106064670697007E4B676A"
+  },
+  "source2": {
+   "name": "Vrije Universiteit Amsterdam research portal: Earliest evidence of sedentism in the Antilles (PNAS, 2025)",
+   "url": "https://research.vu.nl/en/publications/earliest-evidence-of-sedentism-in-the-antilles-multiple-isotope-d/"
+  }
+ },
+ {
+  "id": "m21-tafi-menhirs",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "More than 2,000 years ago",
+  "cat": "culture",
+  "title": "The Standing Stones of Tafí",
+  "place": "Los Menhires, El Mollar, Tafí del Valle, Tucumán, Argentina",
+  "lat": -26.94,
+  "lng": -65.71,
+  "text": "More than 2,000 years ago, people of the Tafí valley carved tall stone monoliths, called menhirs or huancas, decorated with human, animal and phallic figures. Their story did not end in ancient times: in the 1970s a de facto government forcibly moved them to an arbitrary corner of the valley, and only around 2002 were they relocated to where they stand today.",
+  "source": {
+   "name": "Argentina.gob.ar (Comisión Nacional de Monumentos): Menhires de Tafí del Valle, Lugar Histórico Nacional",
+   "url": "https://www.argentina.gob.ar/node/413550"
+  }
+ },
+ {
+  "id": "m21-acre-geoglyphs",
+  "era": "classical",
+  "year": 1,
+  "dateLabel": "Over 2,000 years ago",
+  "cat": "discovery",
+  "title": "Giant Ditches Under the Rainforest",
+  "place": "Jaco Sá geoglyph, Acre, Brazil",
+  "lat": -9.96,
+  "lng": -67.5,
+  "text": "In Brazil's Acre state, people dug huge geometric ditches in circles and squares, some up to 11 metres wide and 4 metres deep. The forest later hid more than 450 of these geoglyphs until modern deforestation revealed them. Few objects lie inside, so they may have been ritual gathering places, built in forest that people had already been managing for thousands of years.",
+  "source": {
+   "name": "University of Exeter news: Hundreds of ancient earthworks built in the Amazon (2017)",
+   "url": "https://news-archive.exeter.ac.uk/2017/february/title_568689_en.html"
+  },
+  "source2": {
+   "name": "PNAS: Impact of pre-Columbian 'geoglyph' builders on Amazonian forests (Watling et al., 2017)",
+   "url": "https://www.pnas.org/doi/10.1073/pnas.1614359114"
+  }
+ },
+ {
+  "id": "m21-santo-domingo-grid",
+  "era": "exploration",
+  "year": 1498,
+  "dateLabel": "1498",
+  "cat": "daily",
+  "title": "The City of Firsts",
+  "place": "Colonial City, Santo Domingo, Dominican Republic",
+  "lat": 18.47,
+  "lng": -69.88,
+  "text": "Founded by Bartholomew Columbus in 1498 at the mouth of the Ozama River, Santo Domingo became home to the first cathedral, hospital, customs house and university in the Americas. In 1502 Governor Nicolás de Ovando moved it to the west bank and gave it a checkerboard street grid, a layout copied by town planners across the New World.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Colonial City of Santo Domingo",
+   "url": "https://whc.unesco.org/en/list/526/"
+  }
+ },
+ {
+  "id": "m21-eleutheran-adventurers",
+  "era": "exploration",
+  "year": 1647,
+  "dateLabel": "1647–1648",
+  "cat": "journeys",
+  "title": "Seeking Freedom to Worship",
+  "place": "Eleuthera, The Bahamas",
+  "lat": 25.25,
+  "lng": -76.3,
+  "text": "In 1647, religious dissidents in Bermuda wanted an island where they could worship as they pleased. Led by Captain William Sayle, the Company of Eleutherian Adventurers sailed with about 70 settlers, probably landing on Eleuthera, then known as Cigatoo. Their dream of a thriving plantation colony was dashed by poor soil, quarrels among themselves and Spanish interference.",
+  "source": {
+   "name": "Encyclopaedia Britannica: The Bahamas, British colonization",
+   "url": "https://www.britannica.com/place/The-Bahamas/Government-and-society"
+  }
+ },
+ {
+  "id": "m21-colonia-del-sacramento",
+  "era": "exploration",
+  "year": 1680,
+  "dateLabel": "1680",
+  "cat": "power",
+  "title": "A Portuguese Outpost Facing Buenos Aires",
+  "place": "Colonia del Sacramento, Colonia, Uruguay",
+  "lat": -34.47,
+  "lng": -57.85,
+  "text": "In 1680 the Portuguese founded Colonia del Sacramento on a short peninsula on the Río de la Plata, directly facing Spanish Buenos Aires. Fought over for a century, it was finally lost by its founders. Unlike Spanish towns with their rigid checkerboard grids, Colonia's narrow cobbled streets follow the shape of the land, mixing Portuguese and Spanish building traditions.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Historic Quarter of the City of Colonia del Sacramento",
+   "url": "https://whc.unesco.org/en/list/747/"
+  }
+ },
+ {
+  "id": "m21-morant-bay-rebellion",
+  "era": "industrial",
+  "year": 1865,
+  "dateLabel": "October 11, 1865",
+  "cat": "power",
+  "title": "The Morant Bay Rebellion",
+  "place": "Morant Bay, St. Thomas, Jamaica",
+  "lat": 17.88,
+  "lng": -76.41,
+  "text": "On October 11, 1865, a revolt by Black Jamaicans broke out at Morant Bay. Governor Edward Eyre crushed it so harshly that executions passed 400. He then had the island's legislature abolish itself, making Jamaica a crown colony. In Britain, thinkers such as John Stuart Mill demanded Eyre be tried for murder, while Thomas Carlyle, John Ruskin and Alfred, Lord Tennyson took his side.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Edward John Eyre",
+   "url": "https://www.britannica.com/biography/Edward-John-Eyre"
+  }
+ },
+ {
+  "id": "m21-kasato-maru",
+  "era": "industrial",
+  "year": 1908,
+  "dateLabel": "June 18, 1908",
+  "cat": "journeys",
+  "title": "The Kasato Maru Reaches Santos",
+  "place": "Port of Santos, São Paulo, Brazil",
+  "lat": -23.96,
+  "lng": -46.3,
+  "text": "Under a contract with São Paulo state, recruiters struggled to find Japanese families for its coffee farms, even registering fake married couples. The Kasato Maru left Kobe on April 28, 1908 and reached Santos on June 18. On six plantations the emigrants found floorless shacks, harsh foremen and a poor harvest, and within months came strikes and night-time escapes.",
+  "source": {
+   "name": "National Diet Library (Japan): 100 Years of Japanese Emigration to Brazil, Voyage, assigned to plantations and leaving plantations",
+   "url": "https://www.ndl.go.jp/brasil/e/s2/s2_2.html"
+  },
+  "source2": {
+   "name": "National Diet Library (Japan): 100 Years of Japanese Emigration to Brazil, Prehistory of emigration to Brazil",
+   "url": "https://www.ndl.go.jp/brasil/e/s2/s2_1.html"
+  }
+ },
+ {
+  "id": "m21-soufriere-hills-montserrat",
+  "era": "modern",
+  "year": 1995,
+  "dateLabel": "July 1995",
+  "cat": "nature",
+  "title": "Montserrat's Volcano Awakens",
+  "place": "Soufrière Hills, Montserrat",
+  "lat": 16.72,
+  "lng": -62.18,
+  "text": "In July 1995 the Soufrière Hills volcano began the first eruptions in Montserrat's recorded history, with lava domes that grew and collapsed in turn. The capital, Plymouth, was abandoned, and in June 1997 nineteen people were killed. More than two-thirds of Montserratians left the island, and the southern two-thirds of it has been off limits ever since.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Montserrat",
+   "url": "https://www.britannica.com/place/Montserrat-island-West-Indies"
+  }
+ },
+ {
+  "id": "m21-haiti-earthquake",
+  "era": "modern",
+  "year": 2010,
+  "dateLabel": "January 12, 2010",
+  "cat": "nature",
+  "title": "The Earthquake That Shook Haiti",
+  "place": "Léogâne and Port-au-Prince, Haiti",
+  "lat": 18.46,
+  "lng": -72.53,
+  "text": "At 4:53 PM on January 12, 2010, a magnitude 7.0 earthquake struck about 25 km southwest of Port-au-Prince. Léogâne, even closer to the epicentre, was essentially levelled, and the National Palace and cathedral were badly damaged. Some three million people were affected and over a million left homeless. Death toll estimates ranged widely, from 85,000 to more than 300,000.",
+  "source": {
+   "name": "Encyclopaedia Britannica: 2010 Haiti earthquake",
+   "url": "https://www.britannica.com/event/2010-Haiti-earthquake"
+  }
+ },
+ {
+  "id": "m21-la-hueca-jadeite-raptors",
+  "era": "classical",
+  "year": -150,
+  "dateLabel": "2nd century BCE to 5th century CE",
+  "cat": "culture",
+  "title": "Jade Raptors of Vieques",
+  "place": "La Hueca, Sorcé, Vieques, Puerto Rico",
+  "lat": 18.11,
+  "lng": -65.44,
+  "text": "In the 1980s archaeologists at La Hueca, on the island of Vieques, found a new pottery style they called Huecoid, along with tiny greenstone and jadeite carvings of birds of prey clutching human heads. The raptors shown are not native to the islands, possibly carved from imported stone, a sign of busy links between the South American mainland and the Antilles.",
+  "source": {
+   "name": "The Metropolitan Museum of Art Bulletin: Arte del Mar, Art of the Early Caribbean (James A. Doyle, 2020)",
+   "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Arte_del_mar_Art_of_the_Early_Caribbean.pdf"
+  }
+ },
+ {
+  "id": "m21-humahuaca-pucaras",
+  "era": "medieval",
+  "year": 900,
+  "dateLabel": "About 900 to 1430",
+  "cat": "daily",
+  "title": "Hill Towns of the Humahuaca Valley",
+  "place": "Coctaca, Quebrada de Humahuaca, Jujuy, Argentina",
+  "lat": -23.15,
+  "lng": -65.29,
+  "text": "The Quebrada de Humahuaca has been a trade route for 10,000 years. From about 900 until the Inca arrived around 1430 to 1480, it held flourishing pre-Hispanic towns and villages. At Coctaca, stone-walled farming terraces, thought to have begun around 1,500 years ago and still in use today, are linked to a string of fortified towns called pucaras.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Quebrada de Humahuaca",
+   "url": "https://whc.unesco.org/en/list/1116/"
+  }
+ },
+ {
+  "id": "m21-taino-zemi-cohoba-stand",
+  "era": "medieval",
+  "year": 1000,
+  "dateLabel": "About 1000 CE",
+  "cat": "culture",
+  "title": "The Weeping Spirit of Cohoba",
+  "place": "Hispaniola (probably Dominican Republic)",
+  "lat": 18.9,
+  "lng": -70.4,
+  "text": "Around 1000 CE, a Taíno artist carved this zemí, a sacred figure, from hard guaiacum wood, probably on Hispaniola. Powdered cohoba, a hallucinogen, was placed on the flat top and inhaled through snuff tubes during ceremonies. The thin, squatting figure has tears streaming down its face, perhaps showing a fasting shaman feeling the drug's effects. Radiocarbon tests date it to 974–1020 CE.",
+  "source": {
+   "name": "The Metropolitan Museum of Art: Zemí cohoba stand, Taíno, ca. 1000 CE",
+   "url": "https://www.metmuseum.org/art/collection/search/312602"
+  }
+ },
+ {
+  "id": "m21-upper-xingu-garden-towns",
+  "era": "medieval",
+  "year": 1250,
+  "dateLabel": "About 1250 to 1600",
+  "cat": "daily",
+  "title": "Road-Linked Towns of the Xingu",
+  "place": "Upper Xingu, Xingu Indigenous Park, Mato Grosso, Brazil",
+  "lat": -12.56,
+  "lng": -53.1,
+  "text": "Together with Kuikuro researchers, archaeologists mapped large settlements in Brazil's Upper Xingu dating from about 1250 to 1600. Towns with circular plazas sat 3 to 5 km apart, linked by straight roads 10 to 50 m wide, and were ringed by ditches up to 5 m deep. Bridges, ponds and causeways shaped the wetlands, and some are still used today.",
+  "source": {
+   "name": "Science: Amazonia 1492, Pristine Forest or Cultural Parkland? (Heckenberger et al., 2003)",
+   "url": "https://www.science.org/doi/10.1126/science.1086112"
+  }
+ },
+ {
+  "id": "m21-guiana-freedmen-villages",
+  "era": "industrial",
+  "year": 1838,
+  "dateLabel": "1838",
+  "cat": "daily",
+  "title": "Freedom Comes to British Guiana",
+  "place": "Demerara coast, Guyana",
+  "lat": 6.8,
+  "lng": -58.15,
+  "text": "When full emancipation came in 1838, Black freedmen in British Guiana left the plantations and set up their own settlements along the coastal plain. Planters then brought in workers from several places, above all indentured labourers from India. Indentured labourers who earned their freedom settled in coastal villages near the estates, a pattern that took hold in the late 19th century.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Guyana, History",
+   "url": "https://www.britannica.com/place/Guyana/History"
+  }
+ },
+ {
+  "id": "m21-suriname-abolition",
+  "era": "industrial",
+  "year": 1863,
+  "dateLabel": "July 1, 1863",
+  "cat": "power",
+  "title": "Freedom, but Not Yet",
+  "place": "Paramaribo, Suriname",
+  "lat": 5.85,
+  "lng": -55.2,
+  "text": "On July 1, 1863, the Netherlands abolished slavery in Suriname and its Caribbean islands. But many freed people were forced to keep working on plantations for ten more years under 'State Supervision' for a miserable wage, to limit owners' losses. The scheme failed totally, and for many, slavery did not really end until July 1, 1873.",
+  "source": {
+   "name": "Government of the Netherlands: Slavery Memorial Year",
+   "url": "https://www.government.nl/themes/migration-and-travel/discrimination/history-of-slavery/slavery-memorial-year"
+  },
+  "source2": {
+   "name": "International Institute of Social History: Colony Suriname mapped out",
+   "url": "https://archief.socialhistory.org/en/node/5198"
+  }
+ },
+ {
+  "id": "m21-barroso-blowout",
+  "era": "modern",
+  "year": 1922,
+  "dateLabel": "December 14–23, 1922",
+  "cat": "daily",
+  "title": "The Gusher at Lake Maracaibo",
+  "place": "La Rosa field, Cabimas, Zulia, Venezuela",
+  "lat": 10.4,
+  "lng": -71.45,
+  "text": "On December 14, 1922, the Los Barrosos-2 well near Cabimas blew out, spewing oil for nine days and soiling Lake Maracaibo with some 840,000 barrels. Residents carried an image of San Benito to the well and prayed; when it suddenly stopped, many credited the saint. The gusher helped turn Venezuela from a coffee and cacao exporter into a giant oil producer.",
+  "source": {
+   "name": "AAPG Explorer: One Hundred Years of a Lost Blowout (Orlando Méndez)",
+   "url": "https://www.aapg.org/news-and-media/details/explorer/articleid/64481"
+  }
+ },
+ {
+  "id": "m21-ariane-kourou",
+  "era": "modern",
+  "year": 1979,
+  "dateLabel": "December 24, 1979",
+  "cat": "discovery",
+  "title": "Europe's Christmas Rocket",
+  "place": "Guiana Space Centre, Kourou, French Guiana",
+  "lat": 5.24,
+  "lng": -52.77,
+  "text": "On Christmas Eve 1979, the first Ariane 1 rocket lifted off from Europe's Spaceport in Kourou, French Guiana, after an earlier December attempt was called off. It carried a small test satellite, CAT-1. Afterwards hundreds of people celebrated in the assembly hall, champagne flowed, and firefighters cheerfully soaked everyone with water. Ariane went on to give Europe its own access to space.",
+  "source": {
+   "name": "European Space Agency: 40 years of Ariane",
+   "url": "https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/40_years_of_Ariane"
+  },
+  "source2": {
+   "name": "ESA Historical Archives: Christmas in Kourou",
+   "url": "https://historicalarchives.esa.int/christmas-kourou"
+  }
+ }
+]

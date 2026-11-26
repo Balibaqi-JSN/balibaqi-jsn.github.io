@@ -1,0 +1,394 @@
+[
+ {
+  "id": "n01-leon-viejo",
+  "era": "exploration",
+  "year": 1524,
+  "dateLabel": "1524",
+  "cat": "daily",
+  "title": "The Town a Volcano Buried",
+  "place": "León Viejo, Puerto Momotombo, Nicaragua",
+  "lat": 12.4,
+  "lng": -86.62,
+  "text": "Francisco Hernández de Córdoba founded León on the shore of Lake Managua in 1524, facing the Momotombo volcano. An eruption in 1578 partly destroyed it, and an earthquake in 1610 finished the job, so the town was moved. Slowly buried, the ruins stayed untouched for over 350 years until their discovery in 1967.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Ruins of León Viejo",
+   "url": "https://whc.unesco.org/en/list/613"
+  }
+ },
+ {
+  "id": "n01-san-salvador-pipil",
+  "era": "exploration",
+  "year": 1525,
+  "dateLabel": "1525",
+  "cat": "power",
+  "title": "The Pipil Push Back",
+  "place": "Near Suchitoto, Cuscatlán, El Salvador",
+  "lat": 13.94,
+  "lng": -89.03,
+  "text": "When Pedro de Alvarado's Spanish troops arrived in 1524, the Pipil, a Nahua people west of the Lempa River, met them with determined opposition. In 1525 a second expedition founded a town called San Salvador near the Pipil capital of Cuscatlán. Pipil warriors forced the settlers to withdraw, and the town was resettled several times before it was permanently established in 1528.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of El Salvador (Markus Schultze-Kraft)",
+   "url": "https://www.britannica.com/topic/history-of-El-Salvador"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: San Salvador",
+   "url": "https://www.britannica.com/place/San-Salvador"
+  }
+ },
+ {
+  "id": "n01-ciudad-vieja-lahar",
+  "era": "exploration",
+  "year": 1541,
+  "dateLabel": "1541",
+  "cat": "nature",
+  "title": "The Mudflow That Erased a Capital",
+  "place": "Ciudad Vieja, Sacatepéquez, Guatemala",
+  "lat": 14.52,
+  "lng": -90.76,
+  "text": "Guatemala's Spanish capital, Santiago, was rebuilt in 1527 near the Almolonga Valley. In 1541 a lahar, a volcanic mudflow, swept down the slopes of Volcán de Agua and buried the city. Survivors moved again to the Valley of Panchoy, where the new capital, today's Antigua Guatemala, served for 230 years.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Antigua Guatemala",
+   "url": "https://www.britannica.com/place/Antigua-Guatemala"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Antigua Guatemala",
+   "url": "https://whc.unesco.org/en/list/65"
+  }
+ },
+ {
+  "id": "n01-tembleque-aqueduct",
+  "era": "exploration",
+  "year": 1555,
+  "dateLabel": "1555 (building began; finished 1572)",
+  "cat": "discovery",
+  "title": "Padre Tembleque's Giant Aqueduct",
+  "place": "Tepeyahualco, Hidalgo and State of Mexico, Mexico",
+  "lat": 19.84,
+  "lng": -98.66,
+  "text": "Between 1555 and 1572, the friar Francisco de Tembleque and local Indigenous communities built a water system running about 48 kilometres. Its arcade over the Tepeyahualco Ravine reaches 39.65 metres, with 68 round arches. Builders used adobe instead of wooden scaffolding, mixing Roman engineering with Mesoamerican skills, and one branch still works today.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Aqueduct of Padre Tembleque Hydraulic System",
+   "url": "https://whc.unesco.org/en/list/1463"
+  }
+ },
+ {
+  "id": "n01-florentine-codex",
+  "era": "exploration",
+  "year": 1577,
+  "dateLabel": "1577",
+  "cat": "culture",
+  "title": "An Encyclopedia of the Aztec World",
+  "place": "Tlatelolco, Mexico City, Mexico",
+  "lat": 19.45,
+  "lng": -99.14,
+  "text": "In 1577, at the Colegio de la Santa Cruz in Tlatelolco, the friar Bernardino de Sahagún and a group of Nahua elders, authors and artists completed a twelve-book encyclopedia. Written in side-by-side Nahuatl and Spanish and painted with nearly 2,500 images, it ended up in the Medici library in Florence and is now called the Florentine Codex.",
+  "source": {
+   "name": "Getty Research Institute: Digital Florentine Codex",
+   "url": "https://florentinecodex.getty.edu/"
+  }
+ },
+ {
+  "id": "n01-morgan-panama",
+  "era": "exploration",
+  "year": 1671,
+  "dateLabel": "January 18, 1671",
+  "cat": "power",
+  "title": "The Buccaneer Who Burned Panama",
+  "place": "Panamá Viejo, Panama City, Panama",
+  "lat": 9.01,
+  "lng": -79.49,
+  "text": "Old Panama City was a rich hub where silver from the Andes was carried across the isthmus. In 1671 the Welsh buccaneer Henry Morgan crossed the isthmus with nearly 2,000 men, beat a large Spanish force on January 18, and entered the city, which burned to the ground. A new Panama was built about 8 kilometres southwest in 1674.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Sir Henry Morgan",
+   "url": "https://www.britannica.com/biography/Henry-Morgan-Welsh-buccaneer"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Panama City",
+   "url": "https://www.britannica.com/place/Panama-City"
+  }
+ },
+ {
+  "id": "n01-jorullo-volcano",
+  "era": "exploration",
+  "year": 1759,
+  "dateLabel": "September 29, 1759",
+  "cat": "nature",
+  "title": "A Volcano Born in a Valley",
+  "place": "Jorullo, Michoacán, Mexico",
+  "lat": 18.97,
+  "lng": -101.72,
+  "text": "On September 29, 1759, the small volcano of Jorullo suddenly rose from the floor of a valley in Michoacán. It soon covered the surrounding farmland in a thick layer of ash. Lava flows, mudflows and explosions followed, people had to leave, and the eruption went on until 1774.",
+  "source": {
+   "name": "Smithsonian Global Volcanism Program: Michoacán-Guanajuato",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=341060"
+  },
+  "source2": {
+   "name": "Yale Peabody Museum Postilla: Paynter, Avifauna of the Jorullo region, Michoacán, Mexico",
+   "url": "https://elischolar.library.yale.edu/peabody_museum_natural_history_postilla/25"
+  }
+ },
+ {
+  "id": "n01-humboldt-mexico",
+  "era": "industrial",
+  "year": 1803,
+  "dateLabel": "Spring 1803",
+  "cat": "journeys",
+  "title": "Humboldt Lands at Acapulco",
+  "place": "Acapulco, Guerrero, Mexico",
+  "lat": 16.85,
+  "lng": -99.89,
+  "text": "In the spring of 1803 the scientist Alexander von Humboldt and botanist Aimé Bonpland sailed from Guayaquil to Acapulco and spent their expedition's last year studying Mexico. Humboldt's Political Essay on the Kingdom of New Spain described its geography, people and mines. It protested against slavery, and its accounts of Mexican silver mines drew a wave of English investment.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Alexander von Humboldt",
+   "url": "https://www.britannica.com/biography/Alexander-von-Humboldt"
+  }
+ },
+ {
+  "id": "n01-benito-juarez-born",
+  "era": "industrial",
+  "year": 1806,
+  "dateLabel": "March 21, 1806",
+  "cat": "power",
+  "title": "An Orphan Who Became President",
+  "place": "San Pablo Guelatao, Oaxaca, Mexico",
+  "lat": 17.32,
+  "lng": -96.49,
+  "text": "Benito Juárez was born in the mountain village of Guelatao to Indigenous parents, who both died when he was three. At 12 he left his uncle to join his sister in the city of Oaxaca and start school. He went on to study law and served as Mexico's president from 1861 to 1872, becoming a national hero.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Benito Juárez (Walter V. Scholes)",
+   "url": "https://www.britannica.com/biography/Benito-Juarez"
+  }
+ },
+ {
+  "id": "n01-plan-of-iguala",
+  "era": "industrial",
+  "year": 1821,
+  "dateLabel": "February 24, 1821",
+  "cat": "power",
+  "title": "Three Guarantees for a New Mexico",
+  "place": "Iguala, Guerrero, Mexico",
+  "lat": 18.35,
+  "lng": -99.54,
+  "text": "At Iguala, the royalist officer Agustín de Iturbide joined forces with the rebel Vicente Guerrero. His Plan of Iguala promised three guarantees: independence from Spain, equality for Spaniards and Creoles, and the Catholic faith. The Army of the Three Guarantees swept the country, and in August 1821 Spain's representative signed a treaty recognizing Mexico's independence.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Agustín de Iturbide",
+   "url": "https://www.britannica.com/biography/Agustin-de-Iturbide"
+  }
+ },
+ {
+  "id": "n01-central-american-federation",
+  "era": "industrial",
+  "year": 1823,
+  "dateLabel": "July 1823",
+  "cat": "power",
+  "title": "Five Lands, One Republic",
+  "place": "Guatemala City, Guatemala",
+  "lat": 14.63,
+  "lng": -90.51,
+  "text": "In July 1823 delegates met in Guatemala City and declared the United Provinces of Central America: Guatemala, Honduras, El Salvador, Nicaragua and Costa Rica. Their constitution abolished slavery and gave each state its own president. Civil war soon followed, and by April 1839 only El Salvador stayed loyal; about 25 later attempts to restore the union failed.",
+  "source": {
+   "name": "Encyclopaedia Britannica: United Provinces of Central America",
+   "url": "https://www.britannica.com/place/United-Provinces-of-Central-America"
+  }
+ },
+ {
+  "id": "n01-panama-railroad",
+  "era": "industrial",
+  "year": 1850,
+  "dateLabel": "1850 (construction began)",
+  "cat": "journeys",
+  "title": "A Railway for Gold Seekers",
+  "place": "Isthmus of Panama, Panama",
+  "lat": 9.15,
+  "lng": -79.75,
+  "text": "After gold was found in California in 1849, fortune seekers crowded the isthmus of Panama looking for the quickest route. Work on a railroad began in 1850, and the final spike was driven at Culebra just after midnight on January 27, 1855. The single track ran about 76 kilometres, and by 1869 it had carried tens of thousands of forty-niners.",
+  "source": {
+   "name": "University of Florida Libraries, Panama Canal Museum Collection: Panama Canal Railroad Construction",
+   "url": "https://pcmc.domains.uflib.ufl.edu/object-of-the-day/panama-canal-railroad-construction/"
+  },
+  "source2": {
+   "name": "Smithsonian Libraries: Make the Dirt Fly! Why build a canal?",
+   "url": "https://www.sil.si.edu/Exhibitions/make-the-dirt-fly/whybuild.html"
+  }
+ },
+ {
+  "id": "n01-mexican-anthem",
+  "era": "industrial",
+  "year": 1854,
+  "dateLabel": "September 15, 1854",
+  "cat": "culture",
+  "title": "Mexico Sings Its Anthem",
+  "place": "Mexico City, Mexico",
+  "lat": 19.44,
+  "lng": -99.14,
+  "text": "Mexico's national anthem was sung for the first time on September 15, 1854, at the Teatro Santa Anna, on land where the Palacio de Bellas Artes stands today. The words were by Francisco González Bocanegra of San Luis Potosí and the music by Catalan bandmaster Jaime Nunó. An Italian opera company performed it, with tenor Lorenzo Salvi.",
+  "source": {
+   "name": "Secretaría de Educación Pública (gob.mx): ¿Sabías que un día como hoy se cantó por primera vez el Himno Nacional Mexicano?",
+   "url": "https://www.gob.mx/sep/articulos/sabias-que-un-dia-como-hoy-se-canto-por-primera-vez-el-himno-nacional-mexicano"
+  }
+ },
+ {
+  "id": "n01-battle-of-puebla",
+  "era": "industrial",
+  "year": 1862,
+  "dateLabel": "May 5, 1862",
+  "cat": "power",
+  "title": "The Real Story of Cinco de Mayo",
+  "place": "Puebla, Puebla, Mexico",
+  "lat": 19.06,
+  "lng": -98.19,
+  "text": "On May 5, 1862, a poorly equipped mestizo and Zapotec force under General Ignacio Zaragoza defeated invading French troops at Puebla. The French were not driven out for another five years, but the victory became a symbol of Mexican resistance. Cinco de Mayo is not Mexico's Independence Day, which falls on September 16.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Cinco de Mayo",
+   "url": "https://www.britannica.com/topic/Cinco-de-Mayo"
+  }
+ },
+ {
+  "id": "n01-mexican-revolution-begins",
+  "era": "industrial",
+  "year": 1910,
+  "dateLabel": "November 20, 1910",
+  "cat": "power",
+  "title": "Madero Calls Mexico to Rise",
+  "place": "Chihuahua, Chihuahua, Mexico",
+  "lat": 28.63,
+  "lng": -106.07,
+  "text": "Dictator Porfirio Díaz said he would retire in 1910, then ran again. His rival Francisco Madero, a short, vegetarian landowner's son, was arrested before the vote, escaped to Texas and called for an armed uprising on November 20. In Chihuahua, Pascual Orozco and Pancho Villa kept the rebellion alive, and Díaz resigned in 1911.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Francisco Madero",
+   "url": "https://www.britannica.com/biography/Francisco-Madero"
+  }
+ },
+ {
+  "id": "n01-paricutin",
+  "era": "modern",
+  "year": 1943,
+  "dateLabel": "February 20, 1943",
+  "cat": "nature",
+  "title": "The Volcano in a Cornfield",
+  "place": "Parícutin, Michoacán, Mexico",
+  "lat": 19.49,
+  "lng": -102.25,
+  "text": "On a February afternoon, farmer Dionisio Pulido was burning branches in his field when he watched a volcanic vent open. Parícutin grew more than 150 metres in its first week and erupted for nine years, displacing five communities. Scientists rushed in: it was the first time in modern history they could study the birth of a volcano.",
+  "source": {
+   "name": "Smithsonian Global Volcanism Program: Michoacán-Guanajuato (Parícutin)",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=341060"
+  },
+  "source2": {
+   "name": "USGS: Ruined San Juan, Parícutin Volcano in background",
+   "url": "https://www.usgs.gov/media/images/ruined-san-juan-paricutin-volcano-background-michoacan-mexico"
+  }
+ },
+ {
+  "id": "n01-arenal-eruption",
+  "era": "modern",
+  "year": 1968,
+  "dateLabel": "July 29, 1968",
+  "cat": "nature",
+  "title": "Arenal Wakes Up",
+  "place": "Arenal Volcano, Alajuela, Costa Rica",
+  "lat": 10.46,
+  "lng": -84.7,
+  "text": "Arenal had been quiet for centuries when it exploded at 8 a.m. on July 29, 1968. Ash, rock and lava rained down and dammed rivers, and 4,000 people were evacuated from towns including Pueblo Nuevo and Tabacón. The eruption killed 65 people. It started an eruptive period of explosions and slow lava flows that lasted until December 2010.",
+  "source": {
+   "name": "Smithsonian Global Volcanism Program: Arenal",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=345033"
+  }
+ },
+ {
+  "id": "n01-belize-independence",
+  "era": "modern",
+  "year": 1981,
+  "dateLabel": "September 21, 1981",
+  "cat": "power",
+  "title": "The Last Mainland Colony Goes Free",
+  "place": "Belmopan, Belize",
+  "lat": 17.25,
+  "lng": -88.77,
+  "text": "Belize, called British Honduras until 1973, was Britain's last colony on the American mainland. Neighbouring Guatemala claimed its land, so Belizeans took their case to the United Nations in the 1970s. On September 21, 1981, Belize became independent with a British defence guarantee and joined the UN, even though the dispute was still unresolved.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Belize (O. Nigel Bolland), Independence",
+   "url": "https://www.britannica.com/place/Belize/Independence"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Belize",
+   "url": "https://www.britannica.com/place/Belize"
+  }
+ },
+ {
+  "id": "n01-naica-crystals",
+  "era": "modern",
+  "year": 2000,
+  "dateLabel": "2000",
+  "cat": "discovery",
+  "title": "The Cave of Giant Crystals",
+  "place": "Naica Mine, Chihuahua, Mexico",
+  "lat": 27.85,
+  "lng": -105.5,
+  "text": "In 2000, two miners digging a new tunnel in the Naica mine broke into a cave 300 metres underground. Inside were translucent gypsum beams up to 11 metres long and weighing up to 55 tons, in heat around 58 °C. Bathed in mineral-rich water, they grew for many hundreds of thousands of years; today only the mine's pumps keep the cave dry.",
+  "source": {
+   "name": "National Geographic: Mexico's Giant Crystal Cave Comes to Light",
+   "url": "https://www.nationalgeographic.com/science/article/photos-mexico-cave-of-crystals"
+  },
+  "source2": {
+   "name": "NASA Jet Propulsion Laboratory: Naica Mine, Chihuahua, Mexico",
+   "url": "https://www.jpl.nasa.gov/images/pia10615-naica-mine-chihuahua-mexico/"
+  }
+ },
+ {
+  "id": "n01-berta-caceres",
+  "era": "modern",
+  "year": 2016,
+  "dateLabel": "March 3, 2016",
+  "cat": "nature",
+  "title": "Berta Cáceres and the Sacred River",
+  "place": "La Esperanza, Intibucá, Honduras",
+  "lat": 14.31,
+  "lng": -88.18,
+  "text": "Berta Cáceres, a Lenca woman, co-founded COPINH, a council of Indigenous organizations in Honduras, in 1993. She led a campaign against the Agua Zarca dam on the Gualcarque River, sacred to the Lenca, that kept construction equipment away and halted the project. Despite death threats, she kept going until March 3, 2016, when gunmen killed her at home.",
+  "source": {
+   "name": "Goldman Environmental Prize: Berta Cáceres",
+   "url": "https://www.goldmanprize.org/recipient/berta-caceres/"
+  }
+ },
+ {
+  "id": "n01-puebla-earthquake-2017",
+  "era": "modern",
+  "year": 2017,
+  "dateLabel": "September 19, 2017",
+  "cat": "nature",
+  "title": "An Earthquake on an Anniversary",
+  "place": "Puebla-Morelos region, Mexico",
+  "lat": 18.55,
+  "lng": -98.49,
+  "text": "At 1:14 p.m. on September 19, 2017, a magnitude 7.1 earthquake struck about 80 kilometres southeast of Mexico City, killing hundreds. It hit 32 years to the day after a magnitude 8.0 quake in 1985. Because of that anniversary, Mexico City had held an earthquake drill just hours earlier, and some reports credit Mexico's warning system with reducing casualties.",
+  "source": {
+   "name": "USGS: Volcano Watch, Summer 2017 goes out like a lion with hurricanes and earthquakes",
+   "url": "https://www.usgs.gov/news/volcano-watch-summer-2017-goes-out-a-lion-hurricanes-and-earthquakes-reminders-be-prepared"
+  },
+  "source2": {
+   "name": "USGS: Magnitude 7.1 Earthquake in Mexico",
+   "url": "https://www.usgs.gov/news/featured-story/magnitude-71-earthquake-mexico"
+  }
+ },
+ {
+  "id": "n01-sheinbaum-president",
+  "era": "modern",
+  "year": 2024,
+  "dateLabel": "October 1, 2024",
+  "cat": "power",
+  "title": "Mexico's First Woman President",
+  "place": "Mexico City, Mexico",
+  "lat": 19.43,
+  "lng": -99.12,
+  "text": "Claudia Sheinbaum was sworn in before Mexico's Congress as the country's first woman president, after 65 presidents who were all men. A climate scientist who studied energy engineering and worked with the UN climate panel, she had been mayor of Mexico City. \"Now is the time of transformation, now is the time of women,\" she said.",
+  "source": {
+   "name": "Al Jazeera: Claudia Sheinbaum sworn in as Mexico's first female president",
+   "url": "https://aljazeera.com/news/2024/10/1/claudia-sheinbaum-sworn-in-as-mexicos-first-female-president"
+  },
+  "source2": {
+   "name": "RTÉ News: Sheinbaum sworn in as Mexico's first woman president",
+   "url": "https://www.rte.ie/news/2024/1001/1473056-mexico-female-president/"
+  }
+ }
+]

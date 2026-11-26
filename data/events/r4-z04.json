@@ -1,0 +1,414 @@
+[
+ {
+  "id": "z04-samrukia-bird-or-pterosaur",
+  "era": "deep",
+  "year": -84000000,
+  "dateLabel": "About 84 million years ago",
+  "cat": "discovery",
+  "title": "The Giant Bird That Wasn't",
+  "place": "Akkurgan hill, northeastern Aral Sea region, Kyzylorda Region, Kazakhstan",
+  "lat": 46.7,
+  "lng": 64.1,
+  "text": "A study published in 2011 named a pair of toothless jaws from Akkurgan, a lone hill north of the Aral Sea, as Samrukia, after the mythical Kazakh phoenix. It was hailed as a giant Cretaceous bird, albatross-sized if it flew and ostrich-sized if not. Other experts disagreed. A 2015 review concluded the jaw came from a pterosaur, a toothless azhdarchid living on a coastal floodplain beside the Turgai Sea.",
+  "source": {
+   "name": "ZooKeys (PMC): The paleoenvironments of azhdarchid pterosaurs localities in the Late Cretaceous of Kazakhstan",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4351447/"
+  },
+  "source2": {
+   "name": "Biology Letters (PMC): A gigantic bird from the Upper Cretaceous of Central Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3259976/"
+  }
+ },
+ {
+  "id": "z04-kiyacursor-siberian-runner",
+  "era": "deep",
+  "year": -118000000,
+  "dateLabel": "About 118 million years ago",
+  "cat": "nature",
+  "title": "An Ostrich-Footed Runner in Siberia",
+  "place": "Shestakovo, Kiya River, Kemerovo Oblast, Russia",
+  "lat": 55.88,
+  "lng": 87.95,
+  "text": "A long-legged predator about 2.5 metres long ran along the Kiya River in Western Siberia during the Early Cretaceous. Named Kiyacursor longipes in 2024, it is the first Early Cretaceous ceratosaur known from Asia, stretching that group's Asian record by about 40 million years. Its foot was built like an ostrich's. It shared its world with parrot-beaked Psittacosaurus and survivors of older Jurassic lineages.",
+  "source": {
+   "name": "Proceedings of the Royal Society B (PMC): The last ceratosaur of Asia, a new noasaurid from the Early Cretaceous Great Siberian Refugium",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11285863/"
+  }
+ },
+ {
+  "id": "z04-karatau-jurassic-insect-lake",
+  "era": "deep",
+  "year": -155000000,
+  "dateLabel": "About 155 million years ago",
+  "cat": "discovery",
+  "title": "A Jurassic Lake Full of Insects",
+  "place": "Galkino, Karatau Range, Turkistan Region, Kazakhstan",
+  "lat": 43.15,
+  "lng": 70.05,
+  "text": "In 1921 a mining engineer named A.A. Aniskovich found fossil insects near the village of Galkino in southern Kazakhstan. The find caused a sensation, and researchers flocked to the Karatau hills. The rocks preserve a Late Jurassic lake so rich that more than 800 insect species have been described from it, including 22 kinds of woodwasp. Only China's Daohugou beds rival it for described Jurassic insects.",
+  "source": {
+   "name": "Insects (PMC): Anaxyelidae of Karatau, 100 Years After",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12471113/"
+  }
+ },
+ {
+  "id": "z04-triassurus-oldest-salamander",
+  "era": "deep",
+  "year": -230000000,
+  "dateLabel": "About 230 million years ago",
+  "cat": "nature",
+  "title": "The Oldest Salamander's Lakeside Home",
+  "place": "Madygen Formation, Batken Region, Kyrgyzstan",
+  "lat": 39.97,
+  "lng": 69.68,
+  "text": "A small salamander-like animal lived around a Triassic lake in what is now southwestern Kyrgyzstan. Its first fossil puzzled scientists for decades. In 2020 a second specimen from the same Madygen rock beds showed that Triassurus sixtelae was a stem-salamander, the oldest known. It pushed the rock record of salamanders back by at least 60 to 74 million years, yet kept features of far older amphibians.",
+  "source": {
+   "name": "PNAS (PMC): A Triassic stem-salamander from Kyrgyzstan and the origin of salamanders",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7261083/"
+  }
+ },
+ {
+  "id": "z04-lena-delta-miocene-forest",
+  "era": "deep",
+  "year": -8680000,
+  "dateLabel": "About 8.7 million years ago",
+  "cat": "nature",
+  "title": "Wildfires in an Arctic Forest",
+  "place": "Lena River Delta, Sakha Republic, Russia",
+  "lat": 72.27,
+  "lng": 126.94,
+  "text": "Cave formations from the Lena River Delta, high in Arctic Siberia, grew about 8.7 million years ago. Scientists studied pollen, carbon and chemical traces of burnt plants locked inside them. Today the delta is treeless tundra, but then a mixed forest grew here, able to keep wildfires going. Global temperatures were about 4.5°C warmer than now, with carbon dioxide levels similar to today's.",
+  "source": {
+   "name": "Scientific Reports (PMC): Late Miocene speleothems show significant warming, temperate vegetation, and wildfires in Arctic Siberia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12322161/"
+  }
+ },
+ {
+  "id": "z04-teete-arctic-mammals",
+  "era": "deep",
+  "year": -135000000,
+  "dateLabel": "About 135 million years ago",
+  "cat": "nature",
+  "title": "Tiny Mammals Near the Cretaceous Arctic",
+  "place": "Teete locality, Suntar District, Sakha Republic, Russia",
+  "lat": 62.3,
+  "lng": 117.5,
+  "text": "Three kinds of small mammals lived in what is now western Yakutia in the Early Cretaceous. Their teeth and jaw fragments, from the Teete site, were described in 2018, including the newly named Khorotherium and Sangarotherium. The site then lay around 63 to 70 degrees north. Oddly, the mammals look Jurassic, which suggests that stable conditions let life in northern Asia change only slowly.",
+  "source": {
+   "name": "PLOS ONE (PMC): A high-latitude fauna of mid-Mesozoic mammals from Yakutia, Russia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6059412/"
+  }
+ },
+ {
+  "id": "z04-valley-of-geysers-landslide",
+  "era": "modern",
+  "year": 2007,
+  "dateLabel": "3 June 2007",
+  "cat": "nature",
+  "title": "A Landslide Buries the First Geyser",
+  "place": "Valley of the Geysers, Kronotsky Reserve, Kamchatka, Russia",
+  "lat": 54.43,
+  "lng": 160.14,
+  "text": "On 3 June 2007 a landslide of mud, melting snow, trees and boulders roared through Kamchatka's Valley of the Geysers, one of the world's rare geyser fields. It left a scar about 1.5 kilometres long and dammed the Geyser River into a new warm lake. Among the geysers buried under up to 60 metres of debris was Pervenets, 'Firstborn', the first one found here in 1941.",
+  "source": {
+   "name": "NASA Earth Observatory: Landslide Buries Valley of the Geysers",
+   "url": "https://science.nasa.gov/earth/earth-observatory/landslide-buries-valley-of-the-geysers-7789/"
+  }
+ },
+ {
+  "id": "z04-norilsk-sulfur-cloud",
+  "era": "modern",
+  "year": 2017,
+  "dateLabel": "2017",
+  "cat": "nature",
+  "title": "The Smelter City That Rivals Volcanoes",
+  "place": "Norilsk, Krasnoyarsk Krai, Russia",
+  "lat": 69.35,
+  "lng": 88.2,
+  "text": "Norilsk, an Arctic city of about 175,000 people, sits on one of Earth's largest nickel, copper, platinum and palladium deposits. Its smelters make it the biggest human source of sulfur dioxide seen by satellites, almost double the next. Between 2005 and 2017 only one volcano, Ambrym in Vanuatu, released more of the gas by passive degassing. Forests around the city are browning and dying.",
+  "source": {
+   "name": "NASA Earth Observatory: A Manmade Volcano over Norilsk",
+   "url": "https://science.nasa.gov/earth/earth-observatory/a-manmade-volcano-over-norilsk-92246/"
+  }
+ },
+ {
+  "id": "z04-zarnitsa-first-kimberlite",
+  "era": "modern",
+  "year": 1954,
+  "dateLabel": "1954",
+  "cat": "discovery",
+  "title": "Blue Clay Full of Red Garnets",
+  "place": "Zarnitsa pipe, Daldyn River, Sakha Republic, Russia",
+  "lat": 66.4,
+  "lng": 111.4,
+  "text": "In 1954 geologist Larisa Popugaeva and her assistant Fedor Belikov followed tiny red pyrope garnets up the Daldyn River in Yakutia, sampling streams until the grains vanished. On a rainy day, sitting on a stone warmed by their campfire, she suddenly jumped up with her lens: blue clay full of pyropes. It was Zarnitsa, the first kimberlite pipe found in Russia, opening Siberia's diamond fields.",
+  "source": {
+   "name": "Science First Hand: The Discovery of Zarnitsa, the Dawn of Siberian Diamonds",
+   "url": "https://scfh.ru/en/papers/the-discovery-of-zarnitsa-the-dawn-of-siberian-diamonds/"
+  }
+ },
+ {
+  "id": "z04-muruntau-gold-pit",
+  "era": "modern",
+  "year": 1967,
+  "dateLabel": "1967",
+  "cat": "daily",
+  "title": "A Gold Pit You Can See From Space",
+  "place": "Muruntau gold mine, Navoiy Region, Uzbekistan",
+  "lat": 41.5,
+  "lng": 64.58,
+  "text": "In the Kyzylkum desert of central Uzbekistan, a giant round pit stands out in satellite images. The Muruntau gold deposit, among the largest on Earth, was found in 1958, and mining began in 1967. The pit is now 3.5 kilometres wide and 600 metres deep. Hundreds of trucks haul ore, and in 2021 the mine produced as much as 85,000 kilograms of gold.",
+  "source": {
+   "name": "NASA Earth Observatory: Muruntau Gold Mine",
+   "url": "https://science.nasa.gov/earth/earth-observatory/muruntau-gold-mine-150159/"
+  }
+ },
+ {
+  "id": "z04-karakum-canal-begins",
+  "era": "modern",
+  "year": 1954,
+  "dateLabel": "1954",
+  "cat": "daily",
+  "title": "A River Pulled Across the Desert",
+  "place": "Garagum (Karakum) Canal near Mary, Turkmenistan",
+  "lat": 37.6,
+  "lng": 61.8,
+  "text": "People dreamed of watering Turkmenistan's Garagum Desert from the Amu Darya as early as the 18th century. Under Soviet rule, building began in 1954 and lasted until 1988. The canal carries river water about 1,375 kilometres through the sands, one of the largest canals in the world, and opened a million hectares to cotton, wheat and melons. It still feeds the fields around Mary.",
+  "source": {
+   "name": "NASA Earth Observatory: Hanhowuz Reservoir, Turkmenistan",
+   "url": "https://science.nasa.gov/earth/earth-observatory/hanhowuz-reservoir-turkmenistan-83940/"
+  },
+  "source2": {
+   "name": "NASA Earth Observatory: Agriculture Fans Out in Turkmenistan",
+   "url": "https://science.nasa.gov/earth/earth-observatory/agriculture-fans-out-in-turkmenistan-149577/"
+  }
+ },
+ {
+  "id": "z04-kok-aral-dam-north-aral",
+  "era": "modern",
+  "year": 2005,
+  "dateLabel": "2005",
+  "cat": "nature",
+  "title": "A Dam That Brought a Sea Back",
+  "place": "Kok-Aral Dam, North Aral Sea, Kyzylorda Region, Kazakhstan",
+  "lat": 46.12,
+  "lng": 60.75,
+  "text": "By 2000 the Aral Sea had shrunk to a quarter of its old size. In 2005 Kazakhstan finished the Kok-Aral Dam, an $85.8 million project backed by a World Bank loan, which cut the northern part off from the saltier south. The North Aral rose far faster than expected, mostly within a year, and by spring 2006 the stranded port of Aralsk was close to water again.",
+  "source": {
+   "name": "NASA Earth Observatory: North Aral Sea Recovery",
+   "url": "https://science.nasa.gov/earth/earth-observatory/north-aral-sea-recovery-7645/"
+  }
+ },
+ {
+  "id": "z04-semipalatinsk-closed",
+  "era": "modern",
+  "year": 1991,
+  "dateLabel": "29 August 1991",
+  "cat": "power",
+  "title": "The Day the Test Site Closed",
+  "place": "Semipalatinsk Test Site, Abai Region, Kazakhstan",
+  "lat": 50.4,
+  "lng": 78,
+  "text": "On 29 August 1991 the Semipalatinsk nuclear test site in Kazakhstan was closed. In 2009, at Kazakhstan's initiative, the UN General Assembly made that date the International Day against Nuclear Tests. The damage lingered: a recent study found that nearby villagers who received a median radiation dose of 864 millisieverts died of cancer about six times as often as a low-dose group in the late 1960s.",
+  "source": {
+   "name": "United Nations: International Day against Nuclear Tests",
+   "url": "https://www.un.org/en/observances/end-nuclear-tests-day"
+  },
+  "source2": {
+   "name": "IJERPH (PMC): Radiation Exposure and Cancer Mortality in Populations Living Around the Semipalatinsk Nuclear Test Site",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13513645/"
+  }
+ },
+ {
+  "id": "z04-kurbu-tash-creeping-landslide",
+  "era": "modern",
+  "year": 2017,
+  "dateLabel": "April–May 2017",
+  "cat": "nature",
+  "title": "A River of Soil Swallows a Village",
+  "place": "Kurbu-Tash, near Uzgen, Osh Region, Kyrgyzstan",
+  "lat": 40.85,
+  "lng": 73.5,
+  "text": "In April 2017 a hillside soaked by snowmelt and rain gave way near the village of Kurbu-Tash in southern Kyrgyzstan. Over the following weeks a slow river of fine soil crept down the valley and engulfed dozens of homes, moving 2.8 million cubic metres of earth. The Tien Shan foothills are full of loess, which turns unstable when wet, so landslides destroy homes here every year.",
+  "source": {
+   "name": "NASA Earth Observatory: Landslide in Southern Kyrgyzstan",
+   "url": "https://science.nasa.gov/earth/earth-observatory/landslide-in-southern-kyrgyzstan-90255/"
+  }
+ },
+ {
+  "id": "z04-medvezhiy-glacier-surge",
+  "era": "modern",
+  "year": 2011,
+  "dateLabel": "Summer 2011",
+  "cat": "nature",
+  "title": "The Bear Glacier Lunges Forward",
+  "place": "Medvezhiy Glacier, Vanch valley, Pamir Mountains, Tajikistan",
+  "lat": 38.67,
+  "lng": 72.25,
+  "text": "Medvezhiy, the 'Bear' glacier in Tajikistan's Pamirs, normally creeps 200 to 400 metres a year. In early summer 2011 it slid 800 to 1,000 metres in weeks, its farthest jump in at least 22 years. Its icy snout blocked the Abdukagor River behind a wall up to 200 metres high. In 1963 and 1973 similar ice dams burst, releasing over 20 million cubic metres of water.",
+  "source": {
+   "name": "NASA Earth Observatory: Medvezhiy Glacier Advances",
+   "url": "https://science.nasa.gov/earth/earth-observatory/medvezhiy-glacier-advances-51498/"
+  }
+ },
+ {
+  "id": "z04-spy-satellite-bactria",
+  "era": "modern",
+  "year": 2008,
+  "dateLabel": "2008",
+  "cat": "discovery",
+  "title": "Spy Satellites Find Lost Bactria",
+  "place": "Pashkhurt Basin, near Sherabad, Surxondaryo Region, Uzbekistan",
+  "lat": 37.8,
+  "lng": 66.8,
+  "text": "Southern Uzbekistan's Surkhandarya province was once the heart of Bactria, a kingdom that flourished along the Amu River from 600 BCE to 600 CE. Since 2008 a Charles University team led by Ladislav Stančo has hunted for its sites from above, mostly using declassified Corona spy satellite photos. They spotted dozens of new sites, some near oasis villages beneath the Kugitangtau Range.",
+  "source": {
+   "name": "NASA Earth Observatory: Archaeology from Afar in Uzbekistan",
+   "url": "https://science.nasa.gov/earth/earth-observatory/archaeology-from-afar-in-uzbekistan-92634/"
+  }
+ },
+ {
+  "id": "z04-tara-charred-turnip",
+  "era": "exploration",
+  "year": 1594,
+  "dateLabel": "Founded 1594",
+  "cat": "daily",
+  "title": "A Turnip Left Cooking in Siberia",
+  "place": "Tara, Omsk Oblast, Russia",
+  "lat": 56.9,
+  "lng": 74.37,
+  "text": "Tara, a garrison town founded in 1594, was one of the first Russian settlements in Siberia. Archaeologists led by Maria Chernaya of Tomsk State University have dug up its wooden walls and burned log houses. Toys, chess pieces, leather shoes and knitted stockings show frontier life was not so grim. The oddest find was a clay pot holding a charred turnip, probably about to be cooked.",
+  "source": {
+   "name": "Archaeology Magazine: Squeezing History from a Turnip",
+   "url": "https://archaeology.org/issues/may-june-2017/digs-discoveries/trenches-siberia-house-excavation/"
+  }
+ },
+ {
+  "id": "z04-siberian-mound-diggers",
+  "era": "exploration",
+  "year": 1670,
+  "dateLabel": "1670",
+  "cat": "power",
+  "title": "Gold Rush in the Ancient Graves",
+  "place": "Upper Ob steppes around Tomsk, Tomsk Oblast, Russia",
+  "lat": 56.49,
+  "lng": 84.95,
+  "text": "As Russians settled Siberia, rumours spread of gold in ancient nomad burial mounds. Commanders in Tomsk and Krasnoyarsk sent out bands of 'mound-diggers', 200 to 300 strong, who dug graves from spring to autumn and sold the loot in town markets. A dispatch to Tsar Alexei in 1670 reported Russians digging gold and silver from 'Tatar graves' in the Tobolsk district, and Moscow took notice.",
+  "source": {
+   "name": "Science First Hand: Nomads' Gold in the Siberian Collection of Peter I",
+   "url": "https://scfh.ru/en/papers/nomads-gold-on-the-quot-siberian-collection-quot-of-peter-i/"
+  }
+ },
+ {
+  "id": "z04-messerschmidt-winter-dig",
+  "era": "exploration",
+  "year": 1722,
+  "dateLabel": "5–6 January 1722",
+  "cat": "discovery",
+  "title": "Digging a Burial Mound in Midwinter",
+  "place": "Left bank of the Yenisei near Abakan, Khakassia, Russia",
+  "lat": 53.72,
+  "lng": 91.43,
+  "text": "On 5 and 6 January 1722, in the depths of the Siberian winter, the scholar D. G. Messerschmidt, on a 1719 to 1727 Siberian expedition, began excavating a burial mound on the left bank of the Yenisei near Abakan. He described the site in detail and sketched the grave's construction. This frozen dig is counted as the first scientific excavation in Siberia, the start of the region's archaeology.",
+  "source": {
+   "name": "Science First Hand: The First Researchers of the Altai Caves",
+   "url": "https://scfh.ru/en/papers/the-first-researchers-of-the-altai-caves/"
+  }
+ },
+ {
+  "id": "z04-kamchatka-tsunami-1737",
+  "era": "exploration",
+  "year": 1737,
+  "dateLabel": "17 October 1737",
+  "cat": "nature",
+  "title": "Three Waves Strike Kamchatka",
+  "place": "Pacific coast of southern Kamchatka, Russia",
+  "lat": 53.3,
+  "lng": 160,
+  "text": "At about 3 a.m. on 17 October 1737 a great earthquake shook Kamchatka for about a quarter of an hour. The sea rose in waves; the third reached about 21 metres and swept away many native dwellings, and the water surged in and out for two days. Stepan Krasheninnikov of the Second Kamchatka Expedition reached Kamchatka two weeks later and wrote a report on the disaster.",
+  "source": {
+   "name": "Science First Hand: Megaquakes Pose Main Threat to Coastal Safety",
+   "url": "https://scfh.ru/en/papers/megaquakes-pose-main-threat-to-coastal-safety/"
+  }
+ },
+ {
+  "id": "z04-pallas-altai-cave",
+  "era": "exploration",
+  "year": 1771,
+  "dateLabel": "July 1771",
+  "cat": "discovery",
+  "title": "Skulls in an Altai Cave",
+  "place": "Inya River near Tigirek, Altai Krai, Russia",
+  "lat": 51.13,
+  "lng": 83.03,
+  "text": "In July 1771 Academician P. S. Pallas explored every reachable karst cave along the middle Inya River in the Altai. The richest lay three kilometres below the mouth of the Tigirek. Inside, his party gathered bones of large mammals, six human skulls and wooden and bone tools. Published in 1786, it was the first scientific record of the Altai caves.",
+  "source": {
+   "name": "Science First Hand: The First Researchers of the Altai Caves",
+   "url": "https://scfh.ru/en/papers/the-first-researchers-of-the-altai-caves/"
+  }
+ },
+ {
+  "id": "z04-bryukhanov-tobolsk-silver",
+  "era": "exploration",
+  "year": 1793,
+  "dateLabel": "1793",
+  "cat": "culture",
+  "title": "Tobolsk Silver in Forest Shrines",
+  "place": "Tobolsk, Tyumen Oblast, Russia",
+  "lat": 58.2,
+  "lng": 68.26,
+  "text": "Petr Bryukhanov was a silversmith of the Tobolsk guild. His earliest known piece, a small plate stamped in 1793, shows a galloping deer beside a tree; others show bears, hunters and dogs. Several turned up not in palaces but in the home sanctuaries of Khanty and Mansi families, found by researchers between 1983 and 2013. Eighteen silver pieces from his workshop are known.",
+  "source": {
+   "name": "Science First Hand: Petr Bryukhanov of the Tobolsk Guild of Craftsmen",
+   "url": "https://scfh.ru/en/papers/petr-bryukhanov-of-the-tobolsk-guild-of-craftsmen/"
+  }
+ },
+ {
+  "id": "z04-katanda-frozen-kurgan",
+  "era": "industrial",
+  "year": 1865,
+  "dateLabel": "1865",
+  "cat": "discovery",
+  "title": "A Fur Coat Cut From the Ice",
+  "place": "Katanda Kurgan, Katanda Valley, Ust-Koksa District, Altai Republic, Russia",
+  "lat": 50.17,
+  "lng": 86.18,
+  "text": "In 1865 Academician V. V. Radlov dug into a large Pazyryk burial mound in the Katanda Valley, the first frozen Scythian-period grave studied in the Altai Mountains. His team lit fires to thaw the ground. Two skeletons crumbled to dust at a touch, but a block of ice cut from the log chamber held a sable-fur 'tailcoat' covered with silk and trimmed with small gold pieces.",
+  "source": {
+   "name": "Science First Hand: The Fellowship of the Ring, Burial Mounds of the Katanda Valley",
+   "url": "https://scfh.ru/en/papers/the-fellowship-of-the-ring-burial-mounds-of-the-katanda-valley/"
+  }
+ },
+ {
+  "id": "z04-tarbagatai-saka-teenagers",
+  "era": "ancient",
+  "year": -700,
+  "dateLabel": "About 700 BCE",
+  "cat": "culture",
+  "title": "Two Golden Teenagers of the Saka",
+  "place": "Tarbagatai Mountains, Abai Region, Kazakhstan",
+  "lat": 47.35,
+  "lng": 82.6,
+  "text": "About 2,700 years ago, two Saka teenagers were buried under a kurgan in a valley of eastern Kazakhstan's remote Tarbagatai Mountains. The young woman, about 16, had been robbed, but the young man, no older than 19, lay untouched. He wore a golden torc and held a gold and bronze dagger, with a gold-plated quiver of bronze-tipped arrows. Tiny gold deer heads with huge antlers decorated their clothes.",
+  "source": {
+   "name": "Archaeology Magazine: Iron Age Teenagers",
+   "url": "https://archaeology.org/issues/november-december-2018/digs-discoveries/trenches-kazakhstan-teenage-burials/"
+  }
+ },
+ {
+  "id": "z04-tolmachev-anabar-plateau",
+  "era": "industrial",
+  "year": 1905,
+  "dateLabel": "1905",
+  "cat": "journeys",
+  "title": "Mapping the Unknown Khatanga Basin",
+  "place": "Khatanga River basin, Krasnoyarsk Krai, Russia",
+  "lat": 71.98,
+  "lng": 102.47,
+  "text": "In 1905 the Russian Geographical Society sent geologist Innokentiy Tolmachev to one of Siberia's blank spaces, the Khatanga River basin by the Taimyr Peninsula. With topographer M. Ya. Kozhevnikov he drew the first map of this huge area and worked out its river system. The expedition's greatest prize was the discovery and description of the Anabar Plateau. Its success won him the 1909 Chukotka expedition.",
+  "source": {
+   "name": "Science First Hand: The Chukotka Expedition of I. P. Tolmachev",
+   "url": "https://scfh.ru/en/papers/the-chukotka-expedition-of-i-p-tolmachev/"
+  }
+ }
+]

@@ -1,0 +1,310 @@
+[
+ {
+  "id": "y01-jirzankal-cannabis-braziers",
+  "era": "classical",
+  "year": -500,
+  "dateLabel": "About 500 BCE",
+  "cat": "discovery",
+  "title": "Smoke Rituals High in the Pamirs",
+  "place": "Jirzankal Cemetery, Tashkurgan, Xinjiang, China",
+  "lat": 37.75,
+  "lng": 75.23,
+  "text": "At a cemetery more than 3,000 metres up in the eastern Pamirs, mourners laid hot stones in wooden braziers and burned cannabis during funerals. Chemists found traces of a THC breakdown product inside the braziers, some of the earliest scientifically verified evidence of ritual cannabis smoking. The tombs also held an angular harp, an instrument used in ancient funeral ceremonies.",
+  "source": {
+   "name": "Science Advances (via PMC): The origins of cannabis smoking: Chemical residue evidence from the first millennium BCE in the Pamirs",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6561734/"
+  }
+ },
+ {
+  "id": "y01-sapalli-silkworm-cocoons",
+  "era": "ancient",
+  "year": -1940,
+  "dateLabel": "About 1940–1765 BCE",
+  "cat": "discovery",
+  "title": "Silkworms Before the Silk Road",
+  "place": "Sapalli Tepe, Surkhandarya, Uzbekistan",
+  "lat": 37.45,
+  "lng": 66.85,
+  "text": "Three tiny cocoons found at Sapalli Tepe, a walled Bronze Age stronghold near the Amu Darya, turned out to come from the domesticated silkworm. Directly dated to about 1940 to 1765 BCE and found with plenty of mulberry charcoal, they suggest that silkworm farming had spread from East Asia to southern Central Asia long before the Silk Road.",
+  "source": {
+   "name": "Science Advances (via PMC): Silkworm cultivation predating the Silk Road in southern Central Asia (2000 BCE)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13394462/"
+  }
+ },
+ {
+  "id": "y01-yingpan-man",
+  "era": "classical",
+  "year": 305,
+  "dateLabel": "About 305 CE (radiocarbon median)",
+  "cat": "daily",
+  "title": "The Tall Man in the Golden Diadem",
+  "place": "Yingpan cemetery, Lop Nur region, Xinjiang, China",
+  "lat": 40.95,
+  "lng": 87.75,
+  "text": "Yingpan Man was about 1.9 metres tall and around 30 when he died, probably in spring. He was buried in a poplar-wood coffin, wearing a red and yellow wool caftan embroidered with goats, bulls, pomegranate trees and nude cherubs, and a hemp mask with a gold band. Chemical tests suggest he stayed near home in his last years rather than travelling the Silk Road.",
+  "source": {
+   "name": "Scientific study (via PMC): Revealing lost secrets about Yingpan Man and the Silk Road",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8758759/"
+  }
+ },
+ {
+  "id": "y01-maes-titianus-traders",
+  "era": "classical",
+  "year": 101,
+  "dateLabel": "Around 101 CE",
+  "cat": "journeys",
+  "title": "A Merchant's Expedition to China",
+  "place": "Balkh (ancient Bactria), Balkh Province, Afghanistan",
+  "lat": 36.76,
+  "lng": 66.9,
+  "text": "Around 101 CE, Maes Titianus, a merchant described as Macedonian, paid for a trading expedition from Roman Syria toward China. His traders crossed Mesopotamia and the Tigris to reach Bactria, today's Balkh, which was still only halfway. Weeks more led to Tashkurgan and Kashgar. Nobody knows if they ever reached the Han capital.",
+  "source": {
+   "name": "National Geographic: Rome wanted silk, China had the goods. Here's how the Silk Roads got their start",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/silk-road-history"
+  }
+ },
+ {
+  "id": "y01-chap-mountain-farmers",
+  "era": "ancient",
+  "year": -2467,
+  "dateLabel": "About 2467–2047 BCE",
+  "cat": "daily",
+  "title": "Farmers at 2,000 Metres",
+  "place": "Chap II, Kochkor Valley, Naryn Region, Kyrgyzstan",
+  "lat": 42.15,
+  "lng": 75.8,
+  "text": "In the Kochkor valley of central Kyrgyzstan, at 2,000 metres, early farmers left thousands of charred grains of wheat and barley. Radiocarbon dates on the grains place them between about 2467 and 2047 BCE. Chaff and weeds show the crops were grown on the spot, and the very compact grains look like types adapted to life in the mountains.",
+  "source": {
+   "name": "PLoS ONE (via PMC): Southwest Asian cereal crops facilitated high-elevation agriculture in the central Tien Shan during the mid-third millennium BCE",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7239473/"
+  }
+ },
+ {
+  "id": "y01-yanghai-saddle",
+  "era": "ancient",
+  "year": -700,
+  "dateLabel": "Between 700 and 400 BCE",
+  "cat": "journeys",
+  "title": "A Herdswoman's Saddle",
+  "place": "Yanghai cemetery, Turpan, Xinjiang, China",
+  "lat": 42.85,
+  "lng": 89.65,
+  "text": "In the Yanghai cemetery near Turpan, a woman was buried dressed to ride, in a hide coat, woollen trousers and leather boots, with her saddle beside her. Its two hide cushions were stuffed with straw, deer hair and camel hair. Dated to between 700 and 400 BCE, it is the oldest saddle yet found, and it shows that ordinary women herded and travelled on horseback.",
+  "source": {
+   "name": "National Geographic: The world's oldest horse saddle",
+   "url": "https://www.nationalgeographic.com/premium/article/worlds-oldest-horse-saddle"
+  }
+ },
+ {
+  "id": "y01-kultobe-sogdian-tablets",
+  "era": "classical",
+  "year": 150,
+  "dateLabel": "Probably 2nd or early 3rd century CE",
+  "cat": "culture",
+  "title": "The Oldest Sogdian Writing",
+  "place": "Kultobe, Arys River valley, Turkistan Region, Kazakhstan",
+  "lat": 42.43,
+  "lng": 68.8,
+  "text": "At Kultobe, scribes cut letters into wet clay plaques with bone or wooden styluses before firing them. The texts turned out to be the oldest known writing in the Sogdian language, probably from the 2nd or early 3rd century CE. One names the lords of Samarkand, Kish, Nakhshab and Bukhara. The first fragments appeared in the 1940s, when the shifting Arys River ate into the old citadel.",
+  "source": {
+   "name": "Comptes rendus de l'Académie des Inscriptions (Persée): Les plus anciens monuments de la langue sogdienne : les inscriptions de Kultobe au Kazakhstan",
+   "url": "https://www.persee.fr/doc/crai_0065-0536_2007_num_151_2_87971"
+  }
+ },
+ {
+  "id": "y01-mundigak-mound",
+  "era": "ancient",
+  "year": -2625,
+  "dateLabel": "About 2625 BCE (radiocarbon date, give or take 300 years)",
+  "cat": "daily",
+  "title": "A Bronze Age Mound Near Kandahar",
+  "place": "Mundigak, Kandahar Province, Afghanistan",
+  "lat": 31.88,
+  "lng": 65.53,
+  "text": "Mundigak's 20-metre mound began as a camp of tent posts, then grew into a mud-brick village with steatite stamp seals and clay figurines of humped bulls. A radiocarbon test dated one layer to about 2625 BCE. Later the mound became the base for one great building, its north face decorated with half-columns and stepped merlons under white plaster.",
+  "source": {
+   "name": "Comptes rendus de l'Académie des Inscriptions (Persée): J.-M. Casal, Mundigak : un site de l'Âge du Bronze en Afghanistan (1952)",
+   "url": "https://www.persee.fr/doc/crai_0065-0536_1952_num_96_3_9959"
+  },
+  "source2": {
+   "name": "Comptes rendus de l'Académie des Inscriptions (Persée): J.-M. Casal, Fouilles de Mundigak en 1954",
+   "url": "https://www.persee.fr/doc/crai_0065-0536_1954_num_98_3_10290"
+  }
+ },
+ {
+  "id": "y01-shilikty-golden-kurgan",
+  "era": "ancient",
+  "year": -600,
+  "dateLabel": "Around the turn of the 7th and 6th centuries BCE",
+  "cat": "culture",
+  "title": "The Golden Kurgan of Shilikty",
+  "place": "Shilikty valley, south of Lake Zaysan, East Kazakhstan Region, Kazakhstan",
+  "lat": 47.25,
+  "lng": 84.95,
+  "text": "In the Shilikty valley south of Lake Zaysan, archaeologist S. S. Chernikov opened burial mound No. 5, nicknamed the 'Golden Kurgan'. It held 524 gold objects and 13 bronze arrowheads. Most of the gold pieces are small ornaments in the Scythian or early Siberian animal style, and a quiver decorated with golden deer points to around the turn of the 7th and 6th centuries BCE.",
+  "source": {
+   "name": "Dialogues d'histoire ancienne (Persée): La transition de l'Âge du bronze à l'Âge du fer au Kazaxstan central",
+   "url": "https://www.persee.fr/doc/dha_0755-7256_1977_num_3_1_2691"
+  }
+ },
+ {
+  "id": "y01-begram-hoard",
+  "era": "classical",
+  "year": 40,
+  "dateLabel": "1st century CE (its Chinese lacquers are placed about 40–50 CE)",
+  "cat": "daily",
+  "title": "Two Rooms Full of the World",
+  "place": "Begram (ancient Kapisi), Parwan Province, Afghanistan",
+  "lat": 34.97,
+  "lng": 69.17,
+  "text": "In 1937 and 1939, two rooms at Begram, north-east of Kabul, gave up Roman glassware and bronzes, Chinese lacquer boxes and bowls, and Indian-style ivory carvings, all side by side. Once called a royal treasure, the hoard may instead have been a merchant's stock. Its Chinese lacquers have been placed around 40 to 50 CE, and its ivories closely resemble one found at Pompeii.",
+  "source": {
+   "name": "Topoi (Persée): S. Mehendale, The Begram Ivory and Bone Carvings: Some Observations on Provenance and Chronology",
+   "url": "https://www.persee.fr/doc/topoi_1161-9473_2001_num_11_1_1946"
+  }
+ },
+ {
+  "id": "y01-cleitus-at-maracanda",
+  "era": "classical",
+  "year": -328,
+  "dateLabel": "During Alexander's campaigns of 329–328 BCE",
+  "cat": "power",
+  "title": "A Deadly Banquet at Maracanda",
+  "place": "Afrasiab (ancient Maracanda), Samarkand, Uzbekistan",
+  "lat": 39.67,
+  "lng": 66.98,
+  "text": "Maracanda, today's Samarkand, had been the Achaemenid capital of Sogdiana, guarding the empire's frontier north of Bactria. Alexander the Great led two expeditions there in 329 and 328 BCE. In its satrapal palace, at a tragic banquet, he killed his own companion Cleitus. Excavations on the Afrasiab plateau have since traced the city's mud-brick ramparts, with posterns and arrow-shaped slits.",
+  "source": {
+   "name": "Topoi (Persée): M. Isamiddinov and Cl. Rapin, Fortifications hellénistiques de Samarcande (Samarkand-Afrasiab)",
+   "url": "https://www.persee.fr/doc/topoi_1161-9473_1994_num_4_2_1540"
+  }
+ },
+ {
+  "id": "y01-togolok-21-temple",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "Around 1000 BCE (turn of the 2nd and 1st millennia BCE)",
+  "cat": "culture",
+  "title": "A Temple for a Sacred Drink?",
+  "place": "Togolok 21, Murghab delta (Margiana), Mary Region, Turkmenistan",
+  "lat": 38.0,
+  "lng": 62.0,
+  "text": "Togolok 21, in the ancient Murghab delta, was a building around an inner courtyard, with hearths set into the walls of many rooms. In one 'white room', big vessels stood built into stepped platforms. Its excavator, Viktor Sarianidi, suggested it was a temple for preparing haoma, the sacred drink of Zoroastrian ritual. Iron fragments helped date it to around the turn of the 2nd and 1st millennia BCE.",
+  "source": {
+   "name": "Arts Asiatiques (Persée): V. I. Sarianidi, Le complexe cultuel de Togolok 21 en Margiane",
+   "url": "https://www.persee.fr/doc/arasi_0004-3958_1986_num_41_1_1195"
+  }
+ },
+ {
+  "id": "y01-shortughai-indus-colony",
+  "era": "ancient",
+  "year": -2400,
+  "dateLabel": "Between about 2400 and 2200 BCE",
+  "cat": "journeys",
+  "title": "An Indus Colony on the Oxus",
+  "place": "Shortughai, Takhar Province, Afghanistan",
+  "lat": 37.33,
+  "lng": 69.5,
+  "text": "Between 2400 and 2200 BCE, settlers from the distant Indus basin founded a colony at Shortughai in north-eastern Afghanistan. They worked copper, and a drop of gold on a crucible plus shavings of pure gold leaf show they were goldsmiths too, using local river gold. Nearby, lapis lazuli pebbles washed down by the Kokcha could be gathered in winter and traded far away.",
+  "source": {
+   "name": "Comptes rendus de l'Académie des Inscriptions (Persée): H.-P. Francfort, Aux marches orientales de la Bactriane antique. Nouvelles perspectives",
+   "url": "https://www.persee.fr/doc/crai_0065-0536_2020_num_164_1_97014"
+  }
+ },
+ {
+  "id": "y01-geoksyur-first-canals",
+  "era": "ancient",
+  "year": -2900,
+  "dateLabel": "Early 3rd millennium BCE",
+  "cat": "daily",
+  "title": "Central Asia's Oldest Canals",
+  "place": "Geoksyur oasis, Tedzhen delta, Ahal Region, Turkmenistan",
+  "lat": 37.4,
+  "lng": 60.75,
+  "text": "In the oases of the Tedzhen delta, found in 1956, early farmers of the Geoksyur culture dug the oldest known canal network in Central Asia, at Geoksyur-I, and a reservoir at nearby Mullali-depe. These were simple, direct channels. Estimates put about 1,000 to 1,200 people on Geoksyur's 8 hectares, enough to build and maintain such networks themselves.",
+  "source": {
+   "name": "Annales. Histoire, Sciences Sociales (Persée): H.-P. Francfort and O. Lecomte, Irrigation et société en Asie centrale des origines à l'époque achéménide",
+   "url": "https://www.persee.fr/doc/ahess_0395-2649_2002_num_57_3_280068"
+  }
+ },
+ {
+  "id": "y01-khalchayan-dynastic-portraits",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "1st century BCE",
+  "cat": "culture",
+  "title": "A Family Portrait of Future Kings",
+  "place": "Khalchayan, Surkhandarya Region, Uzbekistan",
+  "lat": 38.33,
+  "lng": 67.95,
+  "text": "Sculptures from the palace at Khalchayan form a group portrait of the clan of Heraios at the start of the Kushan era. The ruler stands with his wife, grown children and Bactrian and Parthian nobles, while princes receive a line of prisoners and horsemen gallop beside a niche for the sacred fire. Their slim, high-cheeked faces show reshaped skulls and a non-Greek ideal of beauty.",
+  "source": {
+   "name": "Comptes rendus de l'Académie des Inscriptions (Persée): G. Pugachenkova, L'art antique de la Bactriane (IVe s. avant - IVe s. après notre ère)",
+   "url": "https://www.persee.fr/doc/crai_0065-0536_1976_num_120_2_13235"
+  }
+ },
+ {
+  "id": "y01-aksu-ayuly-cyclopean-tomb",
+  "era": "ancient",
+  "year": -1200,
+  "dateLabel": "12th–11th century BCE",
+  "cat": "power",
+  "title": "A Granite Tomb for a Clan Leader",
+  "place": "Aksu-Ayuly II, Karaganda Region, Kazakhstan",
+  "lat": 48.77,
+  "lng": 73.67,
+  "text": "Kurgan 3 at Aksu-Ayuly is one of central Kazakhstan's giant 'cyclopean' tombs. Three stone enclosures nest inside each other, the outer ring 24.5 metres across and built of granite slabs up to 1.6 metres high. Robbers broke in and the wooden roof burned soon after. Such tombs were made for notable clan members, a sign that some families were growing richer than others.",
+  "source": {
+   "name": "Dialogues d'histoire ancienne (Persée): La transition de l'Âge du bronze à l'Âge du fer au Kazaxstan central",
+   "url": "https://www.persee.fr/doc/dha_0755-7256_1977_num_3_1_2691"
+  }
+ },
+ {
+  "id": "y01-bactra-greek-blocks",
+  "era": "classical",
+  "year": -325,
+  "dateLabel": "Greek period at Bactra, 325–150 BCE",
+  "cat": "discovery",
+  "title": "Greek Stones in an Old Riverbed",
+  "place": "Tepe Zargaran, Balkh (ancient Bactra), Balkh Province, Afghanistan",
+  "lat": 36.76,
+  "lng": 66.89,
+  "text": "Bactra, today's Balkh, was the capital of the Achaemenid satrapy of Bactria and stayed a regional capital after Alexander's conquest. Yet proof of its Greek phase came only after looters dug at a spot called 'The Forty Columns'. Hellenistic architectural blocks lay 8 metres down in the gravels of an old riverbed, the first archaeological evidence of Greeks in the city.",
+  "source": {
+   "name": "Comptes rendus de l'Académie des Inscriptions (Persée): Nouvelles découvertes en Bactriane 2007-2009",
+   "url": "https://www.persee.fr/doc/crai_0065-0536_2009_num_153_3_92572"
+  }
+ },
+ {
+  "id": "y01-kampyr-tepe-greek-receipts",
+  "era": "classical",
+  "year": -250,
+  "dateLabel": "Hellenistic period, 3rd–2nd century BCE",
+  "cat": "daily",
+  "title": "Greek Receipts on Broken Pots",
+  "place": "Kampyr-Tepe, near Termez, Surkhandarya Region, Uzbekistan",
+  "lat": 37.38,
+  "lng": 66.98,
+  "text": "On the citadel of Kampyr-Tepe, a small fortified town on the Amu Darya west of Termez, scratched Greek notes turned up on pieces of thin pottery. One reads '15 drachmas'; another records seven choes, a Greek liquid measure, probably of wine. They look like receipts, a kind of bookkeeping not known before in the Greco-Bactrian kingdom. Scraps of Greek papyrus were found too.",
+  "source": {
+   "name": "Revue numismatique (Persée): E. V. Rtveladze, Découvertes en numismatique et épigraphie gréco-bactriennes à Kampyr-Tepe",
+   "url": "https://www.persee.fr/doc/numi_0484-8942_1995_num_6_150_2042"
+  }
+ },
+ {
+  "id": "y01-bustan-vi-fire-cemetery",
+  "era": "ancient",
+  "year": -1100,
+  "dateLabel": "Late 2nd millennium BCE (excavator's dating)",
+  "cat": "culture",
+  "title": "The Cemetery of Fire",
+  "place": "Bustan VI, Surkhandarya Region, Uzbekistan",
+  "lat": 37.62,
+  "lng": 67.05,
+  "text": "On a horseshoe-shaped hill above the Bustan stream, a Bronze Age cemetery shows fire at the heart of funeral rites. Archaeologists excavated 130 graves and three brick boxes where bodies were cremated, at least twice in one of them. Some graves were empty cenotaphs; others held offerings of sacrificed animals. The excavator dates it to the late 2nd millennium BCE.",
+  "source": {
+   "name": "Arts Asiatiques (Persée): N. Avanessova, Bustan VI, une nécropole de l'âge du Bronze dans l'ancienne Bactriane (Ouzbékistan méridional)",
+   "url": "https://www.persee.fr/doc/arasi_0004-3958_1995_num_50_1_1368"
+  }
+ }
+]

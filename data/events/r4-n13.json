@@ -1,0 +1,378 @@
+[
+ {
+  "id": "n13-jomon-flame-pots",
+  "era": "ancient",
+  "year": -3300,
+  "dateLabel": "About 3300 BCE",
+  "cat": "culture",
+  "title": "Pots With Rims Like Flames",
+  "place": "Tokamachi, Niigata, Japan",
+  "lat": 37.13,
+  "lng": 138.76,
+  "text": "Around 3300 BCE, Jōmon potters in the middle Shinano River basin developed a striking new style: flame-shaped pottery covered in three-dimensional patterns with no gaps. Experts think these pots were generally used in rituals such as festivals, yet they were certainly used for boiling too. The style vanished by about 2800 BCE. Tokamachi's museum now displays such pots alongside National Treasures.",
+  "source": {
+   "name": "Tokamachi City Museum: Jomon period and the area of flame-type pottery",
+   "url": "https://tokamachi-museum.jp/en/p-exhibition/p-ex01"
+  }
+ },
+ {
+  "id": "n13-dangun-bear-woman",
+  "era": "ancient",
+  "year": -2333,
+  "dateLabel": "2333 BCE (legendary date)",
+  "cat": "culture",
+  "title": "The Bear Who Became a Mother",
+  "place": "Ganghwa Island, Incheon, South Korea",
+  "lat": 37.61,
+  "lng": 126.43,
+  "text": "Korean legend says Dangun, the first king of the Koreans, took the throne in 2333 BCE. In one telling, a bear and a tiger hoped to become human and were told to stay in a cave eating only mugwort and garlic. The tiger gave up, but the bear became a woman and Dangun's mother. An altar on Ganghwa Island is said to have been built by Dangun himself.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Tangun (Dangun)",
+   "url": "https://www.britannica.com/topic/Tangun"
+  }
+ },
+ {
+  "id": "n13-goguryeo-cliff-capital",
+  "era": "classical",
+  "year": -37,
+  "dateLabel": "37 BCE (traditional date)",
+  "cat": "power",
+  "title": "Goguryeo's First Cliff-Top Capital",
+  "place": "Wunü Mountain City, Huanren, Liaoning, China",
+  "lat": 41.32,
+  "lng": 125.41,
+  "text": "Tradition says the Korean kingdom of Goguryeo was founded in 37 BCE by Jumong (Chumo), a leader of one of the Buyeo tribes, though modern historians think the state formed earlier. UNESCO says Wunü Mountain City was built that year as its first capital, walled partly in stone and partly by sheer cliffs, with a palace, watchtower, houses and warehouses inside.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Goguryeo",
+   "url": "https://www.britannica.com/place/Goguryeo"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Capital Cities and Tombs of the Ancient Koguryo Kingdom",
+   "url": "https://whc.unesco.org/en/list/1135/"
+  }
+ },
+ {
+  "id": "n13-okinoshima-offerings",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "From the 4th century CE",
+  "cat": "journeys",
+  "title": "Gifts for a Sacred Sea Island",
+  "place": "Okinoshima, Munakata, Fukuoka, Japan",
+  "lat": 34.24,
+  "lng": 130.11,
+  "text": "From the 4th century CE, people prayed for safety at sea on Okinoshima, an island 60 km off Kyushu, leaving offerings at its ritual sites. Many gifts were exquisitely made and came from overseas, showing busy contact between Japan, the Korean Peninsula and the Asian continent. The rituals lasted until the end of the 9th century, and the island is still sacred today.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Sacred Island of Okinoshima and Associated Sites in the Munakata Region",
+   "url": "https://whc.unesco.org/en/list/1535/"
+  }
+ },
+ {
+  "id": "n13-baekje-ungjin",
+  "era": "classical",
+  "year": 475,
+  "dateLabel": "475",
+  "cat": "power",
+  "title": "Baekje Retreats to Ungjin",
+  "place": "Gongsanseong Fortress, Gongju, South Korea",
+  "lat": 36.46,
+  "lng": 127.12,
+  "text": "In the late 5th century the northern kingdom of Goguryeo seized Baekje's lands along the Han River, so Baekje moved its capital south to Ungjin, today's Gongju. UNESCO dates Baekje's later capitals, temples and tombs from 475 to 660. In these years Baekje refined Chinese ideas in city planning, building, art and Buddhism and passed them on to Japan.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Baekje Historic Areas",
+   "url": "https://whc.unesco.org/en/list/1477/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Baekje",
+   "url": "https://www.britannica.com/place/Baekje"
+  }
+ },
+ {
+  "id": "n13-bulguksa-seokguram",
+  "era": "medieval",
+  "year": 774,
+  "dateLabel": "774",
+  "cat": "culture",
+  "title": "A Temple for Two Sets of Parents",
+  "place": "Bulguksa Temple, Gyeongju, South Korea",
+  "lat": 35.79,
+  "lng": 129.33,
+  "text": "UNESCO dates Bulguksa Temple on Mount Tohamsan to 774, in Silla times. Minister Kim Dae-seong oversaw it in memory of his parents in this life, and the nearby Seokguram Grotto for his parents in a previous life. Inside the granite grotto, a great Buddha gazes out to sea under a domed ceiling built from more than 360 stone slabs.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Seokguram Grotto and Bulguksa Temple",
+   "url": "https://whc.unesco.org/en/list/736/"
+  }
+ },
+ {
+  "id": "n13-heian-kyo",
+  "era": "medieval",
+  "year": 794,
+  "dateLabel": "794",
+  "cat": "daily",
+  "title": "A New Capital Without Temples",
+  "place": "Heian-kyō (Kyoto), Kyoto, Japan",
+  "lat": 35.01,
+  "lng": 135.76,
+  "text": "In 794 Japan's government moved into Heian-kyō, today's Kyoto, a planned city laid out between the Katsura and Kamo rivers on the model of ancient Chinese capitals. Leaders wanted to escape the heavy Buddhist influence of old Nara, so new temples were banned, except two flanking the great southern gate. Kyoto stayed the imperial capital until the middle of the 19th century.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Kyōto, History",
+   "url": "https://www.britannica.com/place/Kyoto-Japan/History"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Historic Monuments of Ancient Kyoto",
+   "url": "https://whc.unesco.org/en/list/688/"
+  }
+ },
+ {
+  "id": "n13-xanadu-planned",
+  "era": "medieval",
+  "year": 1256,
+  "dateLabel": "1256",
+  "cat": "daily",
+  "title": "Designing Xanadu on the Grassland",
+  "place": "Site of Xanadu (Shangdu), Zhenglan Banner, Inner Mongolia, China",
+  "lat": 42.36,
+  "lng": 116.18,
+  "text": "In 1256 Kublai Khan's Chinese adviser Liu Bingzhong designed a new city on the edge of the Mongolian plateau: Xanadu. Planned by Chinese feng shui, with mountains behind and a river in front, it also held nomadic encampments and a royal hunting ground. Kublai rose to power here, and foreign travellers' tales later made Xanadu a legend around the world.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Site of Xanadu",
+   "url": "https://whc.unesco.org/en/list/1389/"
+  }
+ },
+ {
+  "id": "n13-ganden-monastery",
+  "era": "medieval",
+  "year": 1409,
+  "dateLabel": "1409",
+  "cat": "culture",
+  "title": "Tsongkhapa's Strict New Monastery",
+  "place": "Ganden Monastery, near Lhasa, Tibet, China",
+  "lat": 29.76,
+  "lng": 91.48,
+  "text": "In 1409 Ganden Monastery was founded near Lhasa for the Gelug school of Tsongkhapa, a Tibetan lama who wanted monks to live by strict rules again. He restored celibacy, banned alcohol and meat, demanded higher learning and had his followers wear yellow. Drepung and Sera soon followed, and the Gelug school's leaders, the Dalai Lamas, later came to rule Tibet.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Dge-lugs-pa (Gelug)",
+   "url": "https://www.britannica.com/topic/Dge-lugs-pa"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Tsong-kha-pa",
+   "url": "https://www.britannica.com/biography/Tsong-kha-pa"
+  }
+ },
+ {
+  "id": "n13-bridge-of-nations-bell",
+  "era": "medieval",
+  "year": 1458,
+  "dateLabel": "1458",
+  "cat": "journeys",
+  "title": "The Bridge of Nations Bell",
+  "place": "Shuri, Naha, Okinawa, Japan",
+  "lat": 26.22,
+  "lng": 127.72,
+  "text": "In 1458, under King Shō Taikyū of the Ryūkyū Kingdom, a bronze bell was cast with a boastful inscription in classical Chinese. It calls Ryūkyū a bridge between the nations, an island paradise filled with treasures from foreign lands. The words were not empty: this small maritime kingdom grew rich as a trading hub, reselling goods from across East and Southeast Asia.",
+  "source": {
+   "name": "Nippon.com (Uezato Takashi): Okinawa: The Unique Culture of the Ryūkyū Islands",
+   "url": "https://www.nippon.com/en/japan-topics/g00949/okinawa-the-unique-culture-of-the-ryukyu-islands.html"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Gusuku Sites and Related Properties of the Kingdom of Ryukyu",
+   "url": "https://whc.unesco.org/en/list/972/"
+  }
+ },
+ {
+  "id": "n13-erdene-zuu",
+  "era": "exploration",
+  "year": 1585,
+  "dateLabel": "1585",
+  "cat": "culture",
+  "title": "A Monastery on a Fallen Capital",
+  "place": "Kharkhorin, Övörkhangai, Mongolia",
+  "lat": 47.2,
+  "lng": 102.84,
+  "text": "In 1585 the Buddhist monastery of Erdene Zuu was built on the site of Karakorum, the old Mongol imperial capital that Chinese forces had destroyed in 1388. UNESCO calls it the earliest surviving Mongol Buddhist monastery and a setting for the growth of a Mongolian form of Buddhism. Today it is a museum, surrounded by grassland still grazed by nomadic herders.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Karakorum",
+   "url": "https://www.britannica.com/place/Karakorum"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Orkhon Valley Cultural Landscape",
+   "url": "https://whc.unesco.org/en/list/1081/"
+  }
+ },
+ {
+  "id": "n13-zanabazar",
+  "era": "exploration",
+  "year": 1639,
+  "dateLabel": "1639",
+  "cat": "culture",
+  "title": "Mongolia's Artist-Lama",
+  "place": "Khalkha, Mongolia",
+  "lat": 47.9,
+  "lng": 106.92,
+  "text": "In 1639 Zanabazar, a son of the line of the Tüsheet Khans of Khalkha, was declared the reincarnation of the Tibetan scholar Taranatha, who had taught in Mongolia for 20 years. Enthroned in 1640 as the Javzandamba Khutagt, he was hailed as the \"High Enlightened One.\" He was also an artist: his superb statues of the goddess Tara are now kept in Ulaanbaatar's Green Palace museum.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Mongolia, The successor states of the Mongol empire",
+   "url": "https://www.britannica.com/place/Mongolia/The-successor-states-of-the-Mongol-empire"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Green Palace",
+   "url": "https://www.britannica.com/place/Green-Palace"
+  }
+ },
+ {
+  "id": "n13-kumiodori-premiere",
+  "era": "exploration",
+  "year": 1719,
+  "dateLabel": "1719",
+  "cat": "culture",
+  "title": "A Royal Show for China's Envoy",
+  "place": "Shuri Castle, Naha, Okinawa, Japan",
+  "lat": 26.22,
+  "lng": 127.72,
+  "text": "In 1719 a performance was staged at Shuri Castle to entertain an important envoy from China, who had come to recognize a new Ryūkyū king. It was the first performance of what became kumiodori, Okinawa's traditional musical theatre, now on UNESCO's intangible heritage list. The royal government directed these arts, the local elite cultivated them, and all the dancers were men.",
+  "source": {
+   "name": "Nippon.com (Uezato Takashi): Okinawa: The Unique Culture of the Ryūkyū Islands",
+   "url": "https://www.nippon.com/en/japan-topics/g00949/okinawa-the-unique-culture-of-the-ryukyu-islands.html"
+  }
+ },
+ {
+  "id": "n13-kaitai-shinsho",
+  "era": "exploration",
+  "year": 1774,
+  "dateLabel": "1774",
+  "cat": "discovery",
+  "title": "A Dutch Anatomy Book in Japanese",
+  "place": "Edo (Tokyo), Japan",
+  "lat": 35.69,
+  "lng": 139.69,
+  "text": "In 1771 the doctors Sugita Genpaku, Maeno Ryōtaku and Nakagawa Jun'an watched the dissection of executed bodies at Kozukappara in Edo, carrying a Dutch anatomy book. Amazed at how accurate it was, they decided to translate it. After years of work, including inventing Japanese words for many body parts, they published it as Kaitai shinsho, the New Book of Anatomy, in 1774.",
+  "source": {
+   "name": "Nagoya University Medical Library: 1774 Sugita Genpaku, Kaitai Shinsho",
+   "url": "https://www.med.nagoya-u.ac.jp/medlib/history_en/archive/print/1774kaitai.html"
+  },
+  "source2": {
+   "name": "U.S. National Library of Medicine, Historical Anatomies: Johann Adam Kulmus",
+   "url": "https://www.nlm.nih.gov/exhibition/historicalanatomies/kulmus_bio.html"
+  }
+ },
+ {
+  "id": "n13-tsuda-umeko-sails",
+  "era": "industrial",
+  "year": 1871,
+  "dateLabel": "1871",
+  "cat": "journeys",
+  "title": "A Six-Year-Old Sent to America",
+  "place": "Tokyo, Japan",
+  "lat": 35.68,
+  "lng": 139.76,
+  "text": "When Japan's Iwakura Mission set off for the United States and Europe in 1871, three young girls went along, tasked by the empress with learning how to start women's education in Japan. The youngest, Tsuda Umeko, was just six. She later studied at Bryn Mawr College, and in 1900 she founded the English School for Women, which flourishes today as Tsuda University.",
+  "source": {
+   "name": "Government of Japan, Highlighting Japan: Daughters of Meiji: Bringing Women's Education to Japan",
+   "url": "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201810/201810_06_en.html"
+  }
+ },
+ {
+  "id": "n13-kashgaria-falls",
+  "era": "industrial",
+  "year": 1877,
+  "dateLabel": "May 16, 1877",
+  "cat": "power",
+  "title": "The Short-Lived Kingdom of Kashgaria",
+  "place": "Kashgar, Xinjiang, China",
+  "lat": 39.47,
+  "lng": 75.99,
+  "text": "In 1864 Yakub Beg, an adventurer from Kokand, entered Xinjiang amid Muslim uprisings against Qing rule and built his own kingdom of Kashgaria, centred at Kashgar. Russia and Britain both signed trade treaties with him, and the Ottoman sultan named him emir. Then a Qing army under the scholar-general Zuo Zongtang marched west, and on May 16, 1877, Kashgaria came to an end.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Yakub Beg",
+   "url": "https://www.britannica.com/biography/Yakub-Beg"
+  }
+ },
+ {
+  "id": "n13-ewha-haktang",
+  "era": "industrial",
+  "year": 1886,
+  "dateLabel": "May 31, 1886",
+  "cat": "daily",
+  "title": "A School Named for Pear Blossoms",
+  "place": "Seoul, South Korea",
+  "lat": 37.57,
+  "lng": 126.97,
+  "text": "On May 31, 1886, the American Methodist missionary Mary F. Scranton founded a girls' school in Seoul. Early in 1887 King Gojong of Joseon named it Ewha Haktang to celebrate the start of women's education in Korea. The name may come from pear blossoms (ewha) scattered near the school. In 1946 Ewha became the first university permitted by Korea's Ministry of Education.",
+  "source": {
+   "name": "Ewha Womans University: Founding Spirit & History",
+   "url": "https://www.ewha.ac.kr/ewhaen/intro/foundation.do"
+  },
+  "source2": {
+   "name": "Ewha Womans University: School Name",
+   "url": "https://ewha.ac.kr/ewhaen/intro/school-name.do"
+  }
+ },
+ {
+  "id": "n13-manchurian-plague",
+  "era": "industrial",
+  "year": 1910,
+  "dateLabel": "October 1910 – April 1911",
+  "cat": "discovery",
+  "title": "Masks Against the Manchurian Plague",
+  "place": "Harbin, Heilongjiang, China",
+  "lat": 45.8,
+  "lng": 126.53,
+  "text": "In October 1910 a deadly airborne plague broke out in Manchuria, probably spread by marmots hunted for fur that could be dyed to imitate mink. It killed more than 60,000 people. The Cambridge-trained doctor Wu Lien-teh showed it was pneumonic plague, won permission to cremate the dead and urged everyone to wear face masks. By the end of April 1911 the epidemic was declared over.",
+  "source": {
+   "name": "Le Infezioni in Medicina (Michaleas et al., via PMC): The Manchurian pandemic of pneumonic plague (1910–1911)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9448316/"
+  }
+ },
+ {
+  "id": "n13-dalai-lama-escape",
+  "era": "modern",
+  "year": 1959,
+  "dateLabel": "March 10–17, 1959",
+  "cat": "journeys",
+  "title": "The Dalai Lama Slips Away",
+  "place": "Lhasa, Tibet, China",
+  "lat": 29.65,
+  "lng": 91.1,
+  "text": "On March 10, 1959, rumours that Chinese authorities planned to kidnap the Dalai Lama brought crowds out in Lhasa to surround his summer palace and protect him. Amid the chaos, on March 17 he escaped under cover of darkness, disguised as a Tibetan soldier. He settled in Dharamshala, India, and tens of thousands of Tibetans followed him into exile.",
+  "source": {
+   "name": "Encyclopaedia Britannica: 14th Dalai Lama",
+   "url": "https://www.britannica.com/biography/Dalai-Lama-14th"
+  }
+ },
+ {
+  "id": "n13-okinawa-reversion",
+  "era": "modern",
+  "year": 1972,
+  "dateLabel": "May 15, 1972",
+  "cat": "power",
+  "title": "Okinawa Swaps Dollars for Yen",
+  "place": "Naha, Okinawa, Japan",
+  "lat": 26.21,
+  "lng": 127.68,
+  "text": "On May 15, 1972, Okinawa returned to Japanese sovereignty, and its money changed from the dollar to the yen. People in Naha lined up to swap their dollars. Before reversion, signal fires were lit on Okinawa's northern tip and on a nearby island across the water, expressing the hope that this day would come. The extensive US military bases there, however, stayed in operation.",
+  "source": {
+   "name": "Nippon.com: Okinawa Since 1945: A Photo Retrospective",
+   "url": "https://www.nippon.com/en/articles/-/18218"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Okinawa",
+   "url": "https://www.britannica.com/place/Okinawa-prefecture-Japan"
+  }
+ },
+ {
+  "id": "n13-kbs-dispersed-families",
+  "era": "modern",
+  "year": 1983,
+  "dateLabel": "June 30 – November 14, 1983",
+  "cat": "daily",
+  "title": "Live TV Reunites Lost Families",
+  "place": "Korean Broadcasting System (KBS), Seoul, South Korea",
+  "lat": 37.53,
+  "lng": 126.92,
+  "text": "From June 30 to November 14, 1983, South Korea's KBS television broadcast live reunions of families torn apart by war. The show ran for 453 hours and 45 minutes. Its archive of videotapes, producers' journals, applications and photographs is now on UNESCO's Memory of the World Register, a record of the deep scars the Cold War left on ordinary people.",
+  "source": {
+   "name": "UNESCO Memory of the World: The Archives of the KBS Special Live Broadcast \"Finding Dispersed Families\"",
+   "url": "https://www.unesco.org/en/memory-world/archives-kbs-special-live-broadcast-finding-dispersed-families"
+  }
+ }
+]

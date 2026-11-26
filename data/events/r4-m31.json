@@ -1,0 +1,342 @@
+[
+ {
+  "id": "m31-kangaroo-island-departure",
+  "era": "ancient",
+  "year": -3050,
+  "dateLabel": "At least 5,000 years ago (c. 3050 BCE)",
+  "cat": "nature",
+  "title": "The People Who Left Kangaroo Island",
+  "place": "Lashmars Lagoon, Dudley Peninsula, Kangaroo Island, South Australia, Australia",
+  "lat": -35.8,
+  "lng": 138.07,
+  "text": "A seven-metre sediment core from Lashmars Lagoon on Kangaroo Island's Dudley Peninsula helped Adelaide University researchers show that the last reliable evidence of people on the island is at least about 5,000 years old, in line with Indigenous oral histories of people leaving. Afterwards fire stayed rare for another 3,000 years in a wetter climate, then increased over the past 2,000 years as it dried.",
+  "source": {
+   "name": "Adelaide University News (2026): Ancient sediments on Kangaroo Island show climate change drove fire activity in the absence of people",
+   "url": "https://adelaide.edu.au/about/news/2026/ancient-sediments-on-kangaroo-island-show-climate-change-drove-f/"
+  }
+ },
+ {
+  "id": "m31-konomie-island-midden",
+  "era": "ancient",
+  "year": -3000,
+  "dateLabel": "About 3000 BCE (nearly 5,000 years ago)",
+  "cat": "journeys",
+  "title": "A 5,000-Year-Old Island Midden",
+  "place": "Maizie Bay, Konomie (North Keppel Island), Queensland, Australia",
+  "lat": -23.08,
+  "lng": 150.9,
+  "text": "On Konomie (North Keppel Island), off central Queensland, archaeologist Mike Rowland excavated and radiocarbon dated a midden at Maizie Bay to nearly 5,000 years old. The Woppaburra describe their ancestors as sea-faring saltwater people, island specialists who travelled between Konomie, Woppa (Great Keppel) and other islands for seasonal food. Konomie is their spiritual motherland and creation place.",
+  "source": {
+   "name": "Australian Museum: Woppaburra people of the Keppel Islands (Woppaburra Land Trust)",
+   "url": "https://australian.museum/learn/cultures/first-nations-collections/woppaburra-people-of-the-keppel-islands/"
+  }
+ },
+ {
+  "id": "m31-henbury-fire-devil",
+  "era": "ancient",
+  "year": -2700,
+  "dateLabel": "About 2700 BCE (around 4,700 years ago)",
+  "cat": "nature",
+  "title": "The Fire-Devil From the Sun",
+  "place": "Henbury Meteorites Conservation Reserve, Northern Territory, Australia",
+  "lat": -24.57,
+  "lng": 133.15,
+  "text": "Around 4,700 years ago a large nickel-iron meteoroid blazed across the Central Australian sky, and its fragments carved out more than a dozen craters up to 180 metres across. Luritja elders later said this was where a fire-devil ran down from the sun, set the land ablaze and killed people. Rainwater pooling in the craters was forbidden, for fear the fire-devil would fill drinkers with iron.",
+  "source": {
+   "name": "UNSW Newsroom (Duane Hamacher): Finding meteorite impacts in Aboriginal oral tradition",
+   "url": "https://www.unsw.edu.au/newsroom/news/2015/03/finding-meteorite-impacts-in-aboriginal-oral-tradition"
+  }
+ },
+ {
+  "id": "m31-ground-edge-axe-trade",
+  "era": "ancient",
+  "year": -2550,
+  "dateLabel": "About 4,500 years ago (c. 2550 BCE)",
+  "cat": "journeys",
+  "title": "Stone Axes on the Move",
+  "place": "Sydney region, New South Wales, Australia",
+  "lat": -33.87,
+  "lng": 151.21,
+  "text": "About 4,500 years ago ground-edged stone axes appeared in south-eastern Australia. Usually made from tough igneous or metamorphic rock, they were traded across nations along routes often up to 200 km long, and one axe head in the Australian Museum travelled 1,000 km from its source. Gadigal people in Sydney called them mogo and used them to make bark canoes, cut wood, hunt and build shelters.",
+  "source": {
+   "name": "Australian Museum: First Nations timeline",
+   "url": "https://australian.museum/learn/cultures/first-nations-collections/timeline/"
+  }
+ },
+ {
+  "id": "m31-flinders-island-stranded",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 2500 BCE (about 4,500 years ago)",
+  "cat": "nature",
+  "title": "The Stranded People of Flinders Island",
+  "place": "Flinders Island, Furneaux Group, Tasmania, Australia",
+  "lat": -40.0,
+  "lng": 148.05,
+  "text": "Rising seas flooded the land bridge to Tasmania and left a group of people on Flinders Island in Bass Strait. Radiocarbon-dated middens show people lived there until about 4,500 years ago, then disappeared. Archaeologist Robin Sim found no sign that they had watercraft, so the middens were probably left by an isolated, stranded population, whose decline he linked to a mid-Holocene climate shift.",
+  "source": {
+   "name": "ANU Open Research: Robin Sim, The archaeology of isolation? Prehistoric occupation in the Furneaux Group of Islands (PhD thesis, 1998)",
+   "url": "https://openresearch-repository.anu.edu.au/items/45bf8da7-6572-44b6-a417-6b724c6b4326"
+  }
+ },
+ {
+  "id": "m31-craitbul-and-the-volcanoes",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2300 BCE (about 4,300 years ago)",
+  "cat": "nature",
+  "title": "When the Bullin Shrieked",
+  "place": "Mount Gambier, South Australia, Australia",
+  "lat": -37.84,
+  "lng": 140.78,
+  "text": "The most recent volcanic activity at Mount Gambier and Mount Schank happened about 4,300 years ago. An Aboriginal story tells of Craitbul and his family, who buried food overnight to cook in earth ovens on Mount Muirhead until the bullin shrieked in the night. They fled to Mount Schank, then Mount Gambier, where their ovens flooded. Researcher Patrick Nunn sees an ancient memory of eruptions.",
+  "source": {
+   "name": "The Conversation (Patrick D. Nunn): When the bullin shrieked: Aboriginal memories of volcanic eruptions thousands of years ago",
+   "url": "https://theconversation.com/when-the-bullin-shrieked-aboriginal-memories-of-volcanic-eruptions-thousands-of-years-ago-81986"
+  }
+ },
+ {
+  "id": "m31-vanderlin-island-return",
+  "era": "ancient",
+  "year": -2250,
+  "dateLabel": "About 2250 BCE (from about 4,200 years ago)",
+  "cat": "journeys",
+  "title": "Return to Vanderlin Island",
+  "place": "Vanderlin Island, Sir Edward Pellew Group, Northern Territory, Australia",
+  "lat": -15.73,
+  "lng": 137.03,
+  "text": "Rising seas cut Vanderlin Island, in the Gulf of Carpentaria, off from the mainland about 6,700 years ago, and people seem to have moved to higher ground. Archaeologists Robin Sim and Lynley Wallis found a gap of several thousand years in its record, then signs that people steadily recolonised these new islands from about 4,200 years ago, with occupation growing after 1,300 years ago.",
+  "source": {
+   "name": "Australian Archaeology 67 (2008), Sim and Wallis: Northern Australian offshore island use during the Holocene: the archaeology of Vanderlin Island (ANU Research Portal)",
+   "url": "https://researchportalplus.anu.edu.au/en/publications/northern-australian-offshore-island-use-during-the-holocene-the-a/"
+  }
+ },
+ {
+  "id": "m31-murray-earth-ovens",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 2000 BCE (at least 4,000 years ago)",
+  "cat": "daily",
+  "title": "Clay-Ball Ovens of the Murray",
+  "place": "Calperum Station, Riverland, South Australia, Australia",
+  "lat": -34.05,
+  "lng": 140.7,
+  "text": "On the Murray River floodplain at Calperum Station, Aboriginal people built earth-oven mounds from at least about 4,000 years ago and used them until European invasion. Flinders University researchers and the River Murray and Mallee Aboriginal Corporation excavated six mounds and found charcoal, mussel shell and clay balls that held heat in underground ovens, probably used to cook bulrush tubers for food and fibre.",
+  "source": {
+   "name": "ANSTO: Murray River earth mounds reveal Aboriginal cooking practices spanning 4000 years",
+   "url": "https://ansto.gov.au/news/murray-river-earth-mounds-reveal-aboriginal-cooking-practices-spanning-4000-years"
+  },
+  "source2": {
+   "name": "Flinders University Research: Aboriginal earth mounds of the Calperum floodplain (The Holocene, 2022)",
+   "url": "https://researchnow.flinders.edu.au/en/publications/aboriginal-earth-mounds-of-the-calperum-floodplain-murray-darling/"
+  }
+ },
+ {
+  "id": "m31-mambi-gwion-tassel-figures",
+  "era": "ancient",
+  "year": -1300,
+  "dateLabel": "Before about 1300 BCE (at least 3,300 years ago)",
+  "cat": "culture",
+  "title": "Tasselled Figures Under a Wasp Nest",
+  "place": "Lawley River area, northwest Kimberley, Western Australia, Australia",
+  "lat": -14.6,
+  "lng": 125.9,
+  "text": "In the northwest Kimberley, Mambi Gwion figures, also called Tassel Bradshaws, are painted in red with a darker red outline, tassels on the head, clearly drawn fingers and a paunch. A mud wasp nest over a 'cage-shape' motif painted on top of them gave a minimum age of about 3,300 years, which indirectly dates the figures underneath to earlier still.",
+  "source": {
+   "name": "PLOS ONE (2016), Ross, Westaway, Travers, Morwood and Hayward: Into the Past: A Step Towards a Robust Kimberley Rock Art Chronology (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5006964/"
+  }
+ },
+ {
+  "id": "m31-dauar-gardens",
+  "era": "classical",
+  "year": -50,
+  "dateLabel": "About 50 BCE (at least 2,000 years ago)",
+  "cat": "discovery",
+  "title": "Torres Strait's First Gardens",
+  "place": "Dauar, Murray Islands, Torres Strait, Queensland, Australia",
+  "lat": -9.93,
+  "lng": 144.05,
+  "text": "On Dauar, one of the Murray Islands in eastern Torres Strait, excavations in 1998 to 2000 revealed widespread land clearance and gardening from at least 2,000 years ago, the earliest horticulture yet established in the strait. Plant traces such as starch grains supported this. Sand in Dauar's pottery, dated 2,000 to 700 years ago, points to New Guinea and exchange with Papuan lowland groups.",
+  "source": {
+   "name": "JCU ResearchOnline: M. J. Carter, North of the Cape and south of the Fly: the archaeology of settlement and subsistence on the Murray Islands (PhD thesis, 2004)",
+   "url": "https://researchonline.jcu.edu.au/1054/"
+  }
+ },
+ {
+  "id": "m31-dabangay-resettled",
+  "era": "classical",
+  "year": 135,
+  "dateLabel": "About 135 CE (about 1,815 years ago)",
+  "cat": "journeys",
+  "title": "Coming Back to Dabangay",
+  "place": "Dabangay, Mabuyag, Torres Strait, Queensland, Australia",
+  "lat": -9.92,
+  "lng": 142.19,
+  "text": "Dabangay, on the island of Mabuyag in western Torres Strait, is one of only two known mid-Holocene sites in the strait. Eleven new radiocarbon dates, combined with nine earlier ones, show people lived there for a long stretch from about 7,200 to 3,200 years ago, then barely used it. Around 1,815 years ago a second sustained settlement began, and it has lasted right up to the present.",
+  "source": {
+   "name": "Australian Archaeology 76 (2013), Wright: short report on the re-excavation of Dabangay, Mabuyag (Australian Archaeological Association)",
+   "url": "https://australianarchaeologicalassociation.com.au/wp-content/uploads/2013/06/AA76-Dabangay-Wright-200dpi.pdf"
+  }
+ },
+ {
+  "id": "m31-sweers-island-first-dates",
+  "era": "classical",
+  "year": 370,
+  "dateLabel": "About 370 CE (about 1,580 years ago)",
+  "cat": "journeys",
+  "title": "Older Than the Linguists Thought",
+  "place": "Nalkurdalayarrb, Sweers Island, South Wellesley Islands, Queensland, Australia",
+  "lat": -17.11,
+  "lng": 139.62,
+  "text": "The South Wellesley Islands in the Gulf of Carpentaria are Kaiadilt country, and reaching Bentinck Island from the mainland needs a 10 km open-water crossing. Linguists had suggested people first arrived within the last 1,000 years. But a radiocarbon date from a shell midden at Nalkurdalayarrb on Sweers Island shows occupation by about 1,580 years ago, almost double that estimate.",
+  "source": {
+   "name": "Australian Archaeology (2010), Ulm et al.: Radiocarbon and linguistic dates for occupation of the South Wellesley Islands (JCU ResearchOnline)",
+   "url": "https://researchonline.jcu.edu.au/15692/1/ulm_etal_2010.pdf"
+  }
+ },
+ {
+  "id": "m31-mabuyag-pottery",
+  "era": "classical",
+  "year": 450,
+  "dateLabel": "About 450 CE (about 1,300 to 1,600 years ago)",
+  "cat": "discovery",
+  "title": "Island-Made Pots on Mabuyag",
+  "place": "Mui, Mabuyag, Torres Strait, Queensland, Australia",
+  "lat": -9.96,
+  "lng": 142.2,
+  "text": "In 2006 archaeologists digging a one-metre square at Mui, on Mabuyag in western Torres Strait, found two joining pottery sherds 1.35 metres down. Charcoal above and below dated them to about 1,300 to 1,600 years ago. The sand in the clay came from Mabuyag itself, so these thin-walled plain pots were made locally, perhaps after pottery technology reached the region about 1,700 years ago.",
+  "source": {
+   "name": "Australian Archaeology (2009), Wright and Dickinson: Movement of ideas not materials: locally manufactured pottery on Mabuyag Island (ANU Open Research)",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/36757/2/01_Wright_Movement_of_ideas_not_2009.pdf"
+  }
+ },
+ {
+  "id": "m31-bondi-points-vanish",
+  "era": "classical",
+  "year": 500,
+  "dateLabel": "About 500 CE (about 1,500 years ago)",
+  "cat": "discovery",
+  "title": "The Vanishing Bondi Points",
+  "place": "Bondi, Sydney, New South Wales, Australia",
+  "lat": -33.89,
+  "lng": 151.27,
+  "text": "Small stone tools called backed artefacts, or microliths, appeared in Sydney's archaeological record and then disappeared about 1,500 years ago. Once nicknamed Bondi points after the suburb where they were first identified, they have one blunted side, perhaps for gripping or fixing to a spear shaft or gum handle. Microscope and residue studies suggest uses from woodworking and skin-working to spear points and scarification.",
+  "source": {
+   "name": "Australian Museum: First Nations timeline",
+   "url": "https://australian.museum/learn/cultures/first-nations-collections/timeline/"
+  }
+ },
+ {
+  "id": "m31-kabadul-kula-rock-art",
+  "era": "medieval",
+  "year": 650,
+  "dateLabel": "About 650 CE (1,200 to 1,400 years ago)",
+  "cat": "culture",
+  "title": "Spirits Painted on Dauan",
+  "place": "Kabadul Kula, Dauan, Torres Strait, Queensland, Australia",
+  "lat": -9.42,
+  "lng": 142.54,
+  "text": "Kabadul Kula, a painted boulder shelter on Dauan island just 10 km from the Papua New Guinea coast, holds 47 red ochre paintings, among them a dogai female spirit, dancing figures, a crayfish and canoes. Digging beneath one panel, archaeologists found ochre fragments, most dropped between 1,200 and 1,400 years ago, linked to an early phase of painting. They were then Torres Strait's oldest rock art dates.",
+  "source": {
+   "name": "Australian Archaeology 69 (2009): Kabadul Kula and the Antiquity of Torres Strait Rock Art (ANU Open Research)",
+   "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/f0edbf7b-7360-4eff-a4b3-65c39015d24a/content"
+  }
+ },
+ {
+  "id": "m31-packsaddle-stone-arrangement",
+  "era": "medieval",
+  "year": 660,
+  "dateLabel": "About 660 CE (at least 1,360 years ago)",
+  "cat": "culture",
+  "title": "Boulders Tended for Centuries",
+  "place": "Packsaddle Valley, Pilbara, Western Australia, Australia",
+  "lat": -23.4,
+  "lng": 119.7,
+  "text": "Near Packsaddle Valley in the Pilbara, people built a stone arrangement complex at least 1,360 years ago. Luminescence dating of sediment trapped beneath the boulders shows they returned to re-erect fallen stones at least twice, about 800 and 480 years ago. Care for the site seems to have ended around 380 years ago, when four boulders toppled over.",
+  "source": {
+   "name": "Journal of Archaeological Science: Reports 49 (2023), Gliganic, Slack and Meyer: Tending to tradition: Dating stone arrangement maintenance in northwest Australia (JCU ResearchOnline)",
+   "url": "https://researchonline.jcu.edu.au/78839/"
+  }
+ },
+ {
+  "id": "m31-seq-coastal-boom",
+  "era": "medieval",
+  "year": 750,
+  "dateLabel": "About 750 CE (after about 1,200 years ago)",
+  "cat": "daily",
+  "title": "A Busy Southeast Queensland Coast",
+  "place": "Moreton Bay, Queensland, Australia",
+  "lat": -27.4,
+  "lng": 153.3,
+  "text": "Radiocarbon dates from Aboriginal sites across southeast Queensland tell a striking story. Archaeologists Sean Ulm and Jay Hall found that big increases in the number of occupied sites, and in how quickly new sites were set up, came only after about 1,200 years ago, and only along the coastal strip. They argued this was a real change in how people lived, not just a quirk of preservation.",
+  "source": {
+   "name": "Australian Archaeology '95 (Tempus 6, 1996), Ulm and Hall: Radiocarbon and cultural chronologies in southeast Queensland prehistory (JCU ResearchOnline)",
+   "url": "https://researchonline.jcu.edu.au/18555/"
+  }
+ },
+ {
+  "id": "m31-wirrngaji-midden",
+  "era": "medieval",
+  "year": 900,
+  "dateLabel": "About 900 CE (about 1,048 years ago)",
+  "cat": "daily",
+  "title": "Where the Old People Lived",
+  "place": "Wirrngaji, Bentinck Island, South Wellesley Islands, Queensland, Australia",
+  "lat": -17.15,
+  "lng": 139.48,
+  "text": "Kaiadilt elder Dawn Naranatjil pointed out Wirrngaji, a large shell midden on an old beach ridge on Bentinck Island, as a promising place to dig, 'where the old people used to live'. A small test pit found a thin lower shell layer dated to about 1,048 years ago, beneath a thick upper layer about 860 years old. Glass on the surface shows people lived there into recent times.",
+  "source": {
+   "name": "Australian Archaeology (2010), Ulm et al.: Radiocarbon and linguistic dates for occupation of the South Wellesley Islands (JCU ResearchOnline)",
+   "url": "https://researchonline.jcu.edu.au/15692/1/ulm_etal_2010.pdf"
+  }
+ },
+ {
+  "id": "m31-goemu-dugong-midden",
+  "era": "medieval",
+  "year": 975,
+  "dateLabel": "About 975 CE (950 to 1,000 years ago)",
+  "cat": "daily",
+  "title": "Dugong Feasts at Goemu Village",
+  "place": "Goemu village, Mabuyag, Torres Strait, Queensland, Australia",
+  "lat": -9.93,
+  "lng": 142.15,
+  "text": "Goemu village on Mabuyag has one of the largest midden deposits recorded in Torres Strait. One of its long mounded middens formed about 950 to 1,000 years ago, from a way of life centred on hunting dugong and turtle, topped up with fishing and shellfishing on nearby reef flats and mangroves. Land snails show that shade trees once grew where grassland is now.",
+  "source": {
+   "name": "Memoirs of the Queensland Museum, Cultural Heritage Series (2015), McNiven et al.: Midden formation and marine specialisation at Goemu village, Mabuyag (Monash University)",
+   "url": "https://research.monash.edu/en/publications/midden-formation-and-marine-specialisation-at-goemu-village-mabuy/"
+  }
+ },
+ {
+  "id": "m31-weipa-shell-mounds",
+  "era": "medieval",
+  "year": 1150,
+  "dateLabel": "About 1150 CE (about 800 years ago)",
+  "cat": "daily",
+  "title": "Mountains of Shell at Weipa",
+  "place": "Mandjungaar, Weipa Peninsula, Cape York, Queensland, Australia",
+  "lat": -12.7,
+  "lng": 141.88,
+  "text": "More than 500 shell mounds dot the Weipa area of western Cape York Peninsula. At Mandjungaar, at the request of Ndrua'angayth custodians, archaeologists dated a dome-shaped mound and found people began building it about 800 years ago, adding to it for centuries. Most shells came from one bivalve, Tegillarca granosa, from intertidal mudflats. A neighbouring mound stands 4 metres high.",
+  "source": {
+   "name": "Queensland Archaeological Research 21 (2018), Morrison, Wight and Evans: Report on excavation of a shell mound site at Mandjungaar",
+   "url": "https://journals.jcu.edu.au/index.php/qar/article/download/3637/3524/7058"
+  }
+ },
+ {
+  "id": "m31-kimberley-star-yam",
+  "era": "medieval",
+  "year": 1360,
+  "dateLabel": "Before about 1360 CE (at least 650 years ago)",
+  "cat": "culture",
+  "title": "A Star-Yam on the Shelter Wall",
+  "place": "Upper Bush Spirit Creek, northwest Kimberley, Western Australia, Australia",
+  "lat": -14.85,
+  "lng": 125.75,
+  "text": "At the headwaters of Bush Spirit Creek in the northwest Kimberley, a large motif painted in a 'star-yam' form covers the back wall of a big rockshelter. Mud wasps later built a nest over it, and luminescence dating of the nest gave a minimum age of about 650 years. The method reads a light-sensitive signal that builds up while grains stay covered.",
+  "source": {
+   "name": "PLOS ONE (2016), Ross, Westaway, Travers, Morwood and Hayward: Into the Past: A Step Towards a Robust Kimberley Rock Art Chronology (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5006964/"
+  }
+ }
+]

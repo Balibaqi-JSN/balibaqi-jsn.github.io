@@ -1,0 +1,350 @@
+[
+ {
+  "id": "m02-mazagan-portuguese-citadel",
+  "era": "exploration",
+  "year": 1514,
+  "dateLabel": "1514",
+  "cat": "journeys",
+  "title": "A Portuguese Fort on Morocco's Coast",
+  "place": "El Jadida (Mazagan), Casablanca-Settat, Morocco",
+  "lat": 33.26,
+  "lng": -8.5,
+  "text": "In 1514 the brothers Francisco and Diogo de Arruda built the first Portuguese citadel at Mazagan, on Morocco's Atlantic coast. It was one of the first settlements Portuguese explorers created in Africa on the route to India. Between 1541 and 1548 it was enlarged into a star-shaped fortress designed for the age of firearms, and Moroccans took it over in 1769.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Portuguese City of Mazagan (El Jadida)",
+   "url": "https://whc.unesco.org/en/list/1058"
+  }
+ },
+ {
+  "id": "m02-barbarossa-penon-of-algiers",
+  "era": "exploration",
+  "year": 1529,
+  "dateLabel": "1529",
+  "cat": "power",
+  "title": "Barbarossa Takes the Island Fort",
+  "place": "Algiers, Algeria",
+  "lat": 36.79,
+  "lng": 3.07,
+  "text": "In 1529 the corsair Hayreddin Barbarossa bombarded the Spanish garrison on the Peñón of Algiers, a small island fortress, into surrender. His brother Oruç, whose red beard gave both men their nickname, had taken power in Algiers in 1516. Hayreddin placed the city under Ottoman sultan Süleyman, who sent him 2,000 janissaries, and from Algiers his corsairs terrorized the western Mediterranean.",
+  "source": {
+   "name": "National Geographic History: This 16th-century corsair was the most feared pirate of the Mediterranean",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/barbarossa-pirate"
+  }
+ },
+ {
+  "id": "m02-ottomans-take-tripoli-1551",
+  "era": "exploration",
+  "year": 1551,
+  "dateLabel": "August 14, 1551",
+  "cat": "power",
+  "title": "The Knights Lose Tripoli",
+  "place": "Tripoli, Libya",
+  "lat": 32.9,
+  "lng": 13.18,
+  "text": "In August 1551 an Ottoman army under Sinan Pasha and the corsair Dragut besieged Tripoli, held since 1530 by the Knights of St John of Malta. Governor Vallier had about 200 knights and 500 soldiers, but local people of Tagiura joined the attack and a renegade guard opened a gate. Tripoli fell on August 14th, and Dragut later made it one of the strongest fortresses of Africa.",
+  "source": {
+   "name": "University of Malta OAR@UM: Andrew P. Vella, The Order of Malta and the Defence of Tripoli 1530-1551",
+   "url": "https://www.um.edu.mt/library/oar/handle/123456789/37478"
+  }
+ },
+ {
+  "id": "m02-ottoman-siege-of-tunis-1574",
+  "era": "exploration",
+  "year": 1574,
+  "dateLabel": "July - 13 September 1574",
+  "cat": "power",
+  "title": "Tunis Falls to the Ottomans",
+  "place": "Tunis and La Goulette, Tunisia",
+  "lat": 36.82,
+  "lng": 10.3,
+  "text": "From the middle of July 1574, a Turkish fleet of about 230 galleys carrying some 40,000 men besieged Spanish-held Tunis and La Goulette, and the soldiers camped among the ruins of Carthage. Local nomads joined the Ottomans and dug long lines of trenches. The Italian general Gabrio Serbelloni surrendered on 13 September, an outcome that decided North Africa would now be under Ottoman rule.",
+  "source": {
+   "name": "Royal Collection Trust: Giovanni Francesco Camocio, View of the siege of Tunis, 1574 (RCIN 721071)",
+   "url": "https://militarymaps.rct.uk/ottoman-habsburg-wars-1521-1791/siege-of-tunis-1574-goletta-el-nouo-forte-auanti"
+  }
+ },
+ {
+  "id": "m02-battle-of-three-kings",
+  "era": "exploration",
+  "year": 1578,
+  "dateLabel": "August 4, 1578",
+  "cat": "power",
+  "title": "The Battle of Three Kings",
+  "place": "Ksar el-Kebir, Tanger-Tetouan-Al Hoceima, Morocco",
+  "lat": 35.0,
+  "lng": -5.9,
+  "text": "On August 4, 1578, beside the Loukkos River near Ksar el-Kebir, Moroccan forces backed by Ottoman janissaries crushed an invasion led by Portugal's 24-year-old King Sebastian. Three kings died that day: Sebastian, the ousted sultan Abdallah Muhammad, and Morocco's ruler Abd al-Malik, from poison, bad water or illness. His brother Ahmad was proclaimed sultan on the spot and became known as al-Mansur, 'the victorious'.",
+  "source": {
+   "name": "Stanford University Department of History (from Smithsonian Magazine): The Swashbuckling Tudor Mercenary Who Was Killed in a Battle That Claimed the Lives of Three 16th-Century Kings",
+   "url": "https://history.stanford.edu/news/swashbuckling-tudor-mercenary-who-was-killed-battle-claimed-lives-three-16th-century-kings"
+  }
+ },
+ {
+  "id": "m02-lisbon-tsunami-morocco-1755",
+  "era": "exploration",
+  "year": 1755,
+  "dateLabel": "1 November 1755",
+  "cat": "nature",
+  "title": "Lisbon's Wave Reaches Morocco",
+  "place": "Atlantic coast, Morocco",
+  "lat": 34.03,
+  "lng": -6.84,
+  "text": "On 1 November 1755 the great Lisbon Earthquake sent a tsunami across the Atlantic toward Morocco. Re-reading old reports translated for European governments, scientific societies and newspapers, a 2009 study argues the Lisbon quake was long overestimated in Morocco because accounts were mixed up with a later earthquake in the Rif. On Morocco's shore the wave may not have exceeded 2.5 metres above the tide.",
+  "source": {
+   "name": "Natural Hazards and Earth System Sciences: Blanc, Earthquakes and tsunami in November 1755 in Morocco - a different reading of contemporaneous documentary sources",
+   "url": "https://nhess.copernicus.org/articles/9/725/2009/"
+  }
+ },
+ {
+  "id": "m02-battle-of-the-pyramids",
+  "era": "exploration",
+  "year": 1798,
+  "dateLabel": "21 July 1798",
+  "cat": "power",
+  "title": "Bonaparte at the Pyramids",
+  "place": "Imbaba (Embabeh), Giza, Egypt",
+  "lat": 30.08,
+  "lng": 31.21,
+  "text": "On 21 July 1798, Napoleon Bonaparte's French army attacked twenty-three Mamluk beys entrenched at Embabeh, near Cairo, with more than sixty guns. In his own despatch, Bonaparte described the Mamluks' magnificent cavalry, decked in gold and silver, charging his infantry squares, and many fleeing riders drowning in the Nile. Murad Bey was wounded in the cheek, and French troops soon entered Cairo.",
+  "source": {
+   "name": "Fondation Napoléon (napoleon.org): Bonaparte's despatches from Egypt (Part I)",
+   "url": "https://www.napoleon.org/en/history-of-the-two-empires/articles/bonapartes-despatches-from-egypt-part-i"
+  }
+ },
+ {
+  "id": "m02-french-landing-sidi-ferruch",
+  "era": "industrial",
+  "year": 1830,
+  "dateLabel": "14 June - 5 July 1830",
+  "cat": "power",
+  "title": "France Lands at Sidi Ferruch",
+  "place": "Sidi Fredj (Sidi Ferruch), Algiers Province, Algeria",
+  "lat": 36.76,
+  "lng": 2.85,
+  "text": "When a French fleet landed at Sidi Ferruch on 14 June 1830, the Regency of Algiers, though nominally Ottoman, had all the marks of a sovereign state. The official aim was to avenge the 'fly whisk incident', but King Charles X also hoped a triumph would restore his prestige. The Dey surrendered on 5 July, beginning 132 years of shared history that ended with independence in 1962.",
+  "source": {
+   "name": "Musée de l'Armée (Paris), Algérie 1830-1962: The end of the Ottoman Regency and the limited occupation of Algeria",
+   "url": "https://musee-armee.fr/ExpositionAlgerie/the-end-of-the-ottoman-regency-and-the-limited-occupation-of-algeria.html"
+  }
+ },
+ {
+  "id": "m02-fatima-nsoumer-captured",
+  "era": "industrial",
+  "year": 1857,
+  "dateLabel": "July 1857",
+  "cat": "power",
+  "title": "The Red-Cloaked Leader of Kabylia",
+  "place": "Kabylia mountains, Tizi Ouzou Province, Algeria",
+  "lat": 36.52,
+  "lng": 4.3,
+  "text": "Born in 1830, the year France invaded Algeria, Fatima N'Soumer was a Berber holy woman of the Kabylia mountains. Clad in a red cloak, she led armed resistance to French assaults from 1854, fighting side by side with the men, and her followers believed she could cure the sick and foretell the future. The French army captured her in July 1857, and she died in prison six years later.",
+  "source": {
+   "name": "Roy Rosenzweig Center for History and New Media, George Mason University - Women in World History: Imperialism in North Africa, Personal Account, Captain Carette",
+   "url": "https://chnm.gmu.edu/wwh/p/175.html"
+  }
+ },
+ {
+  "id": "m02-tunisian-constitution-1861",
+  "era": "industrial",
+  "year": 1861,
+  "dateLabel": "April 26, 1861",
+  "cat": "power",
+  "title": "A Constitution for Tunisia",
+  "place": "Tunis, Tunisia",
+  "lat": 36.8,
+  "lng": 10.17,
+  "text": "On April 26, 1861, Tunisia's ruler Muhammad al-Sadiq Bey adopted a full written constitution of 13 chapters and 114 articles, giving Tunisia a claim to the first written constitution in a Muslim country. It made the king answerable to a new Supreme Council, whose approval was needed for new laws and taxes. Unpopular in the provinces for its tax rises, it was suspended after a rural revolt in 1864.",
+  "source": {
+   "name": "American Journal of Islam and Society: Andrew March, Islamic Constitutionalism Before Sovereignty - Two Defenses of the Tunisian Constitution of 1861",
+   "url": "https://www.ajis.org/index.php/ajiss/article/view/609"
+  }
+ },
+ {
+  "id": "m02-mahdi-patched-tunics",
+  "era": "industrial",
+  "year": 1881,
+  "dateLabel": "1881",
+  "cat": "daily",
+  "title": "Patched Tunics of the Mahdi's Army",
+  "place": "Sudan",
+  "lat": 13.33,
+  "lng": 32.6,
+  "text": "In 1881 Mohammad Ahmad, a Sufi sheikh from Sudan, proclaimed himself the Mahdi, at a time of growing resentment against Ottoman-Egyptian rule. His followers, the ansar, wore cotton tunics covered in large appliqué patches, deliberate symbols of poverty and humility. After the fall of Khartoum, captured stores of British cloth were handed out, so later patches were often made of wool.",
+  "source": {
+   "name": "Textile Research Centre, Leiden (TRC Needles): Mahdi Tunics",
+   "url": "https://trc-leiden.nl/trc-needles/regional-traditions/middle-east-and-north-africa/pre-modern-middle-east-and-north-africa/mahdi-tunics"
+  }
+ },
+ {
+  "id": "m02-battle-of-omdurman",
+  "era": "industrial",
+  "year": 1898,
+  "dateLabel": "2 September 1898",
+  "cat": "power",
+  "title": "Rifles and Machine Guns at Omdurman",
+  "place": "Omdurman, Khartoum State, Sudan",
+  "lat": 15.64,
+  "lng": 32.48,
+  "text": "On 2 September 1898, an Anglo-Egyptian army under Herbert Kitchener met the forces of the Khalifa Abdullah, successor to the Mahdi, at Omdurman. The Mahdists fought bravely but were no match for modern rifles and machine guns, and the battle effectively dismantled Mahdist power in Sudan. The Khalifa himself evaded capture until November 1899.",
+  "source": {
+   "name": "National Army Museum (UK): The Battle of Omdurman",
+   "url": "https://www.nam.ac.uk/whats-on/battle-omdurman"
+  }
+ },
+ {
+  "id": "m02-princess-fatma-egyptian-university",
+  "era": "industrial",
+  "year": 1908,
+  "dateLabel": "1908",
+  "cat": "culture",
+  "title": "A Princess Pays for a University",
+  "place": "Cairo, Egypt",
+  "lat": 30.03,
+  "lng": 31.21,
+  "text": "The secular university that became Cairo University was founded in 1908, and its great patron was Princess Fatma Ismail, daughter of Khedive Ismail. Told by her doctor about the project's money troubles, she donated six acres of land in Cairo, gave the profits of 661 acres of farmland and even sold her own jewelry. She died in 1920, before the university began admitting women in 1928.",
+  "source": {
+   "name": "Bibliotheca Alexandrina, SCIplanet: Egyptian Women to Whom Girls Owe Their Education",
+   "url": "https://www.bibalex.org/SCIplanet/en/Article/Details?id=18083"
+  }
+ },
+ {
+  "id": "m02-first-aerial-bomb-ain-zara",
+  "era": "industrial",
+  "year": 1911,
+  "dateLabel": "November 1, 1911",
+  "cat": "power",
+  "title": "The First Bomb From a Plane",
+  "place": "Ain Zara, near Tripoli, Libya",
+  "lat": 32.81,
+  "lng": 13.25,
+  "text": "During the war between Italy and the Ottoman Empire, Lieutenant Giulio Gavotti flew a Taube monoplane over a Turkish camp at Ain Zara, near Tripoli, on November 1, 1911. Without telling his superiors, he had packed four grenades in a leather pouch, and he tossed them over the side one at a time. No one was injured, but it was the world's first aerial bomb.",
+  "source": {
+   "name": "NPR: 100 Years Ago, World's First Aerial Bomb Dropped Over Libya",
+   "url": "https://www.npr.org/sections/thetwo-way/2011/03/21/134735395/100-years-ago-the-first-aerial-bomb-fell-over-libya"
+  }
+ },
+ {
+  "id": "m02-libya-independence-1951",
+  "era": "modern",
+  "year": 1951,
+  "dateLabel": "December 24, 1951",
+  "cat": "power",
+  "title": "Libya Becomes Independent",
+  "place": "Tripoli, Libya",
+  "lat": 32.89,
+  "lng": 13.19,
+  "text": "On December 24, 1951, Libya declared its independence under King Idris I, after years of British and French administration of the former Italian colony. In 1949 the United Nations had voted that Cyrenaica, Tripolitania and the Fezzan should together become an 'independent and sovereign state' by January 1, 1952, with a UN Commissioner helping Libyans draw up a constitution through a National Assembly.",
+  "source": {
+   "name": "U.S. Department of State, Office of the Historian: Libya - Recognition, Diplomatic and Consular Relations",
+   "url": "https://history.state.gov/countries/libya"
+  },
+  "source2": {
+   "name": "Foreign Relations of the United States, 1949, Vol. IV: Editorial Note on the UN General Assembly decision on Libya",
+   "url": "https://history.state.gov/historicaldocuments/frus1949v04/d345"
+  }
+ },
+ {
+  "id": "m02-agadir-earthquake-1960",
+  "era": "modern",
+  "year": 1960,
+  "dateLabel": "February 29, 1960",
+  "cat": "nature",
+  "title": "Agadir Shaken to the Ground",
+  "place": "Agadir, Souss-Massa, Morocco",
+  "lat": 30.42,
+  "lng": -9.6,
+  "text": "On 29 February 1960, an earthquake struck the Atlantic port city of Agadir, killing between ten and fifteen thousand Moroccans and Europeans and damaging most of its buildings. International teams of geologists, seismologists and engineers then studied the ruins, and their idea of seismic risk shaped how Agadir was rebuilt during the first decade of Morocco's independence from France.",
+  "source": {
+   "name": "Technology and Culture (via Europe PMC): Williford, Seismic Politics - Risk and Reconstruction after the 1960 Earthquake in Agadir, Morocco",
+   "url": "https://europepmc.org/article/MED/29249722"
+  }
+ },
+ {
+  "id": "m02-mahfouz-nobel",
+  "era": "modern",
+  "year": 1988,
+  "dateLabel": "1988",
+  "cat": "culture",
+  "title": "A Cairo Novelist Wins the Nobel",
+  "place": "Cairo, Egypt",
+  "lat": 30.05,
+  "lng": 31.26,
+  "text": "Born in Cairo in 1911, Naguib Mahfouz began writing at seventeen and worked as a civil servant until 1972. His Cairo Trilogy, published in 1957, made him famous across the Arab world for its portraits of traditional city life, and half of his novels became films. In 1988 he won the Nobel Prize in Literature for forming 'an Arabian narrative art that applies to all mankind'.",
+  "source": {
+   "name": "NobelPrize.org: Naguib Mahfouz - Biographical",
+   "url": "https://www.nobelprize.org/prizes/literature/1988/mahfouz/biographical/"
+  },
+  "source2": {
+   "name": "NobelPrize.org: The Nobel Prize in Literature 1988",
+   "url": "https://www.nobelprize.org/prizes/literature/1988/summary/"
+  }
+ },
+ {
+  "id": "m02-tunisian-dialogue-quartet",
+  "era": "modern",
+  "year": 2015,
+  "dateLabel": "2015",
+  "cat": "power",
+  "title": "Four Groups Save a Democracy",
+  "place": "Tunis, Tunisia",
+  "lat": 36.81,
+  "lng": 10.18,
+  "text": "In the summer of 2013, as Tunisia's move to democracy after the 2011 revolution risked collapsing amid political assassinations and unrest, four groups formed the National Dialogue Quartet: the General Labour Union, the industry and trade confederation, the Human Rights League and the Order of Lawyers. They steered the country onto a peaceful political path, and in 2015 the Quartet won the Nobel Peace Prize.",
+  "source": {
+   "name": "NobelPrize.org: The Nobel Peace Prize for 2015 - Press release",
+   "url": "https://www.nobelprize.org/prizes/peace/2015/press-release/"
+  }
+ },
+ {
+  "id": "m02-sudan-sit-in-2019",
+  "era": "modern",
+  "year": 2019,
+  "dateLabel": "April 2019",
+  "cat": "power",
+  "title": "Sudan's Sit-In Topples a President",
+  "place": "Khartoum, Sudan",
+  "lat": 15.6,
+  "lng": 32.53,
+  "text": "After months of protests, thousands of Sudanese camped outside military headquarters in Khartoum, and in April 2019 the army removed Omar al-Bashir, an autocrat who had seized power in a 1989 coup. The protesters refused to leave: a military council promised elections in two years, but they demanded civilian rule at once. Coup leader Awad Ibn Auf lasted a single day as president.",
+  "source": {
+   "name": "NPR: Bashir May Be Out, But Sudanese Protesters With 'Eye On The Prize' Won't Budge",
+   "url": "https://www.npr.org/2019/04/15/713401461/bashir-may-be-out-but-sudanese-protesters-with-eye-on-the-prize-won-t-budge"
+  }
+ },
+ {
+  "id": "m02-derna-dams-flood",
+  "era": "modern",
+  "year": 2023,
+  "dateLabel": "September 10-11, 2023",
+  "cat": "nature",
+  "title": "The Night Derna's Dams Broke",
+  "place": "Derna, Libya",
+  "lat": 32.76,
+  "lng": 22.64,
+  "text": "On the night of 10 September 2023, Storm Daniel swept across Libya. Just after midnight, the two dams above the coastal city of Derna gave way, sending over 30 million cubic metres of water down the Wadi Derna, normally a dry riverbed, and through the sleeping city. Estimates of the dead range from 5,900 to 20,000, making it the second-deadliest dam failure in recorded history.",
+  "source": {
+   "name": "Norwegian Refugee Council via ReliefWeb (UN OCHA): One year on - Looking back at Derna's flood disaster",
+   "url": "https://reliefweb.int/report/libya/one-year-looking-back-dernas-flood-disaster"
+  }
+ },
+ {
+  "id": "m02-grand-egyptian-museum-opens",
+  "era": "modern",
+  "year": 2025,
+  "dateLabel": "November 1, 2025",
+  "cat": "culture",
+  "title": "A Giant Museum Beside the Pyramids",
+  "place": "Giza, Egypt",
+  "lat": 29.99,
+  "lng": 31.12,
+  "text": "Announced in 1992 and delayed again and again, the Grand Egyptian Museum near the Pyramids of Giza held its grand opening on 1 November 2025. It is the world's largest institution dedicated to a single civilisation. Two halls show all 5,000 artefacts from Tutankhamun's tomb together for the first time since 1922, and a six-storey staircase lined with statues leads to a view of the pyramids.",
+  "source": {
+   "name": "Al Jazeera: Egypt unveils Grand Egyptian Museum dedicated to its ancient civilisation",
+   "url": "https://www.aljazeera.com/news/2025/11/1/egypt-unveils-grand-egyptian-museum-dedicated-to-its-ancient-civilisation"
+  },
+  "source2": {
+   "name": "National Geographic: The Grand Egyptian Museum is opening in full - here's what you need to know",
+   "url": "https://www.nationalgeographic.com/travel/article/what-to-know-about-opening-of-the-grand-egyptian-museum-cairo"
+  }
+ }
+]

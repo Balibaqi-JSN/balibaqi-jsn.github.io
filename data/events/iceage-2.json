@@ -1,0 +1,754 @@
+[
+ {
+  "id": "ia2-yana",
+  "era": "iceage",
+  "year": -30000,
+  "dateLabel": "About 32,000 years ago",
+  "emoji": "🦏",
+  "cat": "daily",
+  "title": "Mammoth Hunters North of the Arctic Circle",
+  "place": "Yana River, Sakha Republic, Russia",
+  "lat": 70.72,
+  "lng": 135.42,
+  "text": "People were living on the Yana River in Arctic Siberia, north of the Arctic Circle, about 27,000 radiocarbon years ago, roughly twice as old as any other known Arctic site when it was reported in 2004. They made spear foreshafts from woolly rhino horn and mammoth ivory, and seem to have hunted mammoths mainly for ivory rather than meat.",
+  "source": {
+   "name": "Pitulko et al. 2004, Science, 'The Yana RHS site' (abstract, Europe PMC)",
+   "url": "https://europepmc.org/article/MED/14704419"
+  },
+  "source2": {
+   "name": "Discover Magazine",
+   "url": "https://www.discovermagazine.com/these-ice-age-humans-somehow-survived-north-of-the-arctic-circle-40962"
+  }
+ },
+ {
+  "id": "ia2-sungir",
+  "era": "iceage",
+  "year": -30000,
+  "dateLabel": "About 34,000 years ago",
+  "emoji": "📿",
+  "cat": "culture",
+  "title": "Two Children Wrapped in Ivory Beads",
+  "place": "Sungir, Vladimir, Russia",
+  "lat": 56.18,
+  "lng": 40.5,
+  "text": "On the edge of today's city of Vladimir, two children aged about 10 and 12 were buried head to head, covered in more than ten thousand mammoth-ivory beads between them, with 16 spears of mammoth ivory. A grown man nearby wore 25 ivory armbands and about 3,000 beads. It is the most elaborate Ice Age burial known.",
+  "source": {
+   "name": "Trinkaus & Buzhilova 2018, Antiquity (Cambridge University Press)",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/diversity-and-differential-disposal-of-the-dead-at-sunghir/B7672FB594E94A505A35E10C869F3808"
+  },
+  "source2": {
+   "name": "University of Cambridge research news (Sikora et al. 2017, Science)",
+   "url": "https://www.cam.ac.uk/research/news/prehistoric-humans-are-likely-to-have-formed-mating-networks-to-avoid-inbreeding"
+  }
+ },
+ {
+  "id": "ia2-kilu",
+  "era": "iceage",
+  "year": -28500,
+  "dateLabel": "About 30,000 years ago",
+  "emoji": "🛶",
+  "cat": "journeys",
+  "title": "Ice Age Settlers of the Solomons",
+  "place": "Kilu Cave, Buka Island, Papua New Guinea",
+  "lat": -5.34,
+  "lng": 154.69,
+  "text": "People had reached Buka Island, at the northern end of the Solomon Islands chain, by about 28,000 radiocarbon years ago, some 25,000 years earlier than anyone had found in that island group before. The evidence comes from Kilu, a rock shelter dug by archaeologists Stephen Wickler and Matthew Spriggs. It pushed the story of these Pacific islands deep into the Ice Age.",
+  "source": {
+   "name": "Wickler & Spriggs 1988, Antiquity (Cambridge University Press)",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/pleistocene-human-occupation-of-the-solomon-islands-melanesia/B9FD00CD549FA64D9B738A4D433EF1A2"
+  }
+ },
+ {
+  "id": "ia2-willendorf",
+  "era": "iceage",
+  "year": -27800,
+  "dateLabel": "About 30,000 years ago",
+  "emoji": "🗿",
+  "cat": "culture",
+  "title": "The Pocket-Sized Venus",
+  "place": "Willendorf, Austria",
+  "lat": 48.32,
+  "lng": 15.38,
+  "text": "Just 11 centimetres tall, small enough to carry in a hand, this figure of a woman was carved from a limestone not found near Willendorf, then tinted with red ochre. It dates to about 28,000-25,000 BCE and was found in 1908. Nobody knows whether it was a fertility figure, a mother goddess or a lucky charm.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Venus of Willendorf",
+   "url": "https://www.britannica.com/topic/Venus-of-Willendorf"
+  }
+ },
+ {
+  "id": "ia2-balangoda",
+  "era": "iceage",
+  "year": -26500,
+  "dateLabel": "About 28,500 years ago",
+  "emoji": "🔺",
+  "cat": "discovery",
+  "title": "Tiny Tools in a Rainforest Cave",
+  "place": "Batadomba-lena, Sri Lanka",
+  "lat": 6.8,
+  "lng": 80.37,
+  "text": "In Sri Lanka's rainforest caves, people made microliths, tiny shaped stone tools. At Batadomba-lena, geometric microliths occur in every level, starting about 36,000 years ago, and nearby Kitulgala Beli-lena has them in a layer about 31,000-26,000 years old. Only Africa has clearly older ones, from about 71,000 years ago; Europe's appear from about 45,000 years ago.",
+  "source": {
+   "name": "Wedage et al. 2019, PLOS ONE",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222606"
+  }
+ },
+ {
+  "id": "ia2-gabarnmung",
+  "era": "iceage",
+  "year": -26000,
+  "dateLabel": "About 28,000 years ago",
+  "emoji": "🖍️",
+  "cat": "culture",
+  "title": "Australia's Oldest Dated Drawing",
+  "place": "Gabarnmung, Arnhem Land, Australia",
+  "lat": -12.17,
+  "lng": 133.83,
+  "text": "A rock shelter in Arnhem Land, its ceiling held up by natural stone pillars, holds Australia's oldest securely dated art: a charcoal drawing more than 28,000 years old. The name means 'hole in the rock' in the Jawoyn language. Jawoyn people visited within living memory, but outsiders only learned of it in 2006.",
+  "source": {
+   "name": "Delannoy, David, Geneste et al., 'Engineers of the Arnhem Land plateau', ch. 10 in The Archaeology of Rock Art in Western Arnhem Land (ANU Press, Terra Australis)",
+   "url": "https://press-files.anu.edu.au/downloads/press/n3991/html/ch10.xhtml"
+  },
+  "source2": {
+   "name": "Same volume, ch. 1 and ch. 12 (ANU Press)",
+   "url": "https://press-files.anu.edu.au/downloads/press/n3991/html/ch12.xhtml"
+  }
+ },
+ {
+  "id": "ia2-cosquer",
+  "era": "iceage",
+  "year": -25000,
+  "dateLabel": "About 27,000 years ago",
+  "emoji": "🖐️",
+  "cat": "culture",
+  "title": "The Painted Cave Now Under the Sea",
+  "place": "Cosquer Cave, Marseille, France",
+  "lat": 43.2,
+  "lng": 5.45,
+  "text": "About 27,000 years ago, people stencilled 65 hands on these cave walls by blowing black and red paint around their fingers. Back then the entrance was on dry land, far from the shore. Today it lies 37 metres underwater, and diver Henri Cosquer found it in 1985. Later artists even painted seals and great auks here.",
+  "source": {
+   "name": "French Ministry of Culture: Grotte Cosquer",
+   "url": "https://archeologie.culture.gouv.fr/cosquer/fr"
+  },
+  "source2": {
+   "name": "Bradshaw Foundation: The Cosquer Cave (text by Jean Clottes)",
+   "url": "https://www.bradshawfoundation.com/cosquer/index.php"
+  }
+ },
+ {
+  "id": "ia2-shiraho",
+  "era": "iceage",
+  "year": -24800,
+  "dateLabel": "About 27,000 years ago",
+  "emoji": "✈️",
+  "cat": "discovery",
+  "title": "An Airport's Ice Age Graveyard",
+  "place": "Ishigaki Island, Okinawa, Japan",
+  "lat": 24.38,
+  "lng": 124.21,
+  "text": "Workers building a new airport on Ishigaki Island in 2007 found a cave full of human bones. One nearly complete skeleton, a man in his thirties or forties, is about 27,000 years old, the oldest complete skeleton found in East Asia. With at least 19 people laid to rest, it is Japan's first known Stone Age burial ground.",
+  "source": {
+   "name": "Katagiri Chiaki (Okinawa Prefectural Archaeological Center), 'Shiraho-Saonetabaru Cave site and cliff-burial culture of the southern islands', Gakujutsu no Doko (Science Council of Japan) 2020",
+   "url": "https://www.jstage.jst.go.jp/article/tits/25/2/25_2_48/_pdf/-char/ja"
+  },
+  "source2": {
+   "name": "Ryukyu Shimpo, 'First Paleolithic cemetery in Japan: 19 individuals at Shiraho-Saonetabaru' (20 May 2017)",
+   "url": "https://ryukyushimpo.jp/news/entry-499272.html"
+  }
+ },
+ {
+  "id": "ia2-lgm",
+  "era": "iceage",
+  "year": -24000,
+  "dateLabel": "About 26,000 years ago",
+  "emoji": "🧊",
+  "cat": "nature",
+  "title": "The Ice Sheets at Their Biggest",
+  "place": "Gulf of Bothnia, Sweden",
+  "lat": 63,
+  "lng": 20,
+  "text": "Between about 29,000 and 19,000 years ago, the ice sheets of the last ice age reached their greatest extent, covering about 8 percent of Earth's surface. The Scandinavian Ice Sheet grew up to 3 kilometres thick, and so much water was locked up that seas stood about 125 metres lower than today.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Last glacial maximum",
+   "url": "https://www.britannica.com/science/Last-Glacial-Maximum"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Scandinavian Ice Sheet",
+   "url": "https://www.britannica.com/place/Scandinavian-Ice-Sheet"
+  }
+ },
+ {
+  "id": "ia2-pech-merle",
+  "era": "iceage",
+  "year": -23000,
+  "dateLabel": "About 25,000 years ago",
+  "emoji": "🐎",
+  "cat": "culture",
+  "title": "The Spotted Horses of Pech Merle",
+  "place": "Pech Merle, Cabrerets, France",
+  "lat": 44.51,
+  "lng": 1.64,
+  "text": "On a cave wall in southern France, artists painted two horses covered in black dots about 25,000 years ago. Many assumed the spots were symbolic, until a 2011 DNA study showed leopard-spotted horses really existed in the Ice Age. Scientists still argue about it, but the painters may simply have drawn what they saw.",
+  "source": {
+   "name": "Pruvost et al. 2011, PNAS (PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3219153/"
+  }
+ },
+ {
+  "id": "ia2-lagar-velho",
+  "era": "iceage",
+  "year": -22500,
+  "dateLabel": "About 24,500 years ago",
+  "emoji": "👶",
+  "cat": "discovery",
+  "title": "The Lapedo Child",
+  "place": "Lagar Velho, Leiria, Portugal",
+  "lat": 39.75,
+  "lng": -8.73,
+  "text": "In 1998, archaeologists in a Portuguese valley found the skeleton of a child about four years old, buried around 24,500 years ago with a pierced shell and red ochre. Some researchers think the child's sturdy build shows a mix of Neanderthal and modern human ancestry, a hint that the two groups once had families together.",
+  "source": {
+   "name": "Duarte et al. 1999, PNAS (PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC22133/"
+  }
+ },
+ {
+  "id": "ia2-mammoth-steppe",
+  "era": "iceage",
+  "year": -21500,
+  "dateLabel": "About 23,500 years ago",
+  "emoji": "🦣",
+  "cat": "nature",
+  "title": "Earth's Biggest Grassland",
+  "place": "Central Kazakhstan",
+  "lat": 48,
+  "lng": 68,
+  "text": "At the height of the ice age, a cold, dry grassland stretched from Spain across Central Asia and Siberia all the way to Canada's Yukon. Scientists call it the mammoth steppe, and it was the largest habitat on Earth. Woolly mammoths, wild horses, bison and woolly rhinos grazed across it. Almost nothing quite like it survives today.",
+  "source": {
+   "name": "Biological Reviews 2019, 'Climate-driven ecological stability as a globally shared cause of Late Quaternary megafaunal extinctions: the Plaids and Stripes Hypothesis'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7379602/"
+  },
+  "source2": {
+   "name": "PLOS ONE 2017 (University of Western Ontario / Government of Yukon), isotopic dynamics of southern Yukon soils and plants",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5559067/"
+  }
+ },
+ {
+  "id": "ia2-adams-bridge",
+  "era": "iceage",
+  "year": -20500,
+  "dateLabel": "About 22,500 years ago",
+  "emoji": "🌉",
+  "cat": "journeys",
+  "title": "Walking to Sri Lanka",
+  "place": "Adam's Bridge, India and Sri Lanka",
+  "lat": 9.12,
+  "lng": 79.52,
+  "text": "Adam's Bridge is a 48-kilometre chain of sandbanks and shoals between India and Sri Lanka, much of it less than a metre deep. Geologic evidence suggests it is what remains of a former land connection, exposed when Ice Age seas were lower. Tradition calls it Rama Setu, the causeway built by Rama's army in the epic Ramayana.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Adam's Bridge",
+   "url": "https://www.britannica.com/place/Adams-Bridge"
+  }
+ },
+ {
+  "id": "ia2-solutrean",
+  "era": "iceage",
+  "year": -21000,
+  "dateLabel": "About 23,000 years ago",
+  "emoji": "🍃",
+  "cat": "discovery",
+  "title": "Spear Points Thin as Leaves",
+  "place": "Solutré-Pouilly, France",
+  "lat": 46.3,
+  "lng": 4.72,
+  "text": "During the coldest part of the Ice Age, Solutrean toolmakers in France and Spain shaped stone into leaf-like 'laurel leaf' points. One unfinished point found in central Spain was made of stone from south-west France, 600 to 700 km away. Researchers think such pieces were swapped as special gifts to keep far-apart groups in touch.",
+  "source": {
+   "name": "Science Advances (Sánchez de la Torre et al. 2026), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12822654/"
+  }
+ },
+ {
+  "id": "ia2-kutikina",
+  "era": "iceage",
+  "year": -18500,
+  "dateLabel": "About 20,500 years ago",
+  "emoji": "🦘",
+  "cat": "daily",
+  "title": "The Most Southerly People on Earth",
+  "place": "Kutikina Cave, Tasmania, Australia",
+  "lat": -42.53,
+  "lng": 145.77,
+  "text": "During the last ice age, Aboriginal people living along the wild rivers of south-west Tasmania were the most southerly humans on Earth. Kutikina Cave is one of their sites. In the early 1980s a plan to dam the rivers set off Australia's largest conservation battle, ended by a High Court ruling in 1983. The cave has since been returned to the Aboriginal community.",
+  "source": {
+   "name": "Tasmania Parks and Wildlife Service",
+   "url": "https://parks.tas.gov.au/explore-our-parks/franklin-gordon-wild-rivers-national-park"
+  }
+ },
+ {
+  "id": "ia2-kharaneh",
+  "era": "iceage",
+  "year": -17000,
+  "dateLabel": "About 19,000 years ago",
+  "emoji": "⛺",
+  "cat": "daily",
+  "title": "A Desert Camp with Brushwood Huts",
+  "place": "Kharaneh IV, Jordan",
+  "lat": 31.72,
+  "lng": 36.45,
+  "text": "In what is now dry desert in Jordan, hunter-gatherers once camped beside a wetland. Around 19,000 years ago they built brushwood huts, among the oldest homes known in the region, hunted gazelles and collected seashells carried from distant coasts. The camp was big and busy enough that it may have been a seasonal meeting place for many groups.",
+  "source": {
+   "name": "PLOS ONE (Maher et al. 2012), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3280235"
+  }
+ },
+ {
+  "id": "ia2-wadi-kubbaniya",
+  "era": "iceage",
+  "year": -16500,
+  "dateLabel": "About 18,500 years ago",
+  "emoji": "🐟",
+  "cat": "daily",
+  "title": "Nile Campers Grinding Tubers",
+  "place": "Wadi Kubbaniya, Egypt",
+  "lat": 24.09,
+  "lng": 32.79,
+  "text": "In a big wadi beside the Nile north of Aswan, Ice Age people camped again and again as part of their seasonal round. Charred tubers of wild nut grass are the most common plant food found there, and grinding stones show plants were a key part of meals. Most of the animal bones are from fish, especially Nile catfish.",
+  "source": {
+   "name": "Antiquity Project Gallery (Banks et al.)",
+   "url": "https://antiquity.ac.uk/projgall/banks335"
+  },
+  "source2": {
+   "name": "PLOS ONE (Buckley et al. 2014), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4100759/"
+  }
+ },
+ {
+  "id": "ia2-lake-victoria",
+  "era": "iceage",
+  "year": -18000,
+  "dateLabel": "About 20,000 years ago",
+  "emoji": "🏜️",
+  "cat": "nature",
+  "title": "When Africa's Biggest Lake Dried Up",
+  "place": "Lake Victoria, Uganda",
+  "lat": -1,
+  "lng": 33,
+  "text": "Lake Victoria, today the largest lake in Africa, dried out completely for almost 4,000 years towards the end of the last ice age. It filled up again about 16,000 years ago. Yet it now holds as many as 500 kinds of cichlid fish, and scientists think they evolved in the short time since it refilled.",
+  "source": {
+   "name": "University of Bern",
+   "url": "https://www.uniaktuell.unibe.ch/2023/from_drought_to_diversity_the_rise_of_cichlids_in_lake_victoria/index_eng.html"
+  },
+  "source2": {
+   "name": "Science (Johnson et al. 1996), abstract via Europe PMC",
+   "url": "https://europepmc.org/article/MED/8688092"
+  }
+ },
+ {
+  "id": "ia2-afontova",
+  "era": "iceage",
+  "year": -15000,
+  "dateLabel": "About 17,000 years ago",
+  "emoji": "🧬",
+  "cat": "journeys",
+  "title": "Cousins of the First Americans",
+  "place": "Afontova Gora, Krasnoyarsk, Russia",
+  "lat": 56,
+  "lng": 92.85,
+  "text": "On the western bank of the Yenisei River, Ice Age people lived about 17,000 years ago. DNA from a man's arm bone and a female's tooth found here shows they were closely related to the much older Mal'ta boy from near Lake Baikal, whose people share ancestry with Native Americans.",
+  "source": {
+   "name": "Nature (Raghavan et al. 2014), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4105016/"
+  },
+  "source2": {
+   "name": "Nature (Fu et al. 2016), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4943878/"
+  }
+ },
+ {
+  "id": "ia2-tabon",
+  "era": "iceage",
+  "year": -14500,
+  "dateLabel": "About 16,500 years ago",
+  "emoji": "🐦",
+  "cat": "discovery",
+  "title": "The Tabon Cave Skull",
+  "place": "Tabon Caves, Palawan, Philippines",
+  "lat": 9.28,
+  "lng": 117.98,
+  "text": "In 1962, a team led by Robert Fox of the National Museum of the Philippines found part of a human forehead bone and two pieces of jawbone in a cave on Palawan. The forehead bone is about 16,500 years old, though other human bones from the cave turned out to be older. Tabon birds, which dig into the cave floor, had churned up the layers.",
+  "source": {
+   "name": "Comptes Rendus Palevol (Détroit et al. 2004), Muséum national d'Histoire naturelle",
+   "url": "https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/comptes-rendus-palevol2004v3f8a08.pdf"
+  }
+ },
+ {
+  "id": "ia2-missoula",
+  "era": "iceage",
+  "year": -14200,
+  "dateLabel": "About 18,000 to 15,000 years ago",
+  "emoji": "🌊",
+  "cat": "nature",
+  "title": "The Floods That Carved the Scablands",
+  "place": "Channeled Scablands, Washington, USA",
+  "lat": 47,
+  "lng": -118.5,
+  "text": "Again and again, an ice dam holding back Glacial Lake Missoula burst, sending water racing across what is now Washington State. Dozens of floods scoured out giant coulees and left huge ripple marks. Geologist J Harlen Bretz began studying the scablands in 1922 and argued for great floods, but his idea was dismissed for decades before it was accepted.",
+  "source": {
+   "name": "US National Park Service, Ice Age Floods National Geologic Trail",
+   "url": "https://www.nps.gov/iafl/learn/index.htm"
+  },
+  "source2": {
+   "name": "US National Park Service, Ice Age Floods: People",
+   "url": "https://www.nps.gov/iafl/learn/historyculture/people.htm"
+  }
+ },
+ {
+  "id": "ia2-bolling-allerod",
+  "era": "iceage",
+  "year": -12500,
+  "dateLabel": "About 14,500 years ago",
+  "emoji": "🌡️",
+  "cat": "nature",
+  "title": "The North Warms in a Few Decades",
+  "place": "Greenland Ice Sheet",
+  "lat": 72.58,
+  "lng": -38.46,
+  "text": "About 14,500 years ago, Earth's climate began to shift from a cold glacial world towards a warmer one. An ice core drilled in Greenland shows how sudden the change was there: weather patterns switched within one to three years, and the air warmed over about 50 years. A sharp cold snap, the Younger Dryas, later interrupted the warm-up.",
+  "source": {
+   "name": "Science (Steffensen et al. 2008), abstract via Europe PMC",
+   "url": "https://europepmc.org/article/MED/18566247"
+  },
+  "source2": {
+   "name": "NOAA National Centers for Environmental Information",
+   "url": "https://www.ncei.noaa.gov/sites/default/files/2021-11/3%20The%20Younger%20Dryas%20-FINAL%20NOV%20%281%29.pdf"
+  }
+ },
+ {
+  "id": "ia2-goughs-cave",
+  "era": "iceage",
+  "year": -12700,
+  "dateLabel": "About 14,700 years ago",
+  "emoji": "🥣",
+  "cat": "culture",
+  "title": "Cups Made from Skulls",
+  "place": "Gough's Cave, Cheddar, England",
+  "lat": 51.28,
+  "lng": -2.76,
+  "text": "About 14,700 years ago, people in Cheddar Gorge carefully cleaned and shaped human skulls into cups or bowls. Cut marks show it was skilled, deliberate work, probably part of a ritual. The same cave later gave up Cheddar Man, who lived around 10,000 years ago, the oldest almost complete skeleton of our species found in Britain.",
+  "source": {
+   "name": "Natural History Museum, London",
+   "url": "https://www.nhm.ac.uk/discover/the-cannibals-of-goughs-cave.html"
+  },
+  "source2": {
+   "name": "Natural History Museum, London (Cheddar Man)",
+   "url": "https://www.nhm.ac.uk/discover/cheddar-man-mesolithic-britain-blue-eyed-boy.html"
+  }
+ },
+ {
+  "id": "ia2-taima-taima",
+  "era": "iceage",
+  "year": -11500,
+  "dateLabel": "About 13,500 years ago",
+  "emoji": "🗡️",
+  "cat": "discovery",
+  "title": "Spear Points with a Mastodon",
+  "place": "Taima-Taima, Falcón, Venezuela",
+  "lat": 11.5,
+  "lng": -69.52,
+  "text": "Near Venezuela's Caribbean coast, a 1976 dig by a team including José Cruxent found El Jobo stone tools lying with the butchered bones of a young mastodon. At least 13,000 years old, the kill is older than North America's Clovis culture. The researchers concluded the El Jobo style grew up on its own in northern South America.",
+  "source": {
+   "name": "Science (Bryan, Casamiquela, Cruxent, Gruhn and Ochsenius 1978), abstract via Europe PMC",
+   "url": "https://europepmc.org/article/MED/17738722"
+  }
+ },
+ {
+  "id": "ia2-manis",
+  "era": "iceage",
+  "year": -11800,
+  "dateLabel": "About 13,800 years ago",
+  "emoji": "🦴",
+  "cat": "discovery",
+  "title": "A Bone Spear Tip in a Mastodon Rib",
+  "place": "Manis Mastodon Site, Sequim, Washington, USA",
+  "lat": 48.05,
+  "lng": -123.12,
+  "text": "At the Manis site in Washington State, a mastodon rib has the tip of a spear point stuck in it, and the point itself was carved from mastodon bone. Dated to about 13,800 years ago, it shows people were hunting these giants in the Pacific Northwest long before the Clovis culture.",
+  "source": {
+   "name": "Science (Waters et al. 2011), abstract via Europe PMC",
+   "url": "https://europepmc.org/article/MED/22021854"
+  }
+ },
+ {
+  "id": "ia2-jebel-sahaba",
+  "era": "iceage",
+  "year": -11500,
+  "dateLabel": "About 13,500 years ago",
+  "emoji": "🏹",
+  "cat": "power",
+  "title": "One of the Oldest Signs of War",
+  "place": "Jebel Sahaba, Sudan",
+  "lat": 21.98,
+  "lng": 31.33,
+  "text": "Beside the Nile, more than 60 men, women and children were buried in the oldest known cemetery in the Nile Valley, at least 13,400 years old. Many skeletons carry wounds and bits of stone weapons, some wounds healed, pointing to repeated raids rather than a single battle. A 2021 study suggests big climate swings drove the fighting.",
+  "source": {
+   "name": "Scientific Reports (Crevecoeur et al. 2021), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8159958/"
+  }
+ },
+ {
+  "id": "ia2-raqefet",
+  "era": "iceage",
+  "year": -11200,
+  "dateLabel": "About 13,000 years ago",
+  "emoji": "🍺",
+  "cat": "daily",
+  "title": "Graves Lined with Flowers",
+  "place": "Raqefet Cave, Mount Carmel, Israel",
+  "lat": 32.64,
+  "lng": 35.06,
+  "text": "In a cave on Mount Carmel, Natufian people lined graves with green and flowering plants such as Judean sage, between about 13,700 and 11,700 years ago. It is the earliest clear evidence of flowers used in burials. Stone mortars were cut into the cave floor beside the graves, and food remains hint at funeral feasts.",
+  "source": {
+   "name": "PNAS (Nadel et al. 2013), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3718103/"
+  }
+ },
+ {
+  "id": "ia2-arlington",
+  "era": "iceage",
+  "year": -11000,
+  "dateLabel": "About 13,000 years ago",
+  "emoji": "🏝️",
+  "cat": "journeys",
+  "title": "Island People Who Came by Boat",
+  "place": "Santa Rosa Island, California, USA",
+  "lat": 34.01,
+  "lng": -120.18,
+  "text": "In 1959, Phil Orr found part of a human thigh bone on Santa Rosa Island. About 13,000 years old, it is arguably the earliest dated human bone in North or South America. Because it was found on an island, it shows that people were already using boats along the California coast at that early date.",
+  "source": {
+   "name": "US National Park Service, Channel Islands National Park",
+   "url": "https://www.nps.gov/chis/learn/historyculture/arlington.htm"
+  }
+ },
+ {
+  "id": "ia2-iho-eleru",
+  "era": "iceage",
+  "year": -10800,
+  "dateLabel": "About 13,000 years ago",
+  "emoji": "💀",
+  "cat": "discovery",
+  "title": "A Puzzling Skull from Nigeria",
+  "place": "Iho Eleru, Ondo State, Nigeria",
+  "lat": 7.3,
+  "lng": 5.1,
+  "text": "In 1965, Thurstan Shaw's team dug up a skeleton in this rock shelter in south-western Nigeria. The skull, roughly 13,000 years old, has a long, low shape that mixes old and modern features, a hint that ancient human lineages lingered in West Africa surprisingly late.",
+  "source": {
+   "name": "PLOS ONE (Harvati et al. 2011), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3174138/"
+  }
+ },
+ {
+  "id": "ia2-fells-cave",
+  "era": "iceage",
+  "year": -10700,
+  "dateLabel": "About 12,700 years ago",
+  "emoji": "🐴",
+  "cat": "daily",
+  "title": "Big-Game Hunters at the Tip of the World",
+  "place": "Fell's Cave, Magallanes, Chile",
+  "lat": -52.05,
+  "lng": -70.05,
+  "text": "At Fell's Cave in far southern Patagonia, most of the animal bones left by early hunters come from Ice Age giants that are now extinct. Across the region, people using 'fishtail' spear points hunted native horses and giant ground sloths. By about 11,600 years ago, these big animals had all but vanished.",
+  "source": {
+   "name": "Science Advances (Prates, Medina and Perez 2025), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12487880/"
+  }
+ },
+ {
+  "id": "ia2-ahrensburg",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "About 12,000 years ago",
+  "emoji": "🏹",
+  "cat": "discovery",
+  "title": "Reindeer Hunters with Bows",
+  "place": "Stellmoor, Ahrensburg, Germany",
+  "lat": 53.66,
+  "lng": 10.27,
+  "text": "During the cold snap called the Younger Dryas, the Ahrensburgian people, the last reindeer hunters of northern Europe, roamed the plains of what is now northern Germany. At Stellmoor, near Ahrensburg, wooden arrows survived in the wet ground. Dated to about 12,000 to 11,000 years ago, they are the oldest direct evidence of the bow and arrow.",
+  "source": {
+   "name": "Scientific Reports (Nature Portfolio), 2023",
+   "url": "https://www.nature.com/articles/s41598-023-45554-w"
+  },
+  "source2": {
+   "name": "PLOS ONE via PubMed Central (Ahrensburgian reindeer hunters)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10156063/"
+  }
+ },
+ {
+  "id": "ia2-gwion-gwion",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "About 12,000 years ago",
+  "emoji": "🐝",
+  "cat": "culture",
+  "title": "Paintings Dated by Wasp Nests",
+  "place": "Kimberley, Western Australia",
+  "lat": -15.9,
+  "lng": 126.3,
+  "text": "In the Kimberley, finely painted human figures in ceremonial dress with long headdresses cover rock shelter walls. Dating paint is hard, so in 2020 scientists dated old mud-wasp nests lying over and under the paintings, suggesting most figures were painted about 12,000 years ago. The work was done with Traditional Owners, who use names such as Gwion Gwion for the figures.",
+  "source": {
+   "name": "Science Advances via PubMed Central (Finch et al. 2020)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7002160/"
+  },
+  "source2": {
+   "name": "ANSTO (Australian Nuclear Science and Technology Organisation)",
+   "url": "https://www.ansto.gov.au/news/dating-aboriginal-rock-art-using-mudwasp-nests"
+  }
+ },
+ {
+  "id": "ia2-baghor",
+  "era": "iceage",
+  "year": -9000,
+  "dateLabel": "About 11,000 years ago",
+  "emoji": "🔻",
+  "cat": "culture",
+  "title": "A Goddess Stone in the Son Valley",
+  "place": "Baghor, Sidhi, Madhya Pradesh, India",
+  "lat": 24.45,
+  "lng": 82.05,
+  "text": "At a late Stone Age tool site in the Son Valley, archaeologists found a natural triangular piece of sandstone, its layers forming triangles, set in a ring of stones about 11,000 years ago. The excavators suggested it was a shrine to Shakti, the female principle, because villagers nearby still keep and worship very similar stones today. It may be one of the oldest shrines in India.",
+  "source": {
+   "name": "Antiquity 57 (1983), Kenoyer, Clark, Pal & Sharma, 'An upper palaeolithic shrine in India?' (Cambridge Core abstract and editorial note)",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/an-upper-palaeolithic-shrine-in-india/37143141A4BE7260CBC015681CE04539"
+  },
+  "source2": {
+   "name": "J. Desmond Clark oral history, Regional Oral History Office, Bancroft Library, University of California, Berkeley (2002), full text via Internet Archive",
+   "url": "https://archive.org/details/archaeologist00clarrich"
+  }
+ },
+ {
+  "id": "ia2-hallan-cemi",
+  "era": "iceage",
+  "year": -9500,
+  "dateLabel": "About 11,500 years ago",
+  "emoji": "🐖",
+  "cat": "daily",
+  "title": "A Village That Started with Pigs",
+  "place": "Hallan Çemi, Batman, Turkey",
+  "lat": 38.22,
+  "lng": 41.24,
+  "text": "In southeastern Turkey, people settled into the oldest known permanent village in Anatolia, living in half-sunken huts on stone foundations. While sheep and goats are often thought to have come first, Hallan Çemi's earliest attempts at taming animals seem to have involved pigs. Villagers ate wild lentils, almonds and pistachios, and traded for obsidian and green copper ore from far away.",
+  "source": {
+   "name": "Penn Museum, Expedition Magazine (B. L. Peasnall, 'Intricacies of Hallan Çemi', 2002)",
+   "url": "https://www.penn.museum/sites/expedition/intricacies-of-hallan-cemi/"
+  }
+ },
+ {
+  "id": "ia2-ounjougou",
+  "era": "iceage",
+  "year": -9400,
+  "dateLabel": "About 11,400 years ago",
+  "emoji": "🏺",
+  "cat": "discovery",
+  "title": "Africa's First Pots",
+  "place": "Ounjougou, Mali",
+  "lat": 14.63,
+  "lng": -3.23,
+  "text": "In ravines at Ounjougou in Mali, archaeologists found pottery made before 9400 BCE, the earliest known in Africa. Very early pots are also known from East Asia. The first African pots appeared in a warm, wet period when the Sahara region was rich in wild grasses, and people probably used them to boil the seeds.",
+  "source": {
+   "name": "Antiquity (Cambridge University Press), Huysecom et al. 2009",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/emergence-of-pottery-in-africa-during-the-tenth-millennium-cal-bc-new-evidence-from-ounjougou-mali/EC383CF3E1B961102319433214C6E034"
+  }
+ },
+ {
+  "id": "ia2-star-carr",
+  "era": "iceage",
+  "year": -9300,
+  "dateLabel": "About 11,300 years ago",
+  "emoji": "🦌",
+  "cat": "culture",
+  "title": "Headdresses Made from Deer Skulls",
+  "place": "Star Carr, North Yorkshire, England",
+  "lat": 54.21,
+  "lng": -0.42,
+  "text": "Beside an ancient lake in Yorkshire, hunters about 11,000 years ago turned red deer skulls, antlers still attached, into headdresses. Twenty-four have been found, more than nine in ten of all those known from prehistoric Europe. They may have been ritual headgear or hunting disguises. Waterlogged ground preserved antler and other materials that normally rot away.",
+  "source": {
+   "name": "PLOS ONE (Little et al. 2016)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152136"
+  }
+ },
+ {
+  "id": "ia2-perak-man",
+  "era": "iceage",
+  "year": -9000,
+  "dateLabel": "About 11,000 years ago",
+  "emoji": "🐚",
+  "cat": "culture",
+  "title": "Perak Man, Buried with Care",
+  "place": "Gua Gunung Runtuh, Lenggong, Malaysia",
+  "lat": 5.1,
+  "lng": 100.97,
+  "text": "In a cave called Gua Gunung Runtuh in Malaysia's Lenggong Valley, archaeologists found Perak Man, Southeast Asia's oldest most complete human skeleton. He is radiocarbon dated to about 10,000 years ago. Other caves in the same limestone hill also hold prehistoric burials, part of a valley record of early people that stretches back nearly two million years.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1396"
+  }
+ },
+ {
+  "id": "ia2-nanzhuangtou",
+  "era": "iceage",
+  "year": -9500,
+  "dateLabel": "About 11,500 years ago",
+  "emoji": "🌾",
+  "cat": "daily",
+  "title": "Early Millet in Northern China",
+  "place": "Nanzhuangtou, Hebei, China",
+  "lat": 39.12,
+  "lng": 115.65,
+  "text": "About 35 kilometres west of Lake Baiyangdian lies one of the most important early Neolithic sites on the North China Plain, about 11,500 to 11,000 years old. Its people made pottery, kept dogs and ground plants on stone slabs. Starch grains on those grinding stones show they were already using millet, which may have been slowly turning into a farmed crop.",
+  "source": {
+   "name": "PNAS via PubMed Central (Yang et al. 2012)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3309722/"
+  },
+  "source2": {
+   "name": "Evolutionary Human Sciences 2024 via PMC",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11658956/"
+  }
+ },
+ {
+  "id": "ia2-nataruk",
+  "era": "iceage",
+  "year": -8400,
+  "dateLabel": "About 10,000 years ago",
+  "emoji": "🏞️",
+  "cat": "power",
+  "title": "A Clash by Lake Turkana",
+  "place": "Nataruk, Turkana, Kenya",
+  "lat": 2.71,
+  "lng": 36.14,
+  "text": "By a lagoon west of Lake Turkana, the remains of 27 people were found, including six children. Ten of the twelve most complete skeletons show signs of a violent death, and two men had stone tips lodged in their bones. Researchers in 2016 called it the earliest dated evidence of conflict between groups of hunter-gatherers.",
+  "source": {
+   "name": "University of Cambridge",
+   "url": "https://www.cam.ac.uk/research/news/evidence-of-a-prehistoric-massacre-extends-the-history-of-warfare"
+  },
+  "source2": {
+   "name": "Nature (Mirazón Lahr et al. 2016)",
+   "url": "https://www.nature.com/articles/nature16477"
+  }
+ },
+ {
+  "id": "ia2-ganj-dareh",
+  "era": "iceage",
+  "year": -8200,
+  "dateLabel": "About 10,200 years ago",
+  "emoji": "🐐",
+  "cat": "daily",
+  "title": "The First Goat Herders",
+  "place": "Ganj Dareh, Kermanshah, Iran",
+  "lat": 34.3,
+  "lng": 47.47,
+  "text": "In the Zagros Mountains of western Iran, villagers at Ganj Dareh were managing goats by about 8200 BCE, some of the earliest evidence of goat herding anywhere. Scientists spotted it from the bones: most males were eaten young while females were kept alive for breeding. DNA shows these goats were close relatives of the ancestors of later domestic goats.",
+  "source": {
+   "name": "PNAS via PubMed Central (Daly et al. 2021)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8237664/"
+  }
+ }
+]

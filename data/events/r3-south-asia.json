@@ -1,0 +1,1145 @@
+[
+ {
+  "id": "r3i-gondwana-named",
+  "era": "deep",
+  "year": -250000000,
+  "dateLabel": "More than 250 million years ago",
+  "emoji": "🌿",
+  "cat": "nature",
+  "title": "A Supercontinent Named for Indian Forests",
+  "place": "Gondwana region, India",
+  "lat": 22.5,
+  "lng": 80.5,
+  "text": "Long ago, India was joined to Africa, Antarctica, Australia and South America in one giant southern landmass, where Glossopteris plants grew widely. In 1885 the geologist Eduard Suess named it Gondwana-Land. He borrowed a name that Henry Medlicott had given in 1872 to rocks of a region in central India; in Sanskrit it means 'forested land of the Gonds'.",
+  "source": {
+   "name": "Geological Magazine (Cambridge University Press)",
+   "url": "https://www.cambridge.org/core/journals/geological-magazine/article/historical-account-of-how-continental-drift-and-plate-tectonics-provided-the-framework-for-our-current-understanding-of-palaeogeography/0C32B80E52ECBBBF07C1F5156582043F"
+  },
+  "source2": {
+   "name": "Freie Universität Berlin, Geosciences",
+   "url": "https://geo.fu-berlin.de/en/v/geolearning/gondwana/introduction/index.html"
+  }
+ },
+ {
+  "id": "r3i-barapasaurus",
+  "era": "deep",
+  "year": -185000000,
+  "dateLabel": "About 185 million years ago",
+  "emoji": "🦕",
+  "cat": "nature",
+  "title": "The Big-Legged Lizard",
+  "place": "Pochampally, Gadchiroli, India",
+  "lat": 18.9,
+  "lng": 80,
+  "text": "Barapasaurus was an early long-necked dinosaur, about 14 meters long, that lived in India in the Early Jurassic. Its name means 'big leg lizard'. It was named in 1975 by the Indian scientists Jain, Kutty, Roy-Chowdhury and Chatterjee.",
+  "collections": [
+   "dinosaur-hunter"
+  ],
+  "source": {
+   "name": "Natural History Museum, London (Dino Directory)",
+   "url": "https://www.nhm.ac.uk/discover/dino-directory/barapasaurus.html"
+  }
+ },
+ {
+  "id": "r3i-sanajeh",
+  "era": "deep",
+  "year": -67000000,
+  "dateLabel": "About 67 million years ago",
+  "emoji": "🐍",
+  "cat": "nature",
+  "title": "The Snake in the Dinosaur Nest",
+  "place": "Dholi Dungri, Gujarat, India",
+  "lat": 23.1,
+  "lng": 73.4,
+  "text": "In Gujarat, scientists found a fossil snake about 3.5 meters long, coiled around a dinosaur egg beside a crushed sauropod hatchling only 50 centimeters long. They named it Sanajeh, Sanskrit for 'ancient gape'. The scene suggests this snake raided dinosaur nesting grounds for baby giants, a dinner frozen in stone.",
+  "collections": [
+   "dinosaur-hunter",
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "PLoS Biology (Wilson et al. 2010, \"Predation upon hatchling dinosaurs by a new snake from the Late Cretaceous of India\")",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2830453/"
+  }
+ },
+ {
+  "id": "r3i-india-hits-asia",
+  "era": "deep",
+  "year": -50000000,
+  "dateLabel": "About 50 million years ago",
+  "emoji": "🏔️",
+  "cat": "nature",
+  "title": "India Crashes Into Asia",
+  "place": "Ladakh, India",
+  "lat": 34.15,
+  "lng": 77.58,
+  "text": "After racing north at 18 to 20 centimeters a year, unusually fast for a tectonic plate, India collided with Asia roughly 50 million years ago and slowed to about 5 centimeters a year. The slow-motion crash closed the old Tethys Sea and pushed up the Himalayas. According to the USGS, the range is still rising by more than a centimeter a year.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "Nature (Kumar et al. 2007, \"The rapid drift of the Indian tectonic plate\"), abstract",
+   "url": "https://doi.org/10.1038/nature06214"
+  },
+  "source2": {
+   "name": "U.S. Geological Survey (This Dynamic Earth: The Himalayas)",
+   "url": "https://pubs.usgs.gov/gip/dynamic/himalaya.html"
+  }
+ },
+ {
+  "id": "r3i-sivapithecus",
+  "era": "deep",
+  "year": -9000000,
+  "dateLabel": "About 9–9.5 million years ago",
+  "emoji": "🦧",
+  "cat": "discovery",
+  "title": "An Ancient Ape by the Tinau River",
+  "place": "Tinau River, Palpa, Nepal",
+  "lat": 27.8,
+  "lng": 83.5,
+  "text": "In 1983 scientists reported a fossil ape found at Tinau Khola, the Tinau River, in the Siwalik foothills of south-western Nepal. It is about 9 to 9.5 million years old. It resembles small apes of the same age from Pakistan and India, and it helped fill a gap on the map between ape fossils from north-western India and southern China.",
+  "collections": [
+   "becoming-human",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Munthe et al. 1983, Nature 303:331-333",
+   "url": "https://www.nature.com/articles/303331a0"
+  },
+  "source2": {
+   "name": "Nature abstract, Munthe et al. 1983 (read in browser)",
+   "url": "https://www.nature.com/articles/303331a0"
+  }
+ },
+ {
+  "id": "r3i-belilena",
+  "era": "iceage",
+  "year": -13000,
+  "dateLabel": "About 15,000 years ago",
+  "emoji": "🪨",
+  "cat": "daily",
+  "title": "Foundations in a Rainforest Cave",
+  "place": "Belilena Cave, Kitulgala, Sri Lanka",
+  "lat": 6.99,
+  "lng": 80.42,
+  "text": "Inside Belilena Cave in Sri Lanka's rainforest, archaeologists found the rubble base of a wall about 15,000 years old, one of only two structures known from prehistoric Sri Lanka. People here ate giant squirrels, tree snails and wild breadfruit. A tiny lagoon snail in layers about 21,000 years old suggests salt was traded from the coast over 80 kilometers away.",
+  "collections": [
+   "becoming-human"
+  ],
+  "source": {
+   "name": "S. U. Deraniyagala, 'The Prehistory and Protohistory of Sri Lanka' (Central Cultural Fund, 2007; digitized by archaeology.lk)",
+   "url": "https://noolaham.net/project/1025/102415/102415.pdf"
+  }
+ },
+ {
+  "id": "r3i-bhimbetka",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "About 10,000 BCE",
+  "emoji": "🎨",
+  "cat": "culture",
+  "title": "Paintings Under Bhimbetka's Rocks",
+  "place": "Bhimbetka, Madhya Pradesh, India",
+  "lat": 22.94,
+  "lng": 77.61,
+  "text": "In the forested foothills of central India's Vindhya Range, about 700 natural rock shelters hold one of India's largest collections of prehistoric art. The oldest paintings, large outlines of rhinoceroses and bears, date to the late Old Stone Age. Later artists added smaller scenes of animals and people, and painting carried on right into historical times.",
+  "collections": [
+   "becoming-human",
+   "masterpieces"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/925"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Bhimbetka-rock-shelters"
+  }
+ },
+ {
+  "id": "r3i-kalibangan-field",
+  "era": "ancient",
+  "year": -2800,
+  "dateLabel": "Early Harappan period, about 3200–2600 BCE",
+  "emoji": "🌾",
+  "cat": "daily",
+  "title": "The World's Oldest Ploughed Field",
+  "place": "Kalibangan, Rajasthan, India",
+  "lat": 29.47,
+  "lng": 74.13,
+  "text": "Outside the town wall of early Kalibangan, archaeologists uncovered a ploughed field, often called the earliest known in the world. Its furrows cross in a grid, closely spaced one way and widely spaced the other. Farmers nearby still plough like this to grow two crops in one field, a pulse in one direction and mustard in the other.",
+  "collections": [
+   "food-and-drink",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Harappa.com, quoting excavator B.K. Thapar (South Asian Archaeology, 1973)",
+   "url": "https://www.harappa.com/blog/worlds-earliest-known-ploughed-field"
+  },
+  "source2": {
+   "name": "Journal of World Prehistory (2017), C. A. Petrie & J. Bates, ''Multi-cropping', Intercropping and Adaptation to Variable Environments in Indus South Asia' (PMC full text)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6991972/"
+  }
+ },
+ {
+  "id": "r3i-dholavira-signboard",
+  "era": "ancient",
+  "year": -2200,
+  "dateLabel": "Between 2600 and 1900 BCE",
+  "emoji": "🪧",
+  "cat": "culture",
+  "title": "Dholavira's Giant Signboard",
+  "place": "Dholavira, Gujarat, India",
+  "lat": 23.89,
+  "lng": 70.21,
+  "text": "Near the north gate of the Indus city of Dholavira lay ten big symbols made of gypsum pieces, each about 37 centimeters tall. They were once set on a wooden board some 3 meters long that fell face-down; the wood rotted but the letters stayed in place. It is one of the longest Indus inscriptions known, and nobody can read it.",
+  "collections": [
+   "scripts-and-alphabets",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Harappa.com (J. M. Kenoyer & R. H. Meadow's Indus research site), 'Dholavira and Its Mysterious Sign Board' (citing Bisht 1998-99 and Frontline 2010)",
+   "url": "https://www.harappa.com/blog/dholavira-and-its-mysterious-sign-board"
+  }
+ },
+ {
+  "id": "r3i-vaishali-republic",
+  "era": "ancient",
+  "year": -550,
+  "dateLabel": "6th century BCE",
+  "emoji": "🏛️",
+  "cat": "power",
+  "title": "Sixteen Great Realms and a Republic",
+  "place": "Vaishali, Bihar, India",
+  "lat": 25.99,
+  "lng": 85.13,
+  "text": "Buddhist and Jain texts list sixteen 'great realms', the Mahajanapadas, including Gandhara in the northwest and Anga in the east. Some, such as Magadha and Kosala, were ruled by kings, but others had no monarch. The best known was the Vajji (Vrijji) confederacy, a league of eight or nine clans with its headquarters at Vaishali, which flourished in the time of the Buddha and Mahavira.",
+  "source": {
+   "name": "INFLIBNET e-PG Pathshala (University Grants Commission, India)",
+   "url": "https://ebooks.inflibnet.ac.in/icp01/chapter/mahajanapadas-rise-of-magadha-nandas-invasion-of-alexander/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Vaishali'",
+   "url": "https://www.britannica.com/place/Vaishali"
+  }
+ },
+ {
+  "id": "r3i-lumbini-pillar",
+  "era": "classical",
+  "year": -249,
+  "dateLabel": "About 249 BCE",
+  "emoji": "🪷",
+  "cat": "culture",
+  "title": "Ashoka Marks the Buddha's Birthplace",
+  "place": "Lumbini, Nepal",
+  "lat": 27.47,
+  "lng": 83.28,
+  "text": "Twenty years after he was crowned, Emperor Ashoka came to Lumbini and set up a stone pillar saying the Buddha was born here. He even cut the village's taxes to one-eighth of its harvest. Later forgotten, the pillar was rediscovered in 1896, and its inscription helped pin down the birthplace.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "National Geographic History",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/buddha-birthplace-yields-clues-about-mysterious-life"
+  },
+  "source2": {
+   "name": "Lumbini Development Trust (Government of Nepal)",
+   "url": "https://lumbinidevtrust.gov.np/en/lumbini/content/95/27/3"
+  }
+ },
+ {
+  "id": "r3i-mihintale-mahinda",
+  "era": "classical",
+  "year": -240,
+  "dateLabel": "3rd century BCE",
+  "emoji": "⛰️",
+  "cat": "culture",
+  "title": "A Monk Meets a King on the Mountain",
+  "place": "Mihintale, Sri Lanka",
+  "lat": 8.35,
+  "lng": 80.52,
+  "text": "Sri Lankan chronicles say Mahinda, a monk and son of Emperor Ashoka, arrived on a June full moon and met King Devanampiya Tissa on the hill of Mihintale. His preaching brought Buddhism to the island. Every year on Poson, the June full moon, crowds of pilgrims still climb Mihintale's long stone stairways to remember the meeting.",
+  "source": {
+   "name": "H.R. Perera, 'Buddhism in Sri Lanka: A Short History' (Buddhist Publication Society, Kandy), hosted by Access to Insight",
+   "url": "https://accesstoinsight.org/lib/authors/perera/wheel100.html"
+  },
+  "source2": {
+   "name": "The Sunday Times (Sri Lanka)",
+   "url": "https://www.sundaytimes.lk/170604/plus/visiting-the-cradle-of-buddhism-243068.html"
+  }
+ },
+ {
+  "id": "r3i-taxila-learning",
+  "era": "classical",
+  "year": -180,
+  "dateLabel": "3rd–2nd century BCE",
+  "emoji": "📜",
+  "cat": "culture",
+  "title": "Taxila, a City of Teachers",
+  "place": "Taxila, Pakistan",
+  "lat": 33.75,
+  "lng": 72.79,
+  "text": "Old Buddhist stories, the Jatakas, describe Taxila as a great centre of learning, where students studied the Vedas and many arts, from archery to medicine and surgery. It was not a university with lecture halls, but a city where teachers housed their own pupils. The royal adviser Chanakya studied there, and the city was later ruled by the Mauryas and then the Indo-Greeks.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Taxila' (Baij Nath Puri / Editors)",
+   "url": "https://www.britannica.com/place/Taxila"
+  },
+  "source2": {
+   "name": "G.P. Malalasekera, Dictionary of Pali Proper Names, 'Takkasilā' (hosted at palikanon.com)",
+   "url": "https://www.palikanon.com/english/pali_names/t/takkasilaa.htm"
+  }
+ },
+ {
+  "id": "r3i-hathigumpha",
+  "era": "classical",
+  "year": -60,
+  "dateLabel": "1st century BCE",
+  "emoji": "🐘",
+  "cat": "power",
+  "title": "A King's Life Carved in the Elephant Cave",
+  "place": "Udayagiri, Odisha, India",
+  "lat": 20.26,
+  "lng": 85.79,
+  "text": "In a cave called Hathigumpha, 'elephant cave', near Bhubaneswar, King Kharavela of Kalinga had seventeen lines carved telling his life story. They describe his military campaigns and public works, including extending a canal dug long before by a Nanda king. Though Kharavela followed Jainism, he called himself a worshipper of every religious sect.",
+  "collections": [
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "B.M. Barua, Old Brahmi Inscriptions (University of Calcutta, 1929), 'Inscription of Kharavela in the Hathigumpha' (hosted at wisdomlib.org)",
+   "url": "https://www.wisdomlib.org/history/book/old-brahmi-inscriptions/d/doc1883796.html"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'India' (Kalinga section, via 'Khāravela' entry)",
+   "url": "https://www.britannica.com/biography/Kharavela"
+  }
+ },
+ {
+  "id": "r3i-sushruta",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "Early centuries CE",
+  "emoji": "🩺",
+  "cat": "discovery",
+  "title": "Sushruta's Book of Surgery",
+  "place": "Varanasi, India",
+  "lat": 25.32,
+  "lng": 83.01,
+  "text": "The Sushruta Samhita, a Sanskrit medical book built up by many authors over centuries, describes surgery in amazing detail. It explains how to rebuild a cut-off nose using a flap of skin from the cheek. It also lists over a thousand illnesses and tells students to practice cutting on gourds and dead animals.",
+  "collections": [
+   "plagues-and-cures",
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Plastic and Reconstructive Surgery Global Open (2024), 'Sushruta: The Father of Indian Surgical History'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11000756/"
+  },
+  "source2": {
+   "name": "The Wire, Kiran Kumbhar (historian, Univ. of Pennsylvania), 'The History of Sushruta and the Famous Indian Nose Job'",
+   "url": "https://m.thewire.in/article/health/the-history-of-sushruta-and-the-famous-indian-nose-job"
+  }
+ },
+ {
+  "id": "r3i-sangam-poems",
+  "era": "classical",
+  "year": 200,
+  "dateLabel": "About 1st–4th century CE",
+  "emoji": "✒️",
+  "cat": "culture",
+  "title": "Tamil Poems of Love and War",
+  "place": "Madurai, India",
+  "lat": 9.93,
+  "lng": 78.12,
+  "text": "The Sangam poems are the oldest Tamil literature, traditionally said to come from literary academies in Madurai. Gathered into eight anthologies and a set of ten longer idylls, they sing of akam, love and inner feelings, and puram, heroism and the praise of kings. Their fresh, vivid style keeps them treasured classics.",
+  "collections": [
+   "books-and-bright-minds",
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Sangam literature'",
+   "url": "https://www.britannica.com/art/Sangam-literature"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Sangam literature'",
+   "url": "https://www.britannica.com/art/Sangam-literature"
+  }
+ },
+ {
+  "id": "r3i-kalidasa",
+  "era": "classical",
+  "year": 400,
+  "dateLabel": "About 400 CE",
+  "emoji": "☁️",
+  "cat": "culture",
+  "title": "Kalidasa Sends a Message by Cloud",
+  "place": "Ujjain, India",
+  "lat": 23.18,
+  "lng": 75.78,
+  "text": "Kalidasa is often called ancient India's greatest poet and playwright, probably writing in the Gupta era. His play Shakuntala is still performed today. In his poem Meghaduta, a lonely spirit asks a passing rain cloud to carry a message to his beloved, and even tells it not to skip the city of Ujjain.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Kalidasa'",
+   "url": "https://www.britannica.com/biography/Kalidasa"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Meghaduta'",
+   "url": "https://www.britannica.com/topic/Meghaduta"
+  }
+ },
+ {
+  "id": "r3i-chaturanga",
+  "era": "medieval",
+  "year": 550,
+  "dateLabel": "500s CE",
+  "emoji": "♟️",
+  "cat": "daily",
+  "title": "Chaturanga, Grandparent of Chess",
+  "place": "Northern India",
+  "lat": 27.05,
+  "lng": 79.92,
+  "text": "The first certain mention of chaturanga comes from India in the 500s. Its name means 'having four members', for the four divisions of an army: elephants, horses, chariots and foot soldiers. Played on an 8-by-8 board, it spread west through Persia and became chess, which is why the bishop's Persian and Arabic name, pil or fil, means 'elephant'.",
+  "collections": [
+   "inventions"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Chess: History'",
+   "url": "https://www.britannica.com/topic/chess/History"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica, 'Chess'",
+   "url": "https://www.iranicaonline.org/articles/chess/"
+  }
+ },
+ {
+  "id": "r3i-khajuraho",
+  "era": "medieval",
+  "year": 1000,
+  "dateLabel": "About 950–1050 CE",
+  "emoji": "🛕",
+  "cat": "culture",
+  "title": "The Temples of Khajuraho",
+  "place": "Khajuraho, India",
+  "lat": 24.85,
+  "lng": 79.93,
+  "text": "Kings of the Chandela dynasty built Khajuraho's temples between about 950 and 1050 CE. There were once about 85, but only around two dozen survive. Their soaring Nagara-style towers and richly carved walls are crowded with sculptures, a few of them famously erotic. They became a UNESCO World Heritage Site in 1986.",
+  "collections": [
+   "wonders-of-the-world",
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Khajuraho'",
+   "url": "https://www.britannica.com/place/Khajuraho"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Khajuraho Group of Monuments (via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/240"
+  }
+ },
+ {
+  "id": "r3i-chola-navy",
+  "era": "medieval",
+  "year": 1025,
+  "dateLabel": "1025",
+  "emoji": "⛵",
+  "cat": "power",
+  "title": "The Chola Navy Sails to Srivijaya",
+  "place": "Gangaikonda Cholapuram, India",
+  "lat": 11.21,
+  "lng": 79.45,
+  "text": "In 1025 the navy of the Chola emperor Rajendra I crossed the Bay of Bengal to raid Srivijaya, the sea power controlling the Strait of Malacca. The Cholas seized its capital, Palembang, captured its king and carried off his treasure; a Chola inscription at Thanjavur boasts of the city's 'golden gates'. Srivijaya never regained its old prosperity.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Kenneth R. Hall, Maritime Trade and State Development in Early Southeast Asia (University of Hawai'i Press, 1985), chs. 4 and 8 (open access on UH Press Manifold)",
+   "url": "https://manifold.uhpress.hawaii.edu/read/maritime-trade-and-state-development-in-early-southeast-asia"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Srivijaya empire'",
+   "url": "https://www.britannica.com/place/Srivijaya-empire"
+  }
+ },
+ {
+  "id": "r3i-parakrama-samudra",
+  "era": "medieval",
+  "year": 1160,
+  "dateLabel": "1153–1186",
+  "emoji": "💧",
+  "cat": "daily",
+  "title": "The Sea of King Parakramabahu",
+  "place": "Polonnaruwa, Sri Lanka",
+  "lat": 7.9,
+  "lng": 80.97,
+  "text": "Under King Parakramabahu I, an older reservoir from the 300s was enlarged with new sections into a giant artificial lake called Parakrama Samudra, the 'Sea of Parakrama'. It covers about 22 square kilometers, and its water still irrigates rice fields today. It is linked to a famous motto: let not one drop of rain reach the sea without being useful to people.",
+  "source": {
+   "name": "Food and Agriculture Organization of the United Nations (FAO)",
+   "url": "https://www.fao.org/4/T0028E/T0028E03.htm"
+  },
+  "source2": {
+   "name": "International Lake Environment Committee Foundation (ILEC), World Lake Database: Parakrama Samudra",
+   "url": "https://wldb.ilec.or.jp/Display/html/3562"
+  }
+ },
+ {
+  "id": "r3i-konark",
+  "era": "medieval",
+  "year": 1250,
+  "dateLabel": "About 1250",
+  "emoji": "☀️",
+  "cat": "culture",
+  "title": "A Stone Chariot for the Sun",
+  "place": "Konark, Odisha, India",
+  "lat": 19.89,
+  "lng": 86.09,
+  "text": "King Narasimha Deva I built the Konark Sun Temple around 1250 as a giant stone chariot for the sun god Surya. It has 24 carved wheels, each about 3 meters across, once pulled by seven stone horses, with carvings that refer to the seasons and months. European sailors called it the Black Pagoda and used it as a landmark along a coast known for shipwrecks.",
+  "collections": [
+   "wonders-of-the-world",
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Konark"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/246"
+  }
+ },
+ {
+  "id": "r3i-battuta-maldives",
+  "era": "medieval",
+  "year": 1343,
+  "dateLabel": "About 1343",
+  "emoji": "🏝️",
+  "cat": "journeys",
+  "title": "Ibn Battuta, Judge of the Maldives",
+  "place": "Malé, Maldives",
+  "lat": 4.18,
+  "lng": 73.51,
+  "text": "After a shipwreck off India wrecked his mission to China, the Moroccan traveler Ibn Battuta went to the Maldive Islands. Their rulers wanted a chief judge who knew Arabic and Islamic law, so they sent him gifts and made it hard to leave. He served as qadi, married into the ruling family and grew so involved in politics that he left for Sri Lanka.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Ibn Battuta'",
+   "url": "https://www.britannica.com/biography/Ibn-Battuta"
+  },
+  "source2": {
+   "name": "ORIAS, UC Berkeley, 'The Travels of Ibn Battuta: Escape from Delhi to the Maldive Islands and Sri Lanka: 1341-1344'",
+   "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta/journey/escape-delhi-maldive-islands-and-sri-lanka-1341-1344"
+  }
+ },
+ {
+  "id": "r3i-madhava",
+  "era": "medieval",
+  "year": 1400,
+  "dateLabel": "About 1350–1425",
+  "emoji": "➗",
+  "cat": "discovery",
+  "title": "Madhava Adds Up Forever",
+  "place": "Sangamagrama, near Kochi, India",
+  "lat": 10.34,
+  "lng": 76.21,
+  "text": "In Kerala, the astronomer Madhava of Sangamagrama found ways to write pi and sine as infinite series, sums that go on forever but home in on an exact value. That was centuries before similar results appeared in Europe. His work inspired a Kerala school of followers, such as Nilakantha and Jyesthadeva, who carried his ideas forward for generations.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "MacTutor History of Mathematics, University of St Andrews, 'Madhava of Sangamagramma'",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Madhava/"
+  },
+  "source2": {
+   "name": "MacTutor, University of St Andrews, 'An overview of Indian mathematics'",
+   "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Indian_mathematics/"
+  }
+ },
+ {
+  "id": "r3i-kabir",
+  "era": "medieval",
+  "year": 1450,
+  "dateLabel": "1400s",
+  "emoji": "🧵",
+  "cat": "culture",
+  "title": "Kabir, the Weaver Poet",
+  "place": "Varanasi, India",
+  "lat": 25.31,
+  "lng": 83.01,
+  "text": "Legend says baby Kabir was abandoned and then found and raised by a Muslim weaver in Varanasi. He grew up to compose sharp, simple couplets called dohe that attacked the empty rituals of Hindu and Muslim authorities alike. His songs entered the Sikh scripture, and many of his couplets are still commonly quoted by speakers of North Indian languages.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Kabir'",
+   "url": "https://www.britannica.com/biography/Kabir-Indian-mystic-and-poet"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Adi Granth'",
+   "url": "https://www.britannica.com/topic/Adi-Granth-Sikh-sacred-scripture"
+  }
+ },
+ {
+  "id": "r3i-kartarpur-langar",
+  "era": "exploration",
+  "year": 1520,
+  "dateLabel": "About 1520",
+  "emoji": "🍲",
+  "cat": "culture",
+  "title": "Guru Nanak at Kartarpur",
+  "place": "Kartarpur, Pakistan",
+  "lat": 32.09,
+  "lng": 75.02,
+  "text": "After vanishing while bathing in a river and reappearing days later, young Nanak returned saying, 'There is no Hindu, there is no Muslim.' Years of travel later, he settled in the village of Kartarpur, where the first Sikh community grew around him, singing his hymns together. Sikhs still keep langar, a free communal kitchen where anyone may eat regardless of religion, caste or gender.",
+  "collections": [
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Guru Nanak)",
+   "url": "https://www.britannica.com/biography/Guru-Nanak"
+  }
+ },
+ {
+  "id": "r3i-mirabai",
+  "era": "exploration",
+  "year": 1516,
+  "dateLabel": "From 1516",
+  "emoji": "🎶",
+  "cat": "culture",
+  "title": "Mirabai, the Princess Who Sang",
+  "place": "Chittorgarh, India",
+  "lat": 24.89,
+  "lng": 74.65,
+  "text": "Born into a Rajput royal family, Mirabai married the crown prince of Mewar in 1516, but her heart belonged to the god Krishna. Legends say her in-laws tried to poison her for her devotion and she survived. A huge number of hymns are credited to her, though scholars have traced only six to manuscripts from before 1700.",
+  "collections": [
+   "remarkable-women",
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Mira Bai)",
+   "url": "https://www.britannica.com/biography/Mira-Bai"
+  },
+  "source2": {
+   "name": "N. Melnikova, 'Mīrābāī—a Saint or a Rebel?', Cracow Indological Studies 20(2), 2018",
+   "url": "https://doi.org/10.12797/CIS.20.2018.02.03"
+  }
+ },
+ {
+  "id": "r3i-golden-temple",
+  "era": "exploration",
+  "year": 1604,
+  "dateLabel": "1604",
+  "emoji": "🙏",
+  "cat": "culture",
+  "title": "The Holy Book Comes to Amritsar",
+  "place": "Amritsar, India",
+  "lat": 31.62,
+  "lng": 74.88,
+  "text": "Guru Arjan, the fifth Sikh Guru, finished compiling the first Sikh scripture, the Adi Granth, and placed it in the temple at Amritsar in 1604. The temple has four entrances, a sign that people from all backgrounds are welcome. Today its free kitchen serves vegetarian meals to every visitor, whoever they are.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Golden Temple)",
+   "url": "https://www.britannica.com/topic/Golden-Temple"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Adi Granth)",
+   "url": "https://www.britannica.com/topic/Adi-Granth-Sikh-sacred-scripture"
+  }
+ },
+ {
+  "id": "r3i-punakha-dzong",
+  "era": "exploration",
+  "year": 1637,
+  "dateLabel": "1637–39",
+  "emoji": "🏯",
+  "cat": "power",
+  "title": "A Fortress Where Two Rivers Meet",
+  "place": "Punakha, Bhutan",
+  "lat": 27.58,
+  "lng": 89.86,
+  "text": "Ngawang Namgyal, the first leader to unite Bhutan, began Punakha Dzong in 1637, and the fortress-monastery was completed in 1639. It stands where the Pho Chhu and Mo Chhu rivers flow together and became the capital of his new state. Every king of Bhutan is crowned there, receiving sacred scarves from the stupa holding Ngawang Namgyal's remains.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre Tentative List (Dzongs: the centre of temporal and religious authorities)",
+   "url": "https://whc.unesco.org/en/tentativelists/5695/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Punakha)",
+   "url": "https://www.britannica.com/place/Punakha"
+  }
+ },
+ {
+  "id": "r3i-gol-gumbaz",
+  "era": "exploration",
+  "year": 1656,
+  "dateLabel": "1656",
+  "emoji": "🔊",
+  "cat": "culture",
+  "title": "The Dome That Echoes Back",
+  "place": "Bijapur, Karnataka, India",
+  "lat": 16.83,
+  "lng": 75.74,
+  "text": "Sultan Mohammad Adil Shah of Bijapur built himself a huge tomb whose dome, 44 meters across, was the largest unsupported dome in India. Work began late in his reign, and after his death in 1656 it was never completed as first intended. In its whispering gallery the faintest whisper carries across the dome, and a single sound can echo about 10 to 11 times.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "Metropolitan Museum of Art, Heilbrunn Timeline: 'Islamic Art of the Deccan'",
+   "url": "https://www.metmuseum.org/essays/islamic-art-of-the-deccan"
+  },
+  "source2": {
+   "name": "Archnet, Gol Gumbaz",
+   "url": "https://www.archnet.org/sites/3995"
+  }
+ },
+ {
+  "id": "r3i-calico",
+  "era": "exploration",
+  "year": 1700,
+  "dateLabel": "1700",
+  "emoji": "🧶",
+  "cat": "journeys",
+  "title": "Cloth Too Popular for England",
+  "place": "Kozhikode, Kerala, India",
+  "lat": 11.25,
+  "lng": 75.78,
+  "text": "Calico, a cotton cloth named after the port of Calicut, today's Kozhikode, became wildly fashionable in England once cheap Indian cottons arrived in bulk. To protect English manufacturers, Parliament passed the Calico Acts of 1700 and 1721, the second forbidding calico for clothing and home use. Repeal came in 1774, just as new machines let British cotton makers compete.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Western colonialism: The English'",
+   "url": "https://www.britannica.com/topic/Western-colonialism/The-English"
+  },
+  "source2": {
+   "name": "Abigail L. Swingen, 'Calico Madams and South Sea Cheats', Journal of British Studies 63:1 (2024), Cambridge University Press",
+   "url": "https://www.cambridge.org/core/journals/journal-of-british-studies/article/calico-madams-and-south-sea-cheats-global-trade-finance-and-popular-protest-in-early-hanoverian-england/A42541469AC2D07D56DB379D6B34EFAA"
+  }
+ },
+ {
+  "id": "r3i-jantar-mantar",
+  "era": "exploration",
+  "year": 1724,
+  "dateLabel": "1724",
+  "emoji": "📐",
+  "cat": "discovery",
+  "title": "Giant Stone Instruments in Delhi",
+  "place": "Delhi, India",
+  "lat": 28.63,
+  "lng": 77.22,
+  "text": "Maharaja Jai Singh II of Jaipur loved astronomy, so he built five observatories across India. The one in Delhi was completed around 1724. Its instruments are giant masonry structures, like the Samrat Yantra, a sundial about 70 feet tall. He built them because he found existing instruments too small to take correct measurements of the sky.",
+  "collections": [
+   "star-gazers"
+  ],
+  "source": {
+   "name": "Delhi Tourism (Government of NCT of Delhi): Jantar Mantar",
+   "url": "https://delhitourism.gov.in/tourist_place/jantar_mantar.html"
+  },
+  "source2": {
+   "name": "NASA Sun-Earth Day 2005: Jantar Mantar",
+   "url": "https://science.gsfc.nasa.gov/attic/sunearthday.nasa.gov/2005/locations/jantar_mantar.htm"
+  }
+ },
+ {
+  "id": "r3i-nepal-unification",
+  "era": "exploration",
+  "year": 1769,
+  "dateLabel": "1769",
+  "emoji": "🗡️",
+  "cat": "power",
+  "title": "Gorkha Takes the Kathmandu Valley",
+  "place": "Kathmandu, Nepal",
+  "lat": 27.7,
+  "lng": 85.32,
+  "text": "King Prithvi Narayan Shah of little Gorkha spent decades conquering neighboring hill principalities. The Malla kings of Nepal Valley, now called the Kathmandu Valley, were weakened by family quarrels and no match for him. He conquered the valley in 1769, then moved his capital to Kathmandu, laying the foundation for the modern state of Nepal.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Prithvi Narayan Shah",
+   "url": "https://www.britannica.com/biography/Prithvi-Narayan-Shah"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Nepal: History'",
+   "url": "https://www.britannica.com/place/Nepal/History"
+  }
+ },
+ {
+  "id": "r3i-great-survey",
+  "era": "industrial",
+  "year": 1802,
+  "dateLabel": "April 10, 1802",
+  "emoji": "📏",
+  "cat": "discovery",
+  "title": "Measuring India, One Triangle at a Time",
+  "place": "Chennai, India",
+  "lat": 13,
+  "lng": 80.2,
+  "text": "On April 10, 1802, William Lambton laid out a baseline near Madras, starting the Great Trigonometrical Survey of India. Teams hauled huge theodolites across the land, mapping it in chains of triangles for decades. By 1852 the survey had shown that Peak XV, later called Everest, was the highest mountain on Earth, using calculations by Radhanath Sikdar, a Calcutta-born mathematician whose job title was 'computer'.",
+  "source": {
+   "name": "Royal Society blog, 'Mapping India' (2023)",
+   "url": "https://royalsociety.org/blog/2023/09/mapping-india/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Mount Everest",
+   "url": "https://www.britannica.com/place/Mount-Everest"
+  }
+ },
+ {
+  "id": "r3i-harappa-railway",
+  "era": "industrial",
+  "year": 1873,
+  "dateLabel": "By 1873",
+  "emoji": "🚂",
+  "cat": "discovery",
+  "title": "A Railway Built on Harappa",
+  "place": "Harappa, Pakistan",
+  "lat": 30.63,
+  "lng": 72.86,
+  "text": "By 1873, when Alexander Cunningham dug at Harappa, railway contractors had already carted away bricks from its ancient mounds as ballast for the Lahore and Multan Railway. He estimated the ruins supplied enough for about 100 miles of track. Nobody yet knew these bricks were around 4,500 years old, made by a forgotten Indus civilization.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Harappa.com (J.M. Kenoyer, R. Meadow), Cunningham's 1853-1873 report",
+   "url": "https://www.harappa.com/content/sir-alexander-cunningham-1853-1873"
+  },
+  "source2": {
+   "name": "Harappa.com (Kenoyer & Meadow), Cunningham's 1872-73 ASI report",
+   "url": "https://www.harappa.com/content/sir-alexander-cunningham-1853-1873"
+  }
+ },
+ {
+  "id": "r3i-rani-jhansi",
+  "era": "industrial",
+  "year": 1858,
+  "dateLabel": "June 1858",
+  "emoji": "⚔️",
+  "cat": "power",
+  "title": "The Rani of Jhansi's Last Stand",
+  "place": "Gwalior, India",
+  "lat": 26.23,
+  "lng": 78.17,
+  "text": "When her husband died, the British refused to accept the boy he had adopted as heir and took over Jhansi. During the 1857 uprising, Rani Lakshmibai became one of the rebellion's leaders. After British troops stormed Jhansi, she escaped (legend says by leaping from the fort on horseback), fought on, and died in battle near Gwalior in June 1858.",
+  "collections": [
+   "remarkable-women",
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "National Army Museum, 'Decisive events of the Indian Rebellion'",
+   "url": "https://www.nam.ac.uk/explore/decisive-events-indian-mutiny"
+  },
+  "source2": {
+   "name": "National Army Museum, 'Why did the Indian Rebellion happen?'",
+   "url": "https://www.nam.ac.uk/explore/why-did-indian-mutiny-happen"
+  }
+ },
+ {
+  "id": "r3i-ceylon-tea",
+  "era": "industrial",
+  "year": 1867,
+  "dateLabel": "1867",
+  "emoji": "🍵",
+  "cat": "daily",
+  "title": "Sri Lanka's First Tea Garden",
+  "place": "Loolecondera, Sri Lanka",
+  "lat": 7.2,
+  "lng": 80.72,
+  "text": "Scottish planter James Taylor planted tea on just 19 acres of the Loolecondera estate near Kandy in 1867, copying the way Assam planters in India processed the leaves. Two years later, a fungus called coffee rust began ruining the island's coffee farms, and planters rushed to tea instead. By 1899 nearly 400,000 acres of Ceylon were under tea.",
+  "collections": [
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Sri Lanka Tea Board, 'Story of Ceylon Tea'",
+   "url": "https://pureceylontea.com/story/"
+  },
+  "source2": {
+   "name": "Molecular Plant Pathology (2017), Talhinhas et al., 'The coffee leaf rust pathogen Hemileia vastatrix', PMC6638270",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6638270/"
+  }
+ },
+ {
+  "id": "r3i-vivekananda-chicago",
+  "era": "industrial",
+  "year": 1893,
+  "dateLabel": "September 11, 1893",
+  "emoji": "🎤",
+  "cat": "culture",
+  "title": "'Sisters and Brothers of America'",
+  "place": "Chicago, United States",
+  "lat": 41.88,
+  "lng": -87.62,
+  "text": "A young Indian monk named Swami Vivekananda traveled to Chicago for the Parliament of the World's Religions. He opened his speech to a crowd of nearly seven thousand with 'Sisters and brothers of America!' and later wrote that two minutes of deafening applause followed. His talks helped introduce Hindu philosophy and yoga to many Westerners.",
+  "source": {
+   "name": "Smithsonian National Museum of Asian Art, September 11, 1893",
+   "url": "https://asia-archive.si.edu/september-11-1893/"
+  },
+  "source2": {
+   "name": "CBS Chicago, Exhibit of Sept. 11, 1893, speech on tolerance returns to Art Institute of Chicago",
+   "url": "https://www.cbsnews.com/chicago/news/sept-11-1893-speech-art-institute-exhibit-swami-vivekananda/"
+  }
+ },
+ {
+  "id": "r3i-raja-harishchandra",
+  "era": "industrial",
+  "year": 1913,
+  "dateLabel": "May 1913",
+  "emoji": "🎬",
+  "cat": "culture",
+  "title": "India's First Feature Film",
+  "place": "Mumbai, India",
+  "lat": 18.95,
+  "lng": 72.82,
+  "text": "Dadasaheb Phalke decided to make movies after watching a silent film about the life of Christ. His silent film Raja Harishchandra, generally regarded as India's first full-length feature, opened to the public in May 1913, with intertitles in English and Hindi. Women shunned film acting then, so a young male actor played the queen.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica: Dadasaheb Phalke",
+   "url": "https://www.britannica.com/biography/Dadasaheb-Phalke"
+  },
+  "source2": {
+   "name": "Screening the Past (La Trobe University journal): P.K. Nair, 'In the Age of Silence - Beginnings of Cinema in India'",
+   "url": "https://www.screeningthepast.com/issue-6-classics-re-runs/in-the-age-of-silence-beginnings-of-cinema-in-india/"
+  }
+ },
+ {
+  "id": "r3i-ramanujan-letter",
+  "era": "industrial",
+  "year": 1913,
+  "dateLabel": "January 16, 1913",
+  "emoji": "✉️",
+  "cat": "discovery",
+  "title": "A Clerk's Letter Full of Formulas",
+  "place": "Chennai, India",
+  "lat": 13.08,
+  "lng": 80.27,
+  "text": "Srinivasa Ramanujan, a clerk at the Madras Port Trust, wrote to the Cambridge mathematician G. H. Hardy on 16 January 1913, enclosing a long list of unproved theorems. At first some at Cambridge wondered whether it was a hoax, but Hardy decided the formulas could only come from 'a mathematician of the highest class'. Ramanujan also left notebooks filled with theorems.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "MacTutor History of Mathematics (University of St Andrews): Srinivasa Ramanujan",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ramanujan/"
+  },
+  "source2": {
+   "name": "Institute of Mathematical Sciences, Chennai: E. H. Neville, 'From obscurity to fame' (Ramanujan memoir)",
+   "url": "https://www.imsc.res.in/%7Erao/ramanujan/newnow/nevilletodews.htm"
+  }
+ },
+ {
+  "id": "r3i-raman-effect",
+  "era": "modern",
+  "year": 1928,
+  "dateLabel": "February 28, 1928",
+  "emoji": "🌈",
+  "cat": "discovery",
+  "title": "Light Changes Color: The Raman Effect",
+  "place": "Kolkata, India",
+  "lat": 22.57,
+  "lng": 88.36,
+  "text": "Wondering why the Mediterranean looked so blue on a sea voyage, C. V. Raman began studying how light scatters. In Calcutta on February 28, 1928, he and his colleagues confirmed that a little scattered light changes its wavelength. The discovery won Raman the 1930 Nobel Prize in Physics, and India now celebrates February 28 as National Science Day.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "NobelPrize.org, C. V. Raman Biographical",
+   "url": "https://www.nobelprize.org/prizes/physics/1930/raman/biographical/"
+  },
+  "source2": {
+   "name": "NobelPrize.org, Raman Nobel Lecture (1930)",
+   "url": "https://www.nobelprize.org/prizes/physics/1930/raman/lecture/"
+  }
+ },
+ {
+  "id": "r3i-language-movement",
+  "era": "modern",
+  "year": 1952,
+  "dateLabel": "February 21, 1952",
+  "emoji": "🗣️",
+  "cat": "power",
+  "title": "Dying for the Bengali Language",
+  "place": "Dhaka, Bangladesh",
+  "lat": 23.73,
+  "lng": 90.39,
+  "text": "Pakistan's government wanted Urdu as the only national language, though most people in East Bengal spoke Bengali. On February 21, 1952, students at Dhaka University defied a ban and marched, and police shot dead several protesters. Bengali won official status in 1956, and UNESCO now marks February 21 as International Mother Language Day.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Banglapedia (Asiatic Society of Bangladesh), 'Language Movement'",
+   "url": "https://en.banglapedia.org/index.php/Language_Movement"
+  }
+ },
+ {
+  "id": "r3i-sirimavo",
+  "era": "modern",
+  "year": 1960,
+  "dateLabel": "July 1960",
+  "emoji": "🗳️",
+  "cat": "power",
+  "title": "The World's First Woman Prime Minister",
+  "place": "Colombo, Sri Lanka",
+  "lat": 6.93,
+  "lng": 79.85,
+  "text": "After her husband, Ceylon's prime minister, was assassinated in 1959, Sirimavo Bandaranaike was persuaded to lead his party. Some newspapers called her the 'Weeping Widow' because she wept at rallies, but she won the July 1960 election and became the first woman in the world democratically elected prime minister. She went on to serve three terms.",
+  "collections": [
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Sirimavo Bandaranaike'",
+   "url": "https://www.britannica.com/biography/Sirimavo-Bandaranaike"
+  },
+  "source2": {
+   "name": "Daily Mirror (Sri Lanka), D.B.S. Jeyaraj, 'The Weeping Widow who Became the World's First Woman Prime Minister' (2025)",
+   "url": "https://www.dailymirror.lk/opinion/The-Weeping-Widow-who-Became-the-Worlds-First-Woman-Prime-Minister/172-315229"
+  }
+ },
+ {
+  "id": "r3i-aryabhata-satellite",
+  "era": "modern",
+  "year": 1975,
+  "dateLabel": "April 19, 1975",
+  "emoji": "🛰️",
+  "cat": "discovery",
+  "title": "India's First Satellite",
+  "place": "Bengaluru, India",
+  "lat": 12.97,
+  "lng": 77.59,
+  "text": "Built by ISRO, India's space agency, the satellite Aryabhata was launched on April 19, 1975, aboard a Soviet rocket. It was named after the great ancient astronomer. A power failure ended its experiments after just four days, but India had joined the space age, and the satellite appeared on two-rupee notes for over twenty years.",
+  "collections": [
+   "star-gazers"
+  ],
+  "source": {
+   "name": "U R Rao Satellite Centre (ISRO), 'Aryabhata'",
+   "url": "https://www.ursc.gov.in/experimental-satellites/html/aryabhata.jsp"
+  },
+  "source2": {
+   "name": "NASA HEASARC, 'The Aryabhata satellite'",
+   "url": "https://heasarc.gsfc.nasa.gov/docs/heasarc/missions/aryabhata.html"
+  }
+ },
+ {
+  "id": "r3i-bhopal",
+  "era": "modern",
+  "year": 1984,
+  "dateLabel": "December 3, 1984",
+  "emoji": "☣️",
+  "cat": "daily",
+  "title": "The Bhopal Gas Disaster",
+  "place": "Bhopal, India",
+  "lat": 23.26,
+  "lng": 77.41,
+  "text": "Overnight on December 2–3, 1984, toxic methyl isocyanate gas leaked from a pesticide plant run by Union Carbide India in Bhopal. Nearly half a million people were exposed as the cloud drifted over sleeping neighborhoods. Thousands died, and it is often called the world's worst industrial disaster. Its harm to survivors’ health lasted for decades.",
+  "source": {
+   "name": "NPR Goats and Soda, 'The world's worst industrial disaster harmed people even before they were born' (2023)",
+   "url": "https://www.npr.org/sections/goatsandsoda/2023/06/17/1181244389/the-worlds-worst-industrial-disaster-harmed-people-even-before-they-were-born"
+  },
+  "source2": {
+   "name": "PMC, 'Mental health of survivors of 1984 Bhopal disaster' (Indian J Psychiatry)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4361985/"
+  }
+ },
+ {
+  "id": "r3i-cricket-1996",
+  "era": "modern",
+  "year": 1996,
+  "dateLabel": "March 17, 1996",
+  "emoji": "🏏",
+  "cat": "daily",
+  "title": "Sri Lanka Wins the World Cup in Lahore",
+  "place": "Lahore, Pakistan",
+  "lat": 31.51,
+  "lng": 74.33,
+  "text": "In the 1996 Cricket World Cup final, played under floodlights at Lahore's Gaddafi Stadium, Sri Lanka faced mighty Australia. Chasing 242, Aravinda de Silva smashed 107 not out, and Sri Lanka won by seven wickets with 22 balls to spare. It was a giant moment for a small island nation and for cricket across South Asia.",
+  "source": {
+   "name": "ESPNcricinfo, full scorecard, Wills World Cup Final 1996",
+   "url": "https://www.espncricinfo.com/series/wills-world-cup-1995-96-60981/australia-vs-sri-lanka-final-65192/full-scorecard"
+  }
+ },
+ {
+  "id": "r3i-nepal-quake",
+  "era": "modern",
+  "year": 2015,
+  "dateLabel": "April 25, 2015",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "The Gorkha Earthquake",
+  "place": "Kathmandu, Nepal",
+  "lat": 27.7,
+  "lng": 85.31,
+  "text": "Just before noon on April 25, 2015, a magnitude 7.8 earthquake struck northwest of Kathmandu, killing about 9,000 people. It wrecked buildings across the Kathmandu Valley, including parts of the famous Taleju Temple, and brought down the entire nine-story Dharahara tower. It also set off an avalanche that killed around 20 people at Everest Base Camp, the deadliest day ever on the mountain.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica: Nepal earthquake of 2015",
+   "url": "https://www.britannica.com/topic/Nepal-earthquake-of-2015"
+  },
+  "source2": {
+   "name": "USGS Earthquake Hazards Program: Today in Earthquake History (Apr 25)",
+   "url": "https://earthquake.usgs.gov/learn/today/index.php?month=4&day=25"
+  }
+ },
+ {
+  "id": "r3i-maha-kumbh",
+  "era": "modern",
+  "year": 2025,
+  "dateLabel": "January–February 2025",
+  "emoji": "🛶",
+  "cat": "culture",
+  "title": "The Biggest Crowd on Earth",
+  "place": "Prayagraj, India",
+  "lat": 25.43,
+  "lng": 81.88,
+  "text": "The Kumbh Mela is a Hindu pilgrimage held in a roughly 12-year cycle linked to the orbit of Jupiter. At Prayagraj in 2025, officials reported about 660 million visits, making it the largest gathering ever recorded. Pilgrims take a ritual dip where rivers meet to cleanse their sins, though a deadly crowd crush in January was a tragic reminder of the risks.",
+  "source": {
+   "name": "Press Information Bureau, Govt of India: Mahakumbh 2025 - A Spectacle of Faith, Unity, and Tradition",
+   "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2106476&reg=48&lang=2"
+  },
+  "source2": {
+   "name": "PBS NewsHour: At least 30 people killed in a stampede at massive Maha Kumbh festival",
+   "url": "https://www.pbs.org/newshour/world/at-least-30-people-killed-in-a-stampede-at-massive-maha-kumbh-festival-indian-police-say"
+  }
+ },
+ {
+  "id": "r3i-adichanallur-urns",
+  "era": "ancient",
+  "year": -800,
+  "dateLabel": "About 905–696 BCE",
+  "emoji": "⚱️",
+  "cat": "culture",
+  "title": "The Urn Burials of Adichanallur",
+  "place": "Adichanallur, Tamil Nadu, India",
+  "lat": 8.63,
+  "lng": 77.87,
+  "text": "In southern Tamil Nadu, archaeologists in 2004 unearthed 169 clay urns holding human skeletons. Carbon dating later placed samples from the site between about 905 and 696 BCE. The burial ground lies about 25 kilometers from Korkai, an ancient seaport mentioned in early Tamil Sangam poetry.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "The News Minute, 'Adichanallur: A brief history on one of the oldest archaeological sites in India' (interviews ASI excavation director T. Sathyamurthy)",
+   "url": "https://www.thenewsminute.com/tamil-nadu/adichanallur-brief-history-one-oldest-archaeological-sites-india-134150"
+  }
+ },
+ {
+  "id": "r3i-gargi",
+  "era": "ancient",
+  "year": -700,
+  "dateLabel": "About 800–500 BCE",
+  "emoji": "🗣️",
+  "cat": "culture",
+  "title": "Gargi Questions the Sage",
+  "place": "Mithila region, India",
+  "lat": 26.35,
+  "lng": 86.07,
+  "text": "According to the Brihadaranyaka Upanishad, King Janaka of Videha offered 1,000 cows, each decorated with gold, to the wisest scholar at his gathering. The philosopher Gargi Vachaknavi stood up and challenged the famous sage Yajnavalkya with puzzling questions about atman, the soul. She is remembered as one of the most brilliant women of the Upanishads.",
+  "collections": [
+   "remarkable-women",
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Brihadaranyaka Upanishad with Shankara's commentary, tr. Swami Madhavananda (Advaita Ashrama), sections 3.1.1 and 3.6.1 (full text via Internet Archive)",
+   "url": "https://archive.org/details/brihadaranyaka-upanishad-madhavananda-rkm"
+  }
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "v10-gnathovorax-jaw-devourer",
+  "era": "deep",
+  "year": -233000000,
+  "dateLabel": "About 233 million years ago",
+  "cat": "nature",
+  "title": "The Early Dinosaur Built to Devour",
+  "place": "Marchezan site, São João do Polêsine, Rio Grande do Sul, Brazil",
+  "lat": -29.62,
+  "lng": -53.45,
+  "text": "In the red rocks of southern Brazil, scientists found an almost complete skeleton of one of the earliest meat-eating dinosaurs, about 233 million years old. They named it Gnathovorax, roughly 'inclined to devour with the jaws.' A scan of its braincase showed a well-developed part of the cerebellum linked to steadying the eyes and head, a handy tool for a hunter with blade-like claws.",
+  "source": {
+   "name": "PeerJ (via PMC): Gnathovorax cabreirai, a new early dinosaur and the origin and initial radiation of predatory dinosaurs",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6844243/"
+  }
+ },
+ {
+  "id": "v10-mussaurus-crawling-babies",
+  "era": "deep",
+  "year": -195000000,
+  "dateLabel": "Early Jurassic, about 195 million years ago",
+  "cat": "nature",
+  "title": "Baby Dinosaurs That Started on All Fours",
+  "place": "El Tranquilo, Santa Cruz Province, Argentina",
+  "lat": -48.4,
+  "lng": -68.9,
+  "text": "Mussaurus hatchlings from Patagonia weighed about 60 grams, light as an egg, yet adults grew past a tonne. By modelling skeletons of every age, researchers found the babies walked on four legs, then rose onto two as they grew. The switch came as the tail lengthened and the head and neck shrank in proportion, shifting the body's balance point back toward the hips.",
+  "source": {
+   "name": "Scientific Reports (via PMC): Ontogenetic changes in the body plan of Mussaurus patagonicus",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6527699/"
+  }
+ },
+ {
+  "id": "v10-caiuajara-desert-colony",
+  "era": "deep",
+  "year": -85000000,
+  "dateLabel": "About 85 million years ago",
+  "cat": "nature",
+  "title": "A Pterosaur Colony by a Desert Lake",
+  "place": "Cruzeiro do Oeste, Paraná, Brazil",
+  "lat": -23.78,
+  "lng": -53.07,
+  "text": "Outside a small town in Paraná, a patch of sandstone under 20 square metres held hundreds of pterosaur bones, from at least 47 animals. Caiuajara dobruskii lived in colonies around an oasis lake in a Cretaceous desert, and storms later washed their remains together. Most were youngsters, and their bodies barely changed as they grew, hinting that they could fly very young.",
+  "source": {
+   "name": "PLOS ONE: Manzig et al. 2014, Caiuajara dobruskii, a new tapejarid pterosaur from a Cretaceous desert bone bed in Brazil",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0100005"
+  }
+ },
+ {
+  "id": "v10-purussaurus-bite",
+  "era": "deep",
+  "year": -8000000,
+  "dateLabel": "About 8 million years ago",
+  "cat": "nature",
+  "title": "The Caiman With a Seven-Tonne Bite",
+  "place": "Alto Acre, Assis Brasil, Acre, Brazil",
+  "lat": -10.94,
+  "lng": -69.57,
+  "text": "Purussaurus brasiliensis, a giant caiman of Miocene Amazonia, reached about 12.5 metres and 8.4 tonnes, judging from a skull 1.4 metres long found in Acre. Scientists estimated its bite at about 69,000 newtons, roughly seven tonnes of force. It could tackle giant turtles and big plant-eaters, but as the Andes rose and the modern Amazon formed, its swampy world disappeared.",
+  "source": {
+   "name": "PLOS ONE: Aureliano et al. 2015, body size, bite force and paleobiology of Purussaurus brasiliensis",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0117944"
+  }
+ },
+ {
+  "id": "v10-stupendemys-horned-turtle",
+  "era": "deep",
+  "year": -10000000,
+  "dateLabel": "About 10 million years ago",
+  "cat": "nature",
+  "title": "A Car-Sized Turtle With Fighting Horns",
+  "place": "Urumaco, Falcón, Venezuela",
+  "lat": 11.2,
+  "lng": -70.26,
+  "text": "Stupendemys geographicus roamed the vast Miocene wetlands of northern South America. A shell from Urumaco measured about 2.86 metres, and the animal weighed around 1,145 kilograms, twice a leatherback. Some shells carry big forward horns, probably on males that fought each other. One Venezuelan shell still has a giant caiman's tooth stuck in it, likely from an attack by Purussaurus.",
+  "source": {
+   "name": "Science Advances (via PMC): The anatomy, paleobiology, and evolutionary relationships of the largest extinct side-necked turtle",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7015691/"
+  }
+ },
+ {
+  "id": "v10-amazon-sea-incursions",
+  "era": "deep",
+  "year": -14000000,
+  "dateLabel": "About 14 million years ago",
+  "cat": "nature",
+  "title": "When the Caribbean Flooded the Amazon",
+  "place": "Llanos Basin, eastern Colombia",
+  "lat": 4,
+  "lng": -71,
+  "text": "Deep drill cores from Colombia's Llanos Basin and Brazil's western Amazon show the sea pushed into the heart of South America at least twice during the Miocene. The longer flood, from about 16 to 12 million years ago, came in from the Caribbean. Its proof is tiny: a shark tooth, a burrowing mantis shrimp and marine plankton buried in layers of mud.",
+  "source": {
+   "name": "Science Advances (via PMC): Miocene flooding events of western Amazonia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5415333/"
+  }
+ },
+ {
+  "id": "v10-coro-sea-cow-attack",
+  "era": "deep",
+  "year": -18000000,
+  "dateLabel": "About 18 million years ago",
+  "cat": "nature",
+  "title": "A Sea Cow Caught by a Caiman",
+  "place": "El Limón, south of Coro, Falcón, Venezuela",
+  "lat": 11.3,
+  "lng": -69.68,
+  "text": "A fossil sea cow skull from northwestern Venezuela records an Early Miocene crime scene. Round punctures and drag marks on its snout suggest a caiman grabbed it there, possibly in a death roll. Later, tiger sharks of the species Galeocerdo aduncus scavenged the body, slicing its skull, ribs and spine, and one shark tooth was left behind between the neck and ribcage.",
+  "source": {
+   "name": "Journal of Vertebrate Paleontology (via PMC): Trophic interactions of sharks and crocodylians with a sea cow from the Miocene of Venezuela",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11824499/"
+  }
+ },
+ {
+  "id": "v10-bogota-paleocene-rainforest",
+  "era": "deep",
+  "year": -58000000,
+  "dateLabel": "About 58 million years ago",
+  "cat": "nature",
+  "title": "Big Fruits in an Early Rainforest",
+  "place": "Checua mine, Nemocón, Cundinamarca, Colombia",
+  "lat": 5.07,
+  "lng": -73.86,
+  "text": "Coal mines near Bogotá hold leaves and seeds from one of the earliest known Neotropical rainforests, from the Paleocene, soon after the dinosaurs vanished. Leaves with drip tips point to rainfall above 180 centimetres a year. Among the finds are fruit stones of a vine family up to 35 millimetres long, roughly three times the size of most of their living relatives' fruits.",
+  "source": {
+   "name": "American Journal of Botany (via PMC): New records of extinct Icacinaceae from Paleocene rainforests of northwestern South America",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13408562/"
+  }
+ },
+ {
+  "id": "v10-arroyo-del-vizcaino-sloths",
+  "era": "iceage",
+  "year": -29000,
+  "dateLabel": "About 31,000 years ago",
+  "cat": "discovery",
+  "title": "Cut Marks on Giant Sloth Bones",
+  "place": "Arroyo del Vizcaíno, Sauce, Canelones, Uruguay",
+  "lat": -34.6,
+  "lng": -56.05,
+  "text": "A streambed near Sauce, Uruguay, has yielded more than 1,000 Ice Age bones, mostly from the giant ground sloth Lestodon. About 40 bones carry marks that look like stone-tool cuts, and a small scraper-like stone lay among them. At roughly 30,000 years old, the site is unexpectedly ancient for humans in the Americas, so its excavators themselves urge caution.",
+  "source": {
+   "name": "Proceedings of the Royal Society B (via PMC): Arroyo del Vizcaíno, Uruguay: a fossil-rich 30-ka-old megafaunal locality with cut-marked bones",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3843831/"
+  }
+ },
+ {
+  "id": "v10-la-lindosa-megafauna-paintings",
+  "era": "iceage",
+  "year": -10600,
+  "dateLabel": "About 12,600 years ago",
+  "cat": "culture",
+  "title": "Painted Giants on Amazon Cliffs?",
+  "place": "Cerro Azul, Serranía de La Lindosa, Guaviare, Colombia",
+  "lat": 2.48,
+  "lng": -72.78,
+  "text": "Red paintings cover the rock walls of La Lindosa in the Colombian Amazon, where people were using ochre by about 12,600 years ago. Some researchers see Ice Age animals among them: a giant ground sloth with its young, horses with stiff manes and a trunked gomphothere. Critics say the 'sloth' may be a capybara, and the paintings themselves have not yet been directly dated.",
+  "source": {
+   "name": "Philosophical Transactions of the Royal Society B (via PMC): Ice Age megafauna rock art in the Colombian Amazon?",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8899627/"
+  }
+ },
+ {
+  "id": "v10-moxos-forest-island-gardens",
+  "era": "iceage",
+  "year": -8300,
+  "dateLabel": "About 10,300 years ago",
+  "cat": "discovery",
+  "title": "Garden Islands in a Flooded Savanna",
+  "place": "Isla Manechi, Llanos de Moxos, Beni, Bolivia",
+  "lat": -13.8,
+  "lng": -65.5,
+  "text": "Bolivia's Llanos de Moxos floods every wet season, but thousands of small forest islands stay dry. Many grew from early foragers' food waste: charcoal, shell and bone piled up from about 10,850 years ago. On these fertile mounds people were growing manioc by about 10,350 years ago and squash soon after, among the oldest crop evidence in Amazonia. Maize followed around 6,850 years ago.",
+  "source": {
+   "name": "Nature (via PMC): Early Holocene crop cultivation and landscape modification in Amazonia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7250647/"
+  }
+ },
+ {
+  "id": "v10-tagua-tagua-megafauna-menu",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "Before 11,600 years ago",
+  "cat": "daily",
+  "title": "Gomphothere Hunters of Central Chile",
+  "place": "Laguna de Tagua Tagua, O'Higgins, Chile",
+  "lat": -34.5,
+  "lng": -71.15,
+  "text": "Scientists counted animal bones from 20 early hunting camps across southern South America older than 11,600 years. In most, extinct giants made up over 80 percent of the remains. On the Pampas and in Patagonia that meant giant sloths and Ice Age horses. At two Tagua Tagua camps in central Chile, every identified bone came from extinct megafauna, chiefly elephant-like gomphotheres. Guanaco only became common later.",
+  "source": {
+   "name": "Science Advances (via PMC): Extinct megafauna dominated human subsistence in southern South America before 11,600 years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12487880/"
+  }
+ },
+ {
+  "id": "v10-lapa-do-santo-decapitation",
+  "era": "ancient",
+  "year": -7300,
+  "dateLabel": "About 9,200 years ago",
+  "cat": "culture",
+  "title": "A Head Framed by Its Own Hands",
+  "place": "Lapa do Santo, Matozinhos, Minas Gerais, Brazil",
+  "lat": -19.48,
+  "lng": -44.04,
+  "text": "In a rock shelter in Brazil's Lagoa Santa caves lies the oldest known decapitation in the Americas, about 9,200 years old. The man's severed head was buried with amputated hands placed over his face, the right hand pointing to his chin and the left to his forehead. Isotopes in his teeth show he was a local, so researchers read it as ritual, not trophy-taking.",
+  "source": {
+   "name": "PLOS ONE: Strauss et al. 2015, the earliest case of decapitation in the New World, Lapa do Santo",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137456"
+  }
+ },
+ {
+  "id": "v10-wilamaya-patjxa-woman-hunter",
+  "era": "ancient",
+  "year": -6900,
+  "dateLabel": "About 9,000 years ago",
+  "cat": "daily",
+  "title": "The Teenage Big-Game Hunter of the Andes",
+  "place": "Wilamaya Patjxa, Puno, Peru",
+  "lat": -16.15,
+  "lng": -69.7,
+  "text": "At nearly 4,000 metres in the Peruvian Andes, a 17- to 19-year-old was buried about 9,000 years ago with a hunting kit: stone spear points, scrapers, knives and lumps of red ochre. Proteins in the tooth enamel showed the hunter was female. Looking at other early burials across the Americas, the team estimated that women made up perhaps 30 to 50 percent of big-game hunters.",
+  "source": {
+   "name": "Science Advances (via PMC): Female hunters of the early Americas",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7673694/"
+  }
+ },
+ {
+  "id": "v10-xihuatoxtla-earliest-maize",
+  "era": "ancient",
+  "year": -6700,
+  "dateLabel": "About 8,700 years ago",
+  "cat": "discovery",
+  "title": "Maize Starch on Ancient Grinding Stones",
+  "place": "Xihuatoxtla Shelter, Central Balsas Valley, Guerrero, Mexico",
+  "lat": 18.35,
+  "lng": -99.55,
+  "text": "In a rock shelter in Guerrero's tropical forest, scientists scraped microscopic starch grains off 19 grinding stones. Nearly all came from maize, not its wild ancestor teosinte, and tiny silica bodies from cobs turned up too. Dated to about 8,700 years ago, it is among the earliest maize anywhere. Domesticated squash was there as well, in warm lowland forest rather than dry highlands.",
+  "source": {
+   "name": "PNAS (via PMC): Starch grain and phytolith evidence for early ninth millennium B.P. maize from the Central Balsas River Valley, Mexico",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2664021/"
+  }
+ },
+ {
+  "id": "v10-toca-dos-coqueiros-zuzu",
+  "era": "ancient",
+  "year": -7600,
+  "dateLabel": "About 9,600 years ago",
+  "cat": "discovery",
+  "title": "Zuzu, Buried With Two Spear Points",
+  "place": "Toca dos Coqueiros, Serra da Capivara, Piauí, Brazil",
+  "lat": -8.83,
+  "lng": -42.55,
+  "text": "In a rock shelter in Brazil's Serra da Capivara, archaeologists found a tightly folded skeleton nicknamed Zuzu, buried in an oval pit with two finely flaked spear points. Dating the tooth enamel directly gave at least 9,600 years. The long, narrow skull matched early people from Lagoa Santa, far to the south, more closely than later groups from Zuzu's own northeastern region.",
+  "source": {
+   "name": "Scientific Reports (via PMC): Morphometric affinities and direct radiocarbon dating of the Toca dos Coqueiros' skull",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9098637/"
+  }
+ },
+ {
+  "id": "v10-chan-hol-woman",
+  "era": "ancient",
+  "year": -7900,
+  "dateLabel": "At least 9,900 years ago",
+  "cat": "discovery",
+  "title": "The Survivor in the Flooded Cave",
+  "place": "Chan Hol cave, near Tulum, Quintana Roo, Mexico",
+  "lat": 20.13,
+  "lng": -87.56,
+  "text": "Divers found her skeleton 8 metres underwater, more than a kilometre inside a flooded cave near Tulum. Cave crust on her finger bones shows she is at least 9,900 years old. About 30 when she died, she had survived three blows to the head that later healed. Her badly decayed teeth hint at a diet rich in soft, carbohydrate-rich foods.",
+  "source": {
+   "name": "PLOS ONE: Stinnesbeck et al. 2020, the Chan Hol 3 skeleton from Tulum, Mexico",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0227984"
+  }
+ },
+ {
+  "id": "v10-teotonio-dark-earth",
+  "era": "ancient",
+  "year": -4500,
+  "dateLabel": "About 6,500 years ago",
+  "cat": "daily",
+  "title": "Black Soil Above the Madeira Rapids",
+  "place": "Teotônio, Madeira River, Porto Velho, Rondônia, Brazil",
+  "lat": -8.86,
+  "lng": -64.06,
+  "text": "On a bluff beside thundering rapids in the southwest Amazon, villagers began building up rich black soil, terra preta, about 6,500 years ago. In it archaeologists found manioc and squash traces, and bean starch stuck to stone tools, among the earliest such evidence in the Amazon lowlands. Earlier people at the same spot were already gathering Brazil nuts and fruits around 9,500 years ago.",
+  "source": {
+   "name": "PLOS ONE: Watling et al. 2018, direct archaeological evidence for southwestern Amazonia as an early plant domestication centre",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199868"
+  }
+ },
+ {
+  "id": "v10-real-alto-san-pedro-pottery",
+  "era": "ancient",
+  "year": -4550,
+  "dateLabel": "About 4550 BCE",
+  "cat": "discovery",
+  "title": "A Rival to Valdivia's First Pots",
+  "place": "Real Alto, Chanduy, Santa Elena, Ecuador",
+  "lat": -2.37,
+  "lng": -80.73,
+  "text": "Valdivia on Ecuador's coast has long been credited with some of the oldest pottery in South America. But Russian, Ecuadorian and Japanese archaeologists digging at Real Alto found sherds of a little-known style called San Pedro, dated to 4640 to 4460 BCE. Their decoration differs from Valdivia's, hinting that two separate pottery traditions grew up side by side.",
+  "source": {
+   "name": "EurekAlert (Far Eastern Federal University): Pottery related to unknown culture found in Ecuador",
+   "url": "https://www.eurekalert.org/news-releases/811522"
+  }
+ },
+ {
+  "id": "v10-huaca-prieta-indigo",
+  "era": "ancient",
+  "year": -4200,
+  "dateLabel": "About 6,200 years ago",
+  "cat": "culture",
+  "title": "The World's Oldest Indigo Blue",
+  "place": "Huaca Prieta, Chicama Valley, La Libertad, Peru",
+  "lat": -7.92,
+  "lng": -79.31,
+  "text": "Scraps of cotton cloth from a mound on Peru's north coast hold the oldest known indigo dye, about 6,200 years old. That beats the previous record, from Egypt, by roughly 1,500 years. Chemical tests found the blue in five of eight yarn samples. The earliest piece alternated stripes of natural tan cotton with blue yarn twisted together with white vine fibre.",
+  "source": {
+   "name": "Science Advances (via PMC): Early pre-Hispanic use of indigo blue in Peru",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5023320/"
+  }
+ },
+ {
+  "id": "v10-soro-mikaya-patjxa-genomes",
+  "era": "ancient",
+  "year": -4800,
+  "dateLabel": "About 6,800 years ago",
+  "cat": "discovery",
+  "title": "Ancient DNA From Titicaca's First Foragers",
+  "place": "Soro Mik'aya Patjxa, Puno, Peru",
+  "lat": -16.2,
+  "lng": -69.75,
+  "text": "Near Lake Titicaca, mobile hunter-gatherers camped at Soro Mik'aya Patjxa between about 8,000 and 6,500 years ago. A genome from one of them, about 6,800 years old, helped researchers estimate that highland and lowland South Americans split roughly 8,750 years ago. Later highlanders show strong natural selection near a starch-digesting gene, likely as potatoes and other tubers grew central to their diet.",
+  "source": {
+   "name": "Science Advances (via PMC): The genetic prehistory of the Andean highlands 7000 years BP through European contact",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6224175/"
+  }
+ },
+ {
+  "id": "v10-norte-chico-maize",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2300 BCE",
+  "cat": "daily",
+  "title": "Maize on the Menu in Caral's Age",
+  "place": "Caballete, Fortaleza Valley, Lima Region, Peru",
+  "lat": -10.62,
+  "lng": -77.79,
+  "text": "When Peru's first monumental towns rose in the Norte Chico region, did people live on fish or farms? At Caballete and Huaricanga, maize pollen turned up in nearly half of soil samples, and maize starch coated most grinding stones. It even filled 69 percent of fossil droppings from people and their dogs, dated to roughly 3200 to 2400 BCE. Anchovies supplied the protein.",
+  "source": {
+   "name": "PNAS (via PMC): Evidence for maize (Zea mays) in the Late Archaic (3000-1800 B.C.) in the Norte Chico region of Peru",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3612639/"
+  }
+ },
+ {
+  "id": "v10-morro-de-arica-harpoon",
+  "era": "ancient",
+  "year": -3000,
+  "dateLabel": "About 3000 BCE",
+  "cat": "power",
+  "title": "A Harpoon in a Fisherman's Chest",
+  "place": "Morro de Arica, Arica, Chile",
+  "lat": -18.48,
+  "lng": -70.32,
+  "text": "Early fisher-gatherers on Chile's Atacama coast, between about 10,000 and 4,000 years ago, were not always peaceful. Among 136 Archaic burials, a quarter showed injuries from violence, most often on men's skulls. At Morro de Arica, one man had four wounds the width of a harpoon, and another still had a complete harpoon, stone point and all, lodged in his chest.",
+  "source": {
+   "name": "PLOS ONE (via PMC): Violence in fishing, hunting, and gathering societies of the Atacama Desert coast (10,000 BP-AD 1450)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10511140/"
+  }
+ },
+ {
+  "id": "v10-olmec-calendar-alignments",
+  "era": "ancient",
+  "year": -1200,
+  "dateLabel": "About 1200 BCE",
+  "cat": "discovery",
+  "title": "Olmec Plazas Aligned to the Sunrise",
+  "place": "San Lorenzo, Texistepec, Veracruz, Mexico",
+  "lat": 17.75,
+  "lng": -94.76,
+  "text": "Using laser scans of 415 ancient complexes, researchers measured which way Olmec and early Maya builders pointed their plazas. San Lorenzo's main plateau, at its height around 1400 to 1100 BCE, faces sunrise on quarter days, and its 20 edge platforms hint at counting in twenties. Later sites lined up with sunrises 260 days apart, the length of Mesoamerica's sacred calendar.",
+  "source": {
+   "name": "Science Advances (via PMC): Origins of Mesoamerican astronomy and calendar: Evidence from the Olmec and Maya regions",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9821873/"
+  }
+ },
+ {
+  "id": "v10-caribbean-archaic-genomes",
+  "era": "ancient",
+  "year": -1100,
+  "dateLabel": "About 1100 BCE",
+  "cat": "journeys",
+  "title": "DNA of the Caribbean's First Islanders",
+  "place": "Andrés, Boca Chica, Dominican Republic",
+  "lat": 18.45,
+  "lng": -69.61,
+  "text": "People first reached Cuba, Hispaniola and Puerto Rico about 6,000 years ago. Ancient DNA, including from a man buried at Andrés in the Dominican Republic about 3,000 years ago, shows these first islanders came from a population closest to Central and northern South Americans, not North Americans. Later pottery-making newcomers replaced nearly all their ancestry, except in western Cuba.",
+  "source": {
+   "name": "Nature (via PMC): A genetic history of the pre-contact Caribbean",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7864882/"
+  }
+ }
+]

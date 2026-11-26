@@ -1,0 +1,1039 @@
+[
+ {
+  "id": "r3m-lebanese-amber",
+  "era": "deep",
+  "year": -130000000,
+  "dateLabel": "About 130 million years ago",
+  "emoji": "🟠",
+  "cat": "nature",
+  "title": "Bugs Frozen in Lebanese Amber",
+  "place": "Mount Lebanon, Lebanon",
+  "lat": 33.8,
+  "lng": 35.75,
+  "text": "Around 130 million years ago, sticky tree resin on the northern coast of the supercontinent Gondwana trapped tiny insects, fungi and even bacteria. Hardened into amber, it is the oldest amber with lots of creatures inside. Many lived just before flowering plants spread, so these drops show a world of bugs that had never visited a flower.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "BMC Ecology and Evolution 2025, 'The oldest continuous association between astigmatid mites and termites preserved in Cretaceous amber'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11853500/"
+  },
+  "source2": {
+   "name": "Vršanský et al. 2025, National Science Review, 'Jurassic Park approached: a coccid from Kimmeridgian cheirolepidiacean Aintourine Lebanese amber' (Slovak Academy of Sciences)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11895504/"
+  }
+ },
+ {
+  "id": "r3m-ubeidiya",
+  "era": "deep",
+  "year": -1500000,
+  "dateLabel": "Early Pleistocene, about 1.5 million years ago",
+  "emoji": "🦴",
+  "cat": "discovery",
+  "title": "A Bulldozer Finds Early Humans",
+  "place": "Ubeidiya, Jordan Valley, Israel",
+  "lat": 32.69,
+  "lng": 35.56,
+  "text": "At 'Ubeidiya, south of the Sea of Galilee in the Jordan Valley, bulldozers turned up human bone fragments before excavations began in 1960. Early humans lived here in the early Ice Age alongside hippos, rhinos, elephants and big cats, and made Acheulean stone tools. In 2022 scientists identified a backbone from a child aged about 6 to 12 among the old finds.",
+  "collections": [
+   "becoming-human",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Barash et al. 2022, Scientific Reports 12:1721",
+   "url": "https://www.nature.com/articles/s41598-022-05712-y"
+  }
+ },
+ {
+  "id": "r3m-satsurblia",
+  "era": "iceage",
+  "year": -11300,
+  "dateLabel": "About 11,300 BCE",
+  "emoji": "🧬",
+  "cat": "discovery",
+  "title": "The Caucasus Hunter's DNA",
+  "place": "Satsurblia Cave, Imereti, Georgia",
+  "lat": 42.37,
+  "lng": 42.6,
+  "text": "A piece of skull bone from a cave in western Georgia, about 13,300 years old, gave up its owner's genome. He belonged to the Caucasus hunter-gatherers, a group that had split from western Europe's hunters about 45,000 years ago. His people later passed on a large share of the DNA of the Yamnaya herders who spread into Europe around 3000 BC.",
+  "collections": [
+   "becoming-human"
+  ],
+  "source": {
+   "name": "Nature Communications (Jones et al. 2015), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4660371/"
+  }
+ },
+ {
+  "id": "r3m-aetokremnos",
+  "era": "iceage",
+  "year": -10500,
+  "dateLabel": "About 10,500 BCE",
+  "emoji": "🦛",
+  "cat": "nature",
+  "title": "Cyprus and the Pygmy Hippos",
+  "place": "Aetokremnos, Akrotiri, Cyprus",
+  "lat": 34.57,
+  "lng": 33.02,
+  "text": "In a collapsed rock shelter on Cyprus's south coast lies a dense layer of bones from pygmy hippos, a tiny species found only on this island. Stone tools and burnt bones show people were here about 12,500 years ago, the earliest undisputed sign of humans on Cyprus. Did the newcomers hunt the hippos? Experts still fiercely debate it; some think the bones piled up naturally.",
+  "collections": [
+   "beasts-through-time",
+   "becoming-human"
+  ],
+  "source": {
+   "name": "PLOS ONE via PubMed Central (Zazzo et al. 2015)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4540316/"
+  }
+ },
+ {
+  "id": "r3m-ain-mallaha-puppy",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "About 10,000 BCE",
+  "emoji": "🐕",
+  "cat": "daily",
+  "title": "Buried With Her Puppy",
+  "place": "ʿAin Mallaha, Hula Valley, Israel",
+  "lat": 33.08,
+  "lng": 35.6,
+  "text": "The Natufians were hunter-gatherers known for stone-built houses and settled villages, long before farming. At ʿAin Mallaha, about 12,000 years ago, a woman was buried with her hand resting on a puppy. This tender grave is one of the earliest signs that people and dogs, or tamed wolves, had become companions.",
+  "collections": [
+   "beasts-through-time",
+   "becoming-human"
+  ],
+  "source": {
+   "name": "Nature (Davis & Valla 1978)",
+   "url": "https://www.nature.com/articles/276608a0"
+  },
+  "source2": {
+   "name": "PLOS ONE via PubMed Central (Maher et al. 2011)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3027631/"
+  }
+ },
+ {
+  "id": "r3m-mari-letters",
+  "era": "ancient",
+  "year": -1770,
+  "dateLabel": "18th century BCE",
+  "emoji": "✉️",
+  "cat": "power",
+  "title": "The Royal Mailbag of Mari",
+  "place": "Mari (Tell Hariri), Syria",
+  "lat": 34.55,
+  "lng": 40.89,
+  "text": "King Zimri-Lim ruled Mari on the Euphrates for almost 30 prosperous years from a palace of nearly 300 rooms. Its scribes' rooms held thousands of clay tablets: diplomatic letters, reports from across the kingdom, and legal and economic records. Then Hammurabi of Babylon captured and destroyed the city, and the ruined palace kept the archive for archaeologists.",
+  "collections": [
+   "lost-and-found",
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Mari-ancient-city-Syria"
+  }
+ },
+ {
+  "id": "r3m-eternal-treaty",
+  "era": "ancient",
+  "year": -1259,
+  "dateLabel": "13th century BCE",
+  "emoji": "🤝",
+  "cat": "power",
+  "title": "The Oldest Surviving Peace Treaty",
+  "place": "Hattusa, Turkey",
+  "lat": 40.02,
+  "lng": 34.62,
+  "text": "After a long conflict, the Hittite king Hattusili III and Egypt's Ramesses II made peace, backed by a defense pact and a royal marriage. It is the oldest known peace treaty. A clay tablet copy, found in 1906 at the Hittite capital Hattusa, is kept in Istanbul. A copper replica hangs at United Nations headquarters, near the Security Council Chamber.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "United Nations Gifts: Replica of Peace Treaty between Hattusilis and Ramses II",
+   "url": "https://www.un.org/ungifts/replica-peace-treaty-between-hattusilis-and-ramses-ii"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Hattusilis-III"
+  }
+ },
+ {
+  "id": "r3m-troy-wilusa",
+  "era": "ancient",
+  "year": -1180,
+  "dateLabel": "About 1180 BCE",
+  "emoji": "🐴",
+  "cat": "culture",
+  "title": "Was Troy Real?",
+  "place": "Hisarlık (Troy), Çanakkale, Turkey",
+  "lat": 39.96,
+  "lng": 26.24,
+  "text": "Troy was destroyed and rebuilt so often that its mound holds nine cities stacked like a layer cake. In the Late Bronze Age, Hittite records call it Wilusa, a vassal of their empire, and the layer named Troy VIIa ended about 1180 BCE. Was this Homer's Troy? Archaeologists still debate how much truth hides inside the legend.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Troy-ancient-city-Turkey"
+  },
+  "source2": {
+   "name": "Archaeology Magazine (Archaeological Institute of America)",
+   "url": "https://archive.archaeology.org/0405/etc/troy3.html"
+  }
+ },
+ {
+  "id": "r3m-tyrian-purple",
+  "era": "ancient",
+  "year": -1250,
+  "dateLabel": "13th century BCE",
+  "emoji": "🐚",
+  "cat": "daily",
+  "title": "Purple From Smelly Sea Snails",
+  "place": "Tyre, Lebanon",
+  "lat": 33.27,
+  "lng": 35.2,
+  "text": "Tyrian purple, named after the Phoenician city of Tyre, was a dye made from murex sea snails and highly prized in the ancient world. In 1909 a chemist processed 12,000 snails and got just 1.4 grams of pigment. The snail's fluid starts almost colourless, and the purple develops in air and sunlight.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Molecules (MDPI, peer-reviewed): Cooksey 2001, 'Tyrian Purple: 6,6'-Dibromoindigo and Related Compounds'",
+   "url": "https://www.mdpi.com/1420-3049/6/9/736"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/science/Tyrian-purple"
+  }
+ },
+ {
+  "id": "r3m-midas-mound",
+  "era": "ancient",
+  "year": -740,
+  "dateLabel": "About 740 BCE",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "The Great Mound at Midas's Capital",
+  "place": "Gordion, Turkey",
+  "lat": 39.65,
+  "lng": 31.98,
+  "text": "Forget the golden touch: Midas was a real king of Phrygia, called Mita of the Mushki in Assyrian records. At his capital, Gordion, stands a burial mound still 53 metres high. Tree-ring dating puts its wooden tomb chamber at about 740 BCE, too early for Midas himself, so the man in his sixties buried inside may have been his father, Gordios.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Penn Museum, Digital Gordion: Iron Age Gordion",
+   "url": "https://www.penn.museum/sites/gordion/history/iron-age-gordion/"
+  }
+ },
+ {
+  "id": "r3m-siloam-tunnel",
+  "era": "ancient",
+  "year": -701,
+  "dateLabel": "About 700 BCE",
+  "emoji": "⛏️",
+  "cat": "discovery",
+  "title": "A Tunnel to Save Jerusalem's Water",
+  "place": "City of David, Jerusalem",
+  "lat": 31.77,
+  "lng": 35.24,
+  "text": "Jerusalem's Gihon spring lay outside the city wall, a big problem in a siege. As Assyria threatened, King Hezekiah of Judah strengthened his capital and dug the famous Siloam tunnel, which carried the spring's water to a reservoir inside the walls. The Assyrian king Sennacherib invaded Judah in 701 BCE, but Jerusalem itself was not captured.",
+  "collections": [
+   "inventions"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Hezekiah"
+  }
+ },
+ {
+  "id": "r3m-behistun",
+  "era": "ancient",
+  "year": -520,
+  "dateLabel": "About 520 BCE",
+  "emoji": "🪨",
+  "cat": "culture",
+  "title": "A Royal Boast 100 Metres Up a Cliff",
+  "place": "Mount Behistun, Kermanshah, Iran",
+  "lat": 34.39,
+  "lng": 47.44,
+  "text": "King Darius the Great had his story carved about 100 metres up a cliff beside an ancient trade route: how, he boasted, he fought nineteen battles in a single year to crush rebel kings. The text appears in three languages, Old Persian, Elamite and Babylonian. In 1835, Henry Rawlinson began copying it with a local Kurdish boy's help, a key step in cracking cuneiform.",
+  "collections": [
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "The Conversation (Louise Pryke, Macquarie University)",
+   "url": "https://theconversation.com/friday-essay-the-recovery-of-cuneiform-the-worlds-oldest-known-writing-82639"
+  },
+  "source2": {
+   "name": "University of Texas at Arlington (translation of the Behistun inscription)",
+   "url": "https://websites.uta.edu/hunnicut/reading-list/readings-western-civilization/the-great-inscription-of-darius-at-behistun/"
+  }
+ },
+ {
+  "id": "r3m-thalatta",
+  "era": "classical",
+  "year": -400,
+  "dateLabel": "400 BCE",
+  "emoji": "🌊",
+  "cat": "journeys",
+  "title": "\"The Sea! The Sea!\"",
+  "place": "Sürmene, near Trabzon, Turkey",
+  "lat": 40.91,
+  "lng": 40.12,
+  "text": "Ten thousand Greek soldiers hired to help a Persian prince seize the throne were stranded when he died in battle. Led partly by the writer Xenophon, they marched north through deserts and snowy mountains. On reaching a mountaintop above the Black Sea, they shouted \"Thalatta! Thalatta!\", meaning \"The sea! The sea!\" Xenophon's book Anabasis tells the whole adventure.",
+  "collections": [
+   "great-voyages",
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Fordham University Internet Ancient History Sourcebook (Xenophon, Anabasis)",
+   "url": "https://sourcebooks.web.fordham.edu/ancient/xenophon-anabasis.asp"
+  }
+ },
+ {
+  "id": "r3m-artemis-arson",
+  "era": "classical",
+  "year": -356,
+  "dateLabel": "356 BCE",
+  "emoji": "🔥",
+  "cat": "culture",
+  "title": "Burning a Wonder for Fame",
+  "place": "Ephesus, Turkey",
+  "lat": 37.95,
+  "lng": 27.36,
+  "text": "In 356 BCE the great Temple of Artemis at Ephesus, one of the Seven Wonders, burned down. Tradition blames a man named Herostratus who wanted to be famous at any cost, so the city banned anyone from saying his name. Legend adds that Alexander the Great was born the same day, and the goddess was too busy to save her temple.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "Encyclopaedia Romana (James Grout), hosted by the University of Chicago",
+   "url": "https://penelope.uchicago.edu/encyclopaedia_romana/greece/paganism/artemis.html"
+  }
+ },
+ {
+  "id": "r3m-pergamon-library",
+  "era": "classical",
+  "year": -180,
+  "dateLabel": "About 180 BCE",
+  "emoji": "📜",
+  "cat": "culture",
+  "title": "The Library That Named Parchment",
+  "place": "Pergamon (Bergama), Turkey",
+  "lat": 39.13,
+  "lng": 27.18,
+  "text": "The Attalid kings of Pergamon, above all Eumenes II, built up a library said to hold about 200,000 scrolls, the great rival of Alexandria's. Ancient writers said parchment, prepared animal skin for writing, was invented here, and the word comes from the city's name. Plutarch reports a claim that Mark Antony gave the whole collection to Cleopatra, though no one knows if that happened.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Encyclopaedia Romana (J. Grout), hosted by the University of Chicago",
+   "url": "https://penelope.uchicago.edu/encyclopaedia_romana/greece/paganism/pergamumlibrary.html"
+  }
+ },
+ {
+  "id": "r3m-carrhae",
+  "era": "classical",
+  "year": -53,
+  "dateLabel": "53 BCE",
+  "emoji": "🏹",
+  "cat": "power",
+  "title": "Rome's Richest Man Meets Parthia",
+  "place": "Harran (Carrhae), Turkey",
+  "lat": 36.86,
+  "lng": 39.03,
+  "text": "Crassus, the wealthiest man in Rome, marched seven legions into the desert hoping for glory. Near Carrhae, the Parthian general Surena surrounded them with armoured cavalry and horse archers, kept supplied with arrows by a train of camels. Most Romans were killed or captured, and Crassus died during truce talks, ending Rome's First Triumvirate.",
+  "source": {
+   "name": "National Geographic History, 'Crassus was the richest man in Rome'",
+   "url": "https://nationalgeographic.com/history/magazine/2019/05-06/crassus-romes-richest-man"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica, 'CARRHAE'",
+   "url": "https://www.iranicaonline.org/articles/carrhae-harran-town-in-mesopotamia-where-in-may-53-b/"
+  }
+ },
+ {
+  "id": "r3m-dura-synagogue",
+  "era": "classical",
+  "year": 244,
+  "dateLabel": "244 CE",
+  "emoji": "🎨",
+  "cat": "culture",
+  "title": "The Painted Synagogue Saved by an Earth Wall",
+  "place": "Dura-Europos, Syria",
+  "lat": 34.75,
+  "lng": 40.73,
+  "text": "In 244 or 245 CE, the Jewish community of Dura-Europos, a frontier town on the Euphrates, finished enlarging their synagogue and covered its walls with painted scenes from the Bible. About a decade later, Roman soldiers buried it inside a great earth bank built to strengthen the city wall against the Persian siege of 256. The buried west wall survived almost complete until archaeologists dug it out in 1932.",
+  "collections": [
+   "lost-and-found",
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Yale University Art Gallery, Dura-Europos: 'Synagogue'",
+   "url": "https://duraeuropos.artgallery.yale.edu/Synagogue"
+  },
+  "source2": {
+   "name": "Sasanika: Late Antique Near East Project (University of California, Irvine), 'Dura-Europos'",
+   "url": "https://sites.uci.edu/sasanika/dura-europos-de"
+  }
+ },
+ {
+  "id": "r3m-saint-nino",
+  "era": "classical",
+  "year": 326,
+  "dateLabel": "About 326 CE",
+  "emoji": "🍇",
+  "cat": "culture",
+  "title": "Nino and the Grapevine Cross",
+  "place": "Mtskheta, Georgia",
+  "lat": 41.85,
+  "lng": 44.72,
+  "text": "A woman named Nino arrived in the Kingdom of Iberia, in today's Georgia, preaching Christianity. Church tradition says she healed Queen Nana and then won over King Mirian III, who made Christianity the official religion, traditionally around 326. She is said to have carried a cross of grapevine branches tied with her own hair, and her grave is honoured at Bodbe in eastern Georgia.",
+  "collections": [
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Georgian Orthodox church'",
+   "url": "https://www.britannica.com/topic/Georgian-Orthodox-church"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, 'Historical Monuments of Mtskheta' (Mirian III established Christianity as official religion; read via UNESCO open data)",
+   "url": "https://whc.unesco.org/en/list/708"
+  }
+ },
+ {
+  "id": "r3m-armenian-alphabet",
+  "era": "classical",
+  "year": 405,
+  "dateLabel": "About 405 CE",
+  "emoji": "🔤",
+  "cat": "culture",
+  "title": "An Alphabet Built for Armenian",
+  "place": "Vagharshapat, Armenia",
+  "lat": 40.16,
+  "lng": 44.29,
+  "text": "Around 405, the scholar Mesrop Mashtots created a brand-new alphabet of 36 letters so Armenians could write their own language. According to his pupil Koryun, the first words written in it were the opening line of the Book of Proverbs. Back in the royal city of Vagharshapat, he set about translating and teaching, and with just two added letters, Armenians still use his alphabet today.",
+  "collections": [
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Saint Mesrop Mashtots'",
+   "url": "https://www.britannica.com/biography/Saint-Mesrop-Mashtots"
+  },
+  "source2": {
+   "name": "Koryun, The Life of Mashtots, tr. Bedros Norehad (armenianhouse.org)",
+   "url": "http://armenianhouse.org/koryun/mashtots-en.html"
+  }
+ },
+ {
+  "id": "r3m-samarra-spiral",
+  "era": "medieval",
+  "year": 851,
+  "dateLabel": "Mid-800s",
+  "emoji": "🌀",
+  "cat": "culture",
+  "title": "The Spiral Minaret of Samarra",
+  "place": "Samarra, Iraq",
+  "lat": 34.21,
+  "lng": 43.88,
+  "text": "Caliph al-Mutawakkil built the Great Mosque of Samarra in the mid-800s, and when it was finished it was the largest mosque in the world, the mosque building alone measuring 239 by 156 metres. Its minaret, the Malwiya, rises about 55 metres, wrapped by a ramp that spirals five times to the top, so you walk up the outside like a helter-skelter.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "Archnet (Aga Khan Documentation Center, MIT), 'Jami' al-Mutawakkil (Samarra)'",
+   "url": "https://www.archnet.org/sites/3828"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Samarra Archaeological City (via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/276"
+  }
+ },
+ {
+  "id": "r3m-shahnameh",
+  "era": "medieval",
+  "year": 1010,
+  "dateLabel": "March 8, 1010",
+  "emoji": "📖",
+  "cat": "culture",
+  "title": "Ferdowsi Finishes the Book of Kings",
+  "place": "Tus, Iran",
+  "lat": 36.48,
+  "lng": 59.52,
+  "text": "The poet Ferdowsi began the Shahnameh, or Book of Kings, around 977 and finished it on 8 March 1010. It retells Iran's legends and history in some 50,000 to 60,000 rhyming couplets. Much of it was based on an older Middle Persian Book of Kings that ran down to the end of Sasanian times.",
+  "collections": [
+   "masterpieces",
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Ferdowsi'",
+   "url": "https://www.britannica.com/biography/Ferdowsi"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica, 'Ferdowsi, Abu'l-Qasem i. Life'",
+   "url": "https://www.iranicaonline.org/articles/ferdowsi-i/"
+  }
+ },
+ {
+  "id": "r3m-manzikert",
+  "era": "medieval",
+  "year": 1071,
+  "dateLabel": "August 26, 1071",
+  "emoji": "⚔️",
+  "cat": "power",
+  "title": "An Emperor Captured at Manzikert",
+  "place": "Malazgirt, Muş, Turkey",
+  "lat": 39.14,
+  "lng": 42.54,
+  "text": "Near Manzikert, the Seljuk sultan Alp Arslan defeated the Byzantine army and captured the wounded Emperor Romanos IV Diogenes himself. The sultan released him only after the emperor agreed to give up important territories. The defeat weakened Byzantine control of Anatolia and opened the way for Turkish raiding and settlement there.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Battle of Manzikert' (Tony Bunting)",
+   "url": "https://www.britannica.com/event/Battle-of-Manzikert"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica, 'Alp Arslan'",
+   "url": "https://www.iranicaonline.org/articles/alp-arslan-saljuq-sultan/"
+  }
+ },
+ {
+  "id": "r3m-queen-tamar",
+  "era": "medieval",
+  "year": 1184,
+  "dateLabel": "1184",
+  "emoji": "👸",
+  "cat": "power",
+  "title": "Tamar, the King of Georgia",
+  "place": "Gelati, near Kutaisi, Georgia",
+  "lat": 42.29,
+  "lng": 42.77,
+  "text": "In 1184 Tamar became sole ruler of Georgia, an exception to succession rules that recognized only male heirs. Many nobles were suspicious of a woman on the throne, but church inscriptions hailed her as 'King of Kings'. Her reign was the peak of Georgia's Golden Age, and the poet Shota Rustaveli, an adoring subject, later wrote the national epic, The Knight in the Panther's Skin.",
+  "collections": [
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Shota Rustaveli, by Donald Rayfield)",
+   "url": "https://www.britannica.com/biography/Shota-Rustaveli"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Tamara, queen of Georgia)",
+   "url": "https://www.britannica.com/biography/Tamara-queen-of-Georgia"
+  }
+ },
+ {
+  "id": "r3m-al-jazari",
+  "era": "medieval",
+  "year": 1206,
+  "dateLabel": "1206",
+  "emoji": "🤖",
+  "cat": "discovery",
+  "title": "Al-Jazari's Book of Robots",
+  "place": "Diyarbakır, Turkey",
+  "lat": 37.91,
+  "lng": 40.24,
+  "text": "At the Artuqid court of Amid, today's Diyarbakır, the engineer al-Jazari finished a book in 1206 describing fifty mechanical devices, with instructions to build them. They included clocks, moving peacocks, drinking vessels, fountains and hand-washing machines. His elephant clock marked each half hour: a bird turned, a falcon dropped a ball into a dragon's mouth, and the driver struck the elephant.",
+  "collections": [
+   "inventions",
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Science Museum Group Collection",
+   "url": "https://collection.sciencemuseumgroup.org.uk/people/cp52302/ismail-ibn-al-razzaz-al-jazari"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, 'The Elephant Clock', folio from al-Jazari's Book of the Knowledge of Ingenious Mechanical Devices (catalogue entry by Francesca Leoni)",
+   "url": "https://www.metmuseum.org/art/collection/search/451402"
+  }
+ },
+ {
+  "id": "r3m-rumi-shams",
+  "era": "medieval",
+  "year": 1244,
+  "dateLabel": "November 30, 1244",
+  "emoji": "🌹",
+  "cat": "culture",
+  "title": "Rumi Meets a Wandering Dervish",
+  "place": "Konya, Turkey",
+  "lat": 37.87,
+  "lng": 32.48,
+  "text": "Rumi was a respected teacher in Konya until he met a mysterious wandering dervish, Shams of Tabriz, in 1244. The friendship turned him into a mystic poet. When Shams vanished, Rumi poured his grief into verse, later writing the Masnavi. After his death, his whirling meditation became the dance of the whirling dervishes, and today he is a best-selling poet in America.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Rumi"
+  },
+  "source2": {
+   "name": "BBC Culture, Jane Ciabattari, 'Why is Rumi the best-selling poet in the US?' (21 Oct 2014)",
+   "url": "https://www.bbc.com/culture/article/20140414-americas-best-selling-poet"
+  }
+ },
+ {
+  "id": "r3m-baghdad-1258",
+  "era": "medieval",
+  "year": 1258,
+  "dateLabel": "February 13, 1258",
+  "emoji": "🏹",
+  "cat": "power",
+  "title": "The Mongols Take Baghdad",
+  "place": "Baghdad, Iraq",
+  "lat": 33.31,
+  "lng": 44.37,
+  "text": "Hulegu, a Mongol prince, attacked Baghdad, capital of the Abbasid caliphs, early in 1258. Despite brave resistance by the caliph's troops and townspeople, the city was taken on 13 February and suffered a week of looting and massacre. The last Abbasid caliph, al-Musta'sim, was executed along with most of his family.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Hulegu"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica, 'Hulagu Khan' (Reuven Amitai)",
+   "url": "https://www.iranicaonline.org/articles/hulagu-khan"
+  }
+ },
+ {
+  "id": "r3m-mecca-coffee-ban",
+  "era": "exploration",
+  "year": 1511,
+  "dateLabel": "1511",
+  "emoji": "☕",
+  "cat": "daily",
+  "title": "Mecca Bans Coffee",
+  "place": "Mecca, Saudi Arabia",
+  "lat": 21.42,
+  "lng": 39.83,
+  "text": "Coffee, grown in Yemen from the 1400s, spread quickly among Arabs and gave rise to a new kind of meeting place, the coffeehouse. In 1511 the ruler of Mecca issued a decree banning the drink. The ban did not succeed: coffee kept spreading, and later attempts to outlaw it, such as England's in 1675, failed too.",
+  "collections": [
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Baylor University Medical Center Proceedings (A. B. Weisse, 'Coffee: grounds for concern?', 2015), PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4264731/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'coffee'",
+   "url": "https://www.britannica.com/topic/coffee"
+  }
+ },
+ {
+  "id": "r3m-ardabil-carpet",
+  "era": "exploration",
+  "year": 1540,
+  "dateLabel": "1539–1540",
+  "emoji": "🧶",
+  "cat": "culture",
+  "title": "The Ardabil Carpet",
+  "place": "Ardabil, Iran",
+  "lat": 38.25,
+  "lng": 48.3,
+  "text": "Weavers under Shah Tahmasp spent about four years making a pair of silk-and-wool carpets for the shrine at Ardabil; nobody knows for certain where they were woven. The London one is over 10 metres long, with about 5,300 knots in every 10-centimetre square, and its woven date of 1539–40 is the earliest on any Persian carpet.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Victoria and Albert Museum (collections record: The Ardabil Carpet)",
+   "url": "https://collections.vam.ac.uk/item/O54307/the-ardabil-carpet-carpet-maqsud-of-kashan/"
+  },
+  "source2": {
+   "name": "Victoria and Albert Museum (The Ardabil Carpet)",
+   "url": "https://www.vam.ac.uk/articles/the-ardabil-carpet"
+  }
+ },
+ {
+  "id": "r3m-selimiye",
+  "era": "exploration",
+  "year": 1575,
+  "dateLabel": "1568–1575",
+  "emoji": "🕌",
+  "cat": "culture",
+  "title": "Sinan's Dome Rivals Hagia Sophia",
+  "place": "Edirne, Turkey",
+  "lat": 41.68,
+  "lng": 26.56,
+  "text": "The architect Mimar Sinan called the Selimiye Mosque in Edirne his masterpiece. Built for Sultan Selim II, it is crowned by a single great dome about 31.5 metres across, roughly as wide as the dome of Hagia Sophia. Four soaring, slender minarets, the loftiest in Turkey, frame it and dominate the city skyline.",
+  "collections": [
+   "wonders-of-the-world",
+   "masterpieces"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre (Selimiye Mosque and its Social Complex)",
+   "url": "https://whc.unesco.org/en/list/1366"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Sinan, the Ottoman Empire's Master Architect; Sinan)",
+   "url": "https://www.britannica.com/story/sinan-the-ottoman-empires-master-architect"
+  }
+ },
+ {
+  "id": "r3m-hormuz-1622",
+  "era": "exploration",
+  "year": 1622,
+  "dateLabel": "1622",
+  "emoji": "🏰",
+  "cat": "journeys",
+  "title": "Persia and England Take Hormuz",
+  "place": "Hormuz Island, Iran",
+  "lat": 27.06,
+  "lng": 56.46,
+  "text": "For over a century, a Portuguese fortress on Hormuz Island controlled shipping in and out of the Persian Gulf. In 1622 Shah Abbas's army teamed up with English East India Company ships and captured it, ending Portuguese rule. Earlier in the same campaign, the famous Arctic explorer William Baffin was killed in the Anglo-Persian attack on nearby Qeshm island.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Hormuz)",
+   "url": "https://www.britannica.com/place/Hormuz"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (William Baffin)",
+   "url": "https://www.britannica.com/biography/William-Baffin"
+  }
+ },
+ {
+  "id": "r3m-evliya-celebi",
+  "era": "exploration",
+  "year": 1640,
+  "dateLabel": "1640",
+  "emoji": "🧳",
+  "cat": "journeys",
+  "title": "Evliya Çelebi Hits the Road",
+  "place": "Istanbul, Turkey",
+  "lat": 41.01,
+  "lng": 28.97,
+  "text": "Evliya Çelebi first described his home city of Istanbul, and in 1640 began travelling beyond it. He avoided court jobs that might tie him down and kept wandering for about 40 years. His ten-book Book of Travels, the longest travel account in Islamic literature, is still a favourite window into Ottoman life, even recording details of the many languages he heard.",
+  "collections": [
+   "great-voyages",
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Evliya Celebi)",
+   "url": "https://www.britannica.com/biography/Evliya-Celebi"
+  },
+  "source2": {
+   "name": "UNESCO Memory of the World nomination, Evliya Çelebi's 'Book of Travels'",
+   "url": "https://media.unesco.org/sites/default/files/webform/mow001/turkey_evliya_celebi.pdf"
+  }
+ },
+ {
+  "id": "r3m-montagu-inoculation",
+  "era": "exploration",
+  "year": 1717,
+  "dateLabel": "March 1717",
+  "emoji": "💉",
+  "cat": "discovery",
+  "title": "Lady Mary Learns Smallpox Engrafting",
+  "place": "Edirne, Turkey",
+  "lat": 41.68,
+  "lng": 26.56,
+  "text": "Lady Mary Wortley Montagu, wife of Britain's ambassador, arrived in Edirne in March 1717. Smallpox had killed her brother and scarred her face, so she watched closely as locals practised engrafting: putting a little smallpox matter into a scratch to cause a mild case and protection. Back in England, she campaigned to spread the idea.",
+  "collections": [
+   "plagues-and-cures",
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "Royal Society blog, 'Lady Mary's letters' (2024)",
+   "url": "https://royalsociety.org/blog/2024/04/lady-marys-letters/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Lady Mary Wortley Montagu'",
+   "url": "https://www.britannica.com/biography/Lady-Mary-Wortley-Montagu"
+  }
+ },
+ {
+  "id": "r3m-nader-shah",
+  "era": "exploration",
+  "year": 1736,
+  "dateLabel": "March 8, 1736",
+  "emoji": "🗡️",
+  "cat": "power",
+  "title": "A Shepherd Clan's Son Crowned Shah",
+  "place": "Mughan Plain, Azerbaijan",
+  "lat": 39.6,
+  "lng": 48.3,
+  "text": "Nader was born in 1688 into a humble pastoral family of the Afshar Turkmen. He rose to command Iran's armies, and in February 1736 he gathered the realm's leaders at a vast camp on the Moghan steppe and asked them to choose either him or a Safavid prince to rule. On 8 March 1736 he was crowned Nader Shah.",
+  "source": {
+   "name": "Encyclopaedia Iranica, 'Nāder Shah' (Ernest Tucker)",
+   "url": "https://www.iranicaonline.org/articles/nader-shah"
+  }
+ },
+ {
+  "id": "r3m-ararat-1840",
+  "era": "industrial",
+  "year": 1840,
+  "dateLabel": "July 2, 1840",
+  "emoji": "🏔️",
+  "cat": "nature",
+  "title": "Mount Ararat Shakes and Slides",
+  "place": "Mount Ararat, Turkey",
+  "lat": 39.7,
+  "lng": 44.3,
+  "text": "On July 2, 1840, a magnitude 7.4 earthquake struck Mount Ararat, near where three tectonic plates meet. It set off huge avalanches and mud and debris flows, possibly with a small eruption, that buried the village of Akori and its old Armenian monastery. More than 1,000 people died, and the governor's palace at Doğubayazıt was badly damaged.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "Geoheritage (Springer Nature), 'The Geoheritage of Mount Ararat and its Vicinity' (2026)",
+   "url": "https://link.springer.com/article/10.1007/s12371-026-01269-8"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Mount Ararat",
+   "url": "https://www.britannica.com/place/Mount-Ararat"
+  }
+ },
+ {
+  "id": "r3m-layard-nimrud",
+  "era": "industrial",
+  "year": 1847,
+  "dateLabel": "1845–1847",
+  "emoji": "🏺",
+  "cat": "discovery",
+  "title": "Layard Digs Up Assyria",
+  "place": "Nimrud, near Mosul, Iraq",
+  "lat": 36.1,
+  "lng": 43.33,
+  "text": "In 1845, the young adventurer Austen Henry Layard began digging the mounds of Nimrud on the Tigris. Over two years he uncovered huge stone palace carvings of the Assyrian kings. His book Nineveh and Its Remains became a bestseller, and he later found the famous library of Ashurbanipal too.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, Austen Henry Layard",
+   "url": "https://www.britannica.com/biography/Austen-Henry-Layard"
+  },
+  "source2": {
+   "name": "NYU Institute for the Study of the Ancient World Library, Austen Henry Layard and the early exploration of Nimrud",
+   "url": "https://isaw.nyu.edu/library/blog/Layard"
+  }
+ },
+ {
+  "id": "r3m-aub-1866",
+  "era": "industrial",
+  "year": 1866,
+  "dateLabel": "December 3, 1866",
+  "emoji": "🎓",
+  "cat": "culture",
+  "title": "A College Opens With 16 Students",
+  "place": "Beirut, Lebanon",
+  "lat": 33.9,
+  "lng": 35.48,
+  "text": "The Syrian Protestant College opened in Beirut with just 16 students, led by its president Daniel Bliss. At first classes were taught in Arabic, until a crisis in 1882 led to a switch to English. Renamed the American University of Beirut in 1920, it began admitting women to its schools of medicine, pharmacy and dentistry, and to its arts and sciences faculty, in 1921.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "American University of Beirut, History",
+   "url": "https://www.aub.edu.lb/AboutUs/Pages/history.aspx"
+  },
+  "source2": {
+   "name": "American University of Beirut, Faculty of Medicine history",
+   "url": "https://www.aub.edu.lb/fm/Pages/history.aspx"
+  }
+ },
+ {
+  "id": "r3m-tobacco-protest",
+  "era": "industrial",
+  "year": 1891,
+  "dateLabel": "December 1891",
+  "emoji": "🚭",
+  "cat": "power",
+  "title": "A Whole Country Quits Smoking",
+  "place": "Isfahan, Iran",
+  "lat": 32.65,
+  "lng": 51.67,
+  "text": "In 1890 the shah sold an Englishman a 50-year monopoly over all Iranian tobacco. Merchants and clerics revolted; Isfahan boycotted tobacco even before a top cleric issued a ruling against using it in December 1891. The ban worked so well that, it was said, even the shah's harem quit. In January 1892 he cancelled the deal.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Encyclopaedia Iranica, Isfahan viii. Qajar period",
+   "url": "https://www.iranicaonline.org/articles/isfahan-viii-qajar-period/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica, Qajar dynasty viii. 'Big Merchants' in the late Qajar period",
+   "url": "https://www.iranicaonline.org/articles/qajar-big-merchants/"
+  }
+ },
+ {
+  "id": "r3m-masjed-soleyman-oil",
+  "era": "industrial",
+  "year": 1908,
+  "dateLabel": "May 26, 1908",
+  "emoji": "🛢️",
+  "cat": "discovery",
+  "title": "Oil Strikes Just Before Giving Up",
+  "place": "Masjed Soleyman, Iran",
+  "lat": 31.94,
+  "lng": 49.3,
+  "text": "After seven years and close to half a million pounds, the company searching for oil in Persia cabled its engineer, Reynolds, to stop operations altogether. Reynolds held off replying, and on 26 May 1908 his well at Masjed Soleyman struck oil, the first oil field in the Middle East. The company behind the find grew into today's BP.",
+  "collections": [
+   "inventions"
+  ],
+  "source": {
+   "name": "Encyclopaedia Iranica: D'Arcy, William Knox",
+   "url": "https://www.iranicaonline.org/articles/darcy-william-knox"
+  },
+  "source2": {
+   "name": "AAPG Explorer: The First Oil Field in the Middle East, by Rasoul Sorkhabi (2018)",
+   "url": "https://www.aapg.org/news-and-media/details/explorer/articleid/47495/the-first-oil-field-in-the-middle-east"
+  }
+ },
+ {
+  "id": "r3m-aqaba-1917",
+  "era": "modern",
+  "year": 1917,
+  "dateLabel": "July 6, 1917",
+  "emoji": "🐪",
+  "cat": "power",
+  "title": "Camels Take Aqaba From the Desert",
+  "place": "Aqaba, Jordan",
+  "lat": 29.53,
+  "lng": 35.0,
+  "text": "During the Arab Revolt, Sherif Nasir, the Howeitat leader Auda abu Tayi and T. E. Lawrence set out in May 1917 with a small band of about 50 Arab fighters. They gathered allies on a long desert march and attacked the Red Sea port of Aqaba from the land side. On 6 July its Ottoman garrison surrendered, the Arab forces' first major victory.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica: T.E. Lawrence",
+   "url": "https://www.britannica.com/biography/T-E-Lawrence"
+  },
+  "source2": {
+   "name": "Clio Visualizing History: The Taking of Akaba - 1917 (Lowell Thomas and Lawrence of Arabia exhibit)",
+   "url": "https://cliohistory.org/thomas-lawrence/akaba"
+  }
+ },
+ {
+  "id": "r3m-turkish-alphabet",
+  "era": "modern",
+  "year": 1928,
+  "dateLabel": "1928",
+  "emoji": "🔠",
+  "cat": "culture",
+  "title": "Turkey Switches Alphabets in Months",
+  "place": "Sarayburnu, Istanbul, Turkey",
+  "lat": 41.0153,
+  "lng": 28.985,
+  "text": "In 1928 Turkey replaced the Arabic-based Ottoman script with a new Latin-based alphabet. Atatürk announced the change in a speech at Sarayburnu in Istanbul on 9 August, cut an expert commission's long-term plan down to three months, and toured the country teaching the letters himself. From 1 December 1928, newspapers were banned from printing in Arabic letters.",
+  "collections": [
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "OPUS Journal of Society Research (Tosun Durmuş 2026, Marmara Univ.), via DergiPark",
+   "url": "https://dergipark.org.tr/tr/download/article-file/6287158"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Kemal Atatürk",
+   "url": "https://www.britannica.com/biography/Kemal-Ataturk/The-Turkish-republic"
+  }
+ },
+ {
+  "id": "r3m-dammam-7",
+  "era": "modern",
+  "year": 1938,
+  "dateLabel": "March 4, 1938",
+  "emoji": "⛽",
+  "cat": "discovery",
+  "title": "The Seventh Well Strikes It Rich",
+  "place": "Dammam, Saudi Arabia",
+  "lat": 26.32,
+  "lng": 50.13,
+  "text": "American geologist Max Steineke and Saudi Bedouin guide Khamis bin Rimthan kept searching after six wells near Dammam came up short. On 4 March 1938, Dammam No. 7 struck oil in commercial quantities about 1,440 metres down, the first in Saudi Arabia. Later nicknamed the Prosperity Well, it pumped over 32 million barrels before closing in 1982.",
+  "source": {
+   "name": "Aramco, Elements magazine: The desert pioneer behind our first oil discovery (2025)",
+   "url": "https://www.aramco.com/en/news-media/elements-magazine/2025/the-desert-pioneer-behind-our-first-oil-discovery"
+  },
+  "source2": {
+   "name": "Aramco World, Well Done, Well Seven (1988)",
+   "url": "https://archive.aramcoworld.com/issue/198803/well.done.well.seven.htm"
+  }
+ },
+ {
+  "id": "r3m-abadan-crisis",
+  "era": "modern",
+  "year": 1951,
+  "dateLabel": "1951",
+  "emoji": "🏭",
+  "cat": "power",
+  "title": "Mosaddegh Nationalizes Iran's Oil",
+  "place": "Abadan, Iran",
+  "lat": 30.34,
+  "lng": 48.3,
+  "text": "In 1951 Iran's new prime minister, Mohammad Mosaddegh, nationalized the British-run Anglo-Iranian Oil Company, whose refinery at Abadan had grown to be the world's largest. Britain answered with gunboats, a boycott and an appeal to the UN Security Council, and Time named Mosaddegh its Person of the Year. In 1953 a British and American-backed coup overthrew him, which the US admitted in 2013.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Mohammad Mosaddegh'",
+   "url": "https://www.britannica.com/biography/Mohammad-Mosaddegh"
+  },
+  "source2": {
+   "name": "National Security Archive (George Washington University), 'CIA Confirms Role in 1953 Iran Coup' (19 Aug 2013)",
+   "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB435/"
+  }
+ },
+ {
+  "id": "r3m-rose-revolution",
+  "era": "modern",
+  "year": 2003,
+  "dateLabel": "November 2003",
+  "emoji": "🌹",
+  "cat": "power",
+  "title": "A Revolution Armed With Roses",
+  "place": "Tbilisi, Georgia",
+  "lat": 41.69,
+  "lng": 44.8,
+  "text": "After disputed elections, Georgians protested for twenty days in November 2003. At the climax, demonstrators led by Mikheil Saakashvili burst into parliament holding red roses, and President Eduard Shevardnadze resigned. The peaceful change of power, called the Rose Revolution, became one of the first of the so-called colour revolutions across the former Soviet world.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Global Nonviolent Action Database, Swarthmore College: Georgians overthrow a dictator (Rose Revolution), 2003",
+   "url": "https://nvdatabase.swarthmore.edu/content/georgians-overthrow-dictator-rose-revolution-2003"
+  },
+  "source2": {
+   "name": "Radio Free Europe/Radio Liberty: The 10th Anniversary of Georgia's Rose Revolution",
+   "url": "https://www.rferl.org/a/georgia-rose-revolution/25175878.html"
+  }
+ },
+ {
+  "id": "r3m-saudi-women-drive",
+  "era": "modern",
+  "year": 2018,
+  "dateLabel": "June 24, 2018",
+  "emoji": "🚗",
+  "cat": "daily",
+  "title": "Saudi Women Take the Wheel",
+  "place": "Riyadh, Saudi Arabia",
+  "lat": 24.71,
+  "lng": 46.68,
+  "text": "Until 2018, Saudi Arabia was the only country where women were banned from driving. In 1990, around 40 women drove through Riyadh in protest, and in 2011 activists like Manal al-Sharif posted videos of themselves at the wheel. The ban was finally lifted on 24 June 2018, though many of the campaigners were still under arrest.",
+  "collections": [
+   "remarkable-women",
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Amnesty International: Saudi Arabia - Women now allowed to drive, but more reforms must follow (21 June 2018)",
+   "url": "https://www.amnesty.org/en/latest/news/2018/06/saudi-arabia-women-now-allowed-to-drive-but-more-reforms-must-follow/"
+  },
+  "source2": {
+   "name": "Al Jazeera: Saudi women hit the road as driving ban is lifted (24 June 2018)",
+   "url": "https://www.aljazeera.com/news/2018/6/24/saudi-women-hit-the-road-as-driving-ban-is-lifted"
+  }
+ },
+ {
+  "id": "r3m-2023-earthquake",
+  "era": "modern",
+  "year": 2023,
+  "dateLabel": "February 6, 2023",
+  "emoji": "🏚️",
+  "cat": "nature",
+  "title": "Twin Earthquakes Shake Turkey and Syria",
+  "place": "Antakya, Hatay, Turkey",
+  "lat": 36.2,
+  "lng": 36.16,
+  "text": "Before dawn on 6 February 2023, a magnitude 7.8 earthquake struck south-central Turkey near the Syrian border, followed about nine hours later by a magnitude 7.5 shock. By the end of March more than 57,000 people had died. The aftershocks stretched for about 400 kilometres, from the Mediterranean coast inland to Malatya.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "USGS: Frequently Asked Questions about 2023 Earthquakes in Turkiye",
+   "url": "https://www.usgs.gov/programs/earthquake-hazards/science/frequently-asked-questions-about-2023-earthquakes-turkiye"
+  },
+  "source2": {
+   "name": "University of Potsdam / GFZ, DFG Research Training Group NatRiskChange, 'Task Force on the 2023 Türkiye Earthquake Sequence'",
+   "url": "https://uni-potsdam.de/fileadmin/projects/natriskchange/Qualification_programme/Task_Force_Turkey/TF_Report_Turkey_Earthquake.pdf"
+  }
+ }
+]

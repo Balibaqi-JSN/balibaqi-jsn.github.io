@@ -1,0 +1,590 @@
+[
+ {
+  "id": "ex-columbus",
+  "era": "exploration",
+  "year": 1492,
+  "dateLabel": "October 12, 1492",
+  "emoji": "⛵",
+  "cat": "journeys",
+  "title": "Columbus Lands in the Bahamas",
+  "place": "San Salvador Island, Bahamas",
+  "lat": 24.05,
+  "lng": -74.48,
+  "text": "After about five weeks at sea from the Canary Islands, Christopher Columbus's three ships reached an island in the Bahamas, home to the Lucayans, a Taíno people. Columbus insisted he had reached Asia. His voyages tied the Americas to Europe, Africa and Asia, but for the Lucayans they were a catastrophe: within a generation they had been carried off to forced labour and wiped out.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Christopher Columbus: The first voyage)",
+   "url": "https://www.britannica.com/biography/Christopher-Columbus/The-first-voyage"
+  },
+  "source2": {
+   "name": "Florida Museum of Natural History (University of Florida), Caribbean Archaeology: Peoples of the Turks & Caicos / Lucayans",
+   "url": "https://www.floridamuseum.ufl.edu/caribarch/education/tc-peoples/"
+  }
+ },
+ {
+  "id": "ex-vasco-da-gama",
+  "era": "exploration",
+  "year": 1498,
+  "dateLabel": "May 1498",
+  "emoji": "🌶️",
+  "cat": "journeys",
+  "title": "Vasco da Gama Reaches Calicut",
+  "place": "Kozhikode, India",
+  "lat": 11.25,
+  "lng": 75.78,
+  "text": "Portuguese captain Vasco da Gama sailed around Africa and, guided by a pilot hired in Malindi, crossed the Indian Ocean to Calicut. The local ruler, the Zamorin, was unimpressed by his cheap gifts of cloth, hats and honey. Still, the voyage opened the first sea route from western Europe to India, and more Portuguese fleets soon followed.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Vasco da Gama)",
+   "url": "https://www.britannica.com/biography/Vasco-da-Gama"
+  },
+  "source2": {
+   "name": "Project Gutenberg: A Journal of the First Voyage of Vasco da Gama, 1497-1499, tr. E. G. Ravenstein (Hakluyt Society, 1898)",
+   "url": "https://www.gutenberg.org/ebooks/46440"
+  }
+ },
+ {
+  "id": "ex-fall-of-tenochtitlan",
+  "era": "exploration",
+  "year": 1521,
+  "dateLabel": "August 13, 1521",
+  "emoji": "⚔️",
+  "cat": "power",
+  "title": "The Fall of Tenochtitlan",
+  "place": "Mexico City, Mexico",
+  "lat": 19.43,
+  "lng": -99.13,
+  "text": "After a long siege, Hernán Cortés's Spanish troops and tens of thousands of Indigenous allies, especially Tlaxcalans, captured the Aztec capital. A smallpox epidemic had already killed huge numbers of its people, including the emperor Cuitláhuac. The last emperor, Cuauhtémoc, was captured, and Mexico City was later built on top of the ruins.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Hernan Cortes)",
+   "url": "https://www.britannica.com/biography/Hernan-Cortes"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Cuitlahuac; Cuauhtemoc)",
+   "url": "https://www.britannica.com/biography/Cuitlahuac"
+  }
+ },
+ {
+  "id": "ex-elcano-victoria",
+  "era": "exploration",
+  "year": 1522,
+  "dateLabel": "September 6, 1522",
+  "emoji": "🌍",
+  "cat": "journeys",
+  "title": "First Voyage Around the World",
+  "place": "Sanlúcar de Barrameda, Spain",
+  "lat": 36.78,
+  "lng": -6.35,
+  "text": "The battered ship Victoria limped home with just 18 of the roughly 270 men who had set out three years earlier. Ferdinand Magellan had been killed in the Philippines, so Juan Sebastián Elcano led the final stretch. The survivors were puzzled to find their logbook a day behind: sailing west around the globe, they had 'lost' a day.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Ferdinand Magellan: Discovery of the Strait / Circumnavigation)",
+   "url": "https://www.britannica.com/biography/Ferdinand-Magellan/Discovery-of-the-Strait-of-Magellan"
+  },
+  "source2": {
+   "name": "Blair & Robertson, The Philippine Islands vol. 34 (Pigafetta's account), Project Gutenberg",
+   "url": "https://www.gutenberg.org/ebooks/47927"
+  }
+ },
+ {
+  "id": "ex-afonso-kongo",
+  "era": "exploration",
+  "year": 1526,
+  "dateLabel": "1526",
+  "emoji": "✉️",
+  "cat": "power",
+  "title": "A Kongo King Protests the Slave Trade",
+  "place": "Mbanza Kongo, Angola",
+  "lat": -6.27,
+  "lng": 14.24,
+  "text": "Afonso I, the Christian king of Kongo, wrote to the king of Portugal complaining that Portuguese traders were seizing his free people, even nobles' sons and his own relatives, and selling them as slaves. He asked for priests, teachers, doctors and pharmacists, and begged that no more traders be sent, since Kongo did not wish to export slaves.",
+  "source": {
+   "name": "Gilder Lehrman Institute of American History (Nzinga Mbemba to King Joao III, 1526; trans. from Thornton 2023)",
+   "url": "https://www.gilderlehrman.org/ap-african-american-studies/unit-1/southern-central-and-east-africa/nzinga-mbemba-king-joao-iii-1526"
+  },
+  "source2": {
+   "name": "Cambridge University Press, 'Cross-Cultural Experiments: The Materiality of Medicine in West-Central Africa' (doi 10.1017/9781108868020.003)",
+   "url": "https://doi.org/10.1017/9781108868020.003"
+  }
+ },
+ {
+  "id": "ex-potosi",
+  "era": "exploration",
+  "year": 1545,
+  "dateLabel": "1545",
+  "emoji": "⛰️",
+  "cat": "power",
+  "title": "Potosí's Mountain of Silver",
+  "place": "Potosí, Bolivia",
+  "lat": -19.59,
+  "lng": -65.75,
+  "text": "Silver was found in Cerro Rico, a mountain in the Andes, and Potosí boomed into one of the biggest cities in the Americas, about 4,000 metres above sea level. Its silver flowed to Spain and all the way to China. The wealth came at a terrible cost: Indigenous men were forced into dangerous mines under a labour draft called the mita.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Potosi)",
+   "url": "https://www.britannica.com/place/Potosi-Bolivia"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre (City of Potosi)",
+   "url": "https://whc.unesco.org/en/list/420"
+  }
+ },
+ {
+  "id": "ex-suleymaniye",
+  "era": "exploration",
+  "year": 1557,
+  "dateLabel": "1557",
+  "emoji": "🕌",
+  "cat": "culture",
+  "title": "Sinan's Masterpiece in Istanbul",
+  "place": "Istanbul, Turkey",
+  "lat": 41.02,
+  "lng": 28.96,
+  "text": "The architect Mimar Sinan finished the Süleymaniye Mosque for Sultan Suleiman the Magnificent, when the Ottoman Empire was at its height. Sinan started out as a military engineer and went on to design hundreds of buildings. Clever air currents carried the soot from the mosque's hundreds of oil lamps into a special 'soot room' above the entrance.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Historic Areas of Istanbul)",
+   "url": "https://whc.unesco.org/en/list/356"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Sinan, the Ottoman Empire's Master Architect)",
+   "url": "https://www.britannica.com/story/sinan-the-ottoman-empires-master-architect"
+  }
+ },
+ {
+  "id": "ex-manila-galleon",
+  "era": "exploration",
+  "year": 1571,
+  "dateLabel": "1571",
+  "emoji": "🚢",
+  "cat": "journeys",
+  "title": "The Manila Galleons Set Sail",
+  "place": "Manila, Philippines",
+  "lat": 14.59,
+  "lng": 120.98,
+  "text": "After Spain made Manila its colonial capital, great galleons crossed the Pacific between Manila and Acapulco in Mexico, usually about once a year. They carried Mexican silver west and Chinese silk and porcelain east, linking Asia and the Americas for about 250 years. The eastbound crossing took around six months.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Manila galleon)",
+   "url": "https://www.britannica.com/technology/Manila-galleon"
+  },
+  "source2": {
+   "name": "Guampedia (Jillette Leon-Guerrero, 'Navigation and Cargo of the Manila Galleons')",
+   "url": "https://www.guampedia.com/navigation-and-cargo-of-the-manila-galleons/"
+  }
+ },
+ {
+  "id": "ex-turtle-ships",
+  "era": "exploration",
+  "year": 1592,
+  "dateLabel": "1592",
+  "emoji": "🐢",
+  "cat": "power",
+  "title": "Admiral Yi's Turtle Ships",
+  "place": "Hansan Island, South Korea",
+  "lat": 34.77,
+  "lng": 128.48,
+  "text": "When Japanese armies invaded Korea, Admiral Yi Sun-sin fought back at sea, partly with turtle ships, warships with a covered roof bristling with iron spikes to stop enemies from boarding. In 1592 he lured a Japanese fleet into Hansan Bay and wrapped around it in a 'crane wing' formation. Yi won every sea battle he fought against the Japanese.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Yi Sun-shin)",
+   "url": "https://www.britannica.com/biography/Yi-Sun-shin"
+  },
+  "source2": {
+   "name": "EBSCO Research Starters (Jason Ridler, 'Battle of the Yellow Sea', 2019)",
+   "url": "https://www.ebsco.com/research-starters/military-history-and-science/battle-yellow-sea/"
+  }
+ },
+ {
+  "id": "ex-sweet-potato",
+  "era": "exploration",
+  "year": 1593,
+  "dateLabel": "1593",
+  "emoji": "🍠",
+  "cat": "daily",
+  "title": "Sweet Potatoes Reach China",
+  "place": "Fuzhou, China",
+  "lat": 26.07,
+  "lng": 119.3,
+  "text": "A Chinese merchant, Chen Zhenlong, brought sweet potato vines home to Fujian from Spanish-ruled Luzon in the Philippines, reportedly hidden in a rope. When famine struck, the governor urged farmers to plant them. This American crop thrived on poor hillsides, and along with maize and peanuts it helped China's population grow over the next two centuries.",
+  "source": {
+   "name": "Fuzhou Municipal People's Government (article from the city gazetteer office), 'China's father of the sweet potato' Chen Zhenlong",
+   "url": "https://www.fuzhou.gov.cn/zgfzzt/zjrc/mdfc/lswh/202210/t20221026_4457437.htm"
+  },
+  "source2": {
+   "name": "Asia for Educators, Columbia University, 'China in 1750: demographic change'",
+   "url": "http://afe.easia.columbia.edu/special/china_1750_demographic.htm"
+  }
+ },
+ {
+  "id": "ex-isfahan",
+  "era": "exploration",
+  "year": 1598,
+  "dateLabel": "1598",
+  "emoji": "🏇",
+  "cat": "daily",
+  "title": "Shah Abbas Rebuilds Isfahan",
+  "place": "Isfahan, Iran",
+  "lat": 32.66,
+  "lng": 51.68,
+  "text": "Shah Abbas I made Isfahan the capital of Safavid Iran and built Naqsh-e Jahan Square, the 'Image of the World', one of the largest city squares in the world at 560 metres long. Lined with mosques, a palace and a bazaar, its vast sandy esplanade hosted polo matches, celebrations and parades of troops.",
+  "source": {
+   "name": "Encyclopaedia Iranica (ISFAHAN vii. Safavid Period)",
+   "url": "https://www.iranicaonline.org/articles/isfahan-vii-safavid-period/"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre (Meidan Emam, Esfahan), text via UNESCO open data API",
+   "url": "https://whc.unesco.org/en/list/115"
+  }
+ },
+ {
+  "id": "ex-galileo-moons",
+  "era": "exploration",
+  "year": 1610,
+  "dateLabel": "January 1610",
+  "emoji": "🔭",
+  "cat": "discovery",
+  "title": "Galileo Spots Jupiter's Moons",
+  "place": "Padua, Italy",
+  "lat": 45.41,
+  "lng": 11.88,
+  "text": "Galileo Galilei pointed his home-made telescope at Jupiter and saw four little 'stars' that moved around it night after night. They were moons, proof that not everything in the sky circles the Earth. He named them after the powerful Medici family to win their favour, but today we call them Io, Europa, Ganymede and Callisto.",
+  "source": {
+   "name": "Museo Galileo, Florence (In depth: Jupiter's moons)",
+   "url": "https://catalogue.museogalileo.it/indepth/JupitersMoonsSatellites.html"
+  },
+  "source2": {
+   "name": "NASA Science (Night Sky Notes: From Galileo to Clipper, Exploring Jupiter's Moons)",
+   "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/octobers-night-sky-notes-from-galileo-to-clipper-exploring-jupiters-moons/"
+  }
+ },
+ {
+  "id": "ex-nzinga",
+  "era": "exploration",
+  "year": 1622,
+  "dateLabel": "1622",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "Nzinga Bargains with Portugal",
+  "place": "Luanda, Angola",
+  "lat": -8.84,
+  "lng": 13.23,
+  "text": "Nzinga, sister of the king of Ndongo, came to Luanda to negotiate with the Portuguese governor. A famous story says he offered her no chair, so she sat on a kneeling attendant's back to meet him at eye level. She later ruled Ndongo and Matamba, outwitting the Portuguese for decades with war, diplomacy and alliances with the Dutch.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Nzinga)",
+   "url": "https://www.britannica.com/biography/Nzinga"
+  },
+  "source2": {
+   "name": "South African History Online, 'Njinga Ana de Sousa'",
+   "url": "https://sahistory.org.za/people/njinga-ana-de-sousa"
+  }
+ },
+ {
+  "id": "ex-taj-mahal",
+  "era": "exploration",
+  "year": 1632,
+  "dateLabel": "1632",
+  "emoji": "🤍",
+  "cat": "culture",
+  "title": "Shah Jahan Begins the Taj Mahal",
+  "place": "Agra, India",
+  "lat": 27.18,
+  "lng": 78.04,
+  "text": "Mughal emperor Shah Jahan began the Taj Mahal as a tomb for his beloved wife Mumtaz Mahal, who died in childbirth after bearing him 14 children. More than 20,000 workers built the complex over about 22 years. Work began around 1632, and its gleaming white marble is inlaid with semi-precious stones.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Taj Mahal)",
+   "url": "https://www.britannica.com/topic/Taj-Mahal"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre (Taj Mahal), text via UNESCO open data API",
+   "url": "https://whc.unesco.org/en/list/252"
+  }
+ },
+ {
+  "id": "ex-tulip-mania",
+  "era": "exploration",
+  "year": 1637,
+  "dateLabel": "February 1637",
+  "emoji": "🌷",
+  "cat": "daily",
+  "title": "Tulip Mania Goes Bust",
+  "place": "Haarlem, Netherlands",
+  "lat": 52.38,
+  "lng": 4.64,
+  "text": "In the Dutch Republic, prices for rare tulip bulbs soared, especially striped ones, whose stripes were actually caused by a virus. The most expensive bulbs cost around 5,000 guilders, while a master craftsman earned about 300 guilders a year. Then in early February 1637 the bottom fell out of the market: most buyers would not pay, and sellers were left holding the bulbs.",
+  "source": {
+   "name": "Britannica Money (Tulip Mania, by Doug Ashburn)",
+   "url": "https://www.britannica.com/money/Tulip-Mania"
+  },
+  "source2": {
+   "name": "The Conversation, Anne Goldgar (King's College London), 'Tulip mania: the classic story of a Dutch financial bubble is mostly wrong'",
+   "url": "https://theconversation.com/tulip-mania-the-classic-story-of-a-dutch-financial-bubble-is-mostly-wrong-91413"
+  }
+ },
+ {
+  "id": "ex-dejima",
+  "era": "exploration",
+  "year": 1641,
+  "dateLabel": "1641",
+  "emoji": "🏝️",
+  "cat": "journeys",
+  "title": "Japan's Tiny Window: Dejima",
+  "place": "Nagasaki, Japan",
+  "lat": 32.74,
+  "lng": 129.87,
+  "text": "Japan's Tokugawa shoguns sharply limited contact with Europeans and moved Dutch traders onto Dejima, a small fan-shaped artificial island in Nagasaki harbour. For about two centuries it was the only place Europeans could trade in Japan. Through it came books on Western medicine and science, which Japanese scholars studied as 'Dutch learning'.",
+  "source": {
+   "name": "Japan Tourism Agency multilingual commentary database (MLIT): Dejima Dutch Trading Post",
+   "url": "https://www.mlit.go.jp/tagengo-db/common/001564006.pdf"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (sakoku)",
+   "url": "https://www.britannica.com/topic/sakoku"
+  }
+ },
+ {
+  "id": "ex-mocha-coffee",
+  "era": "exploration",
+  "year": 1650,
+  "dateLabel": "About 1650",
+  "emoji": "☕",
+  "cat": "daily",
+  "title": "Coffee Sails from Mocha",
+  "place": "Mocha, Yemen",
+  "lat": 13.32,
+  "lng": 43.25,
+  "text": "Yemen was the world's main source of coffee, and its port of Mocha shipped beans across the Middle East and the Ottoman world and, more and more, to Europe. Sufi mystics in Yemen drank coffee to stay awake through night-time prayers. The port's name stuck around, and today a café mocha is a mix of coffee and chocolate.",
+  "source": {
+   "name": "The Conversation (Ibrahim Al-Marashi, CSU San Marcos), 'The Mocha monopoly', republished by Down To Earth",
+   "url": "https://downtoearth.org.in/economy/the-mocha-monopoly-how-yemens-dominance-of-the-global-coffee-trade-birthed-the-houthi-rebels"
+  },
+  "source2": {
+   "name": "JSTOR Daily, Matthew Wills, 'Why Coffee is Sometimes Called Mocha'",
+   "url": "https://daily.jstor.org/why-coffee-is-sometimes-called-mocha/"
+  }
+ },
+ {
+  "id": "ex-pueblo-revolt",
+  "era": "exploration",
+  "year": 1680,
+  "dateLabel": "August 1680",
+  "emoji": "🪢",
+  "cat": "power",
+  "title": "The Pueblo Revolt",
+  "place": "Santa Fe, United States",
+  "lat": 35.69,
+  "lng": -105.94,
+  "text": "Led by a Tewa religious leader named Popé, Pueblo peoples rose up against Spanish colonists who had banned their religion and forced them to work. Runners carried knotted cords between villages; each day one knot was untied, counting down to the uprising. The Spanish were driven out of Santa Fe and stayed away for 12 years.",
+  "source": {
+   "name": "Architect of the Capitol: Po'pay statue",
+   "url": "https://www.aoc.gov/explore-capitol-campus/art/popay-statue"
+  },
+  "source2": {
+   "name": "Library of Congress, In Custodia Legis: '1680: The Pueblo Revolt'",
+   "url": "https://blogs.loc.gov/law/2013/10/1680-the-pueblo-revolt/"
+  }
+ },
+ {
+  "id": "ex-newton-principia",
+  "era": "exploration",
+  "year": 1687,
+  "dateLabel": "1687",
+  "emoji": "🍎",
+  "cat": "discovery",
+  "title": "Newton Explains Gravity",
+  "place": "Cambridge, United Kingdom",
+  "lat": 52.21,
+  "lng": 0.12,
+  "text": "Cambridge professor Isaac Newton published the Principia, showing how one force, gravity, makes apples fall and also keeps the Moon and planets in their orbits. His three laws of motion revolutionized science and still explain how aircraft and rockets fly. The astronomer Edmond Halley urged him to write it and even paid for the printing out of his own pocket.",
+  "source": {
+   "name": "The Newton Project (University of Oxford), Brewster's Life of Newton, ch. XII",
+   "url": "https://www.newtonproject.ox.ac.uk/view/texts/normalized/OTHE00128"
+  },
+  "source2": {
+   "name": "Cambridge University Library, Newton Papers: Principia",
+   "url": "https://cudl.lib.cam.ac.uk/view/MS-ROYALSOCIETY-00069/7"
+  }
+ },
+ {
+  "id": "ex-kangxi-dictionary",
+  "era": "exploration",
+  "year": 1716,
+  "dateLabel": "1716",
+  "emoji": "📕",
+  "cat": "culture",
+  "title": "The Kangxi Dictionary",
+  "place": "Beijing, China",
+  "lat": 39.91,
+  "lng": 116.4,
+  "text": "The Qing emperor Kangxi ordered scholars to compile a giant dictionary of Chinese characters, completed in 1716. It lists more than 40,000 characters, sorted under 'radicals', shared building-block shapes. Most standard dictionaries still arrange characters by radical and stroke count today, and Kangxi himself ruled for six decades, from 1661 to 1722.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Kangxi' and 'Chinese languages' (Kangxi zidian entries)",
+   "url": "https://www.britannica.com/biography/Kangxi"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'History of China: The Ming dynasty'",
+   "url": "https://www.britannica.com/topic/history-of-China/The-Ming-dynasty"
+  }
+ },
+ {
+  "id": "ex-agojie",
+  "era": "exploration",
+  "year": 1730,
+  "dateLabel": "About 1730",
+  "emoji": "🛡️",
+  "cat": "power",
+  "title": "Dahomey's Women Soldiers",
+  "place": "Abomey, Benin",
+  "lat": 7.18,
+  "lng": 1.99,
+  "text": "The West African kingdom of Dahomey had an all-female military regiment, the Agojie, whom Europeans called 'Amazons'. They trained fiercely, guarded the king's palace and fought in many wars. Dahomey also grew rich by selling war captives into the Atlantic slave trade, a painful part of its story. The 2022 film The Woman King was inspired by them.",
+  "source": {
+   "name": "The Conversation, Dominique Somda (University of Cape Town), 'The Woman King is more than an action movie'",
+   "url": "https://theconversation.com/the-woman-king-is-more-than-an-action-movie-it-shines-a-light-on-the-women-warriors-of-benin-190466"
+  },
+  "source2": {
+   "name": "Smithsonian Magazine, Meilan Solly, 'The Real Warriors Behind The Woman King' (Sept 15, 2022)",
+   "url": "https://www.smithsonianmag.com/history/real-warriors-woman-king-dahomey-agojie-amazons-180980750/"
+  }
+ },
+ {
+  "id": "ex-cook-tahiti",
+  "era": "exploration",
+  "year": 1769,
+  "dateLabel": "June 3, 1769",
+  "emoji": "🪐",
+  "cat": "discovery",
+  "title": "Watching Venus from Tahiti",
+  "place": "Point Venus, French Polynesia",
+  "lat": -17.5,
+  "lng": -149.49,
+  "text": "James Cook sailed to Tahiti so astronomers could time Venus crossing the face of the Sun, to help work out the distance from Earth to the Sun. The Tahitian navigator and priest Tupaia then joined the voyage and drew a remarkable chart of Pacific islands from his own knowledge. He also helped the British talk with Māori in New Zealand.",
+  "source": {
+   "name": "National Library of Australia, Digital Classroom: Transit of Venus",
+   "url": "https://www.library.gov.au/learn/digital-classroom/science-and-strategy-enlightenment/transit-venus"
+  },
+  "source2": {
+   "name": "University of Potsdam, Institute of English and American Studies: Tupaia's Map",
+   "url": "https://www.uni-potsdam.de/en/iaa-cult/staff/schwarz/tupaias-map"
+  }
+ },
+ {
+  "id": "ex-declaration",
+  "era": "exploration",
+  "year": 1776,
+  "dateLabel": "July 4, 1776",
+  "emoji": "📜",
+  "cat": "power",
+  "title": "America Declares Independence",
+  "place": "Philadelphia, United States",
+  "lat": 39.95,
+  "lng": -75.15,
+  "text": "Thirteen British colonies declared independence in a document drafted mostly by Thomas Jefferson, which proclaimed that all men are created equal. Yet many signers, Jefferson included, enslaved people, a contradiction critics pointed out even at the time. Surprisingly, most delegates didn't sign the famous handwritten copy until August 2.",
+  "source": {
+   "name": "U.S. National Archives: The Declaration of Independence: A History",
+   "url": "https://www.archives.gov/founding-docs/declaration-history"
+  },
+  "source2": {
+   "name": "Thomas Jefferson Foundation (Monticello): Thomas Jefferson, Liberty & Slavery",
+   "url": "https://www.monticello.org/slavery/jefferson-slavery/thomas-jefferson-liberty-slavery"
+  }
+ },
+ {
+  "id": "ex-goree",
+  "era": "exploration",
+  "year": 1780,
+  "dateLabel": "About 1780",
+  "emoji": "🚪",
+  "cat": "journeys",
+  "title": "Gorée and the Door of No Return",
+  "place": "Gorée, Senegal",
+  "lat": 14.67,
+  "lng": -17.4,
+  "text": "Gorée, a small island off Dakar, was a European trading post during the Atlantic slave trade, when millions of Africans were forced across the ocean to the Americas. Its House of Slaves, built in the late 1700s, is now a museum and memorial. Historians debate how many captives actually passed through Gorée, but its 'Door of No Return' has become a powerful symbol.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Island of Gorée",
+   "url": "https://whc.unesco.org/en/list/26"
+  },
+  "source2": {
+   "name": "Associated Press (Rukmini Callimachi), 'Obama visits slave site of disputed importance', 27 June 2013",
+   "url": "https://www.yahoo.com/news/obama-visits-slave-disputed-importance-184652857.html"
+  }
+ },
+ {
+  "id": "ex-tupac-amaru",
+  "era": "exploration",
+  "year": 1780,
+  "dateLabel": "November 1780",
+  "emoji": "🔥",
+  "cat": "power",
+  "title": "Túpac Amaru II's Rebellion",
+  "place": "Tinta, Peru",
+  "lat": -14.14,
+  "lng": -71.41,
+  "text": "José Gabriel Condorcanqui, a descendant of the last Inca ruler, took the name Túpac Amaru II and led a huge uprising against Spanish colonial abuses in the Andes. His wife, Micaela Bastidas, issued orders, organised supplies and coordinated attacks. The Spanish crushed the revolt and executed them both in Cusco in 1781, but both are honoured as heroes in Peru today.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Tupac Amaru II",
+   "url": "https://www.britannica.com/biography/Tupac-Amaru-II"
+  },
+  "source2": {
+   "name": "Biblioteca Nacional del Perú: Sara Beatriz Guardia, 'Micaela Bastidas' (digital edition)",
+   "url": "https://repositoriodigital.bnp.gob.pe/bnp/recursos/2/html/micaela-bastidas/"
+  }
+ },
+ {
+  "id": "ex-laki",
+  "era": "exploration",
+  "year": 1783,
+  "dateLabel": "June 1783",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "Laki's Poison Fog",
+  "place": "Laki, Iceland",
+  "lat": 64.07,
+  "lng": -18.23,
+  "text": "The Laki volcano in Iceland erupted from a crack about 25 kilometres long for eight months, pouring out lava and poisonous gas. Most of Iceland's sheep died, and in the famine that followed about a fifth of Iceland's people perished. A strange haze drifted over Europe, and that summer the English naturalist Gilbert White saw the sun turn blood-coloured at sunrise and sunset.",
+  "source": {
+   "name": "USGS Hawaiian Volcano Observatory: Volcano Watch, Laki and Eldgjá",
+   "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-laki-and-eldgj-two-good-reasons-live-hawaii"
+  },
+  "source2": {
+   "name": "Mortality induced by PM2.5 exposure following the 1783 Laki eruption, PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6203706/"
+  }
+ },
+ {
+  "id": "ex-bastille",
+  "era": "exploration",
+  "year": 1789,
+  "dateLabel": "July 14, 1789",
+  "emoji": "🗝️",
+  "cat": "power",
+  "title": "Storming the Bastille",
+  "place": "Paris, France",
+  "lat": 48.85,
+  "lng": 2.37,
+  "text": "Angry Parisians, worried about soaring bread prices and royal troops, stormed the Bastille, a royal fortress-prison, looking for gunpowder. Inside they found just seven prisoners. The attack became the symbol of the French Revolution, July 14 is now France's national holiday, and Lafayette later sent one of the Bastille's keys to George Washington.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Bastille",
+   "url": "https://www.britannica.com/topic/Bastille"
+  },
+  "source2": {
+   "name": "George Washington's Mount Vernon: Bastille Key",
+   "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/bastille-key"
+  }
+ },
+ {
+  "id": "ex-haitian-revolution",
+  "era": "exploration",
+  "year": 1791,
+  "dateLabel": "August 1791",
+  "emoji": "✊",
+  "cat": "power",
+  "title": "The Haitian Revolution Begins",
+  "place": "Cap-Haïtien, Haiti",
+  "lat": 19.76,
+  "lng": -72.2,
+  "text": "Enslaved people in the French colony of Saint-Domingue, then the most profitable colony in the Americas thanks to its sugar and coffee, organised and planned a huge revolt. Led later by Toussaint Louverture, a formerly enslaved man, they fought off French, Spanish and British armies. In 1804 Haiti became the first nation founded by people who had freed themselves from slavery.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Haitian Revolution",
+   "url": "https://www.britannica.com/topic/Haitian-Revolution"
+  },
+  "source2": {
+   "name": "U.S. Department of State, Office of the Historian: The United States and the Haitian Revolution, 1791-1804",
+   "url": "https://history.state.gov/milestones/1784-1800/haitian-rev"
+  }
+ }
+]

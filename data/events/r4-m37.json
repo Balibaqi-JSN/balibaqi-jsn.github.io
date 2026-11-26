@@ -1,0 +1,354 @@
+[
+ {
+  "id": "m37-mahasthan-parrot-proof-granary",
+  "era": "classical",
+  "year": -250,
+  "dateLabel": "c. 3rd century BCE (Maurya age)",
+  "cat": "daily",
+  "title": "A Granary Against Fire, Flood and Parrots",
+  "place": "Mahasthangarh, Bogra, Bangladesh",
+  "lat": 24.96,
+  "lng": 89.34,
+  "text": "A broken stone found at Mahasthan carries one of Bengal's oldest written orders, in Brahmi letters and Prakrit language. A ruler told his official at 'Pudanagala' to help a distressed people with oil, paddy and small coins, and to keep a storehouse stocked for emergencies caused by water, fire, or parrots devastating the crops.",
+  "source": {
+   "name": "Banglapedia: Mahasthan Brahmi Inscription",
+   "url": "https://en.banglapedia.org/index.php/Mahasthan_Brahmi_Inscription"
+  }
+ },
+ {
+  "id": "m37-wari-bateshwar-river-port",
+  "era": "classical",
+  "year": -500,
+  "dateLabel": "About 500 BCE",
+  "cat": "journeys",
+  "title": "A Fort-City Port on Bengal's Rivers",
+  "place": "Wari-Bateshwar, Narsingdi, Bangladesh",
+  "lat": 24.08,
+  "lng": 90.83,
+  "text": "Around 2,500 years ago a fortified city stood at Wari-Bateshwar, with four mud ramparts around an enclosure 600 metres square. Beads of semi-precious stone and glass still turn up here, along with two types of silver punch-marked coins. Archaeologists see it as a wealthy trade centre and probably a river port.",
+  "source": {
+   "name": "Banglapedia: Wari-Bateshwar",
+   "url": "https://en.banglapedia.org/index.php/Wari-Bateshwar"
+  }
+ },
+ {
+  "id": "m37-takht-i-bahi-hilltop-monastery",
+  "era": "classical",
+  "year": 20,
+  "dateLabel": "Early 1st century CE",
+  "cat": "culture",
+  "title": "The Monastery on the Throne of Origins",
+  "place": "Takht-i-Bahi, Mardan, Khyber Pakhtunkhwa, Pakistan",
+  "lat": 34.29,
+  "lng": 71.95,
+  "text": "Buddhist monks founded Takht-i-Bahi, the 'Throne of Origins', on a ring of Gandharan hilltops in the early 1st century CE. Its stupa courts, meditation cells and assembly hall stayed in use until the 7th century. Perched high up, it escaped successive invasions and is now the most complete Buddhist monastery in Pakistan.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol",
+   "url": "https://whc.unesco.org/en/list/140"
+  }
+ },
+ {
+  "id": "m37-farmana-proto-curry",
+  "era": "ancient",
+  "year": -2400,
+  "dateLabel": "About 2600-2200 BCE",
+  "cat": "daily",
+  "title": "Ginger and Turmeric in a Harappan Pot",
+  "place": "Farmana, Rohtak, Haryana, India",
+  "lat": 29.03,
+  "lng": 76.3,
+  "text": "At the Harappan village of Farmana, occupied around 2600-2200 BCE, researchers scraped tiny starch grains from a handi, a deep narrow-mouthed cooking pot. They found traces of ginger, turmeric and eggplant. The team also studies starch trapped in tartar on human teeth, and even cattle teeth, and has identified barley, millets and mango at the site.",
+  "source": {
+   "name": "Antiquity Project Gallery (Kashyap and Weber, Washington State University Vancouver): Harappan plant use revealed by starch grains from Farmana, India",
+   "url": "https://antiquity.ac.uk/projgall/kashyap326/"
+  }
+ },
+ {
+  "id": "m37-harappan-rivers-dry-up",
+  "era": "ancient",
+  "year": -1900,
+  "dateLabel": "About 3,900 years ago",
+  "cat": "nature",
+  "title": "When the Monsoon Rivers Faltered",
+  "place": "Ghaggar-Hakra plain, Haryana, India",
+  "lat": 29.5,
+  "lng": 75.2,
+  "text": "Harappan cities flourished for about 600 years, but from roughly 3,900 years ago settlements shrank, many were abandoned, and people shifted east. Geologists found that the region's rivers were fed by the monsoon, not Himalayan glaciers. As the monsoon weakened they dried up or became seasonal, and settlements multiplied in the moister lands of upper Punjab, Haryana and Uttar Pradesh.",
+  "source": {
+   "name": "Giosan et al., PNAS (2012): Fluvial landscapes of the Harappan civilization",
+   "url": "https://europepmc.org/article/PMC/PMC3387054"
+  }
+ },
+ {
+  "id": "m37-damodarpur-town-board",
+  "era": "classical",
+  "year": 478,
+  "dateLabel": "478 CE (copper plates of Budhagupta)",
+  "cat": "power",
+  "title": "Banker, Merchant, Artisan and Scribe",
+  "place": "Damodarpur, Dinajpur, Bangladesh",
+  "lat": 25.6,
+  "lng": 88.9,
+  "text": "Copper plates found at Damodarpur show that northern Bengal was still part of the Gupta empire under Budhagupta, in 478 CE. They also reveal how its Kotivarsa district was run: the governor worked with an advisory board of four local leaders, namely the chief banker of the town, the chief merchant, the chief artisan and the chief scribe.",
+  "source": {
+   "name": "Banglapedia: Gupta Rule",
+   "url": "https://en.banglapedia.org/index.php?title=Gupta_Rule"
+  }
+ },
+ {
+  "id": "m37-paharpur-jaina-copperplate",
+  "era": "classical",
+  "year": 479,
+  "dateLabel": "479 CE (Gupta Era 159)",
+  "cat": "culture",
+  "title": "A Couple Buys Land for Jains",
+  "place": "Paharpur, Naogaon, Bangladesh",
+  "lat": 25.03,
+  "lng": 88.98,
+  "text": "In 479 CE a Brahman couple in Bengal bought a piece of land and granted it to maintain the worship of Arhats and a resting place at a vihara at Vatagohali, run by the Jaina teacher Guhanandin. Their copper-plate charter later turned up in the ruins of the great Buddhist monastery at Paharpur, perhaps kept by monks who took over the land.",
+  "source": {
+   "name": "Banglapedia: Paharpur",
+   "url": "https://en.banglapedia.org/index.php?title=Paharpur"
+  }
+ },
+ {
+  "id": "m37-kotada-bhadli-dairy",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2300-1950 BCE",
+  "cat": "daily",
+  "title": "South Asia's Earliest Proven Dairy",
+  "place": "Kotada Bhadli, Kachchh, Gujarat, India",
+  "lat": 23.33,
+  "lng": 69.42,
+  "text": "Kotada Bhadli was a small farming and herding settlement of the Indus Civilization, lived in from about 2300 to 1950 BCE. Chemists tested fat soaked into 59 broken cooking pots and bowls and found the earliest direct evidence of dairy processing in South Asia, mostly from cattle and possibly some water buffalo. Milk let herders build surpluses without slaughtering their animals.",
+  "source": {
+   "name": "Chakraborty et al., Scientific Reports (2020): Compound specific isotope analysis of lipid residues provides the earliest direct evidence of dairy product processing in South Asia",
+   "url": "https://europepmc.org/article/PMC/PMC7528006"
+  }
+ },
+ {
+  "id": "m37-harappa-hard-times",
+  "era": "ancient",
+  "year": -1850,
+  "dateLabel": "After 1900 BCE",
+  "cat": "daily",
+  "title": "Hard Times in Late Harappa",
+  "place": "Harappa, Sahiwal, Punjab, Pakistan",
+  "lat": 30.63,
+  "lng": 72.86,
+  "text": "After 1900 BCE, as the Indus Civilization came apart, skeletons from Harappa show infections and diseases such as leprosy and tuberculosis becoming more common. The risks were uneven: socially and economically marginalized groups suffered most. Outside the city wall, an ossuary held a small group of skulls, half of them showing injuries.",
+  "source": {
+   "name": "Robbins Schug et al., PLOS ONE (2013): Infection, disease, and biosocial processes at the end of the Indus Civilization",
+   "url": "https://europepmc.org/article/PMC/PMC3866234"
+  }
+ },
+ {
+  "id": "m37-mustang-high-valley-people",
+  "era": "ancient",
+  "year": -1200,
+  "dateLabel": "About 3,150 years ago",
+  "cat": "journeys",
+  "title": "Ancient Genomes From the Himalayan Heights",
+  "place": "Annapurna Conservation Area, Gandaki, Nepal",
+  "lat": 28.98,
+  "lng": 83.85,
+  "text": "Valleys over 3,000 metres high in the Himalayas were among the last places people settled for good, facing cold, thin air and scarce food. Genomes of eight people from Nepal's Annapurna area, spanning 3,150 to 1,250 years ago, point to a high-altitude East Asian origin. Their tools and customs changed over the centuries, yet the population itself stayed remarkably stable.",
+  "source": {
+   "name": "Jeong et al., PNAS (2016): Long-term genetic stability and a high-altitude East Asian origin for the peoples of the high valleys of the Himalayan arc",
+   "url": "https://europepmc.org/article/MED/27325755"
+  }
+ },
+ {
+  "id": "m37-quetta-ibex-jar",
+  "era": "ancient",
+  "year": -2700,
+  "dateLabel": "c. 2800-2500 BCE",
+  "cat": "culture",
+  "title": "Four Ibex on a Wheel-Made Jar",
+  "place": "Quetta area, Balochistan, Pakistan",
+  "lat": 30.18,
+  "lng": 67.0,
+  "text": "This black-painted jar, probably from the Quetta area, was made around 2800-2500 BCE, in the world of the Indus Valley civilization. Its walls are so thin it must have been thrown on a potter's wheel. Around it march four male ibex, wild mountain goats with hugely exaggerated curving horns and three hairs drawn under each chin.",
+  "source": {
+   "name": "Cleveland Museum of Art: Jar with Four Ibex (2001.1)",
+   "url": "https://clevelandart.org/art/2001.1"
+  }
+ },
+ {
+  "id": "m37-sutkagen-dor-coastal-fort",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 4,000 years ago",
+  "cat": "journeys",
+  "title": "A Harappan Fort Near the Arabian Sea",
+  "place": "Sutkagen-dor, Dasht Valley, Balochistan, Pakistan",
+  "lat": 25.52,
+  "lng": 61.95,
+  "text": "Far west of the Indus, in the Dasht River valley near today's Iran border, Harappans built Sutkagen-dor, a citadel ringed by a massive wall of semi-dressed stone. Its pottery is pure Harappan. Archaeologists from the Penn Museum argued that this fort, and a twin at Sotka-koh near Pasni, worked as way-stations for coastal sea trade with the West.",
+  "source": {
+   "name": "Penn Museum, Expedition Magazine (George F. Dales, 1962): A Search for Ancient Seaports",
+   "url": "https://www.penn.museum/sites/expedition/a-search-for-ancient-seaports/"
+  }
+ },
+ {
+  "id": "m37-copper-anthropomorph",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "c. 1500-1000 BCE",
+  "cat": "discovery",
+  "title": "The Mystery Copper Figures",
+  "place": "Ganga-Yamuna plain, Uttar Pradesh, India",
+  "lat": 27.2,
+  "lng": 79.0,
+  "text": "Flat copper 'anthropomorphs', shaped roughly like a person with outstretched arms, are among the few artworks known from India in the long gap between the Indus cities and the Maurya empire. Most were discovered in the plains of the Ganges and Yamuna rivers. Their bold, abstract shape is striking, but what they meant or were used for is still a mystery.",
+  "source": {
+   "name": "Cleveland Museum of Art: Anthropomorph (2004.31)",
+   "url": "https://clevelandart.org/art/2004.31"
+  }
+ },
+ {
+  "id": "m37-udegram-swat-graves",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1000 BCE (later Udegram graves, 1002-783 BCE)",
+  "cat": "culture",
+  "title": "Bones in Baskets in the Swat Valley",
+  "place": "Udegram, Swat, Khyber Pakhtunkhwa, Pakistan",
+  "lat": 34.75,
+  "lng": 72.3,
+  "text": "People of the Swat Valley used these graveyards from about 1400 to 800 BCE. At Udegram, some of the dead were reburied later, with the skull always placed on top of neatly packed long bones, sometimes kept in baskets. Graves held a wooden vessel, iron and copper pins, a tiny clay female figurine and a crescent-shaped gold earring.",
+  "source": {
+   "name": "Vidale and Micheli, Antiquity (2017): Protohistoric graveyards of the Swat Valley, Pakistan",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/protohistoric-graveyards-of-the-swat-valley-pakistan-new-light-on-funerary-practices-and-absolute-chronology/12E80F85D723D017F17D4B5EAB2CD71E"
+  }
+ },
+ {
+  "id": "m37-pataliputra-yaksha-head",
+  "era": "classical",
+  "year": -350,
+  "dateLabel": "300s BCE",
+  "cat": "culture",
+  "title": "A Clay Face From the Maurya Capital",
+  "place": "Bulandibagh, Patna, Bihar, India",
+  "lat": 25.6,
+  "lng": 85.18,
+  "text": "This small terracotta head, found at Bulandibagh on the site of the Maurya capital Pataliputra, wears a large turban and earring. It may show a yaksha, a nature spirit worshipped for wealth and prosperity, and was perhaps set up in a family shrine at home. Its fleshy face and parted lips are typical of Maurya-period sculpture.",
+  "source": {
+   "name": "Cleveland Museum of Art: Male Head, possibly a Yaksha (1986.72)",
+   "url": "https://clevelandart.org/art/1986.72"
+  }
+ },
+ {
+  "id": "m37-chandraketugarh-mermaid-earring",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "c. 100 BCE",
+  "cat": "culture",
+  "title": "Eight Fish-Tailed Women in Ivory",
+  "place": "Chandraketugarh, North 24 Parganas, West Bengal, India",
+  "lat": 22.69,
+  "lng": 88.69,
+  "text": "Around 100 BCE, a carver in the Chandraketugarh area of Bengal made this ivory disc, possibly part of a huge earring worn in stretched earlobes that rested on the shoulders. Eight figures, half woman and half fish, hold hands in a ring around lotus flowers. Their hands and tails form a lucky trident-shaped symbol, evoking life-giving waters.",
+  "source": {
+   "name": "Cleveland Museum of Art: Roundel with Mermaids and Lotus (2010.295)",
+   "url": "https://clevelandart.org/art/2010.295"
+  }
+ },
+ {
+  "id": "m37-buner-party-stairs",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "c. 100 CE",
+  "cat": "journeys",
+  "title": "A Party Carved on Stupa Steps",
+  "place": "Buner, Khyber Pakhtunkhwa, Pakistan",
+  "lat": 34.5,
+  "lng": 72.5,
+  "text": "Carved panels from the Buner area of Gandhara probably decorated the steps up to a Buddhist stupa. On them, Phrygians in trousers and pointed caps play music, dance and clap, while Greeks drink and carry wine. Such lively scenes of foreigners filled the lower parts of monuments in a region crossed by many travellers during busy trade with the Mediterranean world.",
+  "source": {
+   "name": "Cleveland Museum of Art: Foreigners and Non-Buddhists Drink, Dance, and Play Music, from a Buddhist Stupa Site (1930.328)",
+   "url": "https://clevelandart.org/art/1930.328"
+  }
+ },
+ {
+  "id": "m37-mathura-seated-buddha",
+  "era": "classical",
+  "year": 120,
+  "dateLabel": "c. 120 CE",
+  "cat": "culture",
+  "title": "Mathura's Red Stone Buddha",
+  "place": "Mathura, Uttar Pradesh, India",
+  "lat": 27.49,
+  "lng": 77.67,
+  "text": "Sculptors at Mathura carved this early Buddha image from mottled red sandstone around 120 CE, in the Kushan period. He sits under the Bodhi tree with a solar disc behind his head like a halo. His coiled topknot and long earlobes recall his youth as a prince wearing a turban and heavy earrings, and lions on the throne show his teaching spreading in all four directions.",
+  "source": {
+   "name": "Cleveland Museum of Art: Seated Shakyamuni Buddha (1970.63)",
+   "url": "https://clevelandart.org/art/1970.63"
+  }
+ },
+ {
+  "id": "m37-butkara-musicians",
+  "era": "classical",
+  "year": 150,
+  "dateLabel": "2nd century CE (100s)",
+  "cat": "culture",
+  "title": "Heavenly Musicians of Swat",
+  "place": "Butkara, Swat, Khyber Pakhtunkhwa, Pakistan",
+  "lat": 34.77,
+  "lng": 72.37,
+  "text": "Set high on a Buddhist building in Swat, probably around Butkara, this carved bracket shows a pair of celestial musicians on a lotus. The bearded man plays a lute-like instrument, and the young woman, her hair in a garland-wrapped bun, holds a clapper much like the kartal still used in parts of India today. Their draped robes echo Greek clothing.",
+  "source": {
+   "name": "Cleveland Museum of Art: Bracket with Two Musicians (1980.15)",
+   "url": "https://clevelandart.org/art/1980.15"
+  }
+ },
+ {
+  "id": "m37-ahichchatra-temple-couple",
+  "era": "classical",
+  "year": 450,
+  "dateLabel": "400s CE",
+  "cat": "culture",
+  "title": "A Loving Couple on a Brick Temple",
+  "place": "Ahichchatra, Bareilly, Uttar Pradesh, India",
+  "lat": 28.37,
+  "lng": 79.13,
+  "text": "Gupta-period brick temples were decorated with terracotta instead of stone, and this clay roundel from Ahichchatra once adorned such a building. It shows an amorous couple, or mithuna, among the commonest images on the outside of sacred sites, because their life-affirming joy was thought to bring good fortune. Ruins of a pyramid-shaped brick Shiva temple still stand at Ahichchatra.",
+  "source": {
+   "name": "Cleveland Museum of Art: Amorous Couple (Mithuna) (1971.133)",
+   "url": "https://clevelandart.org/art/1971.133"
+  }
+ },
+ {
+  "id": "m37-pandu-rajar-dhibi-villagers",
+  "era": "ancient",
+  "year": -1600,
+  "dateLabel": "c. 1600 BCE (start of Bengal's Copper Age)",
+  "cat": "daily",
+  "title": "Rice, Fish and Copper Fish-Hooks",
+  "place": "Pandu Rajar Dhibi, Paschim Bardhaman, West Bengal, India",
+  "lat": 23.6,
+  "lng": 87.72,
+  "text": "Pandu Rajar Dhibi, beside the Ajay river, was the first Copper Age site found in West Bengal, a period there dated to about 1600-750 BCE. Its villagers lived in round to square huts with mud-plastered walls and ate rice, meat, fish and fruit. Later layers held copper beads, bangles, fish-hooks and kohl-sticks, and signs of a great fire.",
+  "source": {
+   "name": "Banglapedia: Pandu Rajar Dhibi",
+   "url": "https://en.banglapedia.org/index.php?title=Pandu_Rajar_Dhibi"
+  }
+ },
+ {
+  "id": "m37-mahisdal-iron-tools",
+  "era": "ancient",
+  "year": -750,
+  "dateLabel": "About 750 BCE",
+  "cat": "discovery",
+  "title": "Iron Tools on the Kopai River",
+  "place": "Mahisdal, Birbhum, West Bengal, India",
+  "lat": 23.67,
+  "lng": 87.7,
+  "text": "At Mahisdal, on the Kopai river, early farmers stored rice in a pit granary; carbonized grains survive, and the earliest dates there go back to 1619-1415 BCE. That village ended in a large fire. In the next phase, dated to about 750 BCE, people used iron arrowheads, spearheads, chisels and nails alongside copper fish-hooks and bangles, until fire struck again.",
+  "source": {
+   "name": "Banglapedia: Mahisdal",
+   "url": "https://en.banglapedia.org/index.php?title=Mahisdal"
+  }
+ }
+]

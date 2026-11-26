@@ -1,0 +1,378 @@
+[
+ {
+  "id": "n02-cabral-reaches-brazil",
+  "era": "exploration",
+  "year": 1500,
+  "dateLabel": "April 22, 1500",
+  "cat": "journeys",
+  "title": "Cabral Lands in Brazil",
+  "place": "Coast of Bahia, Brazil",
+  "lat": -16.45,
+  "lng": -39.06,
+  "text": "A Portuguese fleet of 13 ships bound for India swung far west into the Atlantic, and on April 22, 1500, its commander Pedro Álvares Cabral sighted land. He named it the Island of the True Cross and claimed it for Portugal after a stay of only 10 days. The country later took its name, Brazil, from a dyewood called pau-brasil.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Pedro Álvares Cabral",
+   "url": "https://www.britannica.com/biography/Pedro-Alvares-Cabral"
+  }
+ },
+ {
+  "id": "n02-asuncion-stockade",
+  "era": "exploration",
+  "year": 1537,
+  "dateLabel": "August 15, 1537",
+  "cat": "daily",
+  "title": "A Stockade Named Asunción",
+  "place": "Asunción, Paraguay",
+  "lat": -25.28,
+  "lng": -57.64,
+  "text": "Spanish settlers finished a stockade beside the Paraguay River on the Feast of the Assumption, August 15, 1537, and named the place Asunción. When Buenos Aires was abandoned in 1541, its people fled here, and for nearly half a century Asunción was the centre of Spanish activity in eastern South America. Intermarriage between Indigenous people and Spaniards shaped the largely mestizo character of Paraguay.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Asunción",
+   "url": "https://www.britannica.com/place/Asuncion"
+  }
+ },
+ {
+  "id": "n02-orellana-amazon",
+  "era": "exploration",
+  "year": 1541,
+  "dateLabel": "1541–1542",
+  "cat": "journeys",
+  "title": "Drifting Down the Amazon",
+  "place": "Confluence of the Napo and Amazon rivers, Loreto, Peru",
+  "lat": -3.37,
+  "lng": -72.73,
+  "text": "In April 1541, Francisco de Orellana left a Spanish expedition east of Quito with a brigantine and 50 soldiers to look for food. His men persuaded him they could not go back, so they drifted with the current until they reached the river's mouth in August 1542. Back in Spain, his tales of tribes led by women like the Amazons of Greek myth probably gave the river its name.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Francisco de Orellana",
+   "url": "https://www.britannica.com/biography/Francisco-de-Orellana"
+  }
+ },
+ {
+  "id": "n02-sao-paulo-founded",
+  "era": "exploration",
+  "year": 1554,
+  "dateLabel": "January 25, 1554",
+  "cat": "daily",
+  "title": "Saint Paul's Day Settlement",
+  "place": "Pátio do Colégio, São Paulo, Brazil",
+  "lat": -23.55,
+  "lng": -46.63,
+  "text": "Jesuit missionaries founded a small settlement on a plateau above Brazil's Atlantic coast on January 25, 1554. That day was the anniversary of the conversion of St. Paul, which gave the city its name, São Paulo. The founding site, the Pátio do Colégio, is now a cultural centre in what has grown into the foremost industrial centre in Latin America.",
+  "source": {
+   "name": "Encyclopaedia Britannica: São Paulo",
+   "url": "https://www.britannica.com/place/Sao-Paulo-Brazil"
+  }
+ },
+ {
+  "id": "n02-guaman-poma-letter",
+  "era": "exploration",
+  "year": 1615,
+  "dateLabel": "c. 1615",
+  "cat": "culture",
+  "title": "A 1,189-Page Letter to a King",
+  "place": "Huamanga (Ayacucho), Peru",
+  "lat": -13.16,
+  "lng": -74.22,
+  "text": "Around 1615, the Andean nobleman Felipe Guamán Poma de Ayala finished a chronicle for King Philip III of Spain: 1,189 pages with 398 drawings. Writing in Spanish, Quechua, Aymara and Latin, he praised Andean civilization and showed Peru's society turned upside down by Spanish rule. His original manuscript is now kept in the Royal Library in Copenhagen.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Felipe Guamán Poma de Ayala",
+   "url": "https://www.britannica.com/biography/Felipe-Guaman-Poma-de-Ayala"
+  },
+  "source2": {
+   "name": "Royal Library, Copenhagen: Guaman Poma, El primer nueva corónica y buen gobierno (1615/1616)",
+   "url": "https://poma.kb.dk/permalink/2006/poma/info/en/frontpage.htm"
+  }
+ },
+ {
+  "id": "n02-rose-of-lima-saint",
+  "era": "exploration",
+  "year": 1671,
+  "dateLabel": "April 12, 1671",
+  "cat": "culture",
+  "title": "The First Saint of the Americas",
+  "place": "Lima, Peru",
+  "lat": -12.05,
+  "lng": -77.03,
+  "text": "On April 12, 1671, Rosa of Lima became the first person born in the Western Hemisphere to be canonized by the Catholic Church. She had lived in a hut in her family's garden, caring for the sick and hungry and selling her lace, embroidery and flowers to help the poor. She is the patron saint of Peru, South America, gardeners and embroiderers.",
+  "source": {
+   "name": "Encyclopaedia Britannica: St. Rose of Lima",
+   "url": "https://www.britannica.com/biography/Saint-Rose-of-Lima"
+  }
+ },
+ {
+  "id": "n02-minas-gold-rush",
+  "era": "exploration",
+  "year": 1690,
+  "dateLabel": "1690s",
+  "cat": "daily",
+  "title": "Gold Rush in the General Mines",
+  "place": "Ouro Preto, Minas Gerais, Brazil",
+  "lat": -20.39,
+  "lng": -43.5,
+  "text": "In the 1690s, bands of adventurers from the São Paulo settlements found gold in the hills of Minas Gerais, which means General Mines, setting off a mad rush. Diamonds turned up in 1729. The wealth made Ouro Prêto a city of great splendour with beautifully decorated churches, but by 1800 the richest gold sources had been used up.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Minas Gerais",
+   "url": "https://www.britannica.com/place/Minas-Gerais"
+  }
+ },
+ {
+  "id": "n02-lima-earthquake-1746",
+  "era": "exploration",
+  "year": 1746,
+  "dateLabel": "October 28, 1746",
+  "cat": "nature",
+  "title": "Earthquake and Wave Strike Lima",
+  "place": "Lima and Callao, Peru",
+  "lat": -12.06,
+  "lng": -77.14,
+  "text": "On October 28, 1746, a massive earthquake ravaged Lima, a city of 50,000. Half an hour later, a tsunami destroyed the nearby port of Callao, which was rebuilt about three-quarters of a mile from its old site. The viceroy's plans to rebuild Lima met opposition from the Church, the Spanish Crown and the city's multiracial population.",
+  "source": {
+   "name": "Duke University Press: Shaky Colonialism, The 1746 Earthquake-Tsunami in Lima, Peru",
+   "url": "https://www.dukeupress.edu/shaky-colonialism"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Callao",
+   "url": "https://www.britannica.com/place/Callao-Peru"
+  }
+ },
+ {
+  "id": "n02-berbice-uprising",
+  "era": "exploration",
+  "year": 1763,
+  "dateLabel": "February 23, 1763",
+  "cat": "power",
+  "title": "Cuffy's Uprising in Berbice",
+  "place": "Canje River, Berbice, Guyana",
+  "lat": 6.2,
+  "lng": -57.5,
+  "text": "On February 23, 1763, enslaved people rose up at the Magdalenenburg plantation in the colony of Berbice, and the revolt spread to other plantations. One leader, Cuffy, was a freeborn Akan man from West Africa. Five to six thousand enslaved people lived there with only 350 white colonists. The uprising was crushed in 1764, but February 23 is a national holiday in Guyana.",
+  "source": {
+   "name": "The Black Archives (Amsterdam): Berbice Rebellion",
+   "url": "https://www.theblackarchives.nl/berbice-rebellion.html"
+  }
+ },
+ {
+  "id": "n02-carabobo-victory",
+  "era": "industrial",
+  "year": 1821,
+  "dateLabel": "June 24, 1821",
+  "cat": "power",
+  "title": "The Battle That Freed Venezuela",
+  "place": "Campo de Carabobo, Carabobo, Venezuela",
+  "lat": 10.03,
+  "lng": -68.13,
+  "text": "On June 24, 1821, Simón Bolívar led about 6,500 troops, including volunteers from the British Isles, against Spanish royalists on the plains west of Caracas. José Antonio Páez and his llaneros, or plainsmen, helped rout the Spanish right wing while patriot cavalry crushed the centre. The victory at Carabobo virtually freed Venezuela from Spanish control.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Battle of Carabobo",
+   "url": "https://www.britannica.com/event/Battle-of-Carabobo"
+  }
+ },
+ {
+  "id": "n02-darwin-toxodon-skull",
+  "era": "industrial",
+  "year": 1833,
+  "dateLabel": "November 26, 1833",
+  "cat": "discovery",
+  "title": "A Giant Skull for Eighteen Pence",
+  "place": "Sarandí stream near the Río Negro, Uruguay",
+  "lat": -33.3,
+  "lng": -57.95,
+  "text": "On November 26, 1833, Charles Darwin heard of giant bones at a farmhouse by a stream feeding Uruguay's Río Negro. He rode over and bought, for eighteen pence, a skull as big as a hippo's. Richard Owen named the animal Toxodon, from the curve of its teeth. It probably weighed more than a tonne and looked a bit like a cross between a hippo and a rhino.",
+  "source": {
+   "name": "Darwin Online: Charles Darwin, Journal and Remarks 1832–1836 (1839)",
+   "url": "https://darwin-online.org.uk/converted/published/1839_Voyage_F10.3/1839_Voyage_F10.3.html"
+  },
+  "source2": {
+   "name": "Natural History Museum, London: What was Toxodon?",
+   "url": "https://www.nhm.ac.uk/discover/what-is-toxodon.html"
+  }
+ },
+ {
+  "id": "n02-baroneza-first-train",
+  "era": "industrial",
+  "year": 1854,
+  "dateLabel": "April 30, 1854",
+  "cat": "journeys",
+  "title": "The Baroneza Gets Up Steam",
+  "place": "Porto de Estrela, Guanabara Bay, Rio de Janeiro, Brazil",
+  "lat": -22.68,
+  "lng": -43.12,
+  "text": "On April 30, 1854, Emperor Pedro II opened a 14.5-kilometre railway from a port at the far end of Guanabara Bay to Raiz da Serra, near Petrópolis. Irineu Evangelista de Souza, later Baron of Mauá, had won the concession in 1852. Its locomotive, the Baroneza, made in Manchester in 1852, was the first steam locomotive to run in Brazil and is still preserved in Rio de Janeiro.",
+  "source": {
+   "name": "DNIT (Brazilian National Department of Transport Infrastructure): Histórico das ferrovias",
+   "url": "https://www.gov.br/dnit/pt-br/assuntos/ferrovias/historico"
+  }
+ },
+ {
+  "id": "n02-iquique-tsunami-1877",
+  "era": "industrial",
+  "year": 1877,
+  "dateLabel": "May 1877",
+  "cat": "nature",
+  "title": "A Wave That Crossed the Pacific",
+  "place": "Iquique, Tarapacá, Chile",
+  "lat": -20.21,
+  "lng": -70.15,
+  "text": "A great earthquake struck Iquique in 1877 and sent a tsunami 24 meters high crashing along the coasts of Peru and Chile. The wave kept going across the whole Pacific, from Samoa to California. In Hawaii it destroyed dozens of homes in Hilo and killed 5 people, and hundreds of people were killed in Japan.",
+  "source": {
+   "name": "USGS: Today in Earthquake History, May 10",
+   "url": "https://earthquake.usgs.gov/learn/today/index.php?month=5&day=10"
+  },
+  "source2": {
+   "name": "USGS Hawaiian Volcano Observatory: Volcano Watch, Commemorating and then monitoring tsunami",
+   "url": "https://www.usgs.gov/observatories/hvo/news/volcano-watch-april-2014-commemorating-and-then-monitoring-tsunami"
+  }
+ },
+ {
+  "id": "n02-vucetich-fingerprint",
+  "era": "industrial",
+  "year": 1892,
+  "dateLabel": "1892",
+  "cat": "discovery",
+  "title": "The Fingerprint That Solved a Crime",
+  "place": "Necochea, Buenos Aires Province, Argentina",
+  "lat": -38.55,
+  "lng": -58.74,
+  "text": "After a terrible double murder in Necochea in 1892, investigators found a bloody fingerprint at the scene. They asked Juan Vucetich, who was developing a fingerprint identification system, to study it. The print matched the victims' mother, Francisca Rojas, who then confessed. It was the first successful use of fingerprint identification in a murder investigation.",
+  "source": {
+   "name": "US National Library of Medicine, Visible Proofs: Juan Vucetich and the origins of forensic fingerprinting",
+   "url": "https://www.nlm.nih.gov/exhibition/visibleproofs/galleries/cases/vucetich.html"
+  }
+ },
+ {
+  "id": "n02-revolt-of-the-lash",
+  "era": "industrial",
+  "year": 1910,
+  "dateLabel": "November 22, 1910",
+  "cat": "power",
+  "title": "Sailors Rise Against the Lash",
+  "place": "Rio de Janeiro, Brazil",
+  "lat": -22.87,
+  "lng": -43.17,
+  "text": "On the night of November 22, 1910, sailors led by 30-year-old João Cândido took over four Brazilian navy ships, including the battleships Minas Gerais and São Paulo. They warned that if the inhumane punishments were not banned, the capital would be blown sky-high. Congress unanimously approved an amnesty and corporal punishment was abolished, but in the following days hundreds of sailors were arrested without trial.",
+  "source": {
+   "name": "Agência Senado (Brazilian Senate): Em 1910, marujos denunciaram chibata na Marinha e racismo no Brasil pós-abolição",
+   "url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/em-1910-marujos-denunciaram-chibata-na-marinha-e-racismo-no-brasil-pos-abolicao"
+  }
+ },
+ {
+  "id": "n02-yelcho-rescue",
+  "era": "modern",
+  "year": 1916,
+  "dateLabel": "August 25–30, 1916",
+  "cat": "journeys",
+  "title": "A Chilean Tug to the Rescue",
+  "place": "Punta Arenas, Magallanes, Chile",
+  "lat": -53.16,
+  "lng": -70.91,
+  "text": "Shackleton's men had been stranded on Elephant Island for 137 days when the Chilean steel tug Yelcho, commanded by Luis Pardo, sailed from Punta Arenas on August 25, 1916. On August 30 she reached the island, took all 22 men aboard and left before the ice could trap her. The Yelcho's bow is preserved in Punta Arenas as a historic monument.",
+  "source": {
+   "name": "Scott Polar Research Institute, University of Cambridge: Endurance exhibition essay",
+   "url": "https://www.spri.cam.ac.uk/museum/exhibitions/endurance/essay.html"
+  },
+  "source2": {
+   "name": "Consejo de Monumentos Nacionales de Chile: Proa del escampavía Yelcho",
+   "url": "https://www.monumentos.gob.cl/monumentos/monumentos-historicos/naves-y-restos-de-naves-que-indican-proa-del-escampavia-yelcho-0"
+  }
+ },
+ {
+  "id": "n02-rooftop-radio",
+  "era": "modern",
+  "year": 1920,
+  "dateLabel": "August 27, 1920",
+  "cat": "culture",
+  "title": "Opera from the Rooftop",
+  "place": "Teatro Coliseo, Buenos Aires, Argentina",
+  "lat": -34.6,
+  "lng": -58.39,
+  "text": "On August 27, 1920, four friends, Enrique Susini, César Guerrico, Luis Romero Carranza and Miguel Mujica, climbed onto the roof of the Teatro Coliseo in Buenos Aires. From there they broadcast Wagner's opera Parsifal live by radio. People nicknamed them the locos de la azotea, the rooftop madmen, and their broadcast marked the beginning of radio broadcasting in Argentina.",
+  "source": {
+   "name": "Buenos Aires City Government: La radio cumple 100 años",
+   "url": "https://buenosaires.gob.ar/gcaba_historico/noticias/la-radio-cumple-100-anos"
+  }
+ },
+ {
+  "id": "n02-cerro-chato-vote",
+  "era": "modern",
+  "year": 1927,
+  "dateLabel": "July 3, 1927",
+  "cat": "power",
+  "title": "Women Vote in Cerro Chato",
+  "place": "Cerro Chato, Uruguay",
+  "lat": -33.1,
+  "lng": -55.13,
+  "text": "On July 3, 1927, women cast ballots in Cerro Chato, a small Uruguayan town whose administration is shared by three departments: Durazno, Florida and Treinta y Tres. Uruguay's government celebrates it as the first time women voted in Latin America. The house where they voted became departmental heritage in 2013 and is now the Museum of the First South American Women Citizens.",
+  "source": {
+   "name": "Uruguay Ministry of Tourism: Cerro Chato celebró el 97º aniversario del primer voto femenino en Latinoamérica",
+   "url": "https://www.gub.uy/ministerio-turismo/comunicacion/noticias/cerro-chato-celebro-97o-aniversario-del-primer-voto-femenino-latinoamerica"
+  },
+  "source2": {
+   "name": "Presidency of Uruguay: Argimón encabezó en Cerro Chato celebración del 97º aniversario del primer voto femenino",
+   "url": "https://www.gub.uy/presidencia/comunicacion/noticias/argimon-encabezo-cerro-chato-celebracion-del-97o-aniversario-del-primer-voto"
+  }
+ },
+ {
+  "id": "n02-ancash-earthquake-1970",
+  "era": "modern",
+  "year": 1970,
+  "dateLabel": "May 31, 1970",
+  "cat": "nature",
+  "title": "The Avalanche That Buried Yungay",
+  "place": "Yungay, Áncash, Peru",
+  "lat": -9.14,
+  "lng": -77.74,
+  "text": "On May 31, 1970, a magnitude 7.9 earthquake struck near the coast of northern Peru, one of the most destructive earthquakes in the world. About 50,000 people were killed and 20,000 went missing in the Ancash and La Libertad regions. The shaking set off a catastrophic avalanche of rock, ice and mud that buried the town of Yungay, home to about 20,000 people.",
+  "source": {
+   "name": "USGS: Today in Earthquake History, May 31",
+   "url": "https://earthquake.usgs.gov/learn/today/index.php?month=5&day=31"
+  }
+ },
+ {
+  "id": "n02-cochabamba-water-war",
+  "era": "modern",
+  "year": 2000,
+  "dateLabel": "November 1999 – April 2000",
+  "cat": "daily",
+  "title": "Cochabamba's Water War",
+  "place": "Cochabamba, Bolivia",
+  "lat": -17.39,
+  "lng": -66.16,
+  "text": "When Cochabamba's water system was handed to a private consortium in 1999, some households saw their bills double or even triple. Farmers who had built their own irrigation canals for generations started the protests, then joined factory workers, students and neighbourhood groups. After months of strikes and road blockades, in which a 17-year-old boy was shot dead, the government cancelled the contract in 2000.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Katie Angell): Cochabamba water war",
+   "url": "https://www.britannica.com/event/Cochabamba-water-war"
+  }
+ },
+ {
+  "id": "n02-olinguito-discovered",
+  "era": "modern",
+  "year": 2013,
+  "dateLabel": "August 15, 2013",
+  "cat": "discovery",
+  "title": "The Teddy Bear of the Cloud Forest",
+  "place": "Andean cloud forest, Ecuador",
+  "lat": -0.42,
+  "lng": -78.99,
+  "text": "In August 2013, Smithsonian scientists announced the olinguito, the first carnivore species discovered in the American continents in 35 years. The 2-pound animal looks like a cross between a house cat and a teddy bear and lives in the cloud forests of Colombia and Ecuador. It had hidden in plain sight, overlooked in museum collections and even shown in zoos, until a team led by Kristofer Helgen tracked it down.",
+  "source": {
+   "name": "Smithsonian Institution: Smithsonian scientists discover new carnivore, the olinguito",
+   "url": "https://www.si.edu/stories/olinguito-discovery"
+  }
+ },
+ {
+  "id": "n02-colombia-peace",
+  "era": "modern",
+  "year": 2016,
+  "dateLabel": "November 24, 2016",
+  "cat": "power",
+  "title": "Peace Signed at the Teatro Colón",
+  "place": "Teatro Colón, Bogotá, Colombia",
+  "lat": 4.6,
+  "lng": -74.07,
+  "text": "On November 24, 2016, a Final Peace Agreement between Colombia's government and the FARC guerrillas was signed at the Teatro Colón in Bogotá. Six years of tough negotiations, held in Havana, Cuba, had ended a 52-year internal armed conflict. President Juan Manuel Santos, who had surprised Colombians who knew him as a security hawk, won the 2016 Nobel Peace Prize.",
+  "source": {
+   "name": "NobelPrize.org: Juan Manuel Santos, Biographical",
+   "url": "https://www.nobelprize.org/prizes/peace/2016/santos/biographical/"
+  }
+ }
+]

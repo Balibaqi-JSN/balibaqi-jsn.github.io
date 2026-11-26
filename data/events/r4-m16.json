@@ -1,0 +1,326 @@
+[
+ {
+  "id": "m16-tanum-rock-carvings",
+  "era": "ancient",
+  "year": -1700,
+  "dateLabel": "c. 1700–500 BCE (Nordic Bronze Age)",
+  "cat": "culture",
+  "title": "Pictures Pecked Into Granite",
+  "place": "Tanum, Bohuslän, Västra Götaland, Sweden",
+  "lat": 58.7,
+  "lng": 11.34,
+  "text": "Bronze Age artists in western Sweden pecked and ground pictures into smooth granite using stone hammers and points. Their panels show people, animals, weapons and boats, with lively scenes of travel, power, warfare and worship. Northern Bohuslän has at least 1,500 known rock carving sites, often placed in commanding spots in the landscape, where they probably served as centres of worship.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Rock Carvings in Tanum",
+   "url": "https://whc.unesco.org/en/list/557/"
+  }
+ },
+ {
+  "id": "m16-nebra-sky-disc",
+  "era": "ancient",
+  "year": -1600,
+  "dateLabel": "About 1600 BCE (about 3,600 years ago)",
+  "cat": "discovery",
+  "title": "The Sky on a Bronze Disc",
+  "place": "Mittelberg hill near Nebra, Saxony-Anhalt, Germany",
+  "lat": 51.28,
+  "lng": 11.52,
+  "text": "About 3,600 years ago, people on the Mittelberg hill near Nebra ritually buried a bronze disc with two precious swords, two axes, two spiral arm-rings and a chisel. The disc shows the sun, the moon and a boat sailing between the horizons at night. Detectorists dug it up illegally in 1999. It is the oldest known concrete picture of astronomical phenomena.",
+  "source": {
+   "name": "State Museum of Prehistory Halle: The Nebra Sky Disc",
+   "url": "https://www.landesmuseum-vorgeschichte.de/en/nebra-sky-disc"
+  },
+  "source2": {
+   "name": "UNESCO Memory of the World: Nebra Sky Disc",
+   "url": "https://www.unesco.org/en/memory-world/nebra-sky-disc"
+  }
+ },
+ {
+  "id": "m16-trundholm-sun-chariot",
+  "era": "ancient",
+  "year": -1400,
+  "dateLabel": "About 1400 BCE",
+  "cat": "culture",
+  "title": "A Horse That Pulls the Sun",
+  "place": "Trundholm Mose, north-western Zealand, Denmark",
+  "lat": 55.92,
+  "lng": 11.62,
+  "text": "In September 1902, the first ploughing of the former Trundholm bog in north-western Zealand turned up a bronze horse pulling a sun disc on wheels. Made around 1400 BCE, the Sun Chariot illustrates the belief that a divine horse drew the sun on its eternal journey. The elegant spirals on its golden sun disc reveal that it was made in the Nordic region.",
+  "source": {
+   "name": "National Museum of Denmark: The Sun Chariot",
+   "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-bronze-age/the-sun-chariot/"
+  }
+ },
+ {
+  "id": "m16-hallstatt-salt",
+  "era": "ancient",
+  "year": -800,
+  "dateLabel": "8th century BCE",
+  "cat": "daily",
+  "title": "Salt Miners of Hallstatt",
+  "place": "Hallstatt, Upper Austria, Austria",
+  "lat": 47.56,
+  "lng": 13.64,
+  "text": "Underground salt mining at Hallstatt started up again in the 8th century BCE, when the valley was home to a flourishing, highly organised Iron Age society with trade links across Europe. Archaeologists now call it the Hallstatt Culture. The town's name means \"salt settlement\", and salt kept the region prosperous right up to the middle of the 20th century.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Hallstatt-Dachstein / Salzkammergut Cultural Landscape",
+   "url": "https://whc.unesco.org/en/list/806/"
+  }
+ },
+ {
+  "id": "m16-hjortspring-army",
+  "era": "classical",
+  "year": -350,
+  "dateLabel": "About 350 BCE",
+  "cat": "power",
+  "title": "Raiders Sunk in a Bog",
+  "place": "Hjortspring Mose, Als, Southern Denmark",
+  "lat": 54.95,
+  "lng": 9.92,
+  "text": "Around 350 BCE, an army of 80 to 100 warriors sailed in four or five boats to attack the Danish island of Als, and lost. The victors sank the enemy's weapons, shields, tools and one of their boats in Hjortspring bog as thanks for their victory. Nobody knows where the raiders came from, but their boat can be seen at the National Museum.",
+  "source": {
+   "name": "National Museum of Denmark: The army from Hjortspring Bog",
+   "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-early-iron-age/the-army-from-hjortspring-bog/"
+  }
+ },
+ {
+  "id": "m16-trencin-roman-inscription",
+  "era": "classical",
+  "year": 179,
+  "dateLabel": "179 CE",
+  "cat": "power",
+  "title": "A Roman Victory Carved in Rock",
+  "place": "Trenčín Castle rock, Trenčín, Slovakia",
+  "lat": 48.89,
+  "lng": 18.04,
+  "text": "In 179 CE, a Roman special unit of 855 soldiers spent the winter in enemy territory at Laugaricio, today's Trenčín. To celebrate a victory over the Germanic Quadi, they carved an inscription into the castle rock honouring the emperors and the troops. It names their commander, Marcus Valerius Maximianus of the Second Legion, and is still visible in the town centre.",
+  "source": {
+   "name": "Trenčín Self-Governing Region: Roman inscription",
+   "url": "https://www.trencinregion.sk/en/17792/roman-inscription"
+  },
+  "source2": {
+   "name": "Hungarian Cultural Institute of Upper Hungary, Értéktár: The Latin inscription on Trenčín castle rock",
+   "url": "https://hunektar.sk/en/records/trencseni-varszikla-latin-felirata"
+  }
+ },
+ {
+  "id": "m16-aquincum-organ",
+  "era": "classical",
+  "year": 228,
+  "dateLabel": "228 CE",
+  "cat": "culture",
+  "title": "A Roman Organ for the Guild",
+  "place": "Aquincum, Óbuda, Budapest, Hungary",
+  "lat": 47.57,
+  "lng": 19.05,
+  "text": "In 228 CE, a local dignitary named Gaius Julius Viatorinus gave a portable organ to the textile dealers' guild of Aquincum, now part of Budapest. It had 52 pipes in four rows of 13. When fire swept the town in the mid-3rd century, the organ fell into a basement and lay buried until archaeologist Lajos Nagy found nearly 400 of its pieces in 1931.",
+  "source": {
+   "name": "Aquincum Museum: The Aquincum organ",
+   "url": "https://www.aquincum.hu/en/muzeumtori/az-aquincumi-orgona/"
+  }
+ },
+ {
+  "id": "m16-kalmar-union",
+  "era": "medieval",
+  "year": 1397,
+  "dateLabel": "1397",
+  "cat": "power",
+  "title": "Queen Margaret Unites the North",
+  "place": "Kalmar, Kalmar County, Sweden",
+  "lat": 56.66,
+  "lng": 16.36,
+  "text": "Queen Margaret already ruled Denmark, Norway and Sweden when, in 1397, she called the three nations to a meeting in Kalmar. After about a month of talks, they agreed to form a joint Scandinavian union, and her grandnephew Eric of Pomerania was crowned joint king. Each kingdom was meant to keep its own laws and customs, though union rulers did not always respect that.",
+  "source": {
+   "name": "Swedish History Museum: Queen Margaret and the Union of Kalmar",
+   "url": "https://historiska.se/en/explore-history/history-hub/queen-margaret-and-the-union-of-kalmar/"
+  }
+ },
+ {
+  "id": "m16-urnes-stave-church",
+  "era": "medieval",
+  "year": 1130,
+  "dateLabel": "About 1130",
+  "cat": "culture",
+  "title": "Viking Carvings on a Stave Church",
+  "place": "Urnes, Luster, Sognefjord, Norway",
+  "lat": 61.3,
+  "lng": 7.32,
+  "text": "Built around 1130 on a promontory above the Sognefjord, Urnes is one of the oldest stave churches in Norway. Its famous north-wall portal was reused from an older church on the same site and dates from about 1070, carved in the Urnes style, the last of the Viking Age styles. Inside, carved capitals show mythic animals such as centaurs and griffins.",
+  "source": {
+   "name": "Fortidsminneforeningen (Society for the Preservation of Norwegian Ancient Monuments): Urnes Stave Church",
+   "url": "https://fortidsminneforeningen.no/en/museum/urnes-stave-church/"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Urnes Stave Church",
+   "url": "https://whc.unesco.org/en/list/58/"
+  }
+ },
+ {
+  "id": "m16-copernicus-de-revolutionibus",
+  "era": "exploration",
+  "year": 1543,
+  "dateLabel": "1543",
+  "cat": "discovery",
+  "title": "Copernicus Finally Publishes",
+  "place": "Frombork (Frauenburg), Warmia-Masuria, Poland",
+  "lat": 54.36,
+  "lng": 19.68,
+  "text": "Nicolaus Copernicus's great book, De revolutionibus, did not appear in print until 1543, the year he died at Frauenburg, now Frombork. In it he argued that Earth is a planet that orbits the Sun once a year and turns daily on its own axis. He wrote that he had held the work back not for nine years, as the Roman poet Horace advised, but for 36.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Nicolaus Copernicus",
+   "url": "https://www.britannica.com/biography/Nicolaus-Copernicus"
+  }
+ },
+ {
+  "id": "m16-meissen-porcelain",
+  "era": "exploration",
+  "year": 1710,
+  "dateLabel": "1710",
+  "cat": "daily",
+  "title": "Europe Cracks the Porcelain Secret",
+  "place": "Meissen, Saxony, Germany",
+  "lat": 51.17,
+  "lng": 13.47,
+  "text": "Europeans prized Chinese and Japanese porcelain but did not know how to make true hard-paste porcelain until 1709, when the alchemist Johann Friedrich Böttger discovered the materials needed. Augustus the Strong, elector of Saxony, had pushed his experiments, and in 1710 he set up a factory at Meissen, just outside Dresden. It became the first European manufactory of hard-paste porcelain.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: German and Austrian Porcelain in the Eighteenth Century",
+   "url": "https://www.metmuseum.org/essays/german-and-austrian-porcelain-in-the-eighteenth-century"
+  }
+ },
+ {
+  "id": "m16-magic-flute",
+  "era": "exploration",
+  "year": 1791,
+  "dateLabel": "September 30, 1791",
+  "cat": "culture",
+  "title": "The Magic Flute Opens in Vienna",
+  "place": "Theater auf der Wieden, Vienna, Austria",
+  "lat": 48.2,
+  "lng": 16.37,
+  "text": "On September 30, 1791, Mozart's last opera, The Magic Flute, premiered at the rustic Theater auf der Wieden near Vienna, not long before his death that December. Its librettist, Emanuel Schikaneder, played the birdcatcher Papageno himself. The Queen of the Night, written for Mozart's sister-in-law Josepha Hofer, is famed as perhaps the highest and most difficult role ever composed.",
+  "source": {
+   "name": "Encyclopaedia Britannica: The Magic Flute (Linda Cantoni, Betsy Schwarm)",
+   "url": "https://www.britannica.com/topic/The-Magic-Flute"
+  }
+ },
+ {
+  "id": "m16-pest-march-15-1848",
+  "era": "industrial",
+  "year": 1848,
+  "dateLabel": "March 15, 1848",
+  "cat": "power",
+  "title": "Pest's Day of Revolution",
+  "place": "Pest (Budapest), Hungary",
+  "lat": 47.49,
+  "lng": 19.06,
+  "text": "On March 15, 1848, young radicals who had met at Pest's Pilvax café led a demonstration through the city. Their 12 Points, listing the nation's demands, were printed at the Landerer and Heckenast press, and thousands heard the National Song recited at University Square. A crowd of ten thousand gathered at the National Museum, where Petőfi spoke. Censorship was abolished that day.",
+  "source": {
+   "name": "Hungarian Government, March 15 site: The 12 Points (A 12 pont)",
+   "url": "https://marcius15.kormany.hu/a-12-pont-tortenete-2012"
+  }
+ },
+ {
+  "id": "m16-bertha-benz-drive",
+  "era": "industrial",
+  "year": 1888,
+  "dateLabel": "1888",
+  "cat": "journeys",
+  "title": "Berta Benz Takes the Car",
+  "place": "Mannheim to Pforzheim, Baden-Württemberg, Germany",
+  "lat": 49.49,
+  "lng": 8.47,
+  "text": "Engineer Carl Benz applied for a patent on his motor vehicle in 1886, and his wife Berta shared in its success. In 1888 she set off with her sons on a first long-distance drive, from Mannheim to Pforzheim, without telling her husband. It was no pleasure trip: the three struggled to get petrol and keep the car running, but they covered the route of almost 100 kilometres.",
+  "source": {
+   "name": "Deutsches Museum: Eine Ikone der Automobilgeschichte wird 140",
+   "url": "https://www.deutsches-museum.de/museum/aktuell/eine-ikone-der-automobilgeschichte-wird-140"
+  }
+ },
+ {
+  "id": "m16-norway-womens-suffrage",
+  "era": "industrial",
+  "year": 1913,
+  "dateLabel": "June 11, 1913",
+  "cat": "power",
+  "title": "Norwegian Women Win the Vote",
+  "place": "Storting, Kristiania (Oslo), Norway",
+  "lat": 59.91,
+  "lng": 10.74,
+  "text": "On June 11, 1913, Norway's parliament, the Storting, voted unanimously for universal suffrage, giving the vote to Norwegian citizens, men and women, over the age of 25. Women had won limited voting rights in 1907 and the vote in local elections in 1910. In March 1911, Anna Rogstad, called in as a substitute member, became the first woman to take a seat in the Storting.",
+  "source": {
+   "name": "Stortinget: Anna Rogstad, the first woman in the Storting",
+   "url": "https://www.stortinget.no/en/In-English/Members-of-the-Storting/women-in-the-storting/anna-rogstad--the-first-woman-in-the-storting/"
+  },
+  "source2": {
+   "name": "Stortinget: Centenary of women's suffrage in Norway 1913–2013",
+   "url": "https://www.stortinget.no/en/in-english/about-the-storting/news-archive/front-page-news/2012-2013/centenary-of-womens-suffrage-in-norway-1913--2013/"
+  }
+ },
+ {
+  "id": "m16-prague-spring",
+  "era": "modern",
+  "year": 1968,
+  "dateLabel": "January 5 – August 20, 1968",
+  "cat": "power",
+  "title": "The Prague Spring",
+  "place": "Prague, Czechia (then Czechoslovakia)",
+  "lat": 50.08,
+  "lng": 14.43,
+  "text": "In January 1968, Alexander Dubček became head of Czechoslovakia's Communist Party, and reforms followed: a freer press, new clubs, active churches, and Boy Scouts replacing the official youth movement. International opinion called it \"socialism with a human face.\" On the evening of August 20, Soviet-led forces invaded. People resisted passively, even removing road signs so the troops would lose their way.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Prague Spring (Z.A.B. Zeman)",
+   "url": "https://www.britannica.com/event/Prague-Spring"
+  }
+ },
+ {
+  "id": "m16-heimaey-lava-cooling",
+  "era": "modern",
+  "year": 1973,
+  "dateLabel": "January 23, 1973",
+  "cat": "nature",
+  "title": "Hosing Down a Lava Flow",
+  "place": "Heimaey, Vestmannaeyjar, Iceland",
+  "lat": 63.43,
+  "lng": -20.27,
+  "text": "When Eldfell volcano erupted on Heimaey on January 23, 1973, the islanders were safely carried to mainland Iceland within a few hours. Then lava crept toward the harbour, the lifeblood of this fishing town. Firemen, a harbour boat and the pumping dredge Sandey sprayed seawater on the lava, and after 15 days of pumping almost half a million cubic metres, a solid barrier stopped the flow.",
+  "source": {
+   "name": "U.S. Geological Survey Open-File Report 97-724: Lava-Cooling Operations during the 1973 Eruption of Eldfell Volcano",
+   "url": "https://pubs.usgs.gov/of/1997/of97-724/32html/lavaoperations.html"
+  }
+ },
+ {
+  "id": "m16-gdansk-shipyard-strike",
+  "era": "modern",
+  "year": 1980,
+  "dateLabel": "August 1980",
+  "cat": "daily",
+  "title": "A Crane Operator Sparks Solidarity",
+  "place": "Lenin Shipyard, Gdańsk, Poland",
+  "lat": 54.36,
+  "lng": 18.65,
+  "text": "On August 7, 1980, Anna Walentynowicz, a gantry crane operator at the Gdańsk Lenin Shipyard since 1950, was summarily dismissed. A strike began on August 14, and the strike committee drew up its 21 Demands, putting them up on boards at the shipyard's Gate No. 2. The Gdańsk Agreement was signed on August 31, and Lech Wałęsa became leader of the new union movement.",
+  "source": {
+   "name": "European Solidarity Centre: How did Solidarność (Solidarity) come to be?",
+   "url": "https://ecs.gda.pl/en/how-did-solidarnosc-solidarity-come-to-be/"
+  }
+ },
+ {
+  "id": "m16-forsmark-chernobyl-alarm",
+  "era": "modern",
+  "year": 1986,
+  "dateLabel": "April 28, 1986",
+  "cat": "discovery",
+  "title": "Radioactive Shoes at Forsmark",
+  "place": "Forsmark nuclear power plant, Uppsala County, Sweden",
+  "lat": 60.4,
+  "lng": 18.17,
+  "text": "On April 28, 1986, staff at Sweden's Forsmark nuclear plant were found to be contaminated as they passed the plant's radiation detectors, and one worker's shoes showed radioactivity. About 800 people were sent away, some leaving their contaminated shoes behind. But the radiation had arrived on winds from the east, and this was how the world first learned of the Chernobyl accident.",
+  "source": {
+   "name": "Swedish Radiation Protection Institute (SSI): Tio år efter kärnkraftolyckan i Tjernobyl (SSI information 96:01)",
+   "url": "https://www.stralsakerhetsmyndigheten.se/contentassets/d661e34837f64f699d4b4b1ff984570a/9601-tio-ar-efter-karnkraftolyckan-i-tjernobyl"
+  },
+  "source2": {
+   "name": "Vattenfall (Forsmark operator): 30 år sedan Tjernobyl upptäcktes i Forsmark",
+   "url": "https://group.vattenfall.com/se/nyheter-och-press/nyheter/2016/30-ar-sedan-tjernobyl-upptacktes-i-forsmark"
+  }
+ }
+]

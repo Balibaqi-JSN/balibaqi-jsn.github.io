@@ -1,0 +1,306 @@
+[
+ {
+  "id": "n04-st-john-revolt-1733",
+  "era": "exploration",
+  "year": 1733,
+  "dateLabel": "1733",
+  "cat": "power",
+  "title": "The Revolt That Ruled St. John",
+  "place": "Coral Bay, St. John, U.S. Virgin Islands",
+  "lat": 18.35,
+  "lng": -64.71,
+  "text": "In 1733 a small group of African labourers on Danish-ruled St. John, remembered as the \"Alminas\" after the plantation where it began, rose up against the planters. For a time the island was ruled by enslaved Africans, and planters were driven into the sea and onto nearby cays. The Danes put the uprising down only with the help of French troops.",
+  "source": {
+   "name": "U.S. National Park Service: Contact Period Sites in the U.S. Virgin Islands",
+   "url": "https://www.nps.gov/articles/contact-period-sites-usvi.htm"
+  }
+ },
+ {
+  "id": "n04-dutch-burn-san-juan",
+  "era": "exploration",
+  "year": 1625,
+  "dateLabel": "September 25 – November 2, 1625",
+  "cat": "power",
+  "title": "Dutch Raiders Torch San Juan",
+  "place": "San Juan, Puerto Rico",
+  "lat": 18.47,
+  "lng": -66.12,
+  "text": "In 1625 Dutch privateers led by Boudewijn Hendricksz attacked San Juan, hoping for a firmer hold in the Caribbean. Civilians fled, and Hendricksz even lived in La Fortaleza, but while he attacked El Morro, small local militias struck back at the Dutch. Unable to take the city, he gathered the wealth from people's homes and burned San Juan to the ground before sailing away.",
+  "source": {
+   "name": "U.S. National Park Service, San Juan NHS: History of the Fortifications",
+   "url": "https://www.nps.gov/saju/learn/historyculture/history.htm"
+  },
+  "source2": {
+   "name": "U.S. National Park Service, San Juan NHS: San Juan Timeline",
+   "url": "https://www.nps.gov/saju/learn/historyculture/timeline.htm"
+  }
+ },
+ {
+  "id": "n04-lucayans-reach-abaco",
+  "era": "medieval",
+  "year": 830,
+  "dateLabel": "About 830 CE",
+  "cat": "nature",
+  "title": "Fire Reveals the First Bahamians",
+  "place": "Blackwood Sinkhole, Great Abaco, Bahamas",
+  "lat": 26.79,
+  "lng": -77.42,
+  "text": "Mud from the Blackwood Sinkhole on Great Abaco holds charcoal from ancient fires, showing that the Lucayan people were clearing land with slash-and-burn farming around 830 CE. Before they came, the island had pine and palm forests and a world ruled by reptiles, including giant tortoises and crocodiles. Burning let pines take over, and large land reptiles began to disappear after 1000 CE.",
+  "source": {
+   "name": "Texas A&M University Geosciences News: Study: Bahamas Were Settled Earlier Than Believed",
+   "url": "https://geonews.tamu.edu/news/2021/03/study-bahamas-were-settled-earlier-than-believed.php"
+  }
+ },
+ {
+  "id": "n04-havana-morro-1762",
+  "era": "exploration",
+  "year": 1762,
+  "dateLabel": "June 6 – August 13, 1762",
+  "cat": "power",
+  "title": "Britain Storms the Morro",
+  "place": "Castillo del Morro, Havana, Cuba",
+  "lat": 23.15,
+  "lng": -82.36,
+  "text": "Early in 1762 Britain sent ships and troops under Admiral Sir George Pocock and the Earl of Albemarle against Havana, whose harbour was guarded by the high Morro Castle. The siege lasted from 6 June to 13 August. After mines breached the castle's walls, it was stormed on 30 July; its veteran defender, Luis de Velasco, was badly wounded and died two days later.",
+  "source": {
+   "name": "Royal Museums Greenwich: The Capture of Havana, 1762: Storming of Morro Castle, 30 July",
+   "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-11905"
+  },
+  "source2": {
+   "name": "Royal Collection Trust, Military Maps: Havana 1762",
+   "url": "https://militarymaps.rct.uk/the-seven-years-war-1756-63/havana-1762-0"
+  }
+ },
+ {
+  "id": "n04-citadelle-henry",
+  "era": "industrial",
+  "year": 1813,
+  "dateLabel": "1813",
+  "cat": "culture",
+  "title": "A Free Kingdom's Mountain Fortress",
+  "place": "Milot, Nord, Haiti",
+  "lat": 19.57,
+  "lng": -72.24,
+  "text": "After independence, Henri Christophe was asked to build a huge fortress on the Pic Laferrière to protect Haiti. The Citadelle, standing 970 metres up and able to hold 2,000 soldiers, opened in 1813, the same year as his Sans-Souci Palace below. UNESCO calls them the first monuments built by enslaved Black people who had won their freedom.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: National History Park – Citadel, Sans Souci, Ramiers",
+   "url": "https://whc.unesco.org/en/list/180/"
+  }
+ },
+ {
+  "id": "n04-old-havana-heritage",
+  "era": "modern",
+  "year": 1982,
+  "dateLabel": "1982",
+  "cat": "culture",
+  "title": "Old Havana Joins World Heritage",
+  "place": "Old Havana, Havana, Cuba",
+  "lat": 23.14,
+  "lng": -82.35,
+  "text": "In 1982 UNESCO added Old Havana and its forts to the World Heritage List. The city's bay was a required stop on ships' routes to the New World, so it gained some of the oldest and largest stone forts in the Americas. Its five big plazas are lined with baroque and neoclassical buildings and houses with arcades, balconies and inner courtyards.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Old Havana and its Fortification System",
+   "url": "https://whc.unesco.org/en/list/204/"
+  }
+ },
+ {
+  "id": "n04-fireburn-st-croix",
+  "era": "industrial",
+  "year": 1878,
+  "dateLabel": "October 1, 1878",
+  "cat": "daily",
+  "title": "Fireburn and the Three Queens",
+  "place": "Frederiksted, St. Croix, U.S. Virgin Islands",
+  "lat": 17.71,
+  "lng": -64.88,
+  "text": "On St. Croix, then Danish, the law fixed a day wage and let workers change jobs only once a year, on 1 October. On that day in 1878, with wages barely enough to live on, workers gathered in Frederiksted rose up. Around 50 plantations and most of the town burned. Three women remembered as Queen Mary, Queen Agnes and Queen Mathilda became symbols of resistance.",
+  "source": {
+   "name": "National Museum of Denmark: Fireburn",
+   "url": "https://en.natmus.dk/historical-knowledge/historical-themes/danish-colonies/the-danish-west-indies/fireburn/"
+  }
+ },
+ {
+  "id": "n04-garvey-returns-kingston",
+  "era": "modern",
+  "year": 1927,
+  "dateLabel": "December 10, 1927",
+  "cat": "journeys",
+  "title": "Garvey Comes Home to Jamaica",
+  "place": "Kingston, Jamaica",
+  "lat": 17.97,
+  "lng": -76.79,
+  "text": "Deported by the United States government in December 1927, Marcus Garvey was greeted by enthusiastic crowds when he reached his Jamaican homeland on 10 December. He spoke to large welcoming crowds in Kingston, and his People's Political Party was formed to run reform candidates. In August 1929 his Universal Negro Improvement Association held its convention at Kingston's Edelweiss Park, with a parade watched by thousands.",
+  "source": {
+   "name": "UCLA James S. Coleman African Studies Center, Marcus Garvey and UNIA Papers Project: Volume VII Introduction",
+   "url": "https://www.nhlrc.ucla.edu/asc/mgpp/intro07"
+  }
+ },
+ {
+  "id": "n04-hurricane-maria",
+  "era": "modern",
+  "year": 2017,
+  "dateLabel": "September 20, 2017",
+  "cat": "nature",
+  "title": "Maria Strikes Puerto Rico",
+  "place": "Yabucoa, Puerto Rico",
+  "lat": 18.05,
+  "lng": -65.88,
+  "text": "At about 6:15 in the morning on 20 September 2017, Hurricane Maria came ashore at Yabucoa as a strong Category 4 storm with winds of 155 mph. Puerto Rico had not felt a hurricane that strong since San Felipe II in 1928. Maria destroyed the dome of the weather radar at Guavate, sank over 300 boats and tore the roof off a hospital in Arecibo.",
+  "source": {
+   "name": "U.S. National Weather Service, San Juan: Hurricane Maria 2017",
+   "url": "https://www.weather.gov/sju/maria2017"
+  }
+ },
+ {
+  "id": "n04-monk-seal-extinct",
+  "era": "modern",
+  "year": 2008,
+  "dateLabel": "June 2008",
+  "cat": "nature",
+  "title": "Goodbye to the Caribbean Monk Seal",
+  "place": "Serranilla Bank, Caribbean Sea",
+  "lat": 15.83,
+  "lng": -79.83,
+  "text": "In June 2008 NOAA confirmed that the Caribbean monk seal was extinct, the first type of seal lost to human causes. Europeans first recorded it on Columbus's second voyage in 1494, when eight seals were killed for meat. Resting and nursing on beaches made the seals easy for hunters. The last confirmed sighting was in 1952, at Serranilla Bank between Jamaica and the Yucatán.",
+  "source": {
+   "name": "NOAA news release via ScienceDaily: Caribbean Monk Seal Gone Extinct From Human Causes, NOAA Confirms",
+   "url": "https://www.sciencedaily.com/releases/2008/06/080608074828.htm"
+  }
+ },
+ {
+  "id": "n04-las-casas-change-of-heart",
+  "era": "exploration",
+  "year": 1514,
+  "dateLabel": "1514",
+  "cat": "culture",
+  "title": "A Colonist Changes His Mind",
+  "place": "Cuba",
+  "lat": 21.93,
+  "lng": -79.44,
+  "text": "Bartolomé de Las Casas began as part of the problem: he took part in the Spanish conquest of Cuba and was granted an encomienda, which made him an owner of Indigenous workers. Remembering that Dominican friars refused to absolve Indian owners, he repented, and in 1514 gave up his encomienda and told the Cuban governor. Later, in his History of the Indies, he angrily attacked the system.",
+  "source": {
+   "name": "Virginia Tech, Digital History Reader: Bartolomé de Las Casas, History of the Indies (excerpt and introduction)",
+   "url": "https://dhr.history.vt.edu/modules/us/mod01_pop/evidence_detail_04.html"
+  }
+ },
+ {
+  "id": "n04-san-cristobal-begun",
+  "era": "exploration",
+  "year": 1634,
+  "dateLabel": "1634",
+  "cat": "culture",
+  "title": "A Fortress 150 Years in the Making",
+  "place": "Castillo San Cristóbal, San Juan, Puerto Rico",
+  "lat": 18.47,
+  "lng": -66.11,
+  "text": "In 1634 work began on a new fort at San Juan, Castillo San Cristóbal, along with the city walls. San Cristóbal was built to protect the city from an attack by land from the east. It took over 150 years to complete and is considered the largest fortress built in the Americas.",
+  "source": {
+   "name": "U.S. National Park Service, San Juan NHS: Castillo San Cristóbal",
+   "url": "https://www.nps.gov/saju/learn/historyculture/san-cristobal.htm"
+  },
+  "source2": {
+   "name": "U.S. National Park Service, San Juan NHS: San Juan Timeline",
+   "url": "https://www.nps.gov/saju/learn/historyculture/timeline.htm"
+  }
+ },
+ {
+  "id": "n04-tropiques-martinique",
+  "era": "modern",
+  "year": 1941,
+  "dateLabel": "1941",
+  "cat": "culture",
+  "title": "A Magazine Against the Censors",
+  "place": "Fort-de-France, Martinique",
+  "lat": 14.6,
+  "lng": -61.07,
+  "text": "In 1941, while Martinique was under the Vichy regime, the poet Aimé Césaire created the journal Tropiques. His first editorial declared, \"We can no longer afford to live as parasites within the world.\" Suzanne Césaire, one of its most active writers, published seven articles in it. A naval officer censored the journal in 1943, and it came back only after Vichy fell.",
+  "source": {
+   "name": "Brown University Library, Liberation Journals Index: Tropiques",
+   "url": "https://library.brown.edu/liberation/aboutJournals.php?journ=8"
+  }
+ },
+ {
+  "id": "n04-hamilton-hurricane-letter",
+  "era": "exploration",
+  "year": 1772,
+  "dateLabel": "August 31 – September 6, 1772",
+  "cat": "nature",
+  "title": "Hamilton Writes Up a Hurricane",
+  "place": "St. Croix, U.S. Virgin Islands",
+  "lat": 17.75,
+  "lng": -64.7,
+  "text": "On the night of 31 August 1772 a terrible hurricane struck St. Croix. Days later Alexander Hamilton described it in a letter to The Royal Danish American Gazette: roaring sea and wind, almost constant lightning, crashing houses and shrieking people. Much of the island's buildings were flattened, families wandered the streets without shelter, and he noticed the rain tasted surprisingly salty.",
+  "source": {
+   "name": "National Archives, Founders Online: Alexander Hamilton to The Royal Danish American Gazette, 6 September 1772",
+   "url": "https://founders.archives.gov/documents/Hamilton/01-01-02-0042"
+  }
+ },
+ {
+  "id": "n04-cuba-grid-collapse",
+  "era": "modern",
+  "year": 2024,
+  "dateLabel": "October 18, 2024",
+  "cat": "daily",
+  "title": "The Night Cuba Went Dark",
+  "place": "Cuba",
+  "lat": 23.11,
+  "lng": -82.37,
+  "text": "Around 11 a.m. on 18 October 2024, Cuba's Antonio Guiteras power plant stopped working, and the national grid went offline, leaving millions of Cubans without electricity. The government halted classes and shut some state workplaces to save power. Officials blamed breakdowns at old, poorly maintained plants, fuel shortages, and rising demand from businesses and home air conditioners.",
+  "source": {
+   "name": "PBS NewsHour (Associated Press): Cuba's electrical grid goes offline after major power plant fails",
+   "url": "https://www.pbs.org/newshour/world/cubas-electrical-grid-goes-offline-after-major-power-plant-fails"
+  }
+ },
+ {
+  "id": "n04-english-take-jamaica",
+  "era": "exploration",
+  "year": 1655,
+  "dateLabel": "1655",
+  "cat": "power",
+  "title": "England's Consolation Prize",
+  "place": "Spanish Town, Jamaica",
+  "lat": 17.99,
+  "lng": -76.96,
+  "text": "In 1655 Oliver Cromwell's \"Western Design\" sent a fleet under Admirals Sir William Penn and Robert Venables to the Caribbean. Driven back from Hispaniola, they captured Spanish Jamaica instead. Spain fought on, and only gave the island up formally in the Treaty of Madrid in 1670. Meanwhile escaped enslaved Africans, the Maroons, built free lives in the Blue Mountains and Cockpit Country.",
+  "source": {
+   "name": "Lancaster University, Disputatious Societies project: Jamaica",
+   "url": "https://www.lancaster.ac.uk/fass/projects/caribbean/Jamaica.html"
+  }
+ },
+ {
+  "id": "n04-marley-farewell",
+  "era": "modern",
+  "year": 1981,
+  "dateLabel": "May 1981",
+  "cat": "culture",
+  "title": "A Funeral Fit for a King",
+  "place": "Jamaica",
+  "lat": 18.0,
+  "lng": -76.8,
+  "text": "Bob Marley died of a brain tumour on 11 May 1981, in a Miami hospital. His funeral in Jamaica a few days later drew hundreds of thousands of people, including the prime minister. Marley had carried reggae and Rastafarianism to a worldwide audience, and a Jamaican broadcaster said his success abroad proved to Jamaicans that they could be something good.",
+  "source": {
+   "name": "BBC News: Marley's legend undiminished (10 May 2001)",
+   "url": "http://news.bbc.co.uk/2/hi/entertainment/1323905.stm"
+  }
+ },
+ {
+  "id": "n04-ponce-san-juan-bay",
+  "era": "exploration",
+  "year": 1508,
+  "dateLabel": "August 1508",
+  "cat": "journeys",
+  "title": "The Bay That Named an Island",
+  "place": "San Juan Bay, Puerto Rico",
+  "lat": 18.45,
+  "lng": -66.11,
+  "text": "Europeans first reached Puerto Rico with Columbus on his second voyage, in November 1493. In 1508 Juan Ponce de León arrived to establish one, and in August he came upon San Juan Bay, calling the area \"puerto rico\". San Juan was settled there, and shortly afterwards work began on fortifications for the city.",
+  "source": {
+   "name": "U.S. National Park Service, San Juan NHS: History of the Fortifications",
+   "url": "https://www.nps.gov/saju/learn/historyculture/history.htm"
+  },
+  "source2": {
+   "name": "U.S. National Park Service, San Juan NHS: San Juan Timeline",
+   "url": "https://www.nps.gov/saju/learn/historyculture/timeline.htm"
+  }
+ }
+]

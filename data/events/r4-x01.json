@@ -1,0 +1,278 @@
+[
+ {
+  "id": "x01-khan-who-wrote-history",
+  "era": "exploration",
+  "year": 1659,
+  "dateLabel": "1659",
+  "cat": "culture",
+  "title": "The Khan Who Wrote History",
+  "place": "Khiva, Khorezm, Uzbekistan",
+  "lat": 41.38,
+  "lng": 60.36,
+  "text": "Abu al-Ghazi Bahadur, khan of Khiva, had spent ten years in exile at the Safavid court in Isfahan studying Persian and Arabic histories. In 1659 he finished The Genealogical Tree of the Turkmen, written in Chagatai Turkish and mixing Persian chronicles with Turkic oral traditions. A second history, left unfinished, was completed by his son and later translated into German, French, Russian, Latin and English.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Abu al-Ghazi Bahadur",
+   "url": "https://www.britannica.com/biography/Abu-al-Ghazi-Bahadur"
+  }
+ },
+ {
+  "id": "x01-irkutsk-fort-on-angara",
+  "era": "exploration",
+  "year": 1661,
+  "dateLabel": "1661",
+  "cat": "journeys",
+  "title": "A Fort Where the Irkut Meets the Angara",
+  "place": "Irkutsk, Irkutsk Oblast, Russia",
+  "lat": 52.29,
+  "lng": 104.28,
+  "text": "Russian colonists first made a winter camp where the Irkut River joins the Angara in 1652. In 1661 they built a fort there, and Irkutsk quickly became the main centre of the lands west of Lake Baikal and of the Russian trade route to China and Mongolia. It gained town status in 1686, and many old wooden houses still line its streets.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Irkutsk",
+   "url": "https://www.britannica.com/place/Irkutsk-Russia"
+  }
+ },
+ {
+  "id": "x01-galdan-lama-khan",
+  "era": "exploration",
+  "year": 1676,
+  "dateLabel": "1676",
+  "cat": "power",
+  "title": "The Monk Who Became a Warlord",
+  "place": "Dzungar lands, Xinjiang, China",
+  "lat": 43.9,
+  "lng": 81.3,
+  "text": "Galdan was a younger son sent to Tibet to train as a Buddhist lama. When his brother, the Dzungar leader, was murdered in 1671, he came home for revenge, and from 1676 he ruled the Dzungar Mongols. He conquered East Turkistan and Outer Mongolia, but in 1696 the Kangxi emperor, using artillery made under Jesuit instruction, crushed him near present-day Ulaanbaatar.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Dga'-ldan (Galdan)",
+   "url": "https://www.britannica.com/biography/Dga-ldan"
+  }
+ },
+ {
+  "id": "x01-renat-dzungar-map",
+  "era": "exploration",
+  "year": 1716,
+  "dateLabel": "1716",
+  "cat": "journeys",
+  "title": "A Swedish Captive Maps the Kalmuks",
+  "place": "Irtysh River, Kazakhstan",
+  "lat": 51.0,
+  "lng": 78.5,
+  "text": "Johan Gustaf Renat, a Swedish artillery officer captured at Poltava, was travelling with a Russian expedition up the Irtysh in 1716 when Kalmuks attacked the 700-man convoy. He spent years among his captors, teaching them to smelt iron and commanding their troops against China. Returning home in 1733, he brought a map of Central Asia, which August Strindberg found in a Linköping library in 1879.",
+  "source": {
+   "name": "Toyo Bunko Archive, NII Digital Silk Road: Southern Tibet, vol. 1, p. 399",
+   "url": "https://dsr.nii.ac.jp/toyobunko/VII-1-62/V-1/page/0399.html.en"
+  }
+ },
+ {
+  "id": "x01-samarkand-abandoned",
+  "era": "exploration",
+  "year": 1722,
+  "dateLabel": "1722",
+  "cat": "daily",
+  "title": "The Year Samarkand Emptied",
+  "place": "Samarkand, Uzbekistan",
+  "lat": 39.65,
+  "lng": 66.96,
+  "text": "In 1722 tribal chiefs rebelled against Bukhara's khan in Samarkand and crowned a rival, who called in Kazakh allies. For seven years the Kazakhs ravaged the heart of Transoxiana, wrecking fields and orchards and plundering towns. A later Bukharan historian wrote that Samarkand was entirely abandoned and only two quarters of Bukhara stayed inhabited, as refugees fled to Fergana and other outlying regions.",
+  "source": {
+   "name": "Encyclopaedia Iranica (Yuri Bregel): Central Asia vii. In the 18th–19th Centuries",
+   "url": "https://www.iranicaonline.org/articles/central-asia-vii/"
+  }
+ },
+ {
+  "id": "x01-end-of-the-dzungars",
+  "era": "exploration",
+  "year": 1757,
+  "dateLabel": "1755–57",
+  "cat": "power",
+  "title": "The End of the Dzungars",
+  "place": "Dzungaria, Xinjiang, China",
+  "lat": 44.0,
+  "lng": 85.0,
+  "text": "For years the Dzungar Mongols had troubled the Qing empire's northwest. Between 1755 and 1757 the Qing general Zhaohui led several campaigns against them; on the last, his troops were cut off and surrounded until relief arrived. He then virtually wiped out the Dzungar tribes and placed the region under a military governor, with Chinese garrisons and penal colonies.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Zhaohui",
+   "url": "https://www.britannica.com/biography/Zhaohui"
+  }
+ },
+ {
+  "id": "x01-shah-murad-amir",
+  "era": "exploration",
+  "year": 1785,
+  "dateLabel": "1785",
+  "cat": "power",
+  "title": "Bukhara's Rulers Become Amirs",
+  "place": "Bukhara, Uzbekistan",
+  "lat": 39.78,
+  "lng": 64.41,
+  "text": "For decades, chiefs of the Manghit tribe ran Bukhara from behind puppet khans of the old dynasty. In 1785 Shah Murad, son of the powerful Daniyal Biy, deposed the puppet Abu'l-Ghazi and took the throne himself. From then on, he and the Manghit rulers who followed him used amir, not khan, as their main title.",
+  "source": {
+   "name": "Encyclopaedia Iranica (Yuri Bregel): Central Asia vii. In the 18th–19th Centuries",
+   "url": "https://www.iranicaonline.org/articles/central-asia-vii/"
+  }
+ },
+ {
+  "id": "x01-kolyvan-jasper-vase",
+  "era": "industrial",
+  "year": 1843,
+  "dateLabel": "1843",
+  "cat": "culture",
+  "title": "A 19-Ton Vase from the Altai",
+  "place": "Kolyvan, Altai Krai, Russia",
+  "lat": 51.36,
+  "lng": 82.56,
+  "text": "Stone-cutters at the Kolyvan lapidary works in the Altai spent almost fourteen years carving this giant bowl from a slab of greenish jasper found at the foot of Revnev Mountain. Finished in 1843 to a design by Avraam Melnikov, it weighs almost 19 tons, and its bowl measures 5.04 by 3.22 metres. It still stands in the Hermitage in St Petersburg.",
+  "source": {
+   "name": "State Hermitage Museum, via Google Arts & Culture: Kolyvan vase",
+   "url": "https://artsandculture.google.com/asset/kolyvan-vase-avraam-melnikov/OwGauXwFZPZpMQ"
+  }
+ },
+ {
+  "id": "x01-shevchenko-aral-sea",
+  "era": "industrial",
+  "year": 1848,
+  "dateLabel": "1848–49",
+  "cat": "journeys",
+  "title": "An Exiled Poet Sails the Aral Sea",
+  "place": "Aral Sea, Kazakhstan–Uzbekistan",
+  "lat": 45.0,
+  "lng": 60.0,
+  "text": "Ukrainian poet and painter Taras Shevchenko was exiled as a private soldier, and Tsar Nicholas I personally banned him from writing, drawing or painting. Yet in 1848–49 he was included in a military expedition to survey and describe the Aral Sea. He kept working in secret, and many of his drawings from exile show the life of the Kazakhs.",
+  "source": {
+   "name": "Internet Encyclopedia of Ukraine: Shevchenko, Taras",
+   "url": "http://www.encyclopediaofukraine.com/display.asp?linkpath=pages%5CS%5CH%5CShevchenkoTaras.htm"
+  }
+ },
+ {
+  "id": "x01-valikhanov-records-epic",
+  "era": "industrial",
+  "year": 1856,
+  "dateLabel": "1856",
+  "cat": "culture",
+  "title": "Writing Down a Kyrgyz Epic",
+  "place": "Kyrgyz lands of the northern Tian Shan, Kyrgyzstan",
+  "lat": 42.45,
+  "lng": 77.2,
+  "text": "Kyrgyz bards carried the great Manas epic in their memories. In 1856 the scholar Chokan Valikhanov wrote down one of its heroic poems, about the death and funeral feast of Kökötöy-khan, and began a Russian translation he never finished. Only a few couplets of the Kyrgyz original survive, and one of his Manas excerpts was lost until Soviet times.",
+  "source": {
+   "name": "A. T. Hatto, Bulletin of SOAS (Cambridge Core): Kukotay and Bok Murun",
+   "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/kukotay-and-bok-murun-a-comparison-of-two-related-heroic-poems-of-the-kirgizi/7952C2604B0E8E14E9F2732AE29C7C5B"
+  },
+  "source2": {
+   "name": "Central Eurasian Studies Society 2022 (Indira Musaeva): The history of recordings of the epic Manas",
+   "url": "https://nomadit.co.uk/conference/cess2022/paper/67253"
+  }
+ },
+ {
+  "id": "x01-semenov-tian-shan",
+  "era": "industrial",
+  "year": 1857,
+  "dateLabel": "1857",
+  "cat": "discovery",
+  "title": "Into the Heavenly Mountains",
+  "place": "Khan Tengri massif, Tian Shan, Kazakhstan–Kyrgyzstan",
+  "lat": 42.21,
+  "lng": 80.17,
+  "text": "In 1857 Russian geographer Pyotr Semyonov climbed the Khan Tengri group and discovered broad glaciers high in the range. He also showed that the Chu River does not flow out of Lake Issyk Kul, as geographers had believed, and he noted how high the snow line sits in Central Asia's dry mountains. His surname later gained the honour Tyan-Shansky.",
+  "source": {
+   "name": "Complete Dictionary of Scientific Biography, via Encyclopedia.com: Semyonov-Tyan-Shansky, Petr Petrovich",
+   "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/semyonov-tyan-shansky-petr-petrovich"
+  }
+ },
+ {
+  "id": "x01-donish-reform-plan",
+  "era": "industrial",
+  "year": 1875,
+  "dateLabel": "1875–82",
+  "cat": "culture",
+  "title": "A Bukharan Thinker Asks for Reform",
+  "place": "Bukhara, Uzbekistan",
+  "lat": 39.77,
+  "lng": 64.42,
+  "text": "Ahmad Donish taught himself astronomy, medicine and music, and three trips to St Petersburg convinced him Bukhara needed change. Between 1875 and 1882 he wrote his major work, urging the emir to fix wages, train honest officials and add science to religious schools. Critics called him an infidel, and the displeased emir sent him off to be a judge in remote provinces.",
+  "source": {
+   "name": "Encyclopaedia Iranica (Vincent Fourniau): Dāneš, Aḥmad Maḵdūm",
+   "url": "https://www.iranicaonline.org/articles/danes-donis-ahmad-makdum-b/"
+  }
+ },
+ {
+  "id": "x01-maiwand-afghan-victory",
+  "era": "industrial",
+  "year": 1880,
+  "dateLabel": "July 27, 1880",
+  "cat": "power",
+  "title": "Afghan Victory at Maiwand",
+  "place": "Maiwand, Kandahar Province, Afghanistan",
+  "lat": 31.75,
+  "lng": 65.05,
+  "text": "Ayub Khan, a son of the late emir Sher Ali, marched from Herat to claim Afghanistan's throne. On 27 July 1880 a British-Indian force sent to stop him was overwhelmed at Maiwand by an army up to ten times its size. The survivors fled back to Kandahar, which Ayub Khan's victorious army soon besieged.",
+  "source": {
+   "name": "National Army Museum: Second Afghan War",
+   "url": "https://www.nam.ac.uk/explore/second-afghan-war"
+  }
+ },
+ {
+  "id": "x01-verny-adobe-quake",
+  "era": "industrial",
+  "year": 1887,
+  "dateLabel": "June 1887",
+  "cat": "nature",
+  "title": "The Quake That Flattened Mud-Brick Verny",
+  "place": "Verny (now Almaty), Kazakhstan",
+  "lat": 43.24,
+  "lng": 76.95,
+  "text": "In June 1887 a magnitude 7.3 earthquake struck Verny, the town now called Almaty. It destroyed nearly all of the town's adobe buildings and killed 300 people. Seismologists who later compared it with a 1911 quake nearby found that both shook the ground about equally, but frozen winter soil made the 1911 one cause far more ground failure.",
+  "source": {
+   "name": "Seismological Society of America news release (EurekAlert): Earthquake impact can be affected by seasonal factors",
+   "url": "https://www.eurekalert.org/news-releases/713450"
+  }
+ },
+ {
+  "id": "x01-darvaz-split-by-river",
+  "era": "industrial",
+  "year": 1895,
+  "dateLabel": "1893 and 1895",
+  "cat": "power",
+  "title": "A Mountain Kingdom Split by a River",
+  "place": "Kalai Khumb, Darvaz, Tajikistan",
+  "lat": 38.45,
+  "lng": 70.79,
+  "text": "Darvaz was a largely self-ruling Tajik principality of steep gorges and fruit trees on both banks of the Panj River, ruled by its own shahs from the mid-1600s. After Russia's conquest it was attached to Bukhara, and boundary deals in 1893 and 1895 split it. Land south of the Panj went to Afghanistan; the north is now part of Tajikistan.",
+  "source": {
+   "name": "Encyclopaedia Iranica (Jan-Heeren Grevemeyer): Darvāz",
+   "url": "https://www.iranicaonline.org/articles/darvaz/"
+  }
+ },
+ {
+  "id": "x01-anau-mounds-dig",
+  "era": "industrial",
+  "year": 1904,
+  "dateLabel": "1904",
+  "cat": "discovery",
+  "title": "Digging Into the Mounds of Anau",
+  "place": "Anau, Ahal Region, Turkmenistan",
+  "lat": 37.89,
+  "lng": 58.52,
+  "text": "In 1904 an American expedition led by Raphael Pumpelly dug into the two mounds at Anau. They found layers reaching back to about 5000 BCE and gathered unusual amounts of plant, animal and geological evidence. The deepest ten feet held only wild animal bones, showing early people hunted; later layers revealed domestic oxen, pigs and sheep as farming took over.",
+  "source": {
+   "name": "Encyclopaedia Iranica (T. Cuyler Young): Anaw i. Prehistoric Period",
+   "url": "https://www.iranicaonline.org/articles/anaw/anaw-i-prehistoric-period/"
+  }
+ },
+ {
+  "id": "x01-islam-khwaja-minaret",
+  "era": "industrial",
+  "year": 1910,
+  "dateLabel": "1908–10",
+  "cat": "culture",
+  "title": "Khiva's Last Great Tower",
+  "place": "Ichan-Kala, Khiva, Uzbekistan",
+  "lat": 41.38,
+  "lng": 60.36,
+  "text": "Between 1908 and 1910 builders in Khiva raised the Islam Khwaja madrasah and its minaret. At 45 metres, the minaret is the city's tallest structure, and Britannica counts the pair as the last major architectural achievements of Central Asia's Islamic era. It rises inside the walled Ichan-Kala, where most buildings date from 1780 to 1850.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Khiva",
+   "url": "https://www.britannica.com/place/Khiva"
+  }
+ }
+]

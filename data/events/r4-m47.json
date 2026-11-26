@@ -1,0 +1,338 @@
+[
+ {
+  "id": "m47-mamenchisaurus-longest-neck",
+  "era": "deep",
+  "year": -162000000,
+  "dateLabel": "About 162 million years ago",
+  "cat": "discovery",
+  "title": "The Longest Neck of Any Dinosaur",
+  "place": "Xinjiang Uyghur Autonomous Region, China",
+  "lat": 44.0,
+  "lng": 89.0,
+  "text": "In 1987 the China–Canada Dinosaur Project found a few neck and skull bones of Mamenchisaurus sinocanadorum in rocks about 162 million years old. A 2023 study estimated its neck at about 15.1 metres, over six times longer than a giraffe's. CT scans showed the neck bones were mostly air, about 69 to 77 percent of their volume, keeping them light like a bird's.",
+  "source": {
+   "name": "Stony Brook University News: New Fossil Analysis Reveals Dinosaur with Record-Holding 15-Meter-Long Neck",
+   "url": "https://news.stonybrook.edu/university/new-fossil-analysis-reveals-dinosaur-with-record-holding-15-meter-long-neck-2"
+  }
+ },
+ {
+  "id": "m47-siamraptor-thailand",
+  "era": "deep",
+  "year": -113000000,
+  "dateLabel": "More than 113 million years ago",
+  "cat": "discovery",
+  "title": "The Shark-Toothed Hunter of Siam",
+  "place": "Ban Saphan Hin, Nakhon Ratchasima, Thailand",
+  "lat": 14.97,
+  "lng": 102.1,
+  "text": "Near Ban Saphan Hin in central Thailand, a team led by Duangsuda Chokchaloemwong of Nakhon Ratchasima Rajabhat University found bones from at least four individuals of a 25-foot predator, named Siamraptor suwati in 2019. It belonged to the carcharodontosaurs, known for serrated, knife-like teeth, and is the first definite member of that group found in Southeast Asia.",
+  "source": {
+   "name": "National Geographic: Huge new shark-toothed dinosaur found in Thailand",
+   "url": "https://www.nationalgeographic.com/science/article/huge-new-shark-toothed-dinosaur-siamraptor-found-in-thailand"
+  },
+  "source2": {
+   "name": "EurekAlert! (PLOS): Siamraptor suwati, a new species of giant predatory dinosaur from Thailand",
+   "url": "https://www.eurekalert.org/news-releases/854393"
+  }
+ },
+ {
+  "id": "m47-indohyus-kashmir",
+  "era": "deep",
+  "year": -48000000,
+  "dateLabel": "About 48 million years ago",
+  "cat": "discovery",
+  "title": "The Tiny Deer Related to Whales",
+  "place": "Kashmir, India",
+  "lat": 33.9,
+  "lng": 74.8,
+  "text": "Whales have a surprising cousin from Kashmir. Indohyus was a deer-like animal about the size of a fox or raccoon that lived some 48 million years ago. It had dense limb bones that would have weighed it down in water, and a middle ear structure otherwise found only in whales and their relatives. Researcher Thewissen says the ancestors of both looked like a tiny deer.",
+  "source": {
+   "name": "Scientific American: Closest Whale Cousin—A Fox-Size Deer?",
+   "url": "https://scientificamerican.com/article/closest-whale-cousin"
+  }
+ },
+ {
+  "id": "m47-ganlea-myanmar",
+  "era": "deep",
+  "year": -38000000,
+  "dateLabel": "About 38 million years ago",
+  "cat": "discovery",
+  "title": "A Fruit-Cracking Primate from Myanmar",
+  "place": "Near Ganle village, Pondaung area, Myanmar",
+  "lat": 21.75,
+  "lng": 94.6,
+  "text": "Fossils first found in central Myanmar in December 2005 revealed Ganlea megacanina, a 38-million-year-old primate named after the nearby village of Ganle. Worn teeth suggest it used its big canines to pry open hard tropical fruits for their seeds. It lived in a lowland much like today's Amazon Basin, and researchers say early Asian relatives of monkeys already filled a monkey's role.",
+  "source": {
+   "name": "EurekAlert! (Carnegie Museum of Natural History): new Myanmar anthropoid primate",
+   "url": "https://www.eurekalert.org/news-releases/787444"
+  }
+ },
+ {
+  "id": "m47-saadanius-saudi",
+  "era": "deep",
+  "year": -29000000,
+  "dateLabel": "29 to 28 million years ago",
+  "cat": "discovery",
+  "title": "Before Apes and Monkeys Split",
+  "place": "Hijaz region, western Saudi Arabia",
+  "lat": 21.6,
+  "lng": 39.6,
+  "text": "In 2009 a skull was found in western Saudi Arabia from a primate that lived in a black-mangrove environment 29 to 28 million years ago. Named Saadanius hijazensis and studied by Iyad Zalmout's team at the University of Michigan, it was a male weighing some 15 to 20 kilograms. It belonged to the shared group living before the ape and Old World monkey lines split apart.",
+  "source": {
+   "name": "Scientific American: New ape fossil challenges DNA evidence about ancient split from other primates",
+   "url": "https://www.scientificamerican.com/blog/observations/new-ape-fossil-challenges-dna-evidence-about-ancient-split-from-other-primates/"
+  }
+ },
+ {
+  "id": "m47-heracles-giant-parrot",
+  "era": "deep",
+  "year": -19000000,
+  "dateLabel": "Up to 19 million years ago",
+  "cat": "nature",
+  "title": "Heracles, the Giant Parrot",
+  "place": "St Bathans, Central Otago, New Zealand",
+  "lat": -44.87,
+  "lng": 169.81,
+  "text": "Fossils up to 19 million years old from near St Bathans in Central Otago belong to the biggest parrot known. Standing up to a metre tall and weighing about 7 kilograms, it was twice the size of the kakapo. Scientists named it Heracles inexpectatus, after the strong hero of myth and because nobody expected it. It probably feasted on fruit and seeds.",
+  "source": {
+   "name": "Flinders University News: Meet 'Hercules', a parrot of child-size proportions",
+   "url": "https://news.flinders.edu.au/blog/2019/08/07/meet-hercules-a-parrot-of-child-like-proportions/"
+  }
+ },
+ {
+  "id": "m47-paratethys-megalake",
+  "era": "deep",
+  "year": -11000000,
+  "dateLabel": "Around 11 million years ago",
+  "cat": "nature",
+  "title": "The Biggest Lake Ever",
+  "place": "Paratethys, from the Alps to Central Asia (Black Sea is a remnant)",
+  "lat": 43.5,
+  "lng": 34.0,
+  "text": "Around 11 million years ago, a body of water called Paratethys stretched from the Alps all the way to Central Asia. At its peak it covered about 2.8 million square kilometres of brackish water and was home to Cetotherium riabinini, the smallest whale in the fossil record. In crises it lost more than two-thirds of its surface, and its water dropped by up to 250 metres.",
+  "source": {
+   "name": "EurekAlert! (Utrecht University): Paratethys, the largest lake the Earth has ever seen",
+   "url": "https://www.eurekalert.org/news-releases/1029304"
+  }
+ },
+ {
+  "id": "m47-alcoota-thunderbird",
+  "era": "deep",
+  "year": -8000000,
+  "dateLabel": "Around 8 million years ago",
+  "cat": "nature",
+  "title": "Thunder Birds of Alcoota",
+  "place": "Alcoota Station, Northern Territory, Australia",
+  "lat": -22.85,
+  "lng": 134.45,
+  "text": "About 200 kilometres north-east of Alice Springs, grassy plains hide a huge bed of tightly packed fossil bones around eight million years old, and thousands have been found. Among them is Dromornis stirtoni, known only from Alcoota and one of the largest birds that ever lived. Males weighed around 530 kilograms and females around 450.",
+  "source": {
+   "name": "Australian Museum: Fossils in Alcoota, NT",
+   "url": "https://australian.museum/Alcoota/"
+  },
+  "source2": {
+   "name": "Flinders University VAMP: Dromornis stirtoni",
+   "url": "https://sites.flinders.edu.au/vamp/fossils/vertebrate-fossils/birds/dromornis-stirtoni-2/"
+  }
+ },
+ {
+  "id": "m47-arctic-giant-camel",
+  "era": "deep",
+  "year": -3500000,
+  "dateLabel": "About 3.5 million years ago",
+  "cat": "journeys",
+  "title": "A Camel in the High Arctic",
+  "place": "Ellesmere Island, Nunavut, Canada",
+  "lat": 78.9,
+  "lng": -82.0,
+  "text": "On Ellesmere Island, scientists found about 30 pieces of a camel's shinbone dated to roughly 3.5 million years ago, when the High Arctic was forested. Collagen fingerprinting, which reads a bone protein, identified the animal. Led by Natalia Rybczynski of the Canadian Museum of Nature, the study showed the camel was about 30 percent bigger than modern camels.",
+  "source": {
+   "name": "NBC News: Giant Camels Roamed the Arctic 3.5 Million Years Ago",
+   "url": "https://www.nbcnews.com/news/amp/wbna51051749"
+  }
+ },
+ {
+  "id": "m47-shringasaurus-horned-reptile",
+  "era": "deep",
+  "year": -247000000,
+  "dateLabel": "About 247 million years ago",
+  "cat": "discovery",
+  "title": "A Horned Plant-Eater Before Dinosaurs",
+  "place": "Madhya Pradesh, India",
+  "lat": 22.6,
+  "lng": 77.9,
+  "text": "Long before Triceratops, a reptile in what is now Madhya Pradesh grew a pair of horns over its eyes. Shringasaurus, meaning \"horned lizard\", lived around 247 million years ago and was an unexpected plant-eater with a long neck and a thick, low-slung body. Parts of at least seven individuals were found together in a single bonebed. It was not a dinosaur.",
+  "source": {
+   "name": "Scientific American (Laelaps blog): Paleo Profile: The Horned Lizard",
+   "url": "https://www.scientificamerican.com/blog/laelaps/paleo-profile-the-horned-lizard/"
+  }
+ },
+ {
+  "id": "m47-predator-x-svalbard",
+  "era": "deep",
+  "year": -150000000,
+  "dateLabel": "Roughly 150 million years ago",
+  "cat": "nature",
+  "title": "Predator X of the Arctic",
+  "place": "Spitsbergen, Svalbard, Norway",
+  "lat": 78.3,
+  "lng": 16.5,
+  "text": "Between 2004 and 2012 a University of Oslo team dug up two big pliosaurs on the Arctic island of Svalbard. The sea reptile, nicknamed Predator X, lived roughly 150 million years ago and was about 33 to 42 feet long, with a skull up to about eight feet. It was named Pliosaurus funkei after Bjorn and May-Liss Funke, the volunteers who first found the fossils.",
+  "source": {
+   "name": "National Geographic: Paleontologists reveal identity of Predator X",
+   "url": "https://www.nationalgeographic.com/science/article/paleontologists-reveal-identity-of-predator-x"
+  },
+  "source2": {
+   "name": "NBC News: Ancient giant 'Predator X' sea monster finally gets a name",
+   "url": "https://www.nbcnews.com/id/wbna49448852"
+  }
+ },
+ {
+  "id": "m47-kronosaurus-inland-sea",
+  "era": "deep",
+  "year": -112000000,
+  "dateLabel": "98 to 112 million years ago",
+  "cat": "nature",
+  "title": "Kronosaurus Rules the Inland Sea",
+  "place": "Richmond, Queensland, Australia",
+  "lat": -20.73,
+  "lng": 143.14,
+  "text": "Kronosaurus queenslandicus was the largest and fiercest predator of the inland seas of Early Cretaceous Australia. About 11 metres long, it had a skull almost two metres long and cone-shaped teeth up to nearly 30 centimetres. Stomach contents show it ate turtles, smaller sea reptiles, fish and sharks. Fossils come from near Hughenden, Richmond and Boulia.",
+  "source": {
+   "name": "Queensland Government: Queensland's fossil emblem, Kronosaurus queenslandicus",
+   "url": "https://campaigns.premiers.qld.gov.au/fossilemblem/kronosaurus-queenslandicus.aspx"
+  }
+ },
+ {
+  "id": "m47-oman-ophiolite",
+  "era": "deep",
+  "year": -96000000,
+  "dateLabel": "About 96 million years ago",
+  "cat": "nature",
+  "title": "Ocean Floor on a Mountaintop",
+  "place": "Oman Mountains (Semail ophiolite), Oman",
+  "lat": 23.3,
+  "lng": 57.5,
+  "text": "The mountains of Oman and the UAE hold a rare treasure: a slab of ancient ocean crust and upper mantle now sitting on land. The Semail ophiolite formed about 96 million years ago in the Tethys Ocean and was then thrust onto the edge of Arabia as a sheet roughly 15 to 20 kilometres thick. It is the largest and best-studied ophiolite on Earth.",
+  "source": {
+   "name": "Eos (AGU): UAE-Oman Mountains Give Clues to Oceanic Crust and Mantle Rocks",
+   "url": "https://eos.org/science-updates/uae-oman-mountains-give-clues-to-oceanic-crust-and-mantle-rocks"
+  }
+ },
+ {
+  "id": "m47-antarctica-first-dinosaur-bone",
+  "era": "deep",
+  "year": -82600000,
+  "dateLabel": "About 82.6 million years ago",
+  "cat": "discovery",
+  "title": "Antarctica's Forgotten First Dinosaur Bone",
+  "place": "Abernethy Flats, James Ross Island, Antarctica",
+  "lat": -63.88,
+  "lng": -57.95,
+  "text": "On 9 December 1985, Michael Thomson of the British Antarctic Survey and Reinhard Förster collected a small tail bone on James Ross Island. It sat unrecognised for decades until a 2025 study identified it as a titanosaur, a long-necked plant-eater, from rocks dated to about 82.6 million years ago. That makes it the first dinosaur bone ever collected from Antarctica.",
+  "source": {
+   "name": "Acta Palaeontologica Polonica: Barrett et al., titanosaurian caudal vertebra from James Ross Island",
+   "url": "https://www.app.pan.pl/archive/published/app71/app013152025.html"
+  }
+ },
+ {
+  "id": "m47-saudi-first-dinosaurs",
+  "era": "deep",
+  "year": -75000000,
+  "dateLabel": "About 75 million years ago",
+  "cat": "discovery",
+  "title": "Saudi Arabia's First Dinosaurs",
+  "place": "Near Al Khuraybah, Midyan region, Saudi Arabia",
+  "lat": 27.95,
+  "lng": 35.25,
+  "text": "Along the Red Sea coast of Saudi Arabia, rocks about 75 million years old yielded tail bones of a titanosaur, a giant long-necked plant-eater, and teeth from an abelisaurid meat-eater. Found with fish, turtles, crocodilians and sea reptiles, they are the first identifiable dinosaur fossils described from the whole Arabian Peninsula. The bones show wear from waves or currents.",
+  "source": {
+   "name": "PLOS ONE (via PMC): Kear et al., First Dinosaurs from Saudi Arabia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3873419"
+  }
+ },
+ {
+  "id": "m47-halszkaraptor-mongolia",
+  "era": "deep",
+  "year": -71000000,
+  "dateLabel": "71 to 75 million years ago",
+  "cat": "discovery",
+  "title": "The Swan-Necked Swimming Raptor",
+  "place": "Ukhaa Tolgod, Gobi Desert, Mongolia",
+  "lat": 43.6,
+  "lng": 101.4,
+  "text": "Poachers smuggled this fossil out of Mongolia, but it was later donated and prepared for its return home. Synchrotron scans in Grenoble proved it was real. Halszkaraptor, almost 80 centimetres long, had a swan-like neck, fish-catching teeth and probably flipper-like hands. It was named after the Polish palaeontologist Halszka Osmólska and lived 71 to 75 million years ago.",
+  "source": {
+   "name": "Vrije Universiteit Brussel: Stolen dinosaur skeleton turns out to be swimming raptor",
+   "url": "https://www.vub.be/en/news/stolen-dinosaur-skeleton-turns-out-be-swimming-raptor"
+  }
+ },
+ {
+  "id": "m47-kumimanu-giant-penguin",
+  "era": "deep",
+  "year": -57000000,
+  "dateLabel": "About 57 million years ago",
+  "cat": "nature",
+  "title": "The Heaviest Penguin Ever Found",
+  "place": "North Otago, South Island, New Zealand",
+  "lat": -45.3,
+  "lng": 170.8,
+  "text": "In 2016 and 2017 Alan Tennyson found fossils in 57-million-year-old beach boulders in North Otago. Freed from the rock, the flipper bones revealed Kumimanu fordycei, a penguin estimated at 154 kilograms. The biggest emperor penguins, the largest alive today, weigh around 45 kilograms. Scientists suggest a big body helped catch larger prey and keep warm in cold water.",
+  "source": {
+   "name": "University of Cambridge: Giant penguin",
+   "url": "https://www.cam.ac.uk/stories/giant-penguin"
+  },
+  "source2": {
+   "name": "Natural History Museum, London: Largest ever penguin species discovered in New Zealand",
+   "url": "https://www.nhm.ac.uk/discover/news/2023/february/largest-ever-penguin-species-discovered-new-zealand.html"
+  }
+ },
+ {
+  "id": "m47-vasuki-giant-snake",
+  "era": "deep",
+  "year": -47000000,
+  "dateLabel": "About 47 million years ago",
+  "cat": "discovery",
+  "title": "Vasuki, the Giant Snake of Kutch",
+  "place": "Panandhro Lignite Mine, Kutch, Gujarat, India",
+  "lat": 23.67,
+  "lng": 68.77,
+  "text": "In a lignite mine in Kutch, Sunil Bajpai and Debajit Datta found 27 vertebrae of an enormous snake from about 47 million years ago, when temperatures averaged around 28 °C. Named after Vasuki, the serpent around Lord Shiva's neck, it may have been 11 to 15 metres long. It was probably a slow ambush predator that squeezed its prey.",
+  "source": {
+   "name": "Scientific Reports (via PMC): Datta and Bajpai, Largest known madtsoiid snake from warm Eocene period of India",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11549349/"
+  }
+ },
+ {
+  "id": "m47-greenland-oldest-dna",
+  "era": "deep",
+  "year": -2000000,
+  "dateLabel": "Around 2 million years ago",
+  "cat": "discovery",
+  "title": "The Oldest DNA Ever Read",
+  "place": "Kap København Formation, Peary Land, Greenland",
+  "lat": 82.4,
+  "lng": -22.2,
+  "text": "Today Peary Land in North Greenland is a polar desert, but DNA from its sediments, dated to around two million years ago, tells another story. It reveals an open forest of poplar, birch and thuja trees, with hares, mastodons, ants and even horseshoe crabs nearby. The climate was more than 10 °C warmer than now, and the DNA is considerably older than any DNA sequenced before.",
+  "source": {
+   "name": "Nature (via PMC): Kjær et al., A 2-million-year-old ecosystem in Greenland uncovered by environmental DNA",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9729109"
+  }
+ },
+ {
+  "id": "m47-sangiran-java",
+  "era": "deep",
+  "year": -1200000,
+  "dateLabel": "Around 1.2 million years ago",
+  "cat": "daily",
+  "title": "Early Humans on Java",
+  "place": "Sangiran, Central Java, Indonesia",
+  "lat": -7.4,
+  "lng": 110.82,
+  "text": "North of Solo in Central Java, Sangiran's layers record about 2.4 million years of change. Homo erectus remains and stone flakes were found here from the 1930s, and the site holds archaeological occupation floors from around 1.2 million years ago. More than 100 Homo erectus individuals have been found, some at least 1.5 million years old.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Sangiran Early Man Site",
+   "url": "https://whc.unesco.org/en/list/593"
+  }
+ }
+]

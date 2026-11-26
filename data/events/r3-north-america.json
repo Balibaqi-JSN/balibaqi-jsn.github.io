@@ -1,0 +1,1162 @@
+[
+ {
+  "id": "r3n-dinosaur-provincial-park",
+  "era": "deep",
+  "year": -76000000,
+  "dateLabel": "About 77–75 million years ago",
+  "emoji": "🦕",
+  "cat": "nature",
+  "title": "Alberta's Dinosaur Graveyard",
+  "place": "Dinosaur Provincial Park, Alberta, Canada",
+  "lat": 50.76,
+  "lng": -111.49,
+  "text": "The badlands of Dinosaur Provincial Park in southern Alberta hold some of the most important dinosaur fossils ever found, dating back 75 to 77 million years. More than 44 dinosaur species have turned up here. Over 350 articulated specimens, including more than 150 complete skeletons, now sit in more than 30 major museums.",
+  "collections": [
+   "dinosaur-hunter"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre (Dinosaur Provincial Park)",
+   "url": "https://whc.unesco.org/en/list/71"
+  }
+ },
+ {
+  "id": "r3n-maiasaura",
+  "era": "deep",
+  "year": -78000000,
+  "dateLabel": "Late Cretaceous, over 70 million years ago",
+  "emoji": "🥚",
+  "cat": "discovery",
+  "title": "The Good Mother Lizard",
+  "place": "Near Choteau, Montana, USA",
+  "lat": 47.81,
+  "lng": -112.18,
+  "text": "Maiasaura was a duck-billed dinosaur named in 1979 from fossils found near the town of Choteau, Montana. Remains of its babies have been found both inside and outside the nests. Studies suggest the hatchlings stayed in the nest for about 40 to 75 days and needed their parents to look after them, just as its famous name suggests.",
+  "collections": [
+   "dinosaur-hunter"
+  ],
+  "source": {
+   "name": "PeerJ (Prieto-Marquez & Guenther 2018, \"Perinatal specimens of Maiasaura from the Upper Cretaceous of Montana\")",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5960587/"
+  },
+  "source2": {
+   "name": "Scientific Reports (2025, \"Neonatal state and degree of necessity for parental care in Maiasaura\")",
+   "url": "https://doi.org/10.1038/s41598-025-06282-5"
+  }
+ },
+ {
+  "id": "r3n-triceratops-bison",
+  "era": "deep",
+  "year": -67500000,
+  "dateLabel": "About 68–66 million years ago",
+  "emoji": "🦴",
+  "cat": "discovery",
+  "title": "The Triceratops Mistaken for a Bison",
+  "place": "Denver, Colorado, USA",
+  "lat": 39.74,
+  "lng": -104.99,
+  "text": "Triceratops, with its huge bony frill and three horns, roamed western North America at the very end of the age of dinosaurs, reaching about 8 to 9 metres long. When a pair of its brow horns turned up near Denver in 1887, paleontologist Othniel Marsh first named them as a giant extinct bison, Bison alticornis. More skulls soon revealed the truth.",
+  "collections": [
+   "dinosaur-hunter"
+  ],
+  "source": {
+   "name": "Smithsonian Magazine, Riley Black, 'When Triceratops Was a Giant Bison' (2011, summarising Carpenter 2007)",
+   "url": "https://www.smithsonianmag.com/science-nature/when-triceratops-was-a-giant-bison-179449725/"
+  },
+  "source2": {
+   "name": "Natural History Museum (London), Dino Directory: Triceratops",
+   "url": "https://www.nhm.ac.uk/discover/dino-directory/triceratops.html"
+  }
+ },
+ {
+  "id": "r3n-huckleberry-ridge",
+  "era": "deep",
+  "year": -2100000,
+  "dateLabel": "About 2.1 million years ago",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "Yellowstone's Biggest Blast",
+  "place": "Island Park Caldera, Idaho, USA",
+  "lat": 44.33,
+  "lng": -111.33,
+  "text": "About 2.1 million years ago, the Yellowstone hotspot unleashed the largest of its three giant eruptions. It blasted out about 2,450 cubic kilometres of rock and ash, which hardened into the Huckleberry Ridge Tuff. So much magma poured out that the ground above collapsed, leaving a huge crater, or caldera, made of three overlapping collapse areas.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "U.S. Geological Survey - Yellowstone Volcano Observatory",
+   "url": "https://www.usgs.gov/volcanoes/yellowstone/science/summary-yellowstone-eruption-history"
+  }
+ },
+ {
+  "id": "r3n-la-brea",
+  "era": "iceage",
+  "year": -16000,
+  "dateLabel": "During the last Ice Age",
+  "emoji": "🐺",
+  "cat": "nature",
+  "title": "The Sticky Trap of La Brea",
+  "place": "La Brea Tar Pits, Los Angeles, USA",
+  "lat": 34.06,
+  "lng": -118.36,
+  "text": "In the middle of today's Los Angeles, natural asphalt has oozed from the ground for tens of thousands of years. During the Ice Age, animals got stuck in it, and predators that came to eat them got stuck too. That's why the pits hold so many dire wolves and saber-toothed cats, plus mammoths, giant ground sloths and American lions.",
+  "collections": [
+   "beasts-through-time",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "La Brea Tar Pits and Museum (Natural History Museums of Los Angeles County)",
+   "url": "https://tarpits.org/experience-tar-pits/la-brea-tar-pits-and-hancock-park"
+  },
+  "source2": {
+   "name": "La Brea Tar Pits and Museum, mammal collections",
+   "url": "https://tarpits.org/research-collections/tar-pits-collections/mammal-collections"
+  }
+ },
+ {
+  "id": "r3n-meadowcroft",
+  "era": "iceage",
+  "year": -17000,
+  "dateLabel": "Perhaps 19,000 years ago",
+  "emoji": "🪨",
+  "cat": "discovery",
+  "title": "Clues in a Groundhog Burrow",
+  "place": "Meadowcroft Rockshelter, Pennsylvania, USA",
+  "lat": 40.29,
+  "lng": -80.49,
+  "text": "In 1955, farmer Albert Miller found what looked like a prehistoric tool in a groundhog hole under a rock overhang on his family's farm in Avella, Pennsylvania. He kept it quiet until archaeologist James Adovasio began digging in 1973. The excavation turned up nearly two million artifacts and remains, and the museum says people camped here about 19,000 years ago.",
+  "collections": [
+   "becoming-human",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Senator John Heinz History Center (Meadowcroft Rockshelter)",
+   "url": "https://www.heinzhistorycenter.org/whats-on/meadowcroft/exhibits/rockshelter/"
+  }
+ },
+ {
+  "id": "r3n-page-ladson",
+  "era": "iceage",
+  "year": -12600,
+  "dateLabel": "About 14,550 years ago",
+  "emoji": "🦣",
+  "cat": "discovery",
+  "title": "Mastodon Butchers Under a River",
+  "place": "Page–Ladson site, Aucilla River, Florida, USA",
+  "lat": 30.2,
+  "lng": -83.95,
+  "text": "Page–Ladson is a sinkhole now lying under Florida's Aucilla River, so archaeologists dig it in scuba gear. About 14,550 years ago it held a pond, and people there butchered or scavenged a mastodon, leaving stone tools behind. Cut marks on a tusk, mastodon tracks and dung in the same layers help tell the story.",
+  "collections": [
+   "becoming-human",
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Science Advances (Halligan et al. 2016), via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4928949/"
+  }
+ },
+ {
+  "id": "r3n-folsom",
+  "era": "iceage",
+  "year": -10500,
+  "dateLabel": "About 11,000–10,000 BCE",
+  "emoji": "🦬",
+  "cat": "discovery",
+  "title": "A Cowboy's Hunch at Folsom",
+  "place": "Folsom Site, New Mexico, USA",
+  "lat": 36.88,
+  "lng": -104.06,
+  "text": "After a flash flood in 1908, George McJunkin, a formerly enslaved cowboy and ranch foreman, noticed bison bones in an arroyo that were far bigger than any he had seen. He died in 1922, before experts came. In 1927, diggers found a spear point lying between the ribs of an extinct Ice Age bison, proof that people hunted in North America far earlier than experts believed.",
+  "collections": [
+   "becoming-human",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "SAPIENS (Wenner-Gren Foundation), by S. Nash, Denver Museum of Nature & Science",
+   "url": "https://www.sapiens.org/archaeology/folsom-point-archaeology-icon/"
+  },
+  "source2": {
+   "name": "U.S. National Park Service",
+   "url": "https://www.nps.gov/cavo/learn/historyculture/george-mcjunkin.htm"
+  }
+ },
+ {
+  "id": "r3n-head-smashed-in",
+  "era": "ancient",
+  "year": -3500,
+  "dateLabel": "Used for nearly 6,000 years",
+  "emoji": "🏞️",
+  "cat": "daily",
+  "title": "The Cliff of the Buffalo Jump",
+  "place": "Head-Smashed-In Buffalo Jump, Alberta, Canada",
+  "lat": 49.75,
+  "lng": -113.63,
+  "text": "For nearly 6,000 years, Plains peoples drove bison over this 10-metre cliff in the Alberta foothills. Using their deep knowledge of the land and of buffalo behaviour, hunters funnelled herds into drive lanes marked with stones that ended at the edge. The butchered bones and tools at the foot of the cliff lie more than 11 metres deep.",
+  "collections": [
+   "beasts-through-time",
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/158"
+  },
+  "source2": {
+   "name": "The Canadian Encyclopedia",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/head-smashed-in-buffalo-jump"
+  }
+ },
+ {
+  "id": "r3n-watson-brake",
+  "era": "ancient",
+  "year": -3400,
+  "dateLabel": "About 3500–3000 BCE",
+  "emoji": "⛰️",
+  "cat": "culture",
+  "title": "Watson Brake, Older Than the Pyramids",
+  "place": "Watson Brake, Louisiana, USA",
+  "lat": 32.37,
+  "lng": -92.13,
+  "text": "Around 3500 BCE, hunter-gatherers in northern Louisiana began piling up earth that became eleven mounds joined by ridges, forming an oval about 260 metres across. They kept building, in bursts, until some time after 3000 BCE. Watson Brake is considered the oldest surviving mound complex in North America, older than Egypt's pyramids, and shows that people without farming could plan enormous projects.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "American Antiquity 70 (2005), Saunders et al., 'Watson Brake, a Middle Archaic Mound Complex in Northeast Louisiana' (abstract via Crossref/Cambridge)",
+   "url": "https://doi.org/10.2307/40035868"
+  },
+  "source2": {
+   "name": "University of Washington News, 'Oldest existing New World mound complex identified' (1997, on Saunders et al., Science)",
+   "url": "https://www.washington.edu/news/1997/09/18/oldest-existing-new-world-mound-complex-identified/"
+  }
+ },
+ {
+  "id": "r3n-mammoth-cave",
+  "era": "ancient",
+  "year": -3000,
+  "dateLabel": "About 5,000 years ago",
+  "emoji": "🕳️",
+  "cat": "daily",
+  "title": "Explorers of the World's Longest Cave",
+  "place": "Mammoth Cave, Kentucky, USA",
+  "lat": 37.19,
+  "lng": -86.1,
+  "text": "Mammoth Cave in Kentucky is the longest known cave system on Earth, and Native Americans were exploring it and mining its minerals thousands of years ago. One ancient miner, later nicknamed \"Lost John,\" was found in 1935 beneath a large boulder that he had apparently dislodged while digging out gypsum. His remains were later returned to a secret place inside the cave.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "US National Park Service, Mammoth Cave timeline",
+   "url": "https://www.nps.gov/maca/learn/historyculture/timeline.htm"
+  },
+  "source2": {
+   "name": "US National Park Service, 'Prehistoric Cave Discoveries'",
+   "url": "https://www.nps.gov/articles/000/prehistoric-cave-discoveries.htm"
+  }
+ },
+ {
+  "id": "r3n-old-copper",
+  "era": "ancient",
+  "year": -3500,
+  "dateLabel": "About 4000–3000 BCE",
+  "emoji": "🔨",
+  "cat": "discovery",
+  "title": "Copper Tools of the Great Lakes",
+  "place": "Oconto, Wisconsin, USA",
+  "lat": 44.89,
+  "lng": -87.87,
+  "text": "Archaic peoples around the Great Lakes worked copper for thousands of years, with some artifacts dated as early as about 6500 BCE. They collected very pure native copper near Lake Superior, then heated and hammered it into points, knives and fishhooks. At Oconto, Wisconsin, a burial ground used around 4000 to 3000 BCE held at least 45 people, some buried with copper tools and a bracelet.",
+  "collections": [
+   "inventions"
+  ],
+  "source": {
+   "name": "Wisconsin Historical Society, National Register record for the Oconto Site",
+   "url": "https://www.wisconsinhistory.org/Records/NationalRegister/NR2005"
+  },
+  "source2": {
+   "name": "Radiocarbon (Pompeani et al. 2021)",
+   "url": "https://doi.org/10.1017/RDC.2021.7"
+  }
+ },
+ {
+  "id": "r3n-saqqaq-inuk",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 4,000 years ago",
+  "emoji": "🧬",
+  "cat": "discovery",
+  "title": "Greenland's 4,000-Year-Old Genome",
+  "place": "Qeqertasussuk, Disko Bay, Greenland",
+  "lat": 68.59,
+  "lng": -51.07,
+  "text": "The Saqqaq were the first known culture to settle in Greenland. Tufts of one man's hair, frozen in permafrost for about 4,000 years, let scientists sequence his genome in 2010. He probably had brown eyes, thick dark hair and shovel-shaped front teeth, and his closest living relatives are peoples of northeastern Siberia.",
+  "collections": [
+   "ice-worlds",
+   "becoming-human"
+  ],
+  "source": {
+   "name": "Nature (Rasmussen et al. 2010, 'Ancient human genome sequence of an extinct Palaeo-Eskimo')",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3951495/"
+  }
+ },
+ {
+  "id": "r3n-eastern-agriculture",
+  "era": "ancient",
+  "year": -1800,
+  "dateLabel": "About 1800 BCE",
+  "emoji": "🌻",
+  "cat": "daily",
+  "title": "North America's Own First Crops",
+  "place": "Riverton Site, Illinois, USA",
+  "lat": 39.02,
+  "lng": -87.58,
+  "text": "Farming wasn't invented in just a few famous places. Eastern North America was one of ten or more independent centres of plant domestication. By about 1800 BCE, people at the Riverton site in Illinois were growing domesticated goosefoot, sunflower, marsh elder and bottle gourd, and perhaps squash. Their sunflower seed was already as big as a farmed one, a telltale sign of domestication.",
+  "collections": [
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "PNAS: Smith & Yarnell 2009, 'Initial formation of an indigenous crop complex in eastern North America at 3800 B.P.'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2666091"
+  }
+ },
+ {
+  "id": "r3n-dorset",
+  "era": "classical",
+  "year": -500,
+  "dateLabel": "From about 500 BCE",
+  "emoji": "🪔",
+  "cat": "daily",
+  "title": "The Dorset, Hunters at the Ice Holes",
+  "place": "Kinngait (Cape Dorset), Nunavut, Canada",
+  "lat": 64.23,
+  "lng": -76.54,
+  "text": "From about 500 BCE, the Dorset people lived across the Canadian Arctic, hunting seals at their breathing holes in the sea ice and burning oil in soapstone lamps. Surprisingly, there is almost no sign that they used bows and arrows. They carved tiny figures of people and animals in ivory and antler, and many Inuit identify them with the Tuniit, giants remembered as earlier inhabitants of the land.",
+  "collections": [
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "The Canadian Encyclopedia",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/dorset-culture"
+  },
+  "source2": {
+   "name": "Museum of Archaeology and Anthropology, University of Cambridge",
+   "url": "https://maa.cam.ac.uk/tuniit-arctic-giants-ivory-miniatures"
+  }
+ },
+ {
+  "id": "r3n-serpent-mound",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "Perhaps about 300 BCE (debated)",
+  "emoji": "🐍",
+  "cat": "culture",
+  "title": "The Giant Earthen Serpent",
+  "place": "Serpent Mound, Peebles, Ohio, USA",
+  "lat": 39.03,
+  "lng": -83.43,
+  "text": "Winding 411 metres along a ridge in Ohio, the Great Serpent Mound is a giant snake built of earth. Who built it is still debated: radiocarbon dates presented in 2014 point to the Adena culture around 300 BCE, while charcoal from a 1991 dig suggests about 1100 CE. Its head and oval roughly line up with the summer solstice sunset, and it sits inside an ancient impact crater.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "University of Nevada, Las Vegas, Department of Physics & Astronomy (archaeoastronomy pages)",
+   "url": "https://www.physics.unlv.edu/~jeffery/astro/archaeoastronomy/great_serpent_mound.html"
+  },
+  "source2": {
+   "name": "Ohio History Connection, Serpent Mound",
+   "url": "https://www.ohiohistory.org/visit/browse-historical-sites/serpent-mound/"
+  }
+ },
+ {
+  "id": "r3n-lovelock-decoys",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "About 400 BCE - 100 CE",
+  "emoji": "🦆",
+  "cat": "daily",
+  "title": "Ancient Duck Decoys of Lovelock Cave",
+  "place": "Lovelock Cave, Nevada, USA",
+  "lat": 39.96,
+  "lng": -118.56,
+  "text": "Guano miners first reported ancient finds in Lovelock Cave, Nevada, and in 1924 archaeologists Mark Harrington and Llewellyn Loud dug there again. The cave held 11 duck decoys made of bundled tule, a tall reed-like plant, covered in feathers, with heads painted to look real. Radiocarbon tests reported in 1986 gave two of them radiocarbon ages of about 2,080 and 2,250 years, making them the oldest known duck decoys.",
+  "collections": [
+   "lost-and-found",
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Smithsonian National Museum of the American Indian, Infinity of Nations: 'Duck decoys' (13/4512, 13/4513)",
+   "url": "https://americanindian.si.edu/exhibitions/infinityofnations/california-greatbasin/134512.html"
+  },
+  "source2": {
+   "name": "Online Nevada Encyclopedia (Nevada Humanities), Pat Barker, 'L.L. Loud and the Beginning of Nevada Archaeology'",
+   "url": "https://www.onlinenevada.org/articles/ll-loud-and-beginning-nevada-archaeology"
+  }
+ },
+ {
+  "id": "r3n-ipiutak",
+  "era": "classical",
+  "year": 200,
+  "dateLabel": "About 1,800 years ago",
+  "emoji": "🐋",
+  "cat": "culture",
+  "title": "Ivory Treasures of Point Hope",
+  "place": "Ipiutak Site, Point Hope, Alaska, USA",
+  "lat": 68.35,
+  "lng": -166.8,
+  "text": "On a narrow spit poking into the Chukchi Sea, more than 500 ancient house ruins line the beach ridges at Ipiutak, many ringed by whale and walrus bones. The people who lived here over 1,800 years ago made elaborate decorative carvings in ivory, wood, bone and stone. Their communities seem to have peaked between about 650 and 870 CE.",
+  "collections": [
+   "masterpieces",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "U.S. National Park Service, 'Ipiutak Site' (National Historic Landmark)",
+   "url": "https://www.nps.gov/places/ipiutak-site.htm"
+  },
+  "source2": {
+   "name": "U.S. National Park Service, 'Ipiutak Site'",
+   "url": "https://www.nps.gov/places/ipiutak-site.htm"
+  }
+ },
+ {
+  "id": "r3n-altavista",
+  "era": "classical",
+  "year": 450,
+  "dateLabel": "Founded about 400–450 CE",
+  "emoji": "☀️",
+  "cat": "discovery",
+  "title": "A Sun Temple on the Tropic of Cancer",
+  "place": "Altavista, Chalchihuites, Zacatecas, Mexico",
+  "lat": 23.48,
+  "lng": -103.95,
+  "text": "At Altavista in Zacatecas, an outpost on Mesoamerica's northwestern frontier near the Tropic of Cancer, priests linked to Teotihuacan founded a ceremonial centre between about 400 and 450 CE. From markers pecked into a nearby hilltop, the summer solstice sun rises over a distant peak. Hundreds of ancient mines dot the region, and scholars think turquoise from the far north later passed through centres like this.",
+  "collections": [
+   "star-gazers"
+  ],
+  "source": {
+   "name": "INAH (Instituto Nacional de Antropologia e Historia), 'Alta Vista (Chalchihuites)'",
+   "url": "https://lugares.inah.gob.mx/en/node/4371"
+  },
+  "source2": {
+   "name": "American Antiquity (Cambridge University Press), Aveni, Hartung & Kelley 1982, 'Alta Vista (Chalchihuites), Astronomical Implications of a Mesoamerican Ceremonial Outpost at the Tropic of Cancer' (abstract)",
+   "url": "https://www.cambridge.org/core/journals/american-antiquity/article/abs/alta-vista-chalchihuites-astronomical-implications-of-a-mesoamerican-ceremonial-outpost-at-the-tropic-of-cancer/CF43E59DE3C13FD950EA4E780D91627B"
+  }
+ },
+ {
+  "id": "r3n-hohokam-canals",
+  "era": "medieval",
+  "year": 800,
+  "dateLabel": "About 700–1400",
+  "emoji": "💧",
+  "cat": "daily",
+  "title": "The Canal Builders of Phoenix",
+  "place": "Phoenix, Arizona, USA",
+  "lat": 33.45,
+  "lng": -112.07,
+  "text": "Long before Phoenix was a city, the Hohokam people dug canals from the Salt and Gila Rivers to water fields in the desert. Using stone hoes, they built the largest and most complex irrigation systems in the Americas north of Peru, hundreds of miles of canals, before leaving around 1400. Some of today's Phoenix canals still follow their original routes.",
+  "collections": [
+   "inventions",
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "U.S. National Park Service (Hohokam Culture)",
+   "url": "https://www.nps.gov/articles/hohokam-culture.htm"
+  },
+  "source2": {
+   "name": "U.S. Bureau of Reclamation (Salt River Project)",
+   "url": "https://www.usbr.gov/projects/index.php?id=395"
+  }
+ },
+ {
+  "id": "r3n-erik-greenland",
+  "era": "medieval",
+  "year": 985,
+  "dateLabel": "985",
+  "emoji": "⛵",
+  "cat": "journeys",
+  "title": "Erik the Red Names Greenland",
+  "place": "Qassiarsuk (Brattahlíð), Greenland",
+  "lat": 61.15,
+  "lng": -45.52,
+  "text": "Outlawed from Iceland, Erik the Red explored a little-known land to the west around 982. Back home, he gave it an appealing name, Greenland, saying people would be attracted to a place with a favourable name. In 985 he returned with colonists: of 25 ships that set out, only 14 arrived. Erik built his farm, Brattahlíð, in what became the Eastern Settlement.",
+  "collections": [
+   "great-voyages",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Erik the Red' (Birgitta Wallace)",
+   "url": "https://www.britannica.com/biography/Erik-the-Red"
+  }
+ },
+ {
+  "id": "r3n-thule-migration",
+  "era": "medieval",
+  "year": 1150,
+  "dateLabel": "About 1150–1300",
+  "emoji": "🛶",
+  "cat": "journeys",
+  "title": "The Thule Head East",
+  "place": "Canadian Arctic, Nunavut, Canada",
+  "lat": 69.1,
+  "lng": -105.1,
+  "text": "Around 800 years ago, the Thule people, ancestors of today's Inuit, began moving east from Alaska across the Canadian Arctic, all the way to Greenland. They depended on hunting whales, and some archaeologists think a search for new sources of metal helped drive the move. With dog sleds, kayaks and big skin boats called umiaks, they spread fast and replaced the Dorset culture in most regions.",
+  "collections": [
+   "ice-worlds",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Scientific Reports 2023, 'Bidirectional dispersals during the peopling of the North American Arctic' (via Europe PMC)",
+   "url": "https://europepmc.org/article/PMC/PMC9871004"
+  },
+  "source2": {
+   "name": "The Canadian Encyclopedia, 'Early Inuit (Thule Culture)' (read in browser)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/thule-culture"
+  }
+ },
+ {
+  "id": "r3n-cliff-palace",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "About 1200–1300",
+  "emoji": "🏘️",
+  "cat": "culture",
+  "title": "Cliff Palace, a Town in a Canyon Wall",
+  "place": "Mesa Verde, Colorado, USA",
+  "lat": 37.17,
+  "lng": -108.47,
+  "text": "Under a sandstone overhang at Mesa Verde, Ancestral Puebloans built Cliff Palace, the largest cliff dwelling in North America, and lived there in the 1200s. It has about 150 rooms and 23 kivas, round sunken rooms for ceremonies, and walls once plastered in colors like yellow, white and red. Richard Wetherill and Charles Mason came upon it in December 1888 while looking for stray cattle.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "U.S. National Park Service (Mesa Verde)",
+   "url": "https://www.nps.gov/meve/learn/historyculture/cliff_dwellings_home.htm"
+  },
+  "source2": {
+   "name": "U.S. National Park Service (Mesa Verde history timeline)",
+   "url": "https://home.nps.gov/meve/learn/historyculture/stories.htm"
+  }
+ },
+ {
+  "id": "r3n-moundville",
+  "era": "medieval",
+  "year": 1250,
+  "dateLabel": "About 1120–1450",
+  "emoji": "🛡️",
+  "cat": "power",
+  "title": "Moundville's Plaza of Mounds",
+  "place": "Moundville, Alabama, USA",
+  "lat": 33.0,
+  "lng": -87.63,
+  "text": "On a bluff above Alabama's Black Warrior River, Mississippian people built a planned town of 29 earthen mounds around a huge, leveled plaza. Founded around 1120, it was guarded on three sides by a wooden palisade with bastions, and in size and complexity it was second only to Cahokia. Its mounds slowly fell out of use between 1300 and 1450.",
+  "source": {
+   "name": "Encyclopedia of Alabama (John H. Blitz, University of Alabama)",
+   "url": "https://encyclopediaofalabama.org/article/moundville-archaeological-park/"
+  },
+  "source2": {
+   "name": "University of Alabama Museums, Moundville Archaeological Park: The Ancient Site",
+   "url": "https://moundville.museums.ua.edu/ancient-site/"
+  }
+ },
+ {
+  "id": "r3n-paquime",
+  "era": "medieval",
+  "year": 1350,
+  "dateLabel": "About 1200–1450",
+  "emoji": "🦜",
+  "cat": "culture",
+  "title": "Paquimé's Macaw Pens",
+  "place": "Casas Grandes (Paquimé), Chihuahua, Mexico",
+  "lat": 30.37,
+  "lng": -107.95,
+  "text": "In the desert of northern Mexico, Paquimé grew into a city of multi-storey adobe apartments with more than 1,000 rooms. Its people built a complex water system and ballcourts, and kept rows of pens for scarlet macaws, birds native to tropical lands at least 500 kilometres farther south, and bred them for their feathers. The city flourished until about 1450.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Antiquity (2024), 'High levels of consanguinity in a child from Paquimé, Chihuahua, Mexico' (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11529752/"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Archaeological Zone of Paquimé, Casas Grandes (read via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/560"
+  }
+ },
+ {
+  "id": "r3n-haudenosaunee",
+  "era": "medieval",
+  "year": 1450,
+  "dateLabel": "Date debated (before 1600)",
+  "emoji": "🤝",
+  "cat": "power",
+  "title": "The Great Law of Peace",
+  "place": "Onondaga, New York, USA",
+  "lat": 43.05,
+  "lng": -76.15,
+  "text": "Haudenosaunee oral history tells how the Peacemaker, Hiawatha and Jikonhsaseh, the first to accept the peace, persuaded five warring nations, the Mohawk, Oneida, Onondaga, Cayuga and Seneca, to unite under the Great Law of Peace. Its date is much debated. The Onondaga became the Firekeepers, and the Hiawatha wampum belt recorded the pledge.",
+  "source": {
+   "name": "Onondaga Nation (official site), 'History'",
+   "url": "https://www.onondaganation.org/history/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Haudenosaunee Confederacy'",
+   "url": "https://www.britannica.com/topic/Haudenosaunee-Confederacy"
+  }
+ },
+ {
+  "id": "r3n-cabot",
+  "era": "exploration",
+  "year": 1497,
+  "dateLabel": "June 24, 1497",
+  "emoji": "⚓",
+  "cat": "journeys",
+  "title": "John Cabot Finds a New Found Land",
+  "place": "Cape Bonavista, Newfoundland, Canada",
+  "lat": 48.7,
+  "lng": -53.08,
+  "text": "Sailing from Bristol in a small ship called the Matthew, Italian navigator Giovanni Caboto, known in English as John Cabot, made landfall in North America on June 24, 1497. Nobody knows exactly where; for the 500th anniversary in 1997, a replica Matthew landed at Bonavista, Newfoundland, welcomed by Queen Elizabeth II. King Henry VII rewarded him with £10.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Dictionary of Canadian Biography (Cabot, John)",
+   "url": "http://www.biographi.ca/en/bio/cabot_john_1E.html"
+  },
+  "source2": {
+   "name": "The Canadian Encyclopedia (John Cabot)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/john-cabot"
+  }
+ },
+ {
+  "id": "r3n-cartier",
+  "era": "exploration",
+  "year": 1535,
+  "dateLabel": "Winter 1535–1536",
+  "emoji": "🌲",
+  "cat": "journeys",
+  "title": "The Tree That Saved Cartier's Crew",
+  "place": "Quebec City, Quebec, Canada",
+  "lat": 46.81,
+  "lng": -71.21,
+  "text": "In 1535 Jacques Cartier sailed up the St. Lawrence to the Iroquoian town of Stadacona, where his ships froze in for winter. Scurvy killed 25 of his 110 men before Domagaya, an Iroquoian man, shared a cure brewed from a tree called annedda, which saved the rest. Cartier repaid his hosts by kidnapping Chief Donnacona. He also used the word \"Canada,\" from kanata, meaning village.",
+  "collections": [
+   "plagues-and-cures"
+  ],
+  "source": {
+   "name": "Dictionary of Canadian Biography (Donnacona)",
+   "url": "http://www.biographi.ca/en/bio/donnacona_1E.html"
+  },
+  "source2": {
+   "name": "Government of Canada, Canadian Heritage (Origin of the name Canada)",
+   "url": "https://www.canada.ca/en/canadian-heritage/services/origin-name-canada.html"
+  }
+ },
+ {
+  "id": "r3n-cabeza-de-vaca",
+  "era": "exploration",
+  "year": 1536,
+  "dateLabel": "1528–1536",
+  "emoji": "🥾",
+  "cat": "journeys",
+  "title": "Eight Years Lost Across the Continent",
+  "place": "Culiacán, Sinaloa, Mexico",
+  "lat": 24.8,
+  "lng": -107.39,
+  "text": "In November 1528, survivors of a doomed Spanish expedition wrecked their homemade boats near Galveston Island, Texas. Only four, including Álvar Núñez Cabeza de Vaca and Estevanico, an enslaved Moroccan, lived through the next eight years among Native peoples, at times enslaved, later working as traders and healers. In 1536 they finally met fellow Spaniards near Culiacán.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Texas State Historical Association (Texas Day by Day: The Remarkable Journey of Cabeza de Vaca)",
+   "url": "https://www.tshaonline.org/texas-day-by-day/entry/248"
+  },
+  "source2": {
+   "name": "Handbook of Texas (TSHA), 'Estevanico' by Donald E. Chipman",
+   "url": "https://www.tshaonline.org/handbook/entries/estevanico"
+  }
+ },
+ {
+  "id": "r3n-pocahontas",
+  "era": "exploration",
+  "year": 1614,
+  "dateLabel": "April 1614",
+  "emoji": "🪶",
+  "cat": "power",
+  "title": "Pocahontas, Beyond the Legend",
+  "place": "Jamestown, Virginia, USA",
+  "lat": 37.21,
+  "lng": -76.78,
+  "text": "Born Amonute and also called Matoaka, Pocahontas was a Powhatan girl who visited the English fort at Jamestown and played games with the boys there. In 1613 colonists captured her and held her for ransom. Baptized Rebecca, she married tobacco planter John Rolfe in April 1614 and died in England in 1617. Many of John Smith's famous tales about her are disputed.",
+  "collections": [
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "National Park Service, Historic Jamestowne (Pocahontas: Her Life and Legend)",
+   "url": "https://www.nps.gov/jame/learn/historyculture/pocahontas-her-life-and-legend.htm"
+  }
+ },
+ {
+  "id": "r3n-squanto",
+  "era": "exploration",
+  "year": 1621,
+  "dateLabel": "1621",
+  "emoji": "🐟",
+  "cat": "daily",
+  "title": "Squanto's Lessons at Plymouth",
+  "place": "Plymouth, Massachusetts, USA",
+  "lat": 41.96,
+  "lng": -70.67,
+  "text": "Tisquantum, or Squanto, was a Patuxet man kidnapped by an English captain in 1614 and sold in Málaga, Spain. When he finally got home in 1619, an epidemic had wiped out his people, and the Pilgrims later settled on his village's site. In 1621 he became their interpreter and guide, telling them to plant corn with fish and catching eels by treading them out with his feet.",
+  "collections": [
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Plimoth Patuxet Museums (Tisquantum)",
+   "url": "https://plimoth.org/yath/unit-3/tisquantum"
+  },
+  "source2": {
+   "name": "Pilgrim Hall Museum (Tisquantum / Squanto)",
+   "url": "https://www.pilgrimhall.org/tisquantum-squanto/"
+  }
+ },
+ {
+  "id": "r3n-cascadia-1700",
+  "era": "exploration",
+  "year": 1700,
+  "dateLabel": "January 26, 1700",
+  "emoji": "🌊",
+  "cat": "nature",
+  "title": "The Orphan Tsunami",
+  "place": "Pacific coast, Washington, USA",
+  "lat": 46.9,
+  "lng": -124.1,
+  "text": "Around 9 p.m. on January 26, 1700, a megathrust earthquake of magnitude about 8.7 to 9.2 ripped along the Pacific Northwest coast. Its tsunami crossed the ocean to Japan, where puzzled villagers recorded destructive waves with no earthquake. Scientists linked those records to \"ghost forests\" of drowned red cedars and to Indigenous oral traditions of a great shaking and flood.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "Pacific Northwest Seismic Network (University of Washington / University of Oregon): 1700 Cascadia Subduction Zone Earthquake",
+   "url": "https://pnsn.org/education/pnw-earthquakes/notable/1700-cascadia"
+  },
+  "source2": {
+   "name": "USGS image caption: 'Dead red cedar forest' (Copalis River, Washington)",
+   "url": "https://www.usgs.gov/media/images/dead-red-cedar-forest"
+  }
+ },
+ {
+  "id": "r3n-egede-nuuk",
+  "era": "exploration",
+  "year": 1728,
+  "dateLabel": "1728",
+  "emoji": "⛪",
+  "cat": "journeys",
+  "title": "Seeking Lost Vikings, Founding Nuuk",
+  "place": "Nuuk, Greenland",
+  "lat": 64.18,
+  "lng": -51.72,
+  "text": "Norwegian priest Hans Egede sailed to Greenland in 1721 hoping to find descendants of the old Norse settlers, cut off for centuries. He found none, only the Kalaallit, whose language he set out to learn while preaching Christianity. In 1728, after King Frederick IV took over the colony, it moved to the mainland as Godthåb, 'Good Hope', today Nuuk, Greenland's capital.",
+  "collections": [
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "University of Copenhagen, Selected Names: 'Haabetz Colonie'",
+   "url": "https://names.ku.dk/selectednames/haabetz-colonie/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Hans Egede' (curated excerpts from Arctic, Greenland, Eskimo-Aleut languages articles)",
+   "url": "https://www.britannica.com/biography/Hans-Egede"
+  }
+ },
+ {
+  "id": "r3n-trail-of-tears",
+  "era": "industrial",
+  "year": 1838,
+  "dateLabel": "1838–1839",
+  "emoji": "👣",
+  "cat": "power",
+  "title": "The Cherokee Trail of Tears",
+  "place": "Eastern Tennessee, USA",
+  "lat": 35.2,
+  "lng": -84.9,
+  "text": "After the Indian Removal Act of 1830, the US government forced southeastern nations to move west of the Mississippi. The Cherokee had even won a Supreme Court case in 1832, but it brought them no relief. In 1838 they were held in camps, then marched west in groups of about 1,000 through heavy autumn rain and, later, ice-bound rivers. Perhaps 4,000 Cherokee died.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Trail of Tears",
+   "url": "https://www.britannica.com/event/Trail-of-Tears"
+  },
+  "source2": {
+   "name": "US National Park Service, Trail of Tears National Historic Trail, History & Culture",
+   "url": "https://www.nps.gov/trte/learn/historyculture/index.htm"
+  }
+ },
+ {
+  "id": "r3n-tubman",
+  "era": "industrial",
+  "year": 1849,
+  "dateLabel": "Fall 1849",
+  "emoji": "🌟",
+  "cat": "power",
+  "title": "Harriet Tubman Escapes, Then Goes Back",
+  "place": "Dorchester County, Maryland, USA",
+  "lat": 38.45,
+  "lng": -76.07,
+  "text": "Born Araminta Ross into slavery in Maryland, Harriet Tubman escaped in the fall of 1849, travelling by night and using the North Star to reach Philadelphia. Then she went back, again and again. Over about 13 missions she guided around 70 enslaved people to freedom along the Underground Railroad. Called \"Moses,\" she later said she \"never lost a passenger.\" In the Civil War she became a Union scout and spy.",
+  "collections": [
+   "remarkable-women",
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "US National Park Service, Harriet Tubman and the Underground Railroad",
+   "url": "https://www.nps.gov/articles/harriet-tubman-and-the-underground-railroad.htm"
+  },
+  "source2": {
+   "name": "US National Park Service, Harriet Tubman (people)",
+   "url": "https://www.nps.gov/people/harriet-tubman.htm"
+  }
+ },
+ {
+  "id": "r3n-chinese-rail-strike",
+  "era": "industrial",
+  "year": 1867,
+  "dateLabel": "June 24, 1867",
+  "emoji": "🚂",
+  "cat": "power",
+  "title": "Chinese Railroad Workers Go on Strike",
+  "place": "Sierra Nevada near Truckee, California, USA",
+  "lat": 39.32,
+  "lng": -120.33,
+  "text": "Chinese workers eventually made up about 90 percent of the Central Pacific's workforce, blasting tunnels through Sierra Nevada granite for the transcontinental railroad, for less pay than white workers. On June 24 or 25, 1867, about 3,000 stopped work, asking for $40 a month and ten-hour days. The company cut off their food and supplies, and the strike ended after about a week, though pay rose over time.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Library of Congress Research Guides, '1867 Sierra Strike'",
+   "url": "https://guides.loc.gov/this-month-in-business-history/june/sierra-strike"
+  },
+  "source2": {
+   "name": "Stanford Report, 'Giving voice to Chinese railroad workers' (2019)",
+   "url": "https://news.stanford.edu/stories/2019/04/giving-voice-to-chinese-railroad-workers"
+  }
+ },
+ {
+  "id": "r3n-cpr-last-spike",
+  "era": "industrial",
+  "year": 1885,
+  "dateLabel": "November 7, 1885",
+  "emoji": "🔩",
+  "cat": "journeys",
+  "title": "Canada's Bent Last Spike",
+  "place": "Craigellachie, British Columbia, Canada",
+  "lat": 50.98,
+  "lng": -118.63,
+  "text": "On November 7, 1885, financier Donald Smith drove the last spike of the Canadian Pacific Railway, Canada's first transcontinental railway. A ceremonial silver spike had been made, but Smith hammered in a plain iron one, and his first poor swing bent it so badly it had to be replaced. Chinese labourers did much of the building, yet none appears in the famous photo.",
+  "source": {
+   "name": "Library and Archives Canada, Treasures Revealed podcast episode 16: Last spike",
+   "url": "https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/treasures-revealed/episode-016.html"
+  },
+  "source2": {
+   "name": "Dictionary of Canadian Biography, Smith, Donald Alexander",
+   "url": "https://www.biographi.ca/en/bio/smith_donald_alexander_14E.html"
+  }
+ },
+ {
+  "id": "r3n-statue-of-liberty",
+  "era": "industrial",
+  "year": 1886,
+  "dateLabel": "October 28, 1886",
+  "emoji": "🗽",
+  "cat": "culture",
+  "title": "Lady Liberty's Hidden Chain",
+  "place": "Liberty Island, New York, USA",
+  "lat": 40.69,
+  "lng": -74.04,
+  "text": "The Statue of Liberty was a gift from the people of France, designed by sculptor Frédéric Auguste Bartholdi, with an iron framework by Gustave Eiffel. Built in France, it crossed the Atlantic in crates and was dedicated on October 28, 1886. Look closely at her feet: she strides over a broken chain and shackle, honouring the end of slavery in the United States.",
+  "collections": [
+   "wonders-of-the-world",
+   "masterpieces"
+  ],
+  "source": {
+   "name": "US National Park Service, Statue of Liberty Facts",
+   "url": "https://www.nps.gov/stli/learn/statue-of-liberty-facts.htm"
+  },
+  "source2": {
+   "name": "US National Park Service, Abolition (Statue of Liberty NM)",
+   "url": "https://www.nps.gov/stli/learn/historyculture/abolition.htm"
+  }
+ },
+ {
+  "id": "r3n-klondike",
+  "era": "industrial",
+  "year": 1896,
+  "dateLabel": "August 16, 1896",
+  "emoji": "⛏️",
+  "cat": "journeys",
+  "title": "Gold on Bonanza Creek",
+  "place": "Bonanza Creek, Yukon, Canada",
+  "lat": 63.97,
+  "lng": -139.35,
+  "text": "On August 16, 1896, George Carmack and two Tagish men, Skookum Jim (Keish) and Tagish Charlie, struck gold on a Klondike creek. It's unclear who actually found it, but Carmack was named the discoverer because they feared officials wouldn't accept an Indigenous claimant. About 100,000 people set out for the goldfields, each required to bring a year's worth of supplies; only about 30,000 completed the trip.",
+  "source": {
+   "name": "Parks Canada, Discovery Claim National Historic Site",
+   "url": "https://parks.canada.ca/lhn-nhs/yt/klondike/culture/lhn-hns-disc"
+  },
+  "source2": {
+   "name": "US National Park Service, Gold Discoverers (Klondike Gold Rush NHP)",
+   "url": "https://www.nps.gov/klgo/learn/historyculture/gold-discoverers.htm"
+  }
+ },
+ {
+  "id": "r3n-assembly-line",
+  "era": "industrial",
+  "year": 1913,
+  "dateLabel": "October 1913",
+  "emoji": "🚗",
+  "cat": "discovery",
+  "title": "Ford's Moving Assembly Line",
+  "place": "Highland Park, Michigan, USA",
+  "lat": 42.41,
+  "lng": -83.1,
+  "text": "Ford's moving assembly line started in October 1913 at its Highland Park plant. Similar moving production lines were already used in bakeries, mills, breweries and meatpacking plants. Building the Model T this way slashed costs: its price fell from $850 in 1908 to $260 by 1924. Fun fact: early Model Ts came in colours like red and gray, and all-black paint came only after 1913.",
+  "collections": [
+   "inventions"
+  ],
+  "source": {
+   "name": "Library of Congress Research Guides: Ford Implements the Moving Assembly Line (This Month in Business History)",
+   "url": "https://guides.loc.gov/this-month-in-business-history/October/Ford"
+  },
+  "source2": {
+   "name": "Detroit Historical Society, Encyclopedia of Detroit: Model T",
+   "url": "https://detroithistorical.org/learn/encyclopedia-of-detroit/model-t"
+  }
+ },
+ {
+  "id": "r3n-harlem-renaissance",
+  "era": "modern",
+  "year": 1925,
+  "dateLabel": "1920s",
+  "emoji": "🎷",
+  "cat": "culture",
+  "title": "The Harlem Renaissance",
+  "place": "Harlem, New York City, USA",
+  "lat": 40.81,
+  "lng": -73.95,
+  "text": "In the 1920s, Harlem became the heart of a flowering of African-American music, art, theatre and writing, fed by the Great Migration out of the South. Alain Locke's 1925 anthology The New Negro showcased writers such as Zora Neale Hurston and Langston Hughes, while Duke Ellington and Louis Armstrong lit up the music scene. Its influence reached Black writers as far away as Paris.",
+  "collections": [
+   "masterpieces",
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, Harlem Renaissance (George Hutchinson)",
+   "url": "https://www.britannica.com/event/Harlem-Renaissance-American-literature-and-art/Black-heritage-and-American-culture"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Alain Locke",
+   "url": "https://www.britannica.com/biography/Alain-Locke"
+  }
+ },
+ {
+  "id": "r3n-golden-gate",
+  "era": "modern",
+  "year": 1937,
+  "dateLabel": "May 27, 1937",
+  "emoji": "🌉",
+  "cat": "culture",
+  "title": "The Golden Gate Bridge Opens",
+  "place": "Golden Gate Bridge, San Francisco, USA",
+  "lat": 37.82,
+  "lng": -122.48,
+  "text": "When the Golden Gate Bridge opened on May 27, 1937, its 4,200-foot main span made it the longest suspension bridge in the world. Before cars were allowed, an estimated 200,000 people crossed on foot or on roller skates. The US Navy had suggested painting it with black and yellow stripes, but architect Irving Morrow chose the now-famous International Orange.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "Golden Gate Bridge, Highway and Transportation District (FAQs and Painting the Bridge)",
+   "url": "https://www.goldengate.org/bridge/history-research/statistics-data/faqs/"
+  },
+  "source2": {
+   "name": "PBS American Experience, Irving Morrow",
+   "url": "https://www.pbs.org/wgbh/americanexperience/features/goldengate-morrow"
+  }
+ },
+ {
+  "id": "r3n-code-talkers",
+  "era": "modern",
+  "year": 1942,
+  "dateLabel": "May 4, 1942",
+  "emoji": "📻",
+  "cat": "power",
+  "title": "The Navajo Code Talkers",
+  "place": "Fort Wingate, New Mexico, USA",
+  "lat": 35.47,
+  "lng": -108.53,
+  "text": "On May 4, 1942, twenty-nine Navajo men were sworn into the US Marines at Fort Wingate, New Mexico, to build a secret code from their then-unwritten language. Later it emerged that some code talker recruits had been as young as 15. At Iwo Jima, six code talkers sent and received over 800 messages without error, and their code was never broken, yet it stayed classified until 1968.",
+  "collections": [
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "Naval History and Heritage Command, Navajo Code Talkers: World War II Fact Sheet",
+   "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/code-talkers.html"
+  },
+  "source2": {
+   "name": "U.S. National Archives (Riverside), first 29 Navajo recruits sworn in at Fort Wingate",
+   "url": "https://www.archives.gov/riverside/highlights/navajo-code-talkers"
+  }
+ },
+ {
+  "id": "r3n-manzanar",
+  "era": "modern",
+  "year": 1942,
+  "dateLabel": "March 1942–November 1945",
+  "emoji": "🧳",
+  "cat": "power",
+  "title": "Behind the Wire at Manzanar",
+  "place": "Manzanar, California, USA",
+  "lat": 36.73,
+  "lng": -118.15,
+  "text": "After Executive Order 9066 in 1942, some 120,000 people of Japanese ancestry were forced from their homes. Manzanar, in California's Owens Valley, held 11,070 people between March 1942 and November 1945, about two-thirds of them US citizens by birth. They tended orchards, made camouflage netting and played baseball and softball, while photographers Ansel Adams and Dorothea Lange documented their lives.",
+  "source": {
+   "name": "National Park Service, Manzanar NHS: Japanese Americans at Manzanar",
+   "url": "https://www.nps.gov/manz/learn/historyculture/japanese-americans-at-manzanar.htm"
+  },
+  "source2": {
+   "name": "National Park Service, Manzanar Orchards",
+   "url": "https://nps.gov/places/manzanar-orchards.htm"
+  }
+ },
+ {
+  "id": "r3n-rosa-parks",
+  "era": "modern",
+  "year": 1955,
+  "dateLabel": "December 1, 1955",
+  "emoji": "🚌",
+  "cat": "power",
+  "title": "Rosa Parks Keeps Her Seat",
+  "place": "Montgomery, Alabama, USA",
+  "lat": 32.38,
+  "lng": -86.31,
+  "text": "On December 1, 1955, Rosa Parks was arrested for refusing to give up her seat for a white passenger on a segregated Montgomery bus. She was no random tired seamstress: she had served as secretary of the local NAACP since 1943. \"The only tired I was, was tired of giving in,\" she said. The bus boycott that followed lasted 381 days.",
+  "collections": [
+   "remarkable-women",
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Martin Luther King, Jr. Research and Education Institute, Stanford University, 'Parks, Rosa'",
+   "url": "https://kinginstitute.stanford.edu/parks-rosa"
+  },
+  "source2": {
+   "name": "King Institute, Stanford, 'Montgomery Bus Boycott'",
+   "url": "https://kinginstitute.stanford.edu/montgomery-bus-boycott"
+  }
+ },
+ {
+  "id": "r3n-maple-leaf-flag",
+  "era": "modern",
+  "year": 1965,
+  "dateLabel": "February 15, 1965",
+  "emoji": "🍁",
+  "cat": "culture",
+  "title": "Canada Raises the Maple Leaf",
+  "place": "Ottawa, Ontario, Canada",
+  "lat": 45.42,
+  "lng": -75.7,
+  "text": "Until 1965, Canada used the Red Ensign, which carried Britain's Union Jack in its corner. After the Great Flag Debate, Prime Minister Lester Pearson's government chose historian George Stanley's single-leaf design, and the Maple Leaf was raised on Parliament Hill on February 15, 1965. Its eleven points were chosen after a model flag was tested in a wind tunnel; the first 13-point leaf lost detail at a distance.",
+  "source": {
+   "name": "Government of Canada, Canadian Heritage, 'History of the National Flag of Canada'",
+   "url": "https://www.canada.ca/en/canadian-heritage/services/flag-canada-history.html"
+  },
+  "source2": {
+   "name": "The Canadian Encyclopedia, 'Flag of Canada: Alternate Designs'",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/national-flag-of-canada-editorial"
+  }
+ },
+ {
+  "id": "r3n-apple-founded",
+  "era": "modern",
+  "year": 1976,
+  "dateLabel": "April 1, 1976",
+  "emoji": "🍎",
+  "cat": "discovery",
+  "title": "Apple Starts in a Family Home",
+  "place": "Los Altos, California, USA",
+  "lat": 37.38,
+  "lng": -122.11,
+  "text": "On April 1, 1976, Steve Jobs, Steve Wozniak and Ronald Wayne founded Apple Computer Company at Jobs' parents' home in Los Altos, California. Their first product, Wozniak's hand-built Apple I, sold for $666.66 as a single bare circuit board without even a case; buyers added their own keyboard, display and power supply. Wayne withdrew about twelve days later and was paid $800.",
+  "collections": [
+   "inventions"
+  ],
+  "source": {
+   "name": "Smithsonian National Museum of American History, 'Apple I Microcomputer'",
+   "url": "https://americanhistory.si.edu/collections/object/nmah_1692121"
+  },
+  "source2": {
+   "name": "Computer History Museum, 'Celebrating Apple at 50'",
+   "url": "https://computerhistory.org/blog/celebrating-apple-at-50/"
+  }
+ },
+ {
+  "id": "r3n-mount-st-helens",
+  "era": "modern",
+  "year": 1980,
+  "dateLabel": "May 18, 1980",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "Mount St. Helens Blows Its Side",
+  "place": "Mount St. Helens, Washington, USA",
+  "lat": 46.2,
+  "lng": -122.18,
+  "text": "For weeks, a bulge on Mount St. Helens' north slope grew by about 6.5 feet a day. At 8:32 a.m. on May 18, 1980, an earthquake set off the largest landslide in recorded history, and the volcano exploded sideways. Within 15 minutes an ash column rose more than 15 miles high. Fifty-seven people were killed or never found, including innkeeper Harry R. Truman.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "University of Washington Libraries, Mount St. Helens Eruption Timeline (Easterbrook collection)",
+   "url": "https://content.lib.washington.edu/easterbrook/timeline.html"
+  },
+  "source2": {
+   "name": "USGS, 'Eruption column from May 18, 1980 Mount St. Helens eruption'",
+   "url": "https://www.usgs.gov/media/images/eruption-column-may-18-1980-mount-st-helens-eruption"
+  }
+ },
+ {
+  "id": "r3n-nunavut",
+  "era": "modern",
+  "year": 1999,
+  "dateLabel": "April 1, 1999",
+  "emoji": "🗺️",
+  "cat": "power",
+  "title": "Nunavut, \"Our Land\"",
+  "place": "Iqaluit, Nunavut, Canada",
+  "lat": 63.75,
+  "lng": -68.52,
+  "text": "On April 1, 1999, Canada's map changed: Nunavut, meaning \"our land\" in Inuktitut, became a territory of its own, following a 1993 land claims agreement with Inuit. It is Canada's largest and northernmost territory, covering over 2 million square kilometres, yet home to only about 37,000 people, most of them Inuit. Its capital, Iqaluit, is Canada's most northerly capital.",
+  "collections": [
+   "revolutions-and-freedom",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "The Canadian Encyclopedia: Nunavut (Peter Kikkert)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/nunavut"
+  },
+  "source2": {
+   "name": "The Canadian Encyclopedia: Iqaluit",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/iqaluit"
+  }
+ },
+ {
+  "id": "r3n-truth-reconciliation",
+  "era": "modern",
+  "year": 2015,
+  "dateLabel": "2015",
+  "emoji": "🕯️",
+  "cat": "power",
+  "title": "Canada Hears the Survivors",
+  "place": "Winnipeg, Manitoba, Canada",
+  "lat": 49.81,
+  "lng": -97.13,
+  "text": "For more than a century, at least 150,000 Indigenous children were sent to Canada's residential schools, and about 3,200 are known to have died there. From 2008 to 2015, the Truth and Reconciliation Commission gathered nearly 7,000 statements. In 2015 it issued 94 Calls to Action and concluded the system amounted to cultural genocide. The testimony is kept at a national centre in Winnipeg.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Truth and Reconciliation Commission (Ry Moran)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/truth-and-reconciliation-commission"
+  },
+  "source2": {
+   "name": "Parks Canada: The Residential School System National Historic Event",
+   "url": "https://parks.canada.ca/culture/designation/evenement-event/sys-pensionnats-residential-school-sys"
+  }
+ }
+]

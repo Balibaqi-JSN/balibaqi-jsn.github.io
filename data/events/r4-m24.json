@@ -1,0 +1,382 @@
+[
+ {
+  "id": "m24-shahnama-of-shah-tahmasp",
+  "era": "exploration",
+  "year": 1520,
+  "dateLabel": "Begun in the early 1520s",
+  "cat": "culture",
+  "title": "The Most Lavish Book of Kings",
+  "place": "Tabriz, East Azerbaijan, Iran",
+  "lat": 38.08,
+  "lng": 46.29,
+  "text": "In the royal workshop at Tabriz, Safavid artists began what may be the most luxuriously illustrated copy of the Shahnama, Iran's epic 'Book of Kings', ever produced. Its 759 pages of elegant script hold 258 paintings by two generations of leading artists, including Sultan Muhammad. In 1568 it was sent to the Ottoman sultan Selim II as a gift, with an embassy whose thirty-four camels carried luxurious presents.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline of Art History: The Shahnama of Shah Tahmasp",
+   "url": "https://www.metmuseum.org/essays/the-shahnama-of-shah-tahmasp"
+  }
+ },
+ {
+  "id": "m24-mokha-coffee-port",
+  "era": "exploration",
+  "year": 1636,
+  "dateLabel": "1636",
+  "cat": "daily",
+  "title": "The Port That Named Mocha",
+  "place": "Mokha, Taiz Governorate, Yemen",
+  "lat": 13.32,
+  "lng": 43.25,
+  "text": "In 1636 the Red Sea port of Mokha passed from Ottoman control to the Zaydi imam of Yemen, and it went on to prosper through the 17th and early 18th centuries. Coffee was its chief export. Indian traders swapped metal goods for Yemeni coffee and myrrh, and the English and Dutch East India companies kept trading posts there. The word 'mocha' comes from this town.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Mokha",
+   "url": "https://www.britannica.com/place/Mocha-Yemen"
+  }
+ },
+ {
+  "id": "m24-oman-retakes-muscat",
+  "era": "exploration",
+  "year": 1650,
+  "dateLabel": "1650",
+  "cat": "power",
+  "title": "Oman Takes Back Muscat",
+  "place": "Muscat, Oman",
+  "lat": 23.61,
+  "lng": 58.59,
+  "text": "On their way to India, the Portuguese sacked Muscat in 1507 and soon controlled the whole Omani coast. More than a century later, Oman's own Ya'rubid dynasty drove them out, recapturing Muscat in 1650. The Omanis then went on the attack, occupying Portuguese settlements in the Persian Gulf and on the East African coast. Two 16th-century Portuguese forts still overlook the town.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Oman, The early period",
+   "url": "https://www.britannica.com/place/Oman/The-early-period"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Muscat",
+   "url": "https://www.britannica.com/place/Muscat"
+  }
+ },
+ {
+  "id": "m24-chardin-reaches-isfahan",
+  "era": "exploration",
+  "year": 1673,
+  "dateLabel": "June 24, 1673",
+  "cat": "journeys",
+  "title": "A Jeweller Rides Into Isfahan",
+  "place": "Isfahan, Iran",
+  "lat": 32.66,
+  "lng": 51.68,
+  "text": "The French Huguenot jeweller Jean Chardin reached Isfahan on 24 June 1673, after travelling from Paris by way of Istanbul, the Black Sea, Georgia and Tabriz. He brought jewels that the late Shah Abbas II had ordered, plus clocks and watches to sell. Chardin spent four and a half years in Persia and wrote the most detailed foreign account of the country in his time.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Chardin, Sir John",
+   "url": "https://www.iranicaonline.org/articles/chardin-sir-john/"
+  }
+ },
+ {
+  "id": "m24-afghans-take-isfahan",
+  "era": "exploration",
+  "year": 1722,
+  "dateLabel": "1722",
+  "cat": "power",
+  "title": "The Fall of Safavid Isfahan",
+  "place": "Isfahan, Iran",
+  "lat": 32.65,
+  "lng": 51.67,
+  "text": "In 1722 Ghilzai Afghans led by Mahmud, a former Safavid vassal, defeated the Persian army a few miles east of Isfahan and took the capital after a long siege. Shah Husayn was murdered in his cell at a beautiful religious school built in his mother's name. Isfahan never fully recovered: for years most of the city lay in rubble and its population dwindled.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Isfahan",
+   "url": "https://www.britannica.com/place/Isfahan"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Iran, Shah Abbas I and the later Safavids",
+   "url": "https://www.britannica.com/place/Iran/Shah-Abbas-I"
+  }
+ },
+ {
+  "id": "m24-al-zubarah-founded",
+  "era": "exploration",
+  "year": 1766,
+  "dateLabel": "1766",
+  "cat": "daily",
+  "title": "A Pearl Town Rises in Qatar",
+  "place": "Al Zubarah, Al Shamal, Qatar",
+  "lat": 25.98,
+  "lng": 51.03,
+  "text": "Qatar's modern history conventionally begins in 1766, when families from Kuwait, notably the Khalifah family, settled at the new town of Al Zubarah. It grew into a walled pearl-diving and trading centre with links across the Indian Ocean, Arabia and Western Asia. Mostly destroyed in 1811 and later abandoned, it lay under blown desert sand that protected its palaces, mosques, courtyard houses and fishermen's huts.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Qatar, History",
+   "url": "https://www.britannica.com/place/Qatar/History"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Al Zubarah Archaeological Site",
+   "url": "https://whc.unesco.org/en/list/1402"
+  }
+ },
+ {
+  "id": "m24-tabriz-earthquake",
+  "era": "exploration",
+  "year": 1780,
+  "dateLabel": "January 7, 1780",
+  "cat": "nature",
+  "title": "Tabriz Reduced to Rubble",
+  "place": "Tabriz, East Azerbaijan, Iran",
+  "lat": 38.07,
+  "lng": 46.3,
+  "text": "Tabriz lies in earthquake country and has been devastated at least six times in its recorded history. The worst blow came on 7 January 1780, when an earthquake reduced all the city's buildings to rubble. That is why Tabriz has very few historic monuments today. One that survives is the Blue Mosque, built in 1465.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Earthquakes iv. The historical record of earthquakes in Persia",
+   "url": "https://www.iranicaonline.org/articles/earthquakes-iv-the-historical-record-of-earthquakes-in-persia/"
+  }
+ },
+ {
+  "id": "m24-karbala-shrine-sacked",
+  "era": "industrial",
+  "year": 1801,
+  "dateLabel": "1801",
+  "cat": "power",
+  "title": "Raiders Strike the Karbala Shrine",
+  "place": "Karbala, Iraq",
+  "lat": 32.62,
+  "lng": 44.03,
+  "text": "The tomb of Husayn at Karbala is one of the most important Shi'i shrines and centres of pilgrimage. In 1801 Sunni Wahhabi raiders destroyed it, the climax of a wave of incursions from Arabia that troubled Suleyman Pasha the Great, Baghdad's powerful Mamluk governor. The shrine was soon rebuilt, and large numbers of Iranians still visit it on pilgrimage.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Karbala",
+   "url": "https://www.britannica.com/place/Karbala"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Iraq, The 16th-century conquest of Iraq and later Ottoman rule",
+   "url": "https://www.britannica.com/place/Iraq/The-16th-century-conquest-of-Iraq-and-the-regime-imposed-by-Suleyman-I"
+  }
+ },
+ {
+  "id": "m24-baghdad-flood-and-plague",
+  "era": "industrial",
+  "year": 1831,
+  "dateLabel": "1831",
+  "cat": "nature",
+  "title": "Flood and Plague End an Era",
+  "place": "Baghdad, Iraq",
+  "lat": 33.31,
+  "lng": 44.37,
+  "text": "In 1831 floods devastated Baghdad, and in the same year plague decimated its population. The double disaster helped bring down Dawud Pasha, the last Mamluk governor of Iraq, who had been buying European weapons and hiring European advisers. The arrival of a new Ottoman governor that year ended the Mamluk period, and direct rule was gradually imposed across the region.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Iraq, The fall of the Mamluks and the consolidation of British interests",
+   "url": "https://www.britannica.com/place/Iraq/The-fall-of-the-Mamluks-and-the-consolidation-of-British-interests"
+  }
+ },
+ {
+  "id": "m24-aden-coalhole-of-the-east",
+  "era": "industrial",
+  "year": 1839,
+  "dateLabel": "1839",
+  "cat": "journeys",
+  "title": "The Coalhole of the East",
+  "place": "Aden, Yemen",
+  "lat": 12.79,
+  "lng": 45.03,
+  "text": "Steamships sailing to India needed a coaling station on the Red Sea route, and in 1839 the British captured Aden from its sultan. The harbour became so heavily used for loading coal that it was nicknamed the 'Coalhole of the East'. That same year the British moved their base from the old coffee port of Mokha to Aden, sealing Mokha's decline.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Aden",
+   "url": "https://www.britannica.com/place/Aden"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Mokha",
+   "url": "https://www.britannica.com/place/Mocha-Yemen"
+  }
+ },
+ {
+  "id": "m24-dar-al-fonun-opens",
+  "era": "industrial",
+  "year": 1851,
+  "dateLabel": "December 29, 1851",
+  "cat": "discovery",
+  "title": "Persia's First Modern College",
+  "place": "Tehran, Iran",
+  "lat": 35.68,
+  "lng": 51.42,
+  "text": "On 29 December 1851 the Dar al-Fonun, or 'polytechnic college', was officially opened in Tehran, marking the beginning of modern education in Persia. It was the project of the reforming grand vizier Amir Kabir, who was dismissed two days before its Austrian teachers arrived. Lessons were taught in French, with translators following the instructors from class to class.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Dar al-Fonun",
+   "url": "https://www.iranicaonline.org/articles/dar-al-fonun-lit/"
+  }
+ },
+ {
+  "id": "m24-qatar-treaty-thani",
+  "era": "industrial",
+  "year": 1868,
+  "dateLabel": "1868",
+  "cat": "power",
+  "title": "Qatar Steps Out of Bahrain's Shadow",
+  "place": "Doha, Qatar",
+  "lat": 25.29,
+  "lng": 51.53,
+  "text": "In 1867 a dispute between Bahrain's Khalifah rulers and the people of Qatar escalated into a major confrontation in which Doha was virtually destroyed. Until then Britain had treated Qatar as a Bahraini dependency. In 1868 it signed a separate treaty with Mohammed ibn Thani, setting Qatar on course for independence and for rule by the Thani family, until then one of several important families.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Qatar, History",
+   "url": "https://www.britannica.com/place/Qatar/History"
+  }
+ },
+ {
+  "id": "m24-midhat-pasha-baghdad",
+  "era": "industrial",
+  "year": 1869,
+  "dateLabel": "1869",
+  "cat": "daily",
+  "title": "A Governor Remakes Baghdad",
+  "place": "Baghdad, Iraq",
+  "lat": 33.34,
+  "lng": 44.4,
+  "text": "Arriving as governor in 1869 with a hand-picked team, Midhat Pasha transformed Baghdad. He knocked down part of the old city wall and built a tramway to suburban Kazimayn, a public park, a water supply, a hospital and paved, lighted streets. He also founded a printing press, and Iraq's first newspaper, Al-Zawra, began publication.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Iraq, The governorship of Midhat Pasa",
+   "url": "https://www.britannica.com/place/Iraq/The-governorship-of-Midhat-Pasa"
+  }
+ },
+ {
+  "id": "m24-tehran-cinema-room",
+  "era": "industrial",
+  "year": 1913,
+  "dateLabel": "1913",
+  "cat": "culture",
+  "title": "Movies Above a Pastry Shop",
+  "place": "Tehran, Iran",
+  "lat": 35.69,
+  "lng": 51.41,
+  "text": "The shah's photographer shot what was probably the first film by a Persian cameraman in 1900. Regular film shows came to Tehran in 1913, when Ardashir Khan, who had worked at Pathe in Paris, opened a projection room above a French bookshop and pastry counter. On busy days a piano and a violin accompanied the films, and seasonal refreshments were served.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Cinema i. History of Cinema in Persia",
+   "url": "https://www.iranicaonline.org/articles/cinema-i/"
+  }
+ },
+ {
+  "id": "m24-trans-iranian-railway",
+  "era": "modern",
+  "year": 1927,
+  "dateLabel": "1927 (completed 1938)",
+  "cat": "journeys",
+  "title": "A Railway Through Two Mountain Ranges",
+  "place": "Alborz Mountains, Mazandaran, Iran",
+  "lat": 36,
+  "lng": 53,
+  "text": "Work began in 1927 on a railway linking the Caspian Sea with the Persian Gulf. Completed in 1938, the 1,394-kilometre line crosses two mountain ranges and needed 174 large bridges, 186 small bridges and 224 tunnels, including 11 spiral tunnels. Unusually, it was paid for with national taxes to avoid foreign investment and control. Iran worked with 43 construction contractors from many countries.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Trans-Iranian Railway",
+   "url": "https://whc.unesco.org/en/list/1585"
+  }
+ },
+ {
+  "id": "m24-ur-queens-tomb-telegram",
+  "era": "modern",
+  "year": 1928,
+  "dateLabel": "January 4, 1928",
+  "cat": "discovery",
+  "title": "A Secret Telegram From Ur",
+  "place": "Ur (Tell al-Muqayyar), Dhi Qar, Iraq",
+  "lat": 30.96,
+  "lng": 46.1,
+  "text": "On 4 January 1928 the Penn Museum received a telegram from archaeologist Leonard Woolley at Ur. Sent in Latin to keep the news discreet, it announced an intact, stone-built tomb of a queen then called Shubad, now read as Puabi. Woolley described a dress woven with gems, flowers, crowns and animal figures, and a tomb 'magnificent with jewels and golden cups'.",
+  "source": {
+   "name": "Penn Museum, Expedition Magazine: A Telegram of Discovery from Ur",
+   "url": "https://www.penn.museum/sites/expedition/a-telegram-of-discovery-from-ur/"
+  }
+ },
+ {
+  "id": "m24-bahrain-pearling-collapse",
+  "era": "modern",
+  "year": 1930,
+  "dateLabel": "1930s",
+  "cat": "daily",
+  "title": "Bahrain's Pearl Divers Lose Their Trade",
+  "place": "Muharraq, Bahrain",
+  "lat": 26.25,
+  "lng": 50.61,
+  "text": "For millennia, harvesting pearls from Gulf oyster beds shaped Bahrain's economy, and the trade peaked in the late 19th and early 20th centuries. Then, in the 1930s, Japan's development of cultured pearls brought a sudden, catastrophic collapse. Merchants' houses, shops and a mosque in Muharraq, plus the fort where pearling boats set off, still recall this proud but dangerous way of life.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Pearling, Testimony of an Island Economy",
+   "url": "https://whc.unesco.org/en/list/1364"
+  }
+ },
+ {
+  "id": "m24-yemen-arab-republic",
+  "era": "modern",
+  "year": 1962,
+  "dateLabel": "September 1962",
+  "cat": "power",
+  "title": "North Yemen Becomes a Republic",
+  "place": "Sanaa, Yemen",
+  "lat": 15.35,
+  "lng": 44.21,
+  "text": "In September 1962 Imam Ahmad of Yemen died, and his son Muhammad al-Badr became imam. Within a week, army officers staged a coup and declared the Yemen Arab Republic. The young imam escaped from his battered palace into the northern highlands to rally the tribes. Egypt quickly sent troops to defend the new republic, while Saudi Arabia backed the royalists.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Yemen, The age of imperialism",
+   "url": "https://www.britannica.com/place/Yemen/The-age-of-imperialism"
+  }
+ },
+ {
+  "id": "m24-uae-is-formed",
+  "era": "modern",
+  "year": 1971,
+  "dateLabel": "December 1971",
+  "cat": "power",
+  "title": "The Emirates Join Together",
+  "place": "Abu Dhabi, United Arab Emirates",
+  "lat": 24.47,
+  "lng": 54.37,
+  "text": "After Britain announced in 1968 that its forces would leave the Persian Gulf by late 1971, the Trucial States, Qatar and Bahrain began planning a confederation. Qatar and Bahrain chose independence instead. In December 1971 the former Trucial States, except Ras al-Khaimah, formed the United Arab Emirates, with Sheikh Zayed of Abu Dhabi as president. Ras al-Khaimah joined in February 1972.",
+  "source": {
+   "name": "Encyclopaedia Britannica: United Arab Emirates, History",
+   "url": "https://www.britannica.com/place/United-Arab-Emirates/History"
+  }
+ },
+ {
+  "id": "m24-kuwait-oil-fires",
+  "era": "modern",
+  "year": 1991,
+  "dateLabel": "1991",
+  "cat": "nature",
+  "title": "Kuwait's Oil Wells Ablaze",
+  "place": "Kuwait City region, Kuwait",
+  "lat": 29.2,
+  "lng": 47.9,
+  "text": "In February 1991 Iraq's leader Saddam Hussein had Kuwait's oil wells set on fire. In April, astronauts on the Space Shuttle photographed black smoke from more than 700 burning wells blowing south. The fires were put out much faster than first predicted, so most of the damage stayed near the northwestern Persian Gulf, though smoke residue still stained the desert months later.",
+  "source": {
+   "name": "NASA Earth Observations: Oil Well Fires and Smoke, Kuwait, April 1991 (STS037-152-91)",
+   "url": "https://eol.jsc.nasa.gov/Collections/EarthFromSpace/photoinfo.pl?PHOTO=STS037-152-91"
+  },
+  "source2": {
+   "name": "NASA Earth Observations: Southern Kuwait (STS044-75-27)",
+   "url": "https://eol.jsc.nasa.gov/Collections/EarthFromSpace/printinfo.pl?PHOTO=STS044-75-27"
+  }
+ },
+ {
+  "id": "m24-hope-probe-reaches-mars",
+  "era": "modern",
+  "year": 2021,
+  "dateLabel": "February 9, 2021",
+  "cat": "discovery",
+  "title": "An Arab Probe Orbits Mars",
+  "place": "Mohammed bin Rashid Space Centre, Dubai, United Arab Emirates",
+  "lat": 25.23,
+  "lng": 55.48,
+  "text": "On 9 February 2021 the UAE's Hope probe fired its thrusters for about 27 minutes, spending nearly half its fuel, and slipped into orbit around Mars. It was the first interplanetary mission led by an Arab nation. Engineers from the Mohammed bin Rashid Space Centre and the University of Colorado built the orbiter to study the Martian atmosphere from bottom to top.",
+  "source": {
+   "name": "Laboratory for Atmospheric and Space Physics, University of Colorado Boulder: Emirates Mars Mission to Arrive at Mars on Feb. 9th",
+   "url": "https://lasp.colorado.edu/2021/02/04/emirates-mars-mission-to-arrive-at-mars-on-feb-9th-in-partnership-with-lasp-at-cu-boulder/"
+  },
+  "source2": {
+   "name": "University of Colorado Boulder Research Report: Historic Mars mission accomplished",
+   "url": "https://www.colorado.edu/research/report/2020-21/historic-mars-mission"
+  }
+ },
+ {
+  "id": "m24-rudbar-earthquake",
+  "era": "modern",
+  "year": 1990,
+  "dateLabel": "June 20, 1990",
+  "cat": "nature",
+  "title": "The Great Gilan Earthquake",
+  "place": "Rudbar, Gilan, Iran",
+  "lat": 36.82,
+  "lng": 49.42,
+  "text": "On 20 June 1990 a magnitude 7.4 earthquake struck Gilan and Zanjan provinces, southwest of the Caspian Sea. The largest 20th-century earthquake to hit an urban area in Iran, it killed over 40,000 people and left more than 500,000 homeless. It destroyed the towns of Rudbar, Manjil and Lowshan and 700 villages, and buried several thousand livestock under debris.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Earthquakes iv. The historical record of earthquakes in Persia",
+   "url": "https://www.iranicaonline.org/articles/earthquakes-iv-the-historical-record-of-earthquakes-in-persia/"
+  }
+ }
+]

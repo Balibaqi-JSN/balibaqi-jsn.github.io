@@ -1,0 +1,362 @@
+[
+ {
+  "id": "m45-santo-nino-cebu",
+  "era": "exploration",
+  "year": 1565,
+  "dateLabel": "April 28, 1565",
+  "cat": "culture",
+  "title": "A Holy Child in the Ruins",
+  "place": "Cebu City, Cebu, Philippines",
+  "lat": 10.29,
+  "lng": 123.9,
+  "text": "When Miguel López de Legazpi's troops landed on Sugbu (the old name of Cebu) on 28 April 1565, sailor Juan de Camus found a wooden statue of the Santo Niño, the Holy Child, among the ruins. Its survival from fire was hailed as a miracle. Many believe it was the image Magellan's party gave Rajah Humabon's wife in 1521, and it is still honoured with the Sinulog festival.",
+  "source": {
+   "name": "CCP Encyclopedia of Philippine Art (Cultural Center of the Philippines): Santo Niño de Cebu",
+   "url": "https://epa.culturalcenter.gov.ph/3/82/2291/"
+  }
+ },
+ {
+  "id": "m45-doctrina-christiana",
+  "era": "exploration",
+  "year": 1593,
+  "dateLabel": "1593",
+  "cat": "culture",
+  "title": "The Philippines' First Printed Book",
+  "place": "Manila, Philippines",
+  "lat": 14.59,
+  "lng": 120.97,
+  "text": "The Doctrina Christiana, a Catholic teaching book dated to 1593, was printed in Manila by a Chinese printer working for Dominican priests. It set out its text in both Spanish and Tagalog, using Roman letters and the local Baybayin script. The only known surviving copy in the world sits in the Library of Congress in Washington.",
+  "source": {
+   "name": "Library of Congress blog: Doctrina Christiana, More than Four-hundred Years of Filipino-American History",
+   "url": "https://blogs.loc.gov/international-collections/2019/10/doctrina-christiana-more-than-four-hundred-years-of-filipino-american-history/"
+  }
+ },
+ {
+  "id": "m45-houtman-banten",
+  "era": "exploration",
+  "year": 1596,
+  "dateLabel": "1596",
+  "cat": "journeys",
+  "title": "The Dutch Arrive for Pepper",
+  "place": "Banten Lama, Banten, Indonesia",
+  "lat": -6.04,
+  "lng": 106.15,
+  "text": "In 1596 the first Dutch fleet to Indonesia reached Banten in West Java, then the centre of the pepper trade, when pepper was still a luxury spice. The voyage was full of mishaps and many crew died. Its senior merchant, Cornelis de Houtman, met Banten's ruler, but his rude, undiplomatic manner got relations off to a bad start.",
+  "source": {
+   "name": "Wereldmuseum Amsterdam: A profitable business. But for whom?",
+   "url": "https://amsterdam.wereldmuseum.nl/en/whats-on/exhibitions/our-colonial-inheritance/profitable-business-whom"
+  }
+ },
+ {
+  "id": "m45-anglo-dutch-treaty",
+  "era": "industrial",
+  "year": 1824,
+  "dateLabel": "March 17, 1824",
+  "cat": "power",
+  "title": "A Line Drawn Through the Straits",
+  "place": "Melaka, Malaysia",
+  "lat": 2.19,
+  "lng": 102.25,
+  "text": "Signed in London on 17 March 1824, the Anglo-Dutch Treaty split the region into British and Dutch spheres. Britain swapped Bencoolen (Bengkulu) and Billiton (Belitung) for Melaka and Singapore, and the Johor-Riau Sultanate was cut in two. Far from London, that deal still forms the basis of the borders between Singapore, Malaysia and Indonesia.",
+  "source": {
+   "name": "BiblioAsia (National Library Board Singapore), Peter Borschberg: On Paper, Singapore Before 1867",
+   "url": "https://biblioasia.nlb.gov.sg/all-sections/vol-15-issue-3-oct-dec-2019-singapore-before-1867/"
+  }
+ },
+ {
+  "id": "m45-malolos-republic",
+  "era": "industrial",
+  "year": 1899,
+  "dateLabel": "January 23, 1899",
+  "cat": "power",
+  "title": "Asia's First Republic",
+  "place": "Barasoain Church, Malolos, Bulacan, Philippines",
+  "lat": 14.85,
+  "lng": 120.81,
+  "text": "Inside Barasoain Church in Malolos, the Malolos Constitution was promulgated on 21 January 1899. Two days later, on 23 January, the First Philippine Republic was inaugurated in the same church, making the Philippines the first independent republic in Asia. Since 2013, every 23 January has been marked as a day to remember it.",
+  "source": {
+   "name": "Official Gazette text via Lawphil: Proclamation No. 533, s. 2013 (Araw ng Republikang Filipino, 1899)",
+   "url": "https://lawphil.net/executive/proc/proc2013/proc_533_2013.html"
+  }
+ },
+ {
+  "id": "m45-taal-1911",
+  "era": "industrial",
+  "year": 1911,
+  "dateLabel": "1911",
+  "cat": "nature",
+  "title": "Taal's Deadly Base Surge",
+  "place": "Taal Volcano Island, Batangas, Philippines",
+  "lat": 14.01,
+  "lng": 120.99,
+  "text": "Taal Volcano sits on an island in Taal Lake, south of Manila. Its 1911 eruption killed 1,335 people. Philippine volcano experts say most died from a base surge, a ring-shaped cloud of gas and debris racing outward from the bottom of the eruption column, which swept the whole island and reached the lakeshore.",
+  "source": {
+   "name": "Scientific Reports (PMC): Hazardous base surges of Taal's 2020 eruption",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8333357/"
+  },
+  "source2": {
+   "name": "GMA News: 'Base surge' cause of death in Taal's past eruptions, PHIVOLCS",
+   "url": "https://www.gmanetwork.com/news/scitech/science/722065/base-surge-cause-of-death-in-taal-s-past-eruptions-phivolcs/story/"
+  }
+ },
+ {
+  "id": "m45-women-vote-1937",
+  "era": "modern",
+  "year": 1937,
+  "dateLabel": "April 30, 1937",
+  "cat": "power",
+  "title": "Filipinas Vote for the Vote",
+  "place": "Manila, Philippines",
+  "lat": 14.6,
+  "lng": 120.98,
+  "text": "Filipino women won the vote by voting for it themselves. On Plebiscite Day, 30 April 1937, women across the Philippines cast 447,725 'yes' votes against 44,307 'no' votes on whether they should have the right of suffrage. In a special session from August to September 1937, the National Assembly ratified the result.",
+  "source": {
+   "name": "University of the Philippines Diliman Library, Rare Periodicals: Woman suffrage in the Philippines (Panorama, 1967)",
+   "url": "https://repository.mainlib.upd.edu.ph/omekas/s/rare-periodicals/media/125361"
+  }
+ },
+ {
+  "id": "m45-merdeka-1957",
+  "era": "modern",
+  "year": 1957,
+  "dateLabel": "August 31, 1957",
+  "cat": "power",
+  "title": "Seven Shouts of Merdeka",
+  "place": "Stadium Merdeka, Kuala Lumpur, Malaysia",
+  "lat": 3.14,
+  "lng": 101.7,
+  "text": "At midnight the British flag came down on the Selangor Club padang. Then on 31 August 1957, before 25,000 people in the new Merdeka Stadium, Tunku Abdul Rahman read Malaya's Proclamation of Independence and shouted 'Merdeka!' (freedom) seven times. The national anthem, Negaraku, was played for the first time as the new flag rose.",
+  "source": {
+   "name": "Universiti Malaya Library exhibition: Hari Merdeka, The Spirit of Independent Malaysia",
+   "url": "https://umlibguides.um.edu.my/c.php?g=934135&p=6753284"
+  },
+  "source2": {
+   "name": "Malay Mail (Bernama): A nation was born here, Stadium Merdeka keeps Malaysia's independence story alive",
+   "url": "https://www.malaymail.com/news/malaysia/2026/08/29/a-nation-was-born-here-stadium-merdeka-keeps-malaysias-independence-story-alive/233027"
+  }
+ },
+ {
+  "id": "m45-pinatubo-1991",
+  "era": "modern",
+  "year": 1991,
+  "dateLabel": "June 15, 1991",
+  "cat": "nature",
+  "title": "Pinatubo Wakes Up",
+  "place": "Mount Pinatubo, Luzon, Philippines",
+  "lat": 15.14,
+  "lng": 120.35,
+  "text": "After a 500-year slumber, Mount Pinatubo exploded on 15 June 1991, in the second-largest eruption of the century. Its ash cloud rose 35 kilometres, and its gas cooled global temperatures by about 0.5°C from 1991 to 1993. Forecasts by Philippine and US scientists got people out in time, saving at least 5,000 lives, but about 20,000 Aeta highlanders lost their homes.",
+  "source": {
+   "name": "US Geological Survey Fact Sheet 113-97: The Cataclysmic 1991 Eruption of Mount Pinatubo, Philippines",
+   "url": "https://pubs.usgs.gov/fs/1997/fs113-97/"
+  }
+ },
+ {
+  "id": "m45-british-manila-trophies",
+  "era": "exploration",
+  "year": 1762,
+  "dateLabel": "1762 (occupation to 1764)",
+  "cat": "power",
+  "title": "Trophies Taken from Manila",
+  "place": "Intramuros, Manila, Philippines",
+  "lat": 14.59,
+  "lng": 120.975,
+  "text": "In 1762, during the Seven Years War, British and East India Company forces sailed from Madras in India and occupied Manila and Cavite until 1764. They carried off trophies: nine Spanish flags paraded into King's College chapel in Cambridge, and a carved wooden Spanish coat of arms taken from the gates of Intramuros, still kept in the Government Museum of Chennai.",
+  "source": {
+   "name": "Mapping Philippine Material Culture (SOAS project), Cristina Juan: The Manila-Madras Connection and the 1762 British Invasion",
+   "url": "https://philippinestudies.uk/mapping/tours/show/34"
+  }
+ },
+ {
+  "id": "m45-giyanti-yogyakarta",
+  "era": "exploration",
+  "year": 1755,
+  "dateLabel": "February 13, 1755",
+  "cat": "power",
+  "title": "One Kingdom Becomes Two",
+  "place": "Kraton Yogyakarta, Yogyakarta, Indonesia",
+  "lat": -7.81,
+  "lng": 110.36,
+  "text": "After years of family feuding stirred up by the Dutch VOC, the Treaty of Giyanti was signed on 13 February 1755, splitting the Javanese kingdom of Mataram into Surakarta and Yogyakarta. Prince Mangkubumi became Sultan Hamengku Buwono I and designed his own palace, placing it between the Code and Winongo rivers, with Mount Merapi to the north and the Southern Sea beyond.",
+  "source": {
+   "name": "Kraton Ngayogyakarta Hadiningrat (official palace site): Sri Sultan Hamengku Buwono I",
+   "url": "https://www.kratonjogja.id/raja-raja/2-sri-sultan-hamengku-buwono-i/"
+  },
+  "source2": {
+   "name": "Dinas Kebudayaan Kota Yogyakarta (Yogyakarta City Culture Office): Perjanjian Giyanti",
+   "url": "https://kebudayaan.jogjakota.go.id/page/index/perjanjian-giyanti"
+  }
+ },
+ {
+  "id": "m45-indonesia-raya-1928",
+  "era": "modern",
+  "year": 1928,
+  "dateLabel": "October 28, 1928",
+  "cat": "culture",
+  "title": "A Violin Plays a Nation's Song",
+  "place": "Jalan Kramat Raya 106, Jakarta, Indonesia",
+  "lat": -6.18,
+  "lng": 106.84,
+  "text": "At the Second Youth Congress in a student boarding house at Kramat Raya 106, journalist W.R. Supratman played his song 'Indonesia Raya' on the violin on 28 October 1928, the day of the Youth Pledge. Delegates were moved to tears and asked to hear it again. The colonial government later seized its records, and the chorus word 'merdeka' (free) was changed to 'mulia' (noble).",
+  "source": {
+   "name": "Kompas: Kisah di Balik 'Indonesia Raya' yang Pertama Kali Dikumandangkan di Sumpah Pemuda 1928",
+   "url": "https://amp.kompas.com/tren/read/2025/10/27/153000165/kisah-di-balik-indonesia-raya-yang-pertama-kali-dikumandangkan-di-sumpah"
+  },
+  "source2": {
+   "name": "Kompas: Kisah Biola WR Supratman di Museum Sumpah Pemuda",
+   "url": "https://travel.kompas.com/read/2019/10/28/082431027/kisah-biola-wr-supratman-di-museum-sumpah-pemuda"
+  }
+ },
+ {
+  "id": "m45-brunei-independence",
+  "era": "modern",
+  "year": 1984,
+  "dateLabel": "January 1, 1984",
+  "cat": "power",
+  "title": "Brunei Resumes Full Independence",
+  "place": "Bandar Seri Begawan, Brunei",
+  "lat": 4.89,
+  "lng": 114.94,
+  "text": "Brunei had been a British protectorate since 1888, keeping its own internal rule while Britain handled foreign affairs. On 1 January 1984 Brunei Darussalam resumed full independence, and Sultan Hassanal Bolkiah also became Prime Minister, Finance Minister and Home Affairs Minister. The small, oil- and gas-rich sultanate is run under its 1959 constitution, with the Sultan as head of state.",
+  "source": {
+   "name": "Permanent Mission of Brunei Darussalam to the UN: Country Facts",
+   "url": "https://www.un.int/brunei/brunei/country-facts"
+  },
+  "source2": {
+   "name": "US Department of State: Background Notes, Brunei (October 1998)",
+   "url": "https://1997-2001.state.gov/background_notes/brunei_1098_bgn.html"
+  }
+ },
+ {
+  "id": "m45-timor-ballot-1999",
+  "era": "modern",
+  "year": 1999,
+  "dateLabel": "August 30, 1999",
+  "cat": "power",
+  "title": "East Timor Chooses",
+  "place": "Dili, Timor-Leste",
+  "lat": -8.56,
+  "lng": 125.57,
+  "text": "Despite months of militia threats, East Timorese voters turned out on 30 August 1999 for a UN-run ballot on autonomy within Indonesia. On 4 September the UN announced the result: 344,580 people, or 78.5 per cent, voted against. Pro-integration militias then unleashed violence, looting and arson across the territory, until Indonesia's assembly formally recognised the vote that October.",
+  "source": {
+   "name": "United Nations Peacekeeping: The United Nations and East Timor, A Chronology",
+   "url": "https://peacekeeping.un.org/sites/default/files/past/etimor/Untaetchrono.html"
+  }
+ },
+ {
+  "id": "m45-murillo-velarde-map",
+  "era": "exploration",
+  "year": 1734,
+  "dateLabel": "1734",
+  "cat": "culture",
+  "title": "A Map Signed 'Indio Tagalo'",
+  "place": "Manila, Philippines",
+  "lat": 14.6,
+  "lng": 120.97,
+  "text": "The great 1734 map of the Philippines was charted by Jesuit Pedro Murillo Velarde, but engraved on copper plates by two Filipino artists, Nicolás de la Cruz Bagay and Francisco Suárez, who proudly signed themselves 'Indio Tagalo'. Its side panels show Manila life: cockfights, Aeta dancers, a woman with a basket of guavas, and Persian, Japanese and Indian visitors.",
+  "source": {
+   "name": "CCP Encyclopedia of Philippine Art (Cultural Center of the Philippines): Murillo Velarde Map of 1734",
+   "url": "https://epa.culturalcenter.gov.ph/3/82/2233/"
+  }
+ },
+ {
+  "id": "m45-hikayat-abdullah",
+  "era": "industrial",
+  "year": 1849,
+  "dateLabel": "1849",
+  "cat": "culture",
+  "title": "A Malay Scholar Tells His Story",
+  "place": "Singapore",
+  "lat": 1.29,
+  "lng": 103.85,
+  "text": "In 1849 the scholar and translator Abdullah bin Abdul Kadir, known as Munsyi Abdullah, published his memoir, the Hikayat Abdullah, with the missionary Benjamin Keasberry. It records life and politics in Singapore, Melaka, Johor and Riau-Lingga. Called the 'father of Malay printing', Abdullah was the first non-European to have his works published in Malay.",
+  "source": {
+   "name": "BiblioAsia (National Library Board Singapore), Tan Huism: Tales of the Malay World, Manuscripts and Early Books",
+   "url": "https://biblioasia.nlb.gov.sg/all-sections/book-tales-of-malay-world/"
+  }
+ },
+ {
+  "id": "m45-puputan-badung",
+  "era": "industrial",
+  "year": 1906,
+  "dateLabel": "1906",
+  "cat": "power",
+  "title": "The Puputan of Badung",
+  "place": "Denpasar, Bali, Indonesia",
+  "lat": -8.66,
+  "lng": 115.22,
+  "text": "In 1906 a Dutch military expedition marched against I Gusti Gede Ngurah Den Pasar, ruler of Badung in south Bali. Hundreds of Balinese died from Dutch gunfire or took their own lives rather than surrender, in a ritual called puputan. The palace was looted, and two of its doors, each over four metres high, ended up in a Dutch museum.",
+  "source": {
+   "name": "Wereldmuseum Amsterdam: Bali Behind the Scenes, Tourism and colonialism",
+   "url": "https://amsterdam.wereldmuseum.nl/en/whats-on/exhibitions/bali-behind-scenes/tourism-and-colonialism"
+  }
+ },
+ {
+  "id": "m45-manufahi-rebellion",
+  "era": "industrial",
+  "year": 1912,
+  "dateLabel": "1911–1912",
+  "cat": "power",
+  "title": "Dom Boaventura's Rebellion",
+  "place": "Same, Manufahi, Timor-Leste",
+  "lat": -9.0,
+  "lng": 125.65,
+  "text": "Portuguese rule in Timor brought forced labour on roads and coffee plantations, and in 1908 a head tax on men aged 18 to 60. Dom Boaventura, ruler of Manufahi, united several kingdoms in the 1911–1912 rebellion, seen as the last great revolt against Portuguese rule. It was crushed in 1912 with troops brought from Mozambique; Timorese accounts say over 3,000 died.",
+  "source": {
+   "name": "Northern Illinois University SEAsite: East Timor, Portuguese Contact",
+   "url": "https://seasite.niu.edu/EastTimor/portuguese.htm"
+  },
+  "source2": {
+   "name": "Universidade NOVA de Lisboa, Lúcio Sousa: The Insurrect Native in Portuguese Timor, The Rebellion of Manufahi in the Australian Press",
+   "url": "https://novaresearch.unl.pt/en/publications/the-insurrect-native-in-portuguese-timor-the-rebellion-of-manufah-2/"
+  }
+ },
+ {
+  "id": "m45-indonesian-batik",
+  "era": "modern",
+  "year": 2009,
+  "dateLabel": "2009",
+  "cat": "culture",
+  "title": "Batik, From Cradle to Grave",
+  "place": "Pekalongan, Central Java, Indonesia",
+  "lat": -6.89,
+  "lng": 109.67,
+  "text": "In 2009 UNESCO added Indonesian Batik to its list of the world's intangible cultural heritage. Artisans draw dots and lines of hot wax on cloth so it resists dye, then repeat for each colour. Batik follows Indonesians through life: babies ride in lucky batik slings, the dead are wrapped in funeral batik, and royal batik is even cast into a volcano.",
+  "source": {
+   "name": "UNESCO Intangible Cultural Heritage: Indonesian Batik",
+   "url": "https://ich.unesco.org/en/RL/indonesian-batik-00170"
+  }
+ },
+ {
+  "id": "m45-la-naval-1646",
+  "era": "exploration",
+  "year": 1646,
+  "dateLabel": "1646",
+  "cat": "culture",
+  "title": "The Virgin of the Sea Battles",
+  "place": "Waters off Marinduque, Philippines",
+  "lat": 13.4,
+  "lng": 121.95,
+  "text": "In 1646 the Dutch attacked the Philippines, and five naval battles were fought near Marinduque. The outnumbered Spanish fleet won, and people credited the Virgin of the Rosary, an ivory-and-wood image carved in 1593 by a Chinese artist. Ever since, her feast, La Naval de Manila, has been held on the second Sunday of October.",
+  "source": {
+   "name": "CCP Encyclopedia of Philippine Art (Cultural Center of the Philippines), Rene B. Javellana and Nicanor G. Tiongson: Our Lady of La Naval",
+   "url": "https://epa.culturalcenter.gov.ph/3/82/2247/"
+  }
+ },
+ {
+  "id": "m45-recuerdos-de-filipinas",
+  "era": "industrial",
+  "year": 1895,
+  "dateLabel": "1895",
+  "cat": "daily",
+  "title": "Snapshots of Everyday Filipinos",
+  "place": "Iloilo, Philippines",
+  "lat": 10.72,
+  "lng": 122.56,
+  "text": "Recuerdos de Filipinas, an 1895 album by Félix Laureano of Iloilo, is believed to be the first collection of photographs made by a Filipino. Its 37 sections show weddings, funerals, bathing, washing clothes and village bands, including guests in formal dress marching barefoot. Laureano dedicated it to the painter Juan Luna, proudly calling him a fellow 'Filipino'.",
+  "source": {
+   "name": "CCP Encyclopedia of Philippine Art (Cultural Center of the Philippines): Recuerdos de Filipinas",
+   "url": "https://epa.culturalcenter.gov.ph/3/82/2282/"
+  }
+ }
+]

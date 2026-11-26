@@ -1,0 +1,438 @@
+[
+ {
+  "id": "w11-tel-dan-marsh",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1050 to 840 BCE",
+  "cat": "nature",
+  "title": "When Dan's Springs Ran Low",
+  "place": "Tel Dan, Upper Galilee, Israel",
+  "lat": 33.25,
+  "lng": 35.65,
+  "text": "Tel Dan was a well-watered city fed by streams from Mount Hermon, with a mudbrick gate from about 1750 BCE that is among the world's earliest surviving arches. Pollen studies show water flow dropped sharply around 1050 to 840 BCE. Settlement thinned, canals went unrepaired, and the fields slid back into a stagnant, disease-ridden marsh. Drought hurt even a place that never fully dried out.",
+  "source": {
+   "name": "Science Advances (PMC): Climate change and water management in the biblical city of Dan",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5699899/"
+  }
+ },
+ {
+  "id": "w11-xiongnu-lean-grass",
+  "era": "classical",
+  "year": 90,
+  "dateLabel": "70s to 100s CE",
+  "cat": "nature",
+  "title": "Thin Grass Pushes the Xiongnu West",
+  "place": "Mongolian Plateau, Mongolia",
+  "lat": 47.5,
+  "lng": 103,
+  "text": "Tree rings from Siberian larch, Siberian pine and Qilian juniper let scientists estimate how much the steppe's plants grew each year back to 200 BCE. They found a long slump in plant growth from the 70s to the 100s CE. It matches the westward migration of the Northern Xiongnu. Later slumps in the 360s to 380s and 470s to 560s line up with more nomad movements.",
+  "source": {
+   "name": "PNAS (PMC): Climate-driven reduction in biomass production of the Eurasian steppe coincides with nomadic migration",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933123/"
+  }
+ },
+ {
+  "id": "w11-mongol-pluvial",
+  "era": "medieval",
+  "year": 1211,
+  "dateLabel": "1211 to 1225",
+  "cat": "nature",
+  "title": "Fifteen Wet Years for Genghis Khan",
+  "place": "Khorgo lava field, Arkhangai, Mongolia",
+  "lat": 48.17,
+  "lng": 99.85,
+  "text": "Stunted Siberian pines growing on a bare lava flow in central Mongolia hold a 1,112-year rainfall diary. Their rings show that from 1211 to 1225 every single year was wetter than average, a streak unmatched in the record. That run matches the rise of Genghis Khan's empire. Lush grass meant more livestock and horses, after dry decades of chaos in the 1180s.",
+  "source": {
+   "name": "PNAS (PMC): Pluvials, droughts, the Mongol Empire, and modern Mongolia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3970536/"
+  }
+ },
+ {
+  "id": "w11-angkor-megadroughts",
+  "era": "medieval",
+  "year": 1403,
+  "dateLabel": "Late 1300s to early 1400s",
+  "cat": "nature",
+  "title": "The Droughts That Drained Angkor",
+  "place": "Angkor, Siem Reap, Cambodia",
+  "lat": 13.41,
+  "lng": 103.87,
+  "text": "Angkor ran on water: canals, embankments and reservoirs like the West Baray, 16 square kilometres in size. Rings from rare Fokienia cypress trees in Vietnam's highlands reveal decades-long droughts in the mid-1300s and early 1400s, broken by violent monsoons that wrecked waterworks. The driest year in 759 years of record was 1403, right when the great Khmer capital was fading.",
+  "source": {
+   "name": "PNAS (PMC): Climate as a contributing factor in the demise of Angkor, Cambodia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2872380/"
+  }
+ },
+ {
+  "id": "w11-lake-suwa-god-crossing",
+  "era": "medieval",
+  "year": 1443,
+  "dateLabel": "From 1443",
+  "cat": "culture",
+  "title": "The God Who Walks Across the Ice",
+  "place": "Lake Suwa, Nagano, Japan",
+  "lat": 36.05,
+  "lng": 138.08,
+  "text": "When Lake Suwa froze, a ridge of ice called the omiwatari pushed up across it. Shinto priests said it was the footsteps of the god Takeminakata crossing to visit the goddess Yasakatome. Since 1443 they wrote down the freeze dates, through at least 15 generations of observers. Today the lake no longer freezes every year, so the god often cannot make his trip.",
+  "source": {
+   "name": "Scientific Reports (Nature): Direct observations of ice seasonality reveal changes in climate over the past 320–570 years",
+   "url": "https://www.nature.com/articles/srep25061"
+  }
+ },
+ {
+  "id": "w11-thames-frost-fair",
+  "era": "exploration",
+  "year": 1684,
+  "dateLabel": "Winter 1683–1684",
+  "cat": "daily",
+  "title": "Printing Your Name on the Frozen Thames",
+  "place": "River Thames, City of London, England, UK",
+  "lat": 51.508,
+  "lng": -0.09,
+  "text": "In the long, cold winter of 1683 to 1684, the Thames froze so solidly that Londoners built a street of booths on it. There were puppet shows, horse races and whole oxen roasting, and shopkeepers lit fires in their tents. Diarist John Evelyn noted ladies paying to have their names printed on the ice, likely the first mention of a frost fair printing press.",
+  "source": {
+   "name": "London Museum: Souvenir, frost-fair keepsake (1684)",
+   "url": "https://londonmuseum.org.uk/collections/v/object-141216/souvenir-frost-fair-keepsake"
+  },
+  "source2": {
+   "name": "London Museum: Frost fairs, festivities on a frozen River Thames",
+   "url": "https://www.londonmuseum.org.uk/collections/london-stories/frost-fairs-festivities-frozen-river-thames/"
+  }
+ },
+ {
+  "id": "w11-great-hurricane-1780",
+  "era": "exploration",
+  "year": 1780,
+  "dateLabel": "10–16 October 1780",
+  "cat": "nature",
+  "title": "The Deadliest Atlantic Hurricane",
+  "place": "Martinique, Lesser Antilles (French overseas region)",
+  "lat": 14.64,
+  "lng": -61.02,
+  "text": "In mid-October 1780 the Great Hurricane tore through the Lesser Antilles. About 22,000 people died: around 9,000 on Martinique, 4,000 to 5,000 on St. Eustatius and 4,326 on Barbados, plus thousands at sea. No Atlantic storm on record has killed more. News crawled so slowly that the first report in London's Lloyd's List only appeared on 19 December.",
+  "source": {
+   "name": "NOAA National Hurricane Center: The Deadliest Atlantic Tropical Cyclones, 1492–1996 (part 4)",
+   "url": "https://www.nhc.noaa.gov/pastdeadly4.shtml"
+  },
+  "source2": {
+   "name": "NOAA National Hurricane Center: The Deadliest Atlantic Tropical Cyclones, 1492–1996 (part 2)",
+   "url": "https://www.nhc.noaa.gov/pastdeadly2.shtml"
+  }
+ },
+ {
+  "id": "w11-piddington-names-cyclone",
+  "era": "industrial",
+  "year": 1845,
+  "dateLabel": "1835 to 1855",
+  "cat": "discovery",
+  "title": "The Man Who Named the Cyclone",
+  "place": "Kolkata (Calcutta), West Bengal, India",
+  "lat": 22.57,
+  "lng": 88.36,
+  "text": "Captain Harry Piddington, working in Calcutta, wrote 40 papers on tropical storms for the Asiatic Society of Bengal between 1835 and 1855. He coined the word cyclone, meaning the coil of a snake, and wrote a book on the Laws of the Storms. After a disastrous cyclone hit Calcutta in 1864 and monsoons failed, the India Meteorological Department was founded in 1875.",
+  "source": {
+   "name": "India Meteorological Department: History of IMD",
+   "url": "https://mausam.imd.gov.in/imd_latest/contents/history.php"
+  }
+ },
+ {
+  "id": "w11-cherrapunji-rain-year",
+  "era": "industrial",
+  "year": 1861,
+  "dateLabel": "August 1860 to July 1861",
+  "cat": "nature",
+  "title": "Twenty-Six Metres of Rain in a Year",
+  "place": "Cherrapunji (Sohra), Meghalaya, India",
+  "lat": 25.28,
+  "lng": 91.72,
+  "text": "Between August 1860 and July 1861, the hill town of Cherrapunji in northeast India collected 26.47 metres of rain, the most ever measured anywhere in twelve months. That is deep enough to drown an eight-storey building. Cherrapunji still holds the world 48-hour record too: 2.49 metres in June 1995. Nearby Mawsynram has Asia's highest average yearly rainfall.",
+  "source": {
+   "name": "World Meteorological Organization: Records of Weather and Climate Extremes (table, July 2025)",
+   "url": "https://wmo.int/sites/default/files/2025-07/Table_Records_25Jul2025.pdf"
+  }
+ },
+ {
+  "id": "w11-fitzroy-first-forecast",
+  "era": "industrial",
+  "year": 1861,
+  "dateLabel": "31 July 1861",
+  "cat": "discovery",
+  "title": "The First Public Weather Forecast",
+  "place": "London, England, UK",
+  "lat": 51.5,
+  "lng": -0.13,
+  "text": "Robert FitzRoy, once captain of HMS Beagle, founded Britain's Met Office in 1854. After the ship Royal Charter sank in a storm in 1859, he pushed for coastal weather reports, and a storm warning service began in early 1861. That service lives on as the shipping forecast. FitzRoy then wrote the first public weather forecast, for 31 July 1861, and coined the term synoptic forecasting.",
+  "source": {
+   "name": "Met Office: Our history",
+   "url": "https://www.metoffice.gov.uk/about-us/who-we-are/our-history"
+  }
+ },
+ {
+  "id": "w11-faura-typhoon-warning",
+  "era": "industrial",
+  "year": 1879,
+  "dateLabel": "1879",
+  "cat": "discovery",
+  "title": "A Jesuit Forecasts the Typhoon",
+  "place": "Manila Observatory, Manila, Philippines",
+  "lat": 14.59,
+  "lng": 120.97,
+  "text": "Federico Faura, a Spanish Jesuit, came to Manila in 1866 to teach physics and run a small observatory. After visiting European observatories, he studied the warning signs of typhoons and in 1879 began issuing typhoon forecasts. He later designed a barometer for detecting typhoons. In 1884 a royal decree made his observatory the official weather service for the Philippines.",
+  "source": {
+   "name": "Manila Observatory Archives: Federico P. Faura, S.J. (1840–1897)",
+   "url": "https://archives.observatory.ph/english/faura.php"
+  },
+  "source2": {
+   "name": "Manila Observatory: History",
+   "url": "https://www.observatory.ph/about/"
+  }
+ },
+ {
+  "id": "w11-hong-kong-typhoon-gun",
+  "era": "industrial",
+  "year": 1884,
+  "dateLabel": "21 August 1884",
+  "cat": "daily",
+  "title": "Typhoon Gun or Mail Gun?",
+  "place": "Police Barracks, Tsim Sha Tsui, Hong Kong, China",
+  "lat": 22.29,
+  "lng": 114.17,
+  "text": "Soon after the Hong Kong Observatory opened in 1883, it fired a typhoon gun facing Victoria Harbour: once for gales, twice for hurricane winds. It first boomed on 21 August 1884. The trouble was that the same gun announced the mail arriving from London, which confused everyone. After a disastrous typhoon in 1906, louder explosives took over, fired for the last time in 1937.",
+  "source": {
+   "name": "Hong Kong Observatory: A Brief History of the Typhoon Gun",
+   "url": "https://www.hko.gov.hk/en/education/weather/weather-warnings/00693-A-Brief-History-of-Typhoon-Gun.html"
+  }
+ },
+ {
+  "id": "w11-cyclone-mahina",
+  "era": "industrial",
+  "year": 1899,
+  "dateLabel": "4–5 March 1899",
+  "cat": "nature",
+  "title": "Mahina Smashes the Pearling Fleet",
+  "place": "Bathurst Bay, Cape York Peninsula, Queensland, Australia",
+  "lat": -14.25,
+  "lng": 144.38,
+  "text": "On 4 March 1899 Cyclone Mahina struck Bathurst Bay, home anchorage of the Great Barrier Reef pearling fleet. About 400 people died, some 300 on boats and about 100 Aboriginal people on land. Its surge was long listed as a 13-metre world record, though newer research suggests 3 to 5 metres. Its name came from Clement Wragge, who began naming cyclones after women.",
+  "source": {
+   "name": "NOAA AOML Hurricane Research Division: 115th anniversary of Cyclone Mahina's landfall",
+   "url": "https://www.aoml.noaa.gov/hurricane_blog/115th-anniversary-of-cyclone-mahinas-landfall"
+  },
+  "source2": {
+   "name": "World Meteorological Organization: Records of Weather and Climate Extremes (table, July 2025)",
+   "url": "https://wmo.int/sites/default/files/2025-07/Table_Records_25Jul2025.pdf"
+  }
+ },
+ {
+  "id": "w11-arica-dry-spell",
+  "era": "industrial",
+  "year": 1910,
+  "dateLabel": "October 1903 to January 1918",
+  "cat": "nature",
+  "title": "Fourteen Years Without Rain",
+  "place": "Arica, Arica y Parinacota, Chile",
+  "lat": -18.48,
+  "lng": -70.31,
+  "text": "The port of Arica on Chile's Atacama coast went 172 months without measurable rain, from October 1903 to January 1918. That is more than 14 years, the longest dry spell on Earth's books. Even in normal times Arica averages only 0.76 millimetres of rain a year, the lowest average recorded in South America. That is less than a millimetre, thinner than a coin.",
+  "source": {
+   "name": "World Meteorological Organization: Records of Weather and Climate Extremes (table, July 2025)",
+   "url": "https://wmo.int/sites/default/files/2025-07/Table_Records_25Jul2025.pdf"
+  }
+ },
+ {
+  "id": "w11-tri-state-tornado",
+  "era": "modern",
+  "year": 1925,
+  "dateLabel": "18 March 1925",
+  "cat": "nature",
+  "title": "A Tornado Across Three States",
+  "place": "Southern Illinois, between Missouri and Indiana, USA",
+  "lat": 37.9,
+  "lng": -89.2,
+  "text": "On 18 March 1925 a tornado tore from southeast Missouri across southern Illinois into Indiana, killing at least 695 people, the deadliest in American history. Its official path ran 352 kilometres over about three and a half hours. Back then the Weather Bureau refused to even use the word tornado in forecasts, fearing panic. The forecast simply promised rains and strong shifting winds.",
+  "source": {
+   "name": "NOAA National Weather Service Heritage: The Tri-State Tornado of 1925",
+   "url": "https://vlab.noaa.gov/web/nws-heritage/-/the-tri-state-tornado-of-1925"
+  },
+  "source2": {
+   "name": "World Meteorological Organization: Records of Weather and Climate Extremes (table, July 2025)",
+   "url": "https://wmo.int/sites/default/files/2025-07/Table_Records_25Jul2025.pdf"
+  }
+ },
+ {
+  "id": "w11-mount-washington-big-wind",
+  "era": "modern",
+  "year": 1934,
+  "dateLabel": "12 April 1934",
+  "cat": "discovery",
+  "title": "231 Miles an Hour on a Mountaintop",
+  "place": "Mount Washington Observatory, New Hampshire, USA",
+  "lat": 44.27,
+  "lng": -71.3,
+  "text": "On 12 April 1934 three observers on New Hampshire's Mount Washington, in their station's second year, expected a routine 150 mph blow. Instead they recorded a gust of 231 miles per hour, a world record for over 60 years. It is still the fastest wind ever measured at a staffed weather station, and the top gust in the Northern and Western hemispheres.",
+  "source": {
+   "name": "Mount Washington Observatory: Remembering the Big Wind",
+   "url": "https://mountwashington.org/remembering-the-big-wind/"
+  },
+  "source2": {
+   "name": "World Meteorological Organization: Records of Weather and Climate Extremes (table, July 2025)",
+   "url": "https://wmo.int/sites/default/files/2025-07/Table_Records_25Jul2025.pdf"
+  }
+ },
+ {
+  "id": "w11-foc-foc-cyclone-denise",
+  "era": "modern",
+  "year": 1966,
+  "dateLabel": "7–8 January 1966",
+  "cat": "nature",
+  "title": "Almost Two Metres of Rain in a Day",
+  "place": "Foc-Foc, La Réunion (France)",
+  "lat": -21.23,
+  "lng": 55.68,
+  "text": "As Tropical Cyclone Denise passed La Réunion in January 1966, a rain gauge high in the mountains at Foc-Foc caught 1.825 metres of rain in 24 hours. That is still the world record, and 1.144 metres fell in just 12 hours. The same small island also holds the world records for rainfall over three, four and ten days.",
+  "source": {
+   "name": "World Meteorological Organization: Records of Weather and Climate Extremes (table, July 2025)",
+   "url": "https://wmo.int/sites/default/files/2025-07/Table_Records_25Jul2025.pdf"
+  }
+ },
+ {
+  "id": "w11-gopalganj-hailstone",
+  "era": "modern",
+  "year": 1986,
+  "dateLabel": "14 April 1986",
+  "cat": "nature",
+  "title": "A Hailstone Heavier Than a Bag of Sugar",
+  "place": "Gopalganj District, Dhaka Division, Bangladesh",
+  "lat": 23,
+  "lng": 89.83,
+  "text": "On 14 April 1986 a storm over Gopalganj district in Bangladesh dropped the heaviest hailstone ever weighed: 1.02 kilograms, more than a standard bag of sugar. Bangladesh holds other grim weather records too. A tornado in Manikganj district in 1989 killed about 1,300 people, the deadliest on record, and the 1970 cyclone took an estimated 300,000 lives.",
+  "source": {
+   "name": "World Meteorological Organization: Records of Weather and Climate Extremes (table, July 2025)",
+   "url": "https://wmo.int/sites/default/files/2025-07/Table_Records_25Jul2025.pdf"
+  }
+ },
+ {
+  "id": "w11-barrow-island-gust",
+  "era": "modern",
+  "year": 1996,
+  "dateLabel": "10 April 1996",
+  "cat": "nature",
+  "title": "The Fastest Wind Ever Measured",
+  "place": "Barrow Island, Pilbara coast, Western Australia, Australia",
+  "lat": -20.82,
+  "lng": 115.38,
+  "text": "At 10:55 UTC on 10 April 1996, as Tropical Cyclone Olivia swept past Barrow Island off Western Australia, a weather station logged a gust of 113.2 metres per second, about 408 km/h or 253 mph. It is the fastest wind gust ever recorded on Earth. It beat a record set on New Hampshire's Mount Washington in 1934 that had stood for over 60 years.",
+  "source": {
+   "name": "World Meteorological Organization: Records of Weather and Climate Extremes (table, July 2025)",
+   "url": "https://wmo.int/sites/default/files/2025-07/Table_Records_25Jul2025.pdf"
+  },
+  "source2": {
+   "name": "Mount Washington Observatory: Remembering the Big Wind",
+   "url": "https://mountwashington.org/remembering-the-big-wind/"
+  }
+ },
+ {
+  "id": "w11-catarina-south-atlantic",
+  "era": "modern",
+  "year": 2004,
+  "dateLabel": "27–28 March 2004",
+  "cat": "nature",
+  "title": "A Hurricane Where None Should Be",
+  "place": "Santa Catarina coast, Brazil",
+  "lat": -28.3,
+  "lng": -48.7,
+  "text": "Until March 2004, only two tropical cyclones had ever been noticed in the South Atlantic, and no hurricanes. Then a storm off southern Brazil grew an eye, reached hurricane strength and came ashore in Santa Catarina state. Astronauts on the International Space Station photographed it at landfall, spinning clockwise as southern storms do. It was nicknamed Hurricane Catarina.",
+  "source": {
+   "name": "NASA Earth Observatory: \"Hurricane\" Catarina hits Brazil",
+   "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-catarina-hits-brazil-4369/"
+  },
+  "source2": {
+   "name": "World Meteorological Organization: Records of Weather and Climate Extremes (table, July 2025)",
+   "url": "https://wmo.int/sites/default/files/2025-07/Table_Records_25Jul2025.pdf"
+  }
+ },
+ {
+  "id": "w11-syria-drought",
+  "era": "modern",
+  "year": 2008,
+  "dateLabel": "2007 to 2010",
+  "cat": "nature",
+  "title": "The Drought Before the War",
+  "place": "Khabur River basin, al-Hasakah, Syria",
+  "lat": 36.5,
+  "lng": 40.75,
+  "text": "From 2007 to 2010 the Fertile Crescent suffered its worst drought in the instrumental record. In Syria's northeast breadbasket, which grew over two-thirds of the crops, farming collapsed and livestock died. Up to 1.5 million people left the land for city outskirts. Researchers found such a drought had become more than twice as likely because of long-term drying linked to greenhouse gases.",
+  "source": {
+   "name": "PNAS (PMC): Climate change in the Fertile Crescent and implications of the recent Syrian drought",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4371967/"
+  }
+ },
+ {
+  "id": "w11-haiyan-tacloban",
+  "era": "modern",
+  "year": 2013,
+  "dateLabel": "8 November 2013",
+  "cat": "nature",
+  "title": "Haiyan's Wall of Water",
+  "place": "Tacloban, Leyte, Philippines",
+  "lat": 11.24,
+  "lng": 125,
+  "text": "Super Typhoon Haiyan, called Yolanda in the Philippines, hit Samar and Leyte with sustained winds estimated at 196 mph, possibly the strongest landfall ever recorded. Its storm surge, perhaps 7.5 metres, swept through low-lying Tacloban, and even official storm shelters were washed away. About 6,300 people died. It had formed unusually close to the equator, south of Pohnpei.",
+  "source": {
+   "name": "NOAA Climate.gov: 2013 State of the Climate, record-breaking Super Typhoon Haiyan",
+   "url": "https://www.climate.gov/news-features/understanding-climate/2013-state-climate-record-breaking-super-typhoon-haiyan"
+  }
+ },
+ {
+  "id": "w11-mitribah-heat",
+  "era": "modern",
+  "year": 2016,
+  "dateLabel": "21 July 2016",
+  "cat": "nature",
+  "title": "Asia's Hottest Day in the Desert",
+  "place": "Mitribah, Al Jahra, Kuwait",
+  "lat": 29.82,
+  "lng": 47.36,
+  "text": "On 21 July 2016 a weather station at Mitribah in Kuwait recorded 53.9°C, give or take 0.1°C. The World Meteorological Organization checked it and accepted it as the highest temperature ever measured in Asia. Less than a year later, on 28 May 2017, Turbat in Pakistan came close behind with 53.7°C. The world record is still Death Valley's 56.7°C, from 1913.",
+  "source": {
+   "name": "World Meteorological Organization: Records of Weather and Climate Extremes (table, July 2025)",
+   "url": "https://wmo.int/sites/default/files/2025-07/Table_Records_25Jul2025.pdf"
+  }
+ },
+ {
+  "id": "w11-kyoto-earliest-blossom",
+  "era": "modern",
+  "year": 2021,
+  "dateLabel": "26 March 2021",
+  "cat": "culture",
+  "title": "Kyoto's Earliest Blossoms in 1,200 Years",
+  "place": "Kyoto, Japan",
+  "lat": 35.01,
+  "lng": 135.77,
+  "text": "Kyoto's mountain cherry trees have had their peak bloom recorded since the 9th century, with dates going back to 812 CE. On 26 March 2021 they reached full flower earlier than ever in that 1,200-year record. A 2022 study found climate change and city warming have moved blooming about 11 days earlier, and almost half of that shift comes from urban heat.",
+  "source": {
+   "name": "Met Office: Kyoto cherry blossom dates shifted by human influence",
+   "url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2022/kyoto-cherry-blossom-dates-shifted-by-human-influence"
+  },
+  "source2": {
+   "name": "New Phytologist (PMC): The onset of phenological plant response to climate warming",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12371147/"
+  }
+ },
+ {
+  "id": "w11-cyclone-freddy",
+  "era": "modern",
+  "year": 2023,
+  "dateLabel": "February to March 2023",
+  "cat": "nature",
+  "title": "Freddy, the 36-Day Cyclone",
+  "place": "Mozambique Channel coast, Mozambique",
+  "lat": -17.88,
+  "lng": 36.89,
+  "text": "Tropical Cyclone Freddy formed off northwest Australia in February 2023 and crossed the whole Indian Ocean to southern Africa. It stayed at tropical storm strength or above for 36 days, the longest-lasting tropical cyclone on record, and travelled 12,785 kilometres, nearly a third of the way around Earth. It survived several landfalls, causing heavy losses in southeast Africa.",
+  "source": {
+   "name": "World Meteorological Organization: Tropical Cyclone Freddy is the longest tropical cyclone on record at 36 days",
+   "url": "https://wmo.int/media/news/tropical-cyclone-freddy-longest-tropical-cyclone-record-36-days-wmo"
+  }
+ }
+]

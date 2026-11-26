@@ -1,0 +1,366 @@
+[
+ {
+  "id": "m35-toaga-ofu-site",
+  "era": "ancient",
+  "year": -1250,
+  "dateLabel": "About 3,200 years ago",
+  "cat": "nature",
+  "title": "Lost Birds of Ofu",
+  "place": "Toʻaga, Ofu Island, Manuʻa, American Samoa",
+  "lat": -14.18,
+  "lng": -169.65,
+  "text": "The Toʻaga site on Ofu holds a record of people living there from about 3,200 to 1,900 years ago, including an unbroken run of pottery dating back over 3,000 years. Its ancient rubbish heaps hold the bones of birds that no longer live on the island, such as megapodes, shearwaters and the Tahiti petrel, driven to extinction there by human activity.",
+  "source": {
+   "name": "National Park Service, National Park of American Samoa: The To'aga Site",
+   "url": "https://www.nps.gov/npsa/learn/historyculture/toaga.htm"
+  }
+ },
+ {
+  "id": "m35-chelechol-ra-orrak-cemetery",
+  "era": "ancient",
+  "year": -1050,
+  "dateLabel": "About 3,000 years ago",
+  "cat": "discovery",
+  "title": "Palau's Ancient Rockshelter Cemetery",
+  "place": "Chelechol ra Orrak, Rock Islands, Palau",
+  "lat": 7.26,
+  "lng": 134.43,
+  "text": "Under later layers of everyday living, archaeologists at the Chelechol ra Orrak rockshelter in Palau found an extensive cemetery holding at least 50 people. Radiocarbon dating and statistical modelling show burials going back about 3,000 years, making it one of the earliest cemetery sites in the Pacific Islands and one of the only cemeteries in Remote Oceania from the first stages of settlement.",
+  "source": {
+   "name": "Antiquity (Cambridge Core): Fitzpatrick and Jew, Radiocarbon dating and Bayesian modelling of one of Remote Oceania's oldest cemeteries at Chelechol ra Orrak, Palau (2018)",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/radiocarbon-dating-and-bayesian-modelling-of-one-of-remote-oceanias-oldest-cemeteries-at-chelechol-ra-orrak-palau/1153E2DF7B846BBE4F9F29DA2711E21E"
+  }
+ },
+ {
+  "id": "m35-haapai-lapita-settlers",
+  "era": "ancient",
+  "year": -815,
+  "dateLabel": "About 2,765 years ago",
+  "cat": "journeys",
+  "title": "Settlers Spread to Haʻapai",
+  "place": "Haʻapai Islands, Tonga",
+  "lat": -19.8,
+  "lng": -174.35,
+  "text": "Tonga was the first part of Polynesia to be settled, beginning on Tongatapu. Dating of charcoal and coral tools shows that Lapita colonists reached the central Haʻapai islands only 70 to 90 years later. There, the decorated Lapita pottery vanished startlingly fast, within 32 to 49 years, as people shifted toward the ancestral Polynesian way of life.",
+  "source": {
+   "name": "PLOS ONE (PMC): Burley et al., Bayesian Modeling and Chronological Precision for Polynesian Settlement of Tonga (2015)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4370570"
+  }
+ },
+ {
+  "id": "m35-palau-earthwork-terraces",
+  "era": "classical",
+  "year": -500,
+  "dateLabel": "Around 500 BCE",
+  "cat": "culture",
+  "title": "The Green Pyramids of Palau",
+  "place": "Babeldaob, Palau",
+  "lat": 7.5,
+  "lng": 134.58,
+  "text": "Palauan oral tradition says a huge serpent wound around the hills of Babeldaob and shaped their terraces. Researchers from Kiel University and the German Archaeological Institute found that people built them by hand over generations, perhaps starting around 500 BCE. Planting pits point to gardening on the terraces, while summits up to ten metres high may have held burials of the elite.",
+  "source": {
+   "name": "Kiel University press release (idw): The green pyramids of Palau (2022)",
+   "url": "https://idw-online.de/en/news788544"
+  }
+ },
+ {
+  "id": "m35-tonga-plainware-ends",
+  "era": "classical",
+  "year": -400,
+  "dateLabel": "About 2,350 years ago",
+  "cat": "daily",
+  "title": "When Tonga Stopped Making Pots",
+  "place": "Tongatapu, Tonga",
+  "lat": -21.17,
+  "lng": -175.2,
+  "text": "After decorated Lapita pottery faded, people in Tonga kept making plain pots in many shapes, including jars, bowls and cups. Using 44 radiocarbon dates from 13 sites across Tonga, archaeologists found that this Polynesian Plainware phase ended no later than about 2,350 years ago, after only about 350 years. Why potting stopped is still a mystery; the researchers call existing explanations mostly speculation.",
+  "source": {
+   "name": "PLOS ONE (PMC): Burley, Connaughton and Clark, Early cessation of ceramic production for ancestral Polynesian society in Tonga (2018)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5825035"
+  }
+ },
+ {
+  "id": "m35-samoans-reach-kiribati",
+  "era": "medieval",
+  "year": 1300,
+  "dateLabel": "About the 14th century",
+  "cat": "journeys",
+  "title": "Samoans Sail to the Gilberts",
+  "place": "Southern Gilbert Islands, Kiribati",
+  "lat": -1.87,
+  "lng": 175.55,
+  "text": "The first people of the Gilbert Islands and Banaba came from Southeast Asia by way of Micronesia. Around the 14th century, the southern islands received a wave of newcomers from Samoa. Soon afterwards the islanders adopted a gerontocratic style of government, meaning one based on rule by the elders. Much later, Spanish explorers sighted some of the islands in the 16th century.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of Kiribati",
+   "url": "https://www.britannica.com/place/Kiribati/History"
+  }
+ },
+ {
+  "id": "m35-mauna-kea-adze-quarry",
+  "era": "medieval",
+  "year": 1400,
+  "dateLabel": "Busiest after about 1400",
+  "cat": "daily",
+  "title": "Toolmakers High on Mauna Kea",
+  "place": "Mauna Kea, Island of Hawaiʻi, USA",
+  "lat": 19.79,
+  "lng": -155.46,
+  "text": "High on Mauna Kea, mostly between 11,000 and 12,400 feet, specialist adze makers quarried basalt and shaped stone tools. Radiocarbon dates show the quarry in use by 1000 CE, and more intensively after 1400. Workers brought food and clothing and lived on site, usually from July to October, beside more than 35 shrines to the mountain's gods.",
+  "source": {
+   "name": "National Park Service: Mauna Kea Adz Quarry",
+   "url": "https://www.nps.gov/places/mauna-kea-adz-quarry.htm"
+  }
+ },
+ {
+  "id": "m35-puuloa-petroglyphs",
+  "era": "medieval",
+  "year": 1450,
+  "dateLabel": "On lava dated 1200-1450 CE",
+  "cat": "culture",
+  "title": "The Hill of Long Life",
+  "place": "Puʻuloa, Hawaiʻi Volcanoes National Park, Hawaiʻi, USA",
+  "lat": 19.29,
+  "lng": -155.11,
+  "text": "Puʻuloa, whose name can be translated 'Hill of long life', holds over 23,000 petroglyphs pecked into lava dated between 1200 and 1450 CE. Most are cupules, or small holes. A 1914 account describes the lava mound as a place to leave a newborn's umbilical cord, believed to ensure the child a long life. Other carvings show people, canoe sails and feathered capes.",
+  "source": {
+   "name": "National Park Service, Hawaiʻi Volcanoes National Park: Puʻuloa Petroglyphs",
+   "url": "https://home.nps.gov/havo/learn/historyculture/puuloa.htm"
+  }
+ },
+ {
+  "id": "m35-mendana-marquesas",
+  "era": "exploration",
+  "year": 1595,
+  "dateLabel": "1595",
+  "cat": "journeys",
+  "title": "Spanish Ships Reach the Marquesas",
+  "place": "Marquesas Islands, French Polynesia",
+  "lat": -9.93,
+  "lng": -139.1,
+  "text": "In April 1595 Álvaro de Mendaña sailed from Callao, Peru. After only five weeks at sea his ships sighted islands, and he at first claimed he had reached his goal. Realising his mistake, he named them Las Marquesas de Mendoza after his Peruvian sponsor. The islanders were treated cruelly: about two hundred were killed, often shot down, Queirós reported, for sport.",
+  "source": {
+   "name": "Princeton University Library, Pacific Voyages: Mendaña and Queirós",
+   "url": "https://static-prod.lib.princeton.edu/visual_materials/maps/websites/pacific/mendana-queiros/mendana-queiros.html"
+  }
+ },
+ {
+  "id": "m35-honaunau-place-of-refuge",
+  "era": "exploration",
+  "year": 1600,
+  "dateLabel": "Early 1600s",
+  "cat": "culture",
+  "title": "A Safe Haven for Kapu Breakers",
+  "place": "Puʻuhonua o Hōnaunau, Island of Hawaiʻi, USA",
+  "lat": 19.42,
+  "lng": -155.91,
+  "text": "Hōnaunau became a royal centre in the early 1600s. Breaking a kapu, a sacred law, could mean death, but a lawbreaker or defeated warrior who reached the puʻuhonua was safe. A great wall of stones fitted without mortar marks its sacred space, and the Hale o Keawe temple held the bones of 23 aliʻi (chiefs), giving it immense mana.",
+  "source": {
+   "name": "National Park Service: Puʻuhonua o Hōnaunau park brochure",
+   "url": "https://www.nps.gov/puho/planyourvisit/parkbrochure.htm"
+  }
+ },
+ {
+  "id": "m35-san-vitores-hagatna",
+  "era": "exploration",
+  "year": 1668,
+  "dateLabel": "June 1668",
+  "cat": "power",
+  "title": "A Mission Lands at Hagåtña",
+  "place": "Hagåtña, Guam",
+  "lat": 13.48,
+  "lng": 144.75,
+  "text": "In June 1668 the supply boat San Diego arrived off Hagåtña, Guam's main village, carrying the Jesuit Diego Luis de San Vitores. Maga'låhi Kepuha of Hagåtña became the first adult CHamoru baptised and gave land for the first Catholic church. The welcome did not last: defiant CHamorus resisted, but were eventually overpowered by the colonisers' weapons.",
+  "source": {
+   "name": "Guampedia: Father Diego Luis de San Vitores (Tanya M. Champaco Mendiola)",
+   "url": "https://www.guampedia.com/father-diego-luis-de-san-vitores/"
+  }
+ },
+ {
+  "id": "m35-mai-sails-to-england",
+  "era": "exploration",
+  "year": 1773,
+  "dateLabel": "1773",
+  "cat": "journeys",
+  "title": "Mai Sails to England",
+  "place": "Raʻiātea, Society Islands, French Polynesia",
+  "lat": -16.83,
+  "lng": -151.45,
+  "text": "Mai, called 'Omai' in England, came from the island of Raʻiātea. In 1773 he sailed to England aboard the Adventure, part of James Cook's second voyage. The first Polynesian visitor to Britain, he became a celebrity, mixing with royalty and the elite and posing for leading artists. In 1776 he returned to Polynesia, where he died a few years later.",
+  "source": {
+   "name": "Fitzwilliam Museum, Cambridge: Journeys with Mai",
+   "url": "https://fitzmuseum.cam.ac.uk/plan-your-visit/exhibitions/journeys-with-mai"
+  }
+ },
+ {
+  "id": "m35-lee-boo-of-palau",
+  "era": "exploration",
+  "year": 1784,
+  "dateLabel": "1784",
+  "cat": "journeys",
+  "title": "Prince Lee Boo Goes to London",
+  "place": "Koror, Palau",
+  "lat": 7.34,
+  "lng": 134.48,
+  "text": "In 1783 the British packet ship Antelope was wrecked near Palau. Its crew spent about three months building a schooner from the wreck, the first long contact between Europeans and the people of Ulong and Koror. Lee Boo, second son of Abba Thulle, sailed to England with Captain Henry Wilson, briefly became a celebrity, and died of smallpox there in 1784.",
+  "source": {
+   "name": "Royal Museums Greenwich: Portrait of Captain Henry Wilson, 1740-1810",
+   "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-244504"
+  },
+  "source2": {
+   "name": "Royal Museums Greenwich: Prince Lee Boo Second Son of Abba Thulle (print, 1788)",
+   "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-107141"
+  }
+ },
+ {
+  "id": "m35-kaahumanu-breaks-kapu",
+  "era": "industrial",
+  "year": 1819,
+  "dateLabel": "1819",
+  "cat": "culture",
+  "title": "Kaʻahumanu Breaks the Kapu",
+  "place": "Kingdom of Hawaiʻi, Island of Hawaiʻi, USA",
+  "lat": 19.64,
+  "lng": -155.99,
+  "text": "When Kamehameha I died in 1819, his favourite queen Kaʻahumanu became kuhina nui, or premier, to his successor Liholiho. She worked to overcome the religious taboos placed on women and won a major victory by persuading the new king to eat publicly with women. That shared meal of the king and his father's wives began the collapse of the kapu system.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Kaahumanu",
+   "url": "https://www.britannica.com/biography/Kaahumanu"
+  },
+  "source2": {
+   "name": "National Park Service: Puʻuhonua o Hōnaunau park brochure",
+   "url": "https://www.nps.gov/puho/planyourvisit/parkbrochure.htm"
+  }
+ },
+ {
+  "id": "m35-rapa-nui-cession-chile",
+  "era": "industrial",
+  "year": 1888,
+  "dateLabel": "September 9, 1888",
+  "cat": "power",
+  "title": "Rapa Nui Joins Chile",
+  "place": "Hanga Roa, Rapa Nui (Easter Island), Chile",
+  "lat": -27.15,
+  "lng": -109.43,
+  "text": "On 9 September 1888 Captain Policarpo Toro of the Chilean corvette Angamos took possession of Rapa Nui for Chile, and King Atamu Tekena and the Council of Chiefs signed the act of cession. Chile's attempt to settle colonists went so badly that they left in 1892. From 1895 the state leased the island for almost sixty years to a company that ran it as a vast sheep ranch.",
+  "source": {
+   "name": "Memoria Chilena (Biblioteca Nacional de Chile): Incorporándola al territorio chileno",
+   "url": "https://www.memoriachilena.gob.cl/602/w3-article-94620.html"
+  }
+ },
+ {
+  "id": "m35-kue-petitions",
+  "era": "industrial",
+  "year": 1897,
+  "dateLabel": "1897",
+  "cat": "power",
+  "title": "21,269 Hawaiians Say No",
+  "place": "Honolulu, Oʻahu, Hawaiʻi, USA",
+  "lat": 21.31,
+  "lng": -157.86,
+  "text": "In 1897 two Hawaiian patriotic leagues, one for men and one for women, gathered 21,269 signatures of Native Hawaiians against annexation by the United States. Four delegates carried the 556-page petition to Washington, where it was read to the Senate on 9 December. The annexation treaty was defeated, although Hawaiʻi was later taken over by a joint resolution needing only a simple majority.",
+  "source": {
+   "name": "U.S. National Archives: Petition Against the Annexation of Hawaii (1897)",
+   "url": "https://www.archives.gov/education/lessons/hawaii-petition"
+  }
+ },
+ {
+  "id": "m35-banaba-phosphate",
+  "era": "industrial",
+  "year": 1900,
+  "dateLabel": "1900",
+  "cat": "daily",
+  "title": "The Island That Was Mined Away",
+  "place": "Banaba (Ocean Island), Kiribati",
+  "lat": -0.86,
+  "lng": 169.54,
+  "text": "Soon after high-grade phosphate was discovered on Banaba in 1900, the Pacific Phosphate Company began mining. By the time mining stopped in 1979, twenty-one million tons had been removed, thirteen million of them spread across Australian farms. Colonial authorities told the Banabans their homeland had become uninhabitable, and most were relocated to Rabi Island in Fiji in December 1945.",
+  "source": {
+   "name": "Brookings Institution: Jane McAdam, Relocation across borders: a prescient warning in the Pacific (2013)",
+   "url": "https://www.brookings.edu/opinions/relocation-across-borders-a-prescient-warning-in-the-pacific/"
+  },
+  "source2": {
+   "name": "Te Papa Tongarewa, Collections Online: T-shirt (Banaba The Rock of Micronesia)",
+   "url": "https://collections.tepapa.govt.nz/object/1423040"
+  }
+ },
+ {
+  "id": "m35-lauaki-exiled-saipan",
+  "era": "industrial",
+  "year": 1909,
+  "dateLabel": "1909",
+  "cat": "power",
+  "title": "A Great Orator Sent Into Exile",
+  "place": "Savaiʻi, Samoa",
+  "lat": -13.6,
+  "lng": -172.4,
+  "text": "Lauaki Namulauʻulu Mamoe was famed for his mastery of history and legend and his skill as a speaker and negotiator. He led the Mau of Pule, named after influential orator groups on Savaiʻi. In 1909 the German governor, Wilhelm Solf, had him taken into custody, and he, nine other chiefs and their families were exiled to Saipan. Lauaki died of dysentery on the voyage home.",
+  "source": {
+   "name": "Te Papa blog: Safua Akeli, Recalling the splendour of Sāmoan oratory: Lauaki Namulauʻulu Mamoe (2012)",
+   "url": "https://blog.tepapa.govt.nz/2012/06/01/recalling-the-splendour-of-samoan-oratory-lauaki-namulauulu-mamoe/"
+  }
+ },
+ {
+  "id": "m35-black-saturday-apia",
+  "era": "modern",
+  "year": 1929,
+  "dateLabel": "December 28, 1929",
+  "cat": "power",
+  "title": "Black Saturday in Apia",
+  "place": "Apia, Upolu, Samoa",
+  "lat": -13.83,
+  "lng": -171.76,
+  "text": "On 28 December 1929 a peaceful crowd paraded through Apia to welcome home members of the Mau who had been exiled in New Zealand. A New Zealand police sergeant fired a machine gun to deter the crowd, and other police fired rifles; 11 Samoans and one police officer died. The dying Mau leader Tupua Tamasese Lealofi III urged: 'If I die, peace must be maintained at any price.'",
+  "source": {
+   "name": "Te Ao Māori News: Black Saturday, remembering 95 years of Samoan resistance and loss (2024)",
+   "url": "https://www.teaonews.co.nz/2024/12/31/black-saturday-remembering-95-years-of-samoan-resistance-and-loss/"
+  }
+ },
+ {
+  "id": "m35-pouvanaa-tahitian-republic",
+  "era": "modern",
+  "year": 1958,
+  "dateLabel": "1958",
+  "cat": "power",
+  "title": "Pouvanaa's Dream of a Tahitian Republic",
+  "place": "Papeete, Tahiti, French Polynesia",
+  "lat": -17.54,
+  "lng": -149.57,
+  "text": "In 1957 France gave more powers to French Polynesia's Territorial Assembly. The next year Pouvanaa a Oopa, vice president of the Council of Government, announced a plan to break away from France and form an independent Tahitian republic. He was arrested and the movement collapsed, but calls for self-rule continued, and in 1984 the territory became autonomous.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of French Polynesia",
+   "url": "https://www.britannica.com/place/French-Polynesia/History"
+  }
+ },
+ {
+  "id": "m35-mururoa-last-tests",
+  "era": "modern",
+  "year": 1995,
+  "dateLabel": "1995",
+  "cat": "nature",
+  "title": "Bombs Beneath Mururoa",
+  "place": "Mururoa Atoll, Tuamotu Islands, French Polynesia",
+  "lat": -21.83,
+  "lng": -138.88,
+  "text": "France began testing nuclear weapons on Mururoa in 1963, and under worldwide pressure moved its tests underground in 1975. Testing was suspended in 1992, but President Jacques Chirac ordered it resumed in 1995. Amid widespread opposition France exploded a bomb under Mururoa, and rioting followed in the territory. The last device was detonated in January 1996.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of French Polynesia",
+   "url": "https://www.britannica.com/place/French-Polynesia/History"
+  }
+ },
+ {
+  "id": "m35-kiribati-land-in-fiji",
+  "era": "modern",
+  "year": 2014,
+  "dateLabel": "2014",
+  "cat": "nature",
+  "title": "A Back-Up Homeland for Kiribati",
+  "place": "South Tarawa, Kiribati",
+  "lat": 1.33,
+  "lng": 172.98,
+  "text": "Rising sea levels, thought to be caused by climate change, threaten to flood and eventually submerge Kiribati's low-lying islands. The government has looked at ways to keep its citizens safe, from helping skilled workers emigrate to building artificial islets. In 2014 it bought about 20 square km of land on Vanua Levu in Fiji, a possible future homeland that could meanwhile grow extra food.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of Kiribati",
+   "url": "https://www.britannica.com/place/Kiribati/History"
+  }
+ }
+]

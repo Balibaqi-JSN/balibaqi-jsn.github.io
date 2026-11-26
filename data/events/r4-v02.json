@@ -1,0 +1,406 @@
+[
+ {
+  "id": "v02-ulughbegsaurus",
+  "era": "deep",
+  "year": -91000000,
+  "dateLabel": "About 91 million years ago",
+  "cat": "nature",
+  "title": "The Desert Predator Named for an Astronomer",
+  "place": "Dzharakuduk, Kyzylkum Desert, Navoi Region, Uzbekistan",
+  "lat": 42.1,
+  "lng": 62.6,
+  "text": "Long before the Kyzylkum became a desert, a big meat-eater hunted here. Ulughbegsaurus, named after the 15th-century astronomer-sultan Ulugh Beg, is known from pieces of its upper jaw, the largest about 24 centimetres long. Scientists estimate it reached 7.5 to 8 metres and over a tonne, making it the top predator, while the local tyrannosaur relative Timurlengia was only 3 to 4 metres long.",
+  "source": {
+   "name": "Royal Society Open Science: A new carcharodontosaurian theropod dinosaur occupies apex predator niche in the early Late Cretaceous of Uzbekistan",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8424376/"
+  }
+ },
+ {
+  "id": "v02-egoria-salamander",
+  "era": "deep",
+  "year": -167000000,
+  "dateLabel": "About 167 million years ago",
+  "cat": "discovery",
+  "title": "A Pocket-Sized Salamander from a Coal Pit",
+  "place": "Berezovsk Quarry, Sharypovo District, Krasnoyarsk Krai, Russia",
+  "lat": 55.6,
+  "lng": 89.1,
+  "text": "A few tiny backbones from a Siberian coal quarry revealed a new Middle Jurassic salamander. Egoria malashichevi, named after the zoologist Egor Malashichev, was only about 18 to 21 centimetres long. It shared its waters with a giant cousin, Urupia, about half a metre long, and a minuscule one under 8 centimetres. It is the first small stem salamander ever found.",
+  "source": {
+   "name": "PLOS ONE: A new small-sized stem salamander from the Middle Jurassic of Western Siberia, Russia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7029856/"
+  }
+ },
+ {
+  "id": "v02-teete-stegosaur-teeth",
+  "era": "deep",
+  "year": -135000000,
+  "dateLabel": "About 135 million years ago",
+  "cat": "nature",
+  "title": "Chewing Stegosaurs of the Far North",
+  "place": "Teete locality, Suntar District, Sakha Republic (Yakutia), Russia",
+  "lat": 62.3,
+  "lng": 117.5,
+  "text": "Stegosaurs are famous for their back plates, but at Teete in Yakutia they are known from teeth: 63 of them, and nearly all show wear facets from precise tooth-on-tooth chewing, perhaps of tough conifer stems. This is the northernmost stegosaur record. Each tooth formed in about 95 days, and a juvenile's tooth suggests these dinosaurs lived and bred there all year round.",
+  "source": {
+   "name": "PLOS ONE: Wear patterns and dental functioning in an Early Cretaceous stegosaur from Yakutia, Eastern Russia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7968641/"
+  }
+ },
+ {
+  "id": "v02-mayluu-suu-trackways",
+  "era": "deep",
+  "year": -70000000,
+  "dateLabel": "Roughly 70 million years ago",
+  "cat": "discovery",
+  "title": "Dinosaur Footprints Above a Uranium Town",
+  "place": "Nichkesai Formation ridge, near Mayluu-Suu, Jalal-Abad Region, Kyrgyzstan",
+  "lat": 41.3,
+  "lng": 72.47,
+  "text": "In 2001 a landslide uncovered a slab of Late Cretaceous rock, now tilted at about 30 degrees, on a ridge above Mayluu-Suu. Across it run five trackways of three-toed dinosaurs, one with footprints nearly 38 centimetres long, left by at least four animals. Uranium mine tailings lie in the valley below, and track blocks keep falling, so scientists recorded them in 3D.",
+  "source": {
+   "name": "Royal Society Open Science: Dinosaur trackways from the Upper Cretaceous Nichkesai Formation near Mayluu Suu City, Southern Tien Shan Mountains, Kyrgyzstan",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10206447/"
+  }
+ },
+ {
+  "id": "v02-siberian-unicorn",
+  "era": "early",
+  "year": -39000,
+  "dateLabel": "About 39,000 years ago",
+  "cat": "nature",
+  "title": "The Last Days of the Siberian Unicorn",
+  "place": "Steppes of northern Kazakhstan",
+  "lat": 50.5,
+  "lng": 72,
+  "text": "The so-called Siberian unicorn was a rhino weighing up to 3.5 tonnes, about twice a modern rhino, with a shoulder hump and a huge skull boss that probably held a horn, though no horn has ever been found. It grazed tough, dry grasses on steppes that reached into Kazakhstan. Dating 23 fossils showed it survived until at least 39,000 years ago, alongside modern humans.",
+  "source": {
+   "name": "Natural History Museum, London: The Siberian unicorn lived at the same time as modern humans",
+   "url": "https://nhm.ac.uk/discover/news/2018/november/the-siberian-unicorn-lived-at-the-same-time-as-modern-humans.html"
+  }
+ },
+ {
+  "id": "v02-dzharatitanis",
+  "era": "deep",
+  "year": -91000000,
+  "dateLabel": "About 91 million years ago",
+  "cat": "journeys",
+  "title": "One Tail Bone, a Long Journey",
+  "place": "Dzharakuduk, Kyzylkum Desert, Navoi Region, Uzbekistan",
+  "lat": 42.12,
+  "lng": 62.58,
+  "text": "In 1997 an international team in Uzbekistan's Kyzylkum Desert dug up a single tail bone from a long-necked dinosaur, its spine almost 19 centimetres tall. Named Dzharatitanis kingi, it is the first rebbachisaurid sauropod known from Asia; the group was previously known only from Africa, Europe and South America. Its ancestors may have walked in from Europe over a land link across the Turgai Strait.",
+  "source": {
+   "name": "PLOS ONE: First rebbachisaurid sauropod dinosaur from Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7904184/"
+  }
+ },
+ {
+  "id": "v02-olkhon-tagay-miocene",
+  "era": "deep",
+  "year": -16000000,
+  "dateLabel": "About 16 million years ago",
+  "cat": "nature",
+  "title": "Squirrels and Grebes on Baikal's Island",
+  "place": "Tagay Bay, Olkhon Island, Lake Baikal, Irkutsk Oblast, Russia",
+  "lat": 53.22,
+  "lng": 107.25,
+  "text": "On Olkhon Island in Lake Baikal, clay beds at Tagay Bay preserve a Miocene world of small creatures. First found in 1958, the fossils include snails, fish teeth, frogs, turtles, lizards and an early grebe. Among the tiny rodent teeth is a new ground squirrel, Spermophilinus debruijni, named after palaeontologist Hans de Bruijn. Archaic rodent teeth date the beds to about 16 million years ago.",
+  "source": {
+   "name": "Palaeobiodiversity and Palaeoenvironments: Geology and lithology of the Tagay-1 section at Olkhon Island (Lake Baikal, Eastern Siberia)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9758249/"
+  }
+ },
+ {
+  "id": "v02-yuka-mammoth-pond-life",
+  "era": "early",
+  "year": -39000,
+  "dateLabel": "About 39,000 years ago",
+  "cat": "nature",
+  "title": "Pond Creatures in a Mammoth's Skull",
+  "place": "Oyogos Yar coast, Laptev Sea, Sakha Republic (Yakutia), Russia",
+  "lat": 72.68,
+  "lng": 142.84,
+  "text": "In 2010, local Yukagir people found a mummified young mammoth hanging from a melting bank on the Laptev Sea coast. Nicknamed Yuka, she was a female aged 6 to 9 who died about 39,000 years ago. Mud taken from her skull held tiny pond animals: fairy shrimp eggs, tadpole shrimp parts, water fleas and seed shrimps. Some are now rare there but live in Eurasia's dry zones.",
+  "source": {
+   "name": "Scientific Reports: Crustacean remains from the Yuka mammoth raise questions about non-analogue freshwater communities in the Beringian region",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6972846/"
+  }
+ },
+ {
+  "id": "v02-denisova-2-baby-tooth",
+  "era": "early",
+  "year": -130000,
+  "dateLabel": "More than 128,000 years ago",
+  "cat": "discovery",
+  "title": "The Oldest Denisovan Was a Little Girl",
+  "place": "Denisova Cave, Altai Krai, Russia",
+  "lat": 51.4,
+  "lng": 84.68,
+  "text": "In 1984, archaeologists digging the deepest layer of Denisova Cave's Main Gallery found a worn baby tooth. Decades later, its DNA revealed it belonged to a female Denisovan child. Her mitochondrial DNA shows she lived tens of thousands of years before the owner of the famous Denisovan finger bone, perhaps 54,000 to 99,000 years earlier. Denisovans, it seems, lived around this cave for a very long time.",
+  "source": {
+   "name": "Science Advances: A fourth Denisovan individual",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5501502/"
+  }
+ },
+ {
+  "id": "v02-shulgan-tash-camel",
+  "era": "iceage",
+  "year": -18000,
+  "dateLabel": "About 18,000 years ago",
+  "cat": "culture",
+  "title": "A Camel Painted in the Ice Age Urals",
+  "place": "Shulgan-Tash (Kapova) Cave, Bashkortostan, Russia",
+  "lat": 53.04,
+  "lng": 57.06,
+  "text": "Deep in Shulgan-Tash Cave in the southern Urals, Ice Age artists used red ochre to paint mammoths, woolly rhinos, horses and bison, plus more than 70 geometric signs. In 2017, removing a crust of flowstone revealed a Bactrian camel. Layers linked to the art date to about 16,000 to 20,000 years ago. Yet one charcoal 'running fox' turned out, by radiocarbon, to be drawn around 1900 CE.",
+  "source": {
+   "name": "Scientific Reports: Late Palaeolithic cave art and permafrost in the Southern Ural",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6089975/"
+  },
+  "source2": {
+   "name": "Data in Brief: Data on the 14C date obtained from the charcoal figure 'Black fox' in Shulgan-Tash (Kapova) cave",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6230969/"
+  }
+ },
+ {
+  "id": "v02-prokoshev-cave-bears",
+  "era": "early",
+  "year": -53000,
+  "dateLabel": "About 53,000 years ago",
+  "cat": "nature",
+  "title": "The Cave Where Bears Slept Forever",
+  "place": "Prokoshev Cave, Chusovaya River basin, Middle Urals, Russia",
+  "lat": 58.22,
+  "lng": 58.2,
+  "text": "In a chamber of Prokoshev Cave in the Middle Urals, the bones of at least 18 cave bears lie where they fell, partly sunk in the loam. Twelve were adults, four only about a year old. No bites, no cut marks, no trace of people: the bears seem to have died during hibernation, roughly one a year. One jaw is about 53,000 years old.",
+  "source": {
+   "name": "Doklady Biological Sciences: A New Mass Burial of Cave Bears (Ursus kanivetz) from the Middle Urals",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8423641/"
+  }
+ },
+ {
+  "id": "v02-ignatievskaya-cave-art",
+  "era": "iceage",
+  "year": -17000,
+  "dateLabel": "About 17,000 years ago",
+  "cat": "culture",
+  "title": "Mammoths on the Walls Above the Sim",
+  "place": "Ignatievskaya (Yamazy-Tash) Cave, Sim River, Chelyabinsk Oblast, Russia",
+  "lat": 54.88,
+  "lng": 57.77,
+  "text": "Ignatievskaya Cave opens in a limestone cliff 12 metres above the Sim River, and its passages run about 800 metres. Inside, painted mammoths and a rhinoceros-like animal hide among walls blackened by the torches of later visitors. Charcoal dates once suggested the art was only 6,000 to 7,400 years old, but dating of flowstone around it supports an Ice Age origin instead.",
+  "source": {
+   "name": "Geoarchaeology: 230Th dating of flowstone from Ignatievskaya Cave, Russia: Age constraints of rock art and paleoclimate",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8048586/"
+  }
+ },
+ {
+  "id": "v02-shigir-idol",
+  "era": "iceage",
+  "year": -12100,
+  "dateLabel": "About 12,100 years ago",
+  "cat": "culture",
+  "title": "The Giant Wooden Idol from a Peat Bog",
+  "place": "Shigir peat bog, Middle Urals, Sverdlovsk Oblast, Russia",
+  "lat": 57.38,
+  "lng": 60.07,
+  "text": "In 1890, a carved wooden figure was pulled from a peat bog in the Ural Mountains. It may once have stood over 5 metres tall, and it bears a human face and geometric motifs. Old wax and pigment treatments had skewed its radiocarbon dates. Testing only the untouched innermost wood showed the tree was felled and carved about 12,100 years ago.",
+  "source": {
+   "name": "Archaeology Magazine: Scientists Reevaluate Date of Russia's Shigir Idol",
+   "url": "https://archaeology.org/news/2021/04/04/210405-shigir-idol-wood/"
+  }
+ },
+ {
+  "id": "v02-arkaim-plague-sheep",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 4,000 years ago",
+  "cat": "daily",
+  "title": "The Sheep That Carried Bronze Age Plague",
+  "place": "Arkaim, Chelyabinsk Oblast, Russia",
+  "lat": 52.65,
+  "lng": 59.57,
+  "text": "Arkaim was a fortified settlement of the Sintashta culture in the southern Urals, near today's Kazakhstan border. Bones of a sheep dug up there in the 1980s and 1990s held DNA of plague bacteria, the first Bronze Age plague found in an animal. This ancient strain could not spread through fleas, so herds of livestock may have helped carry it across Eurasia.",
+  "source": {
+   "name": "EurekAlert! (University of Arkansas): How did Bronze Age plague spread? A sheep might solve the mystery",
+   "url": "https://www.eurekalert.org/news-releases/1108961"
+  }
+ },
+ {
+  "id": "v02-nepluyevsky-six-brothers",
+  "era": "ancient",
+  "year": -1800,
+  "dateLabel": "About 1800 BCE",
+  "cat": "daily",
+  "title": "Six Brothers and Their Family Mound",
+  "place": "Nepluyevsky kurgan cemetery, Kartaly District, Chelyabinsk Oblast, Russia",
+  "lat": 53.1,
+  "lng": 60.4,
+  "text": "Genomes from 32 people buried in one Bronze Age mound near Nepluyevka in the southern Urals rebuilt a family tree across three generations, with six brothers at its centre. The eldest had eight children with two women, the most of anyone. Daughters over five are missing from the mound, while wives came from elsewhere and were buried with their husbands' families.",
+  "source": {
+   "name": "PNAS: Descent, marriage, and residence practices of a 3,800-year-old pastoral community in Central Eurasia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10483636/"
+  }
+ },
+ {
+  "id": "v02-ulug-depe-baby-girl",
+  "era": "ancient",
+  "year": -2200,
+  "dateLabel": "Middle Bronze Age (Namazga V)",
+  "cat": "daily",
+  "title": "A Baby Girl Buried Under the Floor",
+  "place": "Ulug-depe, Ahal Region, Turkmenistan",
+  "lat": 37.33,
+  "lng": 59.97,
+  "text": "Ulug-depe, a 13-hectare town about 175 kilometres east of Ashgabat, was one of the largest proto-urban sites of the Oxus (Bactria-Margiana) culture. Its people buried their dead inside their houses. In one room corner lay a girl about 10 months old, curled on her left side. Her genome shows ancestry from earlier local farmers, Iran and the Indus borderlands, but none from the steppe.",
+  "source": {
+   "name": "Frontiers in Genetics: Genetic analysis of a bronze age individual from Ulug-depe (Turkmenistan)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9441711/"
+  }
+ },
+ {
+  "id": "v02-karabie-saka-sword",
+  "era": "ancient",
+  "year": -650,
+  "dateLabel": "7th or 6th century BCE",
+  "cat": "culture",
+  "title": "A Sword Decorated With Birds of Prey",
+  "place": "Karabie burial site, Karaganda Region, Kazakhstan",
+  "lat": 49.8,
+  "lng": 73.1,
+  "text": "In central Kazakhstan, archaeologists from the Karaganda Regional History Museum opened a Saka-era grave at Karabie dating to the 7th or 6th century BCE. The dead warrior still gripped a bronze akinak, a short sword about 30 centimetres long, in the right hand. Its blade is decorated with steppe birds of prey, a design not yet found elsewhere in Kazakhstan. Five arrowheads and a gold earring lay nearby.",
+  "source": {
+   "name": "Archaeology Magazine: 2,700-Year-Old Warrior's Grave Discovered in Kazakhstan",
+   "url": "https://archaeology.org/news/2025/11/11/2700-year-old-warriors-grave-discovered-in-kazakhstan/"
+  }
+ },
+ {
+  "id": "v02-ili-copper-cauldrons",
+  "era": "ancient",
+  "year": -700,
+  "dateLabel": "Early Iron Age, 1000 to 300 BCE",
+  "cat": "daily",
+  "title": "Cooking Pots of Recycled Copper",
+  "place": "Ili River valley (Tekes and Zhaosu), Xinjiang, China",
+  "lat": 43.2,
+  "lng": 81.5,
+  "text": "In the Ili valley of western Xinjiang, early Iron Age herders cooked in large cauldrons, a vessel type used by steppe peoples from western China to eastern Europe. Analysis of 44 copper-based objects, including cauldrons from Zhaosu and Tekes, found the cauldrons were often pure copper. Lead isotopes point to western Tian Shan ores such as the Nulasai mine, but also reveal metal that was mixed and recycled.",
+  "source": {
+   "name": "Archaeometry: New scientific analyses reveal mixing of copper sources in the early Iron Age metal production at Ili, western China",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9314118/"
+  }
+ },
+ {
+  "id": "v02-rostovka-metalworkers",
+  "era": "ancient",
+  "year": -2100,
+  "dateLabel": "About 2200 to 2000 BCE",
+  "cat": "discovery",
+  "title": "Graves of the Bronze Masters",
+  "place": "Rostovka burial ground, near Omsk, Omsk Oblast, Russia",
+  "lat": 55,
+  "lng": 73.4,
+  "text": "Rostovka in western Siberia is one of very few sites of the Seima-Turbino phenomenon with human remains. Most of its graves held bronze weapons and tools, casting moulds, jewellery and armour plates. Seima-Turbino was a network of tin-bronze makers spanning northern Eurasia's forests around 2200 to 1900 BCE, perhaps born in the Altai and Sayan mountains. The buried people's DNA varies widely along a Siberian genetic gradient.",
+  "source": {
+   "name": "Communications Biology: Bronze age Northern Eurasian genetics in the context of development of metallurgy and Siberian ancestry",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11166947/"
+  }
+ },
+ {
+  "id": "v02-lisakovsk-wheat",
+  "era": "ancient",
+  "year": -1600,
+  "dateLabel": "About 1600 BCE",
+  "cat": "daily",
+  "title": "Wheat, Not Millet, in the Trans-Urals",
+  "place": "Lisakovsk, Kostanay Region, Kazakhstan",
+  "lat": 52.54,
+  "lng": 62.49,
+  "text": "Bones remember what people ate. Isotopes from Bronze Age herders across the Eurasian steppe show many groups slowly adding millet to their meals, but the Trans-Urals went another way. At sites such as Lisakovsk, wheat appears around 1750 BCE and becomes a staple by about 1600 BCE. Wheat and barley still dominated there in the Iron Age, while millet mattered little.",
+  "source": {
+   "name": "Scientific Reports: Intensification in pastoralist cereal use coincides with the expansion of trans-regional networks in the Eurasian Steppe",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6557825/"
+  }
+ },
+ {
+  "id": "v02-saka-ruling-families",
+  "era": "classical",
+  "year": -450,
+  "dateLabel": "First millennium BCE",
+  "cat": "power",
+  "title": "Power Ran in Saka Families",
+  "place": "Akbeit, Nurken and Karashoky kurgans, Kazakh steppe, Kazakhstan",
+  "lat": 49,
+  "lng": 74,
+  "text": "Saka elites of the Kazakh steppe were buried under big mounds, some with gold, and some with skulls opened after death, probably to preserve the body. Ancient DNA from 85 Iron Age people shows power ran in families: a man over 55 at Akbeit, his brother at Nurken and two grandchildren at Karashoky, buried 50 to 140 kilometres apart. Some elites were children of related parents.",
+  "source": {
+   "name": "Science Advances: Ancient DNA reveals elite dynastic rule among Iron Age Eurasian Steppe nomads",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13330900/"
+  }
+ },
+ {
+  "id": "v02-kangju-roman-brooch",
+  "era": "classical",
+  "year": -50,
+  "dateLabel": "1st century BCE",
+  "cat": "journeys",
+  "title": "Grape Earrings and a Roman Brooch",
+  "place": "Burial mounds, Turkistan Region, southern Kazakhstan",
+  "lat": 42.9,
+  "lng": 68.6,
+  "text": "Three burial mounds in southern Kazakhstan, about 2,000 years old, tie local nomads to a wide world. Though two were robbed long ago, they still held crescent-shaped gold earrings of the 1st century BCE decorated with grape clusters, a large bronze mirror like those of Han China, and a Roman-style brooch. Archaeologists link them to the Kangju state, which traded with Rome, China and the Kushans.",
+  "source": {
+   "name": "Archaeology Magazine: 2,000-Year-Old Burial Mounds Excavated in Kazakhstan",
+   "url": "https://archaeology.org/news/2024/06/11/2000-year-old-burial-mounds-excavated-in-kazakhstan/"
+  }
+ },
+ {
+  "id": "v02-alpysbaev-cave-burials",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "3rd to 4th century CE",
+  "cat": "daily",
+  "title": "Hard Lives Hidden in a Mountain Cave",
+  "place": "Alpysbaev Cave, Sairam-Ugam National Park, Turkistan Region, Kazakhstan",
+  "lat": 42.35,
+  "lng": 70.2,
+  "text": "High in the western Tian Shan, about 1,700 metres up, a small cave held the scattered bones of at least four people, most from the Iron Age Kangju period. Their skeletons tell of hard work: a healed rib fracture, an arthritic neck and stress fractures in a lower back. Little is known about cave burials in this land of kurgans, so the find opens a new window.",
+  "source": {
+   "name": "PLOS ONE: Human occupations at the Alpysbaev Cave (western Tian Shan): Bioarchaeological insights from the Iron Age burial cluster",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12697947/"
+  }
+ },
+ {
+  "id": "v02-ming-tepe-dayuan",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "About 2,000 years ago",
+  "cat": "journeys",
+  "title": "A Silk Road Town of the Dayuan",
+  "place": "Ming-Tepe, Andijan Region, Ferghana Valley, Uzbekistan",
+  "lat": 40.47,
+  "lng": 72.33,
+  "text": "In the Ferghana Valley, Chinese and Uzbek archaeologists working at Ming-Tepe uncovered a Silk Road settlement about 2,000 years old, complete with a tomb, a workshop and a garrison for travellers. The city is thought to have belonged to Dayuan, a Hellenistic kingdom that ancient accounts say linked the descendants of Greek colonists with Chinese civilisation.",
+  "source": {
+   "name": "Archaeology Magazine: Early Silk Road Settlement Found in Uzbekistan",
+   "url": "https://archaeology.org/news/2017/05/16/170516-uzbekistan-silk-road/"
+  }
+ },
+ {
+  "id": "v02-turpan-stone-mounds",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "About 475 BCE to 220 CE",
+  "cat": "daily",
+  "title": "Two Hundred Stone Tombs by the Silk Road",
+  "place": "Necropolis near Turpan, Xinjiang, China",
+  "lat": 42.95,
+  "lng": 89.18,
+  "text": "Near Turpan, close to the Silk Road, a national heritage survey identified a necropolis of more than 200 tombs spread over about 10,000 square metres. Built between the Warring States period and the Han dynasty, the round or square mounds are heaps of piled stones. Many hold several burials, suggesting shared use. Who built them is unknown, though similar sites across Central Asia belonged to nomads.",
+  "source": {
+   "name": "Archaeology Magazine: More Than 200 Burial Mounds Found at Site Near Silk Road",
+   "url": "https://archaeology.org/news/2025/05/20/more-than-200-burial-mounds-found-at-site-near-silk-road/"
+  }
+ }
+]

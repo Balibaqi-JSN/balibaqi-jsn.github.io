@@ -1,0 +1,418 @@
+[
+ {
+  "id": "v03-antarctic-giant-soft-egg",
+  "era": "deep",
+  "year": -68000000,
+  "dateLabel": "About 68 million years ago",
+  "cat": "discovery",
+  "title": "The Giant Soft Egg of Antarctica",
+  "place": "López de Bertodano Formation, Seymour Island, Antarctic Peninsula, Antarctica",
+  "lat": -64.25,
+  "lng": -56.65,
+  "text": "About 68 million years ago, something laid an enormous egg near the shore of what is now Seymour Island. The fossil, about 29 by 20 cm, is collapsed and folded like a deflated football, because its shell was thin and layered like a lizard's or snake's, not hard like a dinosaur's. Scientists suspect a giant marine reptile at least 7 metres long, perhaps a mosasaur.",
+  "source": {
+   "name": "Nature: A large Cretaceous egg from Antarctica (Legendre et al. 2020)",
+   "url": "https://www.nature.com/articles/s41586-020-2377-7"
+  }
+ },
+ {
+  "id": "v03-tingmiatornis-arctic-bird",
+  "era": "deep",
+  "year": -92000000,
+  "dateLabel": "About 92 million years ago",
+  "cat": "nature",
+  "title": "A Diving Bird in a Warm Arctic",
+  "place": "Near Expedition Fiord, western Axel Heiberg Island, Nunavut, Canada",
+  "lat": 79.39,
+  "lng": -92.18,
+  "text": "About 92 million years ago, a large bird hunted the fresh waters of what is now Axel Heiberg Island. Named Tingmiatornis, from an Inuktitut word for 'those that fly', it may have dived like a cormorant. It shared its bay with turtles, gar-like fish and crocodile-like champsosaurs. The Arctic then had no seasonal ice and averaged at least 14°C, yet still had two months of winter darkness.",
+  "source": {
+   "name": "Scientific Reports: A Large Ornithurine Bird (Tingmiatornis arctica) from the Turonian High Arctic",
+   "url": "https://www.nature.com/articles/srep38876"
+  }
+ },
+ {
+  "id": "v03-skraeling-island-chain-mail",
+  "era": "medieval",
+  "year": 1280,
+  "dateLabel": "About 1280",
+  "cat": "journeys",
+  "title": "Viking Chain Mail in an Inuit House",
+  "place": "Skraeling Island, Bache Peninsula region, Ellesmere Island, Nunavut, Canada",
+  "lat": 78.88,
+  "lng": -75.65,
+  "text": "In 1978 and 1979, archaeologists digging old Thule Inuit winter houses on tiny Skraeling Island found pieces of chain mail, ship rivets, knife blades and woollen cloth, all European. Radiocarbon dates put them around the 13th century, when Norse farmers lived far south in Greenland. Some iron here came instead from the Cape York meteorites. Whether Norse explorers came here themselves, or the goods were traded north, is still debated.",
+  "source": {
+   "name": "Arctic (Arctic Institute of North America): Notes on Norse Finds from the East Coast of Ellesmere Island, N.W.T. (Schledermann 1980)",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/65629"
+  }
+ },
+ {
+  "id": "v03-greely-camp-clay-execution",
+  "era": "industrial",
+  "year": 1884,
+  "dateLabel": "6 June 1884",
+  "cat": "power",
+  "title": "An Execution at Starvation Camp",
+  "place": "Camp Clay, near Cape Sabine, Pim Island, Ellesmere Island region, Nunavut, Canada",
+  "lat": 78.73,
+  "lng": -74.35,
+  "text": "The US Army's Lady Franklin Bay Expedition went north for the first International Polar Year. By 1884 its starving men were stranded in a tiny hut at Camp Clay, living on shrimp, kelp and even sealskin. When Private Charles Henry kept stealing food, Lieutenant Greely ordered him shot in writing on 6 June 1884. Sixteen days later rescuers found only seven men alive.",
+  "source": {
+   "name": "Arctic (Arctic Institute of North America): An Arctic Execution: Private Charles B. Henry of the United States Lady Franklin Bay Expedition 1881–84 (Stein 2011)",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/67186"
+  }
+ },
+ {
+  "id": "v03-toll-bennett-island-vanished",
+  "era": "industrial",
+  "year": 1902,
+  "dateLabel": "November 1902",
+  "cat": "journeys",
+  "title": "Hunting a Phantom Land, Then Vanishing",
+  "place": "Bennett Island, De Long Islands, New Siberian Islands, Russia",
+  "lat": 76.7,
+  "lng": 149.5,
+  "text": "Baron Eduard von Toll, a Russian Arctic geologist, believed an unseen 'Sannikov Land' lay north of the New Siberian Islands. In 1902 he and three companions set off by sledge and kayak for remote Bennett Island. A year later a search party under A. V. Kolchak reached the island by whaleboat and found Toll's note: they had left by kayak in November 1902. No further trace was ever found.",
+  "source": {
+   "name": "Arctic (Arctic Institute of North America): Baron Eduard von Toll's Last Expedition: The Russian Polar Expedition, 1900–1903 (Barr 1981)",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/65576"
+  }
+ },
+ {
+  "id": "v03-elatu-funeral-fort-conger",
+  "era": "industrial",
+  "year": 1901,
+  "dateLabel": "January 1901",
+  "cat": "culture",
+  "title": "An Inughuit Funeral at Fort Conger",
+  "place": "Fort Conger, Lady Franklin Bay, Quttinirpaaq National Park, Ellesmere Island, Nunavut, Canada",
+  "lat": 81.73,
+  "lng": -64.73,
+  "text": "In January 1901 a young Inughuit woman named Elatu died at Robert Peary's winter base at Fort Conger, and who probably lived with Matthew Henson. Peary joined her funeral and wrote the most detailed record of a pre-Christian Inughuit funeral. Mourners wrapped her in skins, walked around the grave three times following the sun, and drew lines across the path home. Bricks still outline her grave.",
+  "source": {
+   "name": "Arctic (Arctic Institute of North America): Elatu's Funeral: A Glimpse of Inughuit-American Relations on Robert E. Peary's 1898–1902 Expedition (LeMoine 2014)",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/67446"
+  }
+ },
+ {
+  "id": "v03-shirase-yamato-snow-plain",
+  "era": "industrial",
+  "year": 1912,
+  "dateLabel": "28 January 1912",
+  "cat": "journeys",
+  "title": "Japan's Dash Across the Ross Ice Shelf",
+  "place": "Ross Ice Shelf near 80°05'S 156°37'W, Antarctica",
+  "lat": -80.08,
+  "lng": -156.62,
+  "text": "Lieutenant Nobu Shirase led Japan's first Antarctic expedition aboard the small Kainan-maru. After a failed first try and a tense winter camped in Sydney, where geologist Edgeworth David befriended him, Shirase returned south and met Amundsen's Fram at the Bay of Whales. On 28 January 1912 his sledge party reached 80°05'S on the Ross Ice Shelf before turning back. Shirase later gave David his treasured samurai sword.",
+  "source": {
+   "name": "National Institute of Polar Research (Japan): Appendix to Nankyokuki, the Report of the Japanese Antarctic Expedition, 1910–12",
+   "url": "https://nipr.repo.nii.ac.jp/record/6803/files/KJ00002475816.pdf"
+  },
+  "source2": {
+   "name": "Australian Museum: Our global neighbours: Nobu Shirase",
+   "url": "https://australian.museum/blog-archive/science/our-global-neighbours-nobu-shirase/"
+  }
+ },
+ {
+  "id": "v03-deception-island-eruption",
+  "era": "modern",
+  "year": 1967,
+  "dateLabel": "December 1967",
+  "cat": "nature",
+  "title": "A Volcano Evicts the Whalers' Base",
+  "place": "Whalers Bay, Deception Island, South Shetland Islands, Antarctica",
+  "lat": -62.98,
+  "lng": -60.57,
+  "text": "Britain's Deception Island station grew up inside the ring-shaped island, in old dormitories of a Norwegian whaling station at Whalers Bay. On 5 December 1967 volcanic eruptions forced everyone out, rescued by the Chilean ship Piloto Pardo. Scientists returned, but in February 1969 new eruptions damaged buildings and the station was abandoned for good. Mudflows even destroyed the whalers' old cemetery.",
+  "source": {
+   "name": "British Antarctic Survey: History of British stations and refuges (Deception Island, Station B)",
+   "url": "https://www.bas.ac.uk/about/history/british-research-stations-and-refuges/"
+  }
+ },
+ {
+  "id": "v03-protarctos-sweet-tooth-bear",
+  "era": "deep",
+  "year": -3500000,
+  "dateLabel": "About 3.5 million years ago",
+  "cat": "nature",
+  "title": "A Bear With Cavities Near the Pole",
+  "place": "Beaver Pond fossil site, Strathcona Fiord, Ellesmere Island, Nunavut, Canada",
+  "lat": 78.55,
+  "lng": -82.4,
+  "text": "About 3.5 million years ago, a forest grew on Ellesmere Island, and a small bear of about 97 kg lived there. Its fossil teeth, from two individuals, show tooth decay. Berry fossils from the same site suggest that, like today's black bears, it gorged on sugary fruit in autumn to fatten up for hibernation. This early relative of modern bears probably came over from Asia.",
+  "source": {
+   "name": "Scientific Reports: A basal ursine bear (Protarctos abstrusus) from the Pliocene High Arctic (Wang et al. 2017)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5735171/"
+  }
+ },
+ {
+  "id": "v03-northgrip-ice-age-ends",
+  "era": "iceage",
+  "year": -9700,
+  "dateLabel": "About 11,700 years ago",
+  "cat": "nature",
+  "title": "The Year the Ice Age Switched Off",
+  "place": "NorthGRIP drill site, North Greenland Ice Sheet, Greenland",
+  "lat": 75.1,
+  "lng": -42.32,
+  "text": "Snow piling up year after year on Greenland's ice cap keeps a diary of past climate. Reading annual layers in the NorthGRIP ice core, scientists found that the last Ice Age ended about 11,700 years ago with astonishing speed. Dust from Asia fell off first, then within a few years the source of Greenland's snow shifted. As one researcher put it, it was 'as if somebody had pushed a button'.",
+  "source": {
+   "name": "EurekAlert (University of Copenhagen): Ice cores map dynamics of sudden climate changes",
+   "url": "https://www.eurekalert.org/news-releases/869811"
+  }
+ },
+ {
+  "id": "v03-lystrosaurus-antarctic-torpor",
+  "era": "deep",
+  "year": -250000000,
+  "dateLabel": "About 250 million years ago",
+  "cat": "nature",
+  "title": "Sleeping Through the Antarctic Dark",
+  "place": "Fremouw Formation, Shackleton Glacier area, Transantarctic Mountains, Antarctica",
+  "lat": -84.8,
+  "lng": -175.5,
+  "text": "Just after Earth's worst mass extinction, the tusked mammal forerunner Lystrosaurus lived in a milder Antarctica that still had months of polar darkness. Its tusks grew throughout life, laying down growth marks like tree rings. Antarctic tusks show long stress bands missing from South African cousins, a sign the animals slowed into a hibernation-like torpor. It is the oldest known evidence of torpor in the fossil record.",
+  "source": {
+   "name": "Communications Biology: Evidence of torpor in the tusks of Lystrosaurus from the Early Triassic of Antarctica (Whitney & Sidor 2020)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7453012/"
+  }
+ },
+ {
+  "id": "v03-pomor-winter-hunters-svalbard",
+  "era": "exploration",
+  "year": 1750,
+  "dateLabel": "1700s",
+  "cat": "daily",
+  "title": "Bathhouses and Chess in the Polar Night",
+  "place": "Russekeila, Isfjorden, Spitsbergen, Svalbard, Norway",
+  "lat": 78.05,
+  "lng": 13.75,
+  "text": "For centuries Pomor hunters from northern Russia wintered on Svalbard, chasing walrus and furs, often sent by Old Believer Orthodox monasteries. They built huts with Russian bathhouses, raised tall wooden crosses at their stations, notched days on wooden calendars and played chess through the dark months. Scurvy grass and raw meat kept them healthy: of 20 skeletons from Russekeila's cemetery, only one showed signs of scurvy.",
+  "source": {
+   "name": "Arctic (Arctic Institute of North America): Russian Hunters on Svalbard and the Polar Winter (Jasinski 1991)",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/64586"
+  }
+ },
+ {
+  "id": "v03-peary-land-umiak-oak",
+  "era": "modern",
+  "year": 1949,
+  "dateLabel": "1949",
+  "cat": "journeys",
+  "title": "A Whaling Boat at the Top of the World",
+  "place": "Herlufsholm Strand, Peary Land, North Greenland",
+  "lat": 82.45,
+  "lng": -20.9,
+  "text": "In May 1949 a Danish expedition found the frame of an Inuit umiak, a skin whaling boat over 35 feet long, on a gravel beach facing the Arctic Ocean in Peary Land. It was built from driftwood spruce or larch, except one small piece of oak, a European wood. That oak was later radiocarbon dated to around the 1200s, the era of Norse Greenland, though the boat itself may be far younger.",
+  "source": {
+   "name": "Arctic (Arctic Institute of North America): An Outline of the Archaeology of Peary Land (Knuth 1952)",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/66946"
+  },
+  "source2": {
+   "name": "Arctic (Arctic Institute of North America): Notes on Norse Finds from the East Coast of Ellesmere Island, N.W.T. (Schledermann 1980)",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/65629"
+  }
+ },
+ {
+  "id": "v03-gastornis-arctic-giant-bird",
+  "era": "deep",
+  "year": -52500000,
+  "dateLabel": "About 52 million years ago",
+  "cat": "nature",
+  "title": "Giant Flightless Birds Near the Pole",
+  "place": "Bay Fiord fossil area, central Ellesmere Island, Nunavut, Canada",
+  "lat": 78.85,
+  "lng": -83.8,
+  "text": "About 52 million years ago, central Ellesmere Island, now near 79°N, was a lush coastal rainforest where winters stayed above freezing. A toe bone shows that Gastornis, a huge flightless bird, lived there, matching the size of its relatives far to the south. It probably stayed through the long dark winters, while duck-like Presbyornis waterbirds may have migrated, as geese do today.",
+  "source": {
+   "name": "Scientific Reports: The palaeobiology of high latitude birds from the early Eocene greenhouse of Ellesmere Island, Arctic Canada (Stidham & Eberle 2016)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4751439/"
+  }
+ },
+ {
+  "id": "v03-jeannette-crushed-in-ice",
+  "era": "industrial",
+  "year": 1881,
+  "dateLabel": "June 1881",
+  "cat": "journeys",
+  "title": "The Jeannette Crushed in the Ice",
+  "place": "Arctic Ocean north of the New Siberian Islands, Russia",
+  "lat": 77.25,
+  "lng": 155,
+  "text": "Backed by newspaper owner James Gordon Bennett, George De Long sailed the Jeannette north in 1879, hoping for an open polar sea. Trapped in ice, the ship drifted for 21 months, proving Wrangel Land was only an island. In June 1881 ice crushed her near the New Siberian Islands. Of 33 men, only 13 survived the boat journey and trek across Siberia. Her wreckage later drifted to Greenland.",
+  "source": {
+   "name": "Arctic (Arctic Institute of North America): Review of In the Kingdom of Ice: The Grand and Terrible Polar Voyage of the U.S.S. Jeannette",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/67532"
+  }
+ },
+ {
+  "id": "v03-scott-balloon-eva",
+  "era": "industrial",
+  "year": 1902,
+  "dateLabel": "4 February 1902",
+  "cat": "discovery",
+  "title": "Antarctica's First Flight Was a Balloon",
+  "place": "Ross Ice Shelf (Ross Ice Barrier), near the Bay of Whales, Antarctica",
+  "lat": -78.5,
+  "lng": -164,
+  "text": "The first flight of any kind in Antarctica was not a plane but a tethered hydrogen balloon called Eva. On 4 February 1902, during the British Discovery expedition, Robert Falcon Scott rose about 250 metres above the Ross Ice Barrier. Photographs taken from the balloon became the first Antarctic aerial pictures, giving explorers a glimpse of what lay beyond the horizon of the ice.",
+  "source": {
+   "name": "Australian Antarctic Division: Aviation history",
+   "url": "https://www.antarctica.gov.au/about-antarctica/history/transportation/aviation/"
+  }
+ },
+ {
+  "id": "v03-caroline-mikkelsen-landing",
+  "era": "modern",
+  "year": 1935,
+  "dateLabel": "February 1935",
+  "cat": "journeys",
+  "title": "The First Woman Ashore in Antarctica",
+  "place": "Tryne Islands, Vestfold Hills, Ingrid Christensen Coast, East Antarctica",
+  "lat": -68.37,
+  "lng": 78.4,
+  "text": "In February 1935 Norwegian captain Klarius Mikkelsen brought the ship Thorshavn into a small bay on an ice-free coast of East Antarctica. The bare hills reminded him of Vestfold back home, so he named them the Vestfold Hills. His wife Caroline came ashore too, becoming the first woman known to land on the Antarctic continent. Mikkelsens Cairn is now a protected heritage site.",
+  "source": {
+   "name": "Australian Antarctic Division: History of Davis station",
+   "url": "https://www.antarctica.gov.au/about-antarctica/history/stations/davis/"
+  }
+ },
+ {
+  "id": "v03-camp-century-ice-core",
+  "era": "modern",
+  "year": 1966,
+  "dateLabel": "1966",
+  "cat": "discovery",
+  "title": "A Climate Diary From Under the Snow",
+  "place": "Camp Century, northwest Greenland Ice Sheet, Greenland",
+  "lat": 77.18,
+  "lng": -61.13,
+  "text": "Camp Century was a camp of tunnels buried under the snow of northwest Greenland. In 1964 Danish scientist Willi Dansgaard, there to collect snow samples, wandered into Trench 12 and found a deep drilling project. In 1966 the US Army's cold-regions lab pulled up the first ice core ever drilled to bedrock, 1,390 metres long. Its yearly layers revealed climate going back 8,300 years, with clues to 115,000.",
+  "source": {
+   "name": "Arctic (Arctic Institute of North America): Willi Dansgaard (1922–2011)",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/67182"
+  }
+ },
+ {
+  "id": "v03-svalbard-walrus-protected",
+  "era": "modern",
+  "year": 1952,
+  "dateLabel": "1952",
+  "cat": "nature",
+  "title": "Saving Svalbard's Last Walruses",
+  "place": "Moffen Island walrus sanctuary, north coast of Spitsbergen, Svalbard, Norway",
+  "lat": 80.02,
+  "lng": 14.5,
+  "text": "Svalbard's walrus herds were once enormous. The first recorded walrus hunt there came in 1604, and three and a half centuries of commercial killing followed, until the animals were on the verge of vanishing from the islands. In 1952 they finally got total protection. By the mid-1980s walruses were again commonly seen, hauling out on places like little Moffen Island, now a sanctuary off Spitsbergen's north coast.",
+  "source": {
+   "name": "Arctic (Arctic Institute of North America): Past and Present Distribution of Walruses in Svalbard (Gjertz & Wiig 1994)",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/64324"
+  }
+ },
+ {
+  "id": "v03-leigh-smith-eira-cape-flora",
+  "era": "industrial",
+  "year": 1881,
+  "dateLabel": "21 August 1881",
+  "cat": "journeys",
+  "title": "Shipwrecked, Then Snug at Flora Cottage",
+  "place": "Cape Flora, Northbrook Island, Franz Josef Land, Russia",
+  "lat": 79.95,
+  "lng": 50.08,
+  "text": "English explorer Benjamin Leigh Smith had his own steam ship, Eira, built for Arctic exploring. On 21 August 1881 pack ice holed her off Cape Flora in Franz Josef Land, but she sank slowly, letting the crew save food, coal and boats. They built a stone hut roofed with sails, ate 34 bears and 24 walruses over winter, then rowed and hauled four boats to Novaya Zemlya, healthy and scurvy-free.",
+  "source": {
+   "name": "Arctic (Arctic Institute of North America): Review of Shipwreck at Cape Flora: The Expeditions of Benjamin Leigh Smith, England's Forgotten Arctic Explorer",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/67361"
+  }
+ },
+ {
+  "id": "v03-de-rijp-sights-spitsbergen",
+  "era": "exploration",
+  "year": 1596,
+  "dateLabel": "1596",
+  "cat": "journeys",
+  "title": "A Stubborn Captain Finds Spitsbergen",
+  "place": "Off northwest Spitsbergen, Svalbard, Norway",
+  "lat": 79.75,
+  "lng": 11,
+  "text": "In 1596 two Dutch ships sailed north seeking a northern sea route to Asia. Willem Barents wanted to steer east, but the strong-minded captain Jan Cornelisz de Rijp insisted on going north. That choice led them to Bear Island and Spitsbergen, so historians credit de Rijp with the discovery. The ships then split, and Barents went on to a winter on Novaya Zemlya he would not survive.",
+  "source": {
+   "name": "Arctic (Arctic Institute of North America): Astronomical Observations During Willem Barents's Third Voyage to the North (1596–97) (van der Werf 1998)",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/64111"
+  },
+  "source2": {
+   "name": "Arctic (Arctic Institute of North America): Dutch Activities in the North and the Arctic during the Sixteenth and Seventeenth Centuries (Braat 1984)",
+   "url": "https://journalhosting.ucalgary.ca/index.php/arctic/article/view/65281"
+  }
+ },
+ {
+  "id": "v03-hannam-first-antarctic-radio",
+  "era": "industrial",
+  "year": 1912,
+  "dateLabel": "25 September 1912",
+  "cat": "discovery",
+  "title": "Antarctica's First Radio Message",
+  "place": "Commonwealth Bay (Cape Denison), George V Land, Antarctica",
+  "lat": -67.01,
+  "lng": 142.66,
+  "text": "Walter Hannam, a Sydney-trained engineer, joined Mawson's Australasian Antarctic Expedition to try something new: radio. He set up a relay station on Macquarie Island, then the first wireless station on the Antarctic continent at Commonwealth Bay, tapping Morse code on a Telefunken set. On 25 September 1912 the first message from Antarctica reached Hobart via Macquarie Island. Hannam is also credited with playing Antarctica's first football.",
+  "source": {
+   "name": "Australian Antarctic Division: Walter Hannam",
+   "url": "https://www.antarctica.gov.au/about-antarctica/history/people/walter-hannam/"
+  }
+ },
+ {
+  "id": "v03-walkabout-rocks-coffee-jugs",
+  "era": "modern",
+  "year": 1939,
+  "dateLabel": "11 January 1939",
+  "cat": "power",
+  "title": "A Claim Sealed in Coffee Jugs",
+  "place": "Walkabout Rocks, northern Vestfold Hills, East Antarctica",
+  "lat": -68.36,
+  "lng": 78.53,
+  "text": "Sailing with American Lincoln Ellsworth in 1939, Australian aviator Hubert Wilkins learned Ellsworth meant to map land Australia had claimed. So Wilkins flew a small seaplane to several sites, leaving Australian flags and proclamations to back Mawson's claim. On 11 January 1939, in the northern Vestfold Hills, he wrapped his handwritten note in a copy of Walkabout magazine inside two enamel coffee jugs. The spot became Walkabout Rocks.",
+  "source": {
+   "name": "Australian Antarctic Division: History of Davis station",
+   "url": "https://www.antarctica.gov.au/about-antarctica/history/stations/davis/"
+  },
+  "source2": {
+   "name": "Australian Antarctic Division: Sir George Hubert Wilkins",
+   "url": "https://www.antarctica.gov.au/about-antarctica/history/people/hubert-wilkins/"
+  }
+ },
+ {
+  "id": "v03-halley-bay-emperor-collapse",
+  "era": "modern",
+  "year": 2018,
+  "dateLabel": "2009 to 2018",
+  "cat": "nature",
+  "title": "Counting Emperor Penguins From Space",
+  "place": "Halley Bay emperor penguin colony, Brunt Ice Shelf, Weddell Sea, Antarctica",
+  "lat": -75.5,
+  "lng": -26.5,
+  "text": "Emperor penguins breed on sea ice in the dark Antarctic winter, so scientists now count them using satellite images. Tracking about 50 colonies from 2009 to 2018, they found the species probably shrank by roughly 10 percent. The starkest loss was at Halley Bay, which fell from about 20,000 birds to fewer than 1,000, though many seem to have moved to the nearby Dawson-Lambton colony.",
+  "source": {
+   "name": "Proceedings of the Royal Society B: Advances in remote sensing of emperor penguins: first multi-year time series documenting trends in the global population (LaRue et al. 2024)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10932703/"
+  }
+ },
+ {
+  "id": "v03-david-south-magnetic-pole",
+  "era": "industrial",
+  "year": 1909,
+  "dateLabel": "1909",
+  "cat": "journeys",
+  "title": "The Professor Hauls Sledges to the Magnetic Pole",
+  "place": "South Magnetic Pole (1909 position), Victoria Land plateau, Antarctica",
+  "lat": -72.42,
+  "lng": 155.27,
+  "text": "Geologist Edgeworth David, nicknamed 'The Professor', joined Ernest Shackleton's Nimrod expedition and brought along his former student Douglas Mawson. David led the first climb to the summit of Mount Erebus, an active volcano. Then he led a party, Mawson included, on an epic four-month journey to the South Magnetic Pole, dragging laden sledges about 1,250 kilometres across Victoria Land to reach their goal.",
+  "source": {
+   "name": "Australian Antarctic Division: T.W. Edgeworth David",
+   "url": "https://www.antarctica.gov.au/about-antarctica/history/people/tannatt-edgeworth-david/"
+  }
+ }
+]

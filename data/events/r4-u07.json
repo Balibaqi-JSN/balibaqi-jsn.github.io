@@ -1,0 +1,414 @@
+[
+ {
+  "id": "u07-genyornis-cooked-eggs",
+  "era": "early",
+  "year": -47000,
+  "dateLabel": "About 47,000 years ago",
+  "cat": "daily",
+  "title": "Giant Eggs on the Campfire",
+  "place": "Dune fields near Spencer Gulf, South Australia, Australia",
+  "lat": -33.1,
+  "lng": 137.8,
+  "text": "Between about 54,000 and 43,000 years ago, people across Australia were cooking giant eggs. Scorched shell fragments turn up at more than 200 sites, burnt in patterns left when shells were tossed into small, quick fires. Scientists argued for years over which extinct bird laid them: the 200-kilogram flightless Genyornis, or a 5-kilogram mound-builder. Ancient proteins surviving inside the shell finally settled it: Genyornis.",
+  "source": {
+   "name": "Nature Communications (PMC): Human predation contributed to the extinction of the Australian megafaunal bird Genyornis newtoni",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4740177/"
+  },
+  "source2": {
+   "name": "PNAS (PMC): Ancient proteins resolve controversy over the identity of Genyornis eggshell",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9995833/"
+  }
+ },
+ {
+  "id": "u07-budj-bim-eruption",
+  "era": "early",
+  "year": -37000,
+  "dateLabel": "About 37,000 years ago",
+  "cat": "nature",
+  "title": "The Volcano That Shaped Eel Farms",
+  "place": "Budj Bim (Mount Eccles), western Victoria, Australia",
+  "lat": -38.06,
+  "lng": 141.92,
+  "text": "About 37,000 years ago, Budj Bim in western Victoria erupted, sending the Tyrendarra lava flow more than 30 kilometres south to the Southern Ocean. People were already living in the region, so the eruption may have been witnessed. Its jumbled lava later framed something remarkable: Gunditjmara channels, weirs and dams that trapped and stored short-finned eels for about 6,000 years, now listed as World Heritage.",
+  "source": {
+   "name": "Bulletin of Volcanology (PMC): Complex eruption processes and deposits of basaltic fissures, the ~37 ka Budj Bim volcanic complex",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13038471/"
+  }
+ },
+ {
+  "id": "u07-heeia-fishpond",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "About 1200",
+  "cat": "daily",
+  "title": "A Stone Wall Around a Fish Farm",
+  "place": "Heʻeia Fishpond, Kāneʻohe Bay, Oʻahu, Hawaiʻi, USA",
+  "lat": 21.44,
+  "lng": -157.81,
+  "text": "About 800 years ago, Hawaiians on Oʻahu's windward coast walled off part of Kāneʻohe Bay to raise fish. Heʻeia Fishpond's 2.5-kilometre wall of fossil coral and basalt encloses 88 acres, with sluice gates called mākāhā letting seawater and stream water flow in and out. Around 1778 the islands held roughly 488 of these loko iʻa. Only 14 still produce fish today.",
+  "source": {
+   "name": "PLOS ONE (PMC): Large-scale climatic effects on traditional Hawaiian fishpond aquaculture",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5690667/"
+  }
+ },
+ {
+  "id": "u07-manenggon-guam",
+  "era": "modern",
+  "year": 1944,
+  "dateLabel": "July 1944",
+  "cat": "power",
+  "title": "Guam's Civilians Sent to Jungle Camps",
+  "place": "Manenggon, Yona, Guam",
+  "lat": 13.43,
+  "lng": 144.76,
+  "text": "On 10 July 1944, as American forces closed in, Japan's commander on Guam ordered roughly 18,000 people, nearly every civilian on the island, into camps in the jungle interior. Manenggon was the largest. CHamoru families had already endured two and a half years of occupation: the island renamed Omiya Jima, bowing enforced with blows, their languages banned in school. US soldiers reached Manenggon on 31 July.",
+  "source": {
+   "name": "National Park Service, War in the Pacific NHP: Imperial Japanese Occupation of Guam (1941-1944)",
+   "url": "https://www.nps.gov/wapa/learn/historyculture/imperial-japanese-occupation.htm"
+  }
+ },
+ {
+  "id": "u07-kahoolawe-occupation",
+  "era": "modern",
+  "year": 1976,
+  "dateLabel": "1976",
+  "cat": "power",
+  "title": "Taking Back a Bombed Island",
+  "place": "Kahoʻolawe, Hawaiʻi, USA",
+  "lat": 20.55,
+  "lng": -156.61,
+  "text": "Starting in 1976, members of the Protect Kahoʻolawe ʻOhana landed again and again on a Hawaiian island the US military had used as a bombing range since World War II, and took the Navy to federal court. Kahoʻolawe holds nearly 3,000 recorded archaeological and historical sites. The bombing was ordered to stop in 1990, and in 1994 the island was handed to the State of Hawaiʻi.",
+  "source": {
+   "name": "Kahoʻolawe Island Reserve Commission (State of Hawaiʻi): History",
+   "url": "https://kahoolawe.hawaii.gov/history.shtml"
+  }
+ },
+ {
+  "id": "u07-tent-embassy",
+  "era": "modern",
+  "year": 1972,
+  "dateLabel": "26 January 1972",
+  "cat": "power",
+  "title": "An Embassy Under a Beach Umbrella",
+  "place": "Lawns opposite Old Parliament House, Canberra, Australian Capital Territory, Australia",
+  "lat": -35.3,
+  "lng": 149.13,
+  "text": "On 26 January 1972, four Aboriginal men from Sydney, Michael Anderson, Billy Craigie, Bertie Williams and Tony Coorey, planted a beach umbrella opposite Parliament House with a sign reading 'Aboriginal Embassy'. They were answering the Prime Minister's rejection of land rights. Calling it an embassy made a point: Aboriginal people were being treated as aliens in their own land. Camping there was not illegal, so police could not move them.",
+  "source": {
+   "name": "Museum of Australian Democracy: A short history of the Aboriginal Tent Embassy",
+   "url": "https://www.moadoph.gov.au/explore/stories/history/a-short-history-of-the-aboriginal-tent-embassy-an-indelible-reminder-of"
+  }
+ },
+ {
+  "id": "u07-falefa-valley-walls",
+  "era": "medieval",
+  "year": 1250,
+  "dateLabel": "About 1100 to 1400",
+  "cat": "power",
+  "title": "Walls That Made Samoan Chiefs",
+  "place": "Falefa Valley, ʻUpolu, Samoa",
+  "lat": -13.89,
+  "lng": -171.58,
+  "text": "Under the forest of the Falefa Valley on ʻUpolu, laser scans from the air revealed a hidden web of rock walls, ditches and platforms. Excavation shows the biggest walls, some several hundred metres long, began going up roughly 900 to 600 years ago, soon after Sāmoa's population surged. They cluster on the most fertile land, suggesting that competition for good soil helped give rise to Polynesian chiefdoms.",
+  "source": {
+   "name": "PLOS ONE (PMC): Collective action problems led to the cultural transformation of Sāmoa 800 years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11189243/"
+  }
+ },
+ {
+  "id": "u07-anakena-starch",
+  "era": "medieval",
+  "year": 1150,
+  "dateLabel": "About 1000 to 1300",
+  "cat": "discovery",
+  "title": "Breadfruit Crumbs on Rapa Nui Blades",
+  "place": "Anakena, Rapa Nui (Easter Island), Chile",
+  "lat": -27.07,
+  "lng": -109.32,
+  "text": "The first settlers of Rapa Nui left microscopic clues on their obsidian tools. From 20 blades in the deepest layer at Anakena, dated to about 1000 to 1300 CE, scientists recovered 46 starch grains. They show taro and yam, but also breadfruit and ginger, never known to have been grown on the island. Sweet potato and manioc starch point to South American crops arriving with the very first colonists.",
+  "source": {
+   "name": "PLOS ONE (PMC): Identification of breadfruit and South American crops introduced during early settlement of Rapa Nui, as revealed through starch analysis",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10954183/"
+  }
+ },
+ {
+  "id": "u07-nuku-hiva-lost-forest",
+  "era": "medieval",
+  "year": 1170,
+  "dateLabel": "Mid-1100s",
+  "cat": "nature",
+  "title": "A Forest Frozen as Settlers Arrived",
+  "place": "Hoʻoumi Valley, Nuku Hiva, Marquesas Islands, French Polynesia",
+  "lat": -8.89,
+  "lng": -140,
+  "text": "In Hoʻoumi Valley on Nuku Hiva, a waterlogged deposit preserved a snapshot of the Marquesas just as Polynesians arrived, dated to the mid-1100s CE. Seeds, fruits, pollen and more than 100 kinds of insect and other arthropod remains reveal a lowland wet forest unlike anything growing there today, including apparently extinct plants. Lying among them were specks of charcoal, insects that travelled with people, and an adzed timber.",
+  "source": {
+   "name": "PLOS ONE (PMC): Lost bioscapes: floristic and arthropod diversity coincident with 12th century Polynesian settlement, Nuku Hiva",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8967401/"
+  }
+ },
+ {
+  "id": "u07-cloggs-cave-ritual",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "About 12,000 years ago",
+  "cat": "culture",
+  "title": "A Healer's Fire Kept for 500 Generations",
+  "place": "Cloggs Cave, near Buchan, East Gippsland, Victoria, Australia",
+  "lat": -37.5,
+  "lng": 148.17,
+  "text": "In the 1800s, GunaiKurnai medicine men and women called mulla-mullung used secluded caves for rituals that were written down by ethnographers. In 2020, excavations at Cloggs Cave, invited by GunaiKurnai Elders, found two tiny fireplaces, 11,000 and 12,000 years old, each with a trimmed Casuarina stick smeared with fat. They match the described rituals and are Australia's oldest known wooden artefacts.",
+  "source": {
+   "name": "Nature Human Behaviour (PMC): Archaeological evidence of an ethnographically documented Australian Aboriginal ritual dated to the last ice age",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11343701/"
+  }
+ },
+ {
+  "id": "u07-taora-last-megafauna",
+  "era": "ancient",
+  "year": -4000,
+  "dateLabel": "About 6,000 years ago",
+  "cat": "nature",
+  "title": "A Giant Kangaroo That Outlived the Ice",
+  "place": "Taora rockshelter, west of Vanimo, Sandaun Province, Papua New Guinea",
+  "lat": -2.68,
+  "lng": 141.2,
+  "text": "Most of Australia's giant marsupials were gone by about 41,000 years ago. But in a coastal rockshelter called Taora, near Papua New Guinea's border with Indonesia, archaeologists found a single finger bone from a Protemnodon, a giant forest-dwelling relative of kangaroos, in layers dated to between 6,800 and 5,300 years ago. It is the first sign that any of the region's megafauna survived the last ice age.",
+  "source": {
+   "name": "npj Biodiversity (PMC): Middle Holocene survival of marsupial megafauna on the north coast of New Guinea",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13350911/"
+  }
+ },
+ {
+  "id": "u07-ritidian-rice",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 3,500 years ago",
+  "cat": "journeys",
+  "title": "Rice Carried Across 2,300 Kilometres",
+  "place": "Ritidian Site Complex, northern Guam",
+  "lat": 13.65,
+  "lng": 144.86,
+  "text": "When Europeans reached the Pacific, rice grew nowhere in the islands except the Marianas. Red-slipped pots from ritual caves at Ritidian, in northern Guam, show it arrived with the first settlers: their surfaces carry abundant rice husk and leaf traces dated to 3,500 to 3,100 years ago. The rice seems to have travelled from the Philippines across 2,300 kilometres of open sea, and was kept for special ceremonies.",
+  "source": {
+   "name": "Science Advances (PMC): Earliest evidence of rice cultivation in Remote Oceania: ritual use by the first islanders in the Marianas 3500 years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12189969/"
+  }
+ },
+ {
+  "id": "u07-maungarei-obsidian",
+  "era": "exploration",
+  "year": 1600,
+  "dateLabel": "About 1500 to 1769",
+  "cat": "daily",
+  "title": "Volcanic Glass in a Time of Pā",
+  "place": "Maungarei (Mount Wellington), Tāmaki Makaurau Auckland, New Zealand",
+  "lat": -36.9,
+  "lng": 174.84,
+  "text": "Between 1500 and 1769, as thousands of fortified pā rose across New Zealand, Māori still needed obsidian for razor-sharp flakes. Chemists traced 253 obsidian artefacts from Maungarei, a fortified volcanic cone in Auckland, and two Northland sites. Most came straight from nearby island sources such as Aotea (Great Barrier Island), but blocks of prized glass from distant Tūhua (Mayor Island) arrived through formal trade.",
+  "source": {
+   "name": "PLOS ONE (PMC): Strategies for obtaining obsidian in pre-European contact era New Zealand",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3885548/"
+  }
+ },
+ {
+  "id": "u07-jeanne-baret-tahiti",
+  "era": "exploration",
+  "year": 1768,
+  "dateLabel": "April 1768",
+  "cat": "journeys",
+  "title": "The Valet Who Was a Woman",
+  "place": "Tahiti, Society Islands, French Polynesia",
+  "lat": -17.6,
+  "lng": -149.3,
+  "text": "In April 1768, Bougainville's French expedition reached Tahiti. Aboard the storeship Étoile was 'Jean', valet and assistant to the botanist Commerson, who bound her chest with linen and claimed to be a eunuch. By Bougainville's account, Tahitians recognised her as a woman the moment she was rowed ashore. Jeanne Baret later became the first woman known to sail all the way around the world.",
+  "source": {
+   "name": "Royal Museums Greenwich: Jeanne Baret, the first woman to sail around the world",
+   "url": "https://www.rmg.co.uk/stories/maritime-history/jeanne-baret-first-woman-sail-around-world"
+  },
+  "source2": {
+   "name": "The Conversation: Friday essay: who was Jeanne Barret, the first woman to circumnavigate the globe?",
+   "url": "https://theconversation.com/friday-essay-who-was-jeanne-barret-the-first-woman-to-circumnavigate-the-globe-146296"
+  }
+ },
+ {
+  "id": "u07-apia-cyclone-1889",
+  "era": "industrial",
+  "year": 1889,
+  "dateLabel": "March 1889",
+  "cat": "nature",
+  "title": "The Storm That Stopped a Naval Standoff",
+  "place": "Apia Harbour, Upolu, Samoa",
+  "lat": -13.82,
+  "lng": -171.76,
+  "text": "In March 1889, American and German warships crowded Apia's harbour, locked in a colonial stand-off over Samoa, with a British cruiser among them. Then a cyclone struck. Every German and American ship was wrecked or stranded. Only HMS Calliope escaped, her crew running the engines at their limit to claw out to open sea. Robert Louis Stevenson, who lived in Samoa, wrote an account of the disaster.",
+  "source": {
+   "name": "Royal Museums Greenwich: Storm: study for the escape of HMS 'Calliope' from the hurricane at Apia, Samoa, 1889",
+   "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-125889"
+  }
+ },
+ {
+  "id": "u07-taumako-samoan-adzes",
+  "era": "medieval",
+  "year": 1380,
+  "dateLabel": "About 1300 to 1470",
+  "cat": "journeys",
+  "title": "Samoan Stone on a Solomons Outlier",
+  "place": "Kahula site, Taumako, Duff Islands, Temotu Province, Solomon Islands",
+  "lat": -9.82,
+  "lng": 167.15,
+  "text": "Taumako, in the Solomon Islands' remote Duff group, is a Polynesian Outlier: home to Polynesian speakers far west of the Polynesian heartland. When geochemists tested its basalt adzes, every one matched Samoa's hot-spot volcanoes, especially the Tutuila quarries of American Sāmoa, including the fortified Tatagamatau quarry. Two adzes lay in layers from the first settlement of the Kahula site, dated 1296 to 1472 CE.",
+  "source": {
+   "name": "Science Advances (PMC): Artifact geochemistry demonstrates long-distance voyaging in the Polynesian Outliers",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10121159/"
+  }
+ },
+ {
+  "id": "u07-gilbertese-shark-weapons",
+  "era": "industrial",
+  "year": 1870,
+  "dateLabel": "1840 to 1898",
+  "cat": "nature",
+  "title": "Lost Sharks Hidden in Old Weapons",
+  "place": "Gilbert Islands, Kiribati",
+  "lat": 1.45,
+  "lng": 173,
+  "text": "In the 1800s, Gilbertese warriors fought with daggers, swords and spears edged with rows of shark teeth, each tooth drilled and lashed to wood with coconut-fibre cord often braided with human hair. Museums collected them eagerly. Studying weapons made between 1840 and 1898, Field Museum scientists identified teeth from Spot-tail and Dusky sharks, two species missing from all historical and modern records of Kiribati's waters.",
+  "source": {
+   "name": "PLOS ONE (PMC): Shark tooth weapons from the 19th century reflect shifting baselines in Central Pacific predator assemblies",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3616018/"
+  }
+ },
+ {
+  "id": "u07-dawn-raids",
+  "era": "modern",
+  "year": 1974,
+  "dateLabel": "Mid-1970s",
+  "cat": "power",
+  "title": "Knocks at Dawn in Auckland",
+  "place": "Auckland, New Zealand",
+  "lat": -36.85,
+  "lng": 174.76,
+  "text": "In the mid-1970s, New Zealand police hunting people who had overstayed their visas raided homes late at night or at dawn, pulling Pacific families from their beds into police vans. Some appeared in court the next day barefoot, in pyjamas. Pacific people were about a third of overstayers but 86 percent of prosecutions. In 2021 the government formally apologised at Auckland Town Hall.",
+  "source": {
+   "name": "RNZ: Ardern gives formal apology on behalf of government for Dawn Raids",
+   "url": "https://www.rnz.co.nz/news/pacific/448235/ardern-gives-formal-apology-on-behalf-of-government-for-dawn-raids"
+  },
+  "source2": {
+   "name": "University of Auckland: Dawn raids' long racist shadow persists",
+   "url": "https://www.auckland.ac.nz/en/news/2021/04/08/dawn-raids-long-racist-shadow-persists.html"
+  }
+ },
+ {
+  "id": "u07-central-medical-school-fiji",
+  "era": "modern",
+  "year": 1928,
+  "dateLabel": "1928",
+  "cat": "discovery",
+  "title": "A Medical School for Twelve Colonies",
+  "place": "Central Medical School, Suva, Viti Levu, Fiji",
+  "lat": -18.14,
+  "lng": 178.44,
+  "text": "In 1928, a medical school opened in Suva that was unlike anything else in the British Empire. The Central Medical School trained Pacific Islanders as Native Medical Practitioners, drawing students from twelve colonies. It was run by Fiji's colonial government, funded by the Rockefeller Foundation, and jointly managed by Britain, Australia, New Zealand, France and the United States. An official called it a 'microcosm of the Pacific'.",
+  "source": {
+   "name": "Medical History (PMC): 'Microcosm of the Pacific': colonial encounters at the Central Medical School in Fiji",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11458334/"
+  }
+ },
+ {
+  "id": "u07-kuru-fore",
+  "era": "modern",
+  "year": 1955,
+  "dateLabel": "Mid-1900s",
+  "cat": "discovery",
+  "title": "The Disease That Took the Women",
+  "place": "South Fore area, Eastern Highlands, Papua New Guinea",
+  "lat": -6.6,
+  "lng": 145.6,
+  "text": "In the mid-1900s, a fatal brain disease called kuru swept through the Fore people of Papua New Guinea's Eastern Highlands, causing 2,700 recorded deaths. Caused by prions, it spread through mortuary feasts at which relatives ritually consumed the dead. Women and children, who ate the most infectious tissues, suffered most, and many villages lost nearly all their adult women. Genomes from 943 people show more women moving into hard-hit areas.",
+  "source": {
+   "name": "American Journal of Human Genetics (PMC): Population structure and migration in the Eastern Highlands of Papua New Guinea, a region impacted by the kuru epidemic",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11023820/"
+  }
+ },
+ {
+  "id": "u07-hero-quarantine-north-head",
+  "era": "industrial",
+  "year": 1872,
+  "dateLabel": "July 1872",
+  "cat": "daily",
+  "title": "Forty-Two Days Stuck at North Head",
+  "place": "North Head Quarantine Station, Manly, Sydney, New South Wales, Australia",
+  "lat": -33.82,
+  "lng": 151.29,
+  "text": "In July 1872, the steamship Hero, on its routine run from Auckland to Melbourne, was stopped at Sydney's North Head quarantine station after a steerage passenger seemed to develop smallpox. Everyone aboard was confined for 42 days. Passengers put on shows, played sport, carved marks into the sandstone and wrote a weekly journal, Loganiana, named after their captain and later printed with a sulphur-yellow cover.",
+  "source": {
+   "name": "Australian Historical Studies (PMC): White Men in Quarantine: Disease, Race, Commerce and Mobility in the Pacific, 1872",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5972964/"
+  }
+ },
+ {
+  "id": "u07-ata-castaways",
+  "era": "modern",
+  "year": 1965,
+  "dateLabel": "1965 to 1966",
+  "cat": "journeys",
+  "title": "Six Boys Marooned on ʻAta",
+  "place": "ʻAta Island, Tonga",
+  "lat": -22.34,
+  "lng": -174.96,
+  "text": "In 1965, six teenage boys, Sione, Stephen, Kolo, David, Luke and Mano, ran away from their Tongan boarding school in a stolen fishing boat. After eight days adrift they reached ʻAta, an uninhabited island, and were marooned there for at least 15 months, cold, hungry and praying morning and evening for rescue. An Australian, Peter Warner, finally picked them up, and back home they were charged over the boat.",
+  "source": {
+   "name": "ABC News: Pacific Islanders say tale of Tongans shipwrecked 50 years ago is not like Lord of the Flies",
+   "url": "https://www.abc.net.au/news/2020-05-16/tongans-say-shipwreck-story-not-lord-of-the-flies-tale/12249028"
+  }
+ },
+ {
+  "id": "u07-cook-islands-free-association",
+  "era": "modern",
+  "year": 1965,
+  "dateLabel": "1965",
+  "cat": "power",
+  "title": "Self-Rule, With a Friend Nearby",
+  "place": "Avarua, Rarotonga, Cook Islands",
+  "lat": -21.21,
+  "lng": -159.78,
+  "text": "New Zealand had run the Cook Islands since 1901. In 1965 the two entered free association: the islands governed themselves, while New Zealand helped with foreign affairs, defence and disasters. Sixty years later the partnership was tested, after the Cook Islands prime minister signed agreements with China and New Zealand paused NZ$18.2 million in funding. Tiny Palmerston Island, population 28, still sent 16 people to the anniversary festival.",
+  "source": {
+   "name": "RNZ: Cook Islands celebrates 60 years of self-governance amid growing rift with NZ",
+   "url": "https://www.rnz.co.nz/news/pacific/568534/cook-islands-celebrates-60-years-of-self-governance-amid-growing-rift-with-nz"
+  }
+ },
+ {
+  "id": "u07-watom-ancient-genomes",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "About 2,100 years ago",
+  "cat": "discovery",
+  "title": "A Slow Mixing on Watom Island",
+  "place": "Reber–Rakival site, Watom Island, East New Britain, Papua New Guinea",
+  "lat": -4.12,
+  "lng": 152.08,
+  "text": "On Watom Island, off New Britain, Lapita pottery-makers lived at the Reber–Rakival site from about 2,800 to 2,350 years ago. Ancient genomes of people buried there tell a surprising story. The oldest people in the study carried purely Papuan ancestry, and mixing with newcomers of East Asian-related ancestry on Watom dates to about 2,100 years ago, centuries after the Lapita arrival.",
+  "source": {
+   "name": "Nature Ecology & Evolution (PMC): The impact of human dispersals and local interactions on the genetic diversity of coastal Papua New Guinea over the past 2,500 years",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12148941/"
+  }
+ },
+ {
+  "id": "u07-rapanui-no-collapse",
+  "era": "exploration",
+  "year": 1670,
+  "dateLabel": "1670 to 1950",
+  "cat": "discovery",
+  "title": "The Collapse That Never Happened",
+  "place": "Rapa Nui (Easter Island), Chile",
+  "lat": -27.15,
+  "lng": -109.43,
+  "text": "Rapa Nui is often told as a warning tale: islanders overused their resources and their population crashed in the 1600s. But genomes from 15 Rapanui people dated 1670 to 1950 CE, held in a Paris museum, show no sign of such a crash. The real catastrophe came later, when Peruvian slave raiders kidnapped a third of the population in the 1860s and smallpox followed, leaving about 110 people.",
+  "source": {
+   "name": "Nature (PMC): Ancient Rapanui genomes reveal resilience and pre-European contact with the Americas",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11390480/"
+  }
+ }
+]

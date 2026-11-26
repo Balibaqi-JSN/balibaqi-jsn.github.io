@@ -1,0 +1,362 @@
+[
+ {
+  "id": "m19-la-blanca-earthen-quatrefoil",
+  "era": "ancient",
+  "year": -900,
+  "dateLabel": "Early Middle Formative, about 900–600 BCE",
+  "cat": "culture",
+  "title": "A Flower Shaped From Earth",
+  "place": "La Blanca, San Marcos, Guatemala",
+  "lat": 14.58,
+  "lng": -92.14,
+  "text": "In the 2004 dig season at La Blanca in Guatemala, archaeologists digging what they took for an elite home found something unique: a monument modelled from clay and earth in the shape of a quatrefoil, a four-petalled flower. Made in the early Middle Formative period, it is the earliest known example of this motif in Mesoamerican art.",
+  "source": {
+   "name": "FAMSI (Michael Love, California State University, Northridge): Excavations at La Blanca, Guatemala",
+   "url": "https://www.famsi.org/reports/05051/index.html"
+  }
+ },
+ {
+  "id": "m19-chiapa-de-corzo-pyramid-tomb",
+  "era": "ancient",
+  "year": -700,
+  "dateLabel": "About 700 BCE",
+  "cat": "discovery",
+  "title": "Royals in Red at the Pyramid's Top",
+  "place": "Chiapa de Corzo, Chiapas, Mexico",
+  "lat": 16.71,
+  "lng": -93.01,
+  "text": "Around 700 BCE, two rulers at Chiapa de Corzo were laid in a tomb on top of a pyramid, coated head to toe in red pigment. The man wore a pearl-beaded loincloth, and both had jade beads shaped like howler monkeys and crocodiles. Announced in 2010, it is the oldest known pyramid tomb in Mesoamerica, mixing Olmec and early Zoque styles.",
+  "source": {
+   "name": "National Geographic: Pyramid Tomb Found: Sign of a Civilization's Birth?",
+   "url": "https://www.nationalgeographic.com/animals/article/100518-oldest-pyramid-tomb-zoque-mexico-science"
+  }
+ },
+ {
+  "id": "m19-san-jose-mogote-monument-3",
+  "era": "ancient",
+  "year": -600,
+  "dateLabel": "About 600 BCE (late Rosario phase)",
+  "cat": "power",
+  "title": "A Captive Named 1 Motion",
+  "place": "San José Mogote, Valley of Oaxaca, Mexico",
+  "lat": 17.14,
+  "lng": -96.83,
+  "text": "After enemies burned its main temple, San José Mogote carved a stone showing a rival captive with his heart removed, and laid it flat in a corridor so people would walk over him. Between his feet is his name in glyphs, \"1 Motion\". It is the oldest known carved stone with Zapotec writing, made late in the Rosario phase (900–600 BCE).",
+  "source": {
+   "name": "University of Michigan Museum of Anthropological Archaeology: Origins of Hieroglyphic Writing",
+   "url": "https://sites.lsa.umich.edu/oaxaca-archaeology/origins-of-hieroglyphic-writing-2/"
+  },
+  "source2": {
+   "name": "University of Michigan Museum of Anthropological Archaeology: Origins of Social Inequality",
+   "url": "https://sites.lsa.umich.edu/oaxaca-archaeology/origins-of-social-inequality/"
+  }
+ },
+ {
+  "id": "m19-san-bartolo-7-deer",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "Between 300 and 200 BCE",
+  "cat": "discovery",
+  "title": "The Oldest Maya Calendar Date",
+  "place": "San Bartolo, Petén, Guatemala",
+  "lat": 17.45,
+  "lng": -89.38,
+  "text": "The Maya razed and rebuilt the Las Pinturas pyramid at San Bartolo seven times, burying thousands of painted plaster fragments inside. Two of them fit together like a jigsaw to show the date \"7 Deer\" from the 260-day sacred calendar. Painted between 300 and 200 BCE, they are the earliest known record of a Maya calendar, reported by David Stuart's team in 2022.",
+  "source": {
+   "name": "Science News: This hieroglyph is the oldest known record of the Maya calendar",
+   "url": "https://www.sciencenews.org/article/maya-calendar-hieroglyph-date-oldest-evidence"
+  }
+ },
+ {
+  "id": "m19-copan-margarita-tomb",
+  "era": "classical",
+  "year": 437,
+  "dateLabel": "AD 437",
+  "cat": "power",
+  "title": "A Woman in Copán's Richest Tomb",
+  "place": "Copán Acropolis, Copán Ruinas, Honduras",
+  "lat": 14.84,
+  "lng": -89.14,
+  "text": "Deep under Copán's temples, a carved stone records a royal tomb dedicated in AD 437 by the city's second king, son of the founder. Tunnelling archaeologists found the Margarita Tomb there, the richest burial yet found at Copán. The team thought it held the founder or his son, until researcher Jane Buikstra identified the bones as those of a woman.",
+  "source": {
+   "name": "Penn Museum, Expedition Magazine: Tunneling into the Heart of the Copan Acropolis",
+   "url": "https://www.penn.museum/sites/expedition/tunneling-into-the-heart-of-the-copan-acropolis/"
+  }
+ },
+ {
+  "id": "m19-diquis-stone-spheres",
+  "era": "classical",
+  "year": 500,
+  "dateLabel": "From about 500 CE (period 500–1500)",
+  "cat": "culture",
+  "title": "The Stone Spheres of the Diquís",
+  "place": "Diquís Delta, Puntarenas, Costa Rica",
+  "lat": 8.95,
+  "lng": -83.47,
+  "text": "From around 500 CE, chiefdoms in Costa Rica's Diquís Delta set nearly perfect stone balls in their villages, some up to 2.57 metres across. How they were made, and what they meant, is still largely a mystery. Thick layers of sediment buried them for centuries, saving them from the looting that hit most sites in Costa Rica.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís",
+   "url": "https://whc.unesco.org/en/list/1453"
+  }
+ },
+ {
+  "id": "m19-caracol-conquers-naranjo",
+  "era": "medieval",
+  "year": 631,
+  "dateLabel": "AD 631",
+  "cat": "power",
+  "title": "Caracol's Star War on Naranjo",
+  "place": "Caracol, Cayo District, Belize",
+  "lat": 16.76,
+  "lng": -89.12,
+  "text": "In AD 631, Caracol's king K'an II won a \"star war\", believed to mean all-out war, against Naranjo, 42 km away. Naranjo's own royal monuments stopped for 71 years, and Caracol placed its own texts there, perhaps using the city as a second capital. Caracol itself grew dramatically in population after its victories.",
+  "source": {
+   "name": "Arlen F. Chase and Diane Z. Chase (Caracol Archaeological Project): The Materialization of Classic Period Maya Warfare",
+   "url": "https://caracol.org/wp-content/uploads/2020/04/Chases20war.pdf"
+  }
+ },
+ {
+  "id": "m19-xochicalco-hilltop-city",
+  "era": "medieval",
+  "year": 650,
+  "dateLabel": "Second half of the 7th century CE",
+  "cat": "daily",
+  "title": "Xochicalco, a Fortress on the Hills",
+  "place": "Xochicalco, Morelos, Mexico",
+  "lat": 18.8,
+  "lng": -99.3,
+  "text": "As Teotihuacan lost its grip, new towns sought safe high ground. Xochicalco was founded in the second half of the 7th century on a series of hills, with ramparts, moats and huge terraces linked by stairs and ramps. Its buildings mixed styles from central Mexico, the Gulf Coast and the Maya region, in a troubled age of trade rivalry.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Archaeological Monuments Zone of Xochicalco",
+   "url": "https://whc.unesco.org/en/list/939"
+  }
+ },
+ {
+  "id": "m19-sitio-conte-river-of-gold",
+  "era": "medieval",
+  "year": 700,
+  "dateLabel": "About 700–900 CE",
+  "cat": "culture",
+  "title": "Panama's River of Gold",
+  "place": "Sitio Conte, Coclé, Panama",
+  "lat": 8.42,
+  "lng": -80.47,
+  "text": "Between about 700 and 900 CE, the Coclé people buried their dead beside the Río Grande de Coclé with gold plaques and pendants showing animal-human figures. The cemetery lay undisturbed until a 1927 flood scattered gold beads along the banks. In 1940 a Penn Museum team dug Burial 11, thought to be a paramount chief's, holding 23 people in three layers.",
+  "source": {
+   "name": "University of Pennsylvania Almanac: Beneath the Surface: Life, Death and Gold in Ancient Panama",
+   "url": "https://almanac.upenn.edu/archive/volumes/v61/n25/beneath-the-surface.html"
+  },
+  "source2": {
+   "name": "Penn Museum, Expedition Magazine: The Excavations at Sitio Conte",
+   "url": "https://www.penn.museum/sites/expedition/the-excavations-at-sitio-conte/"
+  }
+ },
+ {
+  "id": "m19-mayapan-collapse",
+  "era": "medieval",
+  "year": 1441,
+  "dateLabel": "1441–1461 CE",
+  "cat": "nature",
+  "title": "Drought and Feuds Topple Mayapán",
+  "place": "Mayapán, Yucatán, Mexico",
+  "lat": 20.63,
+  "lng": -89.46,
+  "text": "Mayapán was the largest Maya capital of Yucatán in the 1200s and 1300s. A 2022 study found that civil strife rose with drought between 1400 and 1450, as rival families fought. The city collapsed between 1441 and 1461; its final mass grave, at the foot of the Temple of K'uk'ulkan, held likely relatives of the ruling Cocom family.",
+  "source": {
+   "name": "Nature Communications (Kennett et al., 2022): Drought-induced civil conflict among the ancient Maya",
+   "url": "https://www.nature.com/articles/s41467-022-31522-x"
+  }
+ },
+ {
+  "id": "m19-balboa-sights-pacific",
+  "era": "exploration",
+  "year": 1513,
+  "dateLabel": "September 25 (or 27), 1513",
+  "cat": "journeys",
+  "title": "Balboa Sees the South Sea",
+  "place": "Darién, Isthmus of Panama, Panama",
+  "lat": 8.7,
+  "lng": -77.9,
+  "text": "Local people told the Spaniards of a sea to the south. On September 1, 1513, Vasco Núñez de Balboa set out with 190 Spaniards and hundreds of Indigenous porters, crossing jungles, rivers and swamps. From a peak in Darién he sighted the Pacific, the first European to see its eastern shore, then claimed the \"South Sea\" for Castile at the Gulf of San Miguel.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Benjamin Keen): Vasco Núñez de Balboa",
+   "url": "https://www.britannica.com/biography/Vasco-Nunez-de-Balboa"
+  }
+ },
+ {
+  "id": "m19-zacatecas-silver-town",
+  "era": "exploration",
+  "year": 1546,
+  "dateLabel": "1546",
+  "cat": "daily",
+  "title": "A Silver Town in a Narrow Valley",
+  "place": "Zacatecas, Zacatecas, Mexico",
+  "lat": 22.77,
+  "lng": -102.58,
+  "text": "Zacatecas was founded in 1546 after the discovery of a rich silver lode, on the steep slopes of a narrow valley. It became one of New Spain's most important mining towns. Its cathedral, built between 1730 and 1760, shows European and Indigenous decorative ideas side by side on its richly carved Baroque façades.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Historic Centre of Zacatecas",
+   "url": "https://whc.unesco.org/en/list/676"
+  }
+ },
+ {
+  "id": "m19-leon-cathedral",
+  "era": "exploration",
+  "year": 1747,
+  "dateLabel": "Begun 1747",
+  "cat": "culture",
+  "title": "A Cathedral Built for Earthquakes",
+  "place": "León, León Department, Nicaragua",
+  "lat": 12.43,
+  "lng": -86.88,
+  "text": "Work on León Cathedral began in 1747, to a design by Guatemalan architect Diego José de Porres Esquivel, and lasted into the early 19th century. Its low, thick towers were a response to earthquakes. Inside, plenty of natural light falls on a wooden Flemish altarpiece and on Stations of the Cross painted by Nicaraguan artist Antonio Sarria.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: León Cathedral",
+   "url": "https://whc.unesco.org/en/list/1236"
+  }
+ },
+ {
+  "id": "m19-antigua-santa-marta-earthquakes",
+  "era": "exploration",
+  "year": 1773,
+  "dateLabel": "1773",
+  "cat": "nature",
+  "title": "The Earthquakes That Moved a Capital",
+  "place": "Antigua Guatemala, Sacatepéquez, Guatemala",
+  "lat": 14.56,
+  "lng": -90.73,
+  "text": "For 230 years, Santiago de Guatemala in the Panchoy Valley survived floods, eruptions and tremors. Then in 1773 the Santa Marta earthquakes destroyed much of the town. The authorities moved the capital to a safer place, which became Guatemala City. Some residents stayed behind, and their old town became known as \"La Antigua Guatemala\", its principal monuments still preserved as ruins.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Antigua Guatemala",
+   "url": "https://whc.unesco.org/en/list/65"
+  }
+ },
+ {
+  "id": "m19-stephens-catherwood-copan",
+  "era": "industrial",
+  "year": 1839,
+  "dateLabel": "1839",
+  "cat": "discovery",
+  "title": "Fifty Dollars for a Maya City",
+  "place": "Copán, Copán Department, Honduras",
+  "lat": 14.84,
+  "lng": -89.15,
+  "text": "In 1839, US diplomat John Lloyd Stephens and English artist Frederick Catherwood pushed through civil war and dark jungle to Copán, where a magnificently carved stela stunned them. Stephens \"purchased\" the site for $50, and Catherwood drew its ruins. Their 1841 book and his drawings caused a storm of interest that launched the archaeology of Middle America.",
+  "source": {
+   "name": "Encyclopaedia Britannica: John Lloyd Stephens",
+   "url": "https://www.britannica.com/biography/John-Lloyd-Stephens"
+  }
+ },
+ {
+  "id": "m19-caste-war-yucatan",
+  "era": "industrial",
+  "year": 1847,
+  "dateLabel": "1847",
+  "cat": "power",
+  "title": "The Maya Rise in Yucatán",
+  "place": "Southeastern frontier of Yucatán, Mexico",
+  "lat": 20.2,
+  "lng": -88.4,
+  "text": "In 1847 a Maya uprising broke out on Yucatán's southeastern frontier, where commercial sugar was spreading. Led by Jacinto Pat and Cecilio Chi, the rebels by mid-1848 were on the verge of taking Mérida and Campeche, but went home for the planting season. Some, the Cruzob, kept an independent Maya state built around a Talking Cross until 1901.",
+  "source": {
+   "name": "Encyclopedia of Latin American History and Culture (Gilbert M. Joseph), via Encyclopedia.com: Caste War of Yucatán",
+   "url": "https://encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/caste-war-yucatan"
+  }
+ },
+ {
+  "id": "m19-walker-nicaragua",
+  "era": "industrial",
+  "year": 1856,
+  "dateLabel": "July 12, 1856",
+  "cat": "power",
+  "title": "Central America Unites Against Walker",
+  "place": "Nicaragua",
+  "lat": 11.93,
+  "lng": -85.96,
+  "text": "Invited by one Nicaraguan faction in 1855, American adventurer William Walker soon became virtual master of the country, a key shipping link between the oceans. On July 12, 1856, he made himself president. A coalition of Central American states fought him until he surrendered on May 1, 1857. Landing in Honduras in 1860, he was executed there.",
+  "source": {
+   "name": "Encyclopaedia Britannica: William Walker",
+   "url": "https://www.britannica.com/biography/William-Walker"
+  }
+ },
+ {
+  "id": "m19-santa-maria-eruption",
+  "era": "industrial",
+  "year": 1902,
+  "dateLabel": "October 24–25, 1902",
+  "cat": "nature",
+  "title": "Santa María Blasts Open",
+  "place": "Santa María volcano, Quetzaltenango, Guatemala",
+  "lat": 14.76,
+  "lng": -91.55,
+  "text": "After a long quiet spell, Guatemala's Santa María produced one of the 20th century's largest eruptions on October 24–25, 1902. Its explosions were heard in Costa Rica, ash rose 27–29 km high and fell as far as Mexico City, and much of the Pacific coastal plain went dark by day. It tore a 1.5-km-wide crater in the volcano's flank.",
+  "source": {
+   "name": "Smithsonian Institution Global Volcanism Program: Santa María",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=342030"
+  }
+ },
+ {
+  "id": "m19-chalcatzingo-el-rey",
+  "era": "modern",
+  "year": 1934,
+  "dateLabel": "1934",
+  "cat": "discovery",
+  "title": "Eulalia Guzmán Finds the Rain King",
+  "place": "Chalcatzingo, Jonacatepec, Morelos, Mexico",
+  "lat": 18.68,
+  "lng": -98.77,
+  "text": "In 1934, archaeologist Eulalia Guzmán travelled to the remote hamlet of Chalcatzingo to check reports of \"stones with reliefs\". On the hillside she recorded four carvings. The largest, nicknamed \"El Rey\" by villagers, shows a person seated in a cave-like niche beneath rain clouds and falling raindrops. Later excavations placed such carvings at about 700–500 BCE.",
+  "source": {
+   "name": "The PARI Journal (David C. Grove, University of Florida): Chalcatzingo: A Brief Introduction",
+   "url": "https://www.mesoweb.com/pari/journal/archive/PARI0901.pdf"
+  }
+ },
+ {
+  "id": "m19-costa-rica-abolishes-army",
+  "era": "modern",
+  "year": 1948,
+  "dateLabel": "1948",
+  "cat": "power",
+  "title": "Costa Rica Gives Up Its Army",
+  "place": "Cartago, Costa Rica",
+  "lat": 9.86,
+  "lng": -83.92,
+  "text": "When Costa Rica's legislature annulled the 1948 presidential election, coffee farmer José Figueres led an uprising using arms he had hidden on his farm near Cartago. The civil war lasted two months. Afterwards, a junta led by Figueres wrote a new constitution that abolished the army and gave women the right to vote.",
+  "source": {
+   "name": "Encyclopaedia Britannica: José Figueres Ferrer",
+   "url": "https://www.britannica.com/biography/Jose-Figueres-Ferrer"
+  }
+ },
+ {
+  "id": "m19-rigoberta-menchu-nobel",
+  "era": "modern",
+  "year": 1992,
+  "dateLabel": "1992",
+  "cat": "power",
+  "title": "Rigoberta Menchú Wins the Peace Prize",
+  "place": "Northern highlands, El Quiché, Guatemala",
+  "lat": 15.35,
+  "lng": -90.87,
+  "text": "Born in 1959 into a poor K'iche' Maya family, Rigoberta Menchú picked coffee on big plantations as a child. In 1979 the army killed her brother; her father died in 1980 when security forces stormed the Spanish Embassy, and her mother died soon after. She fled to Mexico in 1981, told her story to the world, and won the 1992 Nobel Peace Prize.",
+  "source": {
+   "name": "NobelPrize.org: Rigoberta Menchú Tum, Biographical",
+   "url": "https://www.nobelprize.org/prizes/peace/1992/tum/biographical/"
+  }
+ },
+ {
+  "id": "m19-mosquitia-lost-city",
+  "era": "modern",
+  "year": 2015,
+  "dateLabel": "2015",
+  "cat": "discovery",
+  "title": "A Lost City Under the Rainforest",
+  "place": "La Mosquitia, Gracias a Dios, Honduras",
+  "lat": 15.25,
+  "lng": -84.95,
+  "text": "In 2012, laser scans from a plane revealed earthworks and ceremonial buildings hidden under Honduras's Mosquitia rainforest. In 2015, Honduran and American archaeologists reached the site and found plazas, an earthen pyramid and a cache of over 50 carved stone objects, including a \"were-jaguar\" head. The culture that built the city thrived about 1,000 years ago, and still has no name.",
+  "source": {
+   "name": "National Geographic (Douglas Preston): Exclusive: Lost City Discovered in the Honduran Rain Forest",
+   "url": "https://www.nationalgeographic.com/news/2015/03/150302-honduras-lost-city-monkey-god-maya-ancient-archaeology/"
+  }
+ }
+]

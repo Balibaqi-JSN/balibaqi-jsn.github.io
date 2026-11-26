@@ -1,0 +1,1152 @@
+[
+ {
+  "id": "r3c-siberian-traps",
+  "era": "deep",
+  "year": -250000000,
+  "dateLabel": "About 252–250 million years ago",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "Siberia's Lava Floods and the Great Dying",
+  "place": "Putorana Plateau, Russia",
+  "lat": 67,
+  "lng": 90,
+  "text": "For roughly a million years, gigantic eruptions poured lava across Siberia, building the rocks now called the Siberian Traps. They are the main suspect for the end-Permian extinction about 252 million years ago, when more than 96 percent of sea species and 70 percent of land species vanished. The layered basalt still forms the canyon-cut Putorana Plateau.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "MIT News (Burgess & Bowring, Science Advances 2015)",
+   "url": "https://news.mit.edu/2015/siberian-traps-end-permian-extinction-0916"
+  },
+  "source2": {
+   "name": "IUCN World Heritage Outlook: Putorana Plateau",
+   "url": "https://worldheritageoutlook.iucn.org/explore-sites/putorana-plateau"
+  }
+ },
+ {
+  "id": "r3c-kulindadromeus",
+  "era": "deep",
+  "year": -167000000,
+  "dateLabel": "About 167 million years ago",
+  "emoji": "🪶",
+  "cat": "discovery",
+  "title": "A Fuzzy Dinosaur From Siberia",
+  "place": "Kulinda, Zabaykalsky Krai, Russia",
+  "lat": 52.6,
+  "lng": 117.2,
+  "text": "Kulindadromeus, the 'Kulinda runner', lived in Siberia between 168 and 166 million years ago. Volcanic ash preserved it so well that scientists could see both scales and feather-like fuzz on its body. That was a big surprise, because it sits far from the bird branch of the dinosaur family tree, hinting that simple 'protofeathers' may have been common to many dinosaurs.",
+  "collections": [
+   "dinosaur-hunter"
+  ],
+  "source": {
+   "name": "Cincotta et al. 2019, PeerJ 7:e6239 (Royal Belgian Institute of Natural Sciences), 'The rise of feathered dinosaurs: Kulindadromeus zabaikalicus, the oldest dinosaur with feather-like structures'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6361000/"
+  }
+ },
+ {
+  "id": "r3c-baikal-opens",
+  "era": "deep",
+  "year": -25000000,
+  "dateLabel": "About 25 million years ago",
+  "emoji": "💧",
+  "cat": "nature",
+  "title": "Lake Baikal Begins to Open",
+  "place": "Lake Baikal, Russia",
+  "lat": 53.5,
+  "lng": 108,
+  "text": "Lake Baikal in south-east Siberia is the oldest lake in the world, about 25 million years old, and also the deepest, at about 1,700 metres. It holds around 20 percent of all the unfrozen fresh water on Earth. Its great age and isolation have produced one of the richest and most unusual collections of freshwater animals anywhere.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Lake Baikal)",
+   "url": "https://whc.unesco.org/en/list/754"
+  }
+ },
+ {
+  "id": "r3c-dyuktai-cave",
+  "era": "iceage",
+  "year": -12000,
+  "dateLabel": "About 14,000 years ago",
+  "emoji": "🪨",
+  "cat": "discovery",
+  "title": "Toolmakers of Frozen Yakutia",
+  "place": "Dyuktai Cave, Sakha Republic, Russia",
+  "lat": 59.29,
+  "lng": 132.61,
+  "text": "In 1967 archaeologist Yuri Mochanov began digging a cave above Siberia's Dyuktai River and found stone tools, bone artifacts and stone beads left by Ice Age hunters. Their leaf-shaped stone points, carefully flaked on both sides, look strikingly like early tools in North America, so the Dyuktai finds are used as clues to how people moved between Asia and the Americas.",
+  "collections": [
+   "becoming-human",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "Gómez Coutouly 2016, Antiquity 90, 'Migrations and interactions in prehistoric Beringia: the evolution of Yakutian lithic technology'",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/migrations-and-interactions-in-prehistoric-beringia-the-evolution-of-yakutian-lithic-technology/A3AB32E57F1B9513A21E639CFEBD9F9E"
+  },
+  "source2": {
+   "name": "Science Advances 2018, 'Current evidence allows multiple models for the peopling of the Americas'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6082647/"
+  }
+ },
+ {
+  "id": "r3c-sarazm",
+  "era": "ancient",
+  "year": -3400,
+  "dateLabel": "4th millennium BCE",
+  "emoji": "🏘️",
+  "cat": "daily",
+  "title": "Sarazm, Where the Land Begins",
+  "place": "Sarazm, Sughd, Tajikistan",
+  "lat": 39.51,
+  "lng": 67.46,
+  "text": "Sarazm, whose name means 'where the land begins', is one of the oldest settlements in Central Asia, lived in from the 4th millennium BCE to the end of the 3rd. It grew up between mountain pastures and a wide valley suited to farming and irrigation. Its people traded across a huge area, from the Central Asian steppes to the Iranian Plateau and the Indus valley.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1141"
+  }
+ },
+ {
+  "id": "r3c-afanasievo",
+  "era": "ancient",
+  "year": -3000,
+  "dateLabel": "About 3000 BCE",
+  "emoji": "🐄",
+  "cat": "journeys",
+  "title": "Steppe Migrants Reach the Altai",
+  "place": "Minusinsk Basin, Khakassia, Russia",
+  "lat": 54.61,
+  "lng": 90.96,
+  "text": "Around 3000 BCE, herders of the Afanasievo culture lived in the Altai Mountains and the Upper Yenisei region of southern Siberia. Their DNA links them to the Yamnaya people of the Pontic-Caspian steppe, far to the west, and their graves turn up as far as central Mongolia. They seem to have brought dairy herding to the eastern steppe.",
+  "source": {
+   "name": "Cell via PubMed Central (Jeong et al. 2020)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7664836/"
+  }
+ },
+ {
+  "id": "r3c-wrangel-mammoths",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 2000 BCE",
+  "emoji": "🦣",
+  "cat": "nature",
+  "title": "The Last Mammoths of Wrangel Island",
+  "place": "Wrangel Island, Russia",
+  "lat": 71.23,
+  "lng": -179.42,
+  "text": "Mammoths vanished from mainland Eurasia and North America around 10,000 years ago, but a small herd held on far out in the Arctic Ocean on Wrangel Island. Radiocarbon-dated bones show they survived until about 2000 BCE, several centuries after the Great Pyramid of Giza was built. Living cut off in small numbers, they built up genetic defects.",
+  "collections": [
+   "beasts-through-time",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "PLOS Genetics (Rogers & Slatkin 2017)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5333797/"
+  },
+  "source2": {
+   "name": "Cell (Dehasque et al. 2024)",
+   "url": "https://doi.org/10.1016/j.cell.2024.05.033"
+  }
+ },
+ {
+  "id": "r3c-okunev-steles",
+  "era": "ancient",
+  "year": -2200,
+  "dateLabel": "About 2200 BCE",
+  "emoji": "🗿",
+  "cat": "culture",
+  "title": "The Stone Faces of the Yenisei",
+  "place": "Minusinsk Basin, Khakassia, Russia",
+  "lat": 53.7,
+  "lng": 91.7,
+  "text": "Early Bronze Age people of the Okunev culture lived in the Minusinsk Basin of southern Siberia. On tall stone stelae, some found at their burial grounds, they carved mysterious masked faces, perhaps of a sun god, some with three eyes. New Okunev art is still being found, such as a mask-like face painted in red ochre on a rock in Khakassia.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Ministry of Culture of the Russian Federation, ARTEFACT museum guide: 'Stela depicting a schematic mask', Khakassia National Museum of Local History",
+   "url": "https://ar.culture.ru/en/subject/60-stela-s-izobrazheniem-shematicheskoy-lichiny"
+  },
+  "source2": {
+   "name": "TASS, 'Unique 4,000-year-old rock art discovered in Siberia' (Okunev panel at Sorsk Pillars, Khakassia)",
+   "url": "https://tass.com/science/2147267"
+  }
+ },
+ {
+  "id": "r3c-andronovo",
+  "era": "ancient",
+  "year": -1700,
+  "dateLabel": "2nd millennium BCE",
+  "emoji": "🐂",
+  "cat": "daily",
+  "title": "The Andronovo Herders",
+  "place": "Andronovo, Krasnoyarsk Krai, Russia",
+  "lat": 55.3,
+  "lng": 89.8,
+  "text": "Across western Siberia and Kazakhstan, Bronze Age communities shared a way of life archaeologists call the Andronovo culture. They lived in earth huts, grew crops and raised cattle, sheep and horses, and decorated their flat-bottomed pots with geometric patterns. Scholars link them to the Indo-Iranian branch of peoples.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Andronovo-culture"
+  }
+ },
+ {
+  "id": "r3c-tomyris",
+  "era": "ancient",
+  "year": -530,
+  "dateLabel": "530 BCE",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "Queen Tomyris Defeats Cyrus the Great",
+  "place": "Massagetae steppe, Turkmenistan",
+  "lat": 40,
+  "lng": 57,
+  "text": "Tomyris was queen of the Massagetae, nomads of the Central Asian steppe, and her story comes from the Greek historian Herodotus. He says she refused a marriage offer from Persia's Cyrus the Great, who then invaded, and that her army defeated and killed him, about 530 BCE. Other ancient writers told different versions of his death. Later painters such as Rubens loved to show her with Cyrus's head.",
+  "collections": [
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "Fordham University Internet Ancient History Sourcebook (Herodotus, Histories I.201-214)",
+   "url": "https://sourcebooks.fordham.edu/ancient/tomyris.asp"
+  },
+  "source2": {
+   "name": "Royal Collection Trust",
+   "url": "https://col.rct.uk/collection/402606/the-head-of-cyrus-brought-to-queen-tomyris"
+  }
+ },
+ {
+  "id": "r3c-ukok-ice-maiden",
+  "era": "classical",
+  "year": -450,
+  "dateLabel": "5th century BCE",
+  "emoji": "❄️",
+  "cat": "discovery",
+  "title": "The Ice Maiden's Deer Tattoos",
+  "place": "Ukok Plateau, Altai Republic, Russia",
+  "lat": 49.3,
+  "lng": 87.56,
+  "text": "In the 5th century BCE, a young woman of the Pazyryk culture was buried in a log chamber high on Siberia's Ukok Plateau, with six horses laid beside it. Ice formed inside the tomb and preserved her for about 2,400 years. When archaeologists opened it in 1993, her skin still showed animal-style tattoos of deer-like creatures on her shoulder, arm and thumb.",
+  "collections": [
+   "lost-and-found",
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "PBS NOVA, 'Ice Mummies: Siberian Ice Maiden' (transcript)",
+   "url": "https://www.pbs.org/wgbh/nova/transcripts/2517siberian.html"
+  }
+ },
+ {
+  "id": "r3c-roxana",
+  "era": "classical",
+  "year": -327,
+  "dateLabel": "327 BCE",
+  "emoji": "💍",
+  "cat": "power",
+  "title": "Roxana Marries Alexander",
+  "place": "Sogdiana, Uzbekistan",
+  "lat": 38.9,
+  "lng": 67,
+  "text": "Roxana, a daughter of the Bactrian noble Oxyartes, was captured when Alexander the Great took a mountain fortress in Sogdiana, and in spring 327 BCE she married him in a full Macedonian ceremony. Plutarch says Alexander fell in love when he saw her dancing at a banquet, but adds that the match also suited his plans, winning goodwill among the peoples he had conquered.",
+  "collections": [
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "Plutarch, Life of Alexander 47 (Loeb translation, LacusCurtius, University of Chicago)",
+   "url": "http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Lives/Alexander*/6-7.html"
+  },
+  "source2": {
+   "name": "Arrian, Anabasis 4.19 (de Sélincourt trans.), via Livius.org",
+   "url": "https://www.livius.org/sources/content/arrian/anabasis/alexander-captures-the-sogdian-rock/"
+  }
+ },
+ {
+  "id": "r3c-issyk-golden-man",
+  "era": "classical",
+  "year": -350,
+  "dateLabel": "About 400–300 BCE",
+  "emoji": "🥇",
+  "cat": "discovery",
+  "title": "The Golden Man of Issyk",
+  "place": "Issyk, Almaty Region, Kazakhstan",
+  "lat": 43.33,
+  "lng": 77.62,
+  "text": "In a Saka burial mound about 50 km east of Almaty, a young person was laid to rest in a wooden chamber with an iron sword and dagger and more than 4,000 gold ornaments. Found in 1969, the dazzling outfit earned the nickname 'Golden Man'. Radiocarbon dating places the burial at about 400 to 300 BCE, and ancient DNA now suggests he was probably male, settling a long debate.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "The British Academy (Hermann Parzinger, Albert Reckitt Archaeological Lecture 2016)",
+   "url": "https://www.thebritishacademy.ac.uk/documents/1002/12_Parzinger_1836_Final_0.pdf"
+  },
+  "source2": {
+   "name": "The Fitzwilliam Museum, University of Cambridge ('Gold of the Great Steppe' exhibition labels)",
+   "url": "https://steppe-gold.fitzmuseum.cam.ac.uk/resources/labels"
+  }
+ },
+ {
+  "id": "r3c-ai-khanoum",
+  "era": "classical",
+  "year": -280,
+  "dateLabel": "Early 3rd century BCE",
+  "emoji": "🏛️",
+  "cat": "culture",
+  "title": "A Greek City on the Oxus",
+  "place": "Ai-Khanoum, Takhar, Afghanistan",
+  "lat": 37.16,
+  "lng": 69.41,
+  "text": "Where the Amu Darya (the ancient Oxus) meets the Kokcha River, the Seleucid king Antiochus I founded a Greek city in the early 3rd century BCE. It reached its final form under the Greco-Bactrian king Eucratides, with a huge palace, a colossal gymnasium, and a mud-brick theatre as large as Babylon's. Locals call the ruins Ai-Khanoum, 'Lady Moon'.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "American Journal of Archaeology 118.2 (2014), L. Martinez-Sève, 'The Spatial Organization of Ai Khanoum' (abstract)",
+   "url": "https://www.ajaonline.org/article/1765"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica, 'ĀY ḴĀNOM' (P. Bernard)",
+   "url": "https://www.iranicaonline.org/articles/ay-kanom-or-a-khanum-tepe-a-local-uzbek-name-lit/"
+  }
+ },
+ {
+  "id": "r3c-noin-ula",
+  "era": "classical",
+  "year": 13,
+  "dateLabel": "About 13 CE",
+  "emoji": "⚱️",
+  "cat": "culture",
+  "title": "The Xiongnu Tombs of Noin-Ula",
+  "place": "Noin-Ula, Töv Province, Mongolia",
+  "lat": 48.39,
+  "lng": 106.75,
+  "text": "In hills north of today's Ulaanbaatar lie the burial mounds of Xiongnu nobles; one held a Chinese lacquer cup dated 13 CE. A worker for a gold-mining company stumbled on them by chance in 1912. Inside were Chinese silks and lacquerware, felt carpets, and woollen textiles made as far away as Parthia, carried along the Silk Road.",
+  "collections": [
+   "silk-road",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Central Asian arts: Visual arts' (Mongolian Huns)",
+   "url": "https://www.britannica.com/art/Central-Asian-arts/Visual-arts"
+  },
+  "source2": {
+   "name": "Science First Hand (SB RAS), 'The Kurgan for the Moon-faced'",
+   "url": "https://scfh.ru/en/papers/the-kurgan-for-the-moon-faced/"
+  }
+ },
+ {
+  "id": "r3c-rabatak",
+  "era": "classical",
+  "year": 130,
+  "dateLabel": "2nd century CE",
+  "emoji": "🪧",
+  "cat": "culture",
+  "title": "Kanishka's Stone, in Greek Letters",
+  "place": "Rabatak, Baghlan, Afghanistan",
+  "lat": 36.15,
+  "lng": 68.4,
+  "text": "In 1993, a stone carved for the Kushan emperor Kanishka was found by chance at Rabatak in northern Afghanistan, written in the Bactrian language using Greek letters. Scholars in London, Nicholas Sims-Williams and Joe Cribb of the British Museum, realised it named four Kushan kings. The text may even boast that Kanishka swapped Greek for the local 'Aryan' language.",
+  "collections": [
+   "scripts-and-alphabets",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Encyclopaedia Iranica, 'Kushan Dynasty ii. Inscriptions of the Kushans'",
+   "url": "https://www.iranicaonline.org/articles/kushan-02-inscriptions/"
+  },
+  "source2": {
+   "name": "N. Sims-Williams (SOAS), 'New Light on Ancient Afghanistan: The Decipherment of Bactrian' (lecture, hosted by Univ. of Tokyo)",
+   "url": "https://gengo.l.u-tokyo.ac.jp/hkum/bactrian.html"
+  }
+ },
+ {
+  "id": "r3c-gokturk-khaganate",
+  "era": "medieval",
+  "year": 552,
+  "dateLabel": "552",
+  "emoji": "🐺",
+  "cat": "power",
+  "title": "The Metalworkers Who Built an Empire",
+  "place": "Altai Mountains, Mongolia",
+  "lat": 48,
+  "lng": 90.5,
+  "text": "The Türks lived inside the empire of the Rouran, their overlords, and seem to have specialized in metalworking. In 552 their leader Bumin rebelled and, allied with the Wei dynasty of northern China, destroyed the Rouran. His Türk empire soon stretched from China's borders to Byzantium's, and the Türks were the first people known to have spoken a Turkic language.",
+  "collections": [
+   "silk-road"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (History of Central Asia: The Middle Ages)",
+   "url": "https://www.britannica.com/place/history-of-Central-Asia-102306/The-Middle-Ages"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Juan-juan'",
+   "url": "https://www.britannica.com/topic/Juan-juan"
+  }
+ },
+ {
+  "id": "r3c-afrasiab-murals",
+  "era": "medieval",
+  "year": 650,
+  "dateLabel": "Mid-7th century",
+  "emoji": "🎨",
+  "cat": "culture",
+  "title": "The Painting of the Ambassadors",
+  "place": "Afrasiyab, Samarkand, Uzbekistan",
+  "lat": 39.67,
+  "lng": 66.99,
+  "text": "In the mid-600s, a grand Sogdian house in Samarkand had a room painted with scenes of the wider world: a Chinese lady in a boat, perhaps a princess or an empress, what many scholars read as a Nowruz procession, and Turkic soldiers guiding ambassadors from lands including China and Korea. The murals were found in 1965, when local officials pushed a road through the old city mound.",
+  "collections": [
+   "masterpieces",
+   "silk-road"
+  ],
+  "source": {
+   "name": "Encyclopaedia Iranica (M. Compareti, 'Afrasiab ii. Wall Paintings')",
+   "url": "https://www.iranicaonline.org/articles/afrasiab-ii-wall-paintings-2/"
+  }
+ },
+ {
+  "id": "r3c-orkhon-inscriptions",
+  "era": "medieval",
+  "year": 735,
+  "dateLabel": "Early 8th century",
+  "emoji": "🐢",
+  "cat": "culture",
+  "title": "Turkic Words Carved in Stone",
+  "place": "Khöshöö Tsaidam, Orkhon Valley, Mongolia",
+  "lat": 47.56,
+  "lng": 102.84,
+  "text": "Two tall stone memorials in Mongolia's Orkhon Valley honour the Turkic brothers Bilge Qaghan and Kul Tigin. Raised in 732 and 735, they tell the Turks' history in the Old Turkic alphabet, the oldest surviving Turkic writing, with a separate text in Chinese on one side. Found in 1889, the mysterious script was cracked in 1893 by the Danish scholar Vilhelm Thomsen.",
+  "collections": [
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Orhon inscriptions)",
+   "url": "https://www.britannica.com/topic/Orhon-inscriptions"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre (Orkhon Valley Cultural Landscape)",
+   "url": "https://whc.unesco.org/en/list/1081"
+  }
+ },
+ {
+  "id": "r3c-samanid-mausoleum",
+  "era": "medieval",
+  "year": 925,
+  "dateLabel": "10th century",
+  "emoji": "🕌",
+  "cat": "culture",
+  "title": "Bukhara's Brick-Lace Tomb",
+  "place": "Samanid Mausoleum, Bukhara, Uzbekistan",
+  "lat": 39.78,
+  "lng": 64.4,
+  "text": "Built in the 10th century for the Samanid dynasty, this small tomb is one of the earliest known secular mausoleums in the Islamic world. Its baked bricks do two jobs at once, holding up the dome and forming woven-looking patterns, the first time Central Asian builders used brick so fully. It still stands, though the Mongols destroyed Bukhara in 1220.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "Archnet (Aga Khan Documentation Center, MIT), 'Ismoil Somoniy Maqbarasi'",
+   "url": "https://www.archnet.org/sites/2121"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Historic Centre of Bukhara (via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/602"
+  }
+ },
+ {
+  "id": "r3c-avicenna-bukhara",
+  "era": "medieval",
+  "year": 997,
+  "dateLabel": "About 997",
+  "emoji": "🩺",
+  "cat": "discovery",
+  "title": "The Teenage Court Doctor of Bukhara",
+  "place": "Bukhara, Uzbekistan",
+  "lat": 39.77,
+  "lng": 64.42,
+  "text": "Ibn Sina, known in Europe as Avicenna, grew up in Bukhara, the Samanid capital, and had memorised the entire Quran by age 10. At about 17 he entered the service of the Samanid ruler Nuh II as a physician. His later Canon of Medicine became a standard textbook at European universities, and some, like Padua and Salamanca, still required it in the 1700s.",
+  "collections": [
+   "books-and-bright-minds",
+   "plagues-and-cures"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Avicenna'",
+   "url": "https://www.britannica.com/biography/Avicenna"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica, 'Avicenna ii. Biography' and 'xiii. Influence on medical studies in the West'",
+   "url": "https://www.iranicaonline.org/articles/avicenna-ii/"
+  }
+ },
+ {
+  "id": "r3c-otrar-caravan",
+  "era": "medieval",
+  "year": 1218,
+  "dateLabel": "1218",
+  "emoji": "🐫",
+  "cat": "power",
+  "title": "The Caravan That Unleashed the Mongols",
+  "place": "Otrar, Turkistan Region, Kazakhstan",
+  "lat": 42.85,
+  "lng": 68.3,
+  "text": "In 1218 a Mongol trade caravan of around 450 men reached Otrar, a Silk Road oasis town near the Syr Darya. Its governor, Inalchuq, called them spies and had the whole caravan killed. When the Khwarazmian sultan then put to death an envoy Genghis Khan sent to complain, the Mongols invaded, besieging Otrar for nearly five months and destroying its citadel.",
+  "collections": [
+   "silk-road"
+  ],
+  "source": {
+   "name": "E-history.kz (official History of Kazakhstan portal)",
+   "url": "https://e-history.kz/en/news/show/7150"
+  }
+ },
+ {
+  "id": "r3c-karakorum-silver-tree",
+  "era": "medieval",
+  "year": 1254,
+  "dateLabel": "1254",
+  "emoji": "🌳",
+  "cat": "culture",
+  "title": "The Silver Drinks Tree of Karakorum",
+  "place": "Karakorum, Mongolia",
+  "lat": 47.21,
+  "lng": 102.85,
+  "text": "The Mongol capital had a show-stopping centrepiece: a silver tree, designed by an enslaved Parisian goldsmith, that poured drinks for the khan's guests. The Flemish friar William of Rubruck saw it in 1254 and described a city with mosques, a church and a dozen temples. He sniffed that a French abbey was ten times grander than the palace.",
+  "collections": [
+   "masterpieces",
+   "silk-road"
+  ],
+  "source": {
+   "name": "Silk Road Seattle, University of Washington (William of Rubruck's account, trans. Rockhill)",
+   "url": "https://depts.washington.edu/silkroad/texts/rubruck.html"
+  }
+ },
+ {
+  "id": "r3c-hvalsey-wedding",
+  "era": "medieval",
+  "year": 1408,
+  "dateLabel": "September 1408",
+  "emoji": "💒",
+  "cat": "daily",
+  "title": "The Last Wedding in Norse Greenland",
+  "place": "Hvalsey, near Qaqortoq, Greenland",
+  "lat": 60.83,
+  "lng": -45.78,
+  "text": "In September 1408, Thorstein Olafsson and Sigrid Björnsdóttir married in the stone church at Hvalsey, Greenland. Letters about their wedding are the last written record of the Norse Greenlanders; after that, the colony fades from history. The couple settled in Iceland, and the roofless church still stands as the best-preserved Norse ruin in Greenland.",
+  "collections": [
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "University of Houston, Engines of Our Ingenuity, Episode 2091 'Hvalsey Church'",
+   "url": "https://engines.egr.uh.edu/episode/2091"
+  },
+  "source2": {
+   "name": "ABC News, 'Archaeologists Find Clues to Viking Mystery'",
+   "url": "https://abcnews.com/International/archaeologists-find-clues-viking-mystery/story?id=18183196"
+  }
+ },
+ {
+  "id": "r3c-babur-ferghana",
+  "era": "exploration",
+  "year": 1494,
+  "dateLabel": "1494",
+  "emoji": "🕊️",
+  "cat": "power",
+  "title": "An 11-Year-Old King in Ferghana",
+  "place": "Akhsikath, Namangan, Uzbekistan",
+  "lat": 40.89,
+  "lng": 71.45,
+  "text": "Babur's father, ruler of the Ferghana Valley, died at the fort of Akhsi when his dovecote, pigeons and all, toppled into a ravine. In 1494 his 11-year-old son took the throne and at once faced invading armies led by his own uncles. Babur won and lost Samarkand, wandered for years, and later founded the Mughal Empire in India, telling it all in his Turkic memoir, the Baburnama.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Babur)",
+   "url": "https://www.britannica.com/biography/Babur"
+  },
+  "source2": {
+   "name": "Project Gutenberg: The Babur-nama in English, tr. A. S. Beveridge (1922)",
+   "url": "https://www.gutenberg.org/ebooks/44608"
+  }
+ },
+ {
+  "id": "r3c-yermak-sibir",
+  "era": "exploration",
+  "year": 1582,
+  "dateLabel": "1582",
+  "emoji": "⚔️",
+  "cat": "power",
+  "title": "Yermak Storms the Khanate of Sibir",
+  "place": "Qashliq, near Tobolsk, Russia",
+  "lat": 58.11,
+  "lng": 68.4,
+  "text": "Hired by the wealthy Stroganov merchant family, the Cossack leader Yermak set out in 1581 with about 840 men against the Tatar Khanate of Sibir. In 1582 his gun-armed men beat Khan Kuchum's larger army and took its capital, Qashliq, beginning Russia's conquest of Siberia, where fur traders and trappers soon followed. He later drowned, reportedly dragged down by chain mail sent by the tsar.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Yermak Timofeyevich)",
+   "url": "https://www.britannica.com/biography/Yermak-Timofeyevich"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Siberia, History)",
+   "url": "https://www.britannica.com/place/Siberia/History"
+  }
+ },
+ {
+  "id": "r3c-barentsz-saved-house",
+  "era": "exploration",
+  "year": 1596,
+  "dateLabel": "1596–1597",
+  "emoji": "🐻‍❄️",
+  "cat": "journeys",
+  "title": "A Winter in 'The Saved House'",
+  "place": "Novaya Zemlya, Russia",
+  "lat": 76.2,
+  "lng": 68.3,
+  "text": "Hunting for a sea route to Asia across the Arctic, Willem Barentsz's ship got stuck in the ice off Novaya Zemlya in 1596. The 17-man crew built a lodge of driftwood and ship's timbers they called the Saved House, and lived through the winter on salted beef and fox meat. Barentsz died on the way home, but in 1871 a Norwegian seal hunter found the house.",
+  "collections": [
+   "great-voyages",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Willem Barents)",
+   "url": "https://www.britannica.com/biography/Willem-Barents"
+  },
+  "source2": {
+   "name": "Arctic 48(3), 1995 (L. Hacquebord, 'In Search of Het Behouden Huys'), University of Calgary",
+   "url": "https://pubs.aina.ucalgary.ca//arctic/Arctic48-3-248.pdf"
+  }
+ },
+ {
+  "id": "r3c-sherdar-madrasa",
+  "era": "exploration",
+  "year": 1636,
+  "dateLabel": "1619–1636",
+  "emoji": "🐅",
+  "cat": "culture",
+  "title": "Tigers on a Samarkand School",
+  "place": "Registan, Samarkand, Uzbekistan",
+  "lat": 39.65,
+  "lng": 66.98,
+  "text": "Between 1619 and 1636, the military commander Yalangtush Bahadur built the Sherdar Madrasa, an Islamic school, on Samarkand's Registan square opposite the older madrasa of Ulugh Beg. Its name refers to the bold tiger-lion mosaics on its façade, shown with a blazing sun. Covered in colourful tiles and painted plants, it is one of Samarkand's most famous sights.",
+  "collections": [
+   "masterpieces",
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "Archnet (Aga Khan Documentation Center, MIT): Shir Dar Madrasa",
+   "url": "https://www.archnet.org/sites/2146"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Samarkand / Rigestan Square)",
+   "url": "https://www.britannica.com/place/Rigestan-Square"
+  }
+ },
+ {
+  "id": "r3c-remezov-atlas",
+  "era": "exploration",
+  "year": 1700,
+  "dateLabel": "About 1700",
+  "emoji": "🗺️",
+  "cat": "culture",
+  "title": "Siberia Mapped Upside Down",
+  "place": "Tobolsk, Russia",
+  "lat": 58.2,
+  "lng": 68.25,
+  "text": "Working in Tobolsk around 1700, the architect Semyon Remezov drew three manuscript atlases of Siberia, one commissioned by Tsar Peter I in 1696. In the Muscovite mapping tradition, he built his maps around river systems with no coordinate grid, so south is often at the top. One historian estimates he drew some 80 percent of that century's surviving Siberian maps.",
+  "source": {
+   "name": "Davis Center for Russian and Eurasian Studies, Harvard University: 'Siberia Through 17th-Century Eyes'",
+   "url": "https://daviscenter.fas.harvard.edu/insights/siberia-through-17th-century-eyes"
+  },
+  "source2": {
+   "name": "Houghton Library, Harvard University: 'Early Maps of Siberia Digitized'",
+   "url": "https://sites.harvard.edu/houghton-library/?p=830"
+  }
+ },
+ {
+  "id": "r3c-steller-sea-cow",
+  "era": "exploration",
+  "year": 1741,
+  "dateLabel": "1741",
+  "emoji": "🐋",
+  "cat": "nature",
+  "title": "The Sea Cow Gone in 27 Years",
+  "place": "Bering Island, Commander Islands, Russia",
+  "lat": 55,
+  "lng": 166.25,
+  "text": "Shipwrecked on Bering Island with Vitus Bering's expedition in 1741, naturalist Georg Steller described a giant cousin of the dugong, up to 10 metres long, that munched kelp and breathed with loud snorts. Unafraid of boats, it was hunted for its meat and fat, and within 27 years of its European discovery it was extinct.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Natural History Museum, London: Steller's sea cow",
+   "url": "https://www.nhm.ac.uk/discover/stellers-sea-cow-first-historical-extinction-of-marine-mammal-at-human-hands.html"
+  },
+  "source2": {
+   "name": "National Geographic, 'The 30-foot sea cow quickly hunted to extinction because of its tasty meat'",
+   "url": "https://www.nationalgeographic.com/history/article/stellers-sea-cow-30-foot-hunted-extinction"
+  }
+ },
+ {
+  "id": "r3c-cook-antarctic-circle",
+  "era": "exploration",
+  "year": 1773,
+  "dateLabel": "January 17, 1773",
+  "emoji": "🧭",
+  "cat": "journeys",
+  "title": "First Ship Across the Antarctic Circle",
+  "place": "Southern Ocean, south of Africa",
+  "lat": -66.6,
+  "lng": 39.6,
+  "text": "Just before noon on 17 January 1773, James Cook's Resolution became the first ship to sail south of the Antarctic Circle. Cook was hunting for Terra Australis, a rumoured giant southern continent. He later pushed to 71° South and swept across the Pacific, proving no such land lay in temperate waters, though he predicted land beyond the ice.",
+  "collections": [
+   "great-voyages",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "Captain Cook Society: The Second Voyage",
+   "url": "https://www.captaincooksociety.com/cooks-life/overview/the-second-voyage"
+  },
+  "source2": {
+   "name": "Royal Museums Greenwich: History of Antarctic explorers",
+   "url": "https://www.rmg.co.uk/stories/maritime-history/history-antarctic-explorers"
+  }
+ },
+ {
+  "id": "r3c-adams-mammoth",
+  "era": "exploration",
+  "year": 1799,
+  "dateLabel": "1799",
+  "emoji": "🦣",
+  "cat": "discovery",
+  "title": "A Mammoth With Its Skin Still On",
+  "place": "Bykovsky Peninsula, Lena Delta, Russia",
+  "lat": 71.8,
+  "lng": 129.1,
+  "text": "In 1799 Ossip Shumachov, a Tungus chief, found a frozen woolly mammoth in Siberia's Lena River delta. In 1806 the botanist Mikhail Adams recovered its skeleton, much of its skin and more than one pood (about 40 pounds) of hair, writing that no scientist had yet examined a mammoth with its flesh and hair. In St Petersburg its substitute tusks were mounted on the wrong sides.",
+  "collections": [
+   "beasts-through-time",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Linda Hall Library: Scientist of the Day, Mikhail Adams",
+   "url": "https://www.lindahall.org/about/news/scientist-of-the-day/mikhail-adams/"
+  },
+  "source2": {
+   "name": "M. Adams, 'Some account of a journey to the Frozen Sea, and of the discovery of the remains of a mammoth', Philosophical Magazine 29 (1807), via Zenodo",
+   "url": "https://zenodo.org/record/1578188"
+  }
+ },
+ {
+  "id": "r3c-franklin-lost",
+  "era": "industrial",
+  "year": 1845,
+  "dateLabel": "1845",
+  "emoji": "🚢",
+  "cat": "journeys",
+  "title": "Franklin's Ships Vanish in the Ice",
+  "place": "King William Island, Nunavut, Canada",
+  "lat": 68.9,
+  "lng": -98.9,
+  "text": "In 1845 Sir John Franklin sailed from England with two ships and 129 men to chart the last gaps in the Northwest Passage. Both ships became trapped in ice near King William Island, and no one came home. Inuit accounts helped searchers piece together the tragedy, and the wrecks of Erebus and Terror were finally found in 2014 and 2016.",
+  "collections": [
+   "great-voyages",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "Parks Canada, Wrecks of HMS Erebus and HMS Terror NHS, Franklin's 1845 expedition",
+   "url": "https://parks.canada.ca/lhn-nhs/nu/epaveswrecks/culture/histoire-history/expedition"
+  },
+  "source2": {
+   "name": "Parks Canada, Wrecks of HMS Erebus and HMS Terror NHS, History",
+   "url": "https://www.parks.canada.ca/lhn-nhs/nu/epaveswrecks/culture/histoire-history"
+  }
+ },
+ {
+  "id": "r3c-khiva-1873",
+  "era": "industrial",
+  "year": 1873,
+  "dateLabel": "1873",
+  "emoji": "🏜️",
+  "cat": "power",
+  "title": "Russia Takes the Desert Khanate of Khiva",
+  "place": "Khiva, Uzbekistan",
+  "lat": 41.38,
+  "lng": 60.36,
+  "text": "Khiva, an oasis city on the edge of the Qaraqum desert, had beaten Russia twice: in 1717 a Russian army was wiped out, and in 1839 a bitter winter killed most of the invaders' camels. In 1873, after expeditions had crossed the deserts to scout the way, Russian columns finally conquered the khanate, and its khan declared himself an \"obedient servant\" of the tsar.",
+  "source": {
+   "name": "Encyclopaedia Iranica, 'Central Asia vii. In the 18th-19th Centuries'",
+   "url": "https://www.iranicaonline.org/articles/central-asia-vii/"
+  },
+  "source2": {
+   "name": "Cambridge University Press, Morrison, The Russian Conquest of Central Asia, ch. 2 abstract",
+   "url": "https://www.cambridge.org/core/books/abs/russian-conquest-of-central-asia/pray-for-the-camels-the-winter-invasion-of-khiva-183941/3DC9610E02DC27D4A52F1429F3135D8B"
+  }
+ },
+ {
+  "id": "r3c-challenger-deep",
+  "era": "industrial",
+  "year": 1875,
+  "dateLabel": "March 23, 1875",
+  "emoji": "🌊",
+  "cat": "discovery",
+  "title": "HMS Challenger Finds the Deepest Trench",
+  "place": "Mariana Trench, Pacific Ocean",
+  "lat": 11.35,
+  "lng": 142.2,
+  "text": "On a four-year voyage that laid the foundations of oceanography, HMS Challenger's crew measured depth by lowering a weighted hemp line and timing each 25 fathoms as it ran out. On 23 March 1875, sailing north towards Japan, they discovered the Mariana Trench; its deepest spot is still called Challenger Deep. The expedition catalogued over 4,000 species new to science.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Cornell University Library, Challenging the Deep exhibit",
+   "url": "https://exhibits.library.cornell.edu/challenging-the-deep/feature/the-challenger-deep"
+  },
+  "source2": {
+   "name": "Natural History Museum, London",
+   "url": "https://www.nhm.ac.uk/discover/news/2022/september/hms-challenger-how-150-year-old-expedition-still-influences-scientific-discoveries-today.html"
+  }
+ },
+ {
+  "id": "r3c-przewalski-horse",
+  "era": "industrial",
+  "year": 1881,
+  "dateLabel": "1881",
+  "emoji": "🐎",
+  "cat": "nature",
+  "title": "The Last Wild Horse Gets a Name",
+  "place": "Dzungarian Gobi, Mongolia",
+  "lat": 45.5,
+  "lng": 93.5,
+  "text": "Explorer Nikolay Przhevalsky brought back specimens of a wild horse from Central Asia, and in 1881 zoologist Ivan Poliakov formally described it as a wild species. Called takhi in Mongolia, it has 66 chromosomes, two more than domestic horses. After the last wild one was seen in the Dzungarian Gobi in 1969, zoo-bred horses returned to Mongolia in 1992.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "PMC: An Update on Status and Conservation of the Przewalski's Horse (Animals, 2022)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9686875/"
+  },
+  "source2": {
+   "name": "Smithsonian's National Zoo, Przewalski's horse",
+   "url": "https://nationalzoo.si.edu/animals/przewalskis-horse"
+  }
+ },
+ {
+  "id": "r3c-abai",
+  "era": "industrial",
+  "year": 1890,
+  "dateLabel": "Late 1800s",
+  "emoji": "✒️",
+  "cat": "culture",
+  "title": "Abai, Poet of the Kazakh Steppe",
+  "place": "Karauyl, Abai Region, Kazakhstan",
+  "lat": 48.95,
+  "lng": 79.25,
+  "text": "Before Abai Qunanbaiuly, most Kazakh poetry was spoken aloud rather than written down, and he is honoured as the founder of Kazakh written literature. Nicknamed 'Abai', meaning 'attentive' or 'cautious', by his grandmother, he translated Pushkin, Lermontov, Goethe and Byron into Kazakh. In his Book of Words he urged Kazakhs to educate their children.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Adebiportal.kz (Kazakh national literature portal, QazContent JSC), Kunanbaev Abay",
+   "url": "https://adebiportal.kz/en/authors/view/2679"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Kazakh literature",
+   "url": "https://www.britannica.com/art/Kazakh-literature"
+  }
+ },
+ {
+  "id": "r3c-chekhov-sakhalin",
+  "era": "industrial",
+  "year": 1890,
+  "dateLabel": "1890",
+  "emoji": "📓",
+  "cat": "culture",
+  "title": "Chekhov Visits the Prison Island",
+  "place": "Sakhalin Island, Russia",
+  "lat": 50.9,
+  "lng": 142.2,
+  "text": "In 1890 the writer Anton Chekhov made a long, hard journey across Siberia by horse carriage and riverboat to reach Sakhalin, a prison colony north of Japan. Within three months he filled over ten thousand census cards, interviewing almost everyone there. He watched a convict receive ninety lashes, and his book Sakhalin Island, exposing brutal officials, added to pressure to reform Russia's prisons.",
+  "collections": [
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, Anton Chekhov",
+   "url": "https://www.britannica.com/biography/Anton-Chekhov"
+  },
+  "source2": {
+   "name": "Hektoen International, Michael Bloor (Cardiff University), 'Anton Chekhov and the Sakhalin Penal Colony' (2017)",
+   "url": "https://hekint.org/2017/01/31/anton-chekhov-and-the-sakhalin-penal-colony/"
+  }
+ },
+ {
+  "id": "r3c-trans-siberian",
+  "era": "industrial",
+  "year": 1891,
+  "dateLabel": "May 19, 1891",
+  "emoji": "🚂",
+  "cat": "journeys",
+  "title": "Starting the World's Longest Railway",
+  "place": "Vladivostok, Russia",
+  "lat": 43.12,
+  "lng": 131.89,
+  "text": "On 19 May 1891, the future Tsar Nicholas II laid the cornerstone of the Trans-Siberian Railway in Vladivostok, on the Pacific coast. Tens of thousands of workers built its sections at the same time. Since 1916 it has run wholly through Russia from Moscow to Vladivostok: about 9,288 kilometres across eight time zones, still the longest railway line in the world.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Trans-Siberian Railroad",
+   "url": "https://www.britannica.com/topic/Trans-Siberian-Railroad"
+  },
+  "source2": {
+   "name": "Scientific Russia, To Connect Russia: History of the Trans-Siberian Railway",
+   "url": "https://en.scientificrussia.ru/articles/to-connect-russia-history-of-the-trans-siberian-railway"
+  }
+ },
+ {
+  "id": "r3c-fram-drift",
+  "era": "industrial",
+  "year": 1893,
+  "dateLabel": "1893–1896",
+  "emoji": "🧊",
+  "cat": "journeys",
+  "title": "Nansen Lets the Ice Carry His Ship",
+  "place": "New Siberian Islands, Russia",
+  "lat": 75.5,
+  "lng": 142,
+  "text": "Wreckage from a ship that sank off Siberia washed up years later near Greenland, giving Fridtjof Nansen a bold idea. In September 1893 he let his ship Fram freeze into the pack ice north of the New Siberian Islands and drift with the current. He then set off with dogs and sledges, reached a record 86°14′N, and later met a British explorer by chance.",
+  "collections": [
+   "great-voyages",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "Fram Museum (Oslo), The first Fram expedition 1893–1896",
+   "url": "https://frammuseum.no/polar-history/expeditions/the-first-fram-expedition-1893-1896/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Fridtjof Nansen",
+   "url": "https://www.britannica.com/biography/Fridtjof-Nansen"
+  }
+ },
+ {
+  "id": "r3c-endurance",
+  "era": "modern",
+  "year": 1915,
+  "dateLabel": "November 21, 1915",
+  "emoji": "⛵",
+  "cat": "journeys",
+  "title": "Endurance Sinks, and Is Found Again",
+  "place": "Weddell Sea, Antarctica",
+  "lat": -68.66,
+  "lng": -52.44,
+  "text": "Ernest Shackleton's ship Endurance was trapped in Antarctic pack ice and finally sank in the Weddell Sea on 21 November 1915. Amazingly, the whole crew survived: they reached Elephant Island in lifeboats while Shackleton and five others sailed off for help. In March 2022 searchers found the wreck 3,008 metres down, in 'a brilliant state of preservation'.",
+  "collections": [
+   "ice-worlds",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Falklands Maritime Heritage Trust / Endurance22: Endurance is Found (press release, 9 March 2022)",
+   "url": "https://endurance22.org/endurance-is-found"
+  },
+  "source2": {
+   "name": "Falklands Maritime Heritage Trust: History of Shackleton's Endurance",
+   "url": "https://fmht.co.uk/education/history-of-shackletons-endurance/"
+  }
+ },
+ {
+  "id": "r3c-kazakh-famine",
+  "era": "modern",
+  "year": 1931,
+  "dateLabel": "1930–1933",
+  "emoji": "🌾",
+  "cat": "power",
+  "title": "The Asharshylyq, Kazakhstan's Great Famine",
+  "place": "Kazakh steppe, Kazakhstan",
+  "lat": 48,
+  "lng": 67,
+  "text": "When Soviet leaders forced collectivization on Kazakhstan, herds were seized and nomadic families were pushed onto collective farms that did not suit the steppe. The result was the Asharshylyq, a man-made famine from 1930 to 1933 in which more than 1.5 million people died. Roughly a third of all Kazakhs perished, and over a million refugees fled the republic.",
+  "source": {
+   "name": "Harvard Davis Center, Remembering the Kazakh Famine (Sarah Cameron)",
+   "url": "https://daviscenter.fas.harvard.edu/insights/remembering-kazakh-famine"
+  },
+  "source2": {
+   "name": "Cornell University Press, The Hungry Steppe (Sarah Cameron)",
+   "url": "https://cornellpress.cornell.edu/book/9781501730436/the-hungry-steppe/"
+  }
+ },
+ {
+  "id": "r3c-rds1-semipalatinsk",
+  "era": "modern",
+  "year": 1949,
+  "dateLabel": "August 29, 1949",
+  "emoji": "☢️",
+  "cat": "power",
+  "title": "The Soviet Bomb on the Kazakh Steppe",
+  "place": "Semipalatinsk Test Site, Kazakhstan",
+  "lat": 50.44,
+  "lng": 77.81,
+  "text": "Early on the morning of 29 August 1949, the Soviet Union exploded its first atomic bomb, RDS-1, at the Semipalatinsk Test Site in Kazakhstan, with a yield of about 20 kilotons. A US B-29 weather plane caught its radioactive debris on 3 September, and President Truman announced the news. The shock pushed the United States toward the hydrogen bomb, speeding up the nuclear arms race.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Nuclear weapon: The Soviet Union' (Thomas B. Cochran)",
+   "url": "https://www.britannica.com/technology/nuclear-weapon/The-Soviet-Union"
+  },
+  "source2": {
+   "name": "OSTI (US DOE): Machta, 'Finding the site of the first Soviet nuclear test in 1949', Bull. Amer. Meteor. Soc. 1992",
+   "url": "https://www.osti.gov/biblio/7106288"
+  }
+ },
+ {
+  "id": "r3c-tharp-rift",
+  "era": "modern",
+  "year": 1952,
+  "dateLabel": "1952",
+  "emoji": "🗺️",
+  "cat": "discovery",
+  "title": "Marie Tharp Finds a Crack in the Ocean",
+  "place": "Mid-Atlantic Ridge, Atlantic Ocean",
+  "lat": 30,
+  "lng": -42,
+  "text": "Barred from research ships because she was a woman, geologist Marie Tharp drew maps from depth soundings others collected. In 1952, lining up profiles across the North Atlantic, she spotted a V-shaped valley running down the middle of the Mid-Atlantic Ridge. Her colleague Bruce Heezen first dismissed it as 'girl talk', but her rift valley helped prove plate tectonics.",
+  "collections": [
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "NOAA Ocean Exploration, 'Soundings, Sea-Bottom, and Geophysics' (history quotes)",
+   "url": "https://oceanexplorer.noaa.gov/history/quotes-soundings/"
+  },
+  "source2": {
+   "name": "Library of Congress blog, 'Marie Tharp: Mapping the Ocean Floor'",
+   "url": "https://blogs.loc.gov/loc/2021/08/marie-tharp-mapping-the-ocean-floor/"
+  }
+ },
+ {
+  "id": "r3c-trieste-dive",
+  "era": "modern",
+  "year": 1960,
+  "dateLabel": "January 23, 1960",
+  "emoji": "🤿",
+  "cat": "journeys",
+  "title": "Down to the Bottom of Challenger Deep",
+  "place": "Challenger Deep, Mariana Trench",
+  "lat": 11.37,
+  "lng": 142.59,
+  "text": "On 23 January 1960, Jacques Piccard and US Navy lieutenant Don Walsh rode the bathyscaphe Trieste to the floor of Challenger Deep, the deepest point in Earth's seabed. Past 9,000 metres a loud crack shook the vessel: a viewing window had split. They spent twenty minutes on the bottom before a cloud of stirred-up sediment blocked their view.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Naval History and Heritage Command (US Navy), H-Gram 041-6: 'Trieste and the First Dive to Deepest Part of the Oceans, January 1960'",
+   "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-041/h-041-6.html"
+  },
+  "source2": {
+   "name": "Naval History and Heritage Command, H-Gram 041-6",
+   "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-041/h-041-6.html"
+  }
+ },
+ {
+  "id": "r3c-aral-sea",
+  "era": "modern",
+  "year": 1962,
+  "dateLabel": "From the 1960s",
+  "emoji": "🏝️",
+  "cat": "nature",
+  "title": "The Vanishing Sea",
+  "place": "Aral Sea, Kazakhstan and Uzbekistan",
+  "lat": 45,
+  "lng": 60,
+  "text": "The Aral Sea, once the world's fourth-largest body of inland water, takes its name from a Kyrgyz phrase meaning 'Sea of Islands': it held more than 1,000 islands. From the 1960s, Soviet irrigation projects diverted the rivers that fed it, and it began to shrink fast. In 2014 the eastern lobe of its southern part disappeared completely.",
+  "source": {
+   "name": "NASA Earth Observatory, 'World of Change: Shrinking Aral Sea'",
+   "url": "https://science.nasa.gov/earth/earth-observatory/world-of-change/aral-sea"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Aral Sea'",
+   "url": "https://www.britannica.com/place/Aral-Sea"
+  }
+ },
+ {
+  "id": "r3c-surtsey",
+  "era": "modern",
+  "year": 1963,
+  "dateLabel": "November 14, 1963",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "Surtsey, a Brand-New Island",
+  "place": "Surtsey, Vestmannaeyjar, Iceland",
+  "lat": 63.3,
+  "lng": -20.61,
+  "text": "On 14 November 1963, an undersea eruption broke the surface off southern Iceland and kept going until 1967, building an island named after Surtur, a fire giant of Norse myth. Declared a nature reserve while still erupting, Surtsey is a living laboratory, open only to scientists, who watch plants and animals arrive.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "Surtsey Research Society (Surtseyjarfélagið)",
+   "url": "https://www.surtsey.is/"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Surtsey (read via data.unesco.org open-data API)",
+   "url": "https://whc.unesco.org/en/list/1267"
+  }
+ },
+ {
+  "id": "r3c-ozone-hole",
+  "era": "modern",
+  "year": 1985,
+  "dateLabel": "May 1985",
+  "emoji": "🌀",
+  "cat": "discovery",
+  "title": "The Hole in the Sky Over Antarctica",
+  "place": "Halley Research Station, Antarctica",
+  "lat": -75.57,
+  "lng": -25.51,
+  "text": "At Halley station on Antarctica's Brunt Ice Shelf, British scientists had measured ozone since 1956. When springtime readings dropped sharply, Joe Farman at first suspected a faulty instrument, but a replacement gave the same results. After checking and rechecking, Farman, Brian Gardiner and Jon Shanklin published in May 1985, revealing that ozone over Antarctica was disappearing each spring because of man-made chemicals.",
+  "collections": [
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "British Antarctic Survey, 'Marking 40 years since the discovery of the ozone hole'",
+   "url": "https://www.bas.ac.uk/news/marking-40-years-since-the-discovery-of-the-ozone-hole/"
+  },
+  "source2": {
+   "name": "British Antarctic Survey, 'The ozone hole discovery'",
+   "url": "https://www.bas.ac.uk/about/history/ozone-hole-discovery/"
+  }
+ },
+ {
+  "id": "r3c-vostok-ice-core",
+  "era": "modern",
+  "year": 1998,
+  "dateLabel": "1998",
+  "emoji": "🧊",
+  "cat": "discovery",
+  "title": "The Ice That Remembers 420,000 Years",
+  "place": "Vostok Station, Antarctica",
+  "lat": -78.46,
+  "lng": 106.84,
+  "text": "Vostok Station sits at Earth's 'Pole of Cold', where the world's coldest recorded temperature, −89.2°C, was measured in 1983. Russian and French scientists drilled deep into the ice sheet here, reaching a record 3,623 metres in 1998 but stopping short of Lake Vostok hidden beneath, for fear their drilling fluid could pollute it. Their ice core holds a climate record stretching back 420,000 years, through four earlier ice ages.",
+  "collections": [
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "Nature, Stauffer, 'Cornucopia of ice core results' (1999)",
+   "url": "https://www.nature.com/articles/20807"
+  },
+  "source2": {
+   "name": "Nature, Petit et al., 'Climate and atmospheric history of the past 420,000 years from the Vostok ice core' (1999)",
+   "url": "https://www.nature.com/articles/20859"
+  }
+ },
+ {
+  "id": "r3c-denisova-finger",
+  "era": "modern",
+  "year": 2010,
+  "dateLabel": "2010",
+  "emoji": "🦴",
+  "cat": "discovery",
+  "title": "A Finger Bone Reveals Lost Humans",
+  "place": "Denisova Cave, Altai Krai, Russia",
+  "lat": 51.4,
+  "lng": 84.68,
+  "text": "In 2008, archaeologists in Siberia's Denisova Cave dug up a finger bone from a young girl. In 2010 its DNA revealed a previously unknown group of ancient humans, now called Denisovans. They mixed with our own ancestors, and many Melanesians and Aboriginal Australians still carry their DNA. Another bone came from a child with a Denisovan father and Neanderthal mother.",
+  "collections": [
+   "becoming-human",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Natural History Museum, London: Denisovans",
+   "url": "https://www.nhm.ac.uk/discover/denisovans.html"
+  },
+  "source2": {
+   "name": "American Journal of Human Genetics, Reich et al. 2011, 'Denisova admixture and the first modern human dispersals into Southeast Asia and Oceania'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3188841/"
+  }
+ }
+]

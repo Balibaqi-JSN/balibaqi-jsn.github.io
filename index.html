@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no" />
+    <meta name="theme-color" content="#050914" />
+    <title>Time Globe · spin through history on a 3D globe</title>
+    <meta name="description" content="A free history game on a spinning 3D globe. Pick any year from the dinosaurs to 2026, tap anywhere on Earth, and collect 3,922 true, sourced postcards. Play the daily Where &amp; When? challenge." />
+    <link rel="canonical" href="https://balibaqi-jsn.github.io/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Time Globe" />
+    <meta property="og:title" content="Time Globe · spin through history on a 3D globe" />
+    <meta property="og:description" content="Pick any year from the dinosaurs to 2026, tap anywhere on Earth, and collect 3,922 true postcards. Daily Where &amp; When? challenge." />
+    <meta property="og:url" content="https://balibaqi-jsn.github.io/" />
+    <meta property="og:image" content="https://balibaqi-jsn.github.io/og.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Time Globe · spin through history on a 3D globe" />
+    <meta name="twitter:description" content="3,922 true stories from the dinosaurs to 2026, on a spinning globe. Daily Where &amp; When? challenge." />
+    <meta name="twitter:image" content="https://balibaqi-jsn.github.io/og.jpg" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%23173a7a'/><path d='M2 16h28M16 2c6 4 6 24 0 28M16 2c-6 4-6 24 0 28' stroke='%239fc3ff' stroke-width='1.6' fill='none'/></svg>" />
+    <script type="module" crossorigin src="/assets/index-JCB90k-J.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-KCYSDSVn.css">
+  </head>
+  <body>
+    <canvas id="stars"></canvas>
+    <div id="globe"></div>
+
+    <header class="timebar">
+      <div class="chips" id="chips"></div>
+      <div class="tb-top">
+        <div class="tb-year" id="year">2026</div>
+        <div class="tb-name" id="eraName">The Modern World</div>
+      </div>
+      <div class="tb-caption" id="caption"></div>
+    </header>
+    <div class="fact"><span id="fact"></span><span class="near" id="nearCount"></span></div>
+    <div class="wheel" id="wheel" aria-label="Scroll to pick a year"></div>
+    <div class="era-loading" id="eraLoading"><span class="spinner"></span>Time traveling…</div>
+
+    <div class="hint gone" id="hint">
+      <b>Scroll the year wheel, then tap anywhere!</b>
+      <span>A postcard from that place and time will pop up.</span>
+    </div>
+
+    <nav class="bottombar">
+      <button class="btn hud album-btn" id="albumBtn"><span class="btn-ic" data-icon="book-marked"></span><span class="bb-label">Album</span><span class="count" id="albumCount">0/0</span></button>
+      <div class="bb-mid">
+        <button class="btn hud play-btn" id="playBtn"><span class="pb-ic"><span class="btn-ic" data-icon="crosshair"></span></span><span class="pb-text"><b class="pb-long">Where &amp; When?</b><b class="pb-short">Play</b><small id="playSub">Play the guessing game</small></span></button>
+        <button class="btn hud surprise-btn" id="surpriseBtn" title="Jump to a random story you haven't found"><span class="btn-ic" data-icon="dices"></span><span class="bb-label">Surprise me</span></button>
+      </div>
+      <div class="bb-right">
+        <button class="btn hud night-btn" id="nightBtn"><span class="nb-icon btn-ic" data-icon="moon"></span><span class="nb-label">Night</span></button>
+        <button class="btn hud icon-hud" id="muteBtn" aria-label="Sound on or off"><span class="btn-ic" data-icon="volume-2"></span></button>
+      </div>
+    </nav>
+
+    <div class="card-overlay" id="cardOverlay"></div>
+    <div class="album" id="album"></div>
+    <div class="toast" id="toast"></div>
+    <canvas class="warp" id="warp"></canvas>
+    <div class="quiz" id="quiz"></div>
+    <div class="rankup" id="rankup"></div>
+    <div class="home" id="home"></div>
+    <div class="report" id="report"></div>
+
+    <div class="splash" id="splash">
+      <svg class="splash-globe" viewBox="0 0 64 64" width="84" height="84" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="32" cy="32" r="27"/><ellipse class="sg-m" cx="32" cy="32" rx="11" ry="27"/><path d="M5 32h54M9.5 18h45M9.5 46h45"/></svg>
+      <div class="splash-title">Time Globe</div>
+      <div class="splash-sub"><span class="spinner"></span>Painting the planet…</div>
+    </div>
+
+  </body>
+</html>

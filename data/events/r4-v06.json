@@ -1,0 +1,410 @@
+[
+ {
+  "id": "v06-tchefuncte-first-pots",
+  "era": "classical",
+  "year": -400,
+  "dateLabel": "About 400 BCE",
+  "cat": "daily",
+  "title": "Cracked Pots by Lake Pontchartrain",
+  "place": "Tchefuncte site, Fontainebleau State Park, Mandeville, Louisiana, USA",
+  "lat": 30.34,
+  "lng": -90.03,
+  "text": "On the marshy north shore of Lake Pontchartrain, people of the Tchefuncte culture left two crescent-shaped heaps of clam shells and trash. Diggers in the late 1930s and 1940s recovered more than 47,000 pottery sherds from some of Louisiana's earliest widely made pots. The potters added no temper and didn't knead out air pockets, so vessels often cracked while drying or firing. They also left 67 little clay pipes.",
+  "source": {
+   "name": "64 Parishes (Louisiana Endowment for the Humanities): Tchefuncte Site",
+   "url": "https://64parishes.org/entry/tchefuncte-site"
+  }
+ },
+ {
+  "id": "v06-obsidian-cliff-hopewell",
+  "era": "classical",
+  "year": 200,
+  "dateLabel": "About 200 CE",
+  "cat": "journeys",
+  "title": "Yellowstone Glass in Ohio Graves",
+  "place": "Obsidian Cliff, Yellowstone National Park, Wyoming, USA",
+  "lat": 44.82,
+  "lng": -110.73,
+  "text": "Hopewell people in the Ohio Valley buried their dead with gleaming black volcanic glass, and about 90 percent of it came from a single cliff in today's Yellowstone National Park, far to the west. The cliff exposes about 30 meters of obsidian and had already been quarried for thousands of years. Some Hopewell obsidian bladelets are said to be sharper than modern surgical steel.",
+  "source": {
+   "name": "National Park Service, Yellowstone: Obsidian Cliff",
+   "url": "https://www.nps.gov/yell/learn/historyculture/obsidiancliff.htm"
+  },
+  "source2": {
+   "name": "National Park Service: Ohio's Prehistoric Past",
+   "url": "https://www.nps.gov/articles/000/ohio-s-prehistoric-past.htm"
+  }
+ },
+ {
+  "id": "v06-mound-city-camp-sherman",
+  "era": "classical",
+  "year": 150,
+  "dateLabel": "About 1–400 CE",
+  "cat": "culture",
+  "title": "Sacred Mounds Inside an Army Camp",
+  "place": "Mound City Group, Hopewell Culture National Historical Park, near Chillicothe, Ohio, USA",
+  "lat": 39.38,
+  "lng": -83.01,
+  "text": "Inside a low earthen wall beside the Scioto River, Hopewell people raised 25 mounds over several centuries. Each covered a ceremonial building where fires burned in clay basins and cremated remains were laid under small clay heaps; about a hundred have been found. During World War I the site became Camp Sherman, an army training ground, and soldiers rested atop the largest mound.",
+  "source": {
+   "name": "National Park Service, Hopewell Culture NHP: Mound City Group",
+   "url": "https://www.nps.gov/hocu/learn/historyculture/mound-city-group.htm"
+  }
+ },
+ {
+  "id": "v06-hopewell-airburst-refuted",
+  "era": "classical",
+  "year": 320,
+  "dateLabel": "Claimed about 250–380 CE",
+  "cat": "discovery",
+  "title": "The Comet That Probably Wasn't",
+  "place": "Jennison-Guard site, Lawrenceburg, Indiana, USA",
+  "lat": 39.1,
+  "lng": -84.86,
+  "text": "In 2022 researchers claimed a comet exploded over the Cincinnati area sometime around 252 to 383 CE, scorching Hopewell villages and helping end their culture. Other archaeologists took the case apart: the burned layers looked like ceremonial basins and burned mound floors, samples came from different spots than reported, and the radiocarbon dates spread over a long time. The original paper was later retracted.",
+  "source": {
+   "name": "Scientific Reports (PMC): Refuting the sensational claim of a Hopewell-ending cosmic airburst",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10412550/"
+  }
+ },
+ {
+  "id": "v06-hopeton-earthworks-walls",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "About 300 CE",
+  "cat": "power",
+  "title": "Walls Built From Chosen Soils",
+  "place": "Hopeton Earthworks, near Chillicothe, Ohio, USA",
+  "lat": 39.38,
+  "lng": -82.99,
+  "text": "In 1848 surveyors mapped Hopeton's huge earthen rectangle, 900 by 950 feet, joined to a circle 1,050 feet across, with twelve gateways. Digs in 2001 and 2002 showed the builders stripped off topsoil, then piled two or three layers of carefully selected soil; burned logs date one wall to about 300 CE. After the 1950s, farm tractors shrank the walls about an inch a year.",
+  "source": {
+   "name": "National Park Service: Archeology at Hopewell Culture National Historical Park",
+   "url": "https://www.nps.gov/articles/archeology-at-hopewell-culture-national-historical-park.htm"
+  }
+ },
+ {
+  "id": "v06-iyatayet-norton",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "About 500 BCE–400 CE",
+  "cat": "discovery",
+  "title": "Lamps and Pots at Cape Denbigh",
+  "place": "Iyatayet site, Cape Denbigh, Norton Sound, Alaska, USA",
+  "lat": 64.41,
+  "lng": -161.51,
+  "text": "At Iyatayet on Alaska's Norton Sound, archaeologist J. L. Giddings dug in the early 1950s and helped define the Norton tradition, dated about 2,500 to 1,600 years ago. These sea-mammal hunters made pottery, oil lamps, ulu knives and ground slate harpoon heads. Renewed fieldwork in 2012 and 2013 found a gap of about 1,000 years between the site's Norton and later Thule occupations.",
+  "source": {
+   "name": "National Park Service: Iyatayet",
+   "url": "https://www.nps.gov/articles/iyatayet.htm"
+  }
+ },
+ {
+  "id": "v06-katmai-norton-salmon",
+  "era": "classical",
+  "year": 1,
+  "dateLabel": "About 1 CE",
+  "cat": "daily",
+  "title": "Alaska's First Big Salmon Harvesters",
+  "place": "Naknek River drainage, Katmai National Park, Alaska, USA",
+  "lat": 58.55,
+  "lng": -155.78,
+  "text": "In what is now Katmai National Park, people of the Norton tradition, from about 2,250 to 900 years ago, were the first to harvest Alaska's salmon runs intensively. They built labor-intensive houses and returned to them each season, though not all year. They also made pottery, a craft they probably learned from neighbors across the Bering Strait in Asia.",
+  "source": {
+   "name": "National Park Service, Katmai: Archeology",
+   "url": "https://nps.gov/katm/learn/historyculture/archeology.htm"
+  }
+ },
+ {
+  "id": "v06-windmill-way-string",
+  "era": "classical",
+  "year": 325,
+  "dateLabel": "About 1,700 years ago",
+  "cat": "daily",
+  "title": "A Rock Shelter Full of String",
+  "place": "Windmill Way rockshelter, Quinkan Country, north of Laura, Cape York Peninsula, Queensland, Australia",
+  "lat": -15.45,
+  "lng": 144.4,
+  "text": "In a dry rock shelter in Kuku Warra Country on Cape York, archaeologists found more than 500 pieces of plant-fibre string, including dillybags, fishing nets with bird feathers caught in them and tassel belts. The oldest strings date to about 1,700 years ago. Women wearing the same belts and headbands are painted on the shelter walls, and the knots barely changed for 1,700 years.",
+  "source": {
+   "name": "The Conversation: Perfectly preserved rock art site reveals 1,700 years of Aboriginal string craft",
+   "url": "https://theconversation.com/perfectly-preserved-rock-art-site-reveals-1-700-years-of-aboriginal-string-craft-270079"
+  }
+ },
+ {
+  "id": "v06-sigatoka-burial-ground",
+  "era": "classical",
+  "year": 400,
+  "dateLabel": "About 60–680 CE",
+  "cat": "daily",
+  "title": "Seafood Lives Read From Bones",
+  "place": "Sigatoka Sand Dunes, Viti Levu, Fiji",
+  "lat": -18.17,
+  "lng": 177.48,
+  "text": "Over roughly six centuries, from about 60 to 680 CE, people buried at least 61 of their dead in Fiji's Sigatoka sand dunes, most on their backs with legs flexed and many beneath cairns of coral or basalt. Chemical traces in their bones and teeth reveal a seafood-rich diet, and women ate more marine food as they aged, hinting that men and women did different work.",
+  "source": {
+   "name": "PLOS ONE (PMC): Life histories in Fiji as reconstructed from first millennium CE Sigatoka Sand Dune burials using isotopes",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11081393/"
+  }
+ },
+ {
+  "id": "v06-knife-river-flint-hopewell",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "About 100 CE",
+  "cat": "journeys",
+  "title": "Dakota Flint for Ohio Ceremonies",
+  "place": "Knife River flint quarries, Dunn and Mercer counties, North Dakota, USA",
+  "lat": 47.3,
+  "lng": -102,
+  "text": "Big blades of exotic Knife River flint, quarried in North Dakota almost 1,000 miles away, turn up in Hopewell burial mounds in Ohio's Scioto River Valley. Hardly any flaking debris was left there, so the blades were probably finished elsewhere and passed from community to community by land and river. They were not everyday tools: they lie with ceremonial objects and important people.",
+  "source": {
+   "name": "National Park Service: Hopewell Culture and Knife River Flint",
+   "url": "https://www.nps.gov/articles/000/hopewell-culture-knife-river-flint.htm"
+  }
+ },
+ {
+  "id": "v06-boomerang-shelter-gut-microbes",
+  "era": "classical",
+  "year": 50,
+  "dateLabel": "About 1st century CE",
+  "cat": "discovery",
+  "title": "Ancient Poop With Unknown Microbes",
+  "place": "Boomerang Shelter, southeastern Utah, USA",
+  "lat": 37.3,
+  "lng": -109.6,
+  "text": "Two dried human droppings left in Boomerang Shelter, Utah, around the first century CE, became part of a 2021 study that rebuilt hundreds of gut-microbe genomes from 1,000- to 2,000-year-old feces. Of the best-preserved ancient gut microbes, 39 percent were species science had never described. These ancient guts looked more like those of today's non-industrial peoples and carried far fewer antibiotic-resistance genes.",
+  "source": {
+   "name": "Nature (PMC): Reconstruction of ancient microbial genomes from the human gut",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8189908/"
+  }
+ },
+ {
+  "id": "v06-cave-29-ice-melting",
+  "era": "classical",
+  "year": 167,
+  "dateLabel": "About 167 CE",
+  "cat": "nature",
+  "title": "Melting Cave Ice in a Drought",
+  "place": "Cave 29, El Malpais National Monument, New Mexico, USA",
+  "lat": 34.9,
+  "lng": -108.1,
+  "text": "High on the Colorado Plateau, Ancestral Puebloans lit fires inside a lava-tube ice cave to melt ice into drinking water. The lowest layer of charcoal trapped in the ice dates to about 167 CE, during a severe second-century drought, and four more charcoal layers line up with later droughts up to about 933. Today the ice is melting fast, threatening the record.",
+  "source": {
+   "name": "Scientific Reports (PMC): Late Holocene droughts and cave ice harvesting by Ancestral Puebloans",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7674407/"
+  }
+ },
+ {
+  "id": "v06-ritidian-cave-dna",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "About 200 BCE",
+  "cat": "discovery",
+  "title": "Two Skeletons Link Guam to Polynesia",
+  "place": "Ritidian Beach Cave, northern Guam",
+  "lat": 13.65,
+  "lng": 144.86,
+  "text": "DNA from two skeletons buried in Ritidian Beach Cave on Guam about 2,200 years ago traced their ancestry to the Philippines, matching the idea that the Marianas' first settlers sailed from Island Southeast Asia. Surprisingly, they were close genetic relatives of early Lapita people from Vanuatu and Tonga, hinting that the Marianas and Polynesia were settled from the same source population.",
+  "source": {
+   "name": "EurekAlert (Max Planck Institute): Ancient DNA sheds light on the peopling of the Mariana Islands",
+   "url": "https://www.eurekalert.org/news-releases/897829"
+  },
+  "source2": {
+   "name": "PNAS (PMC): Ancient DNA from Guam and the peopling of the Pacific",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7817125/"
+  }
+ },
+ {
+  "id": "v06-malae-vakapuna-mound",
+  "era": "classical",
+  "year": 450,
+  "dateLabel": "About 350–670 CE",
+  "cat": "power",
+  "title": "Polynesia's Oldest Known Monument",
+  "place": "Mala'e Vakapuna, near Fua'amotu, Tongatapu, Tonga",
+  "lat": -21.24,
+  "lng": -175.12,
+  "text": "On a hilltop overlooking Tongatapu's lagoon, people began heaping up an earth mound by about 350 to 500 CE and finished it over several generations. Mala'e Vakapuna is about 41 meters across and up to 3 meters high, needing roughly 1,000 person-days of work. Archaeologists call it the oldest known Polynesian architecture, a sign that chiefdoms were forming long before East Polynesia was settled.",
+  "source": {
+   "name": "Antiquity (Cambridge): Early architecture in Tonga: implications for the development of Polynesian chiefdoms",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/early-architecture-in-tonga-implications-for-the-development-of-polynesian-chiefdoms/504DD08C5013AEC50DBCB1C54F8B3804"
+  }
+ },
+ {
+  "id": "v06-uripiv-post-lapita-diet",
+  "era": "classical",
+  "year": -250,
+  "dateLabel": "About 550 BCE–1 CE",
+  "cat": "daily",
+  "title": "Island Kids Who Snacked on Seafood",
+  "place": "Uripiv Island, off northeast Malakula, Vanuatu",
+  "lat": -16.07,
+  "lng": 167.45,
+  "text": "On tiny Uripiv, less than one square kilometre off Malakula, villagers in the centuries after Lapita buried 23 people in one layer. Their bones show a diet of garden crops plus reef, seagrass and mangrove foods, and their pigs ate seafood too. Children ate more marine food than adults, perhaps as snacks, and three of eleven people tested had grown up elsewhere.",
+  "source": {
+   "name": "PLOS ONE (PMC): Diet and human mobility from the Lapita to the early historic period on Uripiv Island, Vanuatu",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4139273/"
+  }
+ },
+ {
+  "id": "v06-teouma-post-lapita-decline",
+  "era": "classical",
+  "year": -500,
+  "dateLabel": "About 500 BCE",
+  "cat": "nature",
+  "title": "When the Tortoises Ran Out",
+  "place": "Teouma, Efate, Vanuatu",
+  "lat": -17.78,
+  "lng": 168.39,
+  "text": "At Teouma on Efate, where Lapita settlers had feasted on giant tortoises and sea turtles, the early post-Lapita years around 2,500 years ago brought hard times. Animal bones grow sparse: the tortoises had been badly depleted, turtles were caught only now and then, and pig herds shrank while people butchered the remaining animals more intensively. Eventually the settlement was abandoned.",
+  "source": {
+   "name": "Frontiers in Environmental Archaeology: Vanuatu in the vanguard: new frontiers in Lapita zooarchaeology",
+   "url": "https://www.frontiersin.org/journals/environmental-archaeology/articles/10.3389/fearc.2026.1849249/full"
+  }
+ },
+ {
+  "id": "v06-gunu-cave-mulberry-pigment",
+  "era": "classical",
+  "year": -450,
+  "dateLabel": "About 2,500 years ago",
+  "cat": "culture",
+  "title": "A Shelter With Its Own Paint Quarry",
+  "place": "Gunu Cave, near Mitchell Falls, northwest Kimberley, Western Australia, Australia",
+  "lat": -14.8,
+  "lng": 125.71,
+  "text": "Near Mitchell Falls in the northwest Kimberley, Gunu Cave holds 90 painted motifs spanning every known Kimberley art period, from Gwion figures to Wanjina. Its floor deposit begins about 2,500 years ago, and most of its ochre lies near the bottom. An outcrop in the shelter is the only known Kimberley source of mulberry-coloured pigment that shows signs of being quarried.",
+  "source": {
+   "name": "PLOS ONE (PMC): Archaeology and art in context: Excavations at the Gunu Site Complex, Northwest Kimberley",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7001911/"
+  }
+ },
+ {
+  "id": "v06-bogi-caution-bay-dog",
+  "era": "classical",
+  "year": -175,
+  "dateLabel": "About 200–150 BCE",
+  "cat": "discovery",
+  "title": "A Dog Lineage That Stayed Home",
+  "place": "Bogi 1, Caution Bay, Central Province, Papua New Guinea",
+  "lat": -9.2,
+  "lng": 146.95,
+  "text": "A dog from Bogi 1 on Caution Bay, near today's Port Moresby, lived about 2,150 to 2,100 years ago. Its ancient DNA belongs to haplogroup B, never before found in Pacific dogs, and seems to share an ancestor with Iron Age dogs from Taiwan. Yet researchers found no evidence that this lineage was ever carried beyond New Guinea.",
+  "source": {
+   "name": "Scientific Reports (PMC): Complex history of dog origins and translocations in the Pacific revealed by ancient mitogenomes",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6002536/"
+  }
+ },
+ {
+  "id": "v06-taurama-polynesian-dog-line",
+  "era": "classical",
+  "year": 375,
+  "dateLabel": "About 2,000–1,200 years ago",
+  "cat": "journeys",
+  "title": "First Sign of Polynesia's Dogs",
+  "place": "Taurama, near Port Moresby, Central Province, Papua New Guinea",
+  "lat": -9.5,
+  "lng": 147.21,
+  "text": "A dog from Taurama, near Port Moresby, dated somewhere between 2,000 and 1,200 years ago, carries the earliest known Oceanic example of a DNA lineage called A2b2. The same lineage later turns up in dogs from Tokelau, Hawai'i, the Cook Islands and New Zealand, suggesting Polynesia's dogs arrived after Lapita times from a different source, probably southern Island Southeast Asia.",
+  "source": {
+   "name": "Scientific Reports (PMC): Complex history of dog origins and translocations in the Pacific revealed by ancient mitogenomes",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6002536/"
+  }
+ },
+ {
+  "id": "v06-australia-desert-recolonised",
+  "era": "classical",
+  "year": 250,
+  "dateLabel": "About 50 BCE–450 CE",
+  "cat": "nature",
+  "title": "Rains Return, People Fill the Deserts",
+  "place": "Puritjarra rock shelter, Cleland Hills, Northern Territory, Australia",
+  "lat": -23.85,
+  "lng": 130.9,
+  "text": "As more frequent La Niña conditions returned after about 2,000 years ago, Aboriginal people moved back into marginal desert country abandoned during drier El Niño times. Modelling of radiocarbon dates from across Australia suggests that by 2,000 to 1,500 years ago people ranged over about 7.7 million square kilometres, nearly the whole continent, with dense occupation at shelters such as Puritjarra.",
+  "source": {
+   "name": "PLOS ONE (PMC): Holocene Demographic Changes and the Emergence of Complex Societies in Prehistoric Australia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4471166/"
+  }
+ },
+ {
+  "id": "v06-seip-milkweed-cloth",
+  "era": "classical",
+  "year": 260,
+  "dateLabel": "About 1–400 CE",
+  "cat": "culture",
+  "title": "Cloth Saved by Copper Rust",
+  "place": "Seip Earthworks, near Bainbridge, Ohio, USA",
+  "lat": 39.24,
+  "lng": -83.22,
+  "text": "At Seip in southern Ohio, more than two miles of earthen walls enclose a great circle, a smaller circle and a square. Its central mound, 30 feet high, is the third-largest the Hopewell built, covering the floors and burials of two big connected buildings. Copper breastplates buried there preserved scraps of cloth in their copper salts: milkweed fibre, dyed with circles and curves.",
+  "source": {
+   "name": "National Park Service, Hopewell Culture NHP: Seip Earthworks",
+   "url": "https://www.nps.gov/hocu/learn/historyculture/seip-earthworks.htm"
+  }
+ },
+ {
+  "id": "v06-turkey-pen-tattoo-needle",
+  "era": "classical",
+  "year": 105,
+  "dateLabel": "79–130 CE",
+  "cat": "culture",
+  "title": "A Cactus-Spine Tattoo Needle",
+  "place": "Turkey Pen site, Grand Gulch, Cedar Mesa, Utah, USA",
+  "lat": 37.45,
+  "lng": -109.95,
+  "text": "Sorting the last of 64 boxes from old digs at Turkey Pen in Utah, archaeologist Andrew Gillreath-Brown spotted a tool about 10 centimetres long: a sumac handle bound with yucca to prickly pear spines stained with pigment. Dated to 79 to 130 CE, it is a Basketmaker II tattoo needle, finally proving a practice archaeologists had long suspected among early Puebloans.",
+  "source": {
+   "name": "Archaeology Magazine: Ancestral Pueblo Tattoo Needle",
+   "url": "https://archaeology.org/issues/may-june-2019/artifacts/artifact-utah-ancestral-pueblo-tattoo-needle/"
+  }
+ },
+ {
+  "id": "v06-basketmaker-beetle-necklace",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "About 500 BCE–500 CE",
+  "cat": "culture",
+  "title": "Necklaces of Shimmering Beetle Legs",
+  "place": "Boomerang Shelter and Atlatl Cave, Bears Ears National Monument, Utah, USA",
+  "lat": 37.4,
+  "lng": -109.8,
+  "text": "Basketmaker II people in southeastern Utah strung jewellery from the iridescent green legs of June beetles. A fibre fragment from Boomerang Shelter holds 16 legs, and a complete necklace, probably from Atlatl Cave about 20 miles away and radiocarbon dated to the Basketmaker II period, has more than 200, threaded on fine yucca cord. Each necklace took over 100 insects.",
+  "source": {
+   "name": "Archaeology Magazine: The Beauty of Bugs",
+   "url": "https://archaeology.org/issues/may-june-2023/digs-discoveries/utah-basketmaker-beetle-ornament/"
+  }
+ },
+ {
+  "id": "v06-miami-tequesta-village",
+  "era": "classical",
+  "year": -50,
+  "dateLabel": "About 2,000 years ago",
+  "cat": "daily",
+  "title": "Postholes in Miami's Bedrock",
+  "place": "North bank of the Miami River, downtown Miami, Florida, USA",
+  "lat": 25.77,
+  "lng": -80.19,
+  "text": "Across the Miami River from the famous Miami Circle, archaeologist Bob Carr's team uncovered a Tequesta village about 2,000 years old. Eight large circles of postholes were cut into the limestone bedrock, linked by lines of postholes that may mark boardwalks between dwellings. Carr called it one of the earliest urban plans in eastern North America, and a Tequesta burial ground lay nearby.",
+  "source": {
+   "name": "Archaeology Magazine: The Birthplace of Miami",
+   "url": "https://archaeology.org/news/2014/02/04/140204-florida-tequesta-miami-circle/"
+  }
+ },
+ {
+  "id": "v06-mound-key-beginnings",
+  "era": "classical",
+  "year": 500,
+  "dateLabel": "About 300–500 CE",
+  "cat": "daily",
+  "title": "A Shell Island Gets Its Start",
+  "place": "Mound Key, Estero Bay, Florida, USA",
+  "lat": 26.42,
+  "lng": -81.86,
+  "text": "Mound Key, a 51-hectare island in Estero Bay built largely from shell, later became the capital of the Calusa kingdom. Intensive radiocarbon dating suggests people first settled it sometime between about 300 and 500 CE, perhaps when a slight drop in sea level exposed high ground. Over the following centuries their shell heaps grew into mounds up to 10 meters high.",
+  "source": {
+   "name": "PLOS ONE (PMC): From Shell Midden to Midden-Mound: The Geoarchaeology of Mound Key",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4849735/"
+  }
+ }
+]

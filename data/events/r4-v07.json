@@ -1,0 +1,402 @@
+[
+ {
+  "id": "v07-salwasiren-dugong-cemetery",
+  "era": "deep",
+  "year": -21000000,
+  "dateLabel": "About 21 million years ago",
+  "cat": "nature",
+  "title": "A Sea Cow Graveyard in the Desert",
+  "place": "Al Maszhabiya, southwestern Qatar",
+  "lat": 24.95,
+  "lng": 50.95,
+  "text": "1970s mining and oil surveys turned up what looked like reptile bones in southwestern Qatar, and officials later nicknamed the spot the \"dugong cemetery.\" The bones belong to sea cows that grazed seagrass here about 21 million years ago. New species Salwasiren qatarensis weighed only about 113 kilograms and still had hind limb bones. More than 170 fossil spots make this the world's richest sea cow bonebed.",
+  "source": {
+   "name": "EurekAlert (Smithsonian): Arabian Gulf fossil bed reveals new sea cow species",
+   "url": "https://www.eurekalert.org/news-releases/1108388"
+  }
+ },
+ {
+  "id": "v07-hadjoula-nautilus-brain",
+  "era": "deep",
+  "year": -95000000,
+  "dateLabel": "About 95 million years ago",
+  "cat": "discovery",
+  "title": "A Fossil Nautilus That Kept Its Eyes",
+  "place": "Hadjoula (Hjoula), Byblos District, Lebanon",
+  "lat": 34.14,
+  "lng": 35.73,
+  "text": "Lebanon's limestone hills around Hadjoula hold some of the finest fossils of the Cretaceous seas. Researchers studied two nautiluses of the species Syrionautilus libanoticus whose soft bodies survived for about 95 million years. One, found without its shell, still shows traces of its gut, central nervous system, eyes and mantle. Its arms and hood are missing, so it may be a leftover dropped by a predator that ate the rest.",
+  "source": {
+   "name": "Swiss Journal of Palaeontology: Preservation of nautilid soft parts from the Lebanese Cenomanian",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8549922/"
+  }
+ },
+ {
+  "id": "v07-haqel-beak-fish",
+  "era": "deep",
+  "year": -95000000,
+  "dateLabel": "About 95 million years ago",
+  "cat": "nature",
+  "title": "A Swordfish Before Swordfish Existed",
+  "place": "Haqel, Byblos District, Lebanon",
+  "lat": 34.17,
+  "lng": 35.7,
+  "text": "Long before true billfish evolved, another fish hunted Cretaceous seas with a pointed bill. Rhamphoichthys taxidiotis had a hollow snout about half as long as its skull, a slender body with around 100 vertebrae, and fin rays longer than its body was deep. One whole skeleton comes from the fossil quarries of Haqel in Lebanon, others from Germany. Its name means \"traveller beak fish,\" for its wide-roaming open-sea life.",
+  "source": {
+   "name": "Royal Society Open Science: The first articulated skeletons of enigmatic Late Cretaceous billfish-like actinopterygians",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10698480/"
+  }
+ },
+ {
+  "id": "v07-uragasaurus-phu-noi",
+  "era": "deep",
+  "year": -150000000,
+  "dateLabel": "About 150 million years ago",
+  "cat": "discovery",
+  "title": "Thailand's First Named Serpent-Necked Giant",
+  "place": "Phu Noi locality, Ban Din Chi, Kham Muang, Kalasin, Thailand",
+  "lat": 16.93,
+  "lng": 103.72,
+  "text": "Near the village of Ban Din Chi, the Phu Noi fossil site keeps giving up dinosaurs from the end of the Jurassic. In 2026 scientists named Uragasaurus kalasinensis, Thailand's first known mamenchisaurid, a sauropod family famous for extremely long necks. Its name comes from the Sanskrit word for serpent. CT scans of a single back vertebra, more than half a metre tall, revealed honeycomb-like air spaces inside the bone.",
+  "source": {
+   "name": "Scientific Reports: A new mamenchisaurid sauropod from the Lower Phu Kradung Formation of northeastern Thailand",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13346820/"
+  }
+ },
+ {
+  "id": "v07-nagatitan-village-pond",
+  "era": "deep",
+  "year": -115000000,
+  "dateLabel": "About 115 million years ago",
+  "cat": "discovery",
+  "title": "Southeast Asia's Biggest Dinosaur, by a Pond",
+  "place": "Ban Pha Nang Sua, Nong Bua Rawe District, Chaiyaphum, Thailand",
+  "lat": 15.86,
+  "lng": 101.8,
+  "text": "Bones in a bed beside a village pond at Ban Pha Nang Sua in Chaiyaphum turned out to belong to one giant animal. Nagatitan chaiyaphumensis, named for the serpent-like naga and the titans of Greek myth, was a long-necked sauropod roughly 27 metres long and around 27 tonnes. Its thighbone alone was nearly two metres. It is the largest sauropod yet known from Southeast Asia.",
+  "source": {
+   "name": "Scientific Reports: The first sauropod dinosaur from the Lower Cretaceous Khok Kruat Formation of Thailand",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13176339/"
+  }
+ },
+ {
+  "id": "v07-calio-sulawesi-toolmakers",
+  "era": "deep",
+  "year": -1040000,
+  "dateLabel": "Over 1 million years ago",
+  "cat": "journeys",
+  "title": "Toolmakers Reached Sulawesi a Million Years Ago",
+  "place": "Calio, near Ujung, Soppeng Regency, South Sulawesi, Indonesia",
+  "lat": -4.34,
+  "lng": 120.01,
+  "text": "In old river sands near Ujung village in South Sulawesi, archaeologists found seven chert flakes alongside the jaw of Celebochoerus, an extinct big pig. Dating of the pig's teeth and the rocks' ancient magnetism shows the tools are at least 1.04 million years old, far older than any earlier sign of people on the island. Sulawesi lies across the sea from Asia, so unknown early humans somehow crossed water.",
+  "source": {
+   "name": "Nature: Hominins on Sulawesi during the Early Pleistocene",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12507672/"
+  }
+ },
+ {
+  "id": "v07-shanidar-a-spear-wound",
+  "era": "early",
+  "year": -75000,
+  "dateLabel": "About 75,000 years ago",
+  "cat": "discovery",
+  "title": "A Spear Wound in Shanidar Cave",
+  "place": "Shanidar Cave, Kurdistan Region, Iraq",
+  "lat": 36.83,
+  "lng": 44.22,
+  "text": "Digging in Shanidar Cave in 2019 and 2022 uncovered Shanidar A, a Neanderthal of about 45, laid in the same tight cluster as other bodies around 75,000 years ago. A neat 15-millimetre hole in the left shoulder blade suggests a wooden spear passed through the chest, probably killing them quickly. Years earlier, the same person had survived a blow to the face that split a front tooth.",
+  "source": {
+   "name": "Scientific Reports: Funerary behaviour and lethal trauma in a new Neanderthal individual from Shanidar Cave",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13672083/"
+  }
+ },
+ {
+  "id": "v07-bawa-yawan-baby-tooth",
+  "era": "early",
+  "year": -42500,
+  "dateLabel": "About 42,500 years ago",
+  "cat": "discovery",
+  "title": "A Neanderthal Child's Lost Baby Tooth",
+  "place": "Bawa Yawan rockshelter, Kermanshah, Iran",
+  "lat": 34.64,
+  "lng": 46.93,
+  "text": "Over 41,000 years ago, a Neanderthal child about six years old lost a baby canine in a rockshelter in Iran's Zagros Mountains. Archaeologists found it 2.5 metres down at Bawa Yawan, among Zagros Mousterian stone tools and the bones of hoofed animals. The little tooth finally showed that Neanderthals made these tools, and hints that they lingered in the Zagros later than experts once thought.",
+  "source": {
+   "name": "PLOS ONE: An in situ Neanderthal remain in the Bawa Yawan Rockshelter, Kermanshah",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8389444/"
+  }
+ },
+ {
+  "id": "v07-al-khod-hadrosauroids",
+  "era": "deep",
+  "year": -68000000,
+  "dateLabel": "About 70 to 66 million years ago",
+  "cat": "journeys",
+  "title": "Island-Hopping Dinosaurs Reach Oman",
+  "place": "Al-Khod, near Muscat, Oman",
+  "lat": 23.56,
+  "lng": 58.17,
+  "text": "Near the village of Al-Khod outside Muscat, gravels washed off newly risen mountains buried dinosaur bones about 70 to 66 million years ago. Among them are broken leg bones and vertebrae of hadrosauroids, relatives of the duck-billed dinosaurs, the first known from Late Cretaceous Afro-Arabia. Northeastern Oman may then have been an island in the Tethys Sea, so these plant-eaters probably came from Asia or Europe, perhaps by island-hopping.",
+  "source": {
+   "name": "PLOS ONE: Hadrosauroid Dinosaurs from the Late Cretaceous of the Sultanate of Oman",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4643044/"
+  }
+ },
+ {
+  "id": "v07-madar-dinosaur-herd",
+  "era": "deep",
+  "year": -150000000,
+  "dateLabel": "Around 150 million years ago",
+  "cat": "discovery",
+  "title": "A Dinosaur Herd Crosses a Yemeni Mudflat",
+  "place": "Madar, Arhab, north of Sana'a, Yemen",
+  "lat": 15.78,
+  "lng": 44.24,
+  "text": "A local journalist spotted the first footprints near Madar village, 47 kilometres north of Sana'a. They became Arabia's first known dinosaur tracksite, pressed into a coastal mudflat sometime between the Middle Jurassic and the earliest Cretaceous. Eleven parallel sauropod trackways show big and small long-necks walking together as a herd at about 3 kilometres an hour, while a two-legged plant-eater left 15 footprints in a row.",
+  "source": {
+   "name": "PLOS ONE: First Dinosaur Tracks from the Arabian Peninsula",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2373924/"
+  }
+ },
+ {
+  "id": "v07-zanjan-plover-dance",
+  "era": "deep",
+  "year": -14000000,
+  "dateLabel": "About 13 to 15 million years ago",
+  "cat": "nature",
+  "title": "A Bird Courtship Dance in Stone",
+  "place": "Chehr-Abad, west of Zanjan, Zanjan Province, Iran",
+  "lat": 36.95,
+  "lng": 47.79,
+  "text": "On a cliff about 90 kilometres west of Zanjan, a slab of 13- to 15-million-year-old mud preserves some 70 trackways of small four-toed birds, probably plovers. One researcher reads the tangle as a courtship dance: high stepping, stomping, hopping, sideways leaps and brief fluttering flights. Several nearly parallel trails may even record rival males dancing at once. Because the cliff is so steep, much was studied from drone photos.",
+  "source": {
+   "name": "Scientific Reports: Reconstructing Miocene bird mating behavior from a fossil tracksite",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12267632/"
+  }
+ },
+ {
+  "id": "v07-jebel-qattar-lake-tools",
+  "era": "early",
+  "year": -75000,
+  "dateLabel": "About 75,000 years ago",
+  "cat": "journeys",
+  "title": "Toolmakers by a Lake in the Nefud",
+  "place": "Jebel Qattar 1, Jubbah, Nefud Desert, Saudi Arabia",
+  "lat": 28.01,
+  "lng": 41.06,
+  "text": "Today Jebel Qattar rises from the dunes of the Nefud Desert, but about 75,000 years ago it stood beside a lake in grassland dotted with trees. Middle Palaeolithic people left Levallois flakes and a retouched point in an ancient soil there, and a deeper soil holds tools about 211,000 years old. Their style recalls toolkits from the Levant and Africa, though nobody knows which kind of human made them.",
+  "source": {
+   "name": "PLOS ONE: Hominin dispersal into the Nefud Desert and Middle Palaeolithic settlement along the Jubbah Palaeolake",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3501467/"
+  }
+ },
+ {
+  "id": "v07-nesher-ramla-aurochs",
+  "era": "early",
+  "year": -120000,
+  "dateLabel": "About 120,000 years ago",
+  "cat": "daily",
+  "title": "The Aurochs That Escaped a Spear",
+  "place": "Nesher Ramla, near Ramla, central Israel",
+  "lat": 31.93,
+  "lng": 34.88,
+  "text": "About 120,000 years ago, archaic humans at Nesher Ramla in central Israel hunted aurochs, huge wild cattle, picking mostly prime-aged cows, probably in the dry summer. One aurochs shinbone holds a flint chip about 6 millimetres long, with new bone grown around it: the animal survived a hunt for at least four weeks before being caught again. The bones point to many small, planned hunts, not mass kills.",
+  "source": {
+   "name": "Scientific Reports: Archaic humans in the Middle Palaeolithic Levant conducted planned and selective intercepts of aurochs",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12658198/"
+  }
+ },
+ {
+  "id": "v07-an-khe-bifaces",
+  "era": "early",
+  "year": -800000,
+  "dateLabel": "About 800,000 years ago",
+  "cat": "discovery",
+  "title": "Stone Picks in Vietnam's Highlands",
+  "place": "Go Da and Roc Tung, An Khe, Gia Lai Province, Vietnam",
+  "lat": 13.96,
+  "lng": 108.66,
+  "text": "Near the town of An Khe in Vietnam's Central Highlands, archaeologists dug up stone tools at Go Da and Roc Tung: bifaces, heavy picks, choppers and scrapers, mostly made from river pebbles. Tektites, bits of natural glass lying with the tools, were dated to about 806,000 and 782,000 years ago. The researchers argue early humans here invented their bifaces locally, rather than inheriting Africa's handaxe tradition.",
+  "source": {
+   "name": "Archaeology, Ethnology & Anthropology of Eurasia: The Discovery of a Bifacial Industry in Vietnam",
+   "url": "https://archaeology.nsc.ru/en/publications/jr-aeae-en/18-46-3/annot-01/"
+  }
+ },
+ {
+  "id": "v07-mansuli-workshop",
+  "era": "early",
+  "year": -235000,
+  "dateLabel": "About 235,000 years ago",
+  "cat": "daily",
+  "title": "Borneo's Oldest Stone Tool Workshop",
+  "place": "Mansuli Valley, near Lahad Datu, Sabah, Malaysia",
+  "lat": 5.1,
+  "lng": 118.12,
+  "text": "In 2003, an archaeological team walking to a cave about 30 kilometres from Lahad Datu in eastern Sabah stumbled on stone tools lying on the ground in the Mansuli Valley. Digs by the Sabah Museum and Universiti Sains Malaysia uncovered more than 1,000 tools and a workshop where people shaped chert, a fine silica-rich stone. Luminescence dating puts it at about 235,000 years old, Borneo's oldest known Palaeolithic site.",
+  "source": {
+   "name": "Department of National Heritage Malaysia: Lembah Mansuli, 235,000 years",
+   "url": "https://www.heritage.gov.my/en/arkeologi-sabah/lembah-mansuli-235-000-tahun.html"
+  }
+ },
+ {
+  "id": "v07-kota-tampan-under-ash",
+  "era": "early",
+  "year": -70000,
+  "dateLabel": "About 70,000 years ago",
+  "cat": "discovery",
+  "title": "Stone Tools Beneath Supervolcano Ash",
+  "place": "Kota Tampan, Lenggong Valley, Perak, Malaysia",
+  "lat": 5.08,
+  "lng": 100.95,
+  "text": "In 1954, a dig at Kota Tampan in Perak's Lenggong Valley found stone tools sealed beneath ash from Sumatra's Toba volcano, and later dating put the tool layer at about 70,000 years old. When researchers restudied the finds in 2020, 165 of the 234 recorded artefacts could not be found. The 69 survivors, linked to early modern humans, were flaked with hand-held hammers or smashed on an anvil.",
+  "source": {
+   "name": "Antiquity: The Palaeolithic stone assemblage of Kota Tampan, West Malaysia",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/kota-tampan-revisited/E0555667C8BBE817B1AE8FCE8135075F"
+  }
+ },
+ {
+  "id": "v07-leang-sarru-talaud",
+  "era": "early",
+  "year": -35000,
+  "dateLabel": "About 35,000 years ago",
+  "cat": "journeys",
+  "title": "Seafarers Reach the Remote Talaud Islands",
+  "place": "Leang Sarru, Salibabu Island, Talaud Islands, Indonesia",
+  "lat": 3.98,
+  "lng": 126.68,
+  "text": "The Talaud Islands lie more than 100 kilometres from any neighbouring island, a gap that existed even in the Pleistocene. Yet people reached Leang Sarru, a rockshelter on Salibabu Island, about 35,000 years ago. They left many chert flakes and heaps of sea and land shells, especially turban snails and nerites. It is the oldest known archaeological site anywhere around the Sulawesi Sea.",
+  "source": {
+   "name": "ANU Press, The Archaeology of Sulawesi: Marine and terrestrial resource use in the Talaud Islands (Ono, Sriwigati and Siswanto)",
+   "url": "https://press-files.anu.edu.au/downloads/press/n4569/html/ch15.xhtml"
+  }
+ },
+ {
+  "id": "v07-mosquitoes-bite-early-humans",
+  "era": "deep",
+  "year": -1800000,
+  "dateLabel": "About 1.8 million years ago",
+  "cat": "nature",
+  "title": "Mosquitoes Learn to Bite Early Humans",
+  "place": "Sundaland rainforests, Borneo, Indonesia and Malaysia",
+  "lat": 1,
+  "lng": 113,
+  "text": "Southeast Asia's forest malaria mosquitoes started out feeding on monkeys and other primates in the treetops. Genome studies of 11 species in the Anopheles leucosphyrus group suggest a taste for human blood evolved once, in Sundaland, roughly 2.9 to 1.6 million years ago. That window overlaps the earliest proposed arrival of Homo erectus, about 1.8 million years ago, hinting early humans were already plentiful.",
+  "source": {
+   "name": "Scientific Reports: Early hominin arrival in Southeast Asia triggered the evolution of major human malaria vectors",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12946254/"
+  }
+ },
+ {
+  "id": "v07-sirindhorna-crested-skull",
+  "era": "deep",
+  "year": -115000000,
+  "dateLabel": "About 115 million years ago",
+  "cat": "discovery",
+  "title": "The Crested Skull of Khorat",
+  "place": "Ban Saphan Hin, Suranaree, Nakhon Ratchasima, Thailand",
+  "lat": 14.88,
+  "lng": 102.06,
+  "text": "In Early Cretaceous rocks at Ban Saphan Hin near Nakhon Ratchasima, scientists found several braincases, jaws and teeth of a plant-eating dinosaur. Named Sirindhorna khoratensis in 2015, it is the best-preserved iguanodontian dinosaur known from Southeast Asia, with a bony crest running along the top of its skull. It sits close to the root of the family tree that later produced the duck-billed dinosaurs.",
+  "source": {
+   "name": "PLOS ONE: A New Basal Hadrosauroid Dinosaur from the Lower Cretaceous Khok Kruat Formation, Nakhon Ratchasima",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4696827/"
+  }
+ },
+ {
+  "id": "v07-qafzeh-25-healed-cut",
+  "era": "early",
+  "year": -100000,
+  "dateLabel": "About 100,000 years ago",
+  "cat": "discovery",
+  "title": "The Oldest Known Blade Wound",
+  "place": "Qafzeh Cave, near Nazareth, Lower Galilee, Israel",
+  "lat": 32.68,
+  "lng": 35.32,
+  "text": "In 1979, excavators in Qafzeh Cave near Nazareth uncovered the skeleton of a young adult, probably male, buried at least 92,000 years ago. A 2026 restudy found a 9-millimetre V-shaped cut along the left jaw that also clipped a premolar, likely from a blow with something sharp. The bone had healed, so the person lived on. Researchers call it the earliest documented case of sharp-force trauma.",
+  "source": {
+   "name": "Scientific Reports: A taphonomic reassessment of Qafzeh 25 and its implications for violence, health and funerary practices",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13623648/"
+  }
+ },
+ {
+  "id": "v07-indosinosuchus-lagoon-croc",
+  "era": "deep",
+  "year": -165000000,
+  "dateLabel": "About 165 million years ago",
+  "cat": "nature",
+  "title": "A Jurassic Croc in a Thai Lagoon",
+  "place": "Ban Nam Pun, Bang Khan District, Nakhon Si Thammarat, Thailand",
+  "lat": 8.97,
+  "lng": 99.47,
+  "text": "In 2004 a Thai-French expedition at Ban Nam Pun in southern Thailand collected two limestone blocks holding a snout, back bones and armour plates. CT scans revealed a new teleosaurid, Indosinosuchus peninsularensis, a long-snouted relative of crocodiles from the Jurassic. Its cousins lived in rivers in northeastern Thailand, but this one hunted in a calm lagoon near the sea, showing these animals coped with very different homes.",
+  "source": {
+   "name": "PeerJ: A new teleosaurid from the Sibumasu Terrane of Southeast Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13007635/"
+  }
+ },
+ {
+  "id": "v07-kvabebi-rhino",
+  "era": "deep",
+  "year": -2700000,
+  "dateLabel": "About 2.7 million years ago",
+  "cat": "nature",
+  "title": "A Rhino Near the Woolly Rhino's Roots",
+  "place": "Kvabebi, Kakheti, eastern Georgia",
+  "lat": 41.4,
+  "lng": 46.1,
+  "text": "Fossil hunters at Kvabebi in eastern Georgia collected two partial skulls, a jaw, many teeth and limb bones of a rhinoceros that lived about 2.7 million years ago. Filed for decades under other names, it was renamed Scythicorhinus vekuai in 2026. Its low-crowned, deeply folded teeth mark it as an early branch close to where the woolly rhino's lineage split from its relatives. The bones are kept in Tbilisi.",
+  "source": {
+   "name": "Scientific Reports: Scythicorhinus vekuai from the Pliocene of Georgia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13351038/"
+  }
+ },
+ {
+  "id": "v07-yamula-ignimbrite-bonebeds",
+  "era": "deep",
+  "year": -7700000,
+  "dateLabel": "About 7.7 million years ago",
+  "cat": "discovery",
+  "title": "Bone Beds Between Volcanic Blasts",
+  "place": "Yamula reservoir, north of Kayseri, Türkiye",
+  "lat": 38.88,
+  "lng": 35.22,
+  "text": "When the Yamula reservoir north of Kayseri filled with water, paleontologists took a closer look at its shores. They found bone beds of Late Miocene mammals, including three kinds of ancient elephant relatives, sandwiched between layers of volcanic ignimbrite. Dating crystals from the volcanic rock put one layer at about 7.7 million years old, helping turn central Anatolia's fossils into a precise clock for animal evolution.",
+  "source": {
+   "name": "PNAS: Building better biochronology: New fossils and 40Ar/39Ar dates from Central Anatolia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11962512/"
+  }
+ },
+ {
+  "id": "v07-pahang-spinosaurid-tooth",
+  "era": "deep",
+  "year": -110000000,
+  "dateLabel": "Between 145 and 75 million years ago",
+  "cat": "discovery",
+  "title": "Malaysia's First Dinosaur Was a Fish-Eater",
+  "place": "Rural interior of Pahang, Malaysia",
+  "lat": 3.9,
+  "lng": 102.4,
+  "text": "After searching since 2012, a University of Malaya team with Japanese colleagues found Malaysia's first known dinosaur remains in the rural interior of Pahang. The key fossil is a tooth about 23 millimetres long, with serrated edges, coarse ridges and fine surface ornament typical of spinosaurids, fish-eating carnivores. It comes from rock probably 145 to 75 million years old, and the team urged protection of the site from looters.",
+  "source": {
+   "name": "ScienceDaily (ResearchSEA release): First dinosaur fossil found in Malaysia",
+   "url": "https://www.sciencedaily.com/releases/2014/02/140224204737.htm"
+  }
+ },
+ {
+  "id": "v07-trinil-gibbon-femur",
+  "era": "early",
+  "year": -800000,
+  "dateLabel": "About 800,000 years ago",
+  "cat": "discovery",
+  "title": "A Gibbon Hiding in an Old Collection",
+  "place": "Trinil, Solo River, East Java, Indonesia",
+  "lat": -7.37,
+  "lng": 111.36,
+  "text": "In Leiden, among the fossils Eugène Dubois collected from the Solo River bonebed at Trinil in Java, sat a small thighbone labelled as a langur monkey. Researchers showed it actually belonged to a gibbon, with a round hip joint and slender neck suited to hanging from branches. At about 800,000 years old, it is the oldest gibbon known from island Southeast Asia, and hints at evergreen rainforest nearby.",
+  "source": {
+   "name": "PLOS ONE: The oldest gibbon fossil (Hylobatidae) from insular Southeast Asia: evidence from Trinil, East Java",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4051846/"
+  }
+ }
+]

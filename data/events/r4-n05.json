@@ -1,0 +1,366 @@
+[
+ {
+  "id": "n05-cabrillo-san-diego-bay",
+  "era": "exploration",
+  "year": 1542,
+  "dateLabel": "1542",
+  "cat": "journeys",
+  "title": "A Very Good Enclosed Port",
+  "place": "Point Loma, San Diego, California, USA",
+  "lat": 32.67,
+  "lng": -117.24,
+  "text": "On June 27, 1542, Juan Rodríguez Cabrillo sailed from Navidad, Mexico, leading the first known European expedition along today's US West Coast. Three months later he reached \"a very good enclosed port\", now San Diego Bay, where the Kumeyaay had lived for thousands of years. Cabrillo's records became the first written account of this coast by a newcomer.",
+  "source": {
+   "name": "National Park Service, Cabrillo National Monument: Juan Rodriguez Cabrillo",
+   "url": "https://www.nps.gov/cabr/learn/historyculture/juan-rodriguez-cabrillo.htm"
+  }
+ },
+ {
+  "id": "n05-sunset-crater-eruption",
+  "era": "medieval",
+  "year": 1085,
+  "dateLabel": "Around 1085",
+  "cat": "nature",
+  "title": "The Ground Tears Open in Arizona",
+  "place": "Sunset Crater Volcano, Arizona, USA",
+  "lat": 35.37,
+  "lng": -111.5,
+  "text": "Around the year 1085, the ground in northern Arizona was torn open and lava erupted into the sky. The eruption buried homes and displaced the people living nearby, and stories they told about it survive to the present day. The volcano is named for the rusty red cinders near its peak, and it was the most recent eruption in Arizona.",
+  "source": {
+   "name": "National Park Service, Sunset Crater Volcano: History & Culture",
+   "url": "https://www.nps.gov/sucr/learn/historyculture/index.htm"
+  },
+  "source2": {
+   "name": "National Park Service: Sunset Crater Volcano National Monument",
+   "url": "https://www.nps.gov/sucr/index.htm"
+  }
+ },
+ {
+  "id": "n05-champlain-quebec",
+  "era": "exploration",
+  "year": 1608,
+  "dateLabel": "July 3, 1608",
+  "cat": "daily",
+  "title": "A Hard First Winter at Quebec",
+  "place": "Quebec City, Quebec, Canada",
+  "lat": 46.81,
+  "lng": -71.2,
+  "text": "Samuel de Champlain arrived off Cap Diamant on July 3, 1608, and chose \"the point of Quebec\" for a settlement where the fur trade with First Nations could be controlled. His men built a storehouse and two-storey living quarters, and he foiled a plot to murder him. That winter scurvy struck hard: sixteen of the 25 men died.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Samuel de Champlain",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/samuel-de-champlain"
+  }
+ },
+ {
+  "id": "n05-frobisher-fools-gold",
+  "era": "exploration",
+  "year": 1577,
+  "dateLabel": "1577 (second voyage)",
+  "cat": "journeys",
+  "title": "Fool's Gold from Baffin Island",
+  "place": "Frobisher Bay, Baffin Island, Nunavut, Canada",
+  "lat": 62.85,
+  "lng": -65.7,
+  "text": "Martin Frobisher came looking for the Northwest Passage in 1576 and met the Inuit of Baffin Island, but he took home a lump of ore an assayer claimed held gold. In 1577 he returned with orders to dig ore, and clashes with the Inuit followed. In the end about 1,350 tonnes of ore were shipped to England, and none of it contained precious metals.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Sir Martin Frobisher",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/sir-martin-frobisher"
+  }
+ },
+ {
+  "id": "n05-hudsons-bay-company-charter",
+  "era": "exploration",
+  "year": 1670,
+  "dateLabel": "May 2, 1670",
+  "cat": "daily",
+  "title": "Beaver Hats Build a Company",
+  "place": "Hudson Bay (Rupert's Land), Canada",
+  "lat": 57.0,
+  "lng": -92.3,
+  "text": "European demand for felt hats made from beaver fur led to the Hudson's Bay Company, chartered on 2 May 1670 with exclusive trading rights over the lands drained by rivers flowing into Hudson Bay. Indigenous peoples trapped in fall and winter, when pelts were best, then travelled to the trading posts in summer to swap furs for metal tools, guns, textiles and food.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Hudson's Bay Company",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/hudsons-bay-company"
+  }
+ },
+ {
+  "id": "n05-wendat-dispersal",
+  "era": "exploration",
+  "year": 1649,
+  "dateLabel": "1649",
+  "cat": "power",
+  "title": "The Wendat Scatter but Survive",
+  "place": "Christian Island, Georgian Bay, Ontario, Canada",
+  "lat": 44.82,
+  "lng": -80.22,
+  "text": "Before 1600 the Wendat of today's Ontario numbered about 20,000 to 25,000, living in villages of up to 3,500 people and growing corn, beans and squash. Epidemics then cut them to about 9,000. In 1648 and 1649, Haudenosaunee warriors armed with Dutch firearms dispersed them, and about 1,000 fled to Christian Island. The Wendat nation still lives on at Wendake, Quebec.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Wendat (Huron)",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/huron"
+  }
+ },
+ {
+  "id": "n05-stallings-island-pottery",
+  "era": "ancient",
+  "year": -1800,
+  "dateLabel": "About 3,800 years ago",
+  "cat": "daily",
+  "title": "North America's Oldest Pots",
+  "place": "Stallings Island, Savannah River, Georgia, USA",
+  "lat": 33.56,
+  "lng": -82.05,
+  "text": "About 3,800 years ago, Stallings Island in the Savannah River was the population center of a hunter-gatherer society. Its people made Stallings fiber-tempered pottery, the oldest pottery in North America, long before farming reached Georgia. They left a two-acre heap of freshwater shellfish remains, over ten feet thick in places. By 3,500 years ago the island had been abandoned.",
+  "source": {
+   "name": "New Georgia Encyclopedia (Kenneth E. Sassaman, University of Florida): Stallings Island Site",
+   "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/stallings-island-site/"
+  }
+ },
+ {
+  "id": "n05-adena-pipe",
+  "era": "ancient",
+  "year": -800,
+  "dateLabel": "Made between 800 BCE and 1 CE",
+  "cat": "culture",
+  "title": "The Pipe Shaped Like a Man",
+  "place": "Adena Mound, Chillicothe, Ohio, USA",
+  "lat": 39.35,
+  "lng": -82.99,
+  "text": "An Adena sculptor carved this pipe from Ohio pipestone sometime between 800 BCE and 1 CE. It shows a muscular young man with flexed knees and an open mouth, perhaps dancing or singing. Tobacco burned in a bowl between his feet, and the smoke travelled through his body to a mouthpiece on his head. It lay near the left hand of an important man buried in the Adena Mound.",
+  "source": {
+   "name": "Cleveland Museum of Art (Susan E. Bergh): Centennial Loan: Adena Pipe",
+   "url": "https://www.clevelandart.org/articles/centennial-loan-adena-pipe"
+  }
+ },
+ {
+  "id": "n05-pre-dorset-first-arctic-people",
+  "era": "ancient",
+  "year": -3000,
+  "dateLabel": "Roughly 5,000 years ago",
+  "cat": "journeys",
+  "title": "The First People of the Eastern Arctic",
+  "place": "Foxe Basin, Nunavut, Canada",
+  "lat": 68.5,
+  "lng": -79.5,
+  "text": "Roughly 5,000 years ago, the first permanent residents of the Eastern Arctic arrived, likely crossing the Bering Strait from Chukotka. Archaeologists call them Palaeo-Inuit, while Inuit oral histories call the earliest Arctic people Tuniit. The Pre-Dorset lived in skin tents held down by rings of watermelon-sized boulders, and fixed tiny pressure-flaked stone blades to handles of bone, ivory or wood.",
+  "source": {
+   "name": "The Canadian Encyclopedia (Patrick Jolicoeur): Pre-Dorset",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/pre-dorset-culture"
+  }
+ },
+ {
+  "id": "n05-serpent-mounds-ontario",
+  "era": "classical",
+  "year": -50,
+  "dateLabel": "Built up between 50 BCE and 300 CE",
+  "cat": "culture",
+  "title": "Canada's Only Earthen Serpent",
+  "place": "Serpent Mounds, Rice Lake, near Keene, Ontario, Canada",
+  "lat": 44.21,
+  "lng": -78.13,
+  "text": "On a bluff above Rice Lake lies Canada's only known effigy mound: a winding earthen serpent about 60 metres long, 8 metres wide and up to 1.8 metres high. It grew gradually between 50 BCE and 300 CE from six separate burial places, a sign of a sacred spot visited for ceremonies. Higher-status people were buried at its base, while commoners were scattered through the fill.",
+  "source": {
+   "name": "The Canadian Encyclopedia (Walter A. Kenyon): Serpent Mounds",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/serpent-mounds"
+  }
+ },
+ {
+  "id": "n05-pinson-twin-mound",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "About 100 CE",
+  "cat": "culture",
+  "title": "Rattles Made from Skulls",
+  "place": "Pinson Mounds, near Jackson, Tennessee, USA",
+  "lat": 35.5,
+  "lng": -88.68,
+  "text": "Around 100 CE, people at Pinson Mounds raised the northern Twin Mound over four log- or fabric-covered tombs holding sixteen adults. Some wore fiber headdresses with copper ornaments and freshwater pearl necklaces, and an elderly man lay with two rattles cut from human skulls, filled with river pebbles. Pottery shows that people from as far as southern Georgia and Louisiana joined rituals here.",
+  "source": {
+   "name": "Tennessee Encyclopedia (Robert C. Mainfort Jr. and Mary L. Kwas): Pinson Mounds State Archaeological Park",
+   "url": "https://tennesseeencyclopedia.net/entries/pinson-mounds-state-archaeological-park/"
+  }
+ },
+ {
+  "id": "n05-old-bering-sea-ivory-woman",
+  "era": "classical",
+  "year": -120,
+  "dateLabel": "2nd century BCE–1st century CE",
+  "cat": "culture",
+  "title": "An Ivory Woman from the Bering Sea",
+  "place": "St. Lawrence Island, Alaska, USA",
+  "lat": 63.4,
+  "lng": -170.4,
+  "text": "On St. Lawrence Island, an Old Bering Sea artist carved this woman from walrus ivory, 21 cm tall. Her people lived largely from the sea, hunting walrus, seal and whale, and they incised their harpoon heads with spirit images honoring the animals they hunted. Nobody is sure what such figures were for: some experts call them dolls, perhaps once dressed, others ceremonial objects.",
+  "source": {
+   "name": "The Metropolitan Museum of Art: Female Figure, Old Bering Sea (2001.760)",
+   "url": "https://www.metmuseum.org/art/collection/search/318953"
+  }
+ },
+ {
+  "id": "n05-mesa-verde-great-drought",
+  "era": "medieval",
+  "year": 1275,
+  "dateLabel": "1275–1290",
+  "cat": "nature",
+  "title": "Sixteen Summers, Two Wet Ones",
+  "place": "Mesa Verde region, southwest Colorado, USA",
+  "lat": 37.18,
+  "lng": -108.49,
+  "text": "Tree rings show that from 1275 to 1290 the Southwest suffered severe drought, with only two wet years in sixteen. It likely helped empty Mesa Verde: some 40,000 Ancestral Pueblo farmers left southwest Colorado in the late 1200s as drought wrecked the conditions their maize crops needed. They presumably moved to the Pajarito Plateau in the northern Rio Grande, where the climate was steadier.",
+  "source": {
+   "name": "NOAA Climate.gov: Southwest droughts since 1200s",
+   "url": "https://www.climate.gov/media/13516"
+  },
+  "source2": {
+   "name": "Santa Fe Institute: Ancient climate change explains historical migration (Kohler, Nature Communications)",
+   "url": "https://santafe.edu/news-center/news/Tim-Kohler-nature-communications-ancient-climate-change-explains-historical-migration"
+  }
+ },
+ {
+  "id": "n05-spiro-mounds",
+  "era": "medieval",
+  "year": 850,
+  "dateLabel": "850–1450",
+  "cat": "daily",
+  "title": "Spiro, a Trading Hub on the Arkansas",
+  "place": "Spiro Mounds, near Spiro, Oklahoma, USA",
+  "lat": 35.31,
+  "lng": -94.57,
+  "text": "Between 850 and 1450, Mississippian people at Spiro built twelve mounds, ceremonial areas and a support city. Their trade links reached from the Rocky Mountains to the Virginia coast and from Florida's Gulf Coast to the Great Lakes. Craig Mound held more than 600 burials and thousands of objects of stone, copper, shell, basketry and fabric, though looters tore into it from 1933 to 1935.",
+  "source": {
+   "name": "Oklahoma Historical Society, Encyclopedia of Oklahoma History and Culture (Dennis A. Peterson): Spiro Mounds",
+   "url": "https://www.okhistory.org/publications/enc/entry.php?entry=SP012"
+  }
+ },
+ {
+  "id": "n05-aztalan-fortified-town",
+  "era": "medieval",
+  "year": 1050,
+  "dateLabel": "Between 1050 and 1100",
+  "cat": "journeys",
+  "title": "Cahokia's Outpost in Wisconsin",
+  "place": "Aztalan, near Lake Mills, Wisconsin, USA",
+  "lat": 43.07,
+  "lng": -88.86,
+  "text": "Between 1050 and 1100, Mississippian people, many likely from the great city of Cahokia, built a fortified town on the Crawfish River and lived alongside local Woodland people. Inside massive log and clay walls stood three platform mounds, topped by a temple with a sacred fire, a mortuary and probably the chief's house. Early settlers wrongly linked it to the Aztecs, hence the name Aztalan.",
+  "source": {
+   "name": "Wisconsin Department of Natural Resources: Aztalan State Park History",
+   "url": "https://dnr.wisconsin.gov/topic/parks/aztalan/history"
+  },
+  "source2": {
+   "name": "Mississippi Valley Archaeology Center, University of Wisconsin–La Crosse: Aztalan",
+   "url": "https://www.uwlax.edu/mvac/pre-european-people/wisconsin-sites/aztalan"
+  }
+ },
+ {
+  "id": "n05-kinoomaagewaapkong-petroglyphs",
+  "era": "medieval",
+  "year": 930,
+  "dateLabel": "Carved roughly 1,100 to 600 years ago",
+  "cat": "culture",
+  "title": "The Rocks That Teach",
+  "place": "Petroglyphs Provincial Park, near Peterborough, Ontario, Canada",
+  "lat": 44.62,
+  "lng": -78.04,
+  "text": "On a sloping slab of marble in Ontario are some 900 carvings of turtles, snakes, humans and other beings, likely made by Algonquian-speaking people between 600 and 1,100 years ago. It is the largest known single concentration of Indigenous rock art in Canada, and 31 gneiss hammerstones were found nearby. The Anishinaabe call it Kinoomaagewaapkong, \"the rocks that teach.\"",
+  "source": {
+   "name": "The Canadian Encyclopedia (Nancy Rahtz, Lisa Roach): Petroglyphs Provincial Park",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/petroglyphs-provincial-park"
+  }
+ },
+ {
+  "id": "n05-taos-pueblo",
+  "era": "medieval",
+  "year": 1290,
+  "dateLabel": "Late 1200s–early 1300s",
+  "cat": "culture",
+  "title": "Taos, Five Storeys of Adobe",
+  "place": "Taos Pueblo, New Mexico, USA",
+  "lat": 36.44,
+  "lng": -105.54,
+  "text": "Taos Pueblo belongs to a series of settlements established along the Rio Grande valleys in the late 13th and early 14th centuries that survive today, and its people claim a presence in the valley since time immemorial. Its North and South Houses rise five storeys in terraced tiers of adobe. Even now, power lines and piped water are banned inside the walled village.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Taos Pueblo",
+   "url": "https://whc.unesco.org/en/list/492/"
+  }
+ },
+ {
+  "id": "n05-red-bay-basque-whalers",
+  "era": "exploration",
+  "year": 1530,
+  "dateLabel": "1530s",
+  "cat": "daily",
+  "title": "Whale Oil from Gran Baya",
+  "place": "Red Bay, Labrador, Canada",
+  "lat": 51.73,
+  "lng": -56.43,
+  "text": "In the 1530s, Basque mariners founded a summer whaling station they called Gran Baya on the Strait of Belle Isle. Crews hunted whales along the coast, butchered them and rendered the fat in ovens, then shipped the oil to Europe to light lamps. Archaeologists found cooperages, wharves, a cemetery and sunken ships. After some 70 years, the local whales were gone.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Red Bay Basque Whaling Station",
+   "url": "https://whc.unesco.org/en/list/1412/"
+  }
+ },
+ {
+  "id": "n05-hopewell-moon-earthworks",
+  "era": "classical",
+  "year": 1,
+  "dateLabel": "Between 1 and 400 CE",
+  "cat": "discovery",
+  "title": "Earthworks That Track the Moon",
+  "place": "Hopewell Ceremonial Earthworks, near Chillicothe, Ohio, USA",
+  "lat": 39.38,
+  "lng": -83.0,
+  "text": "Between 1 and 400 CE, small, egalitarian groups in southern Ohio who foraged, fished and farmed gathered from time to time to build huge earthen squares, circles and octagons with remarkable precision. Some line up with the cycles of the Sun and the far more complex cycles of the Moon, knowledge that would have taken generations to codify. They even sculpted hilltops to enclose vast, level plazas.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Hopewell Ceremonial Earthworks",
+   "url": "https://whc.unesco.org/en/list/1689/"
+  }
+ },
+ {
+  "id": "n05-kolomoki-mounds",
+  "era": "classical",
+  "year": 350,
+  "dateLabel": "Around 350–600 CE (peak)",
+  "cat": "daily",
+  "title": "Kolomoki, a Crowded Woodland Town",
+  "place": "Kolomoki Mounds, near Blakely, Georgia, USA",
+  "lat": 31.47,
+  "lng": -84.93,
+  "text": "From around 350 to 600 CE, Kolomoki in southwest Georgia was perhaps one of the most populous settlements north of Mexico. Its biggest mound, Mound A, stands about 56 feet tall, though digs on its flat summit have not revealed what it was for. In two burial mounds, mourners left large caches of pottery, some decorated with animal and human forms.",
+  "source": {
+   "name": "New Georgia Encyclopedia (Thomas J. Pluckhahn, University of South Florida): Kolomoki Mounds",
+   "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/kolomoki-mounds/"
+  }
+ },
+ {
+  "id": "n05-las-capas-canals",
+  "era": "ancient",
+  "year": -1200,
+  "dateLabel": "About 1200 BCE",
+  "cat": "discovery",
+  "title": "North America's Oldest Irrigation Canals",
+  "place": "Las Capas, outside Tucson, Arizona, USA",
+  "lat": 32.33,
+  "lng": -111.05,
+  "text": "About 1200 BCE, farmers at Las Capas, outside today's Tucson, dug at least eight canals carrying water from the nearby Santa Cruz River to a regular grid of small fields, each about 250 square feet. Stretching over as many as 100 acres, it is the oldest documented irrigation system in North America. The labor was so great that researchers doubt its builders simply walked away from it.",
+  "source": {
+   "name": "Archaeology (Archaeological Institute of America), Top 10 Discoveries: Early Irrigators, Tucson, Arizona",
+   "url": "https://archive.archaeology.org/1001/topten/arizona.html"
+  }
+ },
+ {
+  "id": "n05-georgia-shell-rings",
+  "era": "ancient",
+  "year": -2200,
+  "dateLabel": "About 4,200 to 3,000 years ago",
+  "cat": "daily",
+  "title": "Rings Made of Oyster Shells",
+  "place": "Sapelo Island, Georgia, USA",
+  "lat": 31.5,
+  "lng": -81.26,
+  "text": "Between about 4,200 and 3,000 years ago, people on the Georgia coast piled oyster shells, bone, soil and broken artifacts into great rings, the largest more than nine feet high and 300 feet across. Sapelo Island has three of them. Residents ate shellfish, sea catfish, deer and acorns from live oaks. Archaeologists still debate whether the rings were year-round villages, feasting places, or both.",
+  "source": {
+   "name": "New Georgia Encyclopedia (Victor Thompson, University of West Florida): Coastal Shell Rings",
+   "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/coastal-shell-rings/"
+  }
+ }
+]

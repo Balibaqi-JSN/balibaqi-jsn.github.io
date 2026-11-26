@@ -1,0 +1,330 @@
+[
+ {
+  "id": "m28-new-madrid-earthquakes",
+  "era": "industrial",
+  "year": 1811,
+  "dateLabel": "December 16, 1811",
+  "cat": "nature",
+  "title": "The Mississippi Valley Shakes",
+  "place": "New Madrid region, Missouri and Arkansas, USA",
+  "lat": 36.59,
+  "lng": -89.53,
+  "text": "At about 2:15 in the morning, a magnitude 7.5 earthquake struck northeast Arkansas, the first of three great shocks that hit the region by February 1812. People were woken by the shaking as far away as New York City and Washington, D.C. Huge waves on the Mississippi overwhelmed boats, and the ground sank to form Reelfoot Lake in Tennessee.",
+  "source": {
+   "name": "USGS: Summary of 1811-1812 New Madrid Earthquakes Sequence",
+   "url": "https://www.usgs.gov/programs/earthquake-hazards/science/summary-1811-1812-new-madrid-earthquakes-sequence"
+  }
+ },
+ {
+  "id": "m28-laura-secord-walk",
+  "era": "industrial",
+  "year": 1813,
+  "dateLabel": "June 22, 1813",
+  "cat": "power",
+  "title": "Laura Secord's Long Walk",
+  "place": "Queenston to Beaver Dams, Ontario, Canada",
+  "lat": 43.12,
+  "lng": -79.22,
+  "text": "During the War of 1812, Laura Secord heard of a planned American surprise attack and set off herself to warn Lieutenant James FitzGibbon. Avoiding the direct road, she went through fields and woods along Twelve Mile Creek. Two days later, Indigenous warriors ambushed the Americans at Beaver Dams and FitzGibbon took their surrender, yet official reports never mentioned her.",
+  "source": {
+   "name": "Dictionary of Canadian Biography: Ingersoll, Laura (Secord)",
+   "url": "http://www.biographi.ca/en/bio/ingersoll_laura_9E.html"
+  }
+ },
+ {
+  "id": "m28-fort-vancouver-village",
+  "era": "industrial",
+  "year": 1825,
+  "dateLabel": "1825",
+  "cat": "daily",
+  "title": "A Fur Trade Village on the Columbia",
+  "place": "Fort Vancouver, Vancouver, Washington, USA",
+  "lat": 45.63,
+  "lng": -122.66,
+  "text": "In 1825 the Hudson's Bay Company moved its base about 100 miles up the Columbia River to the fertile plain of Vancouver. Outside the fort's walls grew a village of workers' homes, including many Hawaiians who served as mill hands, sailors, gardeners, soldiers and cooks. At its peak the village held around 535 men, 254 Indian women and 301 children.",
+  "source": {
+   "name": "National Park Service: Hawaiians at Fort Vancouver",
+   "url": "https://www.nps.gov/articles/hawaiiansatfortvancouver.htm"
+  }
+ },
+ {
+  "id": "m28-what-hath-god-wrought",
+  "era": "industrial",
+  "year": 1844,
+  "dateLabel": "May 24, 1844",
+  "cat": "discovery",
+  "title": "What Hath God Wrought",
+  "place": "U.S. Capitol, Washington, D.C., USA",
+  "lat": 38.89,
+  "lng": -77.01,
+  "text": "Inside the U.S. Capitol, Samuel Morse tapped out a telegraph message along a test line to Baltimore that Congress had paid $30,000 to build. The words, \"What Hath God Wrought,\" were suggested by Annie Ellsworth, daughter of the patent commissioner. Morse's partner Alfred Vail then returned an identical message from Baltimore.",
+  "source": {
+   "name": "U.S. Senate (archived page): First Telegraph Messages from the Capitol",
+   "url": "https://webharvest.gov/congress117th/20221216194012/https://www.senate.gov/about/historic-buildings-spaces/capitol/first-telegraph-messages.htm"
+  }
+ },
+ {
+  "id": "m28-grosse-ile-1847",
+  "era": "industrial",
+  "year": 1847,
+  "dateLabel": "1847",
+  "cat": "journeys",
+  "title": "Tragedy on Grosse Île",
+  "place": "Grosse Île, Quebec, Canada",
+  "lat": 47.03,
+  "lng": -70.67,
+  "text": "Fleeing famine in Ireland, more than 100,000 immigrants arrived at Quebec and the quarantine island of Grosse Île in a single season. Many were already sick with typhus, which soon became an epidemic. That year over 5,000 people died at sea, and 5,424 were buried on Grosse Île.",
+  "source": {
+   "name": "Parks Canada: 1847, A tragic year at Grosse Île",
+   "url": "https://parks.canada.ca/lhn-nhs/qc/grosseile/culture/histoire-history/1847"
+  }
+ },
+ {
+  "id": "m28-sojourner-truth-akron",
+  "era": "industrial",
+  "year": 1851,
+  "dateLabel": "1851",
+  "cat": "power",
+  "title": "Sojourner Truth Speaks in Akron",
+  "place": "Akron, Ohio, USA",
+  "lat": 41.08,
+  "lng": -81.52,
+  "text": "Born into slavery as Isabella Baumfree, Sojourner Truth walked away to freedom \"by daylight\" in 1827. At the 1851 Women's Rights Convention in Akron, held in the Old Stone Church, she gave her famous speech. Oddly, the well-known \"Ain't I a Woman?\" version was printed twelve years later; a report published about a month after the speech lacks that phrase.",
+  "source": {
+   "name": "National Park Service: Sojourner Truth",
+   "url": "https://www.nps.gov/articles/sojourner-truth.htm"
+  }
+ },
+ {
+  "id": "m28-fraser-gold-rush",
+  "era": "industrial",
+  "year": 1858,
+  "dateLabel": "1858",
+  "cat": "journeys",
+  "title": "Gold Fever on the Fraser",
+  "place": "Fraser Canyon near Yale, British Columbia, Canada",
+  "lat": 49.56,
+  "lng": -121.43,
+  "text": "When news of Fraser River gold reached San Francisco, miners rushed north; about 80 per cent came from California. Some 30,000 gold seekers lined the river in 1858. They disrupted the salmon fishery of the Nlaka'pamux, sparking the Fraser Canyon War, and fears of an American takeover led Britain to create the colony of British Columbia on 2 August.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Fraser River Gold Rush",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/fraser-river-gold-rush"
+  }
+ },
+ {
+  "id": "m28-drake-oil-well",
+  "era": "industrial",
+  "year": 1859,
+  "dateLabel": "August 27, 1859",
+  "cat": "discovery",
+  "title": "Oil Strikes at Titusville",
+  "place": "Titusville, Pennsylvania, USA",
+  "lat": 41.61,
+  "lng": -79.66,
+  "text": "Edwin Drake struck oil only 69 feet down near Titusville, after driving iron pipe into the ground, a method he is credited with inventing. The well yielded an average of 1,000 gallons a day for three years. Engineers count this well as the start of the modern phase of the petroleum industry.",
+  "source": {
+   "name": "ASME (American Society of Mechanical Engineers) Landmark #40: Drake Oil Well",
+   "url": "https://www.asme.org/about-asme/engineering-history/landmarks/40-drake-oil-well"
+  }
+ },
+ {
+  "id": "m28-juneteenth-galveston",
+  "era": "industrial",
+  "year": 1865,
+  "dateLabel": "June 19, 1865",
+  "cat": "power",
+  "title": "Freedom News Reaches Texas",
+  "place": "Galveston, Texas, USA",
+  "lat": 29.3,
+  "lng": -94.8,
+  "text": "Two and a half years after Lincoln's Emancipation Proclamation, Union general Gordon Granger, whose troops had reached Galveston the day before, issued General Order No. 3 declaring the enslaved people of Texas free. African American communities in Texas have celebrated the day since 1866. Juneteenth is the oldest known celebration of the end of slavery in the United States.",
+  "source": {
+   "name": "U.S. National Archives: The Original Juneteenth Document",
+   "url": "https://www.archives.gov/news/articles/juneteenth-original-document"
+  }
+ },
+ {
+  "id": "m28-manitoba-act",
+  "era": "industrial",
+  "year": 1870,
+  "dateLabel": "May 12, 1870",
+  "cat": "power",
+  "title": "The Métis Win a Province",
+  "place": "Red River Colony (Winnipeg), Manitoba, Canada",
+  "lat": 49.9,
+  "lng": -97.14,
+  "text": "Worried about losing their land and way of life, the Métis of Red River formed a provisional government led by Louis Riel. Their list of rights became the basis of the Manitoba Act, which made Manitoba Canada's fifth province, protected French and English in its legislature and courts, and set aside about 1,400,000 acres for the Métis.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Manitoba Act",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/manitoba-act"
+  }
+ },
+ {
+  "id": "m28-yellowstone-first-park",
+  "era": "industrial",
+  "year": 1872,
+  "dateLabel": "March 1, 1872",
+  "cat": "nature",
+  "title": "The World's First National Park",
+  "place": "Yellowstone, Wyoming, USA",
+  "lat": 44.43,
+  "lng": -110.59,
+  "text": "Photographs by Jackson, paintings by Moran and sketches by Elliot from the Hayden Expedition caught the imagination of Congress. Just six months after that expedition, President Ulysses S. Grant signed the act setting Yellowstone aside as \"a public park or pleasuring-ground\" for the people. Many tribes have a traditional connection to this land and its resources.",
+  "source": {
+   "name": "National Park Service: Birth of a National Park (Yellowstone)",
+   "url": "https://www.nps.gov/yell/learn/historyculture/yellowstoneestablishment.htm"
+  }
+ },
+ {
+  "id": "m28-tuskegee-founding",
+  "era": "industrial",
+  "year": 1881,
+  "dateLabel": "July 4, 1881",
+  "cat": "culture",
+  "title": "A School Begins in a Shanty",
+  "place": "Tuskegee, Alabama, USA",
+  "lat": 32.43,
+  "lng": -85.71,
+  "text": "Tuskegee Institute was founded on Independence Day, with former slave Lewis Adams among its first commissioners. Its first classes met in an old, leaky building owned by Butler Chapel AME Zion Church. That September, the new principal, Booker T. Washington, bought an abandoned farm called The Old Burnt Place for $500, putting $200 down.",
+  "source": {
+   "name": "National Park Service: Tuskegee Institute's Founding",
+   "url": "https://home.nps.gov/tuin/learn/historyculture/tuskegee-institute-s-founding.htm"
+  }
+ },
+ {
+  "id": "m28-potlatch-ban",
+  "era": "industrial",
+  "year": 1884,
+  "dateLabel": "April 19, 1884",
+  "cat": "culture",
+  "title": "Canada Bans the Potlatch",
+  "place": "Northwest Coast, British Columbia, Canada",
+  "lat": 50.59,
+  "lng": -126.93,
+  "text": "Canada amended the Indian Act to outlaw the potlatch, a Northwest Coast ceremony of feasting, dancing and sharing of wealth, from 1 January 1885. Officials saw it as a barrier to assimilation. The vague law was hard to enforce, and many communities kept potlatching in secret until the ban ended in 1951.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Potlatch Ban",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/potlatch-ban"
+  }
+ },
+ {
+  "id": "m28-johnstown-flood",
+  "era": "industrial",
+  "year": 1889,
+  "dateLabel": "May 31, 1889",
+  "cat": "nature",
+  "title": "The Dam Breaks at South Fork",
+  "place": "Johnstown, Pennsylvania, USA",
+  "lat": 40.33,
+  "lng": -78.92,
+  "text": "After hours of rain and telegraph warnings, the South Fork Dam broke at about 3:10 p.m., sending 20 million tons of water down the valley. The flood hit Johnstown at 4:07, its debris piling up at a stone railway bridge that then caught fire. The death toll was set at 2,209, and Clara Barton's Red Cross team arrived on June 5.",
+  "source": {
+   "name": "National Park Service: Johnstown Flood Timeline",
+   "url": "https://www.nps.gov/jofl/learn/historyculture/johnstown-flood-timeline.htm"
+  },
+  "source2": {
+   "name": "National Park Service: Johnstown Flood Frequently Asked Questions",
+   "url": "https://www.nps.gov/jofl/faqs.htm"
+  }
+ },
+ {
+  "id": "m28-naismith-basketball",
+  "era": "industrial",
+  "year": 1891,
+  "dateLabel": "December 21, 1891",
+  "cat": "daily",
+  "title": "Two Peach Baskets",
+  "place": "Springfield, Massachusetts, USA",
+  "lat": 42.1,
+  "lng": -72.59,
+  "text": "Asked to invent an indoor winter game, Canadian instructor James Naismith borrowed ideas from \"duck on a rock,\" a stone-lobbing game from his Ontario childhood. The building's superintendent had no spare boxes, only two peach baskets, so Naismith fastened them to ten-foot balconies. Two teams of nine played the first game of basketball, which was very rough.",
+  "source": {
+   "name": "The Canadian Encyclopedia: James Naismith",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/james-naismith"
+  }
+ },
+ {
+  "id": "m28-ellis-island-opens",
+  "era": "industrial",
+  "year": 1892,
+  "dateLabel": "January 1, 1892",
+  "cat": "journeys",
+  "title": "Ellis Island Opens Its Doors",
+  "place": "Ellis Island, New York Harbor, USA",
+  "lat": 40.7,
+  "lng": -74.04,
+  "text": "On New Year's Day the new immigration station on Ellis Island processed nearly 700 immigrants. The very first was Annie Moore, a teenager from Ireland. By the end of the fiscal year more than 400,000 people had passed through, and between 1892 and 1924 over 12 million immigrants were processed here.",
+  "source": {
+   "name": "National Park Service: This Month in History, January (Ellis Island)",
+   "url": "https://home.nps.gov/elis/learn/historyculture/this-month-in-history-january.htm"
+  },
+  "source2": {
+   "name": "National Park Service: Ellis Island Chronology",
+   "url": "https://home.nps.gov/elis/learn/historyculture/ellis-island-chronology.htm"
+  }
+ },
+ {
+  "id": "m28-maple-leaf-rag",
+  "era": "industrial",
+  "year": 1899,
+  "dateLabel": "1899",
+  "cat": "culture",
+  "title": "The Maple Leaf Rag",
+  "place": "Sedalia, Missouri, USA",
+  "lat": 38.7,
+  "lng": -93.23,
+  "text": "Scott Joplin and Missouri publisher John Stark sent copies of the \"Maple Leaf Rag\" to the U.S. Copyright Office. The tune may be named for the Maple Leaf Club in Sedalia, a Black dance hall where Joplin often played. Selling for 50 cents, with a penny per copy for Joplin, it sold 75,000 copies in six months and became ragtime's signature piece.",
+  "source": {
+   "name": "Library of Congress Blog: Scott Joplin, the Magical Maple Leaf Rag",
+   "url": "https://blogs.loc.gov/loc/2024/11/scott-joplin-the-magical-maple-leaf-rag/"
+  }
+ },
+ {
+  "id": "m28-anne-of-green-gables",
+  "era": "industrial",
+  "year": 1908,
+  "dateLabel": "June 1908",
+  "cat": "culture",
+  "title": "Anne of Green Gables Appears",
+  "place": "Cavendish, Prince Edward Island, Canada",
+  "lat": 46.49,
+  "lng": -63.38,
+  "text": "Lucy Maud Montgomery wrote her first novel while living in Cavendish, but every publisher rejected it, so she kept it in a hat box. Finally published in June 1908, the story of orphan Anne Shirley sold more than 19,000 copies in five months. Mark Twain called Anne the dearest child \"since the immortal Alice.\"",
+  "source": {
+   "name": "The Canadian Encyclopedia: Anne of Green Gables",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/anne-of-green-gables"
+  }
+ },
+ {
+  "id": "m28-triangle-fire",
+  "era": "industrial",
+  "year": 1911,
+  "dateLabel": "March 25, 1911",
+  "cat": "daily",
+  "title": "Fire at the Triangle Factory",
+  "place": "Greenwich Village, New York City, New York, USA",
+  "lat": 40.73,
+  "lng": -74.0,
+  "text": "Near closing time on a Saturday, fire broke out on the top floors of the Asch Building, home of the Triangle Waist Company. Owners had often locked exit doors, the ninth-floor fire escape led nowhere, and fire ladders were stories too short. Of 500 workers, many of them young immigrant women, 146 died.",
+  "source": {
+   "name": "Cornell University ILR School, Kheel Center: The Triangle Factory Fire",
+   "url": "https://trianglefire.ilr.cornell.edu/story/fire.html"
+  }
+ },
+ {
+  "id": "m28-first-calgary-stampede",
+  "era": "industrial",
+  "year": 1912,
+  "dateLabel": "1912",
+  "cat": "daily",
+  "title": "The First Calgary Stampede",
+  "place": "Calgary, Alberta, Canada",
+  "lat": 51.04,
+  "lng": -114.06,
+  "text": "American trick roper Guy Weadick thought Calgary was the perfect place for a big rodeo, and four local businessmen paid for it. The first Stampede's parade featured 2,000 Indigenous people in full dress and about 14,000 spectators. Tom Three Persons thrilled the crowd riding the famous bronco Cyclone, but the show was not repeated until 1919.",
+  "source": {
+   "name": "The Canadian Encyclopedia: Calgary Stampede",
+   "url": "https://www.thecanadianencyclopedia.ca/en/article/calgary-stampede"
+  }
+ }
+]

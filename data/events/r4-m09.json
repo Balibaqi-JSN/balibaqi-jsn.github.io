@@ -1,0 +1,370 @@
+[
+ {
+  "id": "m09-babur-seizes-kabul",
+  "era": "exploration",
+  "year": 1504,
+  "dateLabel": "1504",
+  "cat": "power",
+  "title": "A Prince Without a Kingdom Takes Kabul",
+  "place": "Kabul, Afghanistan",
+  "lat": 34.53,
+  "lng": 69.17,
+  "text": "Babur spent ten years trying to win back Samarkand, his ancestor Timur's old capital, but lost both it and his home principality of Fergana to the Uzbek ruler Muhammad Shaybani Khan. In 1504 he seized Kabul with his personal followers and made it his capital, investing in public buildings and gardens. By his own account, Kabul's climate and its fruit made him fall in love with the city.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Babur",
+   "url": "https://www.britannica.com/biography/Babur"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: History of Kabul",
+   "url": "https://www.britannica.com/place/Kabul/History"
+  }
+ },
+ {
+  "id": "m09-kabul-earthquake-1505",
+  "era": "exploration",
+  "year": 1505,
+  "dateLabel": "July 6, 1505",
+  "cat": "nature",
+  "title": "Ground Rising Like an Elephant",
+  "place": "Paghman, Kabul Province, Afghanistan",
+  "lat": 34.58,
+  "lng": 68.95,
+  "text": "On 6 July 1505 an earthquake shook the Kabul region, and an eyewitness account survives. In Paghman every house fell and 70 or 80 people died, while along the fault the ground in places rose \"as high as an elephant\" and elsewhere sank as deep. Thirty-three aftershocks struck that day, and Babur needed about a month of hard work to repair Kabul's fort.",
+  "source": {
+   "name": "USGS Open-File Report 2006-1185: Macroseismic effects (earthquake catalog for Afghanistan)",
+   "url": "https://pubs.usgs.gov/of/2006/1185/downloads/earthquake_catalogs/Macroseismic_effects.html"
+  }
+ },
+ {
+  "id": "m09-jenkinson-reaches-bukhara",
+  "era": "exploration",
+  "year": 1558,
+  "dateLabel": "December 23, 1558",
+  "cat": "journeys",
+  "title": "An Englishman in Bukhara's Markets",
+  "place": "Bukhara, Uzbekistan",
+  "lat": 39.77,
+  "lng": 64.42,
+  "text": "On 23 December 1558 the English traveller Anthony Jenkinson reached Bukhara, a city ringed by a high wall of earth where every craft had its own quarter and market. Indian traders brought fine white cloth that people wound around their heads, Persians brought woollen and linen cloth, and Russians brought hides and sheepskins. Wars, though, had blocked the caravans from China.",
+  "source": {
+   "name": "University of Washington, Silk Road Seattle: Anthony Jenkinson's explorations on the land route to China (ed. Lance Jenott)",
+   "url": "https://depts.washington.edu/silkroad/texts/jenkinson/bukhara.html"
+  }
+ },
+ {
+  "id": "m09-abdullaziz-khan-madrasa",
+  "era": "exploration",
+  "year": 1652,
+  "dateLabel": "1652",
+  "cat": "culture",
+  "title": "Bukhara's Imposing New Madrasa",
+  "place": "Historic Centre, Bukhara, Uzbekistan",
+  "lat": 39.78,
+  "lng": 64.41,
+  "text": "In 1652 the imposing Abdullaziz-Khan madrasa was added to Bukhara, one of the fine buildings of the city's 17th century. Between the 9th and 16th centuries Bukhara had been a great centre of Muslim theology, with over two hundred mosques and more than a hundred madrasas. Big madrasas rose at busy crossroads, near domed markets such as the Dome of the Moneychangers.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Historic Centre of Bukhara",
+   "url": "https://whc.unesco.org/en/list/602"
+  }
+ },
+ {
+  "id": "m09-ahmad-shah-crowned",
+  "era": "exploration",
+  "year": 1747,
+  "dateLabel": "1747",
+  "cat": "power",
+  "title": "A Shah Crowned Near Kandahar",
+  "place": "Kandahar, Afghanistan",
+  "lat": 31.61,
+  "lng": 65.71,
+  "text": "Ahmad Khan commanded a group of Abdali cavalry for Nadir Shah of Persia. When Nadir Shah was assassinated, the Afghan chiefs elected Ahmad as their shah, and in 1747 he was crowned near Kandahar, where coins were struck in his name and he set up his capital. Remembered as the founder of the state of Afghanistan, he is buried in a mausoleum in Kandahar.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Ahmad Shah Durrani",
+   "url": "https://www.britannica.com/biography/Ahmad-Shah-Durrani"
+  }
+ },
+ {
+  "id": "m09-timur-shah-moves-capital",
+  "era": "exploration",
+  "year": 1776,
+  "dateLabel": "1776",
+  "cat": "daily",
+  "title": "Kabul Becomes the Capital",
+  "place": "Kabul, Afghanistan",
+  "lat": 34.52,
+  "lng": 69.16,
+  "text": "Ahmad Shah's son Timur Shah received only nominal homage from Afghanistan's tribal chiefs and spent much of his reign putting down their rebellions. In 1776 he moved his capital from Kandahar to Kabul, away from the fractious tribes. Kabul then reportedly had about 10,000 people, including the walled Chindawol quarter built by the Kizilbash garrison that had served under Nadir Shah.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of Kabul",
+   "url": "https://www.britannica.com/place/Kabul/History"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Timur Shah (excerpt from the Afghanistan article, The Durrani dynasty)",
+   "url": "https://www.britannica.com/biography/Timur-Shah"
+  }
+ },
+ {
+  "id": "m09-retreat-from-kabul",
+  "era": "industrial",
+  "year": 1842,
+  "dateLabel": "January 6, 1842",
+  "cat": "power",
+  "title": "The Disastrous Retreat from Kabul",
+  "place": "Kabul, Afghanistan",
+  "lat": 34.52,
+  "lng": 69.18,
+  "text": "In 1839 a British army invaded Afghanistan and installed Shah Shoja as king, but Afghans would tolerate neither foreign occupation nor an imposed ruler, and revolts spread. After the British political agent was killed during talks, some 4,500 British and Indian troops and 12,000 camp followers marched out of Kabul on 6 January 1842. Afghan bands swarmed around them, and the retreat ended in a bloodbath.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Afghanistan, Dost Mohammad (1826-39; 1843-63)",
+   "url": "https://www.britannica.com/place/Afghanistan/Dost-Mohammad-1826-39-1843-63"
+  }
+ },
+ {
+  "id": "m09-vambery-dervish-khiva",
+  "era": "industrial",
+  "year": 1863,
+  "dateLabel": "June 1863",
+  "cat": "journeys",
+  "title": "A Disguised Dervish Reaches Khiva",
+  "place": "Khiva, Khorezm, Uzbekistan",
+  "lat": 41.37,
+  "lng": 60.37,
+  "text": "In autumn 1861 Arminius Vámbéry, born in 1832 near Pressburg, left Constantinople disguised as a Sunni dervish under the name Rashid Effendi. Crossing Persia, he reached Khiva in June 1863, then travelled by way of Bukhara and Samarkand to Herat. Fearing suspicion, he could take notes only in secret. It was the first journey of its kind undertaken by a European.",
+  "source": {
+   "name": "Jewish Encyclopedia (1906), Isidore Singer and Louis H. Gray: Vambéry, Arminius",
+   "url": "https://jewishencyclopedia.com/articles/14637-vambery-arminius"
+  }
+ },
+ {
+  "id": "m09-russia-captures-tashkent",
+  "era": "industrial",
+  "year": 1865,
+  "dateLabel": "1865",
+  "cat": "power",
+  "title": "Russia Captures Tashkent",
+  "place": "Tashkent, Uzbekistan",
+  "lat": 41.31,
+  "lng": 69.28,
+  "text": "Tashkent, whose name means \"Stone Village\" in Uzbek, had been ruled by the khanate of Kokand since 1809. When Russian forces captured it in 1865, it was a walled city of some 70,000 people and already a leading centre of trade with Russia. In 1867 it became the seat of Russia's new governorate-general of Turkistan, and a European city grew up beside the old one.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Tashkent",
+   "url": "https://www.britannica.com/place/Tashkent"
+  }
+ },
+ {
+  "id": "m09-turkestan-album",
+  "era": "industrial",
+  "year": 1871,
+  "dateLabel": "1871–1872",
+  "cat": "discovery",
+  "title": "1,200 Photographs of Turkestan",
+  "place": "Tashkent, Uzbekistan",
+  "lat": 41.32,
+  "lng": 69.25,
+  "text": "Governor-General Konstantin von Kaufman commissioned the Turkestan Album, produced mainly in Tashkent and St. Petersburg in 1871 and 1872. Its six volumes hold about 1,200 photographs, plus plans, watercolours and maps, covering Samarkand's Islamic architecture, local peoples and daily life, trades such as textile-making, mining and baking, and Russian military campaigns. The Library of Congress bought a set in 1934.",
+  "source": {
+   "name": "Library of Congress Research Guides: Turkestan Album",
+   "url": "https://guides.loc.gov/turkestan-album"
+  }
+ },
+ {
+  "id": "m09-battle-of-gok-tepe",
+  "era": "industrial",
+  "year": 1881,
+  "dateLabel": "1881",
+  "cat": "power",
+  "title": "The Last Stand at Gök-Tepe",
+  "place": "Gökdepe, Ahal, Turkmenistan",
+  "lat": 38.15,
+  "lng": 57.97,
+  "text": "Before 1924 the Turkmens never had even nominal political unity, and the Tekke tribe led the fight against Russia's advance. In 1869 Russian troops landed on the Caspian coast and founded the port of Krasnovodsk. Fierce resistance was finally broken by General Mikhail Skobelev at the Battle of Gök-Tepe, now Gökdepe, in 1881, the year the region became Russia's Transcaspian province.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Turkmenistan, Turkmen tribes and Russian invasion",
+   "url": "https://www.britannica.com/place/Turkmenistan/Turkmen-tribes-and-Russian-invasion"
+  }
+ },
+ {
+  "id": "m09-durand-line",
+  "era": "industrial",
+  "year": 1893,
+  "dateLabel": "1893",
+  "cat": "power",
+  "title": "A Line Drawn Through the Mountains",
+  "place": "Torkham, Khyber Pass, Afghanistan",
+  "lat": 34.11,
+  "lng": 71.09,
+  "text": "Under Emir Abd al-Rahman Khan, who fought some 20 small wars to show his peoples that Kabul's government was strong, the British and Russians drew the borders of modern Afghanistan. The Durand Line of 1893 divided zones of responsibility between British India and Afghanistan but was never meant as a formal international boundary. Afghanistan became a buffer between tsarist Russia and British India.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Afghanistan, Dost Mohammad (1826-39; 1843-63) and Abd al-Rahman Khan (1880-1901)",
+   "url": "https://www.britannica.com/place/Afghanistan/Dost-Mohammad-1826-39-1843-63"
+  }
+ },
+ {
+  "id": "m09-usoi-dam-lake-sarez",
+  "era": "industrial",
+  "year": 1911,
+  "dateLabel": "1911",
+  "cat": "nature",
+  "title": "An Earthquake Builds the Tallest Dam",
+  "place": "Usoi Dam, Pamir Mountains, Tajikistan",
+  "lat": 38.27,
+  "lng": 72.6,
+  "text": "In 1911 an earthquake triggered a colossal rock slide in the Pamir Mountains that blocked the Murgab River. The slide left a natural dam about 600 metres high, the highest dam, natural or man-made, in the world. Behind it grew Lake Sarez, 60 km long and up to 550 m deep. The lake has never spilled over; it seeps out as large springs.",
+  "source": {
+   "name": "USGS Publications Warehouse: Usoi Landslide Dam and Lake Sarez, Pamir Mountains, Tajikistan (Schuster and Alford, 2004)",
+   "url": "https://pubs.usgs.gov/publication/70206242"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Tajikistan",
+   "url": "https://www.britannica.com/place/Tajikistan"
+  }
+ },
+ {
+  "id": "m09-amanullah-reforms",
+  "era": "modern",
+  "year": 1923,
+  "dateLabel": "1923",
+  "cat": "daily",
+  "title": "A King's Decade of Reforms",
+  "place": "Kabul, Afghanistan",
+  "lat": 34.51,
+  "lng": 69.16,
+  "text": "In 1923 Amanullah Khan changed his title from emir to king and began a decade of reforms in Afghanistan: a new constitution, permission for women to remove their veils, and coeducational schools. His wife Soraya was the daughter of the nationalist publisher Mahmud Tarzi. The changes offended conservative religious and tribal leaders, civil war broke out in 1928, and Amanullah abdicated in 1929.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Afghanistan, Dost Mohammad (1826-39; 1843-63) and later rulers",
+   "url": "https://www.britannica.com/place/Afghanistan/Dost-Mohammad-1826-39-1843-63"
+  }
+ },
+ {
+  "id": "m09-ashgabat-earthquake",
+  "era": "modern",
+  "year": 1948,
+  "dateLabel": "October 5, 1948",
+  "cat": "nature",
+  "title": "Ashgabat's Deadly Earthquake",
+  "place": "Ashgabat, Turkmenistan",
+  "lat": 37.95,
+  "lng": 58.38,
+  "text": "On 5 October 1948 an earthquake of magnitude Ms 7.3 struck Ashgabat, the capital of Turkmenistan, and claimed tens of thousands of lives. For decades little was known about the fault behind it. A 2023 study involving University of Jena geologists used old seismograms and 1960s satellite images, finding that a complex fault system ruptured and that parts of it probably still store strain.",
+  "source": {
+   "name": "Friedrich Schiller University Jena: New paper on the 1948 Aşgabat earthquake in Turkmenistan",
+   "url": "https://www.chemgeo.uni-jena.de/en/52943/new-paper-on-the-1948-asgabat-earthquake-in-tuerkmenistan"
+  }
+ },
+ {
+  "id": "m09-itchan-kala-reserve",
+  "era": "modern",
+  "year": 1967,
+  "dateLabel": "1967",
+  "cat": "culture",
+  "title": "Khiva's Inner Town Is Protected",
+  "place": "Itchan Kala, Khiva, Uzbekistan",
+  "lat": 41.38,
+  "lng": 60.36,
+  "text": "Khiva was the last resting place for caravans before they crossed the desert to Persia. In 1967 the Uzbek SSR made its walled inner town, Itchan Kala, a State Architectural and Historic Reserve, and since 1969 it has been a museum-reserve. Behind brick walls up to ten metres high stand 51 monuments and 250 homes, and the Djuma Mosque rests on 212 columns.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Itchan Kala",
+   "url": "https://whc.unesco.org/en/list/543"
+  }
+ },
+ {
+  "id": "m09-soviet-withdrawal",
+  "era": "modern",
+  "year": 1989,
+  "dateLabel": "February 1989",
+  "cat": "power",
+  "title": "The Last Soviet Soldier Leaves",
+  "place": "Kabul, Afghanistan",
+  "lat": 34.55,
+  "lng": 69.2,
+  "text": "Talks held in Geneva under United Nations auspices produced peace accords in April 1988, and Soviet troops began leaving Afghanistan that May. The last Soviet soldier left in February 1989. By then the war had pushed more than five million Afghan refugees into Pakistan and Iran. Despite predictions that the Najibullah government would quickly collapse, the civil war went on.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Afghanistan, Civil war, communist phase (1978-92)",
+   "url": "https://www.britannica.com/place/Afghanistan/Civil-war-communist-phase-1978-92"
+  }
+ },
+ {
+  "id": "m09-tajik-peace-agreement",
+  "era": "modern",
+  "year": 1997,
+  "dateLabel": "June 1997",
+  "cat": "power",
+  "title": "Peace After Tajikistan's Civil War",
+  "place": "Dushanbe, Tajikistan",
+  "lat": 38.56,
+  "lng": 68.78,
+  "text": "Soon after Tajikistan declared independence in 1991, it slid into civil war, as communists fought to keep power against an alliance of Islamic and democratic forces. By the mid-1990s the fighting had left tens of thousands dead and displaced more than half a million people. In June 1997 a peace agreement brokered by the United Nations, Russia and Iran essentially ended the war.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Tajikistan, Independence",
+   "url": "https://www.britannica.com/place/Tajikistan/Independence"
+  }
+ },
+ {
+  "id": "m09-kabul-museum-crates-opened",
+  "era": "modern",
+  "year": 2004,
+  "dateLabel": "2004",
+  "cat": "discovery",
+  "title": "The Treasures in the Bank Vault",
+  "place": "Kabul, Afghanistan",
+  "lat": 34.53,
+  "lng": 69.14,
+  "text": "Masterpieces of the Kabul Museum were thought lost in decades of war. In fact, the museum's staff had secretly crated them and placed them in a secure bank vault, where they stayed hidden for twenty-five years. Only in 2004 were the crates opened, revealing that the works had survived intact, among them turquoise-inlaid gold from the first-century nomadic tombs of Tillya Tepe.",
+  "source": {
+   "name": "The Metropolitan Museum of Art: Afghanistan: Hidden Treasures from the National Museum, Kabul (exhibition, 2009)",
+   "url": "https://www.metmuseum.org/exhibitions/listings/2009/afghanistan"
+  }
+ },
+ {
+  "id": "m09-turkmenbashi-dies",
+  "era": "modern",
+  "year": 2006,
+  "dateLabel": "Late 2006",
+  "cat": "power",
+  "title": "The End of Turkmenbashi",
+  "place": "Ashgabat, Turkmenistan",
+  "lat": 37.93,
+  "lng": 58.37,
+  "text": "Saparmurad Niyazov, who called himself Turkmenbashi, \"leader of the Turkmen,\" built an elaborate personality cult in independent Turkmenistan. A gold statue of him on Ashgabat's Neutrality Arch rotated to face the Sun, his book Rukhnama was required reading in schools and even part of driving exams, and he renamed the months after himself and his family. He died suddenly in late 2006.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Turkmenistan, Turkmen tribes and Russian invasion (Independence)",
+   "url": "https://www.britannica.com/place/Turkmenistan/Turkmen-tribes-and-Russian-invasion"
+  }
+ },
+ {
+  "id": "m09-aral-sea-eastern-lobe",
+  "era": "modern",
+  "year": 2014,
+  "dateLabel": "2014",
+  "cat": "nature",
+  "title": "A Vanishing Inland Sea",
+  "place": "South Aral Sea, Karakalpakstan, Uzbekistan",
+  "lat": 44.6,
+  "lng": 59.6,
+  "text": "Fed by the Amu Darya and Syr Darya rivers, the Aral Sea was once the fourth largest lake in the world. In the 1960s the Soviet Union began a major project diverting water to irrigate farmland in Kazakhstan, Uzbekistan and Turkmenistan. As the sea dried up, its fisheries and the communities that depended on them collapsed. In 2014 the eastern lobe of the South Aral Sea completely disappeared.",
+  "source": {
+   "name": "NASA Earth Observatory: World of Change, Shrinking Aral Sea",
+   "url": "https://science.nasa.gov/earth/earth-observatory/world-of-change/aral-sea"
+  }
+ },
+ {
+  "id": "m09-rogun-dam-first-unit",
+  "era": "modern",
+  "year": 2018,
+  "dateLabel": "November 16, 2018",
+  "cat": "discovery",
+  "title": "Rogun Dam Switches On",
+  "place": "Rogun, Tajikistan",
+  "lat": 38.75,
+  "lng": 69.85,
+  "text": "Construction of Tajikistan's Rogun Dam began in 1976, but the project languished after the Soviet Union collapsed, and a flood damaged it in 1993. Work resumed in 2016, and on 16 November 2018 President Emomali Rahmon inaugurated its first unit, which began producing electricity while building continued. Uzbekistan, downstream, had dropped its opposition, and its representatives attended the ceremony.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Tajikistan, Independence",
+   "url": "https://www.britannica.com/place/Tajikistan/Independence"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Tajikistan",
+   "url": "https://www.britannica.com/place/Tajikistan"
+  }
+ }
+]

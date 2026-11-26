@@ -1,0 +1,410 @@
+[
+ {
+  "id": "w05-ise-twenty-year-rebuild",
+  "era": "medieval",
+  "year": 690,
+  "dateLabel": "690",
+  "cat": "culture",
+  "title": "The Shrine Rebuilt Every Twenty Years",
+  "place": "Ise Jingu (Naiku), Ise, Mie, Japan",
+  "lat": 34.45,
+  "lng": 136.73,
+  "text": "In 690, Emperor Tenmu's decree set off a custom that still runs today: every 20 years, Ise's Inner and Outer shrines, plus 14 affiliated shrines, are built anew on the plot next door. The goddess Amaterasu is then moved into her fresh home. The old shrine is taken apart piece by piece, and its wood goes to other shrines across Japan. The 62nd rebuilding took place in 2013.",
+  "source": {
+   "name": "Japan Tourism Agency: Ise Jingu (long version)",
+   "url": "https://www.mlit.go.jp/tagengo-db/en/H30-00745.html"
+  }
+ },
+ {
+  "id": "w05-itsukushima-floating-torii",
+  "era": "medieval",
+  "year": 1168,
+  "dateLabel": "1168",
+  "cat": "culture",
+  "title": "A Gate Standing in the Sea",
+  "place": "Itsukushima Shrine, Miyajima, Hiroshima, Japan",
+  "lat": 34.3,
+  "lng": 132.32,
+  "text": "Itsukushima's great torii gate rises from the sea, and the first one is said to have stood there since 1168. The warlord Taira no Kiyomori is credited with building it. The gate is not sunk into the seabed: about 60 tons of wood and stone hold it up by sheer weight. Its main pillars are camphor trees more than 500 years old.",
+  "source": {
+   "name": "Japan Tourism Agency: Itsukushima Shrine, Great Torii (O-torii)",
+   "url": "https://www.mlit.go.jp/tagengo-db/en/R1-00518.html"
+  }
+ },
+ {
+  "id": "w05-nanjing-buddha-skull-relic",
+  "era": "medieval",
+  "year": 1010,
+  "dateLabel": "Early 1000s",
+  "cat": "discovery",
+  "title": "A Buddha Relic Under Nanjing",
+  "place": "Grand Bao'en Temple, Nanjing, Jiangsu, China",
+  "lat": 32.01,
+  "lng": 118.78,
+  "text": "Deep in a crypt under Nanjing's Grand Bao'en Temple, archaeologists found a stone chest from the reign of Song emperor Zhenzong (997–1022). Inside was a model stupa about four feet tall, and inside that, in a gold casket within a silver one, lay a piece of skull. An inscription claimed it was the Buddha's own, one of 19 shares sent to China. Monks later reburied it at another temple.",
+  "source": {
+   "name": "Archaeology Magazine: Possible Remains of the Buddha Found in China",
+   "url": "https://archaeology.org/news/2016/07/01/160701-china-buddha-bone/"
+  }
+ },
+ {
+  "id": "w05-bujang-valley-temples",
+  "era": "medieval",
+  "year": 650,
+  "dateLabel": "600s CE",
+  "cat": "culture",
+  "title": "Temples Along Kedah's Rivers",
+  "place": "Candi Bukit Batu Pahat, Bujang Valley, Kedah, Malaysia",
+  "lat": 5.73,
+  "lng": 100.42,
+  "text": "South of Mount Jerai, more than 30 temple ruins dot the river banks of Malaysia's Bujang Valley. A Buddhist temple and a bronze Buddha found there probably date to the 600s CE, when traders from Arabia, India and China called at this port. Around 1025 the Hindu Chola Empire took the valley. In one granite temple, diggers found gold foil stamped with Nandi, Shiva's bull.",
+  "source": {
+   "name": "Archaeology Magazine: Off the Grid, Lembah Bujang, Malaysia",
+   "url": "https://archaeology.org/issues/november-december-2022/off-the-grid/otg-malaysia-bujang-valley/"
+  }
+ },
+ {
+  "id": "w05-preah-khan-kompong-svay",
+  "era": "medieval",
+  "year": 1050,
+  "dateLabel": "1000s",
+  "cat": "journeys",
+  "title": "The Biggest Thing the Khmer Built",
+  "place": "Preah Khan of Kompong Svay, Preah Vihear, Cambodia",
+  "lat": 13.41,
+  "lng": 104.8,
+  "text": "Building began in the 1000s at Preah Khan of Kompong Svay. Inside four rings of walls stand temples of brick, laterite and sandstone, and one archaeologist calls it the largest construction the Khmer ever made, bigger even than Angkor Thom. It was probably an important Buddhist pilgrimage centre. It is also perhaps Cambodia's most looted site, stripped of reliefs in the 1970s and 1980s.",
+  "source": {
+   "name": "Archaeology Magazine: Off the Grid, Preah Khan of Kompong Svay, Cambodia",
+   "url": "https://archaeology.org/issues/november-december-2020/off-the-grid/digs-cambodia-preah-khan/"
+  }
+ },
+ {
+  "id": "w05-mingun-giant-pagoda",
+  "era": "exploration",
+  "year": 1792,
+  "dateLabel": "1792–1812",
+  "cat": "power",
+  "title": "King Bodawpaya's Mountain of Bricks",
+  "place": "Mingun Pagoda, Sagaing Region, Myanmar",
+  "lat": 22.05,
+  "lng": 96.02,
+  "text": "On the west bank of the Irrawaddy, King Bodawpaya had millions of cubic feet of brick fired for a pagoda at Mingun. It has a base 256 feet square and rises about 150 feet, the largest brick temple in Asia. Its bell weighs 90 tons. An 1839 earthquake cracked its walls, and the British called it an unfinished folly, a tale they used to justify taking Upper Burma.",
+  "source": {
+   "name": "Archaeology Magazine: An \"Extraordinary Folly\"?",
+   "url": "https://archive.archaeology.org/0005/abstracts/folly.html"
+  }
+ },
+ {
+  "id": "w05-barikot-buddhist-temple",
+  "era": "classical",
+  "year": -150,
+  "dateLabel": "Mid-100s BCE",
+  "cat": "discovery",
+  "title": "Gandhara's Early Roadside Temple",
+  "place": "Barikot, Swat Valley, Khyber Pakhtunkhwa, Pakistan",
+  "lat": 34.68,
+  "lng": 72.21,
+  "text": "In the town of Barikot, Pakistani and Italian archaeologists uncovered a Buddhist temple from the middle of the 100s BCE, and an older one may lie underneath. It sat along the road to the town's main stupa, which was 65 feet wide. The temple had a platform with a stupa about ten feet tall, a smaller stupa and a room for monks. Diggers found coins, seals and inscribed statues.",
+  "source": {
+   "name": "Archaeology Magazine: Ancient Buddhist Temple Discovered in Pakistan's Swat Valley",
+   "url": "https://archaeology.org/news/10320-220204-pakistan-barikot-temple"
+  }
+ },
+ {
+  "id": "w05-jharhiamba-monks-and-nuns",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "About 150 BCE to 100 CE",
+  "cat": "daily",
+  "title": "Monks and Nuns Under One Roof",
+  "place": "Jharhiamba, Angul district, Odisha, India",
+  "lat": 20.84,
+  "lng": 85.1,
+  "text": "In a village in Odisha, archaeologists dug up what looks like a Buddhist monastery that thrived from about 150 BCE into the first century CE. Roughly 200 people may have lived there. It is the only monastery in Odisha with evidence of monks and nuns living together. A copper plate found by the British in the 1800s, six miles away, mentioned exactly such a monastery.",
+  "source": {
+   "name": "Archaeology Magazine: Early Buddhism in India",
+   "url": "https://archaeology.org/issues/may-june-2018/digs-discoveries/trenches-india-buddhist-monastery/"
+  }
+ },
+ {
+  "id": "w05-madhabgaon-mohini-temple",
+  "era": "medieval",
+  "year": 1100,
+  "dateLabel": "1000s–1100s",
+  "cat": "discovery",
+  "title": "Vishnu's Female Form in Bengal",
+  "place": "Madhabgaon, Dinajpur, Bangladesh",
+  "lat": 25.63,
+  "lng": 88.64,
+  "text": "At Madhabgaon in northern Bangladesh, students from Jahangirnagar University uncovered a Vishnu temple from the 1000s or 1100s, called the country's first Navarath temple. Its main figure is Mohini, the only female avatar of Vishnu, well known in south and west India. This may be the first stone Mohini ever found in the eastern subcontinent. A conch and a spiked disc, Vishnu's emblems, turned up too.",
+  "source": {
+   "name": "Archaeology Magazine: 800-Year-Old Vishnu Temple Found in Bangladesh",
+   "url": "https://archaeology.org/news/2016/09/07/160907-bangladesh-temple-mohini/"
+  }
+ },
+ {
+  "id": "w05-rani-pokhari-queens-pond",
+  "era": "exploration",
+  "year": 1650,
+  "dateLabel": "1600s",
+  "cat": "culture",
+  "title": "A Temple Pond for a Grieving Queen",
+  "place": "Rani Pokhari, Kathmandu, Nepal",
+  "lat": 27.71,
+  "lng": 85.32,
+  "text": "When their son died in the 1600s, King Pratap Malla built Rani Pokhari, the Queen's Pond, for his wife in the heart of Kathmandu. A causeway runs across the square pool to the Balgopaleshwor temple in the middle. After earthquake damage, rebuilding began in 2019 with soil, sand and brick rather than concrete, after protests from conservationists who wanted the old methods kept.",
+  "source": {
+   "name": "Archaeology Magazine: Restoration of Kathmandu's Rani Pokhari Underway",
+   "url": "https://archaeology.org/news/2019/03/06/190306-nepal-rani-pokhari/"
+  }
+ },
+ {
+  "id": "w05-aleppo-storm-god-temple",
+  "era": "ancient",
+  "year": -900,
+  "dateLabel": "About 900 BCE",
+  "cat": "discovery",
+  "title": "The Storm God on Aleppo's Hill",
+  "place": "Temple of the Storm God, Aleppo Citadel, Syria",
+  "lat": 36.2,
+  "lng": 37.16,
+  "text": "Under Aleppo's citadel stood a temple of the storm god Hadad, visited by Ebla's rulers around 2400 BCE. Around 900 BCE new reliefs showed the god riding a chariot pulled by bulls, and a seven-foot sphinx and lion flanked the door. French diggers in the 1920s stopped just short of the carvings. Later excavators found their old trowel there, and an empty champagne bottle.",
+  "source": {
+   "name": "Archaeology Magazine: Temple of the Storm God",
+   "url": "https://archive.archaeology.org/0911/features/syria_aleppo_temple_storm_god_citadel.html"
+  }
+ },
+ {
+  "id": "w05-samahij-church-under-mosque",
+  "era": "classical",
+  "year": 400,
+  "dateLabel": "Mid-300s to mid-700s CE",
+  "cat": "discovery",
+  "title": "A Church House Beneath a Mosque",
+  "place": "Samahij, Muharraq Island, Bahrain",
+  "lat": 26.27,
+  "lng": 50.63,
+  "text": "In Samahij, Bahrain, archaeologists found an eight-room building that Christians used from the mid-300s to the mid-700s CE, with a kitchen, dining room and living rooms. Plaster crosses showed who lived there, and a bishop may have been among them. Residents ate pork, fish and shellfish and drank from small wine glasses. When locals became Muslim, a mosque was built on top.",
+  "source": {
+   "name": "Archaeology Magazine: Early Christian Building Uncovered in the Arabian Gulf",
+   "url": "https://archaeology.org/news/2024/07/17/early-christian-building-uncovered-in-the-arabian-gulf/"
+  }
+ },
+ {
+  "id": "w05-adulis-port-churches",
+  "era": "classical",
+  "year": 450,
+  "dateLabel": "400s–500s CE",
+  "cat": "culture",
+  "title": "A Cathedral at Aksum's Seaport",
+  "place": "Adulis, Northern Red Sea Region, Eritrea",
+  "lat": 15.26,
+  "lng": 39.66,
+  "text": "Adulis was the Red Sea port of the Aksum kingdom, whose King Ezana became Christian in the mid-300s. Radiocarbon dates show its cathedral, which had a baptistry, went up between 400 and 535 CE. A second church, with a ring of columns that once held a Byzantine-style dome, followed between 480 and 625. Their different styles suggest Christianity did not spread by royal order alone.",
+  "source": {
+   "name": "Archaeology Magazine: New Dates Obtained for Ethiopia's Early Christian Churches",
+   "url": "https://www.archaeology.org/news/11066-221209-ethiopia-aksum-christianity"
+  }
+ },
+ {
+  "id": "w05-el-kab-vulture-goddess",
+  "era": "ancient",
+  "year": -1400,
+  "dateLabel": "New Kingdom, 1550–1069 BCE",
+  "cat": "culture",
+  "title": "Home of the Vulture Goddess",
+  "place": "El Kab (ancient Nekheb), Aswan Governorate, Egypt",
+  "lat": 25.12,
+  "lng": 32.8,
+  "text": "South of Luxor, the town of Nekheb was home to Nekhbet, the vulture goddess of Upper Egypt. Huge mud-brick walls enclose about 125 acres, holding houses and two New Kingdom temples, one for Nekhbet and one for Thoth, god of wisdom. In nearby tombs, a mayor named Paheri had his funeral painted, along with pigs, an animal rarely shown in Egyptian tombs.",
+  "source": {
+   "name": "Archaeology Magazine: Off the Grid, El Kab, Egypt",
+   "url": "https://archaeology.org/issues/online/off-the-grid/el-kab-egypt/"
+  }
+ },
+ {
+  "id": "w05-beta-israel-semien-priests",
+  "era": "medieval",
+  "year": 1450,
+  "dateLabel": "1400s onward",
+  "cat": "daily",
+  "title": "Holy Men of the Semien Mountains",
+  "place": "Semien Menata, Semien Mountains, Amhara, Ethiopia",
+  "lat": 13.23,
+  "lng": 38.07,
+  "text": "The Beta Israel, Ethiopian Jews, built round prayer houses in the Semien Mountains. Their ascetic high priests, a line traced to Abba Sabra in the 1400s, lived apart under strict purity rules. They left bread, stew and beer outside their compound so hungry people could eat without touching them. Pilgrims to a holy hilltop purified themselves by eating raw chickpeas and bathing.",
+  "source": {
+   "name": "Archaeology Magazine: Exploring a Forgotten Jewish Land",
+   "url": "https://archaeology.org/issues/online/collection/ethiopia-beta-israel/"
+  }
+ },
+ {
+  "id": "w05-selja-sunniva-cave",
+  "era": "medieval",
+  "year": 996,
+  "dateLabel": "996",
+  "cat": "culture",
+  "title": "Norway's First Saint in a Cave",
+  "place": "Selja Island, Stad, Vestland, Norway",
+  "lat": 62.05,
+  "lng": 5.35,
+  "text": "Legend says the Irish queen Sunniva fled a pagan suitor, drifted to Selja and died in a cave when rocks sealed it. In 996 King Olaf Tryggvason and his bishop came to the island, found bones they believed were hers and built Norway's first Christian sanctuary. Pilgrims flocked there, Benedictine monks arrived around 1100, and in 1170 her relics moved to Bergen.",
+  "source": {
+   "name": "Archaeology Magazine: Off the Grid, Selja Island, Norway",
+   "url": "https://archaeology.org/issues/online/off-the-grid/selja-island-norway/"
+  }
+ },
+ {
+  "id": "w05-inishark-st-leo",
+  "era": "medieval",
+  "year": 650,
+  "dateLabel": "600s CE",
+  "cat": "daily",
+  "title": "Holy Circuits on a Tiny Island",
+  "place": "Inishark, County Galway, Ireland",
+  "lat": 53.61,
+  "lng": -10.29,
+  "text": "In the 600s, Saint Leo founded a monastery on Inishark, an island barely a mile across off Ireland's west coast. A church ruin, a holy well, stone altars and a beehive-shaped hut said to be Leo's home survive. For centuries islanders walked ritual circuits between these holy spots. The island's population once reached about 300, but its last 24 people left in 1960.",
+  "source": {
+   "name": "Archaeology Magazine: Off the Grid, Inishark Island, County Galway, Ireland",
+   "url": "https://archaeology.org/issues/march-april-2019/off-the-grid/trenches-ireland-inishark/"
+  }
+ },
+ {
+  "id": "w05-maligrad-cave-church",
+  "era": "medieval",
+  "year": 1345,
+  "dateLabel": "1345",
+  "cat": "culture",
+  "title": "Frescoes in a Lake Island Cave",
+  "place": "Church of St. Mary, Maligrad, Great Prespa Lake, Albania",
+  "lat": 40.85,
+  "lng": 20.95,
+  "text": "On Maligrad, a tadpole-shaped islet in Great Prespa Lake, a church dedicated to Mary was built inside a cave in 1345. Its walls, inside and out, carry some of the best-preserved Late Byzantine frescoes in the region. Along the nearby shore, Christian hermits once lived in churches hollowed out of the rock, reachable today only by kayak or motorboat.",
+  "source": {
+   "name": "Archaeology Magazine: Off the Grid, Great Prespa Lake Islands",
+   "url": "https://archaeology.org/issues/online/off-the-grid/great-prespa-lake-islands-north-macedonia-and-albania/"
+  }
+ },
+ {
+  "id": "w05-amarynthos-artemis-found",
+  "era": "ancient",
+  "year": -700,
+  "dateLabel": "About 700 BCE",
+  "cat": "discovery",
+  "title": "A Copying Error Hid Artemis",
+  "place": "Sanctuary of Artemis Amarysia, Amarynthos, Euboea, Greece",
+  "lat": 38.4,
+  "lng": 23.88,
+  "text": "Eretria's holiest place, the sanctuary of Artemis at Amarynthos, got its first temple around 700 BCE. Searchers trusted the geographer Strabo's distance and looked in the wrong spot for over a century. One scholar argued that a medieval copyist had misread a Greek numeral. He was right: a tile stamped 'of Artemis' confirmed the site in 2017, under modern villas.",
+  "source": {
+   "name": "Archaeology Magazine: Hunting for the Lost Temple of Artemis",
+   "url": "https://archaeology.org/issues/september-october-2024/features/hunting-for-the-lost-temple-of-artemis/"
+  }
+ },
+ {
+  "id": "w05-devils-tower-june-closure",
+  "era": "modern",
+  "year": 1995,
+  "dateLabel": "1995",
+  "cat": "culture",
+  "title": "Climbers Step Back Each June",
+  "place": "Devils Tower National Monument, Wyoming, USA",
+  "lat": 44.59,
+  "lng": -104.72,
+  "text": "More than two dozen tribes, among them the Lakota, Cheyenne, Crow, Arapaho and Shoshone, hold Devils Tower sacred, with names meaning Bear Lodge, Bear's Tipi or Gray Horn Butte. Many see climbing it as disrespectful. In a compromise worked out for the 1995 Climbing Management Plan, climbers are asked to stay off the Tower each June, when many ceremonies happen. Prayer cloths hang from trees beside the trail.",
+  "source": {
+   "name": "National Park Service: Climbing at Devils Tower",
+   "url": "https://www.nps.gov/deto/planyourvisit/climbing.htm"
+  },
+  "source2": {
+   "name": "National Park Service: American Indians and Devils Tower",
+   "url": "https://www.nps.gov/deto/learn/historyculture/americanindians.htm"
+  }
+ },
+ {
+  "id": "w05-malinalco-house-of-eagles",
+  "era": "exploration",
+  "year": 1500,
+  "dateLabel": "1476–1519",
+  "cat": "power",
+  "title": "A Temple Carved From the Mountain",
+  "place": "Cuauhcalli, Malinalco, State of Mexico, Mexico",
+  "lat": 18.95,
+  "lng": -99.5,
+  "text": "After conquering Malinalco in 1476, the Aztecs carved the Cuauhcalli, or House of the Eagles, straight into a hillside about 700 feet above town. It is the only rock-cut building in the Aztec world. You enter through a doorway shaped like a serpent's open mouth. Inside, eagle and jaguar warriors held rites around animal-shaped thrones, facing a carved eagle linked to Huitzilopochtli.",
+  "source": {
+   "name": "Archaeology Magazine: Off the Grid, Malinalco, Mexico",
+   "url": "https://archaeology.org/issues/january-february-2020/off-the-grid/digs-mexico-malinalco/"
+  }
+ },
+ {
+  "id": "w05-el-paraiso-fire-temple",
+  "era": "ancient",
+  "year": -3000,
+  "dateLabel": "About 3000 BCE",
+  "cat": "discovery",
+  "title": "Priests Who Spoke Through Fire",
+  "place": "El Paraíso, Chillón Valley, Lima, Peru",
+  "lat": -11.95,
+  "lng": -77.12,
+  "text": "Inside a wing of the main pyramid at El Paraíso, near Lima, archaeologists found a temple about 5,000 years old. Its stone walls were covered in yellow clay with traces of red paint, and a narrow passage led in. At its centre was a hearth. Priests may have used the fire to speak with the gods, since, as one excavator put it, fire was the heart of their religion.",
+  "source": {
+   "name": "Archaeology Magazine: Ancient Temple Found at Peru's El Paraiso",
+   "url": "https://archaeology.org/news/2013/02/13/130213-peru-temple-el-paraiso/"
+  }
+ },
+ {
+  "id": "w05-montegrande-spiral-temple",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1000 BCE",
+  "cat": "culture",
+  "title": "A Stone Snake Coils Around a Mound",
+  "place": "Montegrande, Jaén, Cajamarca, Peru",
+  "lat": -5.71,
+  "lng": -78.81,
+  "text": "Near Jaén, at the edge of the Amazon, a mound at Montegrande was rebuilt at least eight times starting around 1000 BCE. Just under its summit, a spiral of stones about 40 feet across coils round the mound like a huge snake. It ends in a shallow pit full of ash, maybe from ritual fires. At some times of year, its tip lines up with the sunrise.",
+  "source": {
+   "name": "Archaeology Magazine: Letter From Peru, Connecting Two Realms",
+   "url": "https://archaeology.org/issues/july-august-2017/letters-from/letter-from-peru-spiral-temples/"
+  }
+ },
+ {
+  "id": "w05-puukohola-heiau",
+  "era": "exploration",
+  "year": 1791,
+  "dateLabel": "1790–91",
+  "cat": "power",
+  "title": "A Temple to End a War",
+  "place": "Puʻukoholā Heiau, Kawaihae, Island of Hawaiʻi, USA",
+  "lat": 20.03,
+  "lng": -155.82,
+  "text": "A Kauaʻi priest named Kapoukahi told Kamehameha that the war on Hawaiʻi Island would end if he built a temple to the war god Kū on Puʻukoholā, the Hill of the Whale. Kamehameha built it in 1790–91. In 1791 his rival and cousin Keōua was killed there. The temple is now a symbol of unity, with a Hawaiian ceremony held every August.",
+  "source": {
+   "name": "National Park Service: Puʻukoholā Heiau History & Culture",
+   "url": "https://www.nps.gov/puhe/learn/historyculture/index.htm"
+  },
+  "source2": {
+   "name": "National Park Service: Puʻukoholā Heiau National Historic Site",
+   "url": "https://www.nps.gov/puhe/index.htm"
+  }
+ },
+ {
+  "id": "w05-piilanihale-heiau",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "From the 1100s",
+  "cat": "culture",
+  "title": "Polynesia's Biggest Temple Platform",
+  "place": "Piʻilanihale Heiau, Kahanu Garden, Hāna, Maui, Hawaiʻi, USA",
+  "lat": 20.79,
+  "lng": -156.04,
+  "text": "On Maui's east coast rises Piʻilanihale, a stepped platform of lava rock almost 50 feet high, with a top about the size of two football fields. Built in four stages, perhaps starting in the 1100s, it is thought to be the biggest temple in Polynesia. It served the Piʻilani family who ruled Maui. Native Hawaiians still use it for rituals, so visitors stay below.",
+  "source": {
+   "name": "Archaeology Magazine: Off the Grid, Piʻilanihale Heiau",
+   "url": "https://archive.archaeology.org/0907/trenches/offthegrid.html"
+  }
+ }
+]

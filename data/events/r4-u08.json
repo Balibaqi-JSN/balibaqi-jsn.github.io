@@ -1,0 +1,398 @@
+[
+ {
+  "id": "u08-fahien-monkey-hunters",
+  "era": "early",
+  "year": -45000,
+  "dateLabel": "About 45,000 years ago",
+  "cat": "daily",
+  "title": "Monkey Hunters of the Rainforest",
+  "place": "Fa-Hien Lena Cave, Kalutara District, Sri Lanka",
+  "lat": 6.65,
+  "lng": 80.21,
+  "text": "Fa-Hien Lena cave in Sri Lanka's rainforest has yielded more than 14,000 animal bone and tooth fragments. From about 45,000 years ago, most come from monkeys and tree squirrels, over 70 percent of the identified remains, with toque macaques slightly outnumbering leaf monkeys. Catching agile animals high in the trees is hard, and bone points and tiny stone blades hint that hunters used projectiles.",
+  "source": {
+   "name": "Nature Communications: Specialized rainforest hunting by Homo sapiens ~45,000 years ago (Wedage et al. 2019)",
+   "url": "https://www.nature.com/articles/s41467-019-08623-1"
+  }
+ },
+ {
+  "id": "u08-samanalawewa-wind-furnaces",
+  "era": "medieval",
+  "year": 700,
+  "dateLabel": "First millennium CE",
+  "cat": "discovery",
+  "title": "Steel Made by the Monsoon Wind",
+  "place": "Samanalawewa, Sabaragamuwa Province, Sri Lanka",
+  "lat": 6.68,
+  "lng": 80.8,
+  "text": "At Samanalawewa, ancient iron workers built their furnaces along the western edges of hills and ridges, facing the strong monsoon winds. Archaeologist Gill Juleff excavated them and tested replicas: the wind itself pushed air into the fire, a method unlike either bellows or chimney draught. The replicas even made high-carbon steel. This wind-powered industry thrived during the first millennium CE.",
+  "source": {
+   "name": "Nature: An ancient wind-powered iron smelting technology in Sri Lanka (Juleff 1996)",
+   "url": "https://www.nature.com/articles/379060a0"
+  }
+ },
+ {
+  "id": "u08-roopkund-skeleton-lake",
+  "era": "medieval",
+  "year": 800,
+  "dateLabel": "About 800 CE",
+  "cat": "discovery",
+  "title": "Strangers at Skeleton Lake",
+  "place": "Roopkund Lake, Chamoli, Uttarakhand, India",
+  "lat": 30.26,
+  "lng": 79.73,
+  "text": "Around Roopkund, a small lake 5,029 metres up in the Himalayas, lie the bones of several hundred people. DNA from 38 skeletons revealed a surprise: 23 had South Asian ancestry and died around 800 CE, while 14 had eastern Mediterranean ancestry, close to modern Greeks and Cretans, and died around 1800 CE. Local legend blames the wrath of the mountain goddess Nanda Devi.",
+  "source": {
+   "name": "Nature Communications: Ancient DNA from the skeletons of Roopkund Lake reveals Mediterranean migrants in India (Harney et al. 2019)",
+   "url": "https://www.nature.com/articles/s41467-019-11357-9"
+  }
+ },
+ {
+  "id": "u08-salam-nobel-jhang",
+  "era": "modern",
+  "year": 1979,
+  "dateLabel": "1979",
+  "cat": "discovery",
+  "title": "The Physicist From Jhang",
+  "place": "Jhang, Punjab, Pakistan",
+  "lat": 31.27,
+  "lng": 72.32,
+  "text": "Abdus Salam was born in 1926 in Jhang, a small town in a poor farming district. At 14 he cycled home from Lahore after earning the highest marks ever recorded in the Punjab University matriculation exam, and the whole town turned out to welcome him. In 1979 he shared the Nobel Prize in Physics, and he gave his share entirely to help physicists from developing countries.",
+  "source": {
+   "name": "NobelPrize.org: Abdus Salam, Biographical",
+   "url": "https://www.nobelprize.org/prizes/physics/1979/salam/biographical/"
+  }
+ },
+ {
+  "id": "u08-lumbini-timber-shrine",
+  "era": "ancient",
+  "year": -550,
+  "dateLabel": "Sixth century BCE",
+  "cat": "discovery",
+  "title": "A Wooden Shrine Around a Tree",
+  "place": "Maya Devi Temple, Lumbini, Rupandehi, Nepal",
+  "lat": 27.47,
+  "lng": 83.28,
+  "text": "Archaeologists digging inside the Maya Devi Temple at Lumbini, long honoured as the Buddha's birthplace, worked beside meditating monks, nuns and pilgrims. Beneath a series of brick temples they found a timber structure from the sixth century BCE, with an open central space where ancient tree roots survive. Buddhist tradition says Queen Maya Devi gave birth while holding the branch of a tree.",
+  "source": {
+   "name": "EurekAlert (National Geographic Society): Archaeological discoveries confirm early date of Buddha's life",
+   "url": "https://www.eurekalert.org/news-releases/621590"
+  }
+ },
+ {
+  "id": "u08-samdzong-silk-mask",
+  "era": "classical",
+  "year": 500,
+  "dateLabel": "400 to 650 CE",
+  "cat": "journeys",
+  "title": "Silk and a Gold Mask in Mustang",
+  "place": "Samdzong, Upper Mustang, Nepal",
+  "lat": 29.22,
+  "lng": 83.95,
+  "text": "In 2009 a seismic event sheared off a cliff face in Upper Mustang, exposing ten shaft tombs carved into the rock 4,000 metres up. In one, an adult's coffin lay beside a gold and silver funeral mask, pierced with pinholes so it could be sewn onto headwear. Cloth from 400 to 650 CE held silk and dyes imported from China and India, linking this remote valley to the Silk Road.",
+  "source": {
+   "name": "EurekAlert (University of Cambridge): Nepali textile find suggests Silk Road extended further south than previously thought",
+   "url": "https://www.eurekalert.org/news-releases/535690"
+  }
+ },
+ {
+  "id": "u08-bose-letter-to-einstein",
+  "era": "modern",
+  "year": 1924,
+  "dateLabel": "1924",
+  "cat": "discovery",
+  "title": "A Letter From Dacca to Einstein",
+  "place": "University of Dacca (Dhaka), Bangladesh",
+  "lat": 23.73,
+  "lng": 90.4,
+  "text": "In June 1924, Satyendra Nath Bose, a little-known physics reader at Dacca University, mailed a short paper to Albert Einstein with a letter beginning \"Respected Sir.\" It derived Planck's radiation law in a new statistical way. Einstein translated it into German himself, had it published, and built on it to predict a new state of matter. Particles obeying these statistics are now called bosons.",
+  "source": {
+   "name": "Physics Today: The man behind Bose statistics (Kameshwar Wali)",
+   "url": "https://physicstoday.aip.org/features/the-man-behind-bose-statistics"
+  },
+  "source2": {
+   "name": "MacTutor History of Mathematics, University of St Andrews: Satyendranath Bose",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bose/"
+  }
+ },
+ {
+  "id": "u08-indus-dolphin-barrages",
+  "era": "modern",
+  "year": 2014,
+  "dateLabel": "2014",
+  "cat": "nature",
+  "title": "Dolphins Trapped Between the Barrages",
+  "place": "Sukkur Barrage, Indus River, Sindh, Pakistan",
+  "lat": 27.69,
+  "lng": 68.85,
+  "text": "Indus river dolphins live only in the Indus River system. Between 1886 and 1971, twenty irrigation barrages, gated dams that divert water to farms, chopped their range into 17 sections. A 2014 study found the dolphins had vanished from ten of them, mainly because too little water flows below the barrages in the dry season. One radio-tagged dolphin was seen slipping through Sukkur Barrage's open gates.",
+  "source": {
+   "name": "PLOS ONE: Habitat Fragmentation and Species Extirpation in Freshwater Ecosystems; Causes of Range Decline of the Indus River Dolphin (Braulik et al. 2014)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0101657"
+  }
+ },
+ {
+  "id": "u08-nepal-earrings-for-a-god",
+  "era": "exploration",
+  "year": 1700,
+  "dateLabel": "1600s or 1700s",
+  "cat": "culture",
+  "title": "Earrings Made for a God",
+  "place": "Kathmandu Valley, Nepal",
+  "lat": 27.7,
+  "lng": 85.31,
+  "text": "These gold earrings from the Kathmandu Valley are larger than life, made not for a person but to hang on a deity statue in a Nepalese temple. On the front, a green four-armed Vishnu rides a coral Garuda with lapis lazuli wings, flanked by dancing celestial beings. On the back, fine gold filigree surrounds a protective monster mask with a sun and crescent moon above.",
+  "source": {
+   "name": "Cleveland Museum of Art: Pair of Deity Earrings with Vishnu on Garuda",
+   "url": "https://www.clevelandart.org/art/1915.338"
+  }
+ },
+ {
+  "id": "u08-tuti-nama-parrot-tales",
+  "era": "exploration",
+  "year": 1560,
+  "dateLabel": "About 1560",
+  "cat": "culture",
+  "title": "Fifty-Two Tales From a Parrot",
+  "place": "Court of Akbar, Agra, Uttar Pradesh, India",
+  "lat": 27.18,
+  "lng": 78.02,
+  "text": "Around 1560, painters at the court of the young emperor Akbar illustrated the Tuti-nama, or Tales of a Parrot. In it, a clever talking parrot tells 52 stories to its mistress Khujasta to keep her from an affair. The Persian text dates to 1329–30 and recast older Sanskrit fables. Mostly Indian artists painted this copy, which marks the very beginnings of Mughal painting.",
+  "source": {
+   "name": "Cleveland Museum of Art: Tuti-Nama (Tales of a Parrot)",
+   "url": "https://www.clevelandart.org/art/1962.279"
+  },
+  "source2": {
+   "name": "Cleveland Museum of Art: Page from Tales of a Parrot (Tuti-nama): text page",
+   "url": "https://www.clevelandart.org/art/1962.279.33.a"
+  }
+ },
+ {
+  "id": "u08-golconda-sultan-terms",
+  "era": "exploration",
+  "year": 1635,
+  "dateLabel": "1635",
+  "cat": "power",
+  "title": "A Sultan Keeps His Throne, at a Price",
+  "place": "Golconda, Hyderabad, Telangana, India",
+  "lat": 17.38,
+  "lng": 78.4,
+  "text": "Abdullah Qutb Shah became sultan of Golconda at the age of twelve. When the Mughal emperor Shah Jahan invaded the Deccan in 1635, the young sultan kept his throne, but on harsh terms: paying tribute, converting to Sunni Islam and hosting a Mughal agent at court. A watercolor portrait shows him in a see-through shawl, riding a horse almost as bejewelled as he is.",
+  "source": {
+   "name": "Cleveland Museum of Art: Sultan Abdullah Qutb Shah (1614-74) on Horseback",
+   "url": "https://www.clevelandart.org/art/2013.287"
+  }
+ },
+ {
+  "id": "u08-chola-nataraja-bronze",
+  "era": "medieval",
+  "year": 1050,
+  "dateLabel": "1000s",
+  "cat": "culture",
+  "title": "Shiva Dances on Ignorance",
+  "place": "Kaveri delta, Tamil Nadu, India",
+  "lat": 10.9,
+  "lng": 79.4,
+  "text": "Chola bronze casters in Tamil Nadu shaped Shiva as Nataraja, Lord of Dance, one of the most celebrated forms in Indian art. The ring of fire and the flame in his left hand stand for destruction, and the drum in his raised right hand beats out time. His lower right hand tells devotees not to fear, and each dance step lands on a dwarf who personifies ignorance.",
+  "source": {
+   "name": "Cleveland Museum of Art: Nataraja, Shiva as the Lord of Dance",
+   "url": "https://www.clevelandart.org/art/1930.331"
+  }
+ },
+ {
+  "id": "u08-kangra-sansar-chand",
+  "era": "exploration",
+  "year": 1782,
+  "dateLabel": "1782",
+  "cat": "power",
+  "title": "A Teenage King Storms Kangra",
+  "place": "Kangra Fort, Kangra, Himachal Pradesh, India",
+  "lat": 32.07,
+  "lng": 76.27,
+  "text": "In 1782, 17-year-old Raja Sansar Chand fought to win back his family's kingdom of Kangra from the Mughals, who had held it since 1620. A painting on cotton cloth shows the young, beardless king on a dark brown horse in front of a camel, blending in among his army. Residents flee toward the fortress with belongings on their heads, while cannons fire from its walls.",
+  "source": {
+   "name": "Cleveland Museum of Art: Raja Sansar Chand attacking Kangra Fort",
+   "url": "https://www.clevelandart.org/art/2018.120"
+  }
+ },
+ {
+  "id": "u08-sri-lanka-chromium-buddha",
+  "era": "industrial",
+  "year": 1835,
+  "dateLabel": "About 1825–50",
+  "cat": "culture",
+  "title": "A Shrine Painting Dated by Its Yellow",
+  "place": "Sri Lanka",
+  "lat": 7.29,
+  "lng": 80.63,
+  "text": "This Sri Lankan shrine painting shows the Buddha radiating light and flame, flanked by four disciples, with the earth goddess below balancing a water pot on her head. Island guardians gather nearby, including six-headed Kataragama. Its rows of golden figures echo temple murals like those at Dambulla. A hidden clue helps date it: the yellow pigment contains chromium, not used in paints before 1818.",
+  "source": {
+   "name": "Cleveland Museum of Art: Blessed Lord Buddha",
+   "url": "https://www.clevelandart.org/art/1949.152"
+  }
+ },
+ {
+  "id": "u08-nepal-goddess-uma",
+  "era": "medieval",
+  "year": 1050,
+  "dateLabel": "1000s",
+  "cat": "culture",
+  "title": "A Goddess Turning Toward Shiva",
+  "place": "Nepal",
+  "lat": 27.67,
+  "lng": 85.32,
+  "text": "This gilt bronze goddess Uma, cast in Nepal in the 1000s and set with semiprecious stones, turns gracefully toward her consort Shiva, although the matching figure of him was long ago separated from her. She embodies the god's creative energy and the beauty of creation. In Nepal, Hinduism and Buddhism have flourished side by side, while in India Buddhism faded away after the 1300s.",
+  "source": {
+   "name": "Cleveland Museum of Art: Goddess Uma",
+   "url": "https://www.clevelandart.org/art/1982.49"
+  }
+ },
+ {
+  "id": "u08-gandhara-winged-atlas",
+  "era": "classical",
+  "year": 250,
+  "dateLabel": "200s CE",
+  "cat": "culture",
+  "title": "Atlas Grows Wings in Gandhara",
+  "place": "Gandhara region, Khyber Pakhtunkhwa, Pakistan",
+  "lat": 34.2,
+  "lng": 72.05,
+  "text": "Gandharan sculptors borrowed Atlas, the Greek giant who held up the sky, and gave him wings to look superhuman. This schist figure also wears Hercules's lion skin, and similar figures hold a thunderbolt, linking them to Vajrapani, the Buddha's protector. Rows of these titans circled the bases of stupas, solid domes that symbolized the sky, as if holding the heavens aloft.",
+  "source": {
+   "name": "Cleveland Museum of Art: Winged Atlas-Hercules",
+   "url": "https://www.clevelandart.org/art/2011.136"
+  }
+ },
+ {
+  "id": "u08-chamagram-arsenic-wells",
+  "era": "modern",
+  "year": 1993,
+  "dateLabel": "1993",
+  "cat": "nature",
+  "title": "Poison in the Safe Water",
+  "place": "Chamagram, Chapai Nawabganj District, Bangladesh",
+  "lat": 24.6,
+  "lng": 88.27,
+  "text": "For decades Bangladesh urged villagers to swap germ-laden ponds and rivers for tube wells, and by the 1990s 97 percent of people had microbiologically safe drinking water. Then in 1993, engineers found arsenic in four tube wells in Chamagram village, Nawabganj district, and eight sick villagers were identified there the next year. Testers later painted wells red if unsafe and green if safe.",
+  "source": {
+   "name": "PMC: Arsenic contamination in groundwater in Bangladesh: implications and challenges for healthcare policy",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6281155/"
+  },
+  "source2": {
+   "name": "PMC: Bangladesh arsenic mitigation programs: lessons from the past",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3342680/"
+  }
+ },
+ {
+  "id": "u08-addu-coral-cemetery",
+  "era": "exploration",
+  "year": 1586,
+  "dateLabel": "1586 (by local tradition)",
+  "cat": "culture",
+  "title": "Mosques and Tombs Built of Coral",
+  "place": "Koagannu Cemetery, Hulhumeedhoo, Addu Atoll, Maldives",
+  "lat": -0.58,
+  "lng": 73.23,
+  "text": "Maldivian mosques are built from an unusual material: sea coral. On Hulhumeedhoo, in Addu Atoll at the country's southern tip, local tradition says the Fandiyaaru Mosque was founded in 1586, and it is believed to be the earliest coral stone building in the Maldives. Around it, Koagannu Cemetery, the nation's largest, holds 15 mausoleums and about 500 coral tombstones, some reused over centuries.",
+  "source": {
+   "name": "Fondation Max van Berchem: Archaeological Investigations on the Coral Stone Mosques of the Maldives (Pradines and Balestra)",
+   "url": "https://maxvanberchem.org/en/scientific-activities/projects/archeology/11-archeologie/171-archaeological-investigations-on-the-coral-stone-mosques-of-the-maldives"
+  }
+ },
+ {
+  "id": "u08-bijapur-ibrahim-songs",
+  "era": "exploration",
+  "year": 1600,
+  "dateLabel": "Reigned 1580–1627",
+  "cat": "culture",
+  "title": "The Sultan Who Wrote Ragas",
+  "place": "Bijapur (Vijayapura), Karnataka, India",
+  "lat": 16.83,
+  "lng": 75.71,
+  "text": "Ibrahim Adil Shah II ruled the Deccan sultanate of Bijapur from 1580 to 1627, keeping Mughal power at bay. He loved music and poetry and blended Sufi ideals with Hindu and Islamic traditions. He recast ragas, musical modes from Hindu court tradition, in his own verses in the local Dakhini language. One survives written in Arabic script on marbled paper, a Deccan art prized for its random beauty.",
+  "source": {
+   "name": "Cleveland Museum of Art: Dohra (Song) Five: Bhairava Raga, from a Kitab-i Nauras of Sultan Ibrahim Adil Shah of Bijapur",
+   "url": "https://www.clevelandart.org/art/2013.330.b"
+  }
+ },
+ {
+  "id": "u08-janaki-ammal-sugarcane",
+  "era": "modern",
+  "year": 1934,
+  "dateLabel": "1934",
+  "cat": "discovery",
+  "title": "The Botanist Who Sweetened India's Cane",
+  "place": "Sugarcane Breeding Institute, Coimbatore, Tamil Nadu, India",
+  "lat": 11.03,
+  "lng": 76.93,
+  "text": "In 1934 Janaki Ammal, born into a Thiya family from Tellicherry in Kerala, began work at the Sugarcane Breeding Institute in Coimbatore. By crossbreeding, she created a high-yielding cane suited to India's climate, helping the country rely less on imports. She even tried crossing sugarcane with maize, sorghum and bamboo, something never done before. In 1946 she became the Royal Horticultural Society's first female scientist.",
+  "source": {
+   "name": "Royal Horticultural Society: The female botanist who sweetened a nation",
+   "url": "https://www.rhs.org.uk/education-learning/libraries-at-rhs/articles/janaki-ammal"
+  }
+ },
+ {
+  "id": "u08-bourne-lahore-rooftop",
+  "era": "industrial",
+  "year": 1865,
+  "dateLabel": "1860s",
+  "cat": "journeys",
+  "title": "A Banker Turned Photographer in Lahore",
+  "place": "Lahore Fort, Lahore, Punjab, Pakistan",
+  "lat": 31.59,
+  "lng": 74.31,
+  "text": "Samuel Bourne was a banker in England before he moved to India to become a professional photographer. In the 1860s he photographed Lahore from the roof of the palace in its fort. His album of 50 views travels from Himalayan hill towns down to Lahore, Delhi, Agra, Benares and Calcutta, recording monuments such as the Taj Mahal before twentieth-century restorations changed them.",
+  "source": {
+   "name": "Cleveland Museum of Art: View of the City of Lahore Taken from the Roof of the Palace in the Fort",
+   "url": "https://www.clevelandart.org/art/2024.5.26"
+  }
+ },
+ {
+  "id": "u08-bhutan-kira-dress",
+  "era": "industrial",
+  "year": 1900,
+  "dateLabel": "About 1900",
+  "cat": "daily",
+  "title": "A Dress Woven Sideways",
+  "place": "Bhutan",
+  "lat": 27.47,
+  "lng": 89.64,
+  "text": "The kira, the main garment of Bhutanese women, is a single large rectangle wrapped around the body over a blouse and petticoat, held by brooches at the shoulders and a sash at the waist. This one, about 1.4 by 2.8 metres, joins three loom widths of cotton and silk. Curiously, its geometric stripes are woven running vertically, yet the dress is worn with them horizontal.",
+  "source": {
+   "name": "Art Institute of Chicago: Kira (Wrapped Woman's Dress) with Geometric Patterning",
+   "url": "https://www.artic.edu/artworks/234538"
+  }
+ },
+ {
+  "id": "u08-gupta-archer-coin",
+  "era": "classical",
+  "year": 400,
+  "dateLabel": "About 400 CE",
+  "cat": "power",
+  "title": "An Archer on a Gupta Coin",
+  "place": "Gupta Empire, northern India",
+  "lat": 25.61,
+  "lng": 85.14,
+  "text": "The Gupta kings unified northern India under native rule for the first time since the Maurya empire, and even took their name from Chandragupta, the Maurya founder. Chandragupta II, who ruled from about 380 to 415 CE, issued coins showing a divine archer holding a bow and arrow. Turn the coin over and Shri, the goddess of good fortune, sits on a lotus.",
+  "source": {
+   "name": "Cleveland Museum of Art: Coin with Figure of an Archer (reverse)",
+   "url": "https://www.clevelandart.org/art/1977.62.b"
+  }
+ },
+ {
+  "id": "u08-kalighat-pilgrim-painting",
+  "era": "industrial",
+  "year": 1890,
+  "dateLabel": "About 1890",
+  "cat": "culture",
+  "title": "A Souvenir From Kalighat Temple",
+  "place": "Kalighat, Kolkata, West Bengal, India",
+  "lat": 22.52,
+  "lng": 88.34,
+  "text": "Around 1890, pilgrims visiting the Hindu temple at Kalighat in Kolkata could buy a painting to remember their trip and adorn a home altar. In this one, Rama sits crowned beside Sita, home after 14 years of exile and her rescue from the island of Lanka. His green-skinned brother Lakshmana holds a royal flywhisk, while the monkey general Hanuman lies flat before the couple in humble devotion.",
+  "source": {
+   "name": "Cleveland Museum of Art: Rama and Sita enthroned (recto), from a Kalighat album",
+   "url": "https://www.clevelandart.org/art/2003.134.a"
+  }
+ }
+]

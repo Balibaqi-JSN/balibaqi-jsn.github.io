@@ -1,0 +1,410 @@
+[
+ {
+  "id": "u04-niah-robust-jaw",
+  "era": "iceage",
+  "year": -27000,
+  "dateLabel": "About 29,000 years ago",
+  "cat": "daily",
+  "title": "A Tough Jaw from Borneo's Rainforest",
+  "place": "West Mouth, Niah Caves, Sarawak, Malaysia",
+  "lat": 3.82,
+  "lng": 113.78,
+  "text": "In 1957, excavators at Borneo's Niah Caves collected part of a human jaw that later dating placed at about 30,000 to 28,000 years old. It is unusually small yet strikingly robust, its bone thick for its height. Researchers suggest the person chewed hard foods while growing up, perhaps tough dried meat, raw palm or starchy underground roots gathered from the rainforest.",
+  "source": {
+   "name": "PLOS ONE: Rare Late Pleistocene-early Holocene human mandibles from the Niah Caves (Sarawak, Borneo)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196633"
+  }
+ },
+ {
+  "id": "u04-chiquihuite-mountain-cave",
+  "era": "iceage",
+  "year": -25500,
+  "dateLabel": "About 30,000 to 25,000 years ago",
+  "cat": "journeys",
+  "title": "The Americas' Oldest Mountain Hotel?",
+  "place": "Chiquihuite Cave, Astillero Mountains, Zacatecas, Mexico",
+  "lat": 24.7,
+  "lng": -101.4,
+  "text": "High in the mountains of northern Mexico, 2,750 metres above sea level, Chiquihuite Cave held nearly 2,000 stone tools and flakes. Dating ties them to between about 30,000 and 25,000 years ago, 15,000 years earlier than many accept for people in the Americas. No human DNA was found, so visitors probably stayed briefly. Critics doubt the tools are human-made or correctly dated.",
+  "source": {
+   "name": "EurekAlert (University of Cambridge): Earliest humans stayed at the Americas 'oldest hotel' in Mexican cave",
+   "url": "https://www.eurekalert.org/news-releases/689316"
+  },
+  "source2": {
+   "name": "Archaeology Magazine: Possible Ice Age Stone Tools Found in Mexico",
+   "url": "https://archaeology.org/news/8876-200723-mexico-ice-age"
+  }
+ },
+ {
+  "id": "u04-santa-elina-sloth-pendants",
+  "era": "iceage",
+  "year": -24000,
+  "dateLabel": "About 25,000 years ago",
+  "cat": "culture",
+  "title": "Pendants Made from Giant Sloth Bones",
+  "place": "Santa Elina rock shelter, Mato Grosso, Brazil",
+  "lat": -15.45,
+  "lng": -56.77,
+  "text": "In a rock shelter in central Brazil, archaeologists found thousands of bony skin plates from an extinct giant ground sloth. Three stood out: someone had drilled and polished holes through them, probably to wear as pendants. They came from a layer dated to about 27,000 to 25,000 years ago, alongside stone tools. If that holds, people reached South America far earlier than many experts accept.",
+  "source": {
+   "name": "Archaeology Magazine: Sloth Bone Study Pushes Back Human Occupation of Brazil",
+   "url": "https://archaeology.org/news/2023/07/12/230713-brazil-sloth-pendant/"
+  }
+ },
+ {
+  "id": "u04-pathirajawela-coast-camp",
+  "era": "iceage",
+  "year": -22800,
+  "dateLabel": "About 25,000 years ago",
+  "cat": "journeys",
+  "title": "A Beach Camp Far from the Sea",
+  "place": "Pathirajawela, Bundala National Park, Southern Province, Sri Lanka",
+  "lat": 6.17,
+  "lng": 81.23,
+  "text": "Today Pathirajawela sits just 200 metres from Sri Lanka's southern shore. When people first camped here about 25,000 years ago, falling seas were pushing the coast away, until at the Ice Age peak it lay roughly 22 kilometres off. Their quartz tools came first; tiny backed microliths appear only from about 14,000 years ago. It is Sri Lanka's earliest well-dated open-air coastal site.",
+  "source": {
+   "name": "Scientific Reports (via PMC): Early Sri Lankan coastal site tracks technological change and estuarine resource exploitation over the last ca. 25,000 years",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11535000/"
+  }
+ },
+ {
+  "id": "u04-bluefish-caves-horse-jaw",
+  "era": "iceage",
+  "year": -22000,
+  "dateLabel": "About 24,000 years ago",
+  "cat": "journeys",
+  "title": "A Cut-Marked Jaw in the Yukon",
+  "place": "Bluefish Caves, Keele Range, Yukon, Canada",
+  "lat": 67.15,
+  "lng": -140.75,
+  "text": "In three small caves in Canada's northern Yukon, a horse jawbone carries the fine cuts of a stone tool. Radiocarbon dating puts it at about 24,000 years old, during the coldest stretch of the Ice Age. If the marks are human work, as the researchers argue, people were butchering horses, caribou and wapiti in Beringia long before the ice let anyone travel south. Some scientists remain skeptical.",
+  "source": {
+   "name": "PLOS ONE: Earliest Human Presence in North America Dated to the Last Glacial Maximum (Bluefish Caves)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169486"
+  }
+ },
+ {
+  "id": "u04-karnatukul-desert-refuge",
+  "era": "iceage",
+  "year": -21500,
+  "dateLabel": "About 25,000 to 18,000 years ago",
+  "cat": "daily",
+  "title": "Staying Put in the Ice Age Desert",
+  "place": "Karnatukul (Serpent's Glen), Carnarvon Range, Western Australia",
+  "lat": -24.97,
+  "lng": 121.43,
+  "text": "When the Ice Age peaked, Australia's deserts grew colder and drier, and many experts thought people left them. A rock shelter called Karnatukul, in the Carnarvon Range of the Little Sandy Desert, says otherwise. A layer dated between about 25,000 and 18,000 years ago holds 370 stone artefacts, the first clear proof of people living in the Western Desert at that time.",
+  "source": {
+   "name": "PLOS ONE: Karnatukul (Serpent's Glen): A new chronology for the oldest site in Australia's Western Desert",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202511"
+  }
+ },
+ {
+  "id": "u04-el-miron-dirt-dna",
+  "era": "iceage",
+  "year": -21000,
+  "dateLabel": "About 23,000 years ago",
+  "cat": "discovery",
+  "title": "DNA in the Dirt of El Mirón",
+  "place": "El Mirón Cave, Ramales de la Victoria, Cantabria, Spain",
+  "lat": 43.25,
+  "lng": -3.47,
+  "text": "Scientists sifted DNA straight out of the cave floor at El Mirón in northern Spain and found 28 kinds of animals, 12 of them never seen among the bones. Ice Age layers hold traces of leopards, dholes, wolves, hyenas and woolly rhinos. Human DNA from Solutrean layers, around 24,000 to 22,000 years old, matches other Iberians of that time, a population that held on through the coldest millennia.",
+  "source": {
+   "name": "Nature Communications (via PMC): A sedimentary ancient DNA perspective on human and carnivore persistence through the Late Pleistocene in El Mirón Cave, Spain",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11696082/"
+  }
+ },
+ {
+  "id": "u04-waterfall-bluff-coast",
+  "era": "iceage",
+  "year": -20500,
+  "dateLabel": "About 26,000 to 19,000 years ago",
+  "cat": "daily",
+  "title": "Seafood at the Height of the Ice",
+  "place": "Waterfall Bluff, Mpondoland, Eastern Cape, South Africa",
+  "lat": -31.46,
+  "lng": 29.8,
+  "text": "When ice sheets peaked and sea levels fell, many coastlines moved far from where people lived. Not at Waterfall Bluff on South Africa's Wild Coast: the continental shelf there is so narrow that the sea stayed within reach. People kept returning for fish and shellfish through the coldest stretch of the Ice Age, the first direct evidence of coastal foraging in Africa during a glacial maximum.",
+  "source": {
+   "name": "EurekAlert (Arizona State University): Ancient people relied on coastal environments to survive the Last Glacial Maximum",
+   "url": "https://www.eurekalert.org/news-releases/718763"
+  }
+ },
+ {
+  "id": "u04-reconquista-glyptodont-cuts",
+  "era": "iceage",
+  "year": -19100,
+  "dateLabel": "About 21,000 years ago",
+  "cat": "discovery",
+  "title": "Butchering a Glyptodont near Buenos Aires",
+  "place": "Reconquista River, Merlo, Buenos Aires Province, Argentina",
+  "lat": -34.66,
+  "lng": -58.73,
+  "text": "On the bank of the Reconquista River near Merlo, Argentina, lay the back half of a glyptodont, an armoured giant related to armadillos. Its pelvis, tail bones and shell plates carry 32 cut marks with the V-shaped grooves of stone tools. Dated to about 21,000 years ago, they may be among the earliest signs of people butchering megafauna in South America.",
+  "source": {
+   "name": "PLOS ONE: Anthropic cut marks in extinct megafauna bones from the Pampean region (Argentina) at the last glacial maximum",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304956"
+  }
+ },
+ {
+  "id": "u04-charco-verde-cold-camp",
+  "era": "iceage",
+  "year": -19000,
+  "dateLabel": "About 21,000 years ago",
+  "cat": "daily",
+  "title": "Hunters in Spain's Coldest Corner",
+  "place": "Charco Verde II, Embid, Guadalajara, Spain",
+  "lat": 41.02,
+  "lng": -1.72,
+  "text": "Winters near Embid in central Spain can still drop to minus 20 °C. Yet a rock shelter here, 1,050 metres up, holds a Magdalenian camp about 21,000 years old, from the peak of the Last Glacial Maximum. Hunters brought back horse and ibex and made tiny backed bladelets for their weapons. The find shows Iberia's cold interior was not abandoned when the ice was at its height.",
+  "source": {
+   "name": "PLOS ONE (via PMC): Human occupations of upland and cold environments in inland Spain during the LGM: Charco Verde II",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10550185/"
+  }
+ },
+ {
+  "id": "u04-shizitan-hemp-fibres",
+  "era": "iceage",
+  "year": -18000,
+  "dateLabel": "About 20,000 years ago",
+  "cat": "daily",
+  "title": "Ice Age String from Hemp",
+  "place": "Shizitan, Jixian, Shanxi, China",
+  "lat": 36.03,
+  "lng": 110.57,
+  "text": "On China's Loess Plateau, Ice Age foragers at Shizitan left grinding slabs and flakes that still hold hundreds of microscopic fibres. Most are plant bast fibres, probably hemp, and wear traces show stalks being cut, soaked, pounded and scraped between about 28,000 and 18,000 years ago. Some fibres are blue or pink, which researchers think were dyed with plants. People were likely making cord, perhaps cloth.",
+  "source": {
+   "name": "PLOS ONE: Unveiling bast fiber production in Upper Paleolithic North China",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346767"
+  }
+ },
+ {
+  "id": "u04-dargan-shelter-high-camp",
+  "era": "iceage",
+  "year": -18000,
+  "dateLabel": "About 20,000 years ago",
+  "cat": "daily",
+  "title": "Campfires Above the Ice Age Tree Line",
+  "place": "Dargan Shelter, Blue Mountains, New South Wales, Australia",
+  "lat": -33.45,
+  "lng": 150.25,
+  "text": "Archaeologists once assumed Australia's high country was too harsh to live in during the last Ice Age. Dargan Shelter in the Blue Mountains proves otherwise. Sitting 1,073 metres up, about 400 metres above the tree line, it holds hearths, 693 stone artefacts and a sandstone grinding slab, with people returning for some 20,000 years. It is Australia's oldest known high-altitude occupied site.",
+  "source": {
+   "name": "EurekAlert (University of Sydney): Australia's oldest occupied Ice Age cave found at high elevation in Blue Mountains",
+   "url": "https://www.eurekalert.org/news-releases/1087752"
+  }
+ },
+ {
+  "id": "u04-erralla-cave-dog",
+  "era": "iceage",
+  "year": -15000,
+  "dateLabel": "About 17,000 years ago",
+  "cat": "discovery",
+  "title": "A Basque Cave's Ice Age Dog",
+  "place": "Erralla Cave, Basque Country, Spain",
+  "lat": 43.24,
+  "lng": -2.25,
+  "text": "A canid's upper arm bone dug out of Erralla Cave in 1985 waited decades to tell its real story. When geneticists at the University of the Basque Country read its mitochondrial DNA, it matched other dogs known from Magdalenian Europe, not wild wolves. So this 17,000-year-old animal was a domesticated dog, living alongside Ice Age hunter-gatherers thousands of years before anyone farmed.",
+  "source": {
+   "name": "Archaeology Magazine: Early Dog Identified in Spain's Basque Country",
+   "url": "https://archaeology.org/news/2022/11/30/221201-spain-early-dog/"
+  }
+ },
+ {
+  "id": "u04-faleme-valley-toolmakers",
+  "era": "iceage",
+  "year": -14500,
+  "dateLabel": "About 16,500 years ago",
+  "cat": "discovery",
+  "title": "Senegal's Oldest Stone Age Camps",
+  "place": "Toumboura, Falémé Valley, eastern Senegal",
+  "lat": 13.95,
+  "lng": -12.21,
+  "text": "Beside the Falémé River in eastern Senegal, toolmakers sat down about 17,000 to 16,000 years ago and knapped chert into tiny bladelets and crescent-shaped segments. Their camp, near the village of Toumboura, is one of the two oldest Later Stone Age sites known in Senegal. Strangely, people elsewhere in the country were still making much older-style Middle Stone Age tools at the time.",
+  "source": {
+   "name": "PLOS ONE: Two new Later Stone Age sites from the Final Pleistocene in the Falémé Valley, eastern Senegal",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294346"
+  }
+ },
+ {
+  "id": "u04-coopers-ferry-cached-points",
+  "era": "iceage",
+  "year": -13800,
+  "dateLabel": "About 15,700 years ago",
+  "cat": "journeys",
+  "title": "Dart Points Hidden in Idaho Pits",
+  "place": "Cooper's Ferry (Nipéhe), Salmon River, Idaho, USA",
+  "lat": 45.84,
+  "lng": -116.37,
+  "text": "On the Salmon River in Idaho, at the ancient Nez Perce village of Nipéhe, people stored complete and broken stone points in pits nearly 16,000 years ago. The 13 points, half an inch to 2 inches long, are about 3,000 years older than Clovis points. Probably tipped onto darts, they closely resemble points from Hokkaido, Japan, made 16,000 to 20,000 years ago.",
+  "source": {
+   "name": "Oregon State University: Archaeologists uncover oldest known projectile points in the Americas",
+   "url": "https://news.oregonstate.edu/news/oregon-state-archaeologists-uncover-oldest-known-projectile-points-americas"
+  }
+ },
+ {
+  "id": "u04-gonnersdorf-net-fishing",
+  "era": "iceage",
+  "year": -13800,
+  "dateLabel": "About 15,800 years ago",
+  "cat": "daily",
+  "title": "Fish Caught in Engraved Nets",
+  "place": "Gönnersdorf, Neuwied, Rhineland-Palatinate, Germany",
+  "lat": 50.43,
+  "lng": 7.43,
+  "text": "Beside the Rhine at Gönnersdorf, Ice Age hunters scratched hundreds of drawings onto flat slate slabs about 15,800 years ago. Using special lighting, researchers spotted seven new fish among them. On eight slabs, a simple fish sits inside a grid of crossing lines, engraved after the fish itself. The team reads the grids as nets, the first clear evidence of Magdalenian net fishing.",
+  "source": {
+   "name": "PLOS ONE: Upper Palaeolithic fishing techniques: Insights from the engraved plaquettes of Gönnersdorf, Germany",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311302"
+  }
+ },
+ {
+  "id": "u04-pinarbasi-puppies",
+  "era": "iceage",
+  "year": -13800,
+  "dateLabel": "About 15,800 years ago",
+  "cat": "culture",
+  "title": "Puppies Buried Beside People in Anatolia",
+  "place": "Pınarbaşı, Konya, Türkiye",
+  "lat": 37.49,
+  "lng": 33.04,
+  "text": "At Pınarbaşı on Turkey's Central Anatolian Plateau, hunter-gatherers buried newborn and young dogs in the same area as their own dead. Ancient DNA shows one of these animals, about 15,800 years old, was a true dog, making it the oldest genome-confirmed dog yet. Isotopes hint that the pups' mothers ate fish, probably fed to them by people.",
+  "source": {
+   "name": "Nature (via PMC): Dogs were widely distributed across western Eurasia during the Palaeolithic",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13017512/"
+  },
+  "source2": {
+   "name": "EurekAlert (University of York): Ancient DNA reveals earliest known dogs lived alongside Ice Age humans",
+   "url": "https://www.eurekalert.org/news-releases/1121386"
+  }
+ },
+ {
+  "id": "u04-huaca-prieta-first-campers",
+  "era": "iceage",
+  "year": -13000,
+  "dateLabel": "About 15,000 years ago",
+  "cat": "daily",
+  "title": "Shark Suppers on Peru's Ice Age Coast",
+  "place": "Huaca Prieta, Chicama Valley, La Libertad, Peru",
+  "lat": -7.92,
+  "lng": -79.31,
+  "text": "Long before its giant mound was built, this spot on Peru's north coast hosted campers about 15,000 years ago. The sea was then some 30 kilometres away, yet they ate sharks, sea lions, seabirds and fish, probably trapped or clubbed rather than hooked. Among more than a million stone pieces, archaeologists found no carefully shaped spear points at all, only simple flakes knocked from beach cobbles.",
+  "source": {
+   "name": "Science Advances (via PMC): Simple technologies and diverse food strategies of the Late Pleistocene and Early Holocene at Huaca Prieta",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5443642/"
+  }
+ },
+ {
+  "id": "u04-ratu-mali-kisar-grave",
+  "era": "iceage",
+  "year": -13000,
+  "dateLabel": "About 15,000 years ago",
+  "cat": "culture",
+  "title": "A Shared Grave Facing Timor",
+  "place": "Ratu Mali 2 cave, Kisar Island, Maluku, Indonesia",
+  "lat": -8.06,
+  "lng": 127.2,
+  "text": "About 15,000 years ago, two people were laid in one shallow grave in a seaside cave on Kisar, a small island north of Timor. Both lay curled on their right sides, facing south toward Timor, with large limestone rocks beside their heads. Shellfish and obsidian flakes filled the grave. Proteins in their tooth enamel revealed that one was a man and the other a woman.",
+  "source": {
+   "name": "Scientific Reports (via PMC): Earliest known funerary rites in Wallacea after the last glacial maximum",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10762057/"
+  }
+ },
+ {
+  "id": "u04-tumat-wolf-rhino-meal",
+  "era": "iceage",
+  "year": -12400,
+  "dateLabel": "About 14,400 years ago",
+  "cat": "nature",
+  "title": "A Wolf Pup's Last Meal",
+  "place": "Tumat, Ust-Yansky District, Sakha Republic, Russia",
+  "lat": 70.75,
+  "lng": 136.8,
+  "text": "A wolf puppy that died near Tumat in northeastern Siberia lay frozen in permafrost until scientists autopsied it. In its stomach was a scrap of meat about 14,400 years old. DNA showed it came from a woolly rhinoceros, one of the youngest ever found. The rhino's genome showed no rise in inbreeding, suggesting the species collapsed quickly, probably as the climate warmed, rather than fading slowly.",
+  "source": {
+   "name": "Stockholm University: Woolly rhino genome recovered from Ice Age wolf stomach",
+   "url": "https://www.su.se/english/news/articles/2026-01-15-woolly-rhino-genome-recovered-from-ice-age-wolf-stomach"
+  }
+ },
+ {
+  "id": "u04-northwest-shelf-drowned",
+  "era": "iceage",
+  "year": -12300,
+  "dateLabel": "About 14,300 years ago",
+  "cat": "nature",
+  "title": "The Sea Swallows Australia's Northwest",
+  "place": "Northwest Shelf, Timor Sea, off the Kimberley, Australia",
+  "lat": -13,
+  "lng": 126.5,
+  "text": "At the height of the Ice Age, a vast plain joined the Kimberley to Arnhem Land, with an inland sea, a large freshwater lake and deep gorges. Models suggest it could have supported tens of thousands of people or more. Then a burst of sea-level rise, about 14,500 to 14,100 years ago, and another later, drowned about half of it, pushing people inland.",
+  "source": {
+   "name": "EurekAlert (Griffith University): Ancient Sahul's submerged landscapes reveal a mosaic of human habitation",
+   "url": "https://www.eurekalert.org/news-releases/1029599"
+  }
+ },
+ {
+  "id": "u04-jeftelik-natufian-sickles",
+  "era": "iceage",
+  "year": -12000,
+  "dateLabel": "About 14,000 years ago",
+  "cat": "discovery",
+  "title": "Flint Sickles Polished by Wild Grain",
+  "place": "Jeftelik, Homs Gap, Syria",
+  "lat": 34.79,
+  "lng": 36.32,
+  "text": "At Jeftelik, in Syria's Homs Gap, early Natufian foragers built round stone structures about 14,000 years ago. Researchers scanned the glossy edges of 12 flint blades with a confocal microscope and compared them with experimental tools. Five had mostly harvested wild cereals, some after more than 20 hours of use. Yet sickles seem to have been an occasional strategy, not the main way grain was gathered.",
+  "source": {
+   "name": "PLOS ONE: Wild cereal harvesting ca. 14,000 years ago at Jeftelik (Western Syria)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350364"
+  }
+ },
+ {
+  "id": "u04-tanegashima-incipient-jomon",
+  "era": "iceage",
+  "year": -12000,
+  "dateLabel": "About 14,000 years ago",
+  "cat": "culture",
+  "title": "Island Potters Settle Down",
+  "place": "Onigano site, Nishinoomote, Tanegashima, Japan",
+  "lat": 30.73,
+  "lng": 131,
+  "text": "On Tanegashima, an island south of Kyushu, early potters were settling down around 14,000 years ago. The Onigano site alone yielded more than 14,000 potsherds, five pit-houses, 370 chipped arrowheads and nearly 400 kilograms of pebble tools. Chemical tests show most pots were made on the island itself. These Incipient Jomon people invested more labour in their camps than islanders ever had before.",
+  "source": {
+   "name": "PLOS ONE: More on mobility and sedentism: Upper Paleolithic to Incipient Jomon, Tanegashima Island",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314311"
+  }
+ },
+ {
+  "id": "u04-lingjing-bone-bird",
+  "era": "iceage",
+  "year": -11500,
+  "dateLabel": "About 13,500 years ago",
+  "cat": "culture",
+  "title": "A Songbird Carved from Burnt Bone",
+  "place": "Lingjing, Xuchang, Henan, China",
+  "lat": 34.07,
+  "lng": 113.68,
+  "text": "Sifting old spoil from a well dug in 1958, archaeologists found a tiny standing songbird just 19 millimetres long. Someone carved it about 13,500 years ago from a piece of bone blackened by heating. Instead of legs it stands on a block-shaped pedestal, and its oversized tail keeps it from tipping forward. It is the oldest known three-dimensional artwork from East Asia.",
+  "source": {
+   "name": "PLOS ONE (via PMC): A Paleolithic bird figurine from the Lingjing site, Henan, China",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7286485/"
+  }
+ },
+ {
+  "id": "u04-abu-hureyra-dung-fires",
+  "era": "iceage",
+  "year": -10500,
+  "dateLabel": "About 12,500 years ago",
+  "cat": "daily",
+  "title": "Gazelle Hunters Beside the Euphrates",
+  "place": "Abu Hureyra, Raqqa Governorate, Syria",
+  "lat": 35.87,
+  "lng": 38.4,
+  "text": "Before farming, families on Syria's Euphrates lived in pit dwellings at Abu Hureyra and hunted goitered gazelle, probably in mass seasonal culls. Burnt dung in a fireplace from about 12,500 years ago, packed thickest beside one hut, hints that a few live animals, possibly wild sheep, were kept nearby for short spells. The site now lies beneath Lake Assad, flooded after 1974.",
+  "source": {
+   "name": "PLOS ONE: Epipalaeolithic animal tending to Neolithic herding at Abu Hureyra, Syria (12,800-7,800 calBP)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272947"
+  }
+ }
+]

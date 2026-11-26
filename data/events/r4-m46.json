@@ -1,0 +1,362 @@
+[
+ {
+  "id": "m46-qesem-cave-teeth",
+  "era": "early",
+  "year": -400000,
+  "dateLabel": "About 400,000 years ago (cave used until about 200,000 years ago)",
+  "cat": "daily",
+  "title": "Fire, Flint and Shared Meat",
+  "place": "Qesem Cave, near Rosh Ha'ayin, Israel",
+  "lat": 32.11,
+  "lng": 34.98,
+  "text": "Qesem Cave near Rosh Ha'ayin was lived in between 400,000 and 200,000 years ago. Tel Aviv University archaeologists studied eight human teeth from the cave and found that its people made flint blades in a systematic way and used fire regularly. They hunted animals, cut up and shared the meat, and even mined flint from under the ground to make their tools.",
+  "source": {
+   "name": "American Friends of Tel Aviv University (EurekAlert!): Was Israel the birthplace of modern man?",
+   "url": "https://www.eurekalert.org/news-releases/562620"
+  }
+ },
+ {
+  "id": "m46-quesang-handprints",
+  "era": "early",
+  "year": -169000,
+  "dateLabel": "Between 226,000 and 169,000 years ago",
+  "cat": "culture",
+  "title": "Children's Handprints in Tibet",
+  "place": "Quesang, Tibetan Plateau, Tibet, China",
+  "lat": 29.36,
+  "lng": 90.27,
+  "text": "On a rocky promontory at Quesang on the Tibetan Plateau, someone pressed five handprints and five footprints into soft travertine laid down by a hot spring. Found in 2018, they date to between 169,000 and 226,000 years ago. Researchers think a child of about 7 made the footprints and one of about 12 the handprints, and argue the panel was a deliberate work of art.",
+  "source": {
+   "name": "Cornell University (EurekAlert!): Hand and footprint art dates to mid-Ice Age",
+   "url": "https://www.eurekalert.org/news-releases/928418"
+  }
+ },
+ {
+  "id": "m46-soii-havzak",
+  "era": "early",
+  "year": -150000,
+  "dateLabel": "About 150,000 to 20,000 years ago",
+  "cat": "journeys",
+  "title": "A Rest Stop in the Zeravshan Valley",
+  "place": "Soii Havzak rock shelter, Zeravshan Valley, Tajikistan",
+  "lat": 39.4,
+  "lng": 68.4,
+  "text": "Archaeologists from Tajikistan's National Academy of Sciences and the Hebrew University dug a rock shelter in the Zeravshan Valley that people used from 150,000 to 20,000 years ago. Its layers are rich in bones, stone tools and charcoal. The team thinks Neanderthals, Denisovans and modern humans may all have stopped here, long before the valley became a Silk Road route.",
+  "source": {
+   "name": "Archaeology (Archaeological Institute of America): Major Paleolithic Site Excavated in Central Asia",
+   "url": "https://archaeology.org/news/2024/11/05/major-paleolithic-site-excavated-in-central-asia/"
+  }
+ },
+ {
+  "id": "m46-nesher-ramla-homo",
+  "era": "early",
+  "year": -140000,
+  "dateLabel": "About 140,000 to 120,000 years ago",
+  "cat": "discovery",
+  "title": "A Human Found in a Cement Quarry",
+  "place": "Nesher Ramla, near Ramla, Israel",
+  "lat": 31.91,
+  "lng": 34.88,
+  "text": "In the mining area of a cement plant near Ramla, archaeologist Yossi Zaidner found skull and jaw fossils of a kind of human previously unknown to science, dated to 140,000 to 120,000 years ago. The 'Nesher Ramla Homo' had no chin and very large teeth. These people made advanced stone tools and left behind bones of horses, fallow deer and aurochs.",
+  "source": {
+   "name": "Tel Aviv University (EurekAlert!): A new type of Homo unknown to science",
+   "url": "https://www.eurekalert.org/news-releases/881442"
+  }
+ },
+ {
+  "id": "m46-tam-ngu-hao-denisovan",
+  "era": "early",
+  "year": -131000,
+  "dateLabel": "Between 164,000 and 131,000 years ago",
+  "cat": "discovery",
+  "title": "A Denisovan Girl in Cobra Cave",
+  "place": "Tam Ngu Hao 2 (Cobra Cave), Houaphanh, Laos",
+  "lat": 20.21,
+  "lng": 103.41,
+  "text": "In December 2018, scientists pulled a human molar out of a block of rock in Tam Ngu Hao 2, called Cobra Cave, in the Annamite Mountains of Laos. The rock is between 164,000 and 131,000 years old. Proteins in the enamel suggest the tooth came from a young, likely female child, and its shape points to a Denisovan, the first found in Southeast Asia.",
+  "source": {
+   "name": "Demeter et al., Nature Communications (PMC): A Middle Pleistocene Denisovan molar from the Annamite Chain of northern Laos",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9114389/"
+  },
+  "source2": {
+   "name": "Southern Cross University: Fossil tooth unlocks mystery of Denisovans in Asia",
+   "url": "https://www.scu.edu.au/news/2022/fossil-tooth-unlocks-mystery-of-denisovans-in-asia.php"
+  }
+ },
+ {
+  "id": "m46-talepu-sulawesi-tools",
+  "era": "early",
+  "year": -118000,
+  "dateLabel": "At least 118,000 years ago (perhaps up to 194,000)",
+  "cat": "journeys",
+  "title": "Mystery Toolmakers of Sulawesi",
+  "place": "Talepu, South Sulawesi, Indonesia",
+  "lat": -4.37,
+  "lng": 119.98,
+  "text": "Stone tools dug up near the village of Talepu on Sulawesi are most likely between 118,000 and 194,000 years old, long before modern humans reached the region. Nobody knows who made them. Lead researcher Gerrit van den Bergh thinks Homo erectus is the likely maker, though they could be the work of still-undiscovered relatives of Flores's 'hobbits'.",
+  "source": {
+   "name": "National Geographic: Stone tools on Sulawesi (2016 report on the Talepu finds)",
+   "url": "https://www.nationalgeographic.com/science/article/160113-stone-tool-sulawesi-hobbit-flores-archaeology"
+  }
+ },
+ {
+  "id": "m46-al-wusta-finger",
+  "era": "early",
+  "year": -88000,
+  "dateLabel": "About 88,000 years ago",
+  "cat": "journeys",
+  "title": "A Finger Bone by a Desert Lake",
+  "place": "Al Wusta, Nefud Desert, Saudi Arabia",
+  "lat": 27.87,
+  "lng": 39.98,
+  "text": "Al Wusta, in today's bone-dry Nefud Desert, was once a freshwater lake in grassland, home to hippos and tiny snails. There, researchers found a human finger bone dated to 88,000 years old, alongside plenty of stone tools. It showed that early members of our species spread across a wide area of southwest Asia, not just the Levant.",
+  "source": {
+   "name": "Max Planck Institute for the Science of Human History (EurekAlert!): Early modern human migration out of Africa more geographically widespread than previously thought",
+   "url": "https://www.eurekalert.org/news-releases/726292"
+  }
+ },
+ {
+  "id": "m46-dhaba-toba-survivors",
+  "era": "early",
+  "year": -80000,
+  "dateLabel": "By about 80,000 years ago, through the Toba eruption 74,000 years ago",
+  "cat": "nature",
+  "title": "Toolmakers Who Outlasted a Supervolcano",
+  "place": "Dhaba, Middle Son Valley, Madhya Pradesh, India",
+  "lat": 24.4,
+  "lng": 82.2,
+  "text": "At Dhaba in India's Middle Son Valley, layers of earth hold an 80,000-year record of stone tools. People were making tools there both before and after the Toba super-eruption on Sumatra about 74,000 years ago, a blast about 5,000 times bigger than Mount St Helens. Lead author Chris Clarkson says their toolkits resembled those of Homo sapiens in Africa.",
+  "source": {
+   "name": "Max Planck Institute (EurekAlert!): Human populations survived the Toba volcanic super-eruption 74,000 years ago",
+   "url": "https://www.eurekalert.org/news-releases/670563"
+  }
+ },
+ {
+  "id": "m46-lida-ajer-teeth",
+  "era": "early",
+  "year": -63000,
+  "dateLabel": "Between 73,000 and 63,000 years ago",
+  "cat": "journeys",
+  "title": "Rainforest Teeth from Lida Ajer",
+  "place": "Lida Ajer cave, Padang Highlands, Sumatra, Indonesia",
+  "lat": -0.33,
+  "lng": 100.38,
+  "text": "Dutch scientist Eugene Dubois dug in Lida Ajer cave in the 1880s. Modern researchers used his rough sketch and map to find the cave again, recognising it by a big rock column at its entrance. Human teeth from the cave date to between 73,000 and 63,000 years ago, the first evidence of modern humans living in rainforests.",
+  "source": {
+   "name": "The Conversation (Kira Westaway, Macquarie University): Old teeth from a rediscovered cave show humans were in Indonesia more than 63,000 years ago",
+   "url": "https://theconversation.com/old-teeth-from-a-rediscovered-cave-show-humans-were-in-indonesia-more-than-63-000-years-ago-82075"
+  }
+ },
+ {
+  "id": "m46-leang-karampuang-story",
+  "era": "early",
+  "year": -51200,
+  "dateLabel": "At least 51,200 years ago",
+  "cat": "culture",
+  "title": "The Oldest Picture Story",
+  "place": "Leang Karampuang, Maros, South Sulawesi, Indonesia",
+  "lat": -4.88,
+  "lng": 119.62,
+  "text": "In Leang Karampuang cave on Sulawesi, someone painted three human-like figures interacting with a wild pig at least 51,200 years ago. A team led by Indonesian rock art specialist Adhi Agus Oktaviana dated it by firing a laser at tiny crusts of calcium carbonate on top of the paint. Researchers call it the oldest known picture story.",
+  "source": {
+   "name": "Griffith University: Cave painting in Indonesia is the oldest known picture story",
+   "url": "https://news.griffith.edu.au/2024/07/04/cave-painting-in-indonesia-is-the-oldest-known-picture-story/"
+  }
+ },
+ {
+  "id": "m46-leang-tedongnge-pig",
+  "era": "early",
+  "year": -45500,
+  "dateLabel": "At least 45,500 years ago",
+  "cat": "culture",
+  "title": "A Warty Pig in Red Ochre",
+  "place": "Leang Tedongnge, South Sulawesi, Indonesia",
+  "lat": -4.95,
+  "lng": 119.7,
+  "text": "In a cave in a valley closed in by steep limestone cliffs, someone painted a Sulawesi warty pig in red ochre at least 45,500 years ago. The pig seems to watch two other warty pigs. The survey that found it was led by Basran Burhan, and the age comes from 'cave popcorn' crusts that formed over the paint.",
+  "source": {
+   "name": "Griffith University News: Leang Tedongnge warty pig painting",
+   "url": "https://news.griffith.edu.au/?p=74874"
+  }
+ },
+ {
+  "id": "m46-niah-deep-skull",
+  "era": "early",
+  "year": -37000,
+  "dateLabel": "About 37,000 years ago",
+  "cat": "discovery",
+  "title": "The Woman Behind the Deep Skull",
+  "place": "Niah Cave, Sarawak, Malaysia",
+  "lat": 3.81,
+  "lng": 113.78,
+  "text": "In 1958, Tom Harrisson's team found the 'Deep Skull' in the Hell Trench of Niah Cave in Sarawak. It was once thought to belong to a teenage boy. A fresh study showed the skull is 37,000 years old and probably came from a middle-aged woman, who most closely resembles the Indigenous people of Borneo today.",
+  "source": {
+   "name": "UNSW Sydney: Ancient 'Deep Skull' still holds big surprises 60 years after it was found",
+   "url": "https://www.unsw.edu.au/news/2016/06/ancient-deep-skull-still-holds-big-surprises-60-years-after-it-w"
+  }
+ },
+ {
+  "id": "m46-dzudzuana-flax",
+  "era": "early",
+  "year": -34000,
+  "dateLabel": "More than 34,000 years ago",
+  "cat": "daily",
+  "title": "The Oldest Threads in a Georgian Cave",
+  "place": "Dzudzuana Cave, Imereti, Georgia",
+  "lat": 42.29,
+  "lng": 43.27,
+  "text": "While studying tree pollen in Dzudzuana Cave in Georgia, scientists spotted flax fibres more than 34,000 years old, the oldest known fibres used by humans. Some were twisted together, one with many knots, and others were dyed black, grey, turquoise and even pink. They may have been used to sew hides into clothing and shoes, or to make ropes and baskets.",
+  "source": {
+   "name": "Harvard Gazette: Oldest-known fibers to be used by humans discovered",
+   "url": "https://news.harvard.edu/gazette/story/2009/09/oldest-known-fibers-discovered/"
+  },
+  "source2": {
+   "name": "Science News (Bruce Bower): Stone Age twining unraveled",
+   "url": "https://www.sciencenews.org/article/stone-age-twining-unraveled"
+  }
+ },
+ {
+  "id": "m46-salkhit-skullcap",
+  "era": "early",
+  "year": -33900,
+  "dateLabel": "Between 34,950 and 33,900 years ago",
+  "cat": "discovery",
+  "title": "A Skull Older Than Anyone Thought",
+  "place": "Salkhit Valley, northeast Mongolia",
+  "lat": 47.7,
+  "lng": 112.1,
+  "text": "A skullcap from the Salkhit Valley in northeast Mongolia was once linked to Homo erectus or Neanderthals. Oxford scientists radiocarbon-dated a single amino acid from its bone, getting past resin that had been used to make casts of it, and found it lived 34,950 to 33,900 years ago. Its DNA showed it was a modern human.",
+  "source": {
+   "name": "University of Oxford (EurekAlert!): Ancient Mongolian skull is the earliest modern human yet found in the region",
+   "url": "https://www.eurekalert.org/news-releases/546828"
+  }
+ },
+ {
+  "id": "m46-leang-bulu-bettue-ornaments",
+  "era": "iceage",
+  "year": -28000,
+  "dateLabel": "Between 30,000 and 22,000 years ago",
+  "cat": "culture",
+  "title": "Beads from a Pig-Deer's Tooth",
+  "place": "Leang Bulu Bettue, Maros, South Sulawesi, Indonesia",
+  "lat": -4.95,
+  "lng": 119.67,
+  "text": "Ice Age people at Leang Bulu Bettue cave on Sulawesi made disc-shaped beads from a babirusa, or 'pig-deer', tooth and a pendant from the bone of a bear cuscus. They also scratched geometric patterns on stones and left ochre-stained tools. A bone tube may have been a blow-pipe for spraying hand stencils. The finds date to 30,000 to 22,000 years ago.",
+  "source": {
+   "name": "Griffith University (ScienceDaily): Prehistoric art and ornaments uncovered in Indonesian cave",
+   "url": "https://sciencedaily.com/releases/2017/04/170403151157.htm"
+  }
+ },
+ {
+  "id": "m46-koonalda-cave-flutings",
+  "era": "iceage",
+  "year": -20000,
+  "dateLabel": "About 22,000 years ago (cave used 30,000 to 14,000 years ago)",
+  "cat": "culture",
+  "title": "Finger Lines Under the Nullarbor",
+  "place": "Koonalda Cave, Nullarbor Plain, South Australia",
+  "lat": -31.39,
+  "lng": 129.83,
+  "text": "Inside Koonalda Cave, beneath the Nullarbor Plain, people left finger flutings and incised lines in soft limestone and mined flint during the Last Glacial Maximum, between 30,000 and 14,000 years ago. Dated to about 22,000 years ago, the markings were the first of their kind reliably dated to the Pleistocene. They proved Aboriginal people survived in this arid region during the Last Glacial Maximum.",
+  "source": {
+   "name": "Australian Government (Federal Register of Legislation): Inclusion of a Place in the National Heritage List, Koonalda Cave (2014)",
+   "url": "https://www.legislation.gov.au/C2014G01705/asmade/2014-10-15/text/original/word"
+  }
+ },
+ {
+  "id": "m46-nombe-megafauna",
+  "era": "iceage",
+  "year": -18000,
+  "dateLabel": "Until about 20,000 years ago",
+  "cat": "nature",
+  "title": "New Guinea's Last Giant Kangaroos",
+  "place": "Nombe rock shelter, Chimbu Province, Papua New Guinea",
+  "lat": -6.02,
+  "lng": 144.98,
+  "text": "Bones from Nombe rock shelter in the Papua New Guinea Highlands suggest giant animals lingered there until about 20,000 years ago. They included two large extinct kangaroos, one of which walked on four legs, the thylacine, and a panda-like marsupial called Hulitherium. Small groups of nomadic people visited only now and then, which may explain why the megafauna lasted so long.",
+  "source": {
+   "name": "Flinders University News: PNG megafauna abound to 20,000 years ago",
+   "url": "https://news.flinders.edu.au/blog/2022/10/12/png-megafauna-abound-to-20000-years-ago/"
+  }
+ },
+ {
+  "id": "m46-kimberley-kangaroo",
+  "era": "iceage",
+  "year": -15300,
+  "dateLabel": "About 17,300 years ago",
+  "cat": "culture",
+  "title": "Australia's Oldest Known Painting",
+  "place": "Unghango clan estate, Balanggarra Country, Kimberley, Western Australia",
+  "lat": -15.1,
+  "lng": 126.4,
+  "text": "A two-metre-long kangaroo painted on the sloping ceiling of a rock shelter on Balanggarra Country is Australia's oldest known rock painting, most likely about 17,300 years old. Researcher Damien Finch dated it by radiocarbon-dating mud wasp nests built under and over the paint. It belongs to a style called Irregular Infill Animal, or the Naturalistic period.",
+  "source": {
+   "name": "University of Melbourne (EurekAlert!): Australia's oldest rock painting is a kangaroo",
+   "url": "https://www.eurekalert.org/news-releases/807659"
+  }
+ },
+ {
+  "id": "m46-uyun-al-hammam-fox",
+  "era": "iceage",
+  "year": -14500,
+  "dateLabel": "About 16,500 years ago",
+  "cat": "daily",
+  "title": "A Pet Fox for the Afterlife?",
+  "place": "Uyun al-Hammam, northern Jordan",
+  "lat": 32.45,
+  "lng": 35.72,
+  "text": "In a cemetery in northern Jordan about 16,500 years old, a man was buried with the skull and a foreleg bone of a red fox. Later the grave was reopened and his body moved, and the fox went with him. A Cambridge-led team suggests it was a pet, buried to keep its owner company in the afterlife, about 4,000 years before the next earliest burials with dogs.",
+  "source": {
+   "name": "University of Cambridge: Was the fox prehistoric man's best friend?",
+   "url": "https://www.cam.ac.uk/research/news/was-the-fox-prehistoric-mans-best-friend"
+  }
+ },
+ {
+  "id": "m46-chogha-golan-farming",
+  "era": "iceage",
+  "year": -9700,
+  "dateLabel": "About 11,700 years ago",
+  "cat": "daily",
+  "title": "Farming Begins in the Zagros",
+  "place": "Chogha Golan, Ilam Province, Iran",
+  "lat": 33.2,
+  "lng": 46.3,
+  "text": "At Chogha Golan in the foothills of Iran's Zagros Mountains, layers of settlement debris run from 11,700 to 9,800 years ago. The most common plants found are wild barley, goat-grass and lentil, the wild ancestors of modern crops, and domesticated emmer wheat appears about 9,800 years ago. The finds suggest farming in the Near East began in several centres, not just one.",
+  "source": {
+   "name": "University of Tübingen (ScienceDaily): Early roots of farming in Iran",
+   "url": "https://www.sciencedaily.com/releases/2013/07/130705101629.htm"
+  }
+ },
+ {
+  "id": "m46-upward-sun-river",
+  "era": "iceage",
+  "year": -9500,
+  "dateLabel": "About 11,500 years ago",
+  "cat": "journeys",
+  "title": "Two Infants of Ancient Alaska",
+  "place": "Upward Sun River site, Interior Alaska, United States",
+  "lat": 64.4,
+  "lng": -147.2,
+  "text": "About 11,500 years ago, two infants who seem to have died in summer were buried together at Upward Sun River in Interior Alaska. Mourners laid antlers, a stone cutting tool and decorated dart points beside them. Found in 2013, the babies had different mothers, and their DNA belongs to two Native American lineages never before found this far north.",
+  "source": {
+   "name": "University of Alaska Fairbanks: Ancient Alaska infants' DNA supports human migration theory",
+   "url": "https://www.uaf.edu/news/archives/news-archives-2010-2021/upward_sun_river_dna.php"
+  }
+ },
+ {
+  "id": "m46-hilazon-tachtit-shaman",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "About 12,000 years ago",
+  "cat": "culture",
+  "title": "The Shaman with 50 Tortoises",
+  "place": "Hilazon Tachtit cave, western Galilee, Israel",
+  "lat": 32.92,
+  "lng": 35.25,
+  "text": "In a cave in the western Galilee lies a 12,000-year-old Natufian woman, about 45 years old, petite and with a spinal disability. She was buried with 50 complete tortoise shells, a leopard pelvis, a golden eagle's wing tip, a cow's tail and a large human foot. Hebrew University archaeologist Leore Grosman thinks she was a shaman.",
+  "source": {
+   "name": "Hebrew University of Jerusalem (EurekAlert!): 12,000-year-old shaman burial",
+   "url": "https://www.eurekalert.org/news-releases/685930"
+  }
+ }
+]

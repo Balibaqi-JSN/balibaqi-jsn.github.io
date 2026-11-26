@@ -1,0 +1,1160 @@
+[
+ {
+  "id": "r3s-isanosaurus",
+  "era": "deep",
+  "year": -195000000,
+  "dateLabel": "About 195 million years ago",
+  "emoji": "🦕",
+  "cat": "nature",
+  "title": "Thailand's Puzzling Early Giant",
+  "place": "Chaiyaphum Province, Thailand",
+  "lat": 16.0,
+  "lng": 101.9,
+  "text": "Found in red sandstone in 1998, Isanosaurus was first hailed as one of the oldest sauropods, the long-necked plant-eaters. Newer dating makes it Early Jurassic and its family tree is still argued over. Its single thighbone is 76 cm long, and the animal was probably not even fully grown when it died.",
+  "collections": [
+   "dinosaur-hunter"
+  ],
+  "source": {
+   "name": "Licht et al. 2026, Communications Earth & Environment (Nature Portfolio), 'A revised early Jurassic to Albian chronology for dinosaur evolution in tropical Asia'",
+   "url": "https://www.nature.com/articles/s43247-026-04096-5"
+  },
+  "source2": {
+   "name": "Buffetaut et al. 2000, Nature 407:72-74, 'The earliest known sauropod dinosaur' (abstract)",
+   "url": "https://www.nature.com/articles/35024060"
+  }
+ },
+ {
+  "id": "r3s-phuwiangosaurus",
+  "era": "deep",
+  "year": -135000000,
+  "dateLabel": "About 135 million years ago",
+  "emoji": "👑",
+  "cat": "discovery",
+  "title": "A Dinosaur Named for a Princess",
+  "place": "Phu Wiang, Khon Kaen, Thailand",
+  "lat": 16.65,
+  "lng": 102.37,
+  "text": "Phuwiangosaurus was a long-necked sauropod that roamed northeastern Thailand in the Early Cretaceous. Its bones turned up in Phu Wiang in 1982, and its species name honors Princess Maha Chakri Sirindhorn, a royal fan of geology and fossils. One half-grown skeleton is about 60 percent complete, partial skull included.",
+  "collections": [
+   "dinosaur-hunter"
+  ],
+  "source": {
+   "name": "Heliyon 2022, 'Geoeducational assessments in Khon Kaen National Geopark, Thailand' (Khon Kaen University authors)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9803843/"
+  },
+  "source2": {
+   "name": "Licht et al. 2026, Communications Earth & Environment, revised Khorat Plateau dinosaur chronology",
+   "url": "https://www.nature.com/articles/s43247-026-04096-5"
+  }
+ },
+ {
+  "id": "r3s-ichthyovenator",
+  "era": "deep",
+  "year": -118000000,
+  "dateLabel": "About 120–113 million years ago",
+  "emoji": "🐟",
+  "cat": "nature",
+  "title": "The Fish Hunter of Laos",
+  "place": "Savannakhet Basin, Laos",
+  "lat": 16.4,
+  "lng": 105.6,
+  "text": "Ichthyovenator was a spinosaurid, one of the sail-backed dinosaurs with long snouts built for catching fish. Described from Laos in 2012, it was the first definite spinosaurid found in Asia. Its fossils show something unusual: a wavy sail that dipped down over the hips, so it looked as if it had two sails instead of one.",
+  "collections": [
+   "dinosaur-hunter"
+  ],
+  "source": {
+   "name": "Naturwissenschaften (Allain et al. 2012, \"The first definitive Asian spinosaurid from the Early Cretaceous of Laos\"), abstract",
+   "url": "https://link.springer.com/article/10.1007/s00114-012-0911-7"
+  }
+ },
+ {
+  "id": "r3s-hoabinhian",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "About 10,000 BCE",
+  "emoji": "🪨",
+  "cat": "daily",
+  "title": "The Hòa Bình Pebble Toolmakers",
+  "place": "Hòa Bình Province, Vietnam",
+  "lat": 20.8,
+  "lng": 105.3,
+  "text": "As the Ice Age ended, hunter-gatherers across Southeast Asia made strikingly similar tools, often large river cobbles flaked on one side only. About a century ago, French archaeologist Madeleine Colani dug many rock shelters in the limestone hills of Hòa Bình. Ever since, this toolmaking tradition has been called the Hoabinhian, after the Vietnamese province where she worked.",
+  "collections": [
+   "becoming-human",
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Hoabinhian-industry"
+  },
+  "source2": {
+   "name": "Current World Archaeology / The Past (C. Higham)",
+   "url": "https://the-past.com/comment/affluent-hunters/"
+  }
+ },
+ {
+  "id": "r3s-spirit-cave",
+  "era": "iceage",
+  "year": -9000,
+  "dateLabel": "About 12,000–7,000 years ago",
+  "emoji": "🦀",
+  "cat": "discovery",
+  "title": "Spirit Cave's Ice Age Foragers",
+  "place": "Pang Mapha, Mae Hong Son, Thailand",
+  "lat": 19.57,
+  "lng": 98.28,
+  "text": "High on a cliff in northwest Thailand, Spirit Cave was used by Hoabinhian hunter-gatherers between about 12,000 and 7,000 years ago. When Chester Gorman dug it in 1966, he argued its plant remains were the earliest evidence of possible cultivation in mainland Southeast Asia. A recent re-study of its animal bones, from bats to freshwater crabs, suggests people stayed there only now and then.",
+  "collections": [
+   "becoming-human",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Asian Perspectives 55(1) 2016, Conrad, Higham, Eda & Marwick, reinvestigation of the Spirit Cave fauna (University of Hawai'i ScholarSpace, full text)",
+   "url": "https://scholarspace.manoa.hawaii.edu/handle/10125/59186"
+  },
+  "source2": {
+   "name": "Penn Museum, Expedition Magazine, 'Chester Gorman' (obituary)",
+   "url": "https://www.penn.museum/sites/expedition/chester-gorman/"
+  }
+ },
+ {
+  "id": "r3s-maritime-jade-road",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 2000 BCE",
+  "emoji": "💚",
+  "cat": "journeys",
+  "title": "A Sea Road of Green Jade",
+  "place": "Northern Luzon, Philippines",
+  "lat": 18.0,
+  "lng": 121.0,
+  "text": "Farmers from Taiwan settled northern Luzon about 4,000 years ago, and green Taiwanese jade soon followed them across the sea. Over the centuries it reached Vietnam, Borneo, Thailand and beyond, one of the most extensive sea trade networks for a single stone in the prehistoric world. Workshops carved it into three-pointed lingling-o earrings and double-headed animal pendants.",
+  "collections": [
+   "pacific-voyagers",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "PNAS (Hung et al. 2007, 'Ancient jades map 3,000 years of prehistoric exchange in Southeast Asia')",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2148369/"
+  }
+ },
+ {
+  "id": "r3s-man-bac",
+  "era": "ancient",
+  "year": -1800,
+  "dateLabel": "About 2000–1500 BCE",
+  "emoji": "🦷",
+  "cat": "daily",
+  "title": "The Fishers and Pig-Keepers of Mán Bạc",
+  "place": "Mán Bạc, Ninh Bình, Vietnam",
+  "lat": 20.13,
+  "lng": 105.98,
+  "text": "At Mán Bạc, among limestone hills on the edge of the Red River Delta, archaeologists have excavated about a hundred burials from the time of Vietnam's Phùng Nguyên culture. The villagers fished, hunted and were just beginning to domesticate pigs, though no firm evidence of rice farming has been found. Today the site lies about 25 km from the coast.",
+  "collections": [
+   "food-and-drink",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "ANU Press, Terra Australis 33: Matsumura & Oxenham, 'Introduction: Man Bac Biological Research Objectives'",
+   "url": "http://press-files.anu.edu.au/downloads/press/p114171/pdf/ch014.pdf"
+  },
+  "source2": {
+   "name": "ANU Press: Man Bac: The Excavation of a Neolithic Site in Northern Vietnam",
+   "url": "https://press.anu.edu.au/publications/series/terra-australis/man-bac"
+  }
+ },
+ {
+  "id": "r3s-plain-of-jars",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "Perhaps as early as 1000 BCE (UNESCO: 500 BCE-500 CE)",
+  "emoji": "🏺",
+  "cat": "culture",
+  "title": "The Plain of Giant Stone Jars",
+  "place": "Phonsavan, Xiangkhouang, Laos",
+  "lat": 19.43,
+  "lng": 103.15,
+  "text": "More than 2,100 stone jars, some up to 3 meters tall, are scattered across a plateau in Laos. Excavations, starting with Madeleine Colani, found human remains and beads, so the jars are tied to funerals. UNESCO dates the sites to 500 BCE-500 CE, though one study suggests some jars were set up centuries earlier. Unexploded bombs long kept archaeologists away.",
+  "collections": [
+   "lost-and-found",
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1587"
+  },
+  "source2": {
+   "name": "PLOS ONE (Shewan et al. 2021)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247167"
+  }
+ },
+ {
+  "id": "r3s-sa-huynh",
+  "era": "ancient",
+  "year": -550,
+  "dateLabel": "About 550 BCE - 100 CE",
+  "emoji": "🐐",
+  "cat": "culture",
+  "title": "Sa Huỳnh's Two-Headed Earrings",
+  "place": "Sa Huỳnh, Quảng Ngãi, Vietnam",
+  "lat": 14.67,
+  "lng": 109.07,
+  "text": "Along Vietnam's central coast, Sa Huỳnh people buried their dead in large jars, often with rich offerings of beads and tools. They used both iron and bronze implements and wore jade ear pendants shaped like two-headed animals. Similar ornaments and pottery turn up in the Philippines and across Southeast Asia, showing that their trade networks reached far over the sea.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Nguyen Kim Dung, 'The Sa Huynh Culture in Ancient Regional Trade Networks', in New Perspectives in Southeast Asian and Pacific Prehistory (ANU Press, Terra Australis 45, 2017)",
+   "url": "https://press-files.anu.edu.au/downloads/press/n2320/html/ch18.xhtml"
+  }
+ },
+ {
+  "id": "r3s-co-loa",
+  "era": "classical",
+  "year": -258,
+  "dateLabel": "Traditionally about 258 BCE",
+  "emoji": "🐚",
+  "cat": "power",
+  "title": "The Rings of Cổ Loa",
+  "place": "Cổ Loa, Hanoi, Vietnam",
+  "lat": 21.11,
+  "lng": 105.87,
+  "text": "Cổ Loa is ringed by three earthen ramparts; the outer one runs about 8 km, and the middle wall stands up to 10 meters high. Vietnamese chronicles say King An Dương Vương founded the Âu Lạc kingdom around 258 BCE and built Cổ Loa as his capital. Excavations suggest most of the middle rampart went up in the 3rd century BCE, on ground cleared in the 4th century BCE.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "Kim, Lai Van Toi & Trinh Hoang Hiep 2010, 'Co Loa: an investigation of Vietnam's ancient capital', Antiquity 84 (full text, author copy)",
+   "url": "https://os.pennds.org/archaeobib_filestore/pdf_articles/Antiquity/2010_84_326_Kimetal.pdf"
+  },
+  "source2": {
+   "name": "Antiquity / Cambridge Core abstract",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/co-loa-an-investigation-of-vietnams-ancient-capital/00332829F65222D3FB94642A83A09979"
+  }
+ },
+ {
+  "id": "r3s-beikthano",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "From about 200 BCE",
+  "emoji": "🧱",
+  "cat": "daily",
+  "title": "Beikthano, Myanmar's Oldest City",
+  "place": "Beikthano, Magway, Myanmar",
+  "lat": 20.0,
+  "lng": 95.38,
+  "text": "Beikthano, whose name means 'City of Vishnu', is the earliest known Pyu city in Myanmar, and its brick buildings give the earliest dates for brick construction in all of Southeast Asia. Its outer walls enclosed about 900 hectares. The Pyu city-states flourished from about 200 BCE, linked by trade networks to Southeast Asia, China, and India.",
+  "collections": [
+   "silk-road"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre, 'Pyu Ancient Cities' (1444)",
+   "url": "https://whc.unesco.org/en/list/1444/"
+  },
+  "source2": {
+   "name": "J. Stargardt, 'From the Iron Age to early cities at Sri Ksetra and Beikthano, Myanmar', Journal of Southeast Asian Studies 47(3), 2016 (full text)",
+   "url": "https://os.pennds.org/archaeobib_filestore/pdf_articles/JSEAS/2016_47_3_Stargardt.pdf"
+  }
+ },
+ {
+  "id": "r3s-sungai-batu",
+  "era": "classical",
+  "year": 110,
+  "dateLabel": "About 110 CE",
+  "emoji": "🔥",
+  "cat": "discovery",
+  "title": "Iron Smelters of the Bujang Valley",
+  "place": "Sungai Batu, Kedah, Malaysia",
+  "lat": 5.7,
+  "lng": 100.43,
+  "text": "At Sungai Batu, beneath Mount Jerai, archaeologists found jetties, iron-smelting sites and a clay-brick monument whose round base they date to about 110 CE. Its excavators call the site part of the oldest civilisation in Southeast Asia. The wider Bujang Valley holds over 50 ancient temples, making it Malaysia's richest archaeological area.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "BenarNews (Radio Free Asia affiliate), 'Malaysia's Sungai Batu Among Oldest Southeast Asian Civilizations: Archaeologists' (2016)",
+   "url": "https://www.benarnews.org/english/news/malaysian/sungai-batu-06102016155407.html"
+  },
+  "source2": {
+   "name": "Malay Mail, 'Centuries-old temple ruins in Bujang Valley furtively destroyed' (2013)",
+   "url": "https://www.malaymail.com/news/malaysia/2013/12/01/centuries-old-temple-ruins-in-bujang-valley-furtively-destroyed/572841"
+  }
+ },
+ {
+  "id": "r3s-my-son",
+  "era": "classical",
+  "year": 395,
+  "dateLabel": "Around 400",
+  "emoji": "🛕",
+  "cat": "culture",
+  "title": "A Valley Given to Shiva",
+  "place": "Mỹ Sơn, Vietnam",
+  "lat": 15.76,
+  "lng": 108.12,
+  "text": "King Bhadravarman of Champa set up a stone giving land in the Mỹ Sơn valley, between mountains and a great river, to Bhadreśvara, a form of Shiva. For about nine centuries Cham kings built temples there, and a French scholar later recorded nearly seventy monuments. Sadly, heavy US bombing in August 1969 caused great destruction.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre, 'My Son Sanctuary'",
+   "url": "https://whc.unesco.org/en/list/949"
+  },
+  "source2": {
+   "name": "DHARMA project (ERC), Arlo Griffiths, edition of Mỹ Sơn stela C. 72",
+   "url": "https://dharmalekha.info/texts/INSCIC00072"
+  }
+ },
+ {
+  "id": "r3s-mulavarman",
+  "era": "classical",
+  "year": 400,
+  "dateLabel": "About 400",
+  "emoji": "🐄",
+  "cat": "culture",
+  "title": "Borneo's Oldest Inscriptions",
+  "place": "Muara Kaman, East Kalimantan, Indonesia",
+  "lat": -0.17,
+  "lng": 116.72,
+  "text": "In eastern Borneo, King Mulavarman of Kutai left seven inscriptions on yūpa, stone sacrificial posts, written in Sanskrit in an early Pallava script. The short texts were set up to commemorate sacrifices the king held. Dated to the late 300s, these posts carry the oldest known inscriptions in the Indonesian archipelago.",
+  "collections": [
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "ANU Press (Australian National University), 'The Earliest Indic State: Kutai'",
+   "url": "https://press-files.anu.edu.au/downloads/press/p69411/mobile/ch15s02.html"
+  }
+ },
+ {
+  "id": "r3s-van-xuan",
+  "era": "medieval",
+  "year": 544,
+  "dateLabel": "544",
+  "emoji": "🌸",
+  "cat": "power",
+  "title": "Lý Bí Founds Vạn Xuân",
+  "place": "Long Biên, Hanoi, Vietnam",
+  "lat": 21.03,
+  "lng": 105.85,
+  "text": "Lý Bí led a revolt against the Chinese governor of Giao-chao, a province then ruled by China's Liang dynasty, and captured its capital at Long Biên in 542. In 544 he declared himself emperor of a new state, Vạn Xuân, in what is now northern Vietnam. Chinese forces defeated him in 547, but his brief kingdom became a proud memory of independence.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Ly Nam De' (Ly Bon)",
+   "url": "https://www.britannica.com/biography/Ly-Nam-De"
+  },
+  "source2": {
+   "name": "Journal of the Royal Asiatic Society (Cambridge), 'The Annan Protectorate in northern Vietnam during the Tang period (679-907)'",
+   "url": "https://www.cambridge.org/core/journals/journal-of-the-royal-asiatic-society/article/annan-protectorate-in-northern-vietnam-during-the-tang-period-679907/0330A3F32086B5B1AEFC262A54FBF023"
+  }
+ },
+ {
+  "id": "r3s-butuan-boats",
+  "era": "medieval",
+  "year": 800,
+  "dateLabel": "About 800 (dates debated)",
+  "emoji": "⛵",
+  "cat": "journeys",
+  "title": "The Butuan Boats",
+  "place": "Butuan, Agusan del Norte, Philippines",
+  "lat": 8.95,
+  "lng": 125.53,
+  "text": "Wooden plank boats found buried at Butuan since the 1970s are the oldest watercraft known in Philippine archaeology. At least nine have been reported, and they are often called balangay. Their builders joined planks edge to edge with wooden dowels and tied the ribs to carved lugs, a method shared across island Southeast Asia.",
+  "collections": [
+   "pacific-voyagers",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "L. S. P. Lacsina, 'Traditional island Southeast Asian watercraft in Philippine archaeological sites' (Museum of Underwater Archaeology proceedings)",
+   "url": "http://www.themua.org/collections/files/original/3c6f3519be2b1385dfd92ecf2e54046c.pdf"
+  }
+ },
+ {
+  "id": "r3s-prambanan",
+  "era": "medieval",
+  "year": 856,
+  "dateLabel": "856",
+  "emoji": "🔱",
+  "cat": "culture",
+  "title": "Prambanan, House of Shiva",
+  "place": "Prambanan, Yogyakarta, Indonesia",
+  "lat": -7.75,
+  "lng": 110.49,
+  "text": "An inscription of 856 marks what may be the founding of a great Shiva temple in Java, and says a river was diverted to fill a pool of purifying water for pilgrims. Prambanan's tall central tower stands among what were once 240 temples. Local people call it Lara Jonggrang, or 'Slender Maiden', after a statue of the goddess Durga inside.",
+  "collections": [
+   "wonders-of-the-world",
+   "masterpieces"
+  ],
+  "source": {
+   "name": "UNESCO World Heritage Centre, Prambanan Temple Compounds (via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/642"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Prambanan' (rev. Virginia Gorlinski)",
+   "url": "https://www.britannica.com/place/Prambanan"
+  }
+ },
+ {
+  "id": "r3s-laguna-copperplate",
+  "era": "medieval",
+  "year": 900,
+  "dateLabel": "900",
+  "emoji": "📜",
+  "cat": "culture",
+  "title": "A Debt Cancelled on Copper",
+  "place": "Lumban, Laguna, Philippines",
+  "lat": 14.3,
+  "lng": 121.46,
+  "text": "One of the oldest documents ever found in the Philippines is a receipt: a copper plate clearing the descendants of a man named Namwran of a debt in gold. Dated to the Saka year 822, or 900 CE, it is written mainly in Old Malay and names a place called Tundun. It was found in the Lumbang River in Laguna.",
+  "collections": [
+   "scripts-and-alphabets",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "National Museum of the Philippines, '9th to 10th century archaeological evidence of maritime relations...' (2022)",
+   "url": "https://www.nationalmuseum.gov.ph/2022/09/20/the-9th-to-10th-century-archaeological-evidence-of-maritime-relations-between-the-philippines-and-the-islands-of-southeast-asia/"
+  },
+  "source2": {
+   "name": "B. Villareal III, 'The Laguna Copper-Plate Inscription: A Local Language-game Validation', URSP Research Journal 8(1), 2022 (quotes Postma's translation)",
+   "url": "http://www.urs.edu.ph/wp-content/uploads/publications/the-ursp-research-journal/current-issue/Vol-8/3-Villareal.pdf"
+  }
+ },
+ {
+  "id": "r3s-ananda-temple",
+  "era": "medieval",
+  "year": 1091,
+  "dateLabel": "About 1090",
+  "emoji": "🙏",
+  "cat": "culture",
+  "title": "Ananda, Bagan's Perfect Temple",
+  "place": "Bagan, Myanmar",
+  "lat": 21.17,
+  "lng": 94.87,
+  "text": "King Kyansittha founded the Ananda Temple in Bagan around 1090, one of the largest and most imposing of the early Bagan temples. Legend says eight monks inspired it by describing their cave temple, Nandamula, which some place in the Himalayas. Glazed plaques showing the Buddha's past lives, some with Mon writing, taught religion to people in pictures.",
+  "collections": [
+   "wonders-of-the-world",
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Pagan article, via Ananda Temple page)",
+   "url": "https://www.britannica.com/place/Ananda-Temple"
+  },
+  "source2": {
+   "name": "Sahapedia (Ayan Ghosh)",
+   "url": "https://www.sahapedia.org/infinite-wisdom-buddhas-ananda-temple"
+  }
+ },
+ {
+  "id": "r3s-ram-khamhaeng",
+  "era": "medieval",
+  "year": 1292,
+  "dateLabel": "1292",
+  "emoji": "🪧",
+  "cat": "culture",
+  "title": "The Stone That Speaks Thai",
+  "place": "Sukhothai, Thailand",
+  "lat": 17.02,
+  "lng": 99.7,
+  "text": "The Ram Khamhaeng Inscription has long been seen as the earliest example of Thai script, usually dated to 1292. Future king Mongkut found it in the 1830s while still a monk. In 1987 a historian compared it to the Piltdown hoax and asked if it was fake; later microscope tests suggest it really is old.",
+  "collections": [
+   "scripts-and-alphabets"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Ramkhamhaeng"
+  },
+  "source2": {
+   "name": "SPAFA Journal (SEAMEO SPAFA): Chiraporn Aranyanak, 'The Scientific Investigation of the Inscription of King Ram Khamhaeng'",
+   "url": "https://spafajournal.org/index.php/spafadigest/article/view/548/547"
+  }
+ },
+ {
+  "id": "r3s-zhou-daguan",
+  "era": "medieval",
+  "year": 1296,
+  "dateLabel": "1296",
+  "emoji": "🧭",
+  "cat": "daily",
+  "title": "A Chinese Visitor's Angkor Diary",
+  "place": "Angkor, Cambodia",
+  "lat": 13.44,
+  "lng": 103.86,
+  "text": "Yuan diplomat Zhou Daguan reached Angkor in 1296 and stayed about a year. His report, The Customs of Cambodia, is a key eyewitness account of daily Khmer life. He noted that all trading was done by women, and that hundreds of palace women carried candles in royal parades, even in daylight.",
+  "collections": [
+   "books-and-bright-minds",
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "National Library of Australia, Digital Classroom: 'The way of life in the Khmer Empire'",
+   "url": "https://www.library.gov.au/learn/digital-classroom/angkorkhmer-empire-802-1431/way-life-khmer-empire"
+  },
+  "source2": {
+   "name": "Yale University eHRAF World Cultures: Publication information, The Customs of Cambodia (Siam Society, 1987)",
+   "url": "https://ehrafworldcultures.yale.edu/cultures/am04/documents/179"
+  }
+ },
+ {
+  "id": "r3s-gajah-mada",
+  "era": "medieval",
+  "year": 1336,
+  "dateLabel": "About 1336",
+  "emoji": "🐘",
+  "cat": "power",
+  "title": "Gajah Mada's Palapa Oath",
+  "place": "Trowulan, East Java, Indonesia",
+  "lat": -7.56,
+  "lng": 112.38,
+  "text": "Gajah Mada, born a commoner, became chief minister of Majapahit after crushing a rebellion in 1331. Tradition says he swore the Palapa Oath: he would not enjoy palapa until he had conquered the whole archipelago for Majapahit. Under him Majapahit reached its peak, and today he is an Indonesian national hero.",
+  "collections": [],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Gajah Mada' (Leo Suryadinata)",
+   "url": "https://www.britannica.com/biography/Gajah-Mada"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Gajah Mada' (Leo Suryadinata)",
+   "url": "https://www.britannica.com/biography/Gajah-Mada"
+  }
+ },
+ {
+  "id": "r3s-ayutthaya-founded",
+  "era": "medieval",
+  "year": 1351,
+  "dateLabel": "March 4, 1351",
+  "emoji": "🏯",
+  "cat": "power",
+  "title": "A Kingdom Named for Ayodhya",
+  "place": "Ayutthaya, Thailand",
+  "lat": 14.36,
+  "lng": 100.57,
+  "text": "The date 4 March 1351 is traditionally given as the founding of the Ayutthaya Kingdom, when Ramathibodi I became king of a state based on Ayutthaya, Lop Buri and Suphan Buri. Its full name, Dvaravati Sri Ayudhya, recalls the legendary city of Ayodhya. Sixteenth-century Portuguese and Spanish writers ranked Siam among the three greatest kingdoms of eastern Asia, with China and Vijayanagara.",
+  "collections": [],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Ramathibodi I'",
+   "url": "https://www.britannica.com/biography/Ramathibodi-I"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Historic City of Ayutthaya (read via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/576"
+  }
+ },
+ {
+  "id": "r3s-lan-xang",
+  "era": "medieval",
+  "year": 1353,
+  "dateLabel": "1353",
+  "emoji": "🐘",
+  "cat": "power",
+  "title": "Land of a Million Elephants",
+  "place": "Luang Prabang, Laos",
+  "lat": 19.89,
+  "lng": 102.13,
+  "text": "In 1353 Fa Ngum, raised in exile at the Khmer court of Angkor, proclaimed himself king of Lan Xang, \"a million elephants\". His conquests covered nearly all of present-day Laos and much of northern and eastern Thailand, and the kingdom lasted until it split apart in the early 1700s. Lan Xang was the first unified state of the Lao people.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Fa Ngum'",
+   "url": "https://www.britannica.com/biography/Fa-Ngum"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Lan Xang'",
+   "url": "https://www.britannica.com/place/Lan-Xang"
+  }
+ },
+ {
+  "id": "r3s-malacca-founded",
+  "era": "medieval",
+  "year": 1400,
+  "dateLabel": "About 1400",
+  "emoji": "🦌",
+  "cat": "journeys",
+  "title": "A Mouse Deer Picks a Capital",
+  "place": "Malacca, Malaysia",
+  "lat": 2.19,
+  "lng": 102.25,
+  "text": "Legend says Parameswara, a prince who had lost Singapura, was standing under a tree when a tiny mouse deer kicked one of his hunting dogs. Inspired, he founded his kingdom on the spot and named it after the tree, the melaka. Malacca grew into a great trading port, and Admiral Zheng He's Chinese fleet called there on its first voyage of 1405–07.",
+  "collections": [
+   "beasts-through-time",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Melaka'",
+   "url": "https://www.britannica.com/place/Melaka-Malaysia"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Zheng He'",
+   "url": "https://www.britannica.com/biography/Zheng-He"
+  }
+ },
+ {
+  "id": "r3s-le-loi",
+  "era": "medieval",
+  "year": 1428,
+  "dateLabel": "1428",
+  "emoji": "🐢",
+  "cat": "power",
+  "title": "Lê Lợi and the Returned Sword",
+  "place": "Hoàn Kiếm Lake, Hanoi, Vietnam",
+  "lat": 21.03,
+  "lng": 105.85,
+  "text": "After ten years of guerrilla war, Lê Lợi drove Ming armies out of Vietnam and took the throne in 1428. Legend says his magic sword belonged to the Dragon King, and that after victory he gave it back through a giant turtle in a Hanoi lake. That lake is still called Hoàn Kiếm, the Lake of the Restored Sword.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Le Loi'",
+   "url": "https://www.britannica.com/biography/Le-Loi"
+  },
+  "source2": {
+   "name": "Smithsonian Magazine, 'Beloved Giant Turtle Dies, Leaving Only Three Alive on Earth' (2016)",
+   "url": "https://www.smithsonianmag.com/smart-news/beloved-giant-turtle-dies-leaving-three-alive-earth-180957940/"
+  }
+ },
+ {
+  "id": "r3s-malacca-1511",
+  "era": "exploration",
+  "year": 1511,
+  "dateLabel": "1511",
+  "emoji": "🏰",
+  "cat": "power",
+  "title": "Portugal Seizes Malacca",
+  "place": "Malacca, Malaysia",
+  "lat": 2.2,
+  "lng": 102.26,
+  "text": "In 1511, Afonso de Albuquerque's Portuguese fleet captured Malacca, the port through which spices from the Spice Islands were distributed. Malay rule there ended, and the fugitive sultan and his son founded a new sultanate in Johor. Under the Portuguese, Malacca became the most important trading port in Southeast Asia.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Afonso de Albuquerque)",
+   "url": "https://www.britannica.com/biography/Afonso-de-Albuquerque"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Melaka)",
+   "url": "https://www.britannica.com/place/Melaka-Malaysia"
+  }
+ },
+ {
+  "id": "r3s-bayinnaung",
+  "era": "exploration",
+  "year": 1551,
+  "dateLabel": "1551",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "Bayinnaung's Mega-Empire",
+  "place": "Bago, Myanmar",
+  "lat": 17.34,
+  "lng": 96.48,
+  "text": "Crowned king of Burma in 1551, Bayinnaung made Pegu (today's Bago) his capital and reigned for three decades. He conquered the Shan States, took Chiang Mai in Lan Na, briefly occupied the capitals of Lan Xang and twice captured Ayutthaya in Siam, making his realm the most powerful kingdom in mainland Southeast Asia.",
+  "collections": [],
+  "source": {
+   "name": "Encyclopaedia Britannica (Bayinnaung)",
+   "url": "https://www.britannica.com/biography/Bayinnaung"
+  },
+  "source2": {
+   "name": "EBSCO Research Starters (Carl L. Bankston, 'Burmese-Laotian Wars', 2022)",
+   "url": "https://www.ebsco.com/research-starters/history/burmese-laotian-wars"
+  }
+ },
+ {
+  "id": "r3s-babullah",
+  "era": "exploration",
+  "year": 1575,
+  "dateLabel": "1575",
+  "emoji": "🌿",
+  "cat": "power",
+  "title": "Ternate Sends the Portuguese Packing",
+  "place": "Ternate, North Maluku, Indonesia",
+  "lat": 0.79,
+  "lng": 127.38,
+  "text": "In 1570 the Portuguese assassinated Sultan Hairun of Ternate, a clove-rich island in Maluku, setting off an anticolonial revolt. His son, Sultan Babullah, kept up the fight until the people of Ternate took the Portuguese fort and drove the Portuguese off the island in 1575. Under Babullah, who ruled until 1583, Ternate's power spread across the archipelago.",
+  "collections": [
+   "revolutions-and-freedom",
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Journal of Global History (Cambridge University Press): Stephanie Mawson, 'Malay magic on the colonial frontier', 2026 (citing L. Andaya, The World of Maluku)",
+   "url": "https://www.cambridge.org/core/journals/journal-of-global-history/article/malay-magic-on-the-colonial-frontier-ternaten-spellcasters-and-hostages-of-war-in-seventeenthcentury-manila/1506DC94C68193A55AEBE70F240E1EEE"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Ternate Island'",
+   "url": "https://www.britannica.com/place/Ternate-Island"
+  }
+ },
+ {
+  "id": "r3s-castilian-war",
+  "era": "exploration",
+  "year": 1578,
+  "dateLabel": "1578",
+  "emoji": "⚔️",
+  "cat": "power",
+  "title": "Spain Versus the Sultan of Brunei",
+  "place": "Kota Batu, Brunei",
+  "lat": 4.88,
+  "lng": 114.97,
+  "text": "In 1578 Spanish forces from newly conquered Manila attacked Brunei, a rich Muslim trading sultanate whose great sultan Bolkiah had once ruled practically all of Borneo and the Sulu islands. The Spanish briefly occupied Brunei and destroyed its famous mosque, but disease ravaged their troops and they were soon forced to abandon the conquest.",
+  "collections": [],
+  "source": {
+   "name": "ISEAS-Yusof Ishak Institute Working Paper No. 3 (Barbara Watson Andaya, 'Islam and Christianity in Southeast Asia 1600-1700')",
+   "url": "https://www.iseas.edu.sg/wp-content/uploads/pdfs/Working_Paper_No_3.pdf"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (History of Brunei)",
+   "url": "https://www.britannica.com/place/Brunei/History"
+  }
+ },
+ {
+  "id": "r3s-batavia",
+  "era": "exploration",
+  "year": 1619,
+  "dateLabel": "1619",
+  "emoji": "🚢",
+  "cat": "journeys",
+  "title": "The Dutch Build Batavia",
+  "place": "Jakarta, Indonesia",
+  "lat": -6.13,
+  "lng": 106.81,
+  "text": "In 1619 the Dutch East India Company (VOC) built Batavia on the ruins of the town of Jayakarta, on Java's north coast. The canal-crossed port became the hub of the company's trading network across Asia. It stayed a European colonial city for about 320 years and is today's Jakarta.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica (Jakarta: History)",
+   "url": "https://www.britannica.com/place/Jakarta/History"
+  }
+ },
+ {
+  "id": "r3s-banda-conquest",
+  "era": "exploration",
+  "year": 1621,
+  "dateLabel": "1621",
+  "emoji": "🌰",
+  "cat": "power",
+  "title": "The Price of Nutmeg",
+  "place": "Banda Islands, Indonesia",
+  "lat": -4.55,
+  "lng": 129.9,
+  "text": "Nutmeg and mace grew only on the tiny Banda Islands, and the Dutch wanted all of it. In 1621 Jan Pieterszoon Coen's forces conquered the islands. Of perhaps 13,000 to 15,000 Bandanese, only about 1,000 survived to be enslaved; many died of hunger after fleeing to the mountains, and the Dutch brought in enslaved workers from elsewhere to replace them.",
+  "collections": [
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Atlas of Mutual Heritage (Dutch National Archives / Cultural Heritage Agency): Great Banda",
+   "url": "https://www.atlasofmutualheritage.nl/en/id/5043"
+  },
+  "source2": {
+   "name": "JSTOR Daily (H.M.A. Leow, 'The Violent History Behind Nutmeg')",
+   "url": "https://daily.jstor.org/the-violent-history-behind-nutmeg/"
+  }
+ },
+ {
+  "id": "r3s-alexandre-de-rhodes",
+  "era": "exploration",
+  "year": 1651,
+  "dateLabel": "1651",
+  "emoji": "🔤",
+  "cat": "culture",
+  "title": "Vietnamese in the Latin Alphabet",
+  "place": "Hanoi, Vietnam",
+  "lat": 21.03,
+  "lng": 105.84,
+  "text": "Jesuit Alexandre de Rhodes worked as a missionary in Tonkin, northern Vietnam, from 1627 to 1630. In 1651 he printed in Rome a Vietnamese-Portuguese-Latin dictionary, building on the work of earlier missionaries. It helped spread chữ Quốc ngữ, writing Vietnamese in Latin letters with tone marks, the script Vietnam uses today.",
+  "collections": [
+   "scripts-and-alphabets",
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Alexandre de Rhodes'",
+   "url": "https://www.britannica.com/biography/Alexandre-de-Rhodes"
+  },
+  "source2": {
+   "name": "Bibliothèque nationale de France, France-Vietnam heritage: Romanisation",
+   "url": "https://heritage.bnf.fr/france-vietnam/romanisation"
+  }
+ },
+ {
+  "id": "r3s-alaungpaya-yangon",
+  "era": "exploration",
+  "year": 1755,
+  "dateLabel": "1755",
+  "emoji": "🏯",
+  "cat": "power",
+  "title": "A Village Headman Founds Yangon",
+  "place": "Yangon, Myanmar",
+  "lat": 16.8,
+  "lng": 96.15,
+  "text": "Alaungpaya was a village headman of humble origins when the Mon kingdom of Pegu captured Burma's capital in 1752. He organized resistance, founded the Konbaung dynasty and went on the offensive. In 1755, after a lightning campaign into Mon country, he founded a new port called Yangon at the site of the Mon fishing village of Dagon.",
+  "collections": [],
+  "source": {
+   "name": "Encyclopaedia Britannica: Alaungpaya",
+   "url": "https://www.britannica.com/biography/Alaungpaya"
+  }
+ },
+ {
+  "id": "r3s-white-rajah",
+  "era": "industrial",
+  "year": 1841,
+  "dateLabel": "1841",
+  "emoji": "🎩",
+  "cat": "power",
+  "title": "An Englishman Becomes Rajah",
+  "place": "Kuching, Sarawak, Malaysia",
+  "lat": 1.55,
+  "lng": 110.34,
+  "text": "In 1841 the Sultan of Brunei granted land around Kuching to the English adventurer James Brooke, who took the title Rajah of Sarawak. His family, the \"White Rajahs\", ruled Sarawak as their own state for 105 years, steadily taking more land from Brunei. Their rule ended in 1946.",
+  "collections": [],
+  "source": {
+   "name": "Encyclopaedia Britannica, Sarawak",
+   "url": "https://www.britannica.com/place/Sarawak-state-Malaysia"
+  }
+ },
+ {
+  "id": "r3s-max-havelaar",
+  "era": "industrial",
+  "year": 1860,
+  "dateLabel": "1860",
+  "emoji": "☕",
+  "cat": "culture",
+  "title": "The Novel That Shamed Coffee Profits",
+  "place": "Lebak, Banten, Indonesia",
+  "lat": -6.36,
+  "lng": 106.25,
+  "text": "Max Havelaar, an 1860 novel by Multatuli (pen name of Eduard Douwes Dekker), shows an honest official battling corruption in Lebak, Java. It exposed how Dutch rules forced Javanese farmers to grow export crops like coffee. Its famous first line is spoken by a smug Amsterdam coffee broker.",
+  "collections": [
+   "books-and-bright-minds",
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "DBNL, Lexicon van literaire werken (Eep Francken), 'Max Havelaar'",
+   "url": "https://www.dbnl.org/tekst/anbe001lexi01_01/lvlw00439.php"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Max Havelaar'",
+   "url": "https://www.britannica.com/topic/Max-Havelaar"
+  }
+ },
+ {
+  "id": "r3s-mouhot-angkor",
+  "era": "industrial",
+  "year": 1860,
+  "dateLabel": "January 1860",
+  "emoji": "🖋️",
+  "cat": "journeys",
+  "title": "Mouhot Didn't Discover Angkor",
+  "place": "Angkor Wat, Siem Reap, Cambodia",
+  "lat": 13.41,
+  "lng": 103.87,
+  "text": "French naturalist Henri Mouhot reached Angkor in January 1860, and his travel journals made it famous in Europe. He is often said to have \"discovered\" it, but Buddhist monks had long cared for Angkor Wat as a pilgrimage site, and Spanish missionaries had described it by 1601. Mouhot died near Luang Prabang, Laos, the next year.",
+  "collections": [
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Henri Mouhot'",
+   "url": "https://www.britannica.com/biography/Henri-Mouhot"
+  },
+  "source2": {
+   "name": "National Geographic History, 'Seeking the Hidden Temples of Cambodia'",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/discoveries-angkor-wat-temples-cambodia"
+  }
+ },
+ {
+  "id": "r3s-thibaw-exile",
+  "era": "industrial",
+  "year": 1885,
+  "dateLabel": "November 1885",
+  "emoji": "🏳️",
+  "cat": "power",
+  "title": "Burma's Last King",
+  "place": "Mandalay, Myanmar",
+  "lat": 21.98,
+  "lng": 96.08,
+  "text": "Thibaw, who studied in a Buddhist monastery as a young prince, became the last king of Burma. In November 1885, in the Third Anglo-Burmese War, British forces invaded Upper Burma and captured his capital, Mandalay; Thibaw was deposed and sent into exile in India. The annexation of Upper Burma was announced on 1 January 1886.",
+  "collections": [],
+  "source": {
+   "name": "Encyclopaedia Britannica, Thibaw",
+   "url": "https://www.britannica.com/biography/Thibaw"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Anglo-Burmese Wars",
+   "url": "https://www.britannica.com/event/Anglo-Burmese-Wars"
+  }
+ },
+ {
+  "id": "r3s-java-man",
+  "era": "industrial",
+  "year": 1891,
+  "dateLabel": "1891",
+  "emoji": "💀",
+  "cat": "discovery",
+  "title": "Dubois Finds Java Man",
+  "place": "Trinil, East Java, Indonesia",
+  "lat": -7.37,
+  "lng": 111.36,
+  "text": "Searching for human ancestors, Eugène Dubois found the top of an early human skull at Trinil, by the Solo River, in 1891; his team also dug up molars and a thighbone, finds he called \"the missing link\". Java Man is roughly 700,000 to 1 million years old. Trinil yielded the type specimen of the species now called Homo erectus.",
+  "collections": [
+   "becoming-human",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Smithsonian National Museum of Natural History, Human Origins: Trinil 2",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/trinil-2"
+  },
+  "source2": {
+   "name": "PMC: The oldest gibbon fossil from insular Southeast Asia: evidence from Trinil (PLoS One, 2014)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4051846/"
+  }
+ },
+ {
+  "id": "r3s-paknam-incident",
+  "era": "industrial",
+  "year": 1893,
+  "dateLabel": "July 13, 1893",
+  "emoji": "🚩",
+  "cat": "power",
+  "title": "French Gunboats at Paknam",
+  "place": "Samut Prakan, Thailand",
+  "lat": 13.54,
+  "lng": 100.58,
+  "text": "On 13 July 1893, French warships forced their way past Siamese forts at Paknam, at the mouth of the Chao Phraya River. France won the clash and blockaded Siam's ports, and the peace deal handed France the lands east of the Mekong that now form most of Laos. Siam lost territory but kept its independence.",
+  "collections": [],
+  "source": {
+   "name": "Encyclopaedia Britannica, Thailand: Chulalongkorn and the foundations of modern Thailand",
+   "url": "https://www.britannica.com/place/Thailand/Chulalongkorn-and-the-foundations-of-modern-Thailand"
+  },
+  "source2": {
+   "name": "US Office of the Historian, Foreign Relations of the United States 1893, doc. 537 (Boyd dispatch)",
+   "url": "https://history.state.gov/historicaldocuments/frus1893/d537"
+  }
+ },
+ {
+  "id": "r3s-kartini-school",
+  "era": "industrial",
+  "year": 1903,
+  "dateLabel": "1903",
+  "emoji": "✏️",
+  "cat": "culture",
+  "title": "Kartini's School for Girls",
+  "place": "Rembang, Central Java, Indonesia",
+  "lat": -6.7,
+  "lng": 111.34,
+  "text": "Javanese noblewoman Kartini was kept in seclusion at home as a teenager, so she reached out to the world through letters to Dutch friends. In 1903 she and her sister Roekmini opened a school for upper-class girls with ten pupils, and after marrying the Regent of Rembang she kept teaching. Her letters were published in 1911, and her birthday is a national holiday in Indonesia.",
+  "collections": [
+   "remarkable-women",
+   "books-and-bright-minds"
+  ],
+  "source": {
+   "name": "Leiden University Libraries (KITLV): Kartini Letters",
+   "url": "https://digitalcollections.universiteitleiden.nl/kartiniletters"
+  },
+  "source2": {
+   "name": "Women in World History (Gale) via Encyclopedia.com: Kartini (1879-1904)",
+   "url": "https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/kartini-1879-1904"
+  }
+ },
+ {
+  "id": "r3s-siamese-revolution",
+  "era": "modern",
+  "year": 1932,
+  "dateLabel": "June 24, 1932",
+  "emoji": "📣",
+  "cat": "power",
+  "title": "Siam's Bloodless Revolution",
+  "place": "Bangkok, Thailand",
+  "lat": 13.75,
+  "lng": 100.49,
+  "text": "On 24 June 1932, a small group called the Khana Ratsadon, the People's Party, staged a coup in Bangkok. Without bloodshed it ended absolute monarchy in Siam. King Prajadhipok, the last absolute king, kept his throne but was forced to accept a constitution, making Siam a constitutional monarchy.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Encyclopaedia Britannica, Pridi Phanomyong",
+   "url": "https://www.britannica.com/biography/Pridi-Phanomyong"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Prajadhipok",
+   "url": "https://www.britannica.com/biography/Prajadhipok"
+  }
+ },
+ {
+  "id": "r3s-vietnam-independence",
+  "era": "modern",
+  "year": 1945,
+  "dateLabel": "September 2, 1945",
+  "emoji": "⭐",
+  "cat": "power",
+  "title": "Ho Chi Minh Declares Independence",
+  "place": "Ba Đình Square, Hanoi, Vietnam",
+  "lat": 21.04,
+  "lng": 105.84,
+  "text": "On 2 September 1945, Ho Chi Minh read a declaration of independence to a crowd at Ba Đình Square, founding the Democratic Republic of Vietnam. Emperor Bảo Đại had abdicated a week before. Surprisingly, the text quoted the American Declaration of Independence and France's Rights of Man, partly to win Allied support.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "Fordham University Internet Modern History Sourcebook, Vietnamese Declaration of Independence (1945)",
+   "url": "https://sourcebooks.fordham.edu/mod/1945vietnam.asp"
+  },
+  "source2": {
+   "name": "Library of Congress Federal Research Division, Vietnam: A Country Study (countrystudies.us mirror)",
+   "url": "https://countrystudies.us/vietnam/22.htm"
+  }
+ },
+ {
+  "id": "r3s-burma-independence",
+  "era": "modern",
+  "year": 1948,
+  "dateLabel": "January 4, 1948",
+  "emoji": "🎉",
+  "cat": "power",
+  "title": "Burma Becomes Independent",
+  "place": "Yangon, Myanmar",
+  "lat": 16.78,
+  "lng": 96.16,
+  "text": "On 4 January 1948, Burma became independent under a treaty in which Britain recognised it as a fully independent sovereign state, ending British rule over the whole country that began with the annexation of Upper Burma in 1886. Thakin Nu, later known as U Nu, signed the treaty as Burma's prime minister. The date is still Myanmar's Independence Day.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "United Nations Treaty Series vol. 70, No. 904: Treaty between the UK and Burma (1947)",
+   "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%2070/volume-70-I-904-English.pdf"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Anglo-Burmese Wars",
+   "url": "https://www.britannica.com/event/Anglo-Burmese-Wars"
+  }
+ },
+ {
+  "id": "r3s-niah-deep-skull",
+  "era": "modern",
+  "year": 1958,
+  "dateLabel": "1958",
+  "emoji": "🦇",
+  "cat": "discovery",
+  "title": "The Deep Skull of Niah Cave",
+  "place": "Niah Caves, Sarawak, Malaysia",
+  "lat": 3.81,
+  "lng": 113.78,
+  "text": "In a trial trench nicknamed \"Hell\" in the West Mouth of Niah's Great Cave, Tom and Barbara Harrisson's team uncovered a human skull in 1958. Later studies dated it to about 37,000 years ago. Researchers now think it belonged to an older woman, not a teenage boy as first proposed, and that she was most like today's Indigenous peoples of Borneo.",
+  "collections": [
+   "becoming-human",
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "Curnoe et al. 2016, 'Deep Skull from Niah Cave and the Pleistocene Peopling of Southeast Asia', Frontiers in Ecology and Evolution",
+   "url": "https://www.frontiersin.org/articles/10.3389/fevo.2016.00075/full"
+  },
+  "source2": {
+   "name": "Curnoe et al. 2018, PLoS One (PMC5991356)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5991356/"
+  }
+ },
+ {
+  "id": "r3s-asean-declaration",
+  "era": "modern",
+  "year": 1967,
+  "dateLabel": "August 8, 1967",
+  "emoji": "🤝",
+  "cat": "power",
+  "title": "Five Neighbors Form ASEAN",
+  "place": "Saranrom Palace, Bangkok, Thailand",
+  "lat": 13.75,
+  "lng": 100.5,
+  "text": "On 8 August 1967, ministers from Indonesia, Malaysia, the Philippines, Singapore and Thailand signed the Bangkok Declaration, creating ASEAN. It came right after the tense Konfrontasi conflict between neighbors. Its informal style of making decisions by consensus still guides the group, and 8 August is celebrated as ASEAN Day.",
+  "collections": [],
+  "source": {
+   "name": "ASEAN Secretariat, 'The Founding of ASEAN'",
+   "url": "https://asean.org/the-founding-of-asean/"
+  },
+  "source2": {
+   "name": "Royal Thai Embassy, Washington D.C., 'Thailand and ASEAN'",
+   "url": "https://washingtondc.thaiembassy.org/en/page/thailand-and-asean"
+  }
+ },
+ {
+  "id": "r3s-petronas-towers",
+  "era": "modern",
+  "year": 1998,
+  "dateLabel": "1998",
+  "emoji": "🏙️",
+  "cat": "culture",
+  "title": "The Petronas Twin Towers",
+  "place": "Kuala Lumpur, Malaysia",
+  "lat": 3.16,
+  "lng": 101.71,
+  "text": "From 1998 to 2004, Kuala Lumpur's 88-story Petronas Towers were the tallest buildings in the world, at 451.9 meters. Architect César Pelli drew the floor plan from the Rub el Hizb, an eight-pointed Islamic star. They remain the tallest twin skyscrapers on Earth.",
+  "collections": [
+   "wonders-of-the-world"
+  ],
+  "source": {
+   "name": "CTBUH Skyscraper Center: Petronas Twin Tower 1",
+   "url": "https://www.skyscrapercenter.com/building/petronas-twin-tower-1/149"
+  },
+  "source2": {
+   "name": "PETRONAS Twin Towers official website: Design + Structure",
+   "url": "https://www.petronastwintowers.com.my/the-towers/design-structure/"
+  }
+ },
+ {
+  "id": "r3s-timor-leste",
+  "era": "modern",
+  "year": 2002,
+  "dateLabel": "May 20, 2002",
+  "emoji": "🕊️",
+  "cat": "power",
+  "title": "Timor-Leste Is Born",
+  "place": "Dili, Timor-Leste",
+  "lat": -8.56,
+  "lng": 125.57,
+  "text": "During Indonesia's invasion and occupation, a UN-backed truth commission estimated that between 106,000 and 180,000 Timorese died from massacre, starvation and disease from 1975 to 1983. After 24 years of occupation, East Timorese voted in 1999, with more than 78 percent choosing independence. Militia violence followed, so UN-backed peacekeepers stepped in and the UN oversaw the transition. On 20 May 2002, Timor-Leste became independent.",
+  "collections": [
+   "revolutions-and-freedom"
+  ],
+  "source": {
+   "name": "National Security Archive, George Washington University: U.S. sought to preserve close ties to Indonesian military... (2019)",
+   "url": "https://nsarchive.gwu.edu/briefing-book/indonesia/2019-08-28/us-sought-preserve-close-ties-indonesian-military-it-terrorized-east-timor-runup-1999-independence"
+  },
+  "source2": {
+   "name": "United Nations Peacekeeping: East Timor - UNTAET",
+   "url": "https://peacekeeping.un.org/en/mission/past/etimor/etimor.htm"
+  }
+ },
+ {
+  "id": "r3s-homo-floresiensis",
+  "era": "modern",
+  "year": 2003,
+  "dateLabel": "2003",
+  "emoji": "🧝",
+  "cat": "discovery",
+  "title": "The Hobbit of Flores",
+  "place": "Liang Bua, Flores, Indonesia",
+  "lat": -8.53,
+  "lng": 120.46,
+  "text": "In 2003, in Liang Bua cave, scientists found the skeleton of a grown human relative standing only about 1.1 meters tall. Nicknamed the \"Hobbit\", Homo floresiensis lived on Flores until about 50,000 years ago. Its small size is thought to come from island dwarfism, where animals shrink over generations on islands.",
+  "collections": [
+   "becoming-human",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Smithsonian National Museum of Natural History, Human Origins Program",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-floresiensis"
+  }
+ },
+ {
+  "id": "r3s-tham-luang-rescue",
+  "era": "modern",
+  "year": 2018,
+  "dateLabel": "June 23 – July 10, 2018",
+  "emoji": "🐗",
+  "cat": "daily",
+  "title": "The Wild Boars Cave Rescue",
+  "place": "Tham Luang Cave, Chiang Rai, Thailand",
+  "lat": 20.38,
+  "lng": 99.87,
+  "text": "Twelve boys from the Wild Boars junior football team and their 25-year-old assistant coach went exploring a cave in northern Thailand when monsoon floods trapped them. Found alive after nine days, all 13 were brought out by divers between 8 and 10 July 2018. Saman Kunan, a former Thai military diver who volunteered to help, died during the rescue.",
+  "collections": [],
+  "source": {
+   "name": "Al Jazeera: Thai cave rescue ends after last four boys and coach are saved (11 July 2018)",
+   "url": "https://www.aljazeera.com/news/2018/7/11/thai-cave-rescue-ends-after-last-four-boys-and-coach-are-saved"
+  }
+ }
+]

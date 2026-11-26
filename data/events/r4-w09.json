@@ -1,0 +1,402 @@
+[
+ {
+  "id": "w09-sanada-maru",
+  "era": "exploration",
+  "year": 1614,
+  "dateLabel": "1614",
+  "cat": "power",
+  "title": "Sanada's Fort Outside Osaka Castle",
+  "place": "Sanada Maru, Osaka Castle, Osaka, Japan",
+  "lat": 34.67,
+  "lng": 135.52,
+  "text": "During the winter campaign of the Siege of Osaka in 1614, the warlord Sanada Nobushige built an outwork called the Sanada Maru to help the Toyotomi clan hold off the Tokugawa armies. The shogunate answered with artillery and tunnels dug under its walls. After victory they destroyed the fort and filled in the castle moat. Traces suggest it measured about 380 by 330 yards.",
+  "source": {
+   "name": "Archaeology Magazine: Excavation Reveals Traces of 17th-C. Fortress in Japan",
+   "url": "https://archaeology.org/news/2016/12/29/161229-japan-sanada-maru/"
+  }
+ },
+ {
+  "id": "w09-dazaifu-earthworks",
+  "era": "medieval",
+  "year": 664,
+  "dateLabel": "After 663 CE",
+  "cat": "power",
+  "title": "Japan Braces for a Tang Invasion",
+  "place": "Hilltop earthworks, Chikushino, Fukuoka, Japan",
+  "lat": 33.49,
+  "lng": 130.52,
+  "text": "In 663 Japan sent an army to Korea to help the kingdom of Baekje against a rival allied with Tang China, and lost. Fearing invasion, the regional government at Dazaifu on Kyushu raised defences. On a hilltop in Chikushino, about four miles away, excavators found seventh-century castles and big earthworks. Some scholars think they formed a continuous wall, like Chinese frontier fortifications.",
+  "source": {
+   "name": "Archaeology Magazine: Seventh-Century Earthworks Discovered in Japan",
+   "url": "https://archaeology.org/news/2016/11/29/161129-japan-fortified-wall/"
+  }
+ },
+ {
+  "id": "w09-ming-wall-biocrust",
+  "era": "exploration",
+  "year": 1500,
+  "dateLabel": "1368 to 1644",
+  "cat": "nature",
+  "title": "Moss That Holds the Great Wall Together",
+  "place": "Ming-era Great Wall, northern China",
+  "lat": 40.43,
+  "lng": 116.57,
+  "text": "Scientists led by Bo Xiao of China Agricultural University sampled eight stretches of the Great Wall built between 1368 and 1644. Most were coated with a living crust of cyanobacteria, mosses and lichens, encouraged by the clay, sand and lime in the rammed earth. These organisms secrete substances that bind the soil like natural cement, making crusted sections up to three times stronger than bare earth.",
+  "source": {
+   "name": "Archaeology Magazine: Organic Material Blend Said to Strengthen China's Great Wall",
+   "url": "https://archaeology.org/news/2023/12/14/231215-great-wall-biocrust/"
+  }
+ },
+ {
+  "id": "w09-qi-wall-oldest",
+  "era": "ancient",
+  "year": -800,
+  "dateLabel": "Late Western Zhou era",
+  "cat": "power",
+  "title": "The Great Wall's Oldest Stretch",
+  "place": "Qi Wall, near Jinan, Shandong, China",
+  "lat": 36.4,
+  "lng": 116.9,
+  "text": "Long before the famous Ming ramparts, the state of Qi in eastern China built its own wall to guard its frontiers and key trade routes. New dating of the Qi Wall in Shandong places its origins in the late Western Zhou and Spring and Autumn periods, about 300 years earlier than thought. It began about 30 feet wide and was later widened to roughly 100 feet.",
+  "source": {
+   "name": "Archaeology Magazine: Oldest Section of China's Great Wall Uncovered",
+   "url": "https://archaeology.org/news/2025/02/21/oldest-section-of-chinas-great-wall-uncovered/"
+  }
+ },
+ {
+  "id": "w09-bayanbulag-han-fort",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "1st century BCE",
+  "cat": "power",
+  "title": "A Han Fort Deep in Xiongnu Land",
+  "place": "Bayanbulag (Shouxiangcheng), southern Mongolia",
+  "lat": 42.9,
+  "lng": 105.1,
+  "text": "At Bayanbulag in southern Mongolia, Han China built a walled fortress, known in the chronicles as Shouxiangcheng, as a base for sending soldiers deep into Xiongnu territory. Excavators found a mass grave of at least 17 executed soldiers, some forced to kneel. Isotope and DNA tests confirmed they came from northern China. A halberd laid with them may be a memorial from their comrades.",
+  "source": {
+   "name": "Archaeology Magazine: A Chinese Frontier Fort",
+   "url": "https://archaeology.org/issues/september-october-2025/digs-discoveries/a-chinese-frontier-fort/"
+  }
+ },
+ {
+  "id": "w09-northern-line-wall",
+  "era": "medieval",
+  "year": 1150,
+  "dateLabel": "1000s to 1200s",
+  "cat": "journeys",
+  "title": "A Great Wall Built for Tax Collectors?",
+  "place": "Northern Line of the Great Wall, eastern Mongolia",
+  "lat": 47.3,
+  "lng": 113.5,
+  "text": "The Northern Line of the Great Wall runs about 460 miles, mostly through Mongolia, and was built of pounded earth between the 11th and 13th centuries. Many assumed it was raised against Genghis Khan. Mapping with drones and satellite images showed much of it is low and sits beside paths, so it may have been for watching or taxing moving people and herds.",
+  "source": {
+   "name": "Archaeology Magazine: Researchers Map Great Wall of China's Northern Line",
+   "url": "https://archaeology.org/news/8790-200611-mongolia-northern-wall/"
+  }
+ },
+ {
+  "id": "w09-derbent-narin-kala",
+  "era": "medieval",
+  "year": 560,
+  "dateLabel": "500s CE",
+  "cat": "power",
+  "title": "The Persian Wall at the Caspian Gate",
+  "place": "Naryn-Kala, Derbent, Dagestan, Russia",
+  "lat": 42.05,
+  "lng": 48.27,
+  "text": "At Derbent the Caucasus Mountains come within a mile of the Caspian Sea, a natural gateway for steppe raiders. The Sasanian Persians sealed it with a limestone wall over 30 miles long and more than 20 feet tall, linking dozens of small forts. Khosrow I ordered the hilltop citadel of Narin Kala, with walls about 60 feet high. The defences stayed in use into the 19th century.",
+  "source": {
+   "name": "Archaeology Magazine: The Shah's Great Wall",
+   "url": "https://archive.archaeology.org/0807/abstracts/daghestan.html"
+  }
+ },
+ {
+  "id": "w09-dura-siege-gas",
+  "era": "classical",
+  "year": 256,
+  "dateLabel": "Around 256 CE",
+  "cat": "power",
+  "title": "Poison Smoke Under Dura's Walls",
+  "place": "Dura-Europos, Deir ez-Zor, Syria",
+  "lat": 34.75,
+  "lng": 40.73,
+  "text": "When the Sasanians besieged the Roman fortress city of Dura around 256 CE, they tunnelled under its walls and the Romans dug countermines. In one tunnel lay 20 Roman soldiers, long blamed on a collapse. Archaeologist Simon James argued the Sasanians lit braziers of pitch and sulfur, sending choking sulfur dioxide into the Roman tunnel. One Sasanian soldier also died there.",
+  "source": {
+   "name": "Archaeology Magazine: Top 10 Discoveries of 2009: Earliest Chemical Warfare",
+   "url": "https://archive.archaeology.org/1001/topten/syria.html"
+  }
+ },
+ {
+  "id": "w09-ayanis-citadel",
+  "era": "ancient",
+  "year": -660,
+  "dateLabel": "600s BCE",
+  "cat": "power",
+  "title": "Urartu's Citadel Above Lake Van",
+  "place": "Ayanis, Van Province, Turkey",
+  "lat": 38.76,
+  "lng": 43.21,
+  "text": "The Urartian king Rusa II founded the citadel of Ayanis on a ridge over 750 feet above the shore of mile-high Lake Van. Its southern walls were dark basalt, its gate and towers pale andesite, and mudbrick walls on top reached up to 56 feet high. Its temple bears an 88-line inscription, the longest in Urartu. Like every late Urartian citadel, it ended in fire.",
+  "source": {
+   "name": "Archaeology Magazine: Urartu's Kingdom of Fortresses",
+   "url": "https://archaeology.org/issues/online/features/kingdom-of-fortresses/"
+  }
+ },
+ {
+  "id": "w09-jaffa-egyptian-gate",
+  "era": "ancient",
+  "year": -1125,
+  "dateLabel": "About 1125 BCE",
+  "cat": "power",
+  "title": "Egypt's Last Stand at Jaffa",
+  "place": "Jaffa, Tel Aviv-Yafo, Israel",
+  "lat": 32.05,
+  "lng": 34.75,
+  "text": "Jaffa was Egypt's only purely military outpost in Canaan, a walled enclave whose gate bore Ramesses' name. Legend said Thutmose III's men first took the city hidden in 200 tribute baskets. The garrison brewed its own beer and ate imported Nile perch. Two fires about ten years apart destroyed the gate; scorched seeds date the final blaze to around 1125 BCE.",
+  "source": {
+   "name": "Archaeology Magazine: Egypt's Final Redoubt in Canaan",
+   "url": "https://archaeology.org/issues/262-1707/features/5627-jaffa-egypt-canaan-colony/"
+  }
+ },
+ {
+  "id": "w09-tell-el-kharouba",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 1500 BCE",
+  "cat": "power",
+  "title": "Eleven Towers on the Way of Horus",
+  "place": "Tell el-Kharouba, North Sinai, Egypt",
+  "lat": 31.18,
+  "lng": 34.05,
+  "text": "On the Way of Horus, the military road running from Egypt along the coast to Canaan, archaeologists found a 3,500-year-old fortress with 11 towers covering about two acres. Pottery stamped with Thutmose I's name lay in its foundation deposits. A zigzag wall inside probably resisted wind and sand. Outside lay small ovens and unbaked bread dough for a garrison of about 500.",
+  "source": {
+   "name": "Archaeology Magazine: Ancient Fortress Located on Egypt's Way of Horus",
+   "url": "https://archaeology.org/news/2025/10/22/ancient-fortress-located-on-egypts-way-of-horus/"
+  }
+ },
+ {
+  "id": "w09-kerma-early-fort",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 2500 BCE",
+  "cat": "power",
+  "title": "Nubia's Fortress Before the Pharaohs Came",
+  "place": "Kerma, Northern State, Sudan",
+  "lat": 19.6,
+  "lng": 30.41,
+  "text": "Around 2500 BCE builders at Kerma in Nubia raised a large fort, and a dense town grew around it, entered through a gate of mudbrick and wood. As rivalry with Egypt grew, the walls became ever stronger. At nearby Dukki Gel, round African buildings were guarded by walls with no known models in the Nile Valley. Thutmose III finally conquered Kerma in 1450 BCE.",
+  "source": {
+   "name": "Archaeology Magazine: A Nubian Kingdom Rises",
+   "url": "https://archaeology.org/issues/september-october-2020/features/sudan-kerma-nubian-kingdom/"
+  }
+ },
+ {
+  "id": "w09-mohenjo-daro-walls",
+  "era": "ancient",
+  "year": -2650,
+  "dateLabel": "2700 to 2600 BCE",
+  "cat": "discovery",
+  "title": "Mohenjo-daro's Walls Push Back the Clock",
+  "place": "Stupa Mound, Mohenjo-daro, Sindh, Pakistan",
+  "lat": 27.33,
+  "lng": 68.14,
+  "text": "Archaeologists from Sindh's antiquities department dated samples from the mudbrick wall around Mohenjo-daro's western Stupa Mound. The results show the Indus city was occupied as early as 2700 to 2600 BCE, about two centuries earlier than thought, and that the wall was enlarged and kept up until at least 2200 BCE. The team now plans to trace the wall and hunt for its gates.",
+  "source": {
+   "name": "Archaeology Magazine: New Dates Push Back Occupation of Mohenjo-Daro",
+   "url": "https://archaeology.org/news/2026/04/06/new-dates-push-back-occupation-of-mohenjo-daro/"
+  }
+ },
+ {
+  "id": "w09-jaffna-fort-repair",
+  "era": "modern",
+  "year": 2015,
+  "dateLabel": "2015",
+  "cat": "culture",
+  "title": "Hunting the Lost Bricks of Jaffna Fort",
+  "place": "Jaffna Fort, Jaffna, Northern Province, Sri Lanka",
+  "lat": 9.66,
+  "lng": 80.01,
+  "text": "Dutch colonists built Jaffna's star-shaped fort in the 17th century, but war and neglect left it battered. In 2015 archaeologist Prashantha Mandawala led its restoration, which began with clearing unexploded mines and shells. Some residents had carried off its coral limestone to rebuild war-damaged homes, so about 150 workers searched houses and the moat for missing bricks, since new quarrying is banned.",
+  "source": {
+   "name": "Archaeology Magazine: Conservators Are Repairing Sri Lanka's Jaffna Fort",
+   "url": "https://archaeology.org/news/2015/11/04/151104-sri-lanka-jaffna-fort/"
+  }
+ },
+ {
+  "id": "w09-hadrians-wall-begun",
+  "era": "classical",
+  "year": 122,
+  "dateLabel": "122 CE",
+  "cat": "power",
+  "title": "Hadrian Draws a Line Across Britain",
+  "place": "Hadrian's Wall, Northumberland, England, UK",
+  "lat": 55.01,
+  "lng": -2.33,
+  "text": "Building probably began in 122 CE, the year Emperor Hadrian visited Britain. Three legions built the wall 73 miles from the Tyne to the Solway, with a guarded gate every Roman mile and two turrets between each. To speed the work, its width was cut from 10 Roman feet to 8 or less. Long after Rome left, its stones were quarried for castles, churches and farms.",
+  "source": {
+   "name": "English Heritage: History of Hadrian's Wall",
+   "url": "https://www.english-heritage.org.uk/visit/places/hadrians-wall/hadrians-wall-history-and-stories/history/"
+  }
+ },
+ {
+  "id": "w09-maiden-castle-slingstones",
+  "era": "classical",
+  "year": -400,
+  "dateLabel": "About 400 BCE",
+  "cat": "daily",
+  "title": "Pits Full of Slingshot Pebbles",
+  "place": "Maiden Castle, Dorchester, Dorset, England, UK",
+  "lat": 50.7,
+  "lng": -2.47,
+  "text": "Maiden Castle in Dorset is one of Europe's largest Iron Age hillforts, bigger than 50 football pitches. Work on its defences began about 2,400 years ago and went on for some 300 years, its inner rampart alone about 2 km long. Pits by both gateways held thousands of beach pebbles, slingshot ammunition that could fly about 100 metres. Over 100 roundhouses stood inside.",
+  "source": {
+   "name": "English Heritage: History of Maiden Castle",
+   "url": "https://www.english-heritage.org.uk/visit/places/maiden-castle/history/"
+  }
+ },
+ {
+  "id": "w09-pompeii-sulla-siege",
+  "era": "classical",
+  "year": -89,
+  "dateLabel": "About 89 BCE",
+  "cat": "power",
+  "title": "Sulla's Missiles at Pompeii's Walls",
+  "place": "North walls, Pompeii, Campania, Italy",
+  "lat": 40.75,
+  "lng": 14.49,
+  "text": "Long before Vesuvius buried it, Pompeii was besieged by Roman forces under Lucius Cornelius Sulla, probably around 89 BCE. Its weak north walls still bear impact scars, and excavators found catapult balls, lead sling bullets and scorpio bolts inside the city. Archaeologist Ivo van der Graaff thinks the Romans fired into the town to wreck buildings and morale, not to topple the walls.",
+  "source": {
+   "name": "Archaeology Magazine: Weapons of the Ancient World: Siege Weapons",
+   "url": "https://archaeology.org/issues/may-june-2020/collection/siege-weapons/weapons-of-the-ancient-world/"
+  }
+ },
+ {
+  "id": "w09-hay-castle-trebuchet",
+  "era": "medieval",
+  "year": 1265,
+  "dateLabel": "1265",
+  "cat": "power",
+  "title": "A 63-Pound Trebuchet Ball at Hay",
+  "place": "Hay Castle, Hay-on-Wye, Powys, Wales, UK",
+  "lat": 52.07,
+  "lng": -3.13,
+  "text": "Excavators at Hay Castle on the Welsh border found a stone ball weighing 63 pounds, hurled by a trebuchet. Documents record several attacks on the castle in the 1200s, and in July 1265 Simon de Montfort, rebel against King Henry III, took it with help from allied Welsh princes. As archaeologist Chris Caple notes, one hit rarely mattered; only repeated strikes demolished a wall.",
+  "source": {
+   "name": "Archaeology Magazine: Weapons of the Ancient World: Siege Weapons",
+   "url": "https://archaeology.org/issues/may-june-2020/collection/siege-weapons/weapons-of-the-ancient-world/"
+  }
+ },
+ {
+  "id": "w09-castillo-siege-1702",
+  "era": "exploration",
+  "year": 1702,
+  "dateLabel": "1702",
+  "cat": "power",
+  "title": "1,500 People Inside the Castillo",
+  "place": "Castillo de San Marcos, St. Augustine, Florida, USA",
+  "lat": 29.9,
+  "lng": -81.31,
+  "text": "In November 1702 Carolina governor James Moore laid siege to Spanish St. Augustine. Almost 1,500 townspeople crowded into the Castillo de San Marcos, built of coquina, the only local stone. English cannon barely hurt its walls, so Moore sent to Jamaica for bigger guns. Instead four Spanish warships arrived from Havana on 26 December. The English burned their own ships and the town, then retreated.",
+  "source": {
+   "name": "National Park Service: The Siege of 1702",
+   "url": "https://www.nps.gov/casa/learn/historyculture/the-siege-of-1702.htm"
+  }
+ },
+ {
+  "id": "w09-louisbourg-1745",
+  "era": "exploration",
+  "year": 1745,
+  "dateLabel": "1745",
+  "cat": "power",
+  "title": "New Englanders Take Louisbourg",
+  "place": "Fortress of Louisbourg, Cape Breton Island, Nova Scotia, Canada",
+  "lat": 45.89,
+  "lng": -59.99,
+  "text": "France began fortifying Louisbourg on Cape Breton in 1719 to guard its cod fishery, finishing just before the first siege. Its harbour was strong, but low hills overlooked the landward walls, perfect for siege guns. In 1745 fervent New England forces took it in 46 days, only for a treaty to hand it back to France three years later. The British retook it in 1758 and destroyed the walls.",
+  "source": {
+   "name": "Parks Canada: History of the Fortress of Louisbourg",
+   "url": "https://parks.canada.ca/lhn-nhs/ns/louisbourg/decouvrir-discover/histoire-history"
+  }
+ },
+ {
+  "id": "w09-kuelap-fortress",
+  "era": "medieval",
+  "year": 900,
+  "dateLabel": "Around 900 CE",
+  "cat": "power",
+  "title": "The Cloud People's Walled Mountain",
+  "place": "Kuélap, Amazonas, Peru",
+  "lat": -6.42,
+  "lng": -77.92,
+  "text": "Kuélap, the largest fortress city of the Chachapoya, sits at 9,500 feet behind a 65-foot wall of pale yellow stone. Only three funnel-like entrances led inside, where about 420 houses and ceremonial buildings held some 3,500 people. Friezes may show the eyes of a puma, a Chachapoya deity. Built over a thousand years ago, it fell under Inca rule in the 1470s.",
+  "source": {
+   "name": "Archaeology Magazine: Realm of the Cloud People",
+   "url": "https://archive.archaeology.org/0801/abstracts/chachapoya.html"
+  }
+ },
+ {
+  "id": "w09-muralla-la-cumbre",
+  "era": "medieval",
+  "year": 1100,
+  "dateLabel": "About 1100 CE",
+  "cat": "nature",
+  "title": "A Wall Against El Niño Floods",
+  "place": "Muralla La Cumbre, near Trujillo, La Libertad, Peru",
+  "lat": -7.98,
+  "lng": -79.02,
+  "text": "The Muralla La Cumbre is an earthen wall six miles long and eight feet tall, built across two dry riverbeds in northern Peru. It was long seen as a Chimú defence against the Inca. But its lowest layers date to around 1100 CE, just after a huge El Niño flood, and flood mud piles against its eastern side, suggesting it shielded fields and Chan Chan from water.",
+  "source": {
+   "name": "Archaeology Magazine: New Thoughts on Peru's Muralla La Cumbre",
+   "url": "https://archaeology.org/news/2019/05/14/230627-peru-chimu-flooding/"
+  }
+ },
+ {
+  "id": "w09-yaxchilan-border-walls",
+  "era": "medieval",
+  "year": 750,
+  "dateLabel": "About 750 CE",
+  "cat": "power",
+  "title": "Maya Walls in the Rain Forest",
+  "place": "Near Tecolote, Petén, Guatemala (Yaxchilan–Piedras Negras border)",
+  "lat": 17.04,
+  "lng": -90.98,
+  "text": "About 1,300 years ago the rival Maya kingdoms of Yaxchilan and Piedras Negras fortified their border. Archaeologists Charles Golden and Andrew Scherer, helped by local guides and rangers, traced stone walls three to six feet high across four miles of forest. Built between hills, they funnelled enemies into valleys watched from hilltop towers. The war ended in 808 when Yaxchilan captured Piedras Negras's last king.",
+  "source": {
+   "name": "Archaeology Magazine: Defending a Jungle Kingdom",
+   "url": "https://archive.archaeology.org/1109/features/maya_warfare_yaxchilan_piedras_negras.html"
+  }
+ },
+ {
+  "id": "w09-ruapekapeka-pa",
+  "era": "industrial",
+  "year": 1846,
+  "dateLabel": "1846",
+  "cat": "power",
+  "title": "The Bat's Nest Pā",
+  "place": "Ruapekapeka, near Kawakawa, Northland, New Zealand",
+  "lat": -35.48,
+  "lng": 174.08,
+  "text": "Te Ruki Kawiti built Ruapekapeka, the 'bat's nest', in Northland, naming it for its roofed underground chambers with narrow entrances. Massive palisades, trenches, tunnels and bunkers let it withstand British artillery for weeks. About 1,300 British troops and 400 Māori allies advanced in December 1845. After the bombardment the defenders slipped out and ambushed their pursuers. British commander Despard admitted the builders' skill.",
+  "source": {
+   "name": "Auckland Museum: Ruapekapeka and Ōhaeawai Pā",
+   "url": "https://www.aucklandmuseum.com/discover/collections/topics/pa"
+  }
+ },
+ {
+  "id": "w09-ohaeawai-pekerangi",
+  "era": "industrial",
+  "year": 1845,
+  "dateLabel": "1845",
+  "cat": "power",
+  "title": "A Flax Screen That Stopped an Army",
+  "place": "Ōhaeawai, Northland, New Zealand",
+  "lat": -35.35,
+  "lng": 173.88,
+  "text": "At Ōhaeawai in 1845, Pene Taui and Kawiti held a pā against Colonel Despard's 615 men and five cannon with no more than 100 fighters. An outer screen of posts and flax matting soaked up musket shot and hid an inner fence of hard puriri logs. When 250 British troops charged, defenders killed 40 and wounded 70. The flax screen has been compared to barbed wire.",
+  "source": {
+   "name": "Auckland Museum: Ruapekapeka and Ōhaeawai Pā",
+   "url": "https://www.aucklandmuseum.com/discover/collections/topics/pa"
+  }
+ }
+]

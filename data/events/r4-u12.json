@@ -1,0 +1,406 @@
+[
+ {
+  "id": "u12-yangling-tea-buds",
+  "era": "classical",
+  "year": -141,
+  "dateLabel": "About 141 BCE",
+  "cat": "daily",
+  "title": "Tea Buds in an Emperor's Tomb",
+  "place": "Han Yangling Mausoleum, Xi'an, Shaanxi, China",
+  "lat": 34.44,
+  "lng": 108.94,
+  "text": "Pit 15 beside the tomb of Han Emperor Jing, who died in 141 BCE, held a thick layer of millet, rice and other crops for the afterlife. Mixed in was a dark brown brick of tiny leaves. Plant crystals and chemical markers showed they were tea buds, the oldest physical tea yet found. Tea in a western Tibetan grave shows the drink had crossed the plateau by about 200 CE.",
+  "source": {
+   "name": "Scientific Reports: Earliest tea as evidence for one branch of the Silk Road across the Tibetan Plateau",
+   "url": "https://www.nature.com/articles/srep18955"
+  }
+ },
+ {
+  "id": "u12-tsinghua-times-table",
+  "era": "classical",
+  "year": -305,
+  "dateLabel": "About 305 BCE",
+  "cat": "daily",
+  "title": "A Times Table on Bamboo Strips",
+  "place": "Tsinghua University collection, Beijing, China",
+  "lat": 40,
+  "lng": 116.33,
+  "text": "Around 2008, Tsinghua University received nearly 2,500 muddy, mouldy bamboo strips, probably looted from a tomb and bought at a Hong Kong market. Twenty-one strips held only numbers. Put in order, they formed a grid for multiplying any whole or half number from 0.5 to 99.5, the oldest known decimal times table. Officials probably used this ancient calculator to work out land areas, harvests and taxes.",
+  "source": {
+   "name": "Nature News: Ancient times table hidden in Chinese bamboo strips",
+   "url": "https://www.nature.com/articles/nature.2014.14482"
+  }
+ },
+ {
+  "id": "u12-mehrgarh-flint-dentists",
+  "era": "ancient",
+  "year": -6000,
+  "dateLabel": "About 8,000 years ago",
+  "cat": "daily",
+  "title": "Stone Age Dentists With Flint Drills",
+  "place": "Mehrgarh, Kachi Plain, Balochistan, Pakistan",
+  "lat": 29.39,
+  "lng": 67.61,
+  "text": "In an early farming village's graveyard, researchers found eleven molars from nine adults with tiny holes drilled into them. Smoothed edges show the owners kept chewing afterwards, so they were alive when it happened. Some holes sat over decay. Flint drill heads turn up with the village's beads, and a reconstructed flint-tipped bow drill bored a similar hole in enamel in under a minute. The custom lasted about 1,500 years.",
+  "source": {
+   "name": "Nature: Early Neolithic tradition of dentistry",
+   "url": "https://www.nature.com/articles/440755a"
+  }
+ },
+ {
+  "id": "u12-jomon-fish-pots",
+  "era": "iceage",
+  "year": -13000,
+  "dateLabel": "About 15,000 years ago",
+  "cat": "daily",
+  "title": "Fish Suppers in the First Pots",
+  "place": "Torihama shell midden, Wakasa, Fukui, Japan",
+  "lat": 35.55,
+  "lng": 135.89,
+  "text": "Some of the world's oldest pottery was made by Japanese hunter-gatherers at the end of the Ice Age, long before farming. Scientists scraped tiny 20-milligram crusts of burnt food from 101 pots at 13 sites, including Torihama. The chemistry pointed to fish and other river or sea creatures. Pots were rare and small then, perhaps kept for special cooking rather than everyday meals.",
+  "source": {
+   "name": "Nature: Earliest evidence for the use of pottery",
+   "url": "https://www.nature.com/articles/nature12109"
+  }
+ },
+ {
+  "id": "u12-nong-ratchawat-betel",
+  "era": "ancient",
+  "year": -2050,
+  "dateLabel": "About 4,000 years ago",
+  "cat": "daily",
+  "title": "Betel Chewing Hidden in Tooth Plaque",
+  "place": "Nong Ratchawat, Suphan Buri, Thailand",
+  "lat": 14.65,
+  "lng": 99.85,
+  "text": "Millions of people in Asia and the Pacific still chew areca nut, the seed often called betel nut, for a mild buzz. At a Bronze Age cemetery in central Thailand, scientists tested 36 samples of hardened dental plaque from six burials. One woman's molar held arecoline and arecaidine, chemicals from the nut. Surprisingly, her teeth showed no red-black stains, the usual giveaway of a betel chewer.",
+  "source": {
+   "name": "Frontiers in Environmental Archaeology: Earliest direct evidence of Bronze Age betel nut use",
+   "url": "https://www.frontiersin.org/articles/10.3389/fearc.2025.1622935/full"
+  },
+  "source2": {
+   "name": "Archaeology Magazine: Dental Analysis Reveals Earliest Evidence of Chewing Psychoactive Betel Seeds",
+   "url": "https://archaeology.org/news/2025/08/05/dental-analysis-reveals-earliest-evidence-of-chewing-psychoactive-betel-seeds/"
+  }
+ },
+ {
+  "id": "u12-mijiaya-beer-kit",
+  "era": "ancient",
+  "year": -3200,
+  "dateLabel": "About 3200 BCE",
+  "cat": "daily",
+  "title": "A 5,000-Year-Old Beer Recipe",
+  "place": "Mijiaya, Xi'an, Shaanxi, China",
+  "lat": 34.28,
+  "lng": 109.03,
+  "text": "Two deep pits at a Yangshao farming village held a complete brewing kit: wide-mouthed pots, funnels, pointed jars and a pottery stove for keeping the mash warm. Yellow residue inside revealed the recipe. Broomcorn millet, Job's tears, tubers and barley were fermented together. That barley is about 1,000 years older than any other found in China, hinting that beer helped bring the grain east.",
+  "source": {
+   "name": "PNAS (via PMC): Revealing a 5,000-y-old beer recipe in China",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4988576/"
+  }
+ },
+ {
+  "id": "u12-xiaohe-kefir-cheese",
+  "era": "ancient",
+  "year": -1600,
+  "dateLabel": "About 1600 BCE",
+  "cat": "daily",
+  "title": "The World's Oldest Cheese",
+  "place": "Xiaohe Cemetery, Tarim Basin, Xinjiang, China",
+  "lat": 40.34,
+  "lng": 88.67,
+  "text": "Desert burials at Xiaohe preserved mummies with strange white lumps smeared on their heads and necks. Ancient DNA finally identified them as kefir cheese, made about 3,600 years ago with the same kinds of bacteria and yeast found in kefir grains today. People here kept cow and goat milk in separate batches. Their bacteria resemble Tibetan strains, challenging the idea that kefir began only in the Caucasus.",
+  "source": {
+   "name": "EurekAlert (Cell Press): World's oldest cheese reveals origins of kefir",
+   "url": "https://www.eurekalert.org/news-releases/1058618"
+  }
+ },
+ {
+  "id": "u12-jerusalem-toilet-worms",
+  "era": "ancient",
+  "year": -650,
+  "dateLabel": "About 650 BCE",
+  "cat": "daily",
+  "title": "A Rich Family's Wormy Toilet",
+  "place": "Armon Hanatziv Promenade, Jerusalem",
+  "lat": 31.76,
+  "lng": 35.23,
+  "text": "Toilets were rare luxuries in Jerusalem 2,700 years ago, so a stone toilet seat in the garden of a grand villa marked its owners as wealthy. Sediment from the cesspit below told a less glamorous story. It held eggs of intestinal worms that cause stomach pain, nausea and diarrhoea, possibly spread by human waste used as fertiliser or by undercooked meat. Being rich did not keep this family healthy.",
+  "source": {
+   "name": "Tel Aviv University: Health Revelations from Ancient Jerusalem",
+   "url": "https://english.tau.ac.il/news/ancient-jerusalem"
+  }
+ },
+ {
+  "id": "u12-lagash-tavern-fridge",
+  "era": "ancient",
+  "year": -2700,
+  "dateLabel": "About 2700 BCE",
+  "cat": "daily",
+  "title": "A Sumerian Pub With a Fridge",
+  "place": "Lagash (Al-Hiba), Dhi Qar, Iraq",
+  "lat": 31.41,
+  "lng": 46.4,
+  "text": "Just 19 inches under the surface of the Sumerian city of Lagash, archaeologists found a public eatery with an open-air dining area, benches, an oven, leftover food and a clay refrigerator. Digging layer by layer instead of straight down revealed it. The team argues that ordinary townspeople, a kind of ancient middle class, came here to eat outside their homes nearly 5,000 years ago.",
+  "source": {
+   "name": "Penn Museum: Penn Museum Researchers Uncover Ancient Tavern in Southern Iraq, Complete with 5,000-Year-Old Fridge",
+   "url": "https://penn.museum/about/press-room/press-releases/penn-museum-researchers-uncover-ancient-tavern-in-southern-iraq-complete-with-5-000-year-old-fridge"
+  }
+ },
+ {
+  "id": "u12-yanghai-trousers",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1000 BCE",
+  "cat": "daily",
+  "title": "Stretchy Wool Pants, 3,000 Years Old",
+  "place": "Yanghai cemetery, Turpan, Xinjiang, China",
+  "lat": 42.82,
+  "lng": 89.66,
+  "text": "A herder buried at Yanghai about 3,000 years ago wore some of the oldest trousers known. Researchers found the coarse wool was woven three different ways. Stretchy twill gave the wearer room to move, tapestry weaving reinforced patterned knee panels, and a third technique made a thick waistband. Zigzag stripes ran around the calves, mixing designs that wandering herders brought together in the Tarim Basin.",
+  "source": {
+   "name": "Archaeology Magazine: Turfan Man's Innovative Trousers Analyzed",
+   "url": "https://archaeology.org/news/2022/02/21/220222-tarim-basin-trousers/"
+  }
+ },
+ {
+  "id": "u12-silla-drinking-die",
+  "era": "medieval",
+  "year": 750,
+  "dateLabel": "About 750 CE",
+  "cat": "daily",
+  "title": "A 14-Sided Die for Drinking Games",
+  "place": "Wolji Pond, Gyeongju, South Korea",
+  "lat": 35.83,
+  "lng": 129.23,
+  "text": "Mud beside Wolji Pond, a royal pleasure garden of Unified Silla, gave up a wooden die with 14 faces: six rhombuses and eight hexagons. Each face carried a dare in Chinese characters, such as 'drink three glasses of liquor at once', 'sing and drink alone' or 'ask someone to sing'. Sadly the original was lost during conservation, so museum visitors now see a replica.",
+  "source": {
+   "name": "Gyeongju National Museum (Google Arts & Culture): Dice",
+   "url": "https://artsandculture.google.com/asset/dice-unknown/IAGd7rsnEZ9DVA"
+  }
+ },
+ {
+  "id": "u12-astana-tomb-dumplings",
+  "era": "medieval",
+  "year": 650,
+  "dateLabel": "About 650 CE",
+  "cat": "daily",
+  "title": "Dumplings Packed for the Afterlife",
+  "place": "Astana Cemeteries, Turpan, Xinjiang, China",
+  "lat": 42.86,
+  "lng": 89.53,
+  "text": "Turpan's bone-dry desert preserved real meals in graves dug between the 3rd and 9th centuries. Families left cakes in five different shapes, a lump of millet porridge and dumplings, plus little bags and jars of grain. Under the microscope, the dumplings turned out to be made of wheat with foxtail millet. One tomb even held a pillow stuffed with wheat and barley straw.",
+  "source": {
+   "name": "PLOS ONE (via PMC): Archaeobotanical Study of Ancient Food and Cereal Remains at the Astana Cemeteries, Xinjiang, China",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3447823/"
+  }
+ },
+ {
+  "id": "u12-dzhankent-winter-milk",
+  "era": "medieval",
+  "year": 900,
+  "dateLabel": "About 900 CE",
+  "cat": "daily",
+  "title": "Planning Lambs for Winter Milk",
+  "place": "Dzhankent, Syr Darya delta, Kyzylorda Region, Kazakhstan",
+  "lat": 45.12,
+  "lng": 62.12,
+  "text": "Dzhankent, a Silk Road town near the Aral Sea, faced freezing Siberian winds in winter and scorching dry summers. Isotopes in the teeth of 16 sheep show how townspeople coped. They fed flocks cut, dried grass in lean times, brought in animals from elsewhere and bred ewes across the year, not just in spring. That kept milk flowing for dried, salted cheese curds, much like the qurt Kazakhs eat today.",
+  "source": {
+   "name": "EurekAlert (University of Michigan): What sheep's teeth can tell us about life in a medieval Kazakhstan town",
+   "url": "https://www.eurekalert.org/news-releases/1138065"
+  }
+ },
+ {
+  "id": "u12-oc-eo-curry",
+  "era": "classical",
+  "year": 250,
+  "dateLabel": "About 250 CE",
+  "cat": "daily",
+  "title": "Southeast Asia's Oldest Curry",
+  "place": "Óc Eo, An Giang, Vietnam",
+  "lat": 10.24,
+  "lng": 105.15,
+  "text": "Cooks in the Funan kingdom ground spices on stone slabs. Scientists tested 40 grinding and pounding tools from Óc Eo and found microscopic starch from turmeric, ginger, galangal, clove, nutmeg and cinnamon on 12 of them. Some spices had crossed oceans to get there. The largest slab, 76 centimetres long, dates to around 207 to 326 CE. Vietnamese curry today still uses many of the same spices.",
+  "source": {
+   "name": "The Conversation: Researchers find evidence of a 2,000-year-old curry, the oldest ever found in Southeast Asia",
+   "url": "https://theconversation.com/researchers-find-evidence-of-a-2-000-year-old-curry-the-oldest-ever-found-in-southeast-asia-210192"
+  }
+ },
+ {
+  "id": "u12-fahien-cave-bananas",
+  "era": "ancient",
+  "year": -4000,
+  "dateLabel": "About 6,000 years ago",
+  "cat": "daily",
+  "title": "The First Farmed Bananas Reach Sri Lanka",
+  "place": "Fahien Cave (Pahiyangala), Kalutara, Sri Lanka",
+  "lat": 6.65,
+  "lng": 80.21,
+  "text": "For tens of thousands of years, people sheltering in Fahien Cave ate wild rainforest foods: breadfruit, durians, canarium nuts, palms, bamboo and seedy wild bananas. Then, in layers about 6,000 years old, tiny silica particles from cultivated bananas appear, and wild banana traces drop sharply. Domesticated bananas first show up in New Guinea, so they probably crossed the sea to Sri Lanka within about 800 years.",
+  "source": {
+   "name": "The Conversation: Prehistoric people started to spread domesticated bananas across the world 6,000 years ago",
+   "url": "https://theconversation.com/prehistoric-people-started-to-spread-domesticated-bananas-across-the-world-6-000-years-ago-99547"
+  }
+ },
+ {
+  "id": "u12-hama-baby-rattles",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 2500 BCE",
+  "cat": "daily",
+  "title": "Baby Rattles From the Pottery Market",
+  "place": "Hama, Hama Governorate, Syria",
+  "lat": 35.13,
+  "lng": 36.75,
+  "text": "Excavators at Hama found 19 small clay objects with pebbles or clay bits rattling inside. They were long filed as musical instruments, but their sound is too low and their handles too tiny for adult hands. They fit a small child's grip perfectly. The clay matches the town's professional pottery, so the rattles were likely mass-produced and sold at market beside cups and bowls 4,500 years ago.",
+  "source": {
+   "name": "Archaeology Magazine: Baby Rattles Were Mass-Produced in Bronze Age Syria",
+   "url": "https://archaeology.org/news/2025/05/27/baby-rattles-were-mass-produced-in-bronze-age-syria/"
+  }
+ },
+ {
+  "id": "u12-tel-eton-grandparents",
+  "era": "ancient",
+  "year": -720,
+  "dateLabel": "8th century BCE",
+  "cat": "daily",
+  "title": "Grandparents on the Ground Floor",
+  "place": "Tel 'Eton, Shephelah, Israel",
+  "lat": 31.47,
+  "lng": 34.93,
+  "text": "A two-storey house at Tel 'Eton burned during an Assyrian campaign in the 8th century BCE. Studying its rooms and objects, archaeologists concluded that three generations lived there. The senior couple apparently slept downstairs in the largest room, sparing them the ladders, with a view over the courtyard and every doorway. Burnt cedar may come from a special chair, and a footbath could have soothed aching feet.",
+  "source": {
+   "name": "Archaeology Magazine: Iron Age Dwelling in Israel Offers \"Archaeology of the Elderly\"",
+   "url": "https://archaeology.org/news/2026/02/20/iron-age-dwelling-in-israel-offers-archaeology-of-the-elderly/"
+  }
+ },
+ {
+  "id": "u12-nimrud-wax-tablets",
+  "era": "ancient",
+  "year": -612,
+  "dateLabel": "612 BCE",
+  "cat": "daily",
+  "title": "Wax Notebooks Thrown Down a Well",
+  "place": "Nimrud, Nineveh Governorate, Iraq",
+  "lat": 36.1,
+  "lng": 43.33,
+  "text": "Most Assyrian writing was pressed into clay, but some scribes used reusable boards of wood and wax. When Nimrud was sacked in 612 BCE, a set was tossed into a well, where the airless water preserved them. British Museum scientists found walnut wood coated with beeswax mixed with a quarter orpiment, a yellow mineral that firmed the wax. It also contains arsenic, which may have kept mould away.",
+  "source": {
+   "name": "Archaeology Magazine: Study Reveals Secrets of Neo-Assyrian Beeswax Writing Tablets",
+   "url": "https://archaeology.org/news/2025/04/14/study-reveals-secrets-of-neo-assyrian-beeswax-writing-tablets/"
+  }
+ },
+ {
+  "id": "u12-red-fort-storm-drain",
+  "era": "exploration",
+  "year": 1639,
+  "dateLabel": "1639",
+  "cat": "daily",
+  "title": "A Mughal Storm Drain Reopened",
+  "place": "Delhi Gate, Red Fort, Delhi, India",
+  "lat": 28.65,
+  "lng": 77.24,
+  "text": "Shah Jahan began his red sandstone fortress in Delhi in 1639, and its rainwater had to go somewhere. The Archaeological Survey of India uncovered a covered drain paved with stones and roofed by an arch of thin fired bricks, running from the fort's Delhi Gate to the moat. In 2020 workers began clearing its silt and strengthening it, so it could carry rainwater once again.",
+  "source": {
+   "name": "Archaeology Magazine: Seventeenth-Century Drain Discovered in Delhi",
+   "url": "https://archaeology.org/news/2020/01/06/200107-india-delhi-drain/"
+  }
+ },
+ {
+  "id": "u12-mantai-port-pantry",
+  "era": "medieval",
+  "year": 650,
+  "dateLabel": "About 650 CE",
+  "cat": "daily",
+  "title": "Pepper, Grapes and a Lone Clove",
+  "place": "Mantai, Mannar, Sri Lanka",
+  "lat": 8.97,
+  "lng": 79.94,
+  "text": "Soil from the old port of Mantai holds the crumbs of a global kitchen. Researchers found local rice, charred black pepper from around 600 to 700 CE, plus grape seeds and wheat that cannot grow in Sri Lanka's tropical climate and probably came from the Mediterranean world. One clove, dated around 900 to 1100, had travelled over 4,000 miles from Indonesia. Spices rarely survive in the ground.",
+  "source": {
+   "name": "Archaeology Magazine: Sri Lanka's Ancient Cosmopolitan Cuisine",
+   "url": "https://archaeology.org/news/2018/12/12/181212-sri-lanka-mantai/"
+  }
+ },
+ {
+  "id": "u12-banbhore-ivory-scraps",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "About 1200 CE",
+  "cat": "daily",
+  "title": "Ivory Carvers' Rubbish Heaps",
+  "place": "Banbhore, Thatta, Sindh, Pakistan",
+  "lat": 24.75,
+  "lng": 67.52,
+  "text": "Beside 800-year-old workshops in the port of Banbhore, archaeologists found dumps holding nearly 90 pounds of elephant ivory scraps. Islamic-era craftsmen probably carved rings and chess pieces from ivory brought in from India, for sale abroad. In return, the town imported glassware from the Near East, pottery from India, Iran and Iraq, and Chinese porcelain. Only a small part of the industrial quarter has been dug.",
+  "source": {
+   "name": "Archaeology Magazine: Islamic-Era Ivory Workshops Found in Pakistan",
+   "url": "https://archaeology.org/news/2020/03/05/200306-pakistan-ivory-workshops/"
+  }
+ },
+ {
+  "id": "u12-sagkina-water-jug",
+  "era": "classical",
+  "year": 200,
+  "dateLabel": "1st to 3rd century CE",
+  "cat": "daily",
+  "title": "This Jug Belongs to Sagkina",
+  "place": "Khalkajar, near Sarband, Khatlon, Tajikistan",
+  "lat": 37.86,
+  "lng": 68.92,
+  "text": "At Khalkajar, archaeologists from the National Museum of Tajikistan found a two-handled pottery jug from the Kushan Empire. A faint painted line in the Bactrian language reads: 'This water jug belongs to the woman Sagkina.' It is a rare glimpse of an ordinary household and a woman's name. Labelling everyday belongings suggests that reading and writing were fairly common in the region.",
+  "source": {
+   "name": "Archaeology Magazine: Unique Ancient Vessel Labeled with Woman's Name Unearthed in Tajikistan",
+   "url": "https://archaeology.org/news/2025/07/03/unique-ancient-vessel-labeled-with-womans-name-unearthed-in-tajikistan/"
+  }
+ },
+ {
+  "id": "u12-dong-xa-black-teeth",
+  "era": "classical",
+  "year": 0,
+  "dateLabel": "About 2,000 years ago",
+  "cat": "daily",
+  "title": "Black Teeth as a Beauty Mark",
+  "place": "Dong Xa, Hung Yen, Vietnam",
+  "lat": 20.75,
+  "lng": 106.03,
+  "text": "In Vietnam, glossy black teeth were long a sign of beauty. To learn how old the custom is, scientists examined stained teeth from burials at Dong Xa, a late Dong Son site. Iron and sulfur in the enamel point to iron salts heated with tannin-rich plant extracts, making a black paste applied over several weeks. It was deliberate cosmetics, not betel stains, at least 2,000 years ago.",
+  "source": {
+   "name": "Archaeology Magazine: Cosmetic Tooth Blackening Dates Back 2,000 Years in Vietnam",
+   "url": "https://archaeology.org/news/2026/02/13/cosmetic-tooth-blackening-dates-back-2000-years-in-vietnam/"
+  }
+ },
+ {
+  "id": "u12-tabon-fiber-tools",
+  "era": "early",
+  "year": -34000,
+  "dateLabel": "33,000 to 39,000 years ago",
+  "cat": "daily",
+  "title": "Stripping Bamboo for String",
+  "place": "Tabon Cave, Quezon, Palawan, Philippines",
+  "lat": 9.27,
+  "lng": 117.97,
+  "text": "Plants rot, so early weaving is hard to spot. At Tabon Cave, researchers compared tiny wear marks on three stone tools, 33,000 to 39,000 years old, with marks on tools that people use today to strip bamboo and palm into fibres. They matched. That means the cave's residents could make cords for tying and weaving, enough for baskets, traps, ropes for houses and boats, and bowstrings.",
+  "source": {
+   "name": "Archaeology Magazine: Study Pushes Back Processing of Plant Fibers in Southeast Asia",
+   "url": "https://archaeology.org/news/2023/07/02/230630-philippines-plant-fiber/"
+  }
+ },
+ {
+  "id": "u12-singapore-hawker-culture",
+  "era": "modern",
+  "year": 2020,
+  "dateLabel": "2020",
+  "cat": "daily",
+  "title": "Singapore's Community Dining Rooms",
+  "place": "Hawker centres, Singapore",
+  "lat": 1.29,
+  "lng": 103.85,
+  "text": "In 2020 UNESCO added Singapore's hawker culture to its list of the world's intangible heritage. Hawker centres grew out of street food and now act as community dining rooms, where people of every background meet over breakfast, lunch and dinner, and even play chess or busk. Hawkers blend Chinese, Malay, Indian and other traditions. Some of the oldest began in the 1960s, often perfecting a single dish for decades.",
+  "source": {
+   "name": "UNESCO Intangible Cultural Heritage: Hawker culture in Singapore",
+   "url": "https://ich.unesco.org/en/RL/hawker-culture-in-singapore-community-dining-and-culinary-practices-in-a-multicultural-urban-context-01568"
+  }
+ }
+]

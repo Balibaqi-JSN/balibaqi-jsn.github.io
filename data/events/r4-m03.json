@@ -1,0 +1,338 @@
+[
+ {
+  "id": "m03-tilemsi-pearl-millet",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 2500 BCE",
+  "cat": "discovery",
+  "title": "Millet Pressed Into Pots",
+  "place": "Lower Tilemsi Valley, Gao Region, Mali",
+  "lat": 17.2,
+  "lng": 0.25,
+  "text": "Potters in northern Mali mixed plant chaff into their clay, and the imprints survived. Archaeologists studying these sherds found spikelets of domesticated pearl millet in pots from the third millennium BC. In the Lower Tilemsi Valley, people combined herding and millet farming with fishing, hunting and collecting from about 2500 BC, the oldest evidence of this way of life.",
+  "source": {
+   "name": "African Archaeological Review (via PMC): Transition From Wild to Domesticated Pearl Millet Revealed in Ceramic Temper at Three Middle Holocene Sites in Northern Mali",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8550313/"
+  }
+ },
+ {
+  "id": "m03-dhar-tichitt-stone-villages",
+  "era": "ancient",
+  "year": -2200,
+  "dateLabel": "About 2200 BCE",
+  "cat": "daily",
+  "title": "Stone Villages on the Tichitt Cliffs",
+  "place": "Dhar Tichitt, Tagant, Mauritania",
+  "lat": 18.45,
+  "lng": -9.5,
+  "text": "Around 2200 BC, herders moving away from the drying Sahara settled on the sandstone cliffs of Dhar Tichitt. They grew bulrush millet and built villages of dry stone walls, more than a thousand of them across the region. The Tichitt culture lasted until an intense dry spell in the middle of the first millennium BC led people to abandon the area.",
+  "source": {
+   "name": "Comptes Rendus Géoscience (A. Holl): Coping with uncertainty, Neolithic life in the Dhar Tichitt-Walata, Mauritania",
+   "url": "https://comptes-rendus.academie-sciences.fr/geoscience/articles/en/10.1016/j.crte.2009.04.005/"
+  },
+  "source2": {
+   "name": "African Archaeological Review: The Tichitt Culture and the Malian Lakes Region",
+   "url": "https://link.springer.com/article/10.1007/s10437-023-09554-5"
+  }
+ },
+ {
+  "id": "m03-zilum-fortified-town",
+  "era": "ancient",
+  "year": -600,
+  "dateLabel": "About 600–400 BCE",
+  "cat": "daily",
+  "title": "A Walled Town by Lake Chad",
+  "place": "Zilum, Borno State, Nigeria",
+  "lat": 12.5,
+  "lng": 13.3,
+  "text": "Near Lake Chad, the farming town of Zilum was ringed by a ditch and probably an earthen rampart, among the oldest signs of community defence south of the Sahara. Between about 1,750 and 2,500 people lived there, growing pearl millet and cowpeas and raising cattle, sheep and goats. Archaeologists found no sign that they used metal tools at all.",
+  "source": {
+   "name": "Cambridge University Press (C. Magnavita): First Millennia BC/AD Fortified Settlements at Lake Chad",
+   "url": "https://www.cambridge.org/core/books/urbanisation-and-state-formation-in-the-ancient-sahara-and-beyond/first-millennia-bcad-fortified-settlements-at-lake-chad/7CE6CFFAB6A726A6ADC2B193AD123E89"
+  }
+ },
+ {
+  "id": "m03-senegambian-stone-circles",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "From the 3rd century BCE",
+  "cat": "culture",
+  "title": "A Thousand Stone Circles",
+  "place": "Sine Ngayène, Kaolack Region, Senegal",
+  "lat": 13.68,
+  "lng": -15.53,
+  "text": "Along the River Gambia stand more than 1,000 stone circles, with burials dated from the 3rd century BC onward. Builders cut laterite pillars with iron tools, some weighing up to 7 tons. Sine Ngayène in Senegal is the largest site, with 52 circles and 1,102 carved stones, and the quarry where they were cut lies about a kilometre away.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Stone Circles of Senegambia",
+   "url": "https://whc.unesco.org/en/list/1226/"
+  }
+ },
+ {
+  "id": "m03-zubo-lake-chad-town",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "1st–3rd century CE",
+  "cat": "daily",
+  "title": "Zubo's Great Ditch",
+  "place": "Zubo, near Lake Chad, Borno State, Nigeria",
+  "lat": 12.45,
+  "lng": 13.55,
+  "text": "Between the first and third centuries AD, the town of Zubo near Lake Chad was enclosed by a ditch about 2,600 metres long, wrapped around some 46 hectares. One test trench found it 4.5 metres wide and about 2.3 metres deep. Scatters of iron slag show smiths worked here, and farmers in this period added sorghum to their millet and cowpeas.",
+  "source": {
+   "name": "Cambridge University Press (C. Magnavita): First Millennia BC/AD Fortified Settlements at Lake Chad",
+   "url": "https://www.cambridge.org/core/books/urbanisation-and-state-formation-in-the-ancient-sahara-and-beyond/first-millennia-bcad-fortified-settlements-at-lake-chad/7CE6CFFAB6A726A6ADC2B193AD123E89"
+  }
+ },
+ {
+  "id": "m03-camels-and-ghana-gold",
+  "era": "classical",
+  "year": 450,
+  "dateLabel": "5th century CE",
+  "cat": "journeys",
+  "title": "Camels Open the Gold Road",
+  "place": "Soninke heartland, Hodh, Mauritania",
+  "lat": 16.3,
+  "lng": -9.5,
+  "text": "Around the fifth century, camels let Berber-speaking people begin crossing the Sahara. The Soninke kingdom of ancient Ghana grew up between the desert, the main source of salt, and the gold fields of the upper Sénégal River. Its rise seems tied to the start of the trans-Saharan gold trade, and the Soninke kept the location of their gold mines secret from Muslim traders.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: The Trans-Saharan Gold Trade (7th–14th Century)",
+   "url": "https://www.metmuseum.org/essays/the-trans-saharan-gold-trade-7th-14th-century"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Western Sudan, 500–1000 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/06/afu.html"
+  }
+ },
+ {
+  "id": "m03-loropeni-gold-fortress",
+  "era": "medieval",
+  "year": 1001,
+  "dateLabel": "By the 11th century",
+  "cat": "daily",
+  "title": "The Walled Ruins of Loropéni",
+  "place": "Loropéni, Poni Province, Burkina Faso",
+  "lat": 10.25,
+  "lng": -3.58,
+  "text": "Laterite walls up to six metres tall surround an abandoned town near Burkina Faso's borders with Côte d'Ivoire, Ghana and Togo. Radiocarbon dates show Loropéni goes back at least to the 11th century. Its Lohron or Koulango people controlled the mining and working of gold, and the site flourished from the 14th to the 17th century before being deserted.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Ruins of Loropéni",
+   "url": "https://whc.unesco.org/en/list/1225/"
+  }
+ },
+ {
+  "id": "m03-kumbi-saleh-besieged",
+  "era": "medieval",
+  "year": 1076,
+  "dateLabel": "About 1076",
+  "cat": "power",
+  "title": "Kumbi Saleh Under Siege",
+  "place": "Kumbi Saleh, Hodh Ech Chargui, Mauritania",
+  "lat": 15.76,
+  "lng": -8.0,
+  "text": "Kumbi Saleh, a trading and political centre of the Ghana empire, was described in the 11th century as two towns, one of them Muslim with many mosques. Around 1076 it was besieged by the Almoravids, Berber warriors whose raids aimed to seize the trans-Saharan gold trade. Their attacks drained Ghana's strength and helped bring the old empire's decline.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Western and Central Sudan, 1000–1400 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/07/afu.html"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Western Sudan, 500–1000 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/06/afu.html"
+  }
+ },
+ {
+  "id": "m03-akan-gold-weights",
+  "era": "medieval",
+  "year": 1471,
+  "dateLabel": "1471",
+  "cat": "daily",
+  "title": "Brass Weights for Gold Dust",
+  "place": "Gold Coast, Central Region, Ghana",
+  "lat": 5.08,
+  "lng": -1.35,
+  "text": "Muslim Dyula traders from the north brought cloth and metal wares to the Akan peoples of present-day Ghana, exchanging them for kola nuts and gold dust. To measure the gold, the Akan developed brass weights, some later shaped like everyday objects or figures from proverbs. When the Portuguese arrived in 1471, they joined this trade, offering firearms for gold dust and enslaved people.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Guinea Coast, 1400–1600 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/08/afg.html"
+  }
+ },
+ {
+  "id": "m03-tomb-of-askia",
+  "era": "exploration",
+  "year": 1495,
+  "dateLabel": "1495",
+  "cat": "culture",
+  "title": "A Mud Pyramid for Askia",
+  "place": "Gao, Mali",
+  "lat": 16.29,
+  "lng": -0.04,
+  "text": "In 1495, back from Mecca, the Songhai emperor Askia Mohamed built a 17-metre pyramid of mud in his capital, Gao, and made Islam the empire's official religion. The tomb doubles as a minaret, with pieces of wood built in as permanent scaffolding. Its plaster must be renewed regularly after the rare but violent rains wear it away.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Tomb of Askia",
+   "url": "https://whc.unesco.org/en/list/1139/"
+  }
+ },
+ {
+  "id": "m03-queen-mother-idia",
+  "era": "exploration",
+  "year": 1504,
+  "dateLabel": "1504–1550 (Esigie's reign)",
+  "cat": "power",
+  "title": "Idia, Benin's First Queen Mother",
+  "place": "Benin City, Edo State, Nigeria",
+  "lat": 6.34,
+  "lng": 5.62,
+  "text": "Oba Esigie, who ruled Benin from 1504 to 1550, won a power struggle with his brother Arhuaran for the throne, then defeated the Ata of Idah, ruler of Igala. In both fights he was helped by the political strategy and spiritual power of his mother, Idia. To thank her, he created the court title of Queen Mother, or Iyoba, giving her authority equal to senior town chiefs.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Guinea Coast, 1400–1600 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/08/afg.html"
+  }
+ },
+ {
+  "id": "m03-baga-move-to-coast",
+  "era": "exploration",
+  "year": 1720,
+  "dateLabel": "1720–1730",
+  "cat": "journeys",
+  "title": "The Baga Head for the Coast",
+  "place": "Coastal Guinea, Boké Region, Guinea",
+  "lat": 10.6,
+  "lng": -14.6,
+  "text": "Between 1720 and 1730, an Islamic revolution led by the Fulbe in the Futa Jallon highlands of central Guinea pushed several peoples toward the sea. The best known are the Baga, who settled on the coast of present-day Guinea. They carried with them artistic ideas from the Mande world, which found new life in their carved wooden sculpture.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Guinea Coast, 1600–1800 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/09/afg.html"
+  }
+ },
+ {
+  "id": "m03-six-gun-battery",
+  "era": "industrial",
+  "year": 1816,
+  "dateLabel": "1816",
+  "cat": "power",
+  "title": "Cannons Against the Slave Trade",
+  "place": "Banjul, The Gambia",
+  "lat": 13.45,
+  "lng": -16.58,
+  "text": "Most forts on the River Gambia were built to control trade, including the trade in enslaved people. The Six-Gun Battery of 1816, and Fort Bullen of 1826 across the river mouth, were different. Built after Britain's 1807 Abolition Act, they are the only known defences in the region built specifically to stop the slave trade.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Kunta Kinteh Island and Related Sites",
+   "url": "https://whc.unesco.org/en/list/761/"
+  }
+ },
+ {
+  "id": "m03-tetteh-quarshie-cocoa",
+  "era": "industrial",
+  "year": 1879,
+  "dateLabel": "1879",
+  "cat": "daily",
+  "title": "A Blacksmith Brings Home Cocoa",
+  "place": "Akwapim Mampong, Eastern Region, Ghana",
+  "lat": 5.92,
+  "lng": -0.13,
+  "text": "Missionaries had planted cocoa on the Gold Coast decades earlier, but it was Tetteh Quarshie who got it growing widely. A native of Osu in Accra, he had worked as a blacksmith on Fernando Po. In 1879 he returned with cocoa pods and set up a farm at Akwapim Mampong. Farmers bought pods from him, and cocoa spread across the Eastern Region.",
+  "source": {
+   "name": "Ghana Cocoa Board (COCOBOD): Cocoa Story",
+   "url": "https://cocobod.gh/cocoa-story"
+  }
+ },
+ {
+  "id": "m03-njoya-bamum-script",
+  "era": "industrial",
+  "year": 1895,
+  "dateLabel": "About 1895",
+  "cat": "culture",
+  "title": "A King Invents a Script",
+  "place": "Foumban, West Region, Cameroon",
+  "lat": 5.73,
+  "lng": 10.9,
+  "text": "Around 1895 Njoya, king of the Bamum in Cameroon's grasslands, invented a writing system of 510 picture signs. He revised it six times, ending with a syllabary of 83 characters and 10 numerals. His scribes wrote a history of the Bamum and a book on medicine, and in 1912 he opened the first of 47 schools teaching his script.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Bamum",
+   "url": "https://www.britannica.com/topic/Bamum"
+  }
+ },
+ {
+  "id": "m03-djenne-great-mosque",
+  "era": "industrial",
+  "year": 1907,
+  "dateLabel": "1906–1907",
+  "cat": "culture",
+  "title": "Djenné Rebuilds Its Great Mosque",
+  "place": "Djenné, Mopti Region, Mali",
+  "lat": 13.91,
+  "lng": -4.56,
+  "text": "Djenné's first Great Mosque is said to have been dedicated by Koi Konboro, the town's first king to convert to Islam. It was rebuilt more than once, and the remarkable earthen mosque standing today went up in 1906–1907. Around it, nearly 2,000 traditional houses survive, raised on mounds to stay above the seasonal floods.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Western and Central Sudan, 1000–1400 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/07/afu.html"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Old Towns of Djenné",
+   "url": "https://whc.unesco.org/en/list/116/"
+  }
+ },
+ {
+  "id": "m03-vridi-canal-abidjan",
+  "era": "modern",
+  "year": 1950,
+  "dateLabel": "1950",
+  "cat": "journeys",
+  "title": "A Canal Opens Abidjan to the Sea",
+  "place": "Abidjan, Côte d'Ivoire",
+  "lat": 5.26,
+  "lng": -4.0,
+  "text": "Abidjan sits on the Ébrié Lagoon, cut off from the ocean by a sandbar, so at first it relied on the small port at Port-Bouët. In 1950 the Vridi Canal opened the lagoon to the sea. The city soon became the main shipping and financial centre of French-speaking West Africa, exporting coffee, cocoa, timber, bananas and more.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Abidjan",
+   "url": "https://www.britannica.com/place/Abidjan"
+  }
+ },
+ {
+  "id": "m03-sankara-burkina-faso",
+  "era": "modern",
+  "year": 1984,
+  "dateLabel": "1984",
+  "cat": "power",
+  "title": "The Land of Upright People",
+  "place": "Ouagadougou, Burkina Faso",
+  "lat": 12.37,
+  "lng": -1.52,
+  "text": "Thomas Sankara took power in Upper Volta in 1983, promising to fight corruption, empower women and expand schooling and health care. In his first year 10 million trees were planted against desertification. On the coup's first anniversary he renamed the country Burkina Faso, roughly \"land of upright people\" in Mossi and Dyula, its two most widely spoken languages.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Carina Ray): Thomas Sankara",
+   "url": "https://www.britannica.com/biography/Thomas-Sankara"
+  }
+ },
+ {
+  "id": "m03-benin-multiparty-election",
+  "era": "modern",
+  "year": 1991,
+  "dateLabel": "1991",
+  "cat": "power",
+  "title": "Benin Votes Out Its Ruler",
+  "place": "Porto-Novo, Benin",
+  "lat": 6.5,
+  "lng": 2.6,
+  "text": "Mathieu Kérékou seized power in Benin in 1972 and later followed a Marxist-Leninist path. In 1989 he dropped that ideology, and a new constitution came in 1990. At the first multiparty elections in 1991, Kérékou was defeated by Nicéphore Soglo, a former cabinet member. Kérékou came back by beating Soglo at the ballot box in 1996.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Robin Law and others): History of Benin",
+   "url": "https://www.britannica.com/place/Benin/History"
+  }
+ },
+ {
+  "id": "m03-ennedi-world-heritage",
+  "era": "modern",
+  "year": 2016,
+  "dateLabel": "2016",
+  "cat": "nature",
+  "title": "Ennedi's Arches and Ancient Art",
+  "place": "Ennedi Massif, Ennedi Ouest, Chad",
+  "lat": 17.04,
+  "lng": 21.86,
+  "text": "In 2016 UNESCO added Chad's Ennedi Massif to the World Heritage List. Water and wind have carved this sandstone plateau into canyons, cliffs, natural arches and rock pillars. Permanent water in its largest canyons supports plants, animals and people, and thousands of paintings and carvings on its rocks form one of the largest collections of rock art in the Sahara.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Ennedi Massif, Natural and Cultural Landscape",
+   "url": "https://whc.unesco.org/en/list/1475/"
+  }
+ }
+]

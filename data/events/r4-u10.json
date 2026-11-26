@@ -1,0 +1,398 @@
+[
+ {
+  "id": "u10-great-auk-eldey",
+  "era": "industrial",
+  "year": 1844,
+  "dateLabel": "1844",
+  "cat": "nature",
+  "title": "The Last Great Auks on Eldey",
+  "place": "Eldey, off the Reykjanes Peninsula, Iceland",
+  "lat": 63.74,
+  "lng": -22.96,
+  "text": "In June 1844 a dealer named Carl Siemsen sent fourteen men to Eldey, a rocky islet off Iceland, to hunt great auks for collectors. Three landed and found a pair of these flightless, penguin-like seabirds. The birds ran without an alarm call and were caught and killed; their egg was broken and thrown away. Their preserved organs survive in Copenhagen. No later great auk was ever reliably documented.",
+  "source": {
+   "name": "The Conversation: How we're using ancient DNA to solve the mystery of the missing last great auk skins",
+   "url": "https://theconversation.com/how-were-using-ancient-dna-to-solve-the-mystery-of-the-missing-last-great-auk-skins-80650"
+  },
+  "source2": {
+   "name": "Cincinnati Museum Center: Is this the last Great Auk?",
+   "url": "https://www.cincymuseum.org/2020/05/06/is-this-the-last-great-auk/"
+  }
+ },
+ {
+  "id": "u10-martha-last-passenger-pigeon",
+  "era": "modern",
+  "year": 1914,
+  "dateLabel": "1914",
+  "cat": "nature",
+  "title": "Martha, the Very Last Passenger Pigeon",
+  "place": "Cincinnati Zoo, Cincinnati, Ohio, USA",
+  "lat": 39.15,
+  "lng": -84.51,
+  "text": "When Europeans arrived, North America held roughly 3 to 5 billion passenger pigeons, and one flock seen in Ontario in 1860 stretched about 480 kilometres. Forest clearing and heavy hunting for cheap meat emptied the skies. By 1910 a single bird remained: Martha, at the Cincinnati Zoo. She died on 1 September 1914, ending her species. Her body was frozen in ice and sent by train to Washington.",
+  "source": {
+   "name": "National Geographic Education: Remembering Martha, the Last Passenger Pigeon",
+   "url": "https://blog.education.nationalgeographic.org/2014/09/11/remembering-martha-washington-the-last-passenger-pigeon/"
+  }
+ },
+ {
+  "id": "u10-hiroshima-survivor-ginkgos",
+  "era": "modern",
+  "year": 1945,
+  "dateLabel": "1945",
+  "cat": "nature",
+  "title": "The Ginkgos That Outlived the Bomb",
+  "place": "Hiroshima, Japan",
+  "lat": 34.39,
+  "lng": 132.45,
+  "text": "On 6 August 1945 the atomic bomb burned the leaves off Hiroshima's ginkgo trees, stripped their branches and scorched their bark. Yet inside, many trees lived. Less than a year later, mayor Shinzo Hamai wrote that spring had pushed a green shoot through the A-bomb desert. Seeds from these hibakujumoku, or survivor trees, have since gone to 88 cities outside Japan, including Oxford.",
+  "source": {
+   "name": "Oxford Botanic Garden and Arboretum: Seeds from Hiroshima atomic bomb 'survivor trees' planted at Oxford Botanic Garden",
+   "url": "https://www.obga.ox.ac.uk/article/seeds-from-hiroshima-atomic-bomb-survivor-trees-planted-at-oxford-botanic-garden"
+  }
+ },
+ {
+  "id": "u10-ledger-cinchona-seeds",
+  "era": "industrial",
+  "year": 1865,
+  "dateLabel": "The 1860s",
+  "cat": "nature",
+  "title": "The Seeds That Cured the World's Fevers",
+  "place": "Yungas, La Paz Department, Bolivia",
+  "lat": -16.2,
+  "lng": -67.7,
+  "text": "In the 1860s, English trader Charles Ledger and his Bolivian servant Manuel Icamanahí spent four years in the Yungas gathering seeds of the cinchona tree, source of quinine against malaria. On one trip Icamanahí was arrested, imprisoned and beaten to death. Kew Gardens rejected the seeds sent to London, but Dutch growers planted them in Java, which supplied 85 to 90 percent of the world's quinine before World War I.",
+  "source": {
+   "name": "Toxins (PMC): The Fever Tree: from Malaria to Neurological Diseases",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6316520/"
+  }
+ },
+ {
+  "id": "u10-wickham-rubber-boim",
+  "era": "industrial",
+  "year": 1876,
+  "dateLabel": "1876",
+  "cat": "nature",
+  "title": "A Sack of Seeds Leaves the Amazon",
+  "place": "Boim, Tapajós River, Pará, Brazil",
+  "lat": -2.82,
+  "lng": -55.17,
+  "text": "Rubber trees grow wild in the Amazon, and for generations their latex was simply tapped from forest trees. Then Henry Wickham collected rubber seeds at Boim, a Brazilian Amazon village, and sent them to Kew Gardens in England, beginning the tree's domestication in 1876. Genetic studies show most rubber-tree varieties grown worldwide still descend from Wickham's collection, and this one species supplies over 98 percent of natural rubber.",
+  "source": {
+   "name": "Nature Communications (PMC): Genomic insight into domestication of rubber tree",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10397287/"
+  }
+ },
+ {
+  "id": "u10-coelacanth-east-london",
+  "era": "modern",
+  "year": 1938,
+  "dateLabel": "1938",
+  "cat": "nature",
+  "title": "A Fish Back From the Dinosaur Age",
+  "place": "East London, Eastern Cape, South Africa",
+  "lat": -33.02,
+  "lng": 27.91,
+  "text": "In 1938 Marjorie Courtenay-Latimer, curator of a small museum in East London, South Africa, checked a local trawler's catch and spotted a large, peculiar fish: over a metre long, bluish, with fleshy fins like stubby legs. Its lineage was thought to have vanished about 70 million years ago. The coelacanth was named Latimeria chalumnae after her, and a second species turned up in Indonesia in 1997.",
+  "source": {
+   "name": "Nature (PMC): The African coelacanth genome provides insights into tetrapod evolution",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3633110/"
+  }
+ },
+ {
+  "id": "u10-su-lin-panda-cub",
+  "era": "modern",
+  "year": 1936,
+  "dateLabel": "1936",
+  "cat": "nature",
+  "title": "Su-Lin Sparks Panda-monium",
+  "place": "Mountains of western Sichuan, China",
+  "lat": 31,
+  "lng": 103.4,
+  "text": "In November 1936 Ruth Harkness, a New York dressmaker and writer who had taken over her late husband's expedition, led a team of Chinese workers deep into the mountains of Sichuan and came out with a giant panda cub, Su-Lin. The press frenzy became known as panda-monium. By July 1937 more than 320,000 visitors had come to Chicago's Brookfield Zoo to see her.",
+  "source": {
+   "name": "PMC: Characteristics that make trophy hunting of giant pandas inconceivable",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7522670/"
+  }
+ },
+ {
+  "id": "u10-balls-pyramid-stick-insect",
+  "era": "modern",
+  "year": 2001,
+  "dateLabel": "2001",
+  "cat": "nature",
+  "title": "The Land Lobster Comes Back From Extinction",
+  "place": "Ball's Pyramid, near Lord Howe Island, New South Wales, Australia",
+  "lat": -31.75,
+  "lng": 159.25,
+  "text": "Lord Howe Island's giant stick insect, nicknamed the land lobster, grew over 15 centimetres long. After a ship ran aground nearby in 1918, black rats got ashore, and within about 30 years the insect was thought extinct. Then in 2001 researchers returned to Ball's Pyramid, a steep, nearly inaccessible rock 23 kilometres away, and found living adults feeding on a single tea-tree species. Melbourne Zoo now breeds them.",
+  "source": {
+   "name": "The Conversation: Australian endangered species: Lord Howe Island stick insect",
+   "url": "https://theconversation.com/australian-endangered-species-lord-howe-island-stick-insect-11789"
+  }
+ },
+ {
+  "id": "u10-crested-ibis-yangxian",
+  "era": "modern",
+  "year": 1981,
+  "dateLabel": "1981",
+  "cat": "nature",
+  "title": "Seven Ibises Save a Species",
+  "place": "Yangxian County, Hanzhong, Shaanxi, China",
+  "lat": 33.22,
+  "lng": 107.55,
+  "text": "The crested ibis once flocked widely across East Asia, but hunting, habitat loss and farm chemicals cut it down through the 1800s and 1900s. In 1981 Japan captured its last five wild birds for breeding, and the species seemed finished in the wild. That same year searchers found two breeding pairs and three chicks in Yangxian County, Shaanxi. From those few, nearly 2,500 birds now live in three countries.",
+  "source": {
+   "name": "PMC: Genome Resequencing Reveals Congenital Causes of Embryo and Nestling Death in Crested Ibis (Nipponia nippon)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6685491/"
+  }
+ },
+ {
+  "id": "u10-arabian-oryx-returns",
+  "era": "modern",
+  "year": 1982,
+  "dateLabel": "1982",
+  "cat": "nature",
+  "title": "The Oryx Returns to the Desert",
+  "place": "Jiddat al-Harasis, Al Wusta, Oman",
+  "lat": 20.2,
+  "lng": 56.6,
+  "text": "By 1972 hunters had wiped the Arabian oryx out of the wild; it survived only in zoos. In 1982 Oman released a free-ranging herd of zoo-born oryx into the Jiddat al-Harasis, a stony desert with no springs. This small white antelope copes by reflecting sunlight and eating dew-moistened sprouts. The herd grew, though in 2007 the sanctuary lost World Heritage status after being cut by 90 percent for oil prospecting.",
+  "source": {
+   "name": "PMC: Wild fauna in Oman: Current situation and perspectives, with particular interest to turtles and ungulates",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11910281/"
+  }
+ },
+ {
+  "id": "u10-low-isles-reef-expedition",
+  "era": "modern",
+  "year": 1928,
+  "dateLabel": "1928",
+  "cat": "nature",
+  "title": "Scientists Move Onto the Great Barrier Reef",
+  "place": "Low Isles, Great Barrier Reef, Queensland, Australia",
+  "lat": -16.38,
+  "lng": 145.57,
+  "text": "In 1928 a Royal Society expedition led by Maurice Yonge made its headquarters on Low Isles, a small reef island about 65 kilometres north of Cairns, to study how living coral reefs work. That September the Royal Australian Air Force took the first aerial photographs of the reef, and surveyors used them to map the island, a careful job of triangulation that took eight months.",
+  "source": {
+   "name": "PMC: Ninety years of change on a low wooded island, Great Barrier Reef",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6599766/"
+  }
+ },
+ {
+  "id": "u10-babylon-eclipse-136bce",
+  "era": "classical",
+  "year": -136,
+  "dateLabel": "136 BCE",
+  "cat": "nature",
+  "title": "Babylon's Clockwork Eclipse Watchers",
+  "place": "Babylon, Babil, Iraq",
+  "lat": 32.54,
+  "lng": 44.42,
+  "text": "For centuries Babylonian astronomers logged eclipses on clay tablets, timing each phase with a clock, probably a water clock, counted from sunrise or sunset. Their record of a total eclipse of the Sun in 136 BCE is so clearly dated that modern scientists use it to measure Earth's spin. Comparing such ancient timings with today shows the day has lengthened by about 1.8 milliseconds per century.",
+  "source": {
+   "name": "Proceedings of the Royal Society A (PMC): Measurement of the Earth's rotation: 720 BC to AD 2015",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5247521/"
+  }
+ },
+ {
+  "id": "u10-garcia-orta-goa-colloquies",
+  "era": "exploration",
+  "year": 1563,
+  "dateLabel": "1563",
+  "cat": "nature",
+  "title": "A Doctor's Garden of Indian Drugs",
+  "place": "Old Goa, Goa, India",
+  "lat": 15.5,
+  "lng": 73.91,
+  "text": "Portuguese physician Garcia da Orta reached Goa in 1534 and kept a house with a garden full of medicinal herbs. After decades of study he printed his Colloquies at Goa on 10 April 1563: lively dialogues with an imaginary Spanish doctor covering 57 drugs and plants, from mangoes to opium and betel. His friend, the poet Camões, contributed verses. Orta was the first European physician to write on India's drugs.",
+  "source": {
+   "name": "PMC: Garcia Da Orta: His Learned Work Coloquios Dos Simples E Drogas He Cousas Medicinais Da India",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7939634/"
+  }
+ },
+ {
+  "id": "u10-giza-khufu-nile-branch",
+  "era": "ancient",
+  "year": -2560,
+  "dateLabel": "About 2560 BCE",
+  "cat": "nature",
+  "title": "The Lost Nile Branch Behind the Pyramids",
+  "place": "Giza floodplain, Giza, Egypt",
+  "lat": 29.98,
+  "lng": 31.15,
+  "text": "The Great Pyramid now stands over 7 kilometres from the Nile, but in Khufu's day a branch of the river ran along the western edge of the floodplain. Pollen from sediment cores drilled in 2019 shows this Khufu branch held fairly steady water then, letting boats reach a harbour at the plateau's foot. The yearly flood lifted them about 7 metres. Later the branch shrank to a small channel.",
+  "source": {
+   "name": "PMC: Nile waterscapes facilitated the construction of the Giza pyramids during the 3rd millennium BCE",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9477388/"
+  }
+ },
+ {
+  "id": "u10-fishbourne-fallow-deer",
+  "era": "classical",
+  "year": 60,
+  "dateLabel": "About 60 CE",
+  "cat": "nature",
+  "title": "A Fawn Shipped to a Roman Palace",
+  "place": "Fishbourne Roman Palace, West Sussex, United Kingdom",
+  "lat": 50.84,
+  "lng": -0.81,
+  "text": "Soon after the Roman invasion of Britain in 43 CE, a palace rose at Fishbourne, and with it came a new animal: fallow deer, the earliest known beyond the Mediterranean. Chemical signals in the teeth of one deer, from a jaw dated to about 60 CE, suggest it was born abroad and shipped from the Mediterranean when only months old. Others were born and raised on the palace grounds.",
+  "source": {
+   "name": "PMC: The 10,000-year biocultural history of fallow deer and its implications for conservation policy",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10895352/"
+  }
+ },
+ {
+  "id": "u10-sievers-wild-apple-forests",
+  "era": "exploration",
+  "year": 1793,
+  "dateLabel": "1793",
+  "cat": "nature",
+  "title": "Where Every Apple Came From",
+  "place": "Trans-Ili Alatau, Tian Shan, near Almaty, Kazakhstan",
+  "lat": 43.1,
+  "lng": 77,
+  "text": "In 1793 a botanist named Sievers set out across Siberia and Central Asia and made the first formal record of the wild apple forests of the Tian Shan, the mountains where the domestic apple began. The wild tree, Malus sieversii, carries his name. Later Nikolai Vavilov found the richest apple diversity near Almaty, the 'father of apples'. Since 1930 those forests have shrunk to about 7 percent of their area.",
+  "source": {
+   "name": "PMC: Malus sieversii: a historical, genetic, and conservational perspective of the primary progenitor species of domesticated apples",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11718403/"
+  }
+ },
+ {
+  "id": "u10-tapanuli-orangutan-old-range",
+  "era": "industrial",
+  "year": 1879,
+  "dateLabel": "1879",
+  "cat": "nature",
+  "title": "Orangutans Where None Live Today",
+  "place": "Sayur Matinggi, South Tapanuli, North Sumatra, Indonesia",
+  "lat": 1.33,
+  "lng": 99.33,
+  "text": "In 1879 an observer named Kramm watched several orangutans for hours near Sayur Matinggi, in hills south of where any survive now. Old records like his show that the Tapanuli orangutan, named a new species only in 2017, once ranged over about 40,800 square kilometres in the 1890s. Farming and hunting shrank that by around 97 percent: fewer than 800 now live in the Batang Toru forests.",
+  "source": {
+   "name": "PLOS ONE (PMC): The historical range and drivers of decline of the Tapanuli orangutan",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7781382/"
+  }
+ },
+ {
+  "id": "u10-last-indian-cheetahs",
+  "era": "modern",
+  "year": 1947,
+  "dateLabel": "1947",
+  "cat": "nature",
+  "title": "The Last Three Cheetahs of India",
+  "place": "Koriya, Chhattisgarh, India",
+  "lat": 23.25,
+  "lng": 82.55,
+  "text": "Mughal courts caught wild cheetahs in huge numbers to course game, and Akbar's hunting team alone peaked at 1,000 animals. Trophy hunting and colonial bounties followed. In 1947 a maharaja shot the last three confirmed Indian cheetahs. Later, DNA from old museum specimens, one shot in the early 1800s, revealed that India's cheetahs had split from African ones far earlier than scientists expected.",
+  "source": {
+   "name": "PMC: Ancient mtDNA from the extinct Indian cheetah supports unexpectedly deep divergence from African cheetahs",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7067882/"
+  }
+ },
+ {
+  "id": "u10-silphion-last-stalk",
+  "era": "classical",
+  "year": 60,
+  "dateLabel": "1st century CE",
+  "cat": "nature",
+  "title": "One Last Stalk for Emperor Nero",
+  "place": "Cyrene (Shahhat), Jebel Akhdar, Libya",
+  "lat": 32.82,
+  "lng": 21.86,
+  "text": "For about six centuries Cyrene's great export was silphion, a prized plant pictured on the city's coins, and its kings tried to keep the trade a monopoly. Then it vanished. The Roman writer Pliny reported that only a single stalk had been found there in his time, sent to Emperor Nero as a curiosity. Overharvesting and sheep grazing on its land likely finished it off.",
+  "source": {
+   "name": "PMC: Next Chapter in the Legend of Silphion",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7825337/"
+  }
+ },
+ {
+  "id": "u10-haithabu-arctic-cod",
+  "era": "medieval",
+  "year": 900,
+  "dateLabel": "Viking Age, 800 to 1066",
+  "cat": "nature",
+  "title": "Arctic Cod on a Viking Dinner Table",
+  "place": "Haithabu (Hedeby), Schleswig-Holstein, Germany",
+  "lat": 54.49,
+  "lng": 9.57,
+  "text": "Haithabu, a Viking Age trading town in northern Germany, left cod bones in its rubbish. Their DNA shows the fish were not caught nearby but came from the North East Arctic cod that spawn along northern Norway, where fish can be dried in the cold air without salt. That pushes secure evidence of long-distance dried-cod transport back from the 1100s to the Viking Age.",
+  "source": {
+   "name": "PMC: Ancient DNA reveals the Arctic origin of Viking Age cod from Haithabu, Germany",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5576834/"
+  }
+ },
+ {
+  "id": "u10-chunqiu-total-eclipse",
+  "era": "ancient",
+  "year": -709,
+  "dateLabel": "709 BCE",
+  "cat": "nature",
+  "title": "The Sun Was Eclipsed, and It Was Total",
+  "place": "Qufu, Shandong, China",
+  "lat": 35.6,
+  "lng": 116.99,
+  "text": "The Chunqiu, or Spring and Autumn Annals, an ancient Chinese chronicle, logged eclipses of the Sun with care. For 709 BCE it says simply that the Sun was eclipsed and it was total. Modern calculation confirms a total eclipse that day, 17 July in our calendar. Of 37 solar eclipse dates in the chronicle, all but four are exactly right, a gift to scientists tracking Earth's slowing spin.",
+  "source": {
+   "name": "Proceedings of the Royal Society A (PMC): Measurement of the Earth's rotation: 720 BC to AD 2015",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5247521/"
+  }
+ },
+ {
+  "id": "u10-shalimar-bagh-srinagar",
+  "era": "exploration",
+  "year": 1619,
+  "dateLabel": "1619",
+  "cat": "nature",
+  "title": "An Emperor's Garden of 410 Fountains",
+  "place": "Shalimar Bagh, Dal Lake, Srinagar, Jammu and Kashmir, India",
+  "lat": 34.15,
+  "lng": 74.88,
+  "text": "In 1619 the Mughal emperor Jahangir enlarged an ancient garden near Dal Lake into a royal retreat for his wife Nur Jahan and named it Farah Baksh, the Delightful. A central channel, the Shah Nahar, runs down three terraces framed by chinar trees, and the middle terrace alone holds 410 fountains. In 1630 Shah Jahan's governor extended it and renamed it Faiz Baksh, the Bountiful.",
+  "source": {
+   "name": "District Srinagar, Government of Jammu and Kashmir: Shalimar Garden",
+   "url": "https://srinagar.nic.in/tourist-place/shalimar-garden/"
+  },
+  "source2": {
+   "name": "Incredible India (Ministry of Tourism): Shalimar Bagh in Srinagar",
+   "url": "https://www.incredibleindia.gov.in/en/jammu-and-kashmir/srinagar/shalimar-bagh-in-srinagar-jammu-and"
+  }
+ },
+ {
+  "id": "u10-sennacherib-nineveh-garden",
+  "era": "ancient",
+  "year": -700,
+  "dateLabel": "About 700 BCE",
+  "cat": "nature",
+  "title": "The Real Hanging Garden?",
+  "place": "Nineveh, Mosul, Nineveh Governorate, Iraq",
+  "lat": 36.36,
+  "lng": 43.15,
+  "text": "Around 700 BCE the Assyrian king Sennacherib built his Palace Without Rival at Nineveh and planted beside it a garden he called a replica of Mount Amanus, full of fruit trees and aromatic plants. Instead of old bucket-lifts, he boasted, large copper screws above the wells raised the water. Oxford Assyriologist Stephanie Dalley argues this, not Babylon, was the famous Hanging Garden.",
+  "source": {
+   "name": "Archaeology Magazine: Secrets of the Seven Wonders: Hanging Garden",
+   "url": "https://archaeology.org/issues/online/collection/hanging-garden/secrets-of-the-seven-wonders/"
+  },
+  "source2": {
+   "name": "University of Hamburg CSMC: The Hanging Gardens of Babylon were at ... Nineveh!",
+   "url": "https://www.csmc.uni-hamburg.de/publications/mesopotamia/2018-01-30.html"
+  }
+ },
+ {
+  "id": "u10-chestnut-blight-new-york",
+  "era": "industrial",
+  "year": 1904,
+  "dateLabel": "1904",
+  "cat": "nature",
+  "title": "The Fungus That Felled Four Billion Trees",
+  "place": "New York City, New York, USA",
+  "lat": 40.85,
+  "lng": -73.88,
+  "text": "In 1904 scientists described a new fungus killing American chestnut trees in New York. Native to East Asia, it had arrived with imported infected chestnuts. The American chestnut was a keystone tree of its native forests, yet within about 50 years the blight had killed an estimated 4 billion trees, one of the greatest ecological and economic devastations of the century. It later spread to Europe too.",
+  "source": {
+   "name": "PMC: European and American chestnuts: An overview of the main threats and control efforts",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9449730/"
+  }
+ }
+]

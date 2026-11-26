@@ -1,0 +1,330 @@
+[
+ {
+  "id": "n08-taharqa-kushite-pharaoh",
+  "era": "ancient",
+  "year": -690,
+  "dateLabel": "690 BCE (start of reign)",
+  "cat": "power",
+  "title": "Taharqa, Pharaoh from Kush",
+  "place": "Nuri, Northern State, Sudan",
+  "lat": 18.56,
+  "lng": 31.92,
+  "text": "Taharqa, a king from Kush in Nubia, became the fourth ruler of Egypt's 25th dynasty in 690 BCE. In 671 the Assyrian king Esarhaddon captured Memphis, but once the Assyrians withdrew, Taharqa came back and wiped out their garrisons. Finally beaten by Ashurbanipal, he fled south to Nubia, where he was buried in a large pyramid at Nuri.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Taharqa",
+   "url": "https://www.britannica.com/biography/Taharqa"
+  }
+ },
+ {
+  "id": "n08-masinissa-numidia",
+  "era": "classical",
+  "year": -201,
+  "dateLabel": "201 BCE",
+  "cat": "power",
+  "title": "Masinissa Unites Numidia",
+  "place": "Numidia (near Constantine), Algeria",
+  "lat": 36.37,
+  "lng": 6.61,
+  "text": "Masinissa grew up in Carthage and first fought for it, then switched sides to Rome. His Numidian cavalry were essential to the victory at Zama that ended Carthage's power, and after the peace of 201 BCE he ruled two rival Numidian peoples. He wanted a strong, united state, so he brought in Carthaginian farming methods and settled many seminomadic Numidians as farmers.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Masinissa",
+   "url": "https://www.britannica.com/biography/Masinissa"
+  }
+ },
+ {
+  "id": "n08-juba-ii-scholar-king",
+  "era": "classical",
+  "year": -25,
+  "dateLabel": "25 BCE",
+  "cat": "culture",
+  "title": "The Bookworm King of Mauretania",
+  "place": "Cherchell (ancient Caesarea), Algeria",
+  "lat": 36.61,
+  "lng": 2.19,
+  "text": "As a small boy, Juba II was paraded through Rome after his father's defeat, yet he grew up well educated in Italy. In 25 BCE he became king of Mauretania, ruling with his influential wife Cleopatra Selene, daughter of Mark Antony and Cleopatra. Juba wrote prolifically in Greek on history, geography, grammar and theatre, and kept a large library at his capital, Caesarea.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Juba II",
+   "url": "https://www.britannica.com/biography/Juba-II"
+  }
+ },
+ {
+  "id": "n08-severus-leptis-magna",
+  "era": "classical",
+  "year": 193,
+  "dateLabel": "193 CE",
+  "cat": "daily",
+  "title": "An Emperor Rebuilds His Hometown",
+  "place": "Leptis Magna, near Al-Khums, Libya",
+  "lat": 32.64,
+  "lng": 14.29,
+  "text": "Septimius Severus, born at Leptis Magna on the Libyan coast, became Roman emperor in 193. He freed his hometown from property and land taxes and paid for an ambitious building programme: a colonnaded street, a huge four-way arch and an improved harbour. The town's Hunting Baths still show painted hunting scenes, including a leopard hunt, and the names of honoured hunters.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Leptis Magna",
+   "url": "https://www.britannica.com/place/Leptis-Magna"
+  }
+ },
+ {
+  "id": "n08-perpetua-prison-diary",
+  "era": "classical",
+  "year": 203,
+  "dateLabel": "March 7, 203 CE",
+  "cat": "culture",
+  "title": "Perpetua's Prison Diary",
+  "place": "Carthage, Tunis, Tunisia",
+  "lat": 36.85,
+  "lng": 10.32,
+  "text": "Perpetua, a young mother in Carthage, was arrested in 203 while preparing for Christian baptism, which the emperor had banned. In prison she kept a diary of her trial, her father's pleas and her dreams. Her text is one of the rare surviving documents written by a woman in the ancient world, and it was read aloud in Carthage's churches for centuries.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Perpetua (by Joyce Ellen Salisbury)",
+   "url": "https://www.britannica.com/biography/Perpetua-Christian-martyr"
+  }
+ },
+ {
+  "id": "n08-augustine-bishop-hippo",
+  "era": "classical",
+  "year": 396,
+  "dateLabel": "396 CE",
+  "cat": "culture",
+  "title": "Augustine Becomes Bishop of Hippo",
+  "place": "Hippo Regius (Annaba), Algeria",
+  "lat": 36.88,
+  "lng": 7.75,
+  "text": "Augustine was born in 354 in Tagaste, a small Roman town in Numidia, and studied in Carthage before seeking a career in Rome and Milan. Back in Africa he was pressed, against his will, into serving the church at Hippo, where he became bishop in 396. More than five million words of his writings survive, including the Confessions and The City of God.",
+  "source": {
+   "name": "Encyclopaedia Britannica: St. Augustine (by James O'Donnell)",
+   "url": "https://www.britannica.com/biography/Saint-Augustine"
+  }
+ },
+ {
+  "id": "n08-first-hijra-aksum",
+  "era": "medieval",
+  "year": 615,
+  "dateLabel": "615 CE (according to tradition)",
+  "cat": "journeys",
+  "title": "Refuge at the Negus's Court",
+  "place": "Aksum, Tigray, Ethiopia",
+  "lat": 14.12,
+  "lng": 38.73,
+  "text": "Islam first reached Ethiopia peacefully. According to tradition, in 615 the Prophet Muhammad sent small groups of his followers to the court of the Negus, probably the Christian ruler of Aksum, in what is called the first hijra. Nobody knows whether any of them stayed, but by the tenth century Islam had spread further through trade, preaching and missionaries.",
+  "source": {
+   "name": "Antiquity (Cambridge Core): Insoll, The archaeology of complexity and cosmopolitanism in medieval Ethiopia",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/archaeology-of-complexity-and-cosmopolitanism-in-medieval-ethiopia-an-introduction/4F3CD1227F4A53E7732F4DAD9BE21F30"
+  }
+ },
+ {
+  "id": "n08-baqt-old-dongola",
+  "era": "medieval",
+  "year": 652,
+  "dateLabel": "652 CE",
+  "cat": "power",
+  "title": "Nubia Holds Off an Army",
+  "place": "Old Dongola, Northern State, Sudan",
+  "lat": 18.22,
+  "lng": 30.75,
+  "text": "In 641 and 652 the Nubians were one of the few peoples able to repel the Arab invasions. After a failed siege of the Makurian capital, Old Dongola, in 652, both sides agreed a pact called the baqt. Nubia sent enslaved people north, which Makurians apparently saw as payment for grain and food, and the deal lasted for some five hundred years.",
+  "source": {
+   "name": "University of Warsaw, Virtual Nubia: Nubian Kingdoms",
+   "url": "https://virtualnubia.uw.edu.pl/nubian-kingdoms"
+  },
+  "source2": {
+   "name": "Bulletin of SOAS (Cambridge Core): Ottewill-Soulsby, The circle of the world: the global diplomacy of Caliph al-Mansur",
+   "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/circle-of-the-world-the-global-diplomacy-of-caliph-almansur/3D2FEE751FC2BECD1FE4642750B991EC"
+  }
+ },
+ {
+  "id": "n08-kairouan-founded",
+  "era": "medieval",
+  "year": 670,
+  "dateLabel": "670 CE",
+  "cat": "culture",
+  "title": "Kairouan, a Forest of Columns",
+  "place": "Kairouan, Tunisia",
+  "lat": 35.68,
+  "lng": 10.1,
+  "text": "Founded in 670, Kairouan was the oldest Arab-Muslim base in the Maghreb and served as capital of Ifriqiya for five centuries. Its Great Mosque, rebuilt in the 9th century, has a prayer hall held up by a forest of marble and porphyry columns. Builders later added giant open-air reservoirs, the Basins of the Aghlabids, to bring the town water.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Kairouan",
+   "url": "https://whc.unesco.org/en/list/499"
+  }
+ },
+ {
+  "id": "n08-timbuktu-mosques-rebuilt",
+  "era": "exploration",
+  "year": 1570,
+  "dateLabel": "1570–1583",
+  "cat": "culture",
+  "title": "Timbuktu's Earthen Mosques Rebuilt",
+  "place": "Timbuktu, Mali",
+  "lat": 16.77,
+  "lng": -3.01,
+  "text": "Timbuktu's Djingareyber Mosque was first built under Sultan Kankan Moussa after his pilgrimage to Mecca. Between 1570 and 1583 the city's judge, Imam Al Aqib, rebuilt and enlarged it, and he restored the Sankore and Sidi Yahia mosques too. At its height the city had 180 Koranic schools and 25,000 students, and traded manuscripts, Saharan salt, gold, cattle and grain.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Timbuktu",
+   "url": "https://whc.unesco.org/en/list/119"
+  }
+ },
+ {
+  "id": "n08-moulay-ismail-meknes",
+  "era": "exploration",
+  "year": 1672,
+  "dateLabel": "1672",
+  "cat": "power",
+  "title": "A Sultan's Walled City",
+  "place": "Meknes, Morocco",
+  "lat": 33.89,
+  "lng": -5.56,
+  "text": "Meknes began as an Almoravid military stronghold in 1061. When Sultan Moulay Ismail began his reign in 1672, he made it his capital and turned it into an imperial city mixing Islamic and European styles. Ramparts up to 15 metres high, pierced by nine monumental gates, enclose 25 mosques, ten bathhouses, palaces, vast granaries and merchants' inns.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Historic City of Meknes",
+   "url": "https://whc.unesco.org/en/list/793"
+  }
+ },
+ {
+  "id": "n08-kimpa-vita-kongo-prophet",
+  "era": "exploration",
+  "year": 1706,
+  "dateLabel": "1706",
+  "cat": "culture",
+  "title": "Kimpa Vita, Kongo's Peace Prophet",
+  "place": "Kingdom of Kongo (near Mbanza Kongo), Angola",
+  "lat": -6.27,
+  "lng": 14.24,
+  "text": "From 1704 a young Kongolese woman, Dona Beatriz Kimpa Vita, said she was possessed by Saint Anthony. She taught that Jesus was a Kongolese and criticised Italian Capuchin missionaries for not supporting Black saints. Her followers among ordinary people hoped to end Kongo's civil wars between rival claimants to the throne, but in 1706 she was burned at the stake.",
+  "source": {
+   "name": "Cambridge University Press: John Thornton, The Kongolese Saint Anthony",
+   "url": "https://www.cambridge.org/core/books/kongolese-saint-anthony/C4CA5BBE5BAB38F5120CF2E510D8BCF7"
+  }
+ },
+ {
+  "id": "n08-ahmad-baba-exile",
+  "era": "exploration",
+  "year": 1594,
+  "dateLabel": "1594",
+  "cat": "culture",
+  "title": "A Timbuktu Scholar in Exile",
+  "place": "Marrakesh, Morocco",
+  "lat": 31.63,
+  "lng": -7.99,
+  "text": "After Morocco conquered Timbuktu, the jurist Ahmad Baba was accused of plotting rebellion and deported to Marrakesh in 1594. Even as a captive he was allowed to teach and practise law, and he compiled a biographical dictionary of famous jurists. Allowed home after the sultan died in 1603, he wrote an Arabic grammar that is still used in northern Nigeria.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Ahmad Baba",
+   "url": "https://www.britannica.com/biography/Ahmad-Baba"
+  }
+ },
+ {
+  "id": "n08-ahmad-gran-invades-ethiopia",
+  "era": "exploration",
+  "year": 1531,
+  "dateLabel": "1531",
+  "cat": "power",
+  "title": "Ahmad Gran Sweeps Into Ethiopia",
+  "place": "Harar region (Adal), Ethiopia",
+  "lat": 9.31,
+  "lng": 42.12,
+  "text": "Ahmad Gran, leader of the Muslim state of Adal, built an army of Somalis and made skilful use of firearms. In 1531 he launched a large-scale invasion of Christian Ethiopia, and at his height he held more than three-quarters of the kingdom. He was killed in battle, and the Ethiopian ruler Galawdewos won back his kingdom in 1543.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Ahmad Gran",
+   "url": "https://www.britannica.com/biography/Ahmad-Gran"
+  }
+ },
+ {
+  "id": "n08-kanem-king-umme",
+  "era": "medieval",
+  "year": 1085,
+  "dateLabel": "Late 11th century",
+  "cat": "power",
+  "title": "Kanem's King Turns to Islam",
+  "place": "Kanem, northeast of Lake Chad, Chad",
+  "lat": 14.2,
+  "lng": 14.9,
+  "text": "Kanem-Bornu, probably founded around the mid-9th century, was a trading empire around Lake Chad with its first capital at Njimi. Toward the end of the 11th century its king, Umme, became a Muslim, and from then on it was an Islamic state. Its location made it a meeting point for trade between North Africa, the Nile valley and lands to the south.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Kanem-Bornu",
+   "url": "https://www.britannica.com/place/Kanem-Bornu"
+  }
+ },
+ {
+  "id": "n08-thimlich-ohinga-walls",
+  "era": "exploration",
+  "year": 1530,
+  "dateLabel": "Probably 16th century",
+  "cat": "daily",
+  "title": "Stone Walls Without Mortar",
+  "place": "Thimlich Ohinga, near Migori, Kenya",
+  "lat": -0.89,
+  "lng": 34.33,
+  "text": "Near Lake Victoria, pastoral communities probably built the dry-stone settlement of Thimlich Ohinga in the 16th century. Its walls, 1.5 to 4.5 metres high, interlock their stones without any mortar or cement. The enclosures protected people and livestock, supported craft industries, and marked out family lineages. This walling tradition lasted until the mid-20th century.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Thimlich Ohinga Archaeological Site",
+   "url": "https://whc.unesco.org/en/list/1450"
+  }
+ },
+ {
+  "id": "n08-khami-torwa-capital",
+  "era": "exploration",
+  "year": 1555,
+  "dateLabel": "Mid-16th century",
+  "cat": "daily",
+  "title": "Khami, Heir to Great Zimbabwe",
+  "place": "Khami, near Bulawayo, Zimbabwe",
+  "lat": -20.16,
+  "lng": 28.38,
+  "text": "After Great Zimbabwe was abandoned in the mid-16th century, Khami grew into the hilltop capital of the Torwa dynasty. Its granite walls carry chevron and chequered patterns, and it still has the longest decorated wall in the region. Finds of Ming porcelain from China and Rhineland stoneware from Europe show that Khami traded with distant lands.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Khami Ruins National Monument",
+   "url": "https://whc.unesco.org/en/list/365"
+  }
+ },
+ {
+  "id": "n08-julian-nobatia-christian",
+  "era": "medieval",
+  "year": 543,
+  "dateLabel": "543 CE",
+  "cat": "culture",
+  "title": "Nubia's Temples Become Churches",
+  "place": "Faras (ancient Pachoras), Sudan",
+  "lat": 22.2,
+  "lng": 31.48,
+  "text": "In the 6th century the middle Nile was split into three Nubian kingdoms: Nobatia, Maqurrah and Alwah. In 543 a missionary named Julian began preaching in Nobatia, whose capital was Pachoras (modern Faras), and his successor Longinus later carried the faith south to Alwah. Nubians took up Christianity with considerable enthusiasm, building churches along the Nile and refurbishing ancient temples for Christian worship.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of Sudan",
+   "url": "https://www.britannica.com/topic/history-of-Sudan"
+  },
+  "source2": {
+   "name": "University of Warsaw, Virtual Nubia: Nubian Kingdoms",
+   "url": "https://virtualnubia.uw.edu.pl/nubian-kingdoms"
+  }
+ },
+ {
+  "id": "n08-thutmose-kurgus-nubia",
+  "era": "ancient",
+  "year": -1493,
+  "dateLabel": "From 1493 BCE (reign of Thutmose I)",
+  "cat": "power",
+  "title": "Egypt Pushes Deep Into Nubia",
+  "place": "Kurgus, River Nile State, Sudan",
+  "lat": 19.18,
+  "lng": 33.53,
+  "text": "Under Pharaoh Thutmose I, whose reign began in 1493 BCE, Egypt conquered the northern Sudan as far as Kurgus. Nubia was then run by a viceroy, with Kush governed from Napata. Its gold and emerald mines supplied Egypt, yet beyond the Egyptian outposts Nubians kept their own customs and crafts, and a blended culture grew up in Kush.",
+  "source": {
+   "name": "Encyclopaedia Britannica: History of Sudan",
+   "url": "https://www.britannica.com/topic/history-of-Sudan"
+  }
+ },
+ {
+  "id": "n08-ife-igbo-olokun-glass",
+  "era": "medieval",
+  "year": 1050,
+  "dateLabel": "11th–15th centuries CE",
+  "cat": "discovery",
+  "title": "Ife's Own Glass Beads",
+  "place": "Igbo Olokun, Ile-Ife, Osun State, Nigeria",
+  "lat": 7.49,
+  "lng": 4.56,
+  "text": "Archaeologists digging at Igbo Olokun, in the Yoruba city of Ile-Ife, recovered glass beads along with the materials used to make them. Analysis dates the main glass-working there to between the 11th and 15th centuries AD. Bead-making at Ife was largely independent of glass traditions known farther afield, and the site may be one of West Africa's earliest known glass workshops.",
+  "source": {
+   "name": "Antiquity (Cambridge Core): Babalola, McIntosh, Dussubieux and Rehren, Ile-Ife and Igbo Olokun in the history of glass in West Africa",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/ileife-and-igbo-olokun-in-the-history-of-glass-in-west-africa/271A101DC136996C91364464ED61A258"
+  }
+ }
+]

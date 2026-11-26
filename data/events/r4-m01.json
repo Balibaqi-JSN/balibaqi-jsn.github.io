@@ -1,0 +1,370 @@
+[
+ {
+  "id": "m01-pyramid-texts-unas",
+  "era": "ancient",
+  "year": -2400,
+  "dateLabel": "About 2400 BCE",
+  "cat": "culture",
+  "title": "Spells on a Pyramid's Walls",
+  "place": "Saqqara, Giza Governorate, Egypt",
+  "lat": 29.87,
+  "lng": 31.21,
+  "text": "Inside the pyramid of Unas, last king of the 5th dynasty, the walls of the inner chambers were covered with prayers, hymns and spells meant to protect the dead king and keep him supplied in the afterlife. These Pyramid Texts are the oldest surviving body of Egyptian religious and funerary writing, and they were later gathered into the Book of the Dead.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Pyramid Texts",
+   "url": "https://www.britannica.com/topic/Pyramid-Texts"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Book of the Dead",
+   "url": "https://www.britannica.com/topic/Book-of-the-Dead-ancient-Egyptian-text"
+  }
+ },
+ {
+  "id": "m01-rhind-math-papyrus",
+  "era": "ancient",
+  "year": -1550,
+  "dateLabel": "About 1550 BCE",
+  "cat": "discovery",
+  "title": "A Scribe's Maths Homework",
+  "place": "Thebes (Luxor), Egypt",
+  "lat": 25.7,
+  "lng": 32.64,
+  "text": "A scribe named Ahmose dated this papyrus to year 33 of Apophis, a Hyksos king. It is probably a mathematics textbook, with eighty-four problems on division, multiplication, fractions, areas and volumes, used by scribes learning by worked examples. At 296 centimetres long, it was found near the Ramesseum at Thebes and may once have been cut in half by robbers to raise its price.",
+  "source": {
+   "name": "British Museum: The Rhind Mathematical Papyrus (EA10057)",
+   "url": "https://www.britishmuseum.org/collection/object/Y_EA10057"
+  }
+ },
+ {
+  "id": "m01-merneptah-libyan-war",
+  "era": "ancient",
+  "year": -1209,
+  "dateLabel": "Spring 1209 BCE",
+  "cat": "power",
+  "title": "Six Hours of Arrows",
+  "place": "Western Nile Delta, Egypt",
+  "lat": 30.6,
+  "lng": 30.7,
+  "text": "Libyans, joined and armed by roving Sea Peoples, pushed toward Memphis and Heliopolis. At dawn one spring day the aged pharaoh Merneptah, Ramses II's 13th son, let his archers shoot for six hours while his infantry and chariots held firm, and the invaders fled. Of the four victory texts he ordered, the Israel Stela holds the earliest known mention of Israel.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Merneptah",
+   "url": "https://www.britannica.com/biography/Merneptah"
+  }
+ },
+ {
+  "id": "m01-sheshonk-libyan-pharaoh",
+  "era": "ancient",
+  "year": -943,
+  "dateLabel": "About 943 BCE",
+  "cat": "power",
+  "title": "A Libyan Chief Becomes Pharaoh",
+  "place": "Bubastis (Tell Basta), Zagazig, Egypt",
+  "lat": 30.57,
+  "lng": 31.51,
+  "text": "Sheshonk I came from a line of Libyan chiefs who held the title great chief of the Meshwesh and had settled at Bubastis in the Nile Delta. A general under the last king of the 21st dynasty, he probably took the throne without a struggle, founding the 22nd dynasty. Reliefs at Karnak celebrate his victories in Palestine.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Sheshonk I",
+   "url": "https://www.britannica.com/biography/Sheshonk-I"
+  }
+ },
+ {
+  "id": "m01-naukratis-trading-port",
+  "era": "ancient",
+  "year": -700,
+  "dateLabel": "7th century BCE",
+  "cat": "daily",
+  "title": "Greek Traders on the Nile",
+  "place": "Naukratis (Kom Gi'eif), Beheira, Egypt",
+  "lat": 30.9,
+  "lng": 30.59,
+  "text": "In the 7th century BCE, Greeks from Miletus set up Naukratis, a trading station on the western branch of the Nile Delta, and Greeks from other cities soon followed. It was the earliest Greek settlement in Egypt and stayed a meeting point of peoples for more than 1,200 years. Finds range from Egyptian faience amulets and Greek pottery to Cypriot statuettes.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Naukratis",
+   "url": "https://www.britannica.com/place/Naukratis"
+  },
+  "source2": {
+   "name": "British Museum: Naukratis, Greeks in Egypt (research project)",
+   "url": "https://www.britishmuseum.org/research/projects/naukratis-greeks-egypt"
+  }
+ },
+ {
+  "id": "m01-mogador-phoenician-outpost",
+  "era": "ancient",
+  "year": -650,
+  "dateLabel": "Mid-7th century BCE",
+  "cat": "journeys",
+  "title": "Phoenicians on the Atlantic Edge",
+  "place": "Mogador Island, Essaouira, Morocco",
+  "lat": 31.5,
+  "lng": -9.78,
+  "text": "Around the middle of the 7th century BCE, Phoenicians founded an outpost on Mogador, a small island off Morocco's Atlantic coast, the farthest-flung settlement of their Mediterranean world. Excavators found a possible shrine to the goddess Astarte, and slag, bellows and iron rods showing iron working. Layers on the island have also yielded bones of elephants, lions and peacocks.",
+  "source": {
+   "name": "German Archaeological Institute (e-Forschungsberichte): Marzoli & El Khayari, Mogador (Essaouira), Marokko",
+   "url": "https://publications.dainst.org/journals/efb/article/view/2115"
+  },
+  "source2": {
+   "name": "University of Southampton, MarEA project: Essaouira's Coastal Heritage, Morocco",
+   "url": "https://marea.soton.ac.uk/essaouiras-maritime-cultural-heritage-morocco"
+  }
+ },
+ {
+  "id": "m01-cyrene-founded",
+  "era": "ancient",
+  "year": -631,
+  "dateLabel": "About 631 BCE",
+  "cat": "journeys",
+  "title": "Islanders Found Cyrene",
+  "place": "Cyrene (Shahhat), Jebel Akhdar, Libya",
+  "lat": 32.83,
+  "lng": 21.86,
+  "text": "About 631 BCE, emigrants from the Aegean island of Thera founded Cyrene in what is now Libya. Their leader Battus became its first king, and his family, whose kings were named alternately Battus and Arcesilaus, ruled for eight generations. Cyrene grew into one of the principal cities of the Greek world, later famous for its medical school and scholars.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Cyrene, ancient Greek colony, Libya",
+   "url": "https://www.britannica.com/place/Cyrene-ancient-Greek-colony-Libya"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Archaeological Site of Cyrene",
+   "url": "https://whc.unesco.org/en/list/190/"
+  }
+ },
+ {
+  "id": "m01-elephantine-marriage-papyrus",
+  "era": "classical",
+  "year": -449,
+  "dateLabel": "July 3, 449 BCE",
+  "cat": "daily",
+  "title": "A Wedding Contract on Elephantine",
+  "place": "Elephantine Island, Aswan, Egypt",
+  "lat": 24.09,
+  "lng": 32.89,
+  "text": "On July 3, 449 BCE, on Elephantine Island in the Nile, a man named Ananiah asked Meshullam for the hand of his daughter Tamut, and a scribe, Nathan son of Ananiah, set it down in Aramaic on papyrus. Egypt was then under Persian rule. A later papyrus, dated October 30, 434 BCE, records Ananiah giving Tamut part of a house.",
+  "source": {
+   "name": "Brooklyn Museum: Marriage Document (47.218.89)",
+   "url": "https://www.brooklynmuseum.org/objects/3488"
+  },
+  "source2": {
+   "name": "Brooklyn Museum: Property Transfer Document, Ananiah Gives Tamut Part of a House (47.218.91a-b)",
+   "url": "https://www.brooklynmuseum.org/objects/60730"
+  }
+ },
+ {
+  "id": "m01-alexander-siwa-oracle",
+  "era": "classical",
+  "year": -331,
+  "dateLabel": "Winter 332–331 BCE",
+  "cat": "journeys",
+  "title": "Alexander Asks the Desert Oracle",
+  "place": "Siwa Oasis, Matrouh, Egypt",
+  "lat": 29.2,
+  "lng": 25.52,
+  "text": "Crowned with the pharaohs' double crown at Memphis, Alexander the Great founded Alexandria, then marched along the coast and inland to Siwa, an oasis with about 200 springs, to consult the famous oracle of the god Amon. The priest greeted him as a pharaoh, son of Amon. Alexander asked about the success of his expedition but revealed the answer to no one.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Alexander the Great (Frank W. Walbank)",
+   "url": "https://www.britannica.com/biography/Alexander-the-Great"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Siwa Oasis",
+   "url": "https://www.britannica.com/place/Siwa-Oasis"
+  }
+ },
+ {
+  "id": "m01-kerkuane-punic-town",
+  "era": "classical",
+  "year": -255,
+  "dateLabel": "About 255 BCE",
+  "cat": "daily",
+  "title": "The Punic Town Nobody Rebuilt",
+  "place": "Kerkuane, Cap Bon, Nabeul, Tunisia",
+  "lat": 36.95,
+  "lng": 11.1,
+  "text": "After the Roman general Regulus destroyed it around 255 BCE, during the First Punic War, the town of Kerkuane on Tunisia's Cap Bon was abandoned and never lived in again. That makes it the only Phoenician-Punic city known to survive without a Roman town on top. Its checkerboard streets, houses, shops, workshops, temples and port remain much as they were.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Punic Town of Kerkuane and its Necropolis",
+   "url": "https://whc.unesco.org/en/list/332/"
+  }
+ },
+ {
+  "id": "m01-ptolemy-almagest",
+  "era": "classical",
+  "year": 150,
+  "dateLabel": "About 150 CE",
+  "cat": "discovery",
+  "title": "Ptolemy's Greatest Book",
+  "place": "Alexandria, Egypt",
+  "lat": 31.2,
+  "lng": 29.92,
+  "text": "About 150 CE in Alexandria, the astronomer Ptolemy completed his Mathematical Collection, later known as the Almagest, from an Arabic-Greek hybrid meaning \"the greatest\". It explained the wandering paths of the Sun, Moon and planets as combinations of perfect circular motions around a motionless Earth. His Earth-centred picture of the universe went on to prevail in the Islamic world and medieval Europe.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Ptolemy",
+   "url": "https://www.britannica.com/biography/Ptolemy"
+  }
+ },
+ {
+  "id": "m01-volubilis-rampart",
+  "era": "classical",
+  "year": 168,
+  "dateLabel": "168–169 CE",
+  "cat": "culture",
+  "title": "Walls for a Frontier City",
+  "place": "Volubilis, near Meknes, Morocco",
+  "lat": 34.07,
+  "lng": -5.55,
+  "text": "At the foot of Jebel Zerhoun, Volubilis began as a Mauritanian capital in the 3rd century BCE and became a Roman outpost, a metropolis of the province of Mauritania Tingitana. In 168–169 CE a rampart was built around it. Inside lie mosaics, marble and bronze statues and hundreds of inscriptions that mix Libyco-Berber, Punic and Roman cultures.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Archaeological Site of Volubilis",
+   "url": "https://whc.unesco.org/en/list/836/"
+  }
+ },
+ {
+  "id": "m01-vandals-take-carthage",
+  "era": "classical",
+  "year": 439,
+  "dateLabel": "October 19, 439",
+  "cat": "power",
+  "title": "The Vandals Seize Carthage",
+  "place": "Carthage, Tunis, Tunisia",
+  "lat": 36.85,
+  "lng": 10.33,
+  "text": "In 428 King Gaiseric ferried his Vandal people, 80,000 by his own count, from Spain to Africa. After years of fighting he made a treaty with Rome, then in a surprise move on October 19, 439, captured Carthage and threw off Roman overlordship. His fleets soon controlled much of the western Mediterranean, and in 455 the Vandals plundered Rome itself.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Gaiseric",
+   "url": "https://www.britannica.com/biography/Gaiseric"
+  }
+ },
+ {
+  "id": "m01-kahina-aures",
+  "era": "medieval",
+  "year": 698,
+  "dateLabel": "698",
+  "cat": "power",
+  "title": "The Priestess of the Aurès",
+  "place": "Aurès Mountains, Algeria",
+  "lat": 35.25,
+  "lng": 6.5,
+  "text": "From 693 an Arab army under Hassan ibn al-Numan pushed west from Egypt, but in the eastern Aurès Mountains it met stiff resistance from Jawara Berbers led by a woman the Arabs called al-Kahina, \"the Priestess\". One historian argues she was a Christian Berber queen allied with the Byzantines. After her defeat in 698, Hassan occupied Carthage and began building Tunis nearby.",
+  "source": {
+   "name": "Encyclopaedia Britannica: North Africa, From the Arab conquest to 1830",
+   "url": "https://www.britannica.com/place/North-Africa/From-the-Arab-conquest-to-1830"
+  },
+  "source2": {
+   "name": "Journal of Early Christian History: Hendrickx, Al-Kahina, The Last Ally of the Roman-Byzantines in the Maghreb (abstract)",
+   "url": "https://www.tandfonline.com/doi/abs/10.1080/2222582X.2013.11877284"
+  }
+ },
+ {
+  "id": "m01-tahart-rustamid-capital",
+  "era": "medieval",
+  "year": 777,
+  "dateLabel": "776 or 777",
+  "cat": "daily",
+  "title": "A Caravan Capital in the Hills",
+  "place": "Tahart (Tiaret), Algeria",
+  "lat": 35.37,
+  "lng": 1.32,
+  "text": "In 776 or 777, Ibadi tribes in western Algeria proclaimed Abd al-Rahman ibn Rustam, a man of Persian origin raised in Tunisia, as their imam, and he at once began building a capital at Tahart, modern Tiaret. Trade caravans crisscrossing the Maghrib met there, and Tahart grew rich and cosmopolitan through local and trans-Saharan trade until the Fatimids conquered it in 909.",
+  "source": {
+   "name": "Encyclopaedia Britannica: North Africa, From the Arab conquest to 1830",
+   "url": "https://www.britannica.com/place/North-Africa/From-the-Arab-conquest-to-1830"
+  }
+ },
+ {
+  "id": "m01-ibn-tulun-mosque",
+  "era": "medieval",
+  "year": 876,
+  "dateLabel": "876",
+  "cat": "culture",
+  "title": "A Red-Brick Giant in Cairo",
+  "place": "Mosque of Ibn Tulun, Cairo, Egypt",
+  "lat": 30.03,
+  "lng": 31.25,
+  "text": "In 876 Ahmad ibn Tulun, the Turkish governor of Egypt and Syria, built a huge red-brick mosque on the site of present-day Cairo. Its crenellated walls and carved stucco arches recall the Abbasid architecture of Iraq. The minaret, rebuilt in 1296–99, has three floors shaped square, spiral and octagonal. Centuries later the mosque served as a belt factory, then as shops.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Mosque of Ahmad ibn Tulun",
+   "url": "https://www.britannica.com/topic/Mosque-of-Ahmad-ibn-Tulun"
+  }
+ },
+ {
+  "id": "m01-almoravids-found-marrakesh",
+  "era": "medieval",
+  "year": 1070,
+  "dateLabel": "1070–1072",
+  "cat": "daily",
+  "title": "Desert Warriors Found Marrakesh",
+  "place": "Marrakesh, Morocco",
+  "lat": 31.63,
+  "lng": -7.99,
+  "text": "In 1070–1072 the Almoravids, a confederation of Saharan Berber tribes driven by religious reform, founded Marrakesh. Their city became a political, economic and cultural capital whose influence reached from North Africa to Andalusia, and it eventually gave its name to the Moroccan empire. The palm grove that still surrounds the city is credited to these same Almoravid founders.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Medina of Marrakesh",
+   "url": "https://whc.unesco.org/en/list/331/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Almoravids",
+   "url": "https://www.britannica.com/topic/Almoravids"
+  }
+ },
+ {
+  "id": "m01-ibn-tumart-tinmel",
+  "era": "medieval",
+  "year": 1121,
+  "dateLabel": "1121",
+  "cat": "power",
+  "title": "A Mahdi in the Atlas Mountains",
+  "place": "Tinmel, High Atlas, Morocco",
+  "lat": 30.98,
+  "lng": -8.23,
+  "text": "Around 1120 a Berber state grew up at Tinmel, in Morocco's Atlas Mountains, inspired by the preacher Ibn Tumart and his demands for puritanical moral reform and a strict idea of the unity of God. In 1121 he proclaimed himself the mahdi, a promised messianic figure, and began war on the Almoravids. His followers, the Almohads, built an empire across North Africa and Spain.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Almohads",
+   "url": "https://www.britannica.com/topic/Almohads"
+  }
+ },
+ {
+  "id": "m01-qalawun-complex",
+  "era": "medieval",
+  "year": 1284,
+  "dateLabel": "1284–85",
+  "cat": "culture",
+  "title": "A Mosque With Its Own Hospital",
+  "place": "Bayn al-Qasrayn, Cairo, Egypt",
+  "lat": 30.05,
+  "lng": 31.26,
+  "text": "Mamluk builders liked to group buildings with different jobs into one complex. The Qalawun mosque in Cairo, built in 1284–85, joined a mausoleum, a madrasa and a hospital in a single architectural unit. Mamluk patrons also put their great monuments close together, so streets like Bayn al-Qasrayn became galleries of masterpieces, with facades and minarets competing for effect.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Islamic arts (Mamluk architecture)",
+   "url": "https://www.britannica.com/topic/Islamic-arts/Western-Islamic-art-Moorish"
+  }
+ },
+ {
+  "id": "m01-ibn-battuta-sets-out",
+  "era": "medieval",
+  "year": 1325,
+  "dateLabel": "1325",
+  "cat": "journeys",
+  "title": "Ibn Battuta Leaves Tangier",
+  "place": "Tangier, Morocco",
+  "lat": 35.77,
+  "lng": -5.8,
+  "text": "In 1325, aged 21, Ibn Battuta left his home town of Tangier on pilgrimage to Mecca, travelling overland through Tunis and Tripoli to Egypt. There a passion for travel was born, and he set himself a rule never to travel any road a second time. His book, the Rihlah, describes some 120,000 km of journeys, reaching as far as China and Sumatra.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Ibn Battuta",
+   "url": "https://www.britannica.com/biography/Ibn-Battuta"
+  }
+ },
+ {
+  "id": "m01-black-death-tunis",
+  "era": "medieval",
+  "year": 1349,
+  "dateLabel": "1349",
+  "cat": "nature",
+  "title": "Plague Comes to Tunis",
+  "place": "Tunis, Tunisia",
+  "lat": 36.8,
+  "lng": 10.17,
+  "text": "In 1349 the Black Death struck Tunis and took both parents of young Ibn Khaldun, born in the city in 1332. He grew up to write the Muqaddimah, one of the earliest nonreligious philosophies of history, in a castle near Frenda in Algeria. In it he named the Black Death as the main cause of a great change in his age, \"a world brought into existence anew.\"",
+  "source": {
+   "name": "Encyclopaedia Britannica: Ibn Khaldun",
+   "url": "https://www.britannica.com/biography/Ibn-Khaldun"
+  }
+ }
+]

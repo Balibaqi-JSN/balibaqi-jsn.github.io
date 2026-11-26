@@ -1,0 +1,414 @@
+[
+ {
+  "id": "v12-su-song-water-clock",
+  "era": "medieval",
+  "year": 1088,
+  "dateLabel": "1088",
+  "cat": "discovery",
+  "title": "Su Song's Water-Powered Clock Tower",
+  "place": "Kaifeng, Henan, China",
+  "lat": 34.8,
+  "lng": 114.31,
+  "text": "In 1088 the Song dynasty scholar Su Song built a water-powered astronomical clock tower. Inside it, a waterwheel worked as an escapement, releasing energy in small, regular steps, the same job that makes a mechanical clock tick. When scholars rediscovered his written description in the 1960s, it shook the old idea that mechanical clocks were invented only in Europe.",
+  "source": {
+   "name": "Science Museum Group: Scale model of Su Song's Water-Balance Escapement",
+   "url": "https://collection.sciencemuseumgroup.org.uk/objects/co894/scale-model-of-su-songs-water-balance-escapement"
+  }
+ },
+ {
+  "id": "v12-hanaoka-mafutsusan",
+  "era": "industrial",
+  "year": 1804,
+  "dateLabel": "October 1804",
+  "cat": "discovery",
+  "title": "A Village Doctor Puts Pain to Sleep",
+  "place": "Kinokawa (old Kishu province), Wakayama, Japan",
+  "lat": 34.27,
+  "lng": 135.4,
+  "text": "In October 1804 Seishu Hanaoka, a village doctor in Kishu, gave a woman an oral drug he called Mafutsu-san and, once it had put her under, cut out her breast cancer. It is widely counted as the first surgery under general anaesthesia. Hanaoka never wrote a medical book, so a modern researcher repeated animal experiments with the drug to work out how he developed it.",
+  "source": {
+   "name": "Journal of Japan Society for Clinical Anesthesia (J-STAGE): The Mysterious Life of Seishu Hanaoka",
+   "url": "https://www.jstage.jst.go.jp/article/jjsca/25/5/25_5_427/_article"
+  }
+ },
+ {
+  "id": "v12-chagas-berenice",
+  "era": "industrial",
+  "year": 1909,
+  "dateLabel": "April 1909",
+  "cat": "discovery",
+  "title": "Berenice and the Kissing-Bug Parasite",
+  "place": "Lassance, Minas Gerais, Brazil",
+  "lat": -17.89,
+  "lng": -44.58,
+  "text": "In April 1909 the Brazilian doctor Carlos Chagas examined Berenice, a gravely ill two-year-old whose rural home was infested with blood-sucking triatomine bugs. In her blood he spotted a new trypanosome parasite, which he named after his teacher Oswaldo Cruz. Berenice became the first known case of Chagas disease, and doctors still found the parasite in her blood in 1978, when she was about 71.",
+  "source": {
+   "name": "PMC: Beyond the first case of Chagas disease: the Berenice strain",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12286610/"
+  },
+  "source2": {
+   "name": "PMC: A note on the discovery of Chagas' disease",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9113751/"
+  }
+ },
+ {
+  "id": "v12-bakhshali-zero-dots",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "About 300 CE",
+  "cat": "discovery",
+  "title": "A Farmer Digs Up Zero's Ancestor",
+  "place": "Bakhshali, near Mardan, Khyber Pakhtunkhwa, Pakistan",
+  "lat": 34.29,
+  "lng": 72.13,
+  "text": "In 1881 a farmer found 70 fragile leaves of birch bark buried in a field at Bakhshali, near Peshawar, all covered in mathematics. Radiocarbon dating at Oxford later showed that some pages go back to the 3rd or 4th century CE, about five centuries older than scholars had thought. Scattered through the sums are little dots used as placeholders, ancestors of the zero we write today.",
+  "source": {
+   "name": "University of Oxford GLAM: Carbon dating finds Bakhshali manuscript contains oldest recorded origins of the symbol 'zero'",
+   "url": "https://www.glam.ox.ac.uk/article/carbon-dating-finds-bakhshali-manuscript-contains-oldest-recorded-origins-symbol-zero"
+  }
+ },
+ {
+  "id": "v12-edwin-smith-papyrus",
+  "era": "ancient",
+  "year": -1650,
+  "dateLabel": "About 1650 BCE",
+  "cat": "discovery",
+  "title": "An Egyptian Surgeon's 48 Injuries",
+  "place": "Thebes (Luxor), Egypt",
+  "lat": 25.7,
+  "lng": 32.64,
+  "text": "Written in Egypt in the 17th century BCE, probably copied from an older text, this papyrus walks through 48 injuries from the skull down to the spine. Each case gives an examination, a diagnosis and a verdict, and some end bluntly: a condition that cannot be healed. Case 48 breaks off mid-sentence. The dealer Edwin Smith bought it in 1862, reportedly from a tomb at Thebes.",
+  "source": {
+   "name": "PMC (European Spine Journal): The Edwin Smith papyrus: a clinical reappraisal of the oldest known document on spinal injuries",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2989268/"
+  }
+ },
+ {
+  "id": "v12-de-la-cruz-badiano-herbal",
+  "era": "exploration",
+  "year": 1552,
+  "dateLabel": "1552",
+  "cat": "discovery",
+  "title": "An Aztec Healer's Book of Herbs",
+  "place": "Colegio de Santa Cruz, Tlatelolco, Mexico City, Mexico",
+  "lat": 19.45,
+  "lng": -99.14,
+  "text": "On 22 July 1552, at a Franciscan college for Indigenous nobles in Tlatelolco, the Nahua physician Martín de la Cruz finished a painted book of native remedies, which Juan Badiano translated into Latin. Sent as a gift for Emperor Charles V, it lists hundreds of plants, ordered from head ailments down to the feet. It resurfaced in the Vatican Library in 1929 and returned to Mexico in 1990.",
+  "source": {
+   "name": "PMC (Archivos de Cardiología de México): Libellus de Medicinalibus Indorum Herbis. Martín de la Cruz-Juan Badiano Codex",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11160528/"
+  }
+ },
+ {
+  "id": "v12-ibn-al-nafis-lungs",
+  "era": "medieval",
+  "year": 1230,
+  "dateLabel": "About 1230",
+  "cat": "discovery",
+  "title": "The Doctor Who Corrected Galen's Heart",
+  "place": "Great Nuri Hospital (Bimaristan al-Nuri), Damascus, Syria",
+  "lat": 33.51,
+  "lng": 36.3,
+  "text": "Born near Damascus in 1210 and trained at the city's Great Nuri Hospital, Ibn al-Nafis dared to contradict Galen. The wall between the heart's chambers, he wrote, is thick and has no hidden pores, so blood must pass through the lungs, mixing with air, to reach the left side. His manuscript lay forgotten until 1924, when an Egyptian doctor found it in a Berlin library.",
+  "source": {
+   "name": "PMC (Annals of Saudi Medicine): Ibn al-Nafis: discoverer of the pulmonary circulation",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6077055/"
+  }
+ },
+ {
+  "id": "v12-angkor-west-baray",
+  "era": "medieval",
+  "year": 1025,
+  "dateLabel": "Early 1000s",
+  "cat": "discovery",
+  "title": "Angkor's Giant Rectangle of Water",
+  "place": "West Baray, Angkor, Siem Reap, Cambodia",
+  "lat": 13.44,
+  "lng": 103.8,
+  "text": "In the first half of the 11th century, Angkor's builders raised earthen banks around a rectangle about 8 kilometres long and 2 kilometres wide. Filled to the brim, the West Baray held about 53 million cubic metres of water, probably for flood control, irrigation and ritual, with a temple on an island at its centre. It is the only one of Angkor's four great reservoirs that still holds water.",
+  "source": {
+   "name": "PMC (PNAS): Paleoenvironmental history of the West Baray, Angkor (Cambodia)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3268295/"
+  }
+ },
+ {
+  "id": "v12-bunyoro-caesarean",
+  "era": "industrial",
+  "year": 1879,
+  "dateLabel": "1879",
+  "cat": "discovery",
+  "title": "A Caesarean Section in Bunyoro",
+  "place": "Bunyoro kingdom, near Hoima, Uganda",
+  "lat": 1.43,
+  "lng": 31.35,
+  "text": "In 1879 a British medical student, Robert Felkin, watched a Bunyoro surgeon deliver a first-time mother's baby by caesarean section. She was left half-drunk on banana alcohol, which the surgeon also used to wash her belly and his own hands. He stopped the bleeding with a heated iron rod and pinned the wound with iron spikes. Eleven days later, mother and baby were both doing well.",
+  "source": {
+   "name": "PMC (Pan African Medical Journal): Overview of surgical and anesthesia practice in sub-Saharan Africa during the 19th century",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8627144/"
+  }
+ },
+ {
+  "id": "v12-jorjani-treasure-of-khwarazm",
+  "era": "medieval",
+  "year": 1110,
+  "dateLabel": "1110",
+  "cat": "discovery",
+  "title": "A Medical Treasure for Khwarazm's King",
+  "place": "Khwarazm, near Kunya-Urgench, Turkmenistan",
+  "lat": 42.31,
+  "lng": 59.15,
+  "text": "In 1110 the physician Ismail Jorjani, already in his late sixties, entered the service of the Khwarazmshah. He poured a lifetime of travel and study into a vast medical encyclopedia, the Treasure of the King of Khwarazm, covering everything from surgery to dentistry, and wrote it in Persian just as medicine in Iran was switching to that language. He kept teaching and treating patients until he died aged 94.",
+  "source": {
+   "name": "PMC (Iranian Red Crescent Medical Journal): The Life of Jorjani, one of the Persian pioneers of medical encyclopedia compiling",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3929806/"
+  }
+ },
+ {
+  "id": "v12-brahmachari-urea-stibamine",
+  "era": "modern",
+  "year": 1920,
+  "dateLabel": "1920",
+  "cat": "discovery",
+  "title": "A Calcutta Cure for Kala-Azar",
+  "place": "Campbell Medical School (now NRS Medical College), Kolkata, India",
+  "lat": 22.56,
+  "lng": 88.37,
+  "text": "Working with limited resources at Campbell Hospital in Calcutta, Upendranath Brahmachari made a breakthrough in 1920. By combining urea with an antimony compound, he created urea stibamine, a drug against kala-azar, a deadly parasitic disease. By 1925 the death rate among treated patients had fallen to 10 percent, and by 1933 Assam alone had treated over 328,000 people with it. He was nominated for a Nobel Prize.",
+  "source": {
+   "name": "PMC (Cureus): Dr. Upendranath Brahmachari: The Unsung Hero of Indian Medical Research",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11372334/"
+  }
+ },
+ {
+  "id": "v12-kokatha-variable-stars",
+  "era": "modern",
+  "year": 2014,
+  "dateLabel": "2014",
+  "cat": "discovery",
+  "title": "Flickering Stars in a Desert Story",
+  "place": "Kokatha Country, Great Victoria Desert, South Australia, Australia",
+  "lat": -30,
+  "lng": 134.5,
+  "text": "A Kokatha story from South Australia tells of Nyeeruna, seen in Orion, whose fire-magic in his right hand (Betelgeuse) is countered by fire-magic in the left foot of Kambugudha (Aldebaran). In 2014 two astronomers realised the tale tracks real changes in the sky: Betelgeuse varies in brightness faster than Aldebaran. In Europe, John Herschel only recorded Betelgeuse's changes in the 1830s.",
+  "source": {
+   "name": "The Conversation (Duane Hamacher, Monash University): Stars that vary in brightness shine in the oral traditions of Aboriginal Australians",
+   "url": "https://theconversation.com/stars-that-vary-in-brightness-shine-in-the-oral-traditions-of-aboriginal-australians-85833"
+  }
+ },
+ {
+  "id": "v12-babylon-jupiter-trapezoids",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "350–50 BCE",
+  "cat": "discovery",
+  "title": "Tracking Jupiter With Trapezoids",
+  "place": "Babylonia (near Babylon), Iraq",
+  "lat": 32.54,
+  "lng": 44.42,
+  "text": "Between about 350 and 50 BCE, Babylonian astronomers worked out how far Jupiter moved across the sky by treating its changing speed over time as the area of a trapezoid. Historian Mathieu Ossendrijver spent 13 years puzzling over four odd tablets in the British Museum before a nearly intact one cracked the code. Europeans were thought to have invented the trick in 14th-century Oxford.",
+  "source": {
+   "name": "National Geographic: Babylonians Tracked Jupiter With Advanced Tools: Trapezoids",
+   "url": "https://www.nationalgeographic.com/science/article/160128-math-geometry-babylon-jupiter-astronomy-space"
+  }
+ },
+ {
+  "id": "v12-akhawayni-night-mare",
+  "era": "medieval",
+  "year": 980,
+  "dateLabel": "Before 983",
+  "cat": "discovery",
+  "title": "A Bukhara Doctor Describes Sleep Paralysis",
+  "place": "Bukhara, Uzbekistan",
+  "lat": 39.77,
+  "lng": 64.42,
+  "text": "Before 983, the Bukhara physician Akhawayni packed 20 years of practice into his Learner's Guide to Medicine, the oldest surviving medical treatise in New Persian. One chapter covers kabus, the 'night-mare', what doctors now call sleep paralysis. He blamed vapours rising from the stomach to the brain and prescribed bloodletting. A Dutch doctor's account from 1664 is often called the earliest description.",
+  "source": {
+   "name": "PMC (Neuropsychiatric Disease and Treatment): Sleep paralysis in medieval Persia - the Hidayat of Akhawayni",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3373201/"
+  }
+ },
+ {
+  "id": "v12-ming-smallpox-nose-tube",
+  "era": "exploration",
+  "year": 1570,
+  "dateLabel": "1567–1572",
+  "cat": "discovery",
+  "title": "Smallpox Scabs Blown Up the Nose",
+  "place": "Taiping County (now Huangshan District), Anhui, China",
+  "lat": 30.27,
+  "lng": 118.14,
+  "text": "Records show practitioners in Taiping County inoculating children against smallpox during the Ming Longqing reign (1567–1572). In the 'dry' method, scabs from a smallpox patient were ground to powder and blown into a child's nostril through a slender silver or bamboo tube while the mother held the child steady. The milder infection that followed usually gave long-lasting protection, centuries before Jenner's cowpox vaccine.",
+  "source": {
+   "name": "PMC (Emerging Infectious Diseases): Variolation Techniques, Medical Explanations, and Dissemination in Late Imperial China",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13632842/"
+  }
+ },
+ {
+  "id": "v12-takaki-tsukuba-beriberi",
+  "era": "industrial",
+  "year": 1884,
+  "dateLabel": "1884",
+  "cat": "discovery",
+  "title": "The Training Ship That Beat Beriberi",
+  "place": "Tokyo, Japan (home of the Naval Medical Bureau)",
+  "lat": 35.67,
+  "lng": 139.77,
+  "text": "Japanese navy doctor Kanehiro Takaki suspected beriberi came from a diet too heavy in rice. In 1884 he sent the training ship Tsukuba on the same route and season as the beriberi-stricken Ryujo, changing only the food to a more Western menu. Nearly every sailor came home healthy, though some hated the bread so much they threw it overboard. By 1885 navy beriberi was near zero.",
+  "source": {
+   "name": "PMC (Journal of Epidemiology): Short history of epidemiology for noninfectious diseases in Japan, Part 1",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7058449/"
+  }
+ },
+ {
+  "id": "v12-ge-hong-qinghao-recipe",
+  "era": "classical",
+  "year": 320,
+  "dateLabel": "Early 300s CE",
+  "cat": "discovery",
+  "title": "A Cold Herbal Recipe Waits 1,600 Years",
+  "place": "Jurong, Jiangsu, China (Ge Hong's home region)",
+  "lat": 31.95,
+  "lng": 119.17,
+  "text": "The scholar Ge Hong (284–346 CE) wrote A Handbook of Prescriptions for Emergencies, full of quick remedies. One was strikingly simple: soak a handful of qinghao, sweet wormwood, in two litres of water, wring out the juice and drink it all. No boiling. Centuries later that detail suggested to Chinese researchers that heat destroys the herb's active compound, a clue on the road to the malaria drug artemisinin.",
+  "source": {
+   "name": "PMC (Frontiers in Pharmacology): Innovating Chinese Herbal Medicine: From Traditional Health Practice to Scientific Drug Discovery",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5472722/"
+  }
+ },
+ {
+  "id": "v12-lahore-ilah-dad-astrolabe",
+  "era": "exploration",
+  "year": 1570,
+  "dateLabel": "About 1570",
+  "cat": "discovery",
+  "title": "A Pocket Universe Made in Lahore",
+  "place": "Lahore, Punjab, Pakistan",
+  "lat": 31.58,
+  "lng": 74.31,
+  "text": "Around 1570, in the earliest workshop tradition of the Mughal court at Lahore, a brass astrolabe 16 centimetres across was engraved, probably by Ilah-Dad, first of a family of Lahore astrolabe makers. Its body carries a gazetteer of coordinates for 59 places, its lacy star map has about 19 star pointers, and five swappable plates let users work at latitudes from 21 to 54 degrees, including Samarqand.",
+  "source": {
+   "name": "Royal Museums Greenwich: Astrolabe (AST0560)",
+   "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-10722"
+  }
+ },
+ {
+  "id": "v12-copan-solar-stelae",
+  "era": "medieval",
+  "year": 650,
+  "dateLabel": "About 650",
+  "cat": "discovery",
+  "title": "Copán's Stones That Count the Sunsets",
+  "place": "Copán Ruinas, Copán, Honduras",
+  "lat": 14.84,
+  "lng": -89.14,
+  "text": "Around 650, Copán's ruler K'ahk' Uti' Witz' K'awiil set up 'solar stelae' that tracked the Sun along the horizon. In the 1920s archaeologist Sylvanus Morley noticed that, seen from Stela 12, the Sun sets behind Stela 10 on two days each year. Astronomer Anthony Aveni later showed that these sunsets marked out 20-day intervals, the same span as the dates carved on the stones.",
+  "source": {
+   "name": "The Conversation (Gerardo Aldana, UC Santa Barbara): Solstices brought Mayan communities together using monuments shaped by science and religion",
+   "url": "https://theconversation.com/solstices-brought-mayan-communities-together-using-monuments-shaped-by-science-and-religion-and-kingly-ambitions-too-231672"
+  }
+ },
+ {
+  "id": "v12-bayezid-ii-darussifa",
+  "era": "medieval",
+  "year": 1488,
+  "dateLabel": "1484–1488",
+  "cat": "discovery",
+  "title": "A Sultan's Hospital With Music Therapy",
+  "place": "Sultan Bayezid II Complex, Edirne, Turkey",
+  "lat": 41.69,
+  "lng": 26.55,
+  "text": "Between 1484 and 1488 the architect Hayrettin built a complex for Sultan Bayezid II at Edirne: a mosque, a hospital, a medical school, a poorhouse and a bathhouse. Alongside the usual remedies, its doctors tried music and occupational therapy on patients. Abandoned after the empire fell, the buildings were restored by Trakya University from 1984 and became a museum of medicine in 1997.",
+  "source": {
+   "name": "PMC (Balkan Medical Journal): A Short Note About the Reconsideration of the Image of Bayezid II Darüşşifa",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5450856/"
+  }
+ },
+ {
+  "id": "v12-sippar-si427-field-plan",
+  "era": "ancient",
+  "year": -1700,
+  "dateLabel": "About 1700 BCE",
+  "cat": "discovery",
+  "title": "A Surveyor's Perfect Right Angles",
+  "place": "Sippar (Tell Abu Habbah), southwest of Baghdad, Iraq",
+  "lat": 33.06,
+  "lng": 44.25,
+  "text": "About 3,700 years ago a Babylonian surveyor drew a clay plan of a small field bought from a man named Sîn-bêl-apli, measuring the marshy patches with special care. Unlike older plans, its corners are exact right angles, laid out using three Pythagorean triples. Dug up at Sippar in 1894, tablet Si.427 sat misunderstood for over a century and is now on display in Istanbul.",
+  "source": {
+   "name": "The Conversation (Daniel Mansfield, UNSW): How ancient Babylonian land surveyors developed a unique form of trigonometry",
+   "url": "https://theconversation.com/how-ancient-babylonian-land-surveyors-developed-a-unique-form-of-trigonometry-1-000-years-before-the-greeks-163428"
+  }
+ },
+ {
+  "id": "v12-asyut-coffin-star-tables",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 2000 BCE",
+  "cat": "discovery",
+  "title": "Star Clocks Painted Inside Coffins",
+  "place": "Asyut, Egypt",
+  "lat": 27.18,
+  "lng": 31.17,
+  "text": "Around 2000 BCE, some wooden coffins at Asyut had astronomical tables painted inside their lids. Each column covered ten days and each of the 12 rows named a star, modelled on Sirius, that vanished from view for about 70 days a year. Watching which star rose let people tell the hours of the night, and the Egyptians' 12-part night may be the root of our hours.",
+  "source": {
+   "name": "The Conversation (Robert Cockcroft and Sarah Symons, McMaster University): Ancient Egyptians measured the first hour",
+   "url": "https://theconversation.com/ancient-egyptians-measured-the-first-hour-and-changed-how-we-related-to-time-203659"
+  }
+ },
+ {
+  "id": "v12-kadambini-ganguly-doctor",
+  "era": "industrial",
+  "year": 1886,
+  "dateLabel": "1886",
+  "cat": "discovery",
+  "title": "Calcutta's Pioneering Woman Doctor",
+  "place": "Calcutta Medical College, Kolkata, India",
+  "lat": 22.57,
+  "lng": 88.36,
+  "text": "In 1886 Kadambini Ganguly won her medical degree from Calcutta Medical College, which had until then registered only male students. She is regarded as the first woman to practise Western medicine in India. She treated members of Nepal's royal family, took further qualifications in Edinburgh, Glasgow and Dublin, and studied the lives of women working in coal mines, despite an orthodox journal calling her a whore.",
+  "source": {
+   "name": "PMC (Cureus): Dr. Kadambini Ganguly (1861-1923): A Pioneer in Indian Medicine",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11289354/"
+  }
+ },
+ {
+  "id": "v12-cahokia-woodhenge-sun",
+  "era": "medieval",
+  "year": 1100,
+  "dateLabel": "About 1000–1200",
+  "cat": "discovery",
+  "title": "Cahokia's Calendar of Wooden Posts",
+  "place": "Woodhenge, Cahokia Mounds, Collinsville, Illinois, USA",
+  "lat": 38.66,
+  "lng": -90.07,
+  "text": "At Cahokia, people raised about five 'woodhenges', circles or arcs of evenly spaced wooden posts. Seen from the centre, certain posts mark where the Sun rose or set on the first days of the solstices and equinoxes, and the winter solstice sunrise lines up with a distant temple mound. Beside the winter solstice post, an offering pit held a small beaker painted with a cross inside a circle.",
+  "source": {
+   "name": "Illinois State Museum RiverWeb: Woodhenges",
+   "url": "https://www.museum.state.il.us/RiverWeb/landings/Ambot/prehistory/mississippian/technology/fac-woodhenges.html"
+  },
+  "source2": {
+   "name": "The Conversation (Rosalyn LaPier, University of Montana): What winter solstice rituals tell us about Indigenous people",
+   "url": "https://theconversation.com/what-winter-solstice-rituals-tell-us-about-indigenous-people-108327"
+  }
+ },
+ {
+  "id": "v12-irri-ir8-miracle-rice",
+  "era": "modern",
+  "year": 1966,
+  "dateLabel": "1966",
+  "cat": "discovery",
+  "title": "Miracle Rice From Los Baños",
+  "place": "International Rice Research Institute, Los Baños, Laguna, Philippines",
+  "lat": 14.17,
+  "lng": 121.26,
+  "text": "In late 1966 the International Rice Research Institute at Los Baños released IR8, soon nicknamed 'miracle rice'. Its parents were Dee-Geo-Woo-Gen, a short Taiwanese landrace, and Peta, a tall Indonesian rice prized for its taste. Breeders had aimed for short, stiff stems and big harvests when fertilised. By 1980 over three-quarters of the Philippines' rice land grew modern varieties like it.",
+  "source": {
+   "name": "PMC (Botanical Studies): Both semi-dwarf and photoperiod-insensitive traits in rice were important for the Green Revolution",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13022152/"
+  },
+  "source2": {
+   "name": "PMC (PLOS ONE): Farmers' Preference for Rice Traits: Insights from Farm Surveys in Central Luzon, Philippines, 1966-2012",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4552743/"
+  }
+ }
+]

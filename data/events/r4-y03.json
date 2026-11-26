@@ -1,0 +1,314 @@
+[
+ {
+  "id": "y03-vanuatu-newcomers-from-bismarcks",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "By about 300 BCE (about 2,300 years ago)",
+  "cat": "journeys",
+  "title": "New Arrivals Reshape Vanuatu",
+  "place": "Efate and Epi Islands, Vanuatu",
+  "lat": -17.73,
+  "lng": 168.32,
+  "text": "Ancient DNA from Efate and Epi shows that people of almost entirely Papuan ancestry had reached Vanuatu by around 2,300 years ago, coming from the Bismarck Archipelago rather than the closer Solomon Islands. Yet the islanders kept speaking the Austronesian language of the first Lapita settlers, and its descendants, more than 120 languages, are still spoken in Vanuatu today.",
+  "source": {
+   "name": "Current Biology (Lipson et al. 2018, via PubMed Central): Population Turnover in Remote Oceania Shortly after Initial Settlement",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5882562/"
+  },
+  "source2": {
+   "name": "Max Planck Institute for the Science of Human History: Ancient DNA reveals genetic replacement despite language continuity in the South Pacific",
+   "url": "https://www.shh.mpg.de/851473/genetic-replacement-despite-language-continuity-in-the-South-Pacific"
+  }
+ },
+ {
+  "id": "y03-fais-first-islanders",
+  "era": "classical",
+  "year": 340,
+  "dateLabel": "About AD 340 (dated AD 230–410)",
+  "cat": "journeys",
+  "title": "Settlers on Tiny Fais Island",
+  "place": "Fais Island, Yap State, Federated States of Micronesia",
+  "lat": 9.77,
+  "lng": 140.52,
+  "text": "Fais is a raised coral island of just 2.8 square kilometres, with no safe anchorage, about 80 km from Ulithi atoll. Its earliest layer, radiocarbon-dated to about AD 230–410, held giant-clam shell adzes, shell bracelets and beads, and a few potsherds. Rats arrived with the first settlers, and pots kept coming over the sea from Yap throughout the island's history.",
+  "source": {
+   "name": "Asian Perspectives 47(1), University of Hawai'i ScholarSpace (Intoh 2008): Ongoing Archaeological Research on Fais Island, Micronesia",
+   "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/eb65e50f-09c3-4f6c-a286-d4ab1a35c081/content"
+  }
+ },
+ {
+  "id": "y03-teouma-swamp-taro",
+  "era": "ancient",
+  "year": -800,
+  "dateLabel": "About 800 BCE (about 2,800 years ago)",
+  "cat": "discovery",
+  "title": "Taro Clues in Swamp Mud",
+  "place": "Emaotfer Swamp, near Teouma, Efate, Vanuatu",
+  "lat": -17.77,
+  "lng": 168.41,
+  "text": "A sediment core from Emaotfer swamp, 1 km from the Teouma Lapita cemetery, holds chemical traces of the first settlers. Molecules made by human gut microbes rise at the same time as a marker of taro farming, showing gardens arrived with the newcomers. The first unmistakable sign dates to about 2,800 years ago, during a spell of increasingly wet weather.",
+  "source": {
+   "name": "Communications Earth & Environment (2024, via PubMed Central): Sedimentary biomarkers of human presence and taro cultivation reveal early horticulture in Remote Oceania",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11541199/"
+  }
+ },
+ {
+  "id": "y03-tarkine-seal-villages",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "About AD 100 (about 1,900 years ago)",
+  "cat": "daily",
+  "title": "Seal-Hunters' Villages of the Tarkine",
+  "place": "West Point (Nongor), Tarkine coast, northwest Tasmania, Australia",
+  "lat": -40.95,
+  "lng": 144.62,
+  "text": "About 1,900 years ago, Aboriginal people on Tasmania's northwest coast began a more settled way of life that lasted until the 1830s. In summer, groups gathered in villages of huts beside rich spots such as West Point, next to an elephant seal colony, then split up in leaner winters. Their shell middens hold seal and shellfish remains but strikingly few fish bones.",
+  "source": {
+   "name": "Australian Government, Australian Heritage Database: Western Tasmania Aboriginal Cultural Landscape",
+   "url": "http://www.environment.gov.au/cgi-bin/ahdb/search.pl?mode=place_detail&place_id=105751"
+  }
+ },
+ {
+  "id": "y03-lapita-namesake-site-kone",
+  "era": "ancient",
+  "year": -1260,
+  "dateLabel": "About 1260 BCE (earliest dates for the site)",
+  "cat": "culture",
+  "title": "The Beach That Named Lapita",
+  "place": "Site 13A, Foué peninsula, Koné, North Province, New Caledonia",
+  "lat": -21.05,
+  "lng": 164.79,
+  "text": "The famous Lapita culture takes its name from a misspelled Kanak name for a beach in Koné. People began living on this narrow spit of land around 1260 BCE, leaving pottery, adzes and shell armbands. In 1952 excavators found finely decorated pots here and used radiocarbon dating to prove the site was far older than expected, with pottery resembling finds from Fiji, Tonga and Watom.",
+  "source": {
+   "name": "Academia Sinica, Institute of History and Philology, Lapita Pottery Online Database: Lapita (13A)",
+   "url": "https://lapita.ihp.sinica.edu.tw/info.php?id=10"
+  }
+ },
+ {
+  "id": "y03-nanggu-santa-cruz",
+  "era": "ancient",
+  "year": -1450,
+  "dateLabel": "About 1450–1150 BCE (began 3,400–3,100 years ago)",
+  "cat": "journeys",
+  "title": "Remote Oceania's Earliest Village?",
+  "place": "Nanggu (SE-SZ-8), Nendö, Santa Cruz Islands, Temotu Province, Solomon Islands",
+  "lat": -10.79,
+  "lng": 166.03,
+  "text": "On Nendö in the Santa Cruz Islands, a Lapita village beside Tepiai Lagoon was settled roughly 3,400 to 3,100 years ago and lived in for about a century. Excavated in 1971 by Roger Green, it is described as the earliest settlement yet found in Remote Oceania. Its pottery, stone adzes, gravers and animal bones offer clues about the very first colonists.",
+  "source": {
+   "name": "Academia Sinica, Institute of History and Philology, Lapita Pottery Online Database: Nanggu (SE-SZ-8)",
+   "url": "https://lapita.ihp.sinica.edu.tw/info.php?id=2"
+  }
+ },
+ {
+  "id": "y03-kamgot-anir",
+  "era": "ancient",
+  "year": -1340,
+  "dateLabel": "About 1340 BCE (oldest dates about 3,300 years ago)",
+  "cat": "daily",
+  "title": "Early Lapita Life on Babase",
+  "place": "Kamgot, Babase Island, Anir Group, New Ireland Province, Papua New Guinea",
+  "lat": -4.02,
+  "lng": 153.67,
+  "text": "Kamgot, on a raised limestone shelf of Babase Island, stretches over 400 metres and is one of the few sites from the very start of Lapita, the oldest of four Lapita sites in the Anir group. Its oldest radiocarbon dates centre around 3,300 years ago. Diggers found decorated pottery, obsidian, shell fishhooks, rings and beads, engraved bone and drilled dog teeth.",
+  "source": {
+   "name": "Academia Sinica, Institute of History and Philology, Lapita Pottery Online Database: Kamgot (ERA)",
+   "url": "https://lapita.ihp.sinica.edu.tw/info.php?id=5"
+  }
+ },
+ {
+  "id": "y03-vao-painted-lapita-pot",
+  "era": "ancient",
+  "year": -650,
+  "dateLabel": "By about 650 BCE (no later than 2,600 years ago)",
+  "cat": "culture",
+  "title": "A Painted Pot From Vao",
+  "place": "Vao Island, off Malakula, Malampa Province, Vanuatu",
+  "lat": -15.9,
+  "lng": 167.31,
+  "text": "On little Vao Island, off Malakula, archaeologists found Late Lapita burials dated to no later than 2,600 years ago. They also pieced together a pot from 20 sherds. Its makers stamped toothed patterns on the upper half, then covered them with white paint and added red, partly hiding the stamped designs. The site was found in 2002 during heritage training with the Vanuatu Cultural Centre.",
+  "source": {
+   "name": "Academia Sinica, Institute of History and Philology, Lapita Pottery Online Database: Vao",
+   "url": "https://lapita.ihp.sinica.edu.tw/info.php?id=9"
+  }
+ },
+ {
+  "id": "y03-weipa-shell-mounds",
+  "era": "classical",
+  "year": -350,
+  "dateLabel": "About 350 BCE–AD 150 (mounds growing 2,300–1,800 years ago)",
+  "cat": "daily",
+  "title": "Mountains of Shells at Weipa",
+  "place": "Wathayn, Albatross Bay, Weipa, Cape York Peninsula, Queensland, Australia",
+  "lat": -12.68,
+  "lng": 141.9,
+  "text": "Around Albatross Bay on Cape York, Aboriginal people heaped up more than 500 shell mounds, the biggest over 10 metres high with up to 10,000 tonnes of shell. Radiocarbon dates from 70 mounds at Wathayn show mounds growing 2,300 to 1,800 years ago, a time once thought quiet. Aboriginal people today say the mounds were where shellfish were opened before the meat was carried away.",
+  "source": {
+   "name": "PLOS ONE (2017, via PubMed Central): Temporal variability in shell mound formation at Albatross Bay, northern Australia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5576746/"
+  }
+ },
+ {
+  "id": "y03-pohnpei-drowned-first-villages",
+  "era": "classical",
+  "year": 87,
+  "dateLabel": "About AD 87 (oldest pottery date, 1,863 years BP)",
+  "cat": "nature",
+  "title": "Pohnpei's Drowned First Villages?",
+  "place": "Pohnpei, Federated States of Micronesia",
+  "lat": 6.88,
+  "lng": 158.22,
+  "text": "Pottery, a sure sign of settlers, first appears on Pohnpei about 1,863 years before 1950, and on Kosrae a little earlier. But mangrove mud shows the sea around both islands has risen about 4.3 metres over 5,700 years as the land sank. Much early evidence already comes from tidal or underwater sites, so even older villages may lie below the waves.",
+  "source": {
+   "name": "PNAS (2022, via PubMed Central): Implications of anomalous relative sea-level rise for the peopling of Remote Oceania",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9907147/"
+  }
+ },
+ {
+  "id": "y03-palau-ucheliungs-dna",
+  "era": "ancient",
+  "year": -850,
+  "dateLabel": "About 850 BCE (about 2,800 years ago)",
+  "cat": "discovery",
+  "title": "Palau's Long Family Line",
+  "place": "Ucheliungs burial cave, Rock Islands, Koror, Palau",
+  "lat": 7.27,
+  "lng": 134.45,
+  "text": "People first lived on Palau's Rock Islands and Babeldaob about 3,200 years ago. DNA from a person buried in the Ucheliungs cave about 2,800 years ago shows roughly 60 percent East Asian and 40 percent Papuan ancestry, much like Palauans today. The two groups had mixed before reaching Palau, giving the islands the longest population continuity known in Remote Oceania.",
+  "source": {
+   "name": "Cell (2026, via PubMed Central): Papuan admixture predated the settlement of Palau",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13025617/"
+  }
+ },
+ {
+  "id": "y03-tamuarawai-school-find",
+  "era": "ancient",
+  "year": -1410,
+  "dateLabel": "About 1410–1210 BCE (dated 3,360–3,160 years BP)",
+  "cat": "discovery",
+  "title": "Schoolchildren Find a Lapita Village",
+  "place": "Tamuarawai (EQS), Emirau Island, St Matthias Group, New Ireland Province, Papua New Guinea",
+  "lat": -1.66,
+  "lng": 149.94,
+  "text": "In 2006 a teacher, Mr K. Vito, and pupils from Rongol Top Up primary school on Emirau Island found old pottery. Photos sent to archaeologist G.R. Summerhayes showed it was Lapita, and digs followed. Dated to roughly 3,360 to 3,160 years ago, the village left shell fishhooks, net sinkers, octopus lures, beads and even a slingshot stone.",
+  "source": {
+   "name": "Academia Sinica, Institute of History and Philology, Lapita Pottery Online Database: Tamuarawai (EQS)",
+   "url": "https://lapita.ihp.sinica.edu.tw/info.php?id=324"
+  }
+ },
+ {
+  "id": "y03-kurin-mare-lapita",
+  "era": "ancient",
+  "year": -1050,
+  "dateLabel": "About 1050–800 BCE",
+  "cat": "journeys",
+  "title": "Lapita Settlers Reach Maré",
+  "place": "Kurin (LPO023), Maré, Loyalty Islands, New Caledonia",
+  "lat": -21.6,
+  "lng": 168.11,
+  "text": "On a dune beside the reef on Maré, in the Loyalty Islands, Lapita people lived from about 1050–1000 BCE to 850–800 BCE. Their oldest dates come from a stone cooking oven. The site shows the Loyalty Islands were settled at roughly the same time as New Caledonia's main island. It was found in 1997 by Christophe Sand and F. Wadra of the Yéwéné Cultural Centre.",
+  "source": {
+   "name": "Academia Sinica, Institute of History and Philology, Lapita Pottery Online Database: Kurin (LPO023)",
+   "url": "https://lapita.ihp.sinica.edu.tw/info.php?id=12"
+  }
+ },
+ {
+  "id": "y03-vatcha-isle-of-pines",
+  "era": "ancient",
+  "year": -910,
+  "dateLabel": "About 910 BCE (cumulative date for first occupation)",
+  "cat": "culture",
+  "title": "New Pots on the Isle of Pines",
+  "place": "St Maurice-Vatcha (KVO003), Vao, Isle of Pines, New Caledonia",
+  "lat": -22.69,
+  "lng": 167.49,
+  "text": "On a dune at the southern tip of the Isle of Pines, Lapita settlers arrived around 910 BCE, just decades after others reached New Caledonia's main island. They left pottery, shell rings, beads and adzes. In the upper layers, incised pots seen as forerunners of the later Puen style appear beside Lapita ware, showing the old tradition flowing into a new one.",
+  "source": {
+   "name": "Academia Sinica, Institute of History and Philology, Lapita Pottery Online Database: Vatcha (KVO003)",
+   "url": "https://lapita.ihp.sinica.edu.tw/info.php?id=11"
+  }
+ },
+ {
+  "id": "y03-narrabeen-man",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 2000 BCE (about 4,000 years ago)",
+  "cat": "discovery",
+  "title": "The Man Under the Bus Stop",
+  "place": "Narrabeen, northern beaches, Sydney, New South Wales, Australia",
+  "lat": -33.71,
+  "lng": 151.3,
+  "text": "Digging beneath a bus shelter at Narrabeen revealed an Aboriginal man killed on the dunes about 4,000 years ago. Small stone points called backed microliths, plus injuries to his bones, showed he died from stone-tipped spears: the first archaeological evidence of death by spearing in Australia. It also revealed how these points were used, and hints at a ritual punishment.",
+  "source": {
+   "name": "Antiquity 81 (McDonald et al. 2007), Australian National University research portal: The first archaeological evidence for death by spearing in Australia",
+   "url": "https://researchportalplus.anu.edu.au/en/publications/the-first-archaeological-evidence-for-death-by-spearing-in-austra/"
+  },
+  "source2": {
+   "name": "Cambridge Core, Antiquity: The first archaeological evidence for death by spearing in Australia",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/first-archaeological-evidence-for-death-by-spearing-in-australia/E7C597E0CF13DBA8EF76738797BE3101"
+  }
+ },
+ {
+  "id": "y03-arnhem-beeswax-turtle",
+  "era": "ancient",
+  "year": -2850,
+  "dateLabel": "About 2850–2460 BCE (more than 4,000 years ago)",
+  "cat": "culture",
+  "title": "A Turtle Made of Beeswax",
+  "place": "Gunbilngmurrung, western Arnhem Land, Northern Territory, Australia",
+  "lat": -12.35,
+  "lng": 133.45,
+  "text": "Some rock art in Arnhem Land was made from beeswax rather than paint. A naturalistic beeswax turtle at Gunbilngmurrung, radiocarbon-dated in 1995 and confirmed by a second test in 2002, is more than 4,000 years old: the oldest visible image of confirmed age in Arnhem Land. Drawn in the early X-ray style, it even shows a thin-line backbone.",
+  "source": {
+   "name": "ANU Press, The Archaeology of Rock Art in Western Arnhem Land, Australia (2017), chapter 1",
+   "url": "https://press-files.anu.edu.au/downloads/press/n3991/html/ch01.xhtml"
+  }
+ },
+ {
+  "id": "y03-dampier-new-toolkit",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 1500 BCE (after 3,500 years ago)",
+  "cat": "discovery",
+  "title": "A New Toolkit at Murujuga",
+  "place": "Dampier Archipelago (Murujuga), Pilbara, Western Australia, Australia",
+  "lat": -20.55,
+  "lng": 116.75,
+  "text": "Before about 3,500 years ago, campsites in the Dampier Archipelago held scrapers, horsehoof cores and retouched flakes. After that, Aboriginal toolmakers added microliths, tula adzes and slugs. These smaller tools were probably fixed to handles rather than held in the hand, and many were made from stone brought in from outside the islands. Rock engravings here show spears, boomerangs and nets.",
+  "source": {
+   "name": "Australian Government, Australian Heritage Database: Dampier Archipelago (including Burrup Peninsula)",
+   "url": "http://www.environment.gov.au/cgi-bin/ahdb/search.pl?mode=place_detail&place_id=105727"
+  }
+ },
+ {
+  "id": "y03-curracurrang-dingo-burial",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "About 100 BCE (dated about 2,140–1,930 years BP)",
+  "cat": "culture",
+  "title": "A Dingo Buried With Care",
+  "place": "Curracurrang Rockshelter, Royal National Park, New South Wales, Australia",
+  "lat": -34.16,
+  "lng": 151.13,
+  "text": "In a rockshelter about 30 km south of Sydney, a nearly complete dingo skeleton was buried about 2,000 years ago. Its teeth are unusually worn, hinting it ate harder food than wild dingoes. Researchers note that Aboriginal people usually buried dingoes much as they buried community members, sometimes beside people, and that some tame dingoes lived in camps.",
+  "source": {
+   "name": "PLOS ONE (2023, via PubMed Central): Dingoes, companions in life and death: The significance of archaeological canid burial practices in Australia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10588905/"
+  }
+ },
+ {
+  "id": "y03-pingelap-atoll",
+  "era": "classical",
+  "year": 250,
+  "dateLabel": "By about AD 250–400 (1,700–1,550 years BP at the latest)",
+  "cat": "journeys",
+  "title": "Settling Lonely Pingelap Atoll",
+  "place": "Pingelap Atoll, Pohnpei State, Federated States of Micronesia",
+  "lat": 6.21,
+  "lng": 160.7,
+  "text": "Pingelap is an atoll of only 1.8 square kilometres, nearly 70 km from the nearest island. Radiocarbon dates show people were living there by 1,700–1,550 years ago at the latest, only a few centuries after Kosrae and Pohnpei were settled. Early layers hold shell tools, ornaments, heaps of sea-creature remains and burnt remains of crop plants.",
+  "source": {
+   "name": "Radiocarbon 61(3), Cambridge Core (Levin, Seikel and Miles 2019): A Partial Chronological Sequence of Human Habitation for Pingelap Atoll",
+   "url": "https://www.cambridge.org/core/journals/radiocarbon/article/abs/partial-chronological-sequence-of-human-habitation-for-pingelap-atoll-pohnpei-state-federated-states-of-micronesia/D26F3766EA07C9CE82DD4EB4B48A8D2F"
+  }
+ }
+]

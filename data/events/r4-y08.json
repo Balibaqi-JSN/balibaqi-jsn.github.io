@@ -1,0 +1,362 @@
+[
+ {
+  "id": "y08-laigle-stones-from-the-sky",
+  "era": "industrial",
+  "year": 1803,
+  "dateLabel": "April 26, 1803",
+  "cat": "nature",
+  "title": "Stones Rain on L'Aigle",
+  "place": "L'Aigle, Orne, Normandy, France",
+  "lat": 48.76,
+  "lng": 0.63,
+  "text": "A shower of stones, with deafening explosions, fell just north of the Normandy village of L'Aigle. Villagers sold some to collectors, and the young physicist Jean-Baptiste Biot was sent to investigate. He interviewed hundreds of witnesses, studied hundreds of stones and printed the first ever map of a meteorite fall. After his report, nearly everyone accepted that such stones came from space.",
+  "source": {
+   "name": "Linda Hall Library: Scientist of the Day - Jean-Baptiste Biot",
+   "url": "https://lindahall.org/about/news/scientist-of-the-day/jean-baptiste-biot-2"
+  }
+ },
+ {
+  "id": "y08-silent-night-first-sung",
+  "era": "industrial",
+  "year": 1818,
+  "dateLabel": "December 24, 1818",
+  "cat": "culture",
+  "title": "Silent Night Is Sung First",
+  "place": "St. Nicholas Church, Oberndorf bei Salzburg, Austria",
+  "lat": 47.94,
+  "lng": 12.94,
+  "text": "On Christmas Eve, assistant priest Joseph Mohr gave organist Franz Xaver Gruber a poem and asked for a melody with guitar accompaniment. That evening at St. Nicholas church, Mohr sang tenor and played guitar while Gruber sang bass, to a congregation of mostly boatmen and shipping workers. 'Silent Night' has since been translated into some 300 languages.",
+  "source": {
+   "name": "Silent Night Association (Stille Nacht Gesellschaft): History of the Song",
+   "url": "https://www.stillenacht.at/en/history-of-the-song"
+  },
+  "source2": {
+   "name": "Austrian Commission for UNESCO: \"Silent Night\" - the Christmas carol",
+   "url": "https://www.unesco.at/en/culture/intangible-cultural-heritage/national-inventory/news-1/article/silent-night-the-christmas-carol"
+  }
+ },
+ {
+  "id": "y08-semmelweis-washes-hands",
+  "era": "industrial",
+  "year": 1847,
+  "dateLabel": "1847",
+  "cat": "discovery",
+  "title": "Wash Your Hands, Doctor",
+  "place": "Vienna General Hospital, Vienna, Austria",
+  "lat": 48.22,
+  "lng": 16.35,
+  "text": "After a colleague died from a scalpel cut during an autopsy, with symptoms just like childbed fever, Ignaz Semmelweis decided doctors were carrying the disease to new mothers. He made all doctors and students in his ward disinfect their hands in chlorinated lime before examining pregnant women. Deaths on his ward fell from 18.27% to 1.27% in 1848.",
+  "source": {
+   "name": "Science History Institute: Ignaz Semmelweis",
+   "url": "https://www.sciencehistory.org/education/scientific-biographies/ignaz-semmelweis/"
+  }
+ },
+ {
+  "id": "y08-champollion-reads-hieroglyphs",
+  "era": "industrial",
+  "year": 1822,
+  "dateLabel": "1822",
+  "cat": "discovery",
+  "title": "Champollion Cracks the Code",
+  "place": "Paris, France",
+  "lat": 48.86,
+  "lng": 2.35,
+  "text": "After ten years of stubborn research, Jean-François Champollion could finally read part of the hieroglyphs, signs that had been silent for nearly fifteen centuries. Using the names Ptolemy and then Cleopatra, he saw that Egyptians spelled foreign rulers' names with sound-signs, like an alphabet. He set it out in his Letter to Monsieur Dacier, and wrote his own name and the date in hieroglyphs in his notebook.",
+  "source": {
+   "name": "Bibliothèque nationale de France (BnF Essentiels): En 1822, Champollion perce le secret des hiéroglyphes",
+   "url": "https://essentiels.bnf.fr/fr/article/1fa13963-21a8-4e08-950a-05f6515b7d34-1822-champollion-perce-secret-hieroglyphes"
+  }
+ },
+ {
+  "id": "y08-beethoven-ninth-premiere",
+  "era": "industrial",
+  "year": 1824,
+  "dateLabel": "May 7, 1824",
+  "cat": "culture",
+  "title": "Applause He Could Not Hear",
+  "place": "Theater am Kärntnertor, Vienna, Austria",
+  "lat": 48.2,
+  "lng": 16.37,
+  "text": "Beethoven finished his Ninth Symphony, with its setting of Schiller's ode 'To Joy', in March 1824. It premiered in Vienna that May at a concert he planned himself, with the choir placed in front of the orchestra. The composer was by then deaf, and at the end he had to be turned around to see the tumultuous applause he could not hear.",
+  "source": {
+   "name": "Los Angeles Philharmonic: Symphony No. 9 in D minor, Op. 125 (program note)",
+   "url": "https://www.laphil.com/musicdb/pieces/4068/symphony-no-9-in-d-minor-op-125"
+  },
+  "source2": {
+   "name": "Beethoven-Haus Bonn: 200 years of Beethoven's Ninth",
+   "url": "https://www.beethoven.de/en/press/view/5079801412976640/200+Jahre+Neunte+Sinfonie"
+  }
+ },
+ {
+  "id": "y08-niepce-view-from-window",
+  "era": "industrial",
+  "year": 1827,
+  "dateLabel": "1827",
+  "cat": "discovery",
+  "title": "The View From Niépce's Window",
+  "place": "Le Gras, Saint-Loup-de-Varennes, Burgundy, France",
+  "lat": 46.72,
+  "lng": 4.86,
+  "text": "Nicéphore Niépce coated a polished pewter plate with light-sensitive bitumen dissolved in oil of lavender, put it in a camera obscura by his upstairs window and waited several days. The plate slowly recorded the courtyard, outbuildings and trees outside. He called it 'the first uncertain step in a completely new direction', and it is the earliest surviving camera photograph.",
+  "source": {
+   "name": "Harry Ransom Center, University of Texas at Austin: The Niépce Heliograph",
+   "url": "https://www.hrc.utexas.edu/niepce-heliograph/"
+  }
+ },
+ {
+  "id": "y08-pride-and-prejudice",
+  "era": "industrial",
+  "year": 1813,
+  "dateLabel": "January 28, 1813",
+  "cat": "culture",
+  "title": "Pride and Prejudice Goes on Sale",
+  "place": "London, England, UK",
+  "lat": 51.51,
+  "lng": -0.13,
+  "text": "Jane Austen first wrote this story as 'First Impressions' at age 20, but a publisher rejected it by return mail. Years later she cut and revised it, and in January 1813 it went on sale in three volumes for 18 shillings, credited only to 'the Author of Sense and Sensibility'. The first edition sold out in less than a year.",
+  "source": {
+   "name": "Jane Austen Society of North America (JASNA): Pride and Prejudice",
+   "url": "https://jasna.org/austen/works/pride-prejudice/"
+  }
+ },
+ {
+  "id": "y08-galle-spots-neptune",
+  "era": "industrial",
+  "year": 1846,
+  "dateLabel": "September 23, 1846",
+  "cat": "discovery",
+  "title": "A Planet Found by Maths",
+  "place": "Berlin Observatory, Berlin, Germany",
+  "lat": 52.5,
+  "lng": 13.39,
+  "text": "Urbain Le Verrier in Paris had worked out where an unknown planet should be from wobbles in the orbit of Uranus, and wrote to Johann Galle at the Berlin Observatory. Using a Fraunhofer telescope and a new star chart, Galle spotted an object not on the chart on the very first night, about one degree from the predicted spot. It was the planet later named Neptune.",
+  "source": {
+   "name": "Linda Hall Library: Scientist of the Day - Johann Galle",
+   "url": "https://www.lindahall.org/about/news/scientist-of-the-day/johann-galle/"
+  }
+ },
+ {
+  "id": "y08-broad-street-pump",
+  "era": "industrial",
+  "year": 1854,
+  "dateLabel": "August-September 1854",
+  "cat": "daily",
+  "title": "The Pump on Broad Street",
+  "place": "Broad Street (Broadwick Street), Soho, London, England, UK",
+  "lat": 51.51,
+  "lng": -0.14,
+  "text": "In 1854 cholera killed upwards of five hundred people in ten days around Soho. Doctor John Snow found that nearly all the deaths were close to the Broad Street water pump, while brewery workers with their own deep well and workhouse residents with their own pump mostly escaped. After Snow met the parish Board of Guardians, the pump's handle was removed the next day.",
+  "source": {
+   "name": "T. H. Tulchinsky, Case Studies in Public Health (2018), via PubMed Central: John Snow, Cholera, the Broad Street Pump",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7150208/"
+  }
+ },
+ {
+  "id": "y08-neanderthal-bones",
+  "era": "industrial",
+  "year": 1856,
+  "dateLabel": "August 1856",
+  "cat": "discovery",
+  "title": "Bones in the Neander Valley",
+  "place": "Feldhofer Grotto, Neander Valley, Mettmann, Germany",
+  "lat": 51.23,
+  "lng": 6.95,
+  "text": "Workers clearing a small cave in a limestone gorge near Mettmann threw out a skullcap and fifteen other bones, thinking they belonged to a cave bear. Local teacher Johann Carl Fuhlrott saw that they were human and prehistoric, a bold idea almost nobody shared then. They became the first scientifically described fossil human remains: the Neanderthal. Limestone mining later destroyed the cave itself.",
+  "source": {
+   "name": "Neanderthal Museum: History of the discovery of Neanderthal man",
+   "url": "https://neanderthal.de/en/our-museum/exhibition/discovery-history-neanderthals"
+  },
+  "source2": {
+   "name": "Schmitz et al., PNAS 2002 (PubMed Central): The Neandertal type site revisited",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC130635/"
+  }
+ },
+ {
+  "id": "y08-first-geneva-convention",
+  "era": "industrial",
+  "year": 1864,
+  "dateLabel": "August 1864",
+  "cat": "power",
+  "title": "A Red Cross on White",
+  "place": "Geneva, Switzerland",
+  "lat": 46.2,
+  "lng": 6.15,
+  "text": "A Geneva committee that included Henry Dunant, author of a book calling for better care of wounded soldiers, persuaded governments to act. In August 1864 delegates from a dozen countries adopted the first Geneva Convention. It obliged armies to care for wounded soldiers whatever side they were on, and gave medical services one shared emblem: a red cross on a white background.",
+  "source": {
+   "name": "International Committee of the Red Cross: History of the ICRC",
+   "url": "https://www.icrc.org/en/document/history-icrc"
+  },
+  "source2": {
+   "name": "ICRC Archives and Library blog (Cross-Files): ICRC History, a primer",
+   "url": "https://blogs.icrc.org/cross-files/icrc-history-a-primer/"
+  }
+ },
+ {
+  "id": "y08-cro-magnon-shelter",
+  "era": "industrial",
+  "year": 1868,
+  "dateLabel": "March 1868",
+  "cat": "discovery",
+  "title": "Meeting Cro-Magnon",
+  "place": "Cro-Magnon rock shelter, Les Eyzies-de-Tayac, Dordogne, France",
+  "lat": 44.94,
+  "lng": 1.01,
+  "text": "Workers building a railway line near Les Eyzies stumbled on human remains in a rock shelter. Neanderthals were already known, but these were the first prehistoric people found who looked exactly like us. Louis Lartet led the dig and presented the find in Paris that April. Shells used to decorate the burials were later dated to between 32,000 and 31,000 years ago.",
+  "source": {
+   "name": "French Ministry of Culture (Archéologie de la France): The Cro-Magnon rock shelter",
+   "url": "https://archeologie.culture.gouv.fr/france/en/cro-magnon-rock-shelter"
+  },
+  "source2": {
+   "name": "Smithsonian National Museum of Natural History, Human Origins: Cro-Magnon 1",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/cro-magnon-1"
+  }
+ },
+ {
+  "id": "y08-knossos-dig-begins",
+  "era": "industrial",
+  "year": 1900,
+  "dateLabel": "March 23, 1900",
+  "cat": "discovery",
+  "title": "Digging Up the Palace of Minos",
+  "place": "Knossos, near Heraklion, Crete, Greece",
+  "lat": 35.3,
+  "lng": 25.16,
+  "text": "Cretan Minos Kalokairinos had already dug trenches at Knossos in 1878, but war with the Ottomans delayed new work. Once Crete had its own government, Arthur Evans bought the land and began digging on 23 March 1900, helped by his local foreman Manolis Akoumianakis. They uncovered a grand palace with bright wall paintings and clay tablets in a script later called Linear B.",
+  "source": {
+   "name": "University of Oxford, Faculty of Classics (Crete course): Evans at Knossos",
+   "url": "https://crete.classics.ox.ac.uk/U2S2/U2S2L4.html"
+  },
+  "source2": {
+   "name": "Ashmolean Museum: Sir Arthur Evans, Biography",
+   "url": "https://sirarthurevans.ashmus.ox.ac.uk/biography/"
+  }
+ },
+ {
+  "id": "y08-doktoro-esperanto",
+  "era": "industrial",
+  "year": 1887,
+  "dateLabel": "July 26, 1887",
+  "cat": "culture",
+  "title": "Doctor Hopeful's New Language",
+  "place": "Warsaw, Poland (then Russian Empire)",
+  "lat": 52.23,
+  "lng": 21.01,
+  "text": "Eye doctor Ludwik Zamenhof had worked on a planned language since his school days in Warsaw, but no publisher would take it. After the censors approved it, he published a 40-page textbook himself, paid for with the dowry of his wife Klara Zilbernik. Worried for his reputation, he signed it 'Doktoro Esperanto', meaning 'Doctor Hopeful'. The Esperanto movement had begun.",
+  "source": {
+   "name": "Austrian National Library (ÖNB), Bernhard Tuider: Die Lingvo Internacia des Dr. Esperanto",
+   "url": "https://www.onb.ac.at/mehr/blogs/detail/die-lingvo-internacia-des-dr-esperanto"
+  }
+ },
+ {
+  "id": "y08-kovalevskaya-professor",
+  "era": "industrial",
+  "year": 1889,
+  "dateLabel": "June 1889",
+  "cat": "discovery",
+  "title": "A Woman Takes the Chair",
+  "place": "Stockholm University, Stockholm, Sweden",
+  "lat": 59.34,
+  "lng": 18.06,
+  "text": "Russian mathematician Sofia Kovalevskaya first had to lecture in Stockholm for a year without pay to prove herself, and one local writer called a female professor 'a monstrosity'. She won France's Prix Bordin for work on spinning bodies, and in June 1889 became the first woman since Laura Bassi and Maria Gaetana Agnesi to hold a chair at a European university.",
+  "source": {
+   "name": "MacTutor History of Mathematics, University of St Andrews: Sofia Kovalevskaya",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kovalevskaya/"
+  }
+ },
+ {
+  "id": "y08-messina-earthquake-tsunami",
+  "era": "industrial",
+  "year": 1908,
+  "dateLabel": "December 28, 1908",
+  "cat": "nature",
+  "title": "Earthquake and Wave at Messina",
+  "place": "Strait of Messina, Messina, Sicily, Italy",
+  "lat": 38.19,
+  "lng": 15.55,
+  "text": "An earthquake of magnitude greater than 7 struck southern Italy, and within minutes a tsunami hit the coasts of Calabria and Sicily. South of Reggio Calabria the wave reached about 13 metres, even dragging a boat inside a church, and it flooded streets as far away as Malta. About 80,000 people died from collapsed buildings and the quake, while the sea killed several hundred more, perhaps 2,000 or more.",
+  "source": {
+   "name": "INGV Tsunami Alert Centre (Istituto Nazionale di Geofisica e Vulcanologia): Tsu-Memo, the tsunami of Reggio Calabria and Messina",
+   "url": "https://cat.ingv.it/en/media-and-documents/news-en/227-tsu-memo-112-years-ago-the-tsunami-of-reggio-calabria-and-messina"
+  }
+ },
+ {
+  "id": "y08-swan-lake-flop",
+  "era": "industrial",
+  "year": 1877,
+  "dateLabel": "February 20, 1877 (Russian calendar)",
+  "cat": "culture",
+  "title": "Swan Lake's Bumpy Start",
+  "place": "Bolshoi Theatre, Moscow, Russia",
+  "lat": 55.76,
+  "lng": 37.62,
+  "text": "Tchaikovsky threw himself into his first ballet, studying every dance step to fit the music. But at the Bolshoi premiere almost everything went wrong: critics called the choreography 'gymnastics exercises', a silly quarrel replaced the star ballerina with her understudy, and an inexperienced conductor struggled with the score. Swan Lake only found lasting fame in a new 1895 production in St Petersburg.",
+  "source": {
+   "name": "Mariinsky Theatre: Swan Lake (programme note by Natalia Rogudeeva)",
+   "url": "https://prim.mariinsky.ru/en/playbill/playbill/2018/4/5/1_1900/"
+  }
+ },
+ {
+  "id": "y08-bleriot-crosses-channel",
+  "era": "industrial",
+  "year": 1909,
+  "dateLabel": "July 25, 1909",
+  "cat": "journeys",
+  "title": "Blériot Flies the Channel",
+  "place": "Les Baraques, near Calais, France, to Dover, England",
+  "lat": 50.96,
+  "lng": 1.8,
+  "text": "Early one morning, headlamp maker Louis Blériot took off from near Calais in his little Type XI monoplane, chasing a £1,000 newspaper prize, while his rival Hubert Latham was still fast asleep. Flying with an injured foot through rain and poor visibility, he reached Dover in 36 minutes and 30 seconds, damaging his plane on landing. It was the first aeroplane flight over a large body of water.",
+  "source": {
+   "name": "Smithsonian National Air and Space Museum: Blériot's Cross-Channel Flight",
+   "url": "https://airandspace.si.edu/stories/editorial/bleriots-cross-channel-flight"
+  }
+ },
+ {
+  "id": "y08-portugal-becomes-republic",
+  "era": "industrial",
+  "year": 1910,
+  "dateLabel": "October 5, 1910",
+  "cat": "power",
+  "title": "A Republic From the Balcony",
+  "place": "Lisbon City Hall, Lisbon, Portugal",
+  "lat": 38.71,
+  "lng": -9.14,
+  "text": "Republican ideas spread through Portugal's cities at rallies drawing thousands. Republicans and allies in the army and navy took to Lisbon's streets in the early hours of 4 October 1910, and fighting raged from the riverside square to the Rotunda. Some mishaps nearly wrecked the revolt, but royal forces failed to take advantage, and next morning the Republic was proclaimed from the balcony of Lisbon City Hall.",
+  "source": {
+   "name": "Museu da Presidência da República (Portugal): Implantação da República",
+   "url": "https://www.museu.presidencia.pt/pt/conhecer/simbolos-nacionais/implantacao-da-republica/"
+  }
+ },
+ {
+  "id": "y08-gaudi-takes-sagrada-familia",
+  "era": "industrial",
+  "year": 1883,
+  "dateLabel": "November 3, 1883",
+  "cat": "culture",
+  "title": "Gaudí Takes Over a Church",
+  "place": "Sagrada Família, Eixample, Barcelona, Catalonia, Spain",
+  "lat": 41.4,
+  "lng": 2.17,
+  "text": "The cornerstone of a new church in Barcelona had been laid in 1882, on the feast of Saint Joseph, on land surrounded by gardens and paths. When its first architect, Francisco de Paula del Villar, stepped down, the young Antoni Gaudí took over and proposed 'a Temple that strives to be universal'. Its crypt Chapel of Saint Joseph was consecrated in 1885.",
+  "source": {
+   "name": "Basílica de la Sagrada Família (official blog): 144 years of shared history",
+   "url": "https://blog.sagradafamilia.org/en/sagrada-familia-144-anys-historia-compartida/"
+  }
+ },
+ {
+  "id": "y08-venice-campanile-falls",
+  "era": "industrial",
+  "year": 1902,
+  "dateLabel": "July 14, 1902",
+  "cat": "daily",
+  "title": "Venice's Bell Tower Falls",
+  "place": "Piazza San Marco, Venice, Veneto, Italy",
+  "lat": 45.43,
+  "lng": 12.34,
+  "text": "For almost 1,000 years St Mark's bell tower had survived lightning strikes and an earthquake, and from 1885 experts warned that its foundations were too weak. On 14 July 1902 it collapsed into a deserted square that police had closed to the public, and nobody was hurt. Venice rebuilt it 'as it was and where it was', opening it again on St Mark's Day 1912.",
+  "source": {
+   "name": "Procuratoria di San Marco (Basilica di San Marco): The Bell Tower",
+   "url": "https://www.basilicasanmarco.it/en/campanile/"
+  }
+ }
+]

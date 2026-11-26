@@ -1,0 +1,134 @@
+[
+ {
+  "id": "n06b-alexandria-on-the-syr-darya",
+  "era": "classical",
+  "year": -329,
+  "dateLabel": "329–327 BCE",
+  "cat": "power",
+  "title": "Alexander's City on the Syr Darya",
+  "place": "Khujand, Sughd, Tajikistan",
+  "lat": 40.28,
+  "lng": 69.62,
+  "text": "Archaeology shows a town already stood here on the Syr Darya, at the entrance to the Ferghana Valley, by the 6th to 5th century BCE. During his campaigns in the region in 329–327 BCE, Alexander the Great appears to have built a city called Alexandria near or around the site. Today it is Khujand, renamed Leninabad in 1936 and given back its old name in 1990.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Khojand (Keith Hitchins)",
+   "url": "https://www.iranicaonline.org/articles/khujand-kojand/"
+  }
+ },
+ {
+  "id": "n06b-siege-of-bactra",
+  "era": "classical",
+  "year": -208,
+  "dateLabel": "208–206 BCE",
+  "cat": "power",
+  "title": "The Two-Year Siege of Bactra",
+  "place": "Balkh (ancient Bactra), Balkh Province, Afghanistan",
+  "lat": 36.76,
+  "lng": 66.9,
+  "text": "In 208 BCE the Seleucid king Antiochus III invaded Bactria to win back his eastern lands. The Greek king Euthydemus lost a cavalry battle and was besieged in Bactra until 206. He talked his way out: he warned he might withdraw his guards on the Syr Darya and let Scythian invaders in, and won recognition as king after handing over his elephants.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Euthydemus (A. D. H. Bivar)",
+   "url": "https://www.iranicaonline.org/articles/euthydemus/"
+  }
+ },
+ {
+  "id": "n06b-nader-frees-khiva-slaves",
+  "era": "exploration",
+  "year": 1740,
+  "dateLabel": "1740",
+  "cat": "power",
+  "title": "Nader Shah Empties Khiva's Slave Market",
+  "place": "Khiva, Khorezm, Uzbekistan",
+  "lat": 41.38,
+  "lng": 60.36,
+  "text": "Khiva's slave market sold Persians seized in Khorasan and Russians captured along Russia's Siberian borders and the Caspian shore. When the Persian ruler Nader Shah took Khiva after a brief campaign in 1740, he ordered all its slaves set free and had a town built for them near Abivard, called Khiva-abad. One reliable source counts 7,000 freed Persians alone.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Khiva (Paolo Sartori and Yuri Bregel)",
+   "url": "https://www.iranicaonline.org/articles/khiva/"
+  }
+ },
+ {
+  "id": "n06b-kokand-golden-cradle",
+  "era": "exploration",
+  "year": 1709,
+  "dateLabel": "1709",
+  "cat": "power",
+  "title": "A Khanate Born in the Ferghana Valley",
+  "place": "Kokand, Ferghana Valley, Uzbekistan",
+  "lat": 40.53,
+  "lng": 70.94,
+  "text": "In 1709 Shahrukh Biy, a chief of the Uzbek Ming tribe, defeated his rivals, built a fortress near modern Kokand and was proclaimed ruler. His family later claimed descent from a legendary baby: the story said Babur, leaving Ferghana for India, placed his infant son in a golden cradle and left him behind so his line could one day lead the valley.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Kokand Khanate (T. K. Beisembiev and Scott C. Levi)",
+   "url": "https://www.iranicaonline.org/articles/kokand-khanate/"
+  }
+ },
+ {
+  "id": "n06b-kokand-takes-tashkent",
+  "era": "industrial",
+  "year": 1809,
+  "dateLabel": "1809–1810",
+  "cat": "power",
+  "title": "Kokand's Mountain Army Takes Tashkent",
+  "place": "Tashkent, Uzbekistan",
+  "lat": 41.31,
+  "lng": 69.28,
+  "text": "After Kokand expanded into the Pamirs, Alem Khan drafted Tajik conscripts from his new subjects into an army of up to 6,000 men called the Ghalcha, rigorously trained and armed with up-to-date weapons. After uniting the Ferghana Valley, his troops conquered Tashkent in 1809–1810 and ended the rule of its Khoja religious leaders, helping turn Kokand into a regional power.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Kokand Khanate (T. K. Beisembiev and Scott C. Levi)",
+   "url": "https://www.iranicaonline.org/articles/kokand-khanate/"
+  }
+ },
+ {
+  "id": "n06b-vega-cape-chelyushkin",
+  "era": "industrial",
+  "year": 1878,
+  "dateLabel": "August 19, 1878",
+  "cat": "journeys",
+  "title": "The Vega Rounds Siberia's Northern Tip",
+  "place": "Cape Chelyushkin, Taymyr Peninsula, Krasnoyarsk Krai, Russia",
+  "lat": 77.72,
+  "lng": 104.25,
+  "text": "The steam vessel Vega left Tromsø, Norway, on July 21, 1878, carrying the Swedish geologist and explorer Adolf Erik Nordenskiöld. On August 19 it reached Cape Chelyushkin, roughly the midpoint of the voyage. Frozen in near the Bering Strait from late September until July 1879, the Vega went on to complete the first full voyage through the Northeast Passage.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Adolf Erik, Baron Nordenskiöld",
+   "url": "https://www.britannica.com/biography/Adolf-Erik-Baron-Nordenskiold"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Northeast Passage",
+   "url": "https://www.britannica.com/place/Northeast-Passage"
+  }
+ },
+ {
+  "id": "n06b-eucratides-giant-gold-coin",
+  "era": "classical",
+  "year": -170,
+  "dateLabel": "170–145 BCE (reign of Eucratides I)",
+  "cat": "daily",
+  "title": "The Biggest Gold Coin of Antiquity",
+  "place": "Bactria, northern Afghanistan",
+  "lat": 36.7,
+  "lng": 67.1,
+  "text": "Eucratides I, who ruled Bactria from 170 to 145 BCE, was one of the last and most powerful Greek kings there. His mints struck coins found as far away as the Black Sea, including the largest gold coin of ancient times, a 20-stater piece now in Paris. A new design showed the twin heroes, the Dioskouroi, charging on horseback with stars on their caps.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Eucratides (Paul Bernard)",
+   "url": "https://www.iranicaonline.org/articles/eucratides/"
+  }
+ },
+ {
+  "id": "n06b-bukhara-silk-market",
+  "era": "exploration",
+  "year": 1577,
+  "dateLabel": "1577",
+  "cat": "daily",
+  "title": "Bukhara's Great Silk Market",
+  "place": "Tim Abdullah Khan, Bukhara, Uzbekistan",
+  "lat": 39.77,
+  "lng": 64.42,
+  "text": "Built in 1577 on Bukhara's main commercial street, this covered market was once called the Great Market and became a centre of Central Asia's famed silk trade. Nineteen domes cluster around a high central dome above alcoves for merchants' stalls. It is the only survivor of the city's six covered markets, which linked up with caravanserais, bathhouses, madrasas and mosques.",
+  "source": {
+   "name": "Archnet (Aga Khan Documentation Center at MIT): Tim Abdullah Khan, Bukhara",
+   "url": "https://www.archnet.org/sites/2451"
+  }
+ }
+]

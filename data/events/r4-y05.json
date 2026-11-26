@@ -1,0 +1,298 @@
+[
+ {
+  "id": "y05-borneo-wild-cattle-painting",
+  "era": "early",
+  "year": -40000,
+  "dateLabel": "At least 40,000 years ago",
+  "cat": "culture",
+  "title": "Wild Cattle on a Borneo Wall",
+  "place": "Lubang Jeriji Saléh, East Kalimantan, Indonesia",
+  "lat": 1.0,
+  "lng": 117.8,
+  "text": "High in the limestone mountains of East Kalimantan, a cave called Lubang Jeriji Saléh holds three rotund, cow-like animals painted on its wall, the largest more than seven feet across. Uranium-thorium dating of mineral crusts suggests they are at least 40,000 years old. Hundreds of hand outlines in red-orange paint wave from the ceilings nearby.",
+  "source": {
+   "name": "National Geographic: World's oldest known figurative paintings discovered in Borneo cave",
+   "url": "https://www.nationalgeographic.com/science/article/news-oldest-animal-drawing-borneo-cave-art-human-origins"
+  }
+ },
+ {
+  "id": "y05-sulawesi-hunting-scene",
+  "era": "early",
+  "year": -43900,
+  "dateLabel": "At least 43,900 years ago",
+  "cat": "culture",
+  "title": "Bird-Headed Hunters Chase an Anoa",
+  "place": "Leang Bulu' Sipong 4, Maros-Pangkep, South Sulawesi, Indonesia",
+  "lat": -4.85,
+  "lng": 119.65,
+  "text": "In December 2017, Indonesian researchers found a cave mural in South Sulawesi showing small part-human, part-animal figures hunting wild pigs and buffalo-like anoa with what seem to be ropes or spears. One figure appears to have a bird-like head and beak. Cave popcorn grown over the paint gave uranium-series ages of up to 43,900 years.",
+  "source": {
+   "name": "The Conversation (Brumm, Oktaviana, Aubert, Griffith University): Indonesian cave paintings show the dawn of imaginative art and human spiritual belief",
+   "url": "https://theconversation.com/indonesian-cave-paintings-show-the-dawn-of-imaginative-art-and-human-spiritual-belief-128457"
+  }
+ },
+ {
+  "id": "y05-leang-timpuseng-hand",
+  "era": "early",
+  "year": -39900,
+  "dateLabel": "At least 39,900 years ago",
+  "cat": "discovery",
+  "title": "An Ancient Hand Stencil Dated",
+  "place": "Leang Timpuseng, Maros, South Sulawesi, Indonesia",
+  "lat": -4.98,
+  "lng": 119.68,
+  "text": "Scholars had reported hand stencils and animal paintings in Sulawesi's caves since the 1950s, but nobody knew their age. In 2014, uranium in mineral layers coating the art showed a hand stencil at Leang Timpuseng was at least 39,900 years old. A painting of a babirusa, or pig-deer, in the same cave dates back at least 35,400 years.",
+  "source": {
+   "name": "The Conversation (Taçon, Brumm, Aubert, Griffith University): 40,000-year-old rock art found in Indonesia",
+   "url": "https://theconversation.com/40-000-year-old-rock-art-found-in-indonesia-32674"
+  },
+  "source2": {
+   "name": "National Geographic: Cave art in Indonesia rivals Europe's oldest",
+   "url": "https://www.nationalgeographic.com/science/article/141008-cave-art-sulawesi-hand-science"
+  }
+ },
+ {
+  "id": "y05-mehtakheri-microblades",
+  "era": "early",
+  "year": -45000,
+  "dateLabel": "About 45,000 years ago",
+  "cat": "discovery",
+  "title": "Tiny Blades on the Narmada",
+  "place": "Mehtakheri, Narmada Valley, Madhya Pradesh, India",
+  "lat": 22.23,
+  "lng": 76.03,
+  "text": "Near the village of Mehtakheri, above the Narmada River, archaeologists dug up microblades, tiny stone blades. Optical dating put them at about 45,000 years old. In India this toolmaking tradition then continued all the way to the Iron Age, and the researchers argued it arrived with the earliest modern humans rather than being invented locally after 35,000 years ago.",
+  "source": {
+   "name": "PLoS ONE (Mishra, Chauhan & Singhvi 2013): Continuity of Microblade Technology in the Indian Subcontinent Since 45 ka",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0069280"
+  }
+ },
+ {
+  "id": "y05-bukit-jawa-workshop",
+  "era": "early",
+  "year": -200000,
+  "dateLabel": "About 200,000–100,000 years ago",
+  "cat": "daily",
+  "title": "A Toolmakers' Workshop in Lenggong",
+  "place": "Bukit Jawa, Lenggong Valley, Perak, Malaysia",
+  "lat": 5.13,
+  "lng": 100.97,
+  "text": "Along the Perak River, the Lenggong Valley preserves undisturbed Stone Age workshops where stone tools were made, on the shores of an ancient lake and on old river gravel beds. One of these workshop sites, Bukit Jawa, dates from about 200,000 to 100,000 years ago. UNESCO says the valley's sites together show a sequence of human history unrivalled in the region.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Archaeological Heritage of the Lenggong Valley",
+   "url": "https://whc.unesco.org/en/list/1396"
+  }
+ },
+ {
+  "id": "y05-wajak-skulls",
+  "era": "early",
+  "year": -37400,
+  "dateLabel": "Between about 37,400 and 28,500 years ago (minimum age)",
+  "cat": "discovery",
+  "title": "The Wajak Skulls Grow Older",
+  "place": "Wajak, Tulungagung, East Java, Indonesia",
+  "lat": -8.11,
+  "lng": 111.85,
+  "text": "Around 1890 the scientist Eugène Dubois collected human skulls, animal bones and tools at Wajak in Java. Older tests had made the bones seem fairly recent, but in 2013 laser ablation uranium-series dating gave a minimum age of between 37,400 and 28,500 years for the whole assemblage. The researchers said this means rethinking how early modern humans in Southeast Asia were related.",
+  "source": {
+   "name": "Journal of Human Evolution (Storm et al. 2013), via ANU Research Portal: U-series and radiocarbon analyses of human and faunal remains from Wajak, Indonesia",
+   "url": "https://researchportalplus.anu.edu.au/en/publications/u-series-and-radiocarbon-analyses-of-human-and-faunal-remains-fro/"
+  },
+  "source2": {
+   "name": "Naturalis Biodiversity Center, Scripta Geologica (Storm 1995): The evolutionary significance of the Wajak skulls",
+   "url": "https://repository.naturalis.nl/pub/317406"
+  }
+ },
+ {
+  "id": "y05-indian-ostrich-eggshells",
+  "era": "iceage",
+  "year": -25000,
+  "dateLabel": "At least 25,000 years ago",
+  "cat": "nature",
+  "title": "When Ostriches Roamed India",
+  "place": "Runija, Ujjain, Madhya Pradesh, India",
+  "lat": 23.1,
+  "lng": 75.4,
+  "text": "Ostriches are extinct in India today, but fossil eggshells from sites in Rajasthan, Madhya Pradesh and Gujarat prove they once lived there. In 2017, scientists recovered ancient DNA from shells at least 25,000 years old, and one from Runija matched the African ostrich completely. People used the shells too: some had been made into beads or scratched with crisscross patterns.",
+  "source": {
+   "name": "PLoS ONE (Jain et al. 2017), PubMed Central: Ancient DNA Reveals Late Pleistocene Existence of Ostriches in Indian Sub-Continent",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5342186"
+  }
+ },
+ {
+  "id": "y05-alor-fish-hook-burial",
+  "era": "iceage",
+  "year": -12000,
+  "dateLabel": "Shortly after about 12,000 years ago",
+  "cat": "culture",
+  "title": "Buried with Her Fish-Hooks",
+  "place": "Tron Bon Lei rockshelter, Alor Island, East Nusa Tenggara, Indonesia",
+  "lat": -8.35,
+  "lng": 124.6,
+  "text": "In 2014, archaeologists digging a rockshelter on Alor's south coast found the skull of probably an adult woman buried with five shell fish-hooks, a perforated shell and two cobbles coated in red ochre. Dating showed she was buried shortly after about 12,000 years ago. With few other protein sources on the island, fishing seems to have mattered to this community in life and in death.",
+  "source": {
+   "name": "Antiquity (O'Connor et al. 2017), Cambridge Core: Fishing in life and death: Pleistocene fish-hooks from a burial context on Alor Island, Indonesia",
+   "url": "https://www.cambridge.org/core/product/BD9145338CF10EE824AC4A7F0AF7E2D9/core-reader"
+  }
+ },
+ {
+  "id": "y05-lang-rongrien-foragers",
+  "era": "early",
+  "year": -43000,
+  "dateLabel": "About 43,000–27,000 years ago",
+  "cat": "daily",
+  "title": "Tortoise on the Ice Age Menu",
+  "place": "Lang Rongrien rockshelter, Krabi, Thailand",
+  "lat": 8.18,
+  "lng": 98.95,
+  "text": "The lowest layers of Lang Rongrien rockshelter in southern Thailand date from about 43,000 to 27,000 years ago. Their animal bones show what Ice Age foragers ate: a few fish, snails and birds, but mostly tortoises, turtles and mammals, and no pigs at all. The shelter seems to have been used now and then by people moving between the interior and the coast.",
+  "source": {
+   "name": "Asian Perspectives (Mudar & Anderson 2007), Project MUSE: New Evidence for Southeast Asian Pleistocene Foraging Economies: Faunal Remains from the Early Levels of Lang Rongrien Rockshelter",
+   "url": "https://muse.jhu.edu/article/220118"
+  }
+ },
+ {
+  "id": "y05-laili-arrival",
+  "era": "early",
+  "year": -44000,
+  "dateLabel": "About 44,000 years ago",
+  "cat": "journeys",
+  "title": "Sudden Arrival on Timor",
+  "place": "Laili rockshelter, Laleia, Manatuto, Timor-Leste",
+  "lat": -8.54,
+  "lng": 126.13,
+  "text": "Laili rockshelter overlooks the Laleia river on Timor's north coast. Its deepest layer, laid down between 59,000 and 54,000 years ago, shows no sign of people. Then, around 44,000 years ago, intensive human living begins abruptly, with chert tools, burnt bones, ash and masses of fish bone and shellfish. The researchers suggest this was a colonisation phase.",
+  "source": {
+   "name": "Nature Communications (2024), PubMed Central: Abrupt onset of intensive human occupation 44,000 years ago on the threshold of Sahul",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11111772"
+  }
+ },
+ {
+  "id": "y05-muna-claw-hand",
+  "era": "early",
+  "year": -67800,
+  "dateLabel": "At least 67,800 years ago",
+  "cat": "culture",
+  "title": "A Hand with a Claw",
+  "place": "Liang Metanduno, Muna Island, Southeast Sulawesi, Indonesia",
+  "lat": -4.9,
+  "lng": 122.6,
+  "text": "In a cave that locals call Liang Metanduno, on Muna island off southeastern Sulawesi, one painted hand stencil has a finger that looks pointy like an animal claw. Laser-ablation uranium-series dating, announced in 2026, showed it is at least 67,800 years old. That makes it the oldest rock art attributed to modern humans found so far.",
+  "source": {
+   "name": "National Geographic: The world's oldest rock art discovered in Indonesia",
+   "url": "https://www.nationalgeographic.com/history/article/worlds-oldest-rock-art-indonesia-hand-stencil"
+  }
+ },
+ {
+  "id": "y05-tham-lod-savanna",
+  "era": "early",
+  "year": -34000,
+  "dateLabel": "About 34,000–12,000 years ago",
+  "cat": "nature",
+  "title": "Ice Age Savanna in the Thai Hills",
+  "place": "Tham Lod rockshelter, Pang Mapha, Mae Hong Son, Thailand",
+  "lat": 19.57,
+  "lng": 98.28,
+  "text": "Hunter-gatherers used Tham Lod rockshelter, 640 metres up in Thailand's northwestern highlands, from about 34,000 to 12,000 years ago. Chemical clues in the teeth of animals found there, from tigers and elephants to rhinoceroses and wild cattle, reveal a mosaic of forest and grassland. Scientists think this savanna corridor may have helped people and animals spread across mainland Southeast Asia.",
+  "source": {
+   "name": "Scientific Reports (Suraprasit et al. 2021), PubMed Central: Late Pleistocene human paleoecology in the highland savanna ecosystem of mainland Southeast Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8373907"
+  }
+ },
+ {
+  "id": "y05-nam-lot-orangutan-tooth",
+  "era": "early",
+  "year": -86000,
+  "dateLabel": "About 86,000–72,000 years ago",
+  "cat": "discovery",
+  "title": "The Human Tooth That Wasn't",
+  "place": "Nam Lot, Houaphan, Laos",
+  "lat": 20.2,
+  "lng": 103.4,
+  "text": "Nam Lot sits in the Laos mountains about 1,120 metres above sea level, in karst deposits dated to about 86,000 to 72,000 years ago. An incisor from the site had been reported as human. In 2021, scientists studied the ancient proteins in its enamel and found it belonged to an orangutan, leaving no human remains older than about 70,000 years known in the area.",
+  "source": {
+   "name": "Scientific Reports (Bacon et al. 2021), PubMed Central: A multi-proxy approach to exploring Homo sapiens' arrival, environments and adaptations in Southeast Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8548499/"
+  }
+ },
+ {
+  "id": "y05-trang-an-cave-dwellers",
+  "era": "iceage",
+  "year": -30000,
+  "dateLabel": "More than 30,000 years ago",
+  "cat": "daily",
+  "title": "Hunters Among Trang An's Towers",
+  "place": "Trang An, Ninh Binh, Vietnam",
+  "lat": 20.26,
+  "lng": 105.9,
+  "text": "Near the edge of Vietnam's Red River Delta, limestone towers up to 200 metres high rise over partly submerged valleys. Caves at different heights hold traces of people over more than 30,000 years: seasonal hunter-gatherers who had to adapt as the sea repeatedly flooded the landscape after the last ice age. Later, Hoa Lu, an early Vietnamese capital, was built here.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Trang An Landscape Complex",
+   "url": "https://whc.unesco.org/en/list/1438"
+  }
+ },
+ {
+  "id": "y05-lene-hara-red-pigment",
+  "era": "iceage",
+  "year": -29300,
+  "dateLabel": "About 29,300–24,000 years ago",
+  "cat": "culture",
+  "title": "Hidden Paint at Lene Hara",
+  "place": "Lene Hara cave, Tutuala, Lautém, Timor-Leste",
+  "lat": -8.39,
+  "lng": 127.27,
+  "text": "Red paintings decorate Lene Hara cave in East Timor. Scientists dated the thin calcite layers that sandwich the paint and found the visible paintings are less than 6,300 years old. But an older layer of similar red pigment within the calcite gave an age of 24,000 to 29,300 years, possible evidence that people painted here much earlier.",
+  "source": {
+   "name": "Journal of Archaeological Science (Aubert et al. 2007), via ANU Research Portal: Uranium-series dating rock art in East Timor",
+   "url": "https://researchportalplus.anu.edu.au/en/publications/uranium-series-dating-rock-art-in-east-timor/"
+  }
+ },
+ {
+  "id": "y05-bubog-shell-midden",
+  "era": "early",
+  "year": -31000,
+  "dateLabel": "About 31,000–28,000 years ago",
+  "cat": "daily",
+  "title": "Shellfish Feasts on Ilin Island",
+  "place": "Bubog 1, Ilin Island, Occidental Mindoro, Philippines",
+  "lat": 12.23,
+  "lng": 121.07,
+  "text": "On little Ilin Island off Mindoro, foragers left a thick, layered heap of shells: its base dates to 28,000 to 33,000 years ago and its top to about 4,000 years ago. The lowest layer is packed with valves of the clam Geloina, and two shell tools were dated to 31,000 to 28,000 years ago. Beach pebbles served as hammers to crack open larger marine shells.",
+  "source": {
+   "name": "Frontiers in Earth Science (Pawlik & Fuentes 2023): Prehistoric Hunter-Gatherers in the Philippines: Subsistence strategies, adaptation, and behaviour in maritime environments",
+   "url": "https://www.frontiersin.org/articles/10.3389/feart.2023.1110147/full"
+  }
+ },
+ {
+  "id": "y05-ille-cave-deer-to-pig",
+  "era": "iceage",
+  "year": -11000,
+  "dateLabel": "About 11,000 BP",
+  "cat": "daily",
+  "title": "From Deer to Pig in Ille Cave",
+  "place": "Ille Cave, El Nido, Palawan, Philippines",
+  "lat": 11.2,
+  "lng": 119.43,
+  "text": "Excavations at Ille Cave in northern Palawan show people living there from about 11,000 years ago, at the end of the Pleistocene. Their stone tools and food bones reveal hunter-foragers who switched from relying on deer to relying on pig. Later, around 9,500 to 9,000 years ago, a cremation burial was placed here in a container, the earliest known in the region.",
+  "source": {
+   "name": "Antiquity (Lewis et al. 2008), Cambridge Core: Terminal Pleistocene to mid-Holocene occupation and an early cremation burial at Ille Cave, Palawan, Philippines",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/terminal-pleistocene-to-midholocene-occupation-and-an-early-cremation-burial-at-ille-cave-palawan-philippines/C9133191CC9A53C0F4645FCF6416905D"
+  }
+ },
+ {
+  "id": "y05-coc-muoi-rainforest",
+  "era": "early",
+  "year": -148000,
+  "dateLabel": "About 148,000–117,000 years ago",
+  "cat": "nature",
+  "title": "A Rainforest Before People",
+  "place": "Coc Muoi, Lang Son, Vietnam",
+  "lat": 21.85,
+  "lng": 106.55,
+  "text": "Fossil bones from Coc Muoi, a site in Vietnam's Lang Son province, date to about 148,000 to 117,000 years ago. Chemical signals in the animals' teeth show that closed rainforest held most of the mammal life, mostly browsing animals. No human remains or tools turned up with the bones: researchers found no clear sign of people in the region before about 70,000 years ago.",
+  "source": {
+   "name": "Scientific Reports (Bacon et al. 2021), PubMed Central: A multi-proxy approach to exploring Homo sapiens' arrival, environments and adaptations in Southeast Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8548499/"
+  }
+ }
+]

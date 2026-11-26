@@ -1,0 +1,362 @@
+[
+ {
+  "id": "m11-ofune-deep-pit-houses",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 2500–2000 BCE",
+  "cat": "daily",
+  "title": "Deep Houses by the Pacific",
+  "place": "Ofune Site, Hakodate, Hokkaido, Japan",
+  "lat": 41.95,
+  "lng": 140.92,
+  "text": "On a coastal terrace facing the Pacific, in what is now Hakodate, Jōmon people built a hub settlement with more than 100 pit dwellings and large earthen mounds. Some houses were dug over two metres deep. A burned whale vertebra found in one dwelling hints at animal rituals, and food remains include sea mammals, fish, shellfish, nuts and wild grapes.",
+  "source": {
+   "name": "World Heritage Jomon Prehistoric Sites in Northern Japan (official site): Ofune Site",
+   "url": "https://jomon-japan.jp/en/learn/jomon-sites/ofune"
+  }
+ },
+ {
+  "id": "m11-kiusu-earthwork-burial-circles",
+  "era": "ancient",
+  "year": -1200,
+  "dateLabel": "About 1200 BCE",
+  "cat": "culture",
+  "title": "Giant Rings for the Dead",
+  "place": "Kiusu, Chitose, Hokkaido, Japan",
+  "lat": 42.84,
+  "lng": 141.7,
+  "text": "Near rivers where salmon and trout swim upstream, Jōmon people in central Hokkaido dug huge circular pits and piled the earth into rings to make shared cemeteries. Kiusu has nine of these earthwork burial circles, and the largest is 83 metres across. Many graves inside held powdered red pigment, and some had standing stones that may have served as tombstones.",
+  "source": {
+   "name": "World Heritage Jomon Prehistoric Sites in Northern Japan (official site): Kiusu Earthwork Burial Circles",
+   "url": "https://jomon-japan.jp/en/learn/jomon-sites/kiusu"
+  }
+ },
+ {
+  "id": "m11-korekawa-red-lacquer",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1000–400 BCE",
+  "cat": "discovery",
+  "title": "Red Lacquer From a Bog",
+  "place": "Korekawa Site, Hachinohe, Aomori, Japan",
+  "lat": 40.48,
+  "lng": 141.47,
+  "text": "At Korekawa, in today's Hachinohe, the wet ground of a boggy lowland preserved things that usually rot away. Archaeologists have dug up bows, combs, bracelets and containers painted with red lacquer, along with clay figurines. The Jōmon people here also built a watering place to leach the bitterness out of horse chestnuts so they could eat them.",
+  "source": {
+   "name": "World Heritage Jomon Prehistoric Sites in Northern Japan (official site): Korekawa Site",
+   "url": "https://jomon-japan.jp/en/learn/jomon-sites/korekawa"
+  }
+ },
+ {
+  "id": "m11-kagawa-dotaku-pictures",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "2nd–1st century BCE",
+  "cat": "daily",
+  "title": "A Bronze Bell Full of Pictures",
+  "place": "Kagawa Prefecture, Shikoku, Japan",
+  "lat": 34.28,
+  "lng": 134.05,
+  "text": "This bronze bell, or dōtaku, reportedly found in Kagawa Prefecture, was the first dōtaku named a national treasure. Its pictures show men hunting deer and wild boar, women pounding with a mortar and pestle, and herons eating fish, glimpses of a life built around wet rice farming. Men are drawn with circle heads and women with triangle heads. When new, the bell shone a brilliant gold.",
+  "source": {
+   "name": "ColBase (National Institutes for Cultural Heritage), Tokyo National Museum: Bell (\"Dōtaku\") J-37433",
+   "url": "https://colbase.nich.go.jp/collection_items/tnm/J-37433?locale=en"
+  }
+ },
+ {
+  "id": "m11-wa-envoys-han-court",
+  "era": "classical",
+  "year": 107,
+  "dateLabel": "107 CE",
+  "cat": "journeys",
+  "title": "Envoys From Wa to the Han Court",
+  "place": "Wa (Japan)",
+  "lat": 33.59,
+  "lng": 130.4,
+  "text": "Chinese official records say that in 57 and 107 CE envoys from Wa, the Chinese name for Japan, travelled to the court of the Han dynasty. They presented woven cloth, jade, pearls, cinnabar, bows and arrows, and even slaves. In return they received brocade, silk, gold, swords, bronze mirrors, and jade and red beads.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline of Art History: Japan, 1–500 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/05/eaj"
+  }
+ },
+ {
+  "id": "m11-saitobaru-haniwa-boat",
+  "era": "classical",
+  "year": 401,
+  "dateLabel": "5th century CE",
+  "cat": "journeys",
+  "title": "A Clay Boat for the Soul",
+  "place": "Saitobaru Tumulus No. 170, Saito, Miyazaki, Japan",
+  "lat": 32.11,
+  "lng": 131.39,
+  "text": "Found at Saitobaru Tumulus No. 170 in Miyazaki, this 5th-century clay haniwa shows a large boat built with plank walls rather than hollowed from a block of wood. It has no mast, just twelve rowlocks, six on each side, for rowers who rowed facing backward. It hints at sea exchange at the time, and may have symbolized the soul of the tomb’s occupant setting off on a new journey.",
+  "source": {
+   "name": "ColBase (National Institutes for Cultural Heritage), Tokyo National Museum: Tomb Sculpture (\"Haniwa\"): Boat J-21498",
+   "url": "https://colbase.nich.go.jp/collection_items/tnm/J-21498?locale=en"
+  }
+ },
+ {
+  "id": "m11-one-million-pagodas",
+  "era": "medieval",
+  "year": 770,
+  "dateLabel": "c. 764–770",
+  "cat": "discovery",
+  "title": "A Million Tiny Pagodas",
+  "place": "Nara (Heijō-kyō), Nara, Japan",
+  "lat": 34.69,
+  "lng": 135.8,
+  "text": "After the Emi Rebellion of 764 was crushed, Empress Shōtoku commissioned one million miniature wooden pagodas to thank the Buddhist deities, and shared them among Japan's ten major temples. Each white-painted pagoda held a printed Buddhist invocation called a darani. These are among the oldest printed texts known in the world, probably printed from bronze plates, though some scholars say woodblocks.",
+  "source": {
+   "name": "The Metropolitan Museum of Art: One of the \"One Million Pagodas\" (Hyakumanto)",
+   "url": "https://www.metmuseum.org/art/collection/search/62374"
+  }
+ },
+ {
+  "id": "m11-byodoin-phoenix-hall",
+  "era": "medieval",
+  "year": 1053,
+  "dateLabel": "1053",
+  "cat": "culture",
+  "title": "A Hall for the End of the World",
+  "place": "Byōdō-in, Uji, Kyoto, Japan",
+  "lat": 34.89,
+  "lng": 135.81,
+  "text": "Many Japanese believed that 1052 was the first year of Mappō, the age when the world began its decline. That year the regent Fujiwara no Yorimichi turned a villa from his father, Michinaga, into a Buddhist temple at Uji. In 1053 its Phoenix Hall was completed, housing a 2.4-metre Amida Buddha by Jōchō, said to be the finest Buddhist sculptor of the Heian period.",
+  "source": {
+   "name": "Byodoin Temple (official site): Byodoin Temple, Past & Present",
+   "url": "https://www.byodoin.or.jp/en/learn/history/"
+  }
+ },
+ {
+  "id": "m11-hiraizumi-golden-north",
+  "era": "medieval",
+  "year": 1189,
+  "dateLabel": "1189",
+  "cat": "power",
+  "title": "The Fall of Golden Hiraizumi",
+  "place": "Hiraizumi, Iwate, Japan",
+  "lat": 38.99,
+  "lng": 141.1,
+  "text": "In the 11th and 12th centuries Hiraizumi, in northern Japan, rivalled Kyoto politically and commercially. Its rulers, the Ōshū Fujiwara family, built temples and Pure Land gardens as visions of Buddhist paradise on earth, and the heavily gilded temple of Chūson-ji shows how rich they were. In 1189 the city lost its political status and much of it was destroyed, a rise and fall that inspired many poets.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land",
+   "url": "https://whc.unesco.org/en/list/1277"
+  }
+ },
+ {
+  "id": "m11-kamakura-great-buddha",
+  "era": "medieval",
+  "year": 1252,
+  "dateLabel": "1252",
+  "cat": "culture",
+  "title": "The Buddha Who Lost His Roof",
+  "place": "Kōtoku-in, Kamakura, Kanagawa, Japan",
+  "lat": 35.32,
+  "lng": 139.54,
+  "text": "According to the chronicle Azumakagami, work on Kamakura’s Great Buddha began in 1252. The colossal copper Amida Buddha stands some 11.3 metres tall and weighs around 121 tons, and the priest Jōkō is believed to have gathered donations from the people to build it. Typhoons in 1334 and 1369 destroyed the hall around it, and since then the statue has sat out in the open.",
+  "source": {
+   "name": "Kotoku-in (official site): The Great Buddha and the Teachings of Kotoku-in",
+   "url": "https://www.kotoku-in.jp/en/about.html"
+  }
+ },
+ {
+  "id": "m11-xavier-anjiro-kagoshima",
+  "era": "exploration",
+  "year": 1549,
+  "dateLabel": "August 15, 1549",
+  "cat": "journeys",
+  "title": "Xavier and Anjirō Reach Kagoshima",
+  "place": "Kagoshima, Kagoshima, Japan",
+  "lat": 31.59,
+  "lng": 130.56,
+  "text": "On 15 August 1549 a Portuguese ship entered the port of Kagoshima carrying the Jesuit missionary Francis Xavier and Anjirō, a Japanese man he had met in Malacca who had just been baptized. Xavier called the Japanese “the best people yet discovered” and learned to adapt his methods. When he left in late 1551, he entrusted about 2,000 Christians in five communities to his companions.",
+  "source": {
+   "name": "Encyclopaedia Britannica: St. Francis Xavier",
+   "url": "https://www.britannica.com/biography/Saint-Francis-Xavier"
+  }
+ },
+ {
+  "id": "m11-shimabara-hara-castle",
+  "era": "exploration",
+  "year": 1637,
+  "dateLabel": "1637–1638",
+  "cat": "power",
+  "title": "The Last Stand at Hara Castle",
+  "place": "Hara Castle, Minamishimabara, Nagasaki, Japan",
+  "lat": 32.63,
+  "lng": 130.26,
+  "text": "In 1637, driven by famine and the tyranny of their local lord, nearly the entire population of the Shimabara Peninsula rose up, led by the charismatic 16-year-old Amakusa Shirō. Almost 37,000 rebels, including women and children, held out in Hara Castle against more than 120,000 shogunate troops. A final assault in April 1638 destroyed the castle, and the shogunate then increased its repression of Christianity.",
+  "source": {
+   "name": "Japan Tourism Agency multilingual database: Hara Castle Ruins",
+   "url": "https://www.mlit.go.jp/tagengo-db/en/R1-02839.html"
+  },
+  "source2": {
+   "name": "Japan Tourism Agency multilingual database: The Edict Banning Christianity and the Shimabara Rebellion",
+   "url": "https://www.mlit.go.jp/tagengo-db/en/R1-00825.html"
+  }
+ },
+ {
+  "id": "m11-colour-woodblock-prints",
+  "era": "exploration",
+  "year": 1765,
+  "dateLabel": "1765",
+  "cat": "culture",
+  "title": "Prints Burst Into Colour",
+  "place": "Edo (Tokyo), Japan",
+  "lat": 35.69,
+  "lng": 139.77,
+  "text": "Woodblock prints let anyone with a bit of extra cash own pictures of glamorous courtesans, exciting kabuki actors and famous romantic views, the art of the “floating world.” In 1765, new technology made it possible to print single sheets in a whole range of colours. The last quarter of the 18th century then became the golden age of Japanese printmaking.",
+  "source": {
+   "name": "The Metropolitan Museum of Art: Art of the Pleasure Quarters and the Ukiyo-e Style",
+   "url": "https://www.metmuseum.org/essays/art-of-the-pleasure-quarters-and-the-ukiyo-e-style"
+  }
+ },
+ {
+  "id": "m11-asama-1783-eruption",
+  "era": "exploration",
+  "year": 1783,
+  "dateLabel": "May 9 – August 5, 1783",
+  "cat": "nature",
+  "title": "Asama Buries Its Villages",
+  "place": "Asamayama, Gunma–Nagano border, Japan",
+  "lat": 36.41,
+  "lng": 138.52,
+  "text": "Asama’s 1783 eruption, one of its largest in history, began with moderate explosions on 9 May and reached its climax on 3–5 August. On 4 and 5 August the Agatsuma and Kambara pyroclastic flows swept down the north flank, and the Kambara flow destroyed several villages. Together with mudflows called lahars, they killed 1,377 people. The Onioshidashi lava flow ended the eruption.",
+  "source": {
+   "name": "Smithsonian Institution Global Volcanism Program: Asamayama",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=283110"
+  }
+ },
+ {
+  "id": "m11-oura-hidden-christians",
+  "era": "industrial",
+  "year": 1865,
+  "dateLabel": "1865",
+  "cat": "culture",
+  "title": "Secret Christians Step Forward",
+  "place": "Ōura Church, Nagasaki, Japan",
+  "lat": 32.73,
+  "lng": 129.87,
+  "text": "When Ōura Church was built in Nagasaki in 1864 for French residents, Christianity was still banned in Japan. Then, in 1865, a group of peasants who had secretly kept their faith visited the French priest Bernardo Petitjean and told him they were Christians. They had survived 250 years of persecution, and the church became a memorial to their revival. The ban was lifted in 1873.",
+  "source": {
+   "name": "Web Japan (Ministry of Foreign Affairs of Japan), Japan Atlas: Oura Catholic Church",
+   "url": "https://web-japan.org/atlas/architecture/arc25.html"
+  }
+ },
+ {
+  "id": "m11-ogino-ginko-doctor",
+  "era": "industrial",
+  "year": 1885,
+  "dateLabel": "1885",
+  "cat": "discovery",
+  "title": "Japan’s First Woman Doctor",
+  "place": "Tokyo, Japan",
+  "lat": 35.7,
+  "lng": 139.77,
+  "text": "In 1885 Ogino Ginko passed the medical practitioner’s exam and opened Ogino Hospital as the first registered woman doctor in Japan. Born in Saitama in 1851, she had married at 16, fallen ill and divorced, then studied at Tokyo Women’s Normal School and the private medical school Kōju-in. In 1894 she went to Hokkaido, where she ran a medical practice.",
+  "source": {
+   "name": "National Diet Library, Japan: Portraits of Modern Japanese Historical Figures – OGINO Ginko",
+   "url": "https://www.ndl.go.jp/portrait/e/datas/43.html"
+  }
+ },
+ {
+  "id": "m11-bandai-collapse",
+  "era": "industrial",
+  "year": 1888,
+  "dateLabel": "July 15, 1888",
+  "cat": "nature",
+  "title": "The Day a Mountain Fell",
+  "place": "Bandaisan, Fukushima, Japan",
+  "lat": 37.6,
+  "lng": 140.07,
+  "text": "On 15 July 1888 Bandaisan, above Lake Inawashiro, blew apart in a violent explosive eruption. Its Kobandaisan peak collapsed, sending a huge debris avalanche 11 kilometres that buried several villages and formed several large lakes, including Lake Hibara. Seen from the south the volcano still looks like a cone, but much of its north side is missing.",
+  "source": {
+   "name": "Smithsonian Institution Global Volcanism Program: Bandaisan",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=283160"
+  }
+ },
+ {
+  "id": "m11-yukawa-predicts-meson",
+  "era": "modern",
+  "year": 1935,
+  "dateLabel": "1935",
+  "cat": "discovery",
+  "title": "Predicting the Meson",
+  "place": "Osaka University, Osaka, Japan",
+  "lat": 34.69,
+  "lng": 135.5,
+  "text": "In 1935 Hideki Yukawa, a young lecturer at Osaka University, published a paper proposing a new field theory of nuclear forces and predicting a new particle, the meson. When American physicists found one type of meson in cosmic rays, he was encouraged to keep developing his idea. In 1949 he was awarded the Nobel Prize for Physics.",
+  "source": {
+   "name": "NobelPrize.org: Hideki Yukawa – Biographical",
+   "url": "https://www.nobelprize.org/prizes/physics/1949/yukawa/biographical/"
+  }
+ },
+ {
+  "id": "m11-kojindani-358-swords",
+  "era": "modern",
+  "year": 1984,
+  "dateLabel": "1984",
+  "cat": "discovery",
+  "title": "358 Bronze Swords in a Hillside",
+  "place": "Kōjindani Site, Izumo, Shimane, Japan",
+  "lat": 35.37,
+  "lng": 132.84,
+  "text": "In 1984, on a forested hillside in Izumo, archaeologists uncovered 358 bronze swords that had been laid out in neat rows and buried, with 16 spearheads and 6 bells found nearby. Made by Yayoi-period people some 2,000 years ago, the blades are all very similar in design. Experts still disagree about why the weapons were left there.",
+  "source": {
+   "name": "Public Relations Office, Government of Japan (Highlighting Japan): Shimane Museum of Ancient Izumo",
+   "url": "https://www.gov-online.go.jp/eng/publicity/book/hlj/html/201212/201212_10.html"
+  },
+  "source2": {
+   "name": "Japan Tourism Agency multilingual database: The World of Bronze Implements and Great Swords",
+   "url": "https://www.mlit.go.jp/tagengo-db/en/R3-00202.html"
+  }
+ },
+ {
+  "id": "m11-kyoto-protocol",
+  "era": "modern",
+  "year": 1997,
+  "dateLabel": "December 11, 1997",
+  "cat": "nature",
+  "title": "The Kyoto Climate Deal",
+  "place": "Kyoto, Japan",
+  "lat": 35.06,
+  "lng": 135.79,
+  "text": "On 11 December 1997, at the third UN climate conference, delegates adopted the Kyoto Protocol. It committed industrialized countries to limit and reduce greenhouse gas emissions, with binding targets for 37 of them and the European Union adding up to an average 5 per cent cut from 1990 levels over 2008–2012. A complex ratification process delayed its start until 2005.",
+  "source": {
+   "name": "UNFCCC: The Kyoto Protocol",
+   "url": "https://unfccc.int/process-and-meetings/the-kyoto-protocol"
+  }
+ },
+ {
+  "id": "m11-shuri-castle-fire",
+  "era": "modern",
+  "year": 2019,
+  "dateLabel": "October 31, 2019",
+  "cat": "culture",
+  "title": "Fire at Shuri Castle",
+  "place": "Shuri Castle, Naha, Okinawa, Japan",
+  "lat": 26.22,
+  "lng": 127.72,
+  "text": "Around 2.30 in the morning of 31 October 2019, a security alarm went off at Shuri Castle, on a hilltop overlooking Naha. Fire ripped through the wooden castle and destroyed its main building. Built about 500 years ago in the Ryukyu Dynasty and almost destroyed in World War Two, the reconstructed castle was the largest wooden building in Okinawa.",
+  "source": {
+   "name": "BBC, republished by RNZ: Blaze engulfs Japanese World Heritage site",
+   "url": "https://www.rnz.co.nz/news/top/402214/blaze-engulfs-japanese-world-heritage-site"
+  }
+ },
+ {
+  "id": "m11-upopoy-ainu-museum",
+  "era": "modern",
+  "year": 2020,
+  "dateLabel": "July 12, 2020",
+  "cat": "culture",
+  "title": "A National Museum for the Ainu",
+  "place": "Upopoy, Shiraoi, Hokkaido, Japan",
+  "lat": 42.56,
+  "lng": 141.36,
+  "text": "The Ainu are an indigenous people of northern Japan, especially Hokkaido, with their own language, oral literature such as Yukar, and distinctive patterns on clothes and crafts. In 2008 both houses of Japan’s parliament unanimously adopted a resolution seeking to recognize them as an indigenous people. On 12 July 2020, Upopoy, the National Ainu Museum and Park, opened in Shiraoi.",
+  "source": {
+   "name": "Foundation for Ainu Culture: Overview of the Foundation for Ainu Culture 2025 (PDF)",
+   "url": "https://ainu-upopoy.go.jp/wp/wp-content/uploads/2026/04/aramashi_EN.pdf"
+  }
+ }
+]

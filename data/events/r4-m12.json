@@ -1,0 +1,362 @@
+[
+ {
+  "id": "m12-haimenkou-stilt-village",
+  "era": "ancient",
+  "year": -1440,
+  "dateLabel": "About 1440 BCE (wheat grains dated 1440–1310 BCE)",
+  "cat": "daily",
+  "title": "Wheat Comes to a Stilt Village",
+  "place": "Haimenkou, Jianchuan, Yunnan, China",
+  "lat": 26.48,
+  "lng": 99.92,
+  "text": "At Haimenkou in northwest Yunnan, people lived in houses raised on stilts and farmed rice and millet, crops that had spread from Central China. Then new grains arrived: wheat found there has been directly dated to 1440–1310 BCE, and barley appears too. Around the same time, bronze objects begin to show up at the site.",
+  "source": {
+   "name": "PMC: The origins of multi-cropping agriculture in Southwestern China: Archaeobotanical insights from third to first millennium B.C. Yunnan",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9373101/"
+  }
+ },
+ {
+  "id": "m12-mongolia-horse-dentistry",
+  "era": "ancient",
+  "year": -1150,
+  "dateLabel": "About 1150 BCE",
+  "cat": "discovery",
+  "title": "The First Horse Dentists",
+  "place": "Mongolian steppe, Mongolia",
+  "lat": 47.5,
+  "lng": 102,
+  "text": "Herders of the Deer Stone-Khirigsuur culture in Mongolia buried horses by the dozens, hundreds or even thousands. In young horses from these ritual burials, researchers found partly sawn baby teeth: attempted dental surgery from around 1150 BCE, the world's oldest known evidence of veterinary dental care. Later, as bronze bits came into use, herders also learned to remove painful wolf teeth.",
+  "source": {
+   "name": "EurekAlert! (PNAS release): Horse dentistry may have originated in Mongolian Steppe",
+   "url": "https://www.eurekalert.org/news-releases/648288"
+  },
+  "source2": {
+   "name": "Max Planck Society: Oldest evidence of horse veterinary care discovered in Mongolia",
+   "url": "https://www.mpg.de/12120068/oldest-evidence-of-horse-veterinary-care-discovered-in-mongolia"
+  }
+ },
+ {
+  "id": "m12-jinsha-rainbow-jades",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1000–650 BCE",
+  "cat": "discovery",
+  "title": "Jinsha's Gold and Rainbow Jades",
+  "place": "Jinsha Site, Chengdu, Sichuan, China",
+  "lat": 30.68,
+  "lng": 104.01,
+  "text": "Found in 2001 on the edge of Chengdu, Jinsha was a major centre on the Chengdu Plain, with finds dated to 1000–650 BCE. Diggers recovered about 40 gold objects and more than 700 bronzes. A gold band of birds and fish pierced by arrows almost matches one from Sanxingdui, and buried bronzes stained Jinsha's jades green, blue, purple and black.",
+  "source": {
+   "name": "Cambridge Core (Bulletin of SOAS): The Southwest Silk Road: artistic exchange and transmission in early China",
+   "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/southwest-silk-road-artistic-exchange-and-transmission-in-early-china/52A6FFFC54AD12882A1657CB32BBE485"
+  },
+  "source2": {
+   "name": "Scientific Reports: Nondestructive analysis of alterations of Chinese jade artifacts from Jinsha, Sichuan Province, China",
+   "url": "https://www.nature.com/articles/s41598-020-73290-y"
+  }
+ },
+ {
+  "id": "m12-zuojiang-huashan-rock-art",
+  "era": "classical",
+  "year": -450,
+  "dateLabel": "From about the 5th century BCE",
+  "cat": "culture",
+  "title": "Red Drummers on the Cliffs",
+  "place": "Ningming Huashan, Chongzuo, Guangxi, China",
+  "lat": 22.21,
+  "lng": 107.03,
+  "text": "High on steep karst cliffs above the Zuojiang River, the Luoyue people painted their ceremonies at 38 sites, starting around the 5th century BCE. The scenes have been read as rituals of the bronze drum culture once common across southern China. Local people still revere the painted mountains and perform rituals there.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Zuojiang Huashan Rock Art Cultural Landscape",
+   "url": "https://whc.unesco.org/en/list/1508/"
+  }
+ },
+ {
+  "id": "m12-nanyue-kingdom",
+  "era": "classical",
+  "year": -207,
+  "dateLabel": "207 BCE",
+  "cat": "power",
+  "title": "The Southern Kingdom of Nanyue",
+  "place": "Guangzhou (Panyu), Guangdong, China",
+  "lat": 23.13,
+  "lng": 113.26,
+  "text": "Under the Qin, the small city of Panyu, now Guangzhou, ruled a southern prefecture. When the Qin broke apart in 207 BCE, General Zhao Tuo set up an independent kingdom called Nanyue. It stretched across today's Guangdong and Guangxi and south to Da Nang in Vietnam, staying independent until the Han emperor Wudi conquered it in 111 BCE.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Nam Viet",
+   "url": "https://www.britannica.com/place/Nam-Viet"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Guangzhou, history",
+   "url": "https://www.britannica.com/place/Guangzhou/History"
+  }
+ },
+ {
+  "id": "m12-peinan-slate-coffins",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "About 1,900 years ago",
+  "cat": "daily",
+  "title": "The Village of Slate Coffins",
+  "place": "Peinan Site, Taitung, Taiwan",
+  "lat": 22.79,
+  "lng": 121.11,
+  "text": "In July 1980, building a new railway station in Taitung uncovered Taiwan's largest prehistoric settlement. Archaeologists found nearly 1,600 slate coffins and over 20,000 objects of clay, stone and jade. The Peinan people built their homes facing away from the mountain, and about 1,900 years ago they left the site for reasons no one knows.",
+  "source": {
+   "name": "National Museum of Prehistory (Taiwan): Peinan Site Park",
+   "url": "https://www.nmp.gov.tw/en/cl.aspx?n=8836"
+  },
+  "source2": {
+   "name": "National Museum of Prehistory (Taiwan): Permanent Exhibition, Peinan Site Park",
+   "url": "https://www.nmp.gov.tw/en/cp.aspx?n=2189"
+  }
+ },
+ {
+  "id": "m12-leshan-giant-buddha",
+  "era": "medieval",
+  "year": 713,
+  "dateLabel": "713 (finished 803)",
+  "cat": "culture",
+  "title": "A Giant Buddha Guards the River",
+  "place": "Leshan, Sichuan, China",
+  "lat": 29.54,
+  "lng": 103.77,
+  "text": "Where three rivers meet at Leshan, boats kept wrecking. In 713 a monk named Hai Tong began carving a Buddha into the red sandstone cliff to watch over them. It took 90 years to finish. The 71-metre statue has fingers 8.3 metres long, and rock from the work filled the riverbed, which did make the water safer.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Leshan Giant Buddha",
+   "url": "https://www.britannica.com/topic/Leshan-Giant-Buddha"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area",
+   "url": "https://whc.unesco.org/en/list/779/"
+  }
+ },
+ {
+  "id": "m12-nanzhao-unites-lake-er",
+  "era": "medieval",
+  "year": 729,
+  "dateLabel": "729",
+  "cat": "power",
+  "title": "Nanzhao Rises by Lake Er",
+  "place": "Dali, Yunnan, China",
+  "lat": 25.69,
+  "lng": 100.16,
+  "text": "In 729 a chief named Piluoge brought six small kingdoms in western Yunnan together as Nanzhao, with its power centred near Lake Er. Its mountain capital beat back Chinese attacks in 751 and 754. Nanzhao controlled trade routes toward Myanmar and India, mined salt and gold, and its artisans taught the weaving of cotton and silk gauze.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Nanzhao",
+   "url": "https://www.britannica.com/place/Nanzhao"
+  }
+ },
+ {
+  "id": "m12-abaoji-khitan-emperor",
+  "era": "medieval",
+  "year": 916,
+  "dateLabel": "By 916",
+  "cat": "power",
+  "title": "The Khan Who Wouldn't Step Down",
+  "place": "Bairin Left Banner, Inner Mongolia, China",
+  "lat": 43.97,
+  "lng": 119.39,
+  "text": "Abaoji was elected great khan of the Khitan tribes for a three-year term, but when it ended he refused to resign. By 916 he had set up a Chinese-style dynasty with his son as heir, and grouped his warriors into units called ordos. The Khitans later named their dynasty Liao and honoured Abaoji as its founder.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Abaoji",
+   "url": "https://www.britannica.com/biography/Abaoji"
+  }
+ },
+ {
+  "id": "m12-jurchen-jin-dynasty",
+  "era": "medieval",
+  "year": 1115,
+  "dateLabel": "1115",
+  "cat": "power",
+  "title": "The Jurchen Found the Golden Dynasty",
+  "place": "Huining (Acheng), Harbin, Heilongjiang, China",
+  "lat": 45.52,
+  "lng": 126.95,
+  "text": "The Jurchen tribes of Manchuria had been subjects of the Khitan Liao. From 1115 they threw off their overlords and founded the Jin dynasty, with its first capital at Huining. Though they took a Chinese dynasty name, they kept their own script and speech and banned Chinese clothing and customs from their armies.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Jin dynasty (1115–1234)",
+   "url": "https://www.britannica.com/topic/Jin-dynasty-China-Mongolia-1115-1234"
+  }
+ },
+ {
+  "id": "m12-mukden-palace",
+  "era": "exploration",
+  "year": 1625,
+  "dateLabel": "1625 (built 1625–1637)",
+  "cat": "culture",
+  "title": "A Manchu Palace in Shenyang",
+  "place": "Shenyang, Liaoning, China",
+  "lat": 41.8,
+  "lng": 123.45,
+  "text": "In 1625 Nurgaci began a palace in Shenyang for the Manchu rulers who would soon found the Qing dynasty. Its buildings were laid out according to the Manchu eight-banner system, which makes it unique among palaces. Inside the Qingning Palace are places for shamanist sacrifices, a Manchu custom kept up for centuries.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang",
+   "url": "https://whc.unesco.org/en/list/439/"
+  }
+ },
+ {
+  "id": "m12-dutch-take-all-taiwan",
+  "era": "exploration",
+  "year": 1642,
+  "dateLabel": "1642",
+  "cat": "power",
+  "title": "The Dutch Drive Out the Spanish",
+  "place": "Keelung (Jilong), Taiwan",
+  "lat": 25.15,
+  "lng": 121.77,
+  "text": "Spanish forces had seized Keelung in 1626. In 1642 the Dutch expelled them and, with help from Indigenous peoples, took control of the whole island. The Dutch East India Company dug wells, surveyed land, brought in oxen to plough the fields, and developed a written form of language for Indigenous peoples.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Taiwan, history (Dutch period)",
+   "url": "https://www.britannica.com/place/Taiwan/Sports-and-recreation"
+  }
+ },
+ {
+  "id": "m12-canton-system",
+  "era": "exploration",
+  "year": 1757,
+  "dateLabel": "1757",
+  "cat": "daily",
+  "title": "One Port for the Whole World",
+  "place": "Guangzhou (Canton), Guangdong, China",
+  "lat": 23.12,
+  "lng": 113.25,
+  "text": "Western traders came to Guangzhou for tea, rhubarb, silk and spices. In 1757 the Qing emperor ordered that it be the only port open to foreign commerce. Foreign merchants had to stay in a small riverbank area outside the city wall with their 13 warehouses, called factories, and foreign women and firearms were banned.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Canton system",
+   "url": "https://www.britannica.com/event/Canton-system"
+  }
+ },
+ {
+  "id": "m12-taiping-heavenly-kingdom",
+  "era": "industrial",
+  "year": 1851,
+  "dateLabel": "January 1, 1851",
+  "cat": "power",
+  "title": "A Heavenly Kingdom Rises in Guangxi",
+  "place": "Jintian, Guiping, Guangxi, China",
+  "lat": 23.47,
+  "lng": 110.08,
+  "text": "Hong Xiuquan, a failed exam candidate, believed visions showed he was Jesus Christ's younger brother. Leading the God Worshippers among poor peasants of Guangxi, he proclaimed the Heavenly Kingdom of Great Peace on January 1, 1851. His followers banned foot-binding and opium, organized separate men's and women's divisions, and the rebellion went on to cost an estimated 20 million lives.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Taiping Rebellion",
+   "url": "https://www.britannica.com/event/Taiping-Rebellion"
+  }
+ },
+ {
+  "id": "m12-yersin-plague-hong-kong",
+  "era": "industrial",
+  "year": 1894,
+  "dateLabel": "June 1894",
+  "cat": "discovery",
+  "title": "Catching the Plague Germ",
+  "place": "Hong Kong, China",
+  "lat": 22.28,
+  "lng": 114.15,
+  "text": "On June 15, 1894, as an epidemic was devastating Hong Kong, the doctor Alexandre Yersin landed there with a microscope and an autoclave. Working in a straw hut, he used a sample from the swollen bubo of a patient who had died. With it he identified the plague bacillus, the germ later named Yersinia pestis.",
+  "source": {
+   "name": "Institut Pasteur: A historic fight against emerging infectious diseases",
+   "url": "https://www.pasteur.fr/en/whats-new/latest-news/features/historic-fight-against-emerging-infectious-diseases"
+  }
+ },
+ {
+  "id": "m12-republic-of-taiwan",
+  "era": "industrial",
+  "year": 1895,
+  "dateLabel": "1895",
+  "cat": "power",
+  "title": "Asia's First Republic Lasts Ten Days",
+  "place": "Taipei, Taiwan",
+  "lat": 25.04,
+  "lng": 121.51,
+  "text": "After losing a war with Japan, China signed the Treaty of Shimonoseki in 1895, giving Taiwan to Japan. When the news reached the island, local leaders proclaimed the Republic of Taiwan, called Asia's first republic. With no recognized leader and no real army, it lasted only about ten days before Japan began its colonial rule.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Taiwan, history (Dutch period to Japanese empire)",
+   "url": "https://www.britannica.com/place/Taiwan/Sports-and-recreation"
+  }
+ },
+ {
+  "id": "m12-kulangsu-settlement",
+  "era": "industrial",
+  "year": 1903,
+  "dateLabel": "1903",
+  "cat": "culture",
+  "title": "An Island of Many Styles",
+  "place": "Kulangsu (Gulangyu), Xiamen, Fujian, China",
+  "lat": 24.45,
+  "lng": 118.07,
+  "text": "The tiny island of Kulangsu, facing Xiamen, became an international settlement in 1903. Local Chinese, overseas Chinese returning home, and foreigners from many countries built 931 historic buildings there. Out of this mix grew a new architectural style, Amoy Deco, blending local southern Fujian traditions with Art Deco and modernist ideas, and copied across Southeast Asia.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Kulangsu, a Historic International Settlement",
+   "url": "https://whc.unesco.org/en/list/1541/"
+  }
+ },
+ {
+  "id": "m12-mukden-incident",
+  "era": "modern",
+  "year": 1931,
+  "dateLabel": "September 18, 1931",
+  "cat": "power",
+  "title": "A Railway Blast That Wasn't",
+  "place": "Shenyang (Mukden), Liaoning, China",
+  "lat": 41.84,
+  "lng": 123.43,
+  "text": "On the night of September 18, 1931, Japanese troops claimed a Chinese attack on their railway near Mukden and seized the city. The explosion did so little damage that trains kept running. Most observers believe the army staged it without its government's approval. Within three months Japanese troops had spread throughout Manchuria.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Mukden Incident",
+   "url": "https://www.britannica.com/event/Mukden-Incident"
+  }
+ },
+ {
+  "id": "m12-burma-road",
+  "era": "modern",
+  "year": 1939,
+  "dateLabel": "Completed 1939",
+  "cat": "journeys",
+  "title": "A Lifeline Through the Mountains",
+  "place": "Kunming, Yunnan, China",
+  "lat": 25.04,
+  "lng": 102.71,
+  "text": "With Japan occupying China's coast, the Chinese began building a 1,154-kilometre highway from Kunming to Lashio in Burma, completing it in 1939. For three years war goods came by sea to Rangoon, by train to Lashio, then up the road into China. Japan closed the route in April 1942 by seizing Lashio.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Burma Road",
+   "url": "https://www.britannica.com/topic/Burma-Road"
+  }
+ },
+ {
+  "id": "m12-chengjiang-fossils",
+  "era": "modern",
+  "year": 1984,
+  "dateLabel": "July 1, 1984",
+  "cat": "discovery",
+  "title": "A Window Into the Cambrian Seas",
+  "place": "Maotianshan, Chengjiang, Yunnan, China",
+  "lat": 24.67,
+  "lng": 102.98,
+  "text": "On July 1, 1984, Hou Xianguang discovered the Chengjiang fossils in the hills of Yunnan. They preserve soft bodies, guts and delicate gills of sea creatures from 530 million years ago, when almost all major animal groups appeared. Researchers have since reported more than 300 species, including the oldest known fossil chordates.",
+  "source": {
+   "name": "Yunnan University: YNU marks 40th anniversary of unique Chengjiang fossil find",
+   "url": "http://english.ynu.edu.cn/2024-07/09/c_1003652.htm"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Chengjiang Fossil Site",
+   "url": "https://whc.unesco.org/en/list/1388/"
+  }
+ },
+ {
+  "id": "m12-sichuan-earthquake",
+  "era": "modern",
+  "year": 2008,
+  "dateLabel": "May 12, 2008",
+  "cat": "nature",
+  "title": "The Great Wenchuan Earthquake",
+  "place": "Near Dujiangyan, Sichuan, China",
+  "lat": 31.06,
+  "lng": 103.49,
+  "text": "On May 12, 2008, a magnitude-7.9 earthquake struck the mountains of Sichuan, where the Indian-Australian plate pushes against the Eurasian plate. Ground was thrust up by about 9 metres in places. Almost 90,000 people were counted dead or missing, including more than 5,300 children, many of them students in collapsed schools.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Sichuan earthquake of 2008",
+   "url": "https://www.britannica.com/event/Sichuan-earthquake-of-2008"
+  }
+ }
+]

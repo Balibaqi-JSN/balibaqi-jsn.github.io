@@ -1,0 +1,346 @@
+[
+ {
+  "id": "m22-standard-of-ur",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 2500 BCE (made 2550–2400 BCE)",
+  "cat": "culture",
+  "title": "The Box Called the Standard of Ur",
+  "place": "Royal Cemetery, Ur, Dhi Qar, Iraq",
+  "lat": 30.96,
+  "lng": 46.1,
+  "text": "Found by Leonard Woolley in Ur's Royal Cemetery, this hollow wooden box is covered in mosaics of shell, red limestone and lapis lazuli set in bitumen. One side shows a Sumerian army with chariots and prisoners led before the king. The other shows peace: people bringing animals and fish, and the king feasting while a singer and a lyre player entertain.",
+  "source": {
+   "name": "British Museum: The Standard of Ur (1928,1010.3)",
+   "url": "https://www.britishmuseum.org/collection/object/W_1928-1010-3"
+  }
+ },
+ {
+  "id": "m22-black-obelisk",
+  "era": "ancient",
+  "year": -825,
+  "dateLabel": "825 BCE",
+  "cat": "power",
+  "title": "An Elephant for the Assyrian King",
+  "place": "Nimrud, Nineveh Governorate, Iraq",
+  "lat": 36.1,
+  "lng": 43.33,
+  "text": "The Black Obelisk of Shalmaneser III, carved in black limestone and 197 centimetres tall, glorifies the king and his minister. Five rows of captioned panels show tribute pouring in: horses from north-west Iran, gifts from Jehu of Israel, and an elephant and an ape from Egypt. Austen Henry Layard dug it up at Nimrud.",
+  "source": {
+   "name": "British Museum: The Black Obelisk (1848,1104.1)",
+   "url": "https://www.britishmuseum.org/collection/object/W_1848-1104-1"
+  }
+ },
+ {
+  "id": "m22-cyrus-cylinder",
+  "era": "ancient",
+  "year": -539,
+  "dateLabel": "539 BCE",
+  "cat": "power",
+  "title": "Cyrus Takes Babylon",
+  "place": "Babylon, Babil, Iraq",
+  "lat": 32.54,
+  "lng": 44.42,
+  "text": "After Cyrus conquered Babylon in 539 BCE, a fired clay cylinder written in Babylonian cuneiform told his side of the story. It claims the god Marduk chose him, that he entered the city without a fight, and that he sent gods back to their temples and returned people to their homes. Hormuzd Rassam later excavated it at Babylon.",
+  "source": {
+   "name": "British Museum: The Cyrus Cylinder (1880,0617.1941)",
+   "url": "https://www.britishmuseum.org/collection/object/W_1880-0617-1941"
+  }
+ },
+ {
+  "id": "m22-gaugamela",
+  "era": "classical",
+  "year": -331,
+  "dateLabel": "October 1, 331 BCE",
+  "cat": "power",
+  "title": "The Eclipse Before Gaugamela",
+  "place": "Plain east of Mosul, Nineveh Governorate, Iraq",
+  "lat": 36.3,
+  "lng": 43.45,
+  "text": "Darius III flattened a whole plain so his scythed chariots and cavalry could charge, but Alexander broke through a gap in his centre and Darius fled. A lunar eclipse on 20 September was read as foretelling Persia's defeat. The exact date of the battle, long debated, was settled by Babylonian astronomical diaries.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Gaugamela (Ernst Badian)",
+   "url": "https://www.iranicaonline.org/articles/gaugamela/"
+  }
+ },
+ {
+  "id": "m22-hatra-archers",
+  "era": "classical",
+  "year": 197,
+  "dateLabel": "197 CE",
+  "cat": "power",
+  "title": "Hatra Beats a Roman Emperor",
+  "place": "Hatra, Nineveh Governorate, Iraq",
+  "lat": 35.59,
+  "lng": 42.72,
+  "text": "Hatra, a fortified caravan city in the desert steppe of northern Iraq, besieged by Emperor Septimius Severus in 193 and again in 197, held out both times. His siege engines were burned and Hatrene archers struck down many of his soldiers, forcing him to withdraw. Trajan had already failed there in 117, and Hatra then reached its peak of prosperity.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Hatra (Rüdiger Schmitt)",
+   "url": "https://www.iranicaonline.org/articles/hatra/"
+  }
+ },
+ {
+  "id": "m22-ardashir-hormozgan",
+  "era": "classical",
+  "year": 224,
+  "dateLabel": "April 28, 224 CE",
+  "cat": "power",
+  "title": "Ardashir Becomes King of Kings",
+  "place": "Firuzabad, Fars, Iran",
+  "lat": 28.92,
+  "lng": 52.53,
+  "text": "On 28 April 224, Ardashir, a rebel from Persis, defeated the Parthians in the plain of Hormazjan in Media. Still on the battlefield, he took the title King of Kings, founding the Sasanian empire. He had the battle carved into a rock relief at Firuzabad, and he started his own calendar era from this victory.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Ardašīr I, i. History (Josef Wiesehöfer)",
+   "url": "https://www.iranicaonline.org/articles/ardasir-i/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica: Ctesiphon",
+   "url": "https://www.iranicaonline.org/articles/ctesiphon/"
+  }
+ },
+ {
+  "id": "m22-shapur-valerian",
+  "era": "classical",
+  "year": 260,
+  "dateLabel": "260 CE",
+  "cat": "power",
+  "title": "A Roman Emperor Taken Prisoner",
+  "place": "Naqsh-e Rostam, Fars, Iran",
+  "lat": 29.99,
+  "lng": 52.87,
+  "text": "In 260 the Sasanian king Shapur I captured the Roman emperor Valerian in battle and led him, his commanders and senators away to Persis. Shapur boasted of it in an inscription and in rock reliefs at Naqsh-e Rostam and Bishapur. They show Valerian standing, unchained and in his regalia, while Shapur on horseback holds him by the wrist.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Šāpur I: History (A. Shapur Shahbazi)",
+   "url": "https://www.iranicaonline.org/articles/shapur-i/"
+  }
+ },
+ {
+  "id": "m22-weh-antiok-khosrow",
+  "era": "medieval",
+  "year": 540,
+  "dateLabel": "540 CE",
+  "cat": "journeys",
+  "title": "A Copy of Antioch Beside the Tigris",
+  "place": "Ctesiphon (al-Mada'in), Baghdad Governorate, Iraq",
+  "lat": 33.09,
+  "lng": 44.58,
+  "text": "After capturing Antioch in Syria in 540, the Sasanian king Khosrow I forcibly moved its people to a new city beside his capital Ctesiphon. Named Weh-Antiok-Khosrow, it was modelled on Antioch's plan, with its own hippodrome and bath, and built partly with marble taken in Syria. By the late 6th century it had about 30,000 people.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Ctesiphon",
+   "url": "https://www.iranicaonline.org/articles/ctesiphon/"
+  }
+ },
+ {
+  "id": "m22-qadisiyya",
+  "era": "medieval",
+  "year": 636,
+  "dateLabel": "Mid-630s (often dated 636)",
+  "cat": "power",
+  "title": "A Dust Storm at Qadisiyya",
+  "place": "al-Qadisiyya, near Kufa, Iraq",
+  "lat": 31.78,
+  "lng": 44.45,
+  "text": "At a frontier garrison town in Sasanian Iraq, Arab Muslim warriors faced a larger Persian army under Rostam. After three days of fighting, a dust storm blew sand into the Persians' eyes, Rostam was killed, and the royal standard was captured. The capital Mada'in soon fell. Scholars still argue over the exact year.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Qādesiya, Battle of (D. Gershon Lewental)",
+   "url": "https://www.iranicaonline.org/articles/qadesiya/"
+  }
+ },
+ {
+  "id": "m22-rashid-al-din-copies",
+  "era": "medieval",
+  "year": 1309,
+  "dateLabel": "August 9, 1309",
+  "cat": "culture",
+  "title": "Two Copies of World History a Year",
+  "place": "Rab'-e Rashidi, Tabriz, East Azerbaijan, Iran",
+  "lat": 38.08,
+  "lng": 46.29,
+  "text": "Rashid al-Din, a doctor who became vizier to the Mongol Ilkhans, wrote the Compendium of Chronicles, sometimes called the first world history, covering peoples from the Franks to the Chinese. In a deed dated 9 August 1309 for his quarter in Tabriz, he ordered two copies made every year, one Arabic and one Persian, to send to cities across the Arab world and Iran.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Jāmeʿ al-tawāriḵ (Charles Melville)",
+   "url": "https://www.iranicaonline.org/articles/jame-al-tawarik/"
+  }
+ },
+ {
+  "id": "m22-hormuz-emporium",
+  "era": "medieval",
+  "year": 1442,
+  "dateLabel": "1442",
+  "cat": "daily",
+  "title": "Hormuz, Market of the World",
+  "place": "Hormuz Island, Hormozgan, Iran",
+  "lat": 27.06,
+  "lng": 56.46,
+  "text": "Hormuz stood on a hot island with no fresh water or plants, so all its supplies had to be shipped in. Yet in 1442 the traveller Abd-al-Razzaq Samarqandi found it a major emporium, visited by merchants from Egypt, China, Java, Bengal, Zanzibar and beyond. Its rulers had moved there from the mainland to escape raiders.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Hormuz ii. Islamic Period (Willem M. Floor)",
+   "url": "https://www.iranicaonline.org/articles/hormuz-ii/"
+  }
+ },
+ {
+  "id": "m22-susa-mass-wedding",
+  "era": "classical",
+  "year": -324,
+  "dateLabel": "324 BCE",
+  "cat": "power",
+  "title": "Ninety-Two Weddings at Susa",
+  "place": "Susa, Khuzestan, Iran",
+  "lat": 32.19,
+  "lng": 48.26,
+  "text": "In 324 BCE at Susa, Alexander and ninety-one of his companions married Iranian noblewomen in a single lavish ceremony meant to dazzle. Historians are careful about calling it a plan to fuse two peoples: no Macedonian women were married to Iranians. Alexander needed Iranian officials and soldiers, but his Macedonian nobles would not share power easily.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Alexander the Great (Pierre Briant)",
+   "url": "https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/"
+  }
+ },
+ {
+  "id": "m22-failaka-ikaros-fortress",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "About 300 BCE (start of the 3rd century BCE)",
+  "cat": "culture",
+  "title": "Greek Temples on a Kuwaiti Island",
+  "place": "Tell Sa'id, Failaka Island, Kuwait",
+  "lat": 29.42,
+  "lng": 47.93,
+  "text": "At the very beginning of the 3rd century BCE, a Hellenistic fortress rose on the shore of Failaka Island, at the head of the Gulf. Inside were homes and two temples. Temple A looks Greek, yet its columns mix Ionian capitals with Persian bases. Nearby, silver coins of Alexander the Great turned up in an older sanctuary.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Tentative Lists: Failaka Island: A Palimpsest of Human Civilizations",
+   "url": "https://whc.unesco.org/en/tentativelists/6800/"
+  }
+ },
+ {
+  "id": "m22-last-cuneiform-tablet",
+  "era": "classical",
+  "year": 79,
+  "dateLabel": "79/80 CE",
+  "cat": "discovery",
+  "title": "The Last Cuneiform Tablet",
+  "place": "Uruk (Warka), Muthanna, Iraq",
+  "lat": 31.32,
+  "lng": 45.64,
+  "text": "An astronomical almanac from Uruk, tablet W22340a, is the latest datable cuneiform text found so far. Working from the tablet's own predictions of events in the sky, the scholars H. Hunger and T. de Jong dated it to year 326 of the Parthian (Arsacid) era, or 79/80 CE. They argue that it shows cuneiform and astronomy surviving deep into the first century CE, in Uruk as well as Babylon.",
+  "source": {
+   "name": "University of Amsterdam (dare.uva.nl): Hunger and de Jong, Almanac W22340a from Uruk: the Latest Datable Cuneiform Tablet, Zeitschrift für Assyriologie 104 (2014)",
+   "url": "https://dare.uva.nl/id/0281f463-9e7f-4ce7-b805-d4016dd5c429"
+  }
+ },
+ {
+  "id": "m22-shushtar-hydraulics",
+  "era": "classical",
+  "year": 201,
+  "dateLabel": "3rd century CE",
+  "cat": "discovery",
+  "title": "Shushtar's Waterfalls of Engineering",
+  "place": "Shushtar, Khuzestan, Iran",
+  "lat": 32.05,
+  "lng": 48.85,
+  "text": "Completed in the 3rd century CE, probably on foundations from the 5th century BCE, Shushtar's water system split the Karun river into canals that fed the city, turned mills and irrigated a semi-desert plain. It blended Elamite and Mesopotamian know-how with Roman influence. Persians and Arabs alike called its great weir a Wonder of the World, and it still works.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Shushtar Historical Hydraulic System",
+   "url": "https://whc.unesco.org/en/list/1315/"
+  }
+ },
+ {
+  "id": "m22-samarra-capital",
+  "era": "medieval",
+  "year": 836,
+  "dateLabel": "836 CE",
+  "cat": "culture",
+  "title": "Samarra, the Caliphs' Second Capital",
+  "place": "Samarra, Saladin Governorate, Iraq",
+  "lat": 34.2,
+  "lng": 43.87,
+  "text": "From 836 to 892, Samarra on the Tigris served as the Abbasid caliphs' capital, the second after Baghdad. Abandoned fairly early, it kept its original city plan, its giant mosques and unusual spiral minarets. Craftsmen there developed a new carved stucco style and lustreware pottery made to imitate gold and silver dishes. Most of the site is still unexcavated.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Samarra Archaeological City",
+   "url": "https://whc.unesco.org/en/list/276/"
+  }
+ },
+ {
+  "id": "m22-sirafi-grammar-debate",
+  "era": "medieval",
+  "year": 932,
+  "dateLabel": "932 CE",
+  "cat": "culture",
+  "title": "Grammar Versus Logic",
+  "place": "Baghdad, Iraq",
+  "lat": 33.34,
+  "lng": 44.4,
+  "text": "Abu Sa'id al-Sirafi, born in Siraf on the coast of Fars, served as a judge in Baghdad for fifty years and taught everything from grammar to Euclid's geometry. In 932 he won fame in a public debate, arguing that grammar beats logic as a tool for telling truth from falsehood. Despite his fame, he earned his living copying manuscripts.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Sirāfi, Abu Saʿid Ḥasan (David Pingree)",
+   "url": "https://www.iranicaonline.org/articles/siraf/"
+  }
+ },
+ {
+  "id": "m22-sufi-book-of-fixed-stars",
+  "era": "medieval",
+  "year": 964,
+  "dateLabel": "964 CE (star tables set for 1 October 964)",
+  "cat": "discovery",
+  "title": "Al-Sufi Maps the Night Sky",
+  "place": "Ray, Tehran Province, Iran (al-Sufi's birthplace)",
+  "lat": 35.59,
+  "lng": 51.44,
+  "text": "Abd al-Rahman al-Sufi, an astronomer born in Ray who worked close to the Buyid rulers, wrote the Book of the Fixed Stars. It describes every constellation in both Greek and Arab tradition, with drawings and star tables set for 1 October 964. Read for centuries, it even reached Europe, where he was called Azophi; a Moon crater bears that name.",
+  "source": {
+   "name": "Encyclopaedia Iranica: ʿAbd-al-Raḥmān b. ʿOmar Ṣūfī (Paul Kunitzsch)",
+   "url": "https://www.iranicaonline.org/articles/abd-al-rahman-b-omar-sufi/"
+  }
+ },
+ {
+  "id": "m22-gonbad-e-qabus",
+  "era": "medieval",
+  "year": 1006,
+  "dateLabel": "1006 CE",
+  "cat": "culture",
+  "title": "A 53-Metre Brick Tomb Tower",
+  "place": "Gonbad-e Qabus, Golestan, Iran",
+  "lat": 37.26,
+  "lng": 55.17,
+  "text": "In 1006, Qabus ibn Voshmgir, a Ziyarid ruler who was also a writer, built a 53-metre tomb tower near his capital, Jorjan. Made of unglazed fired brick, its hollow shaft rises from a ten-pointed star plan to a conical roof. Its cone-roofed form became a model for tomb towers across Iran, Anatolia and Central Asia, and it is all that survives of Jorjan.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Gonbad-e Qābus",
+   "url": "https://whc.unesco.org/en/list/1398/"
+  }
+ },
+ {
+  "id": "m22-soltaniyeh-dome",
+  "era": "medieval",
+  "year": 1312,
+  "dateLabel": "Completed 1312 (built 1302–1312)",
+  "cat": "culture",
+  "title": "The Turquoise Dome of Soltaniyeh",
+  "place": "Soltaniyeh, Zanjan, Iran",
+  "lat": 36.43,
+  "lng": 48.8,
+  "text": "Between 1302 and 1312, the Ilkhanid ruler Oljaytu built his mausoleum in Soltaniyeh, then capital of the Mongol Ilkhanid dynasty in Iran. Its 50-metre dome, covered in turquoise-blue tiles, is the earliest surviving double-shelled dome in Iran and became a model for later Islamic domes. Eight slender minarets surround it, and one scholar said it anticipated the Taj Mahal.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Mausoleum of Oljaytu (Soltaniyeh)",
+   "url": "https://whc.unesco.org/en/list/1188/"
+  }
+ },
+ {
+  "id": "m22-maragheh-observatory",
+  "era": "medieval",
+  "year": 1259,
+  "dateLabel": "1259 CE",
+  "cat": "discovery",
+  "title": "Hulegu's Star Observatory",
+  "place": "Maragheh, East Azerbaijan, Iran",
+  "lat": 37.4,
+  "lng": 46.21,
+  "text": "After the Mongol conquest, Hulegu Khan gave the scholar Nasir al-Din Tusi libraries and Baghdad endowment funds to build an observatory at Maragheh, his new capital. Tusi built great brass instruments, and scholars came from many lands, Muslim and non-Muslim. The chronicler Bar Hebraeus praised spheres more wonderful than those Ptolemy set up in Alexandria. Traces of the 1259 observatory survive west of town.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Ṭusi, Naṣir-al-Din i. Biography (George E. Lane)",
+   "url": "https://www.iranicaonline.org/articles/tusi-nasir-al-din-bio/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Marāgheh",
+   "url": "https://www.britannica.com/place/Maragheh"
+  }
+ }
+]

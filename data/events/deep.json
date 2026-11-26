@@ -1,0 +1,462 @@
+[
+ {
+  "id": "dt-lystrosaurus-survivor",
+  "era": "deep",
+  "year": -250000000,
+  "dateLabel": "About 250 million years ago",
+  "emoji": "🐷",
+  "cat": "nature",
+  "title": "Lystrosaurus, the Great Survivor",
+  "place": "Karoo Basin, South Africa",
+  "lat": -32.25,
+  "lng": 24.53,
+  "text": "After the worst mass extinction ever wiped out most life on Earth, a stubby, pig-sized plant-eater with two tusks thrived. In some Karoo rock layers, most of the fossils, about three-quarters by recent counts, are Lystrosaurus. It is also found in India and Antarctica, lands that were then joined in the supercontinent Pangaea.",
+  "source": {
+   "name": "University of Washington News",
+   "url": "https://www.washington.edu/news/2020/08/27/torpor-lystrosaurus-release/"
+  },
+  "source2": {
+   "name": "Frontiers in Earth Science (Botha 2020)",
+   "url": "https://www.frontiersin.org/articles/10.3389/feart.2020.610463/full"
+  }
+ },
+ {
+  "id": "dt-mamenchisaurus-neck",
+  "era": "deep",
+  "year": -155000000,
+  "dateLabel": "About 155 million years ago",
+  "emoji": "🦕",
+  "cat": "nature",
+  "title": "A 22-Metre Giant from China",
+  "place": "Yibin, Sichuan, China",
+  "lat": 28.77,
+  "lng": 104.63,
+  "text": "Mamenchisaurus was a giant long-necked plant-eater about 22 metres long. It lived in China in the Late Jurassic, between about 155 and 145 million years ago. It was named in 1954 by the Chinese fossil pioneer Yang Zhongjian, also known as C. C. Young.",
+  "source": {
+   "name": "Natural History Museum, London (Dino Directory)",
+   "url": "https://www.nhm.ac.uk/discover/dino-directory/mamenchisaurus.html"
+  }
+ },
+ {
+  "id": "dt-archaeopteryx",
+  "era": "deep",
+  "year": -150000000,
+  "dateLabel": "About 150 million years ago",
+  "emoji": "🪶",
+  "cat": "discovery",
+  "title": "Half Bird, Half Dinosaur",
+  "place": "Solnhofen, Germany",
+  "lat": 48.9,
+  "lng": 10.98,
+  "text": "Archaeopteryx had feathered wings like a bird but also teeth, clawed fingers and a long bony tail like a dinosaur. Its skeleton was found in fine limestone in 1861, just two years after Darwin published his theory of evolution. It became famous as a perfect in-between creature.",
+  "source": {
+   "name": "Natural History Museum, London (Dino Directory)",
+   "url": "https://www.nhm.ac.uk/discover/dino-directory/archaeopteryx.html"
+  },
+  "source2": {
+   "name": "University of California Museum of Paleontology",
+   "url": "https://ucmp.berkeley.edu/diapsids/birds/archaeopteryx.html"
+  }
+ },
+ {
+  "id": "dt-morrison-bone-wall",
+  "era": "deep",
+  "year": -150000000,
+  "dateLabel": "About 150 million years ago",
+  "emoji": "🦴",
+  "cat": "discovery",
+  "title": "A Wall Made of Dinosaur Bones",
+  "place": "Dinosaur National Monument, Utah, USA",
+  "lat": 40.44,
+  "lng": -109.3,
+  "text": "Giant long-necked dinosaurs like Apatosaurus and Diplodocus lived here about 150 million years ago. In 1909 fossil hunter Earl Douglass found eight Apatosaurus tailbones in a sandstone hill, the start of a hugely productive quarry. Today visitors can stand inside a building and see a rock wall studded with around 1,500 real dinosaur bones.",
+  "source": {
+   "name": "US National Park Service: Quarry Exhibit Hall",
+   "url": "https://www.nps.gov/dino/planyourvisit/quarry-exhibit-hall.htm"
+  },
+  "source2": {
+   "name": "US National Park Service: Earl Douglass",
+   "url": "https://www.nps.gov/dino/learn/historyculture/douglass.htm"
+  }
+ },
+ {
+  "id": "dt-sinosauropteryx",
+  "era": "deep",
+  "year": -124000000,
+  "dateLabel": "About 125 million years ago",
+  "emoji": "🦖",
+  "cat": "discovery",
+  "title": "The First Fuzzy Dinosaur",
+  "place": "Liaoning, China",
+  "lat": 41.8,
+  "lng": 120.8,
+  "text": "Described in 1996, Sinosauropteryx was the first dinosaur outside the bird family found with feathers: a coat of simple fuzz. Scientists later spotted traces of its colour pattern, including a striped, banded tail. It was only about a metre long, and it changed how everyone pictures dinosaurs.",
+  "source": {
+   "name": "Natural History Museum, London (Dino Directory)",
+   "url": "https://www.nhm.ac.uk/discover/dino-directory/sinosauropteryx.html"
+  }
+ },
+ {
+  "id": "dt-patagotitan",
+  "era": "deep",
+  "year": -101000000,
+  "dateLabel": "About 101 million years ago",
+  "emoji": "🐘",
+  "cat": "nature",
+  "title": "A Giant Found on a Sheep Ranch",
+  "place": "Chubut Province, Argentina",
+  "lat": -43.47,
+  "lng": -68.6,
+  "text": "Patagotitan was a titanosaur, one of the long-necked giants, about 37 metres long and weighing around 57 tonnes, though estimates vary. A ranch worker spotted a bone on a Patagonian ranch in 2010, and scientists dug up the remains of at least six individuals. Its species name honours the ranch's owners, the Mayo family.",
+  "source": {
+   "name": "Natural History Museum, London (Dino Directory: Patagotitan)",
+   "url": "https://www.nhm.ac.uk/discover/dino-directory/patagotitan.html"
+  },
+  "source2": {
+   "name": "Proceedings of the Royal Society B (Carballido et al. 2017)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5563814/"
+  }
+ },
+ {
+  "id": "dt-muttaburrasaurus",
+  "era": "deep",
+  "year": -100000000,
+  "dateLabel": "About 100 million years ago",
+  "emoji": "🌊",
+  "cat": "nature",
+  "title": "Australia's Dinosaur by the Inland Sea",
+  "place": "Muttaburra, Queensland, Australia",
+  "lat": -22.6,
+  "lng": 144.55,
+  "text": "When Muttaburrasaurus lived, much of inland Australia was covered by a shallow sea. This plant-eater had a strange bump on its snout. A cattle grazier named Doug Langdon found its skeleton beside the Thomson River in 1963, and it is now Queensland's official state fossil.",
+  "source": {
+   "name": "Queensland Government (State fossil emblem: Muttaburrasaurus langdoni)",
+   "url": "https://campaigns.premiers.qld.gov.au/fossilemblem/muttaburrasaurus-langdoni.aspx"
+  },
+  "source2": {
+   "name": "Australian Museum",
+   "url": "https://australian.museum/learn/dinosaurs/fact-sheets/muttaburrasaurus-langdoni/"
+  }
+ },
+ {
+  "id": "dt-spinosaurus",
+  "era": "deep",
+  "year": -95000000,
+  "dateLabel": "About 95 million years ago",
+  "emoji": "🐊",
+  "cat": "nature",
+  "title": "The River Monster with a Sail",
+  "place": "Kem Kem beds, Morocco",
+  "lat": 31.3,
+  "lng": -4.2,
+  "text": "Spinosaurus was a huge predator with a tall sail on its back, adapted to life in and around the rivers of North Africa. The bones of the first skeleton, described by Ernst Stromer and kept in Munich, were destroyed in the war in 1944. A newer partial skeleton from Morocco's Kem Kem beds has brought it back to life.",
+  "source": {
+   "name": "ZooKeys (Ibrahim et al. 2020, \"Geology and paleontology of the Upper Cretaceous Kem Kem Group of eastern Morocco\")",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7188693/"
+  },
+  "source2": {
+   "name": "Science (Ibrahim et al. 2014, \"Semiaquatic adaptations in a giant predatory dinosaur\"), abstract",
+   "url": "https://doi.org/10.1126/science.1258750"
+  }
+ },
+ {
+  "id": "dt-fighting-dinosaurs",
+  "era": "deep",
+  "year": -74000000,
+  "dateLabel": "About 74 million years ago",
+  "emoji": "⚔️",
+  "cat": "nature",
+  "title": "Two Dinosaurs Frozen Mid-Fight",
+  "place": "Gobi Desert, Mongolia",
+  "lat": 43.75,
+  "lng": 103.4,
+  "text": "In 1971 a Polish-Mongolian team found a Velociraptor and a Protoceratops locked together: the raptor's claw in its rival's neck, its arm caught in the other's beak. Both were buried mid-battle, maybe by a collapsing sand dune. Real Velociraptors were only about the size of a turkey, and covered in feathers.",
+  "source": {
+   "name": "American Museum of Natural History, OLogy card 038 'Fighting Dinosaurs'",
+   "url": "https://www.amnh.org/explore/ology/ology-cards/038-fighting-dinosaurs"
+  },
+  "source2": {
+   "name": "Natural History Museum (London), Dino Directory: Velociraptor",
+   "url": "https://www.nhm.ac.uk/discover/dino-directory/velociraptor.html"
+  }
+ },
+ {
+  "id": "dt-kamuysaurus",
+  "era": "deep",
+  "year": -72000000,
+  "dateLabel": "About 72 million years ago",
+  "emoji": "🐉",
+  "cat": "discovery",
+  "title": "The Dragon of Mukawa",
+  "place": "Mukawa, Hokkaido, Japan",
+  "lat": 42.57,
+  "lng": 141.93,
+  "text": "In 2003 Yoshiyuki Horita found dinosaur bones along a creek in Mukawa, Hokkaido. They turned out to belong to a nearly complete duck-billed dinosaur about 8 metres long, buried in rocks from the sea floor, so its body probably floated out to sea. Named in 2019, Kamuysaurus takes its name from kamuy, the Ainu word for a deity.",
+  "source": {
+   "name": "Scientific Reports (Kobayashi et al. 2019, \"A New Hadrosaurine ... from the Marine Deposits of the Late Cretaceous Hakobuchi Formation, Yezo Group, Japan\")",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6728324/"
+  }
+ },
+ {
+  "id": "dt-sue-trex",
+  "era": "deep",
+  "year": -67000000,
+  "dateLabel": "About 67 million years ago",
+  "emoji": "🦖",
+  "cat": "discovery",
+  "title": "Sue, the Most Famous T. rex",
+  "place": "Near Faith, South Dakota, USA",
+  "lat": 45.03,
+  "lng": -102.04,
+  "text": "In 1990 fossil hunter Sue Hendrickson spotted bones sticking out of a cliff, and they became one of the most complete T. rex skeletons ever found. After a long legal fight, it sold at auction in 1997 for more than 8 million dollars. Sue now lives at the Field Museum in Chicago.",
+  "source": {
+   "name": "Field Museum, Chicago",
+   "url": "https://www.fieldmuseum.org/blog/sue-t-rex"
+  }
+ },
+ {
+  "id": "dt-chicxulub-impact",
+  "era": "deep",
+  "year": -66000000,
+  "dateLabel": "About 66 million years ago",
+  "emoji": "☄️",
+  "cat": "nature",
+  "title": "The Day the Asteroid Hit",
+  "place": "Chicxulub, Yucatán, Mexico",
+  "lat": 21.4,
+  "lng": -89.5,
+  "text": "About 66 million years ago a large asteroid slammed into what is now Chicxulub, on the coast of Mexico's Yucatán. Debris from the impact has been found in rocks of this age all around the world. Scientists reviewing the evidence concluded that the darkness and cooling that followed triggered one of the biggest mass extinctions in Earth's history.",
+  "source": {
+   "name": "Science (Schulte et al. 2010, \"The Chicxulub asteroid impact and mass extinction at the Cretaceous-Paleogene boundary\"), abstract",
+   "url": "https://doi.org/10.1126/science.1177265"
+  }
+ },
+ {
+  "id": "dt-deccan-traps",
+  "era": "deep",
+  "year": -66500000,
+  "dateLabel": "About 66 million years ago",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "India's Great Floods of Lava",
+  "place": "Western Ghats, India",
+  "lat": 18.85,
+  "lng": 73.72,
+  "text": "Around the time the dinosaurs died out, about 66 million years ago, enormous floods of lava poured across India. More than 90 percent of the lava in the Deccan Traps erupted in less than a million years, and most of that came just after the extinction. Scientists still debate how much its gases added to the chaos of the asteroid strike.",
+  "source": {
+   "name": "Science (Sprain et al. 2019, \"The eruptive tempo of Deccan volcanism in relation to the Cretaceous-Paleogene boundary\"), abstract",
+   "url": "https://doi.org/10.1126/science.aav1446"
+  }
+ },
+ {
+  "id": "dt-pakicetus",
+  "era": "deep",
+  "year": -50000000,
+  "dateLabel": "About 50 million years ago",
+  "emoji": "🐋",
+  "cat": "discovery",
+  "title": "The Whale That Walked",
+  "place": "Kohat, Pakistan",
+  "lat": 33.59,
+  "lng": 71.44,
+  "text": "Pakicetus was a wolf-sized land animal that lived in the early Eocene, yet it is one of the earliest known whales. Skeletons described in 2001 showed that these first whales lived on land rather than in the sea. They also showed that whales are close relatives of the even-toed hoofed mammals, not of the extinct meat-eaters once thought to be their kin.",
+  "source": {
+   "name": "Nature (Thewissen et al. 2001, \"Skeletons of terrestrial cetaceans and the relationship of whales to artiodactyls\"), abstract",
+   "url": "https://doi.org/10.1038/35095005"
+  }
+ },
+ {
+  "id": "dt-messel-pit",
+  "era": "deep",
+  "year": -47000000,
+  "dateLabel": "About 47 million years ago",
+  "emoji": "🐴",
+  "cat": "discovery",
+  "title": "The Lake That Kept Its Secrets",
+  "place": "Messel, Germany",
+  "lat": 49.92,
+  "lng": 8.76,
+  "text": "Animals buried here about 47 million years ago were preserved in amazing detail: whole skeletons, with feathers, skin, hair and even stomach contents. The fossils were discovered through mining for oil shale. In 1971 the old pit was proposed as a rubbish dump, but public concern saved it, and it became a World Heritage Site in 1995.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Messel Pit Fossil Site)",
+   "url": "https://whc.unesco.org/en/list/720"
+  }
+ },
+ {
+  "id": "dt-wadi-al-hitan",
+  "era": "deep",
+  "year": -40000000,
+  "dateLabel": "About 40 million years ago",
+  "emoji": "🦵",
+  "cat": "nature",
+  "title": "Whales with Tiny Feet",
+  "place": "Wadi al Hitan, Egypt",
+  "lat": 29.33,
+  "lng": 30.18,
+  "text": "Today this is Egypt's Western Desert, but in the Eocene it was a sea full of early whales, and many complete skeletons still lie here. Fossils of Basilosaurus from Egypt have small hind limbs with feet. These whales were in the last stages of losing their back legs, a leftover from their land-living ancestors.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Wadi Al-Hitan, Whale Valley)",
+   "url": "https://whc.unesco.org/en/list/1186"
+  },
+  "source2": {
+   "name": "Science (Gingerich, Smith & Simons 1990, \"Hind limbs of Eocene Basilosaurus: evidence of feet in whales\"), abstract",
+   "url": "https://doi.org/10.1126/science.249.4965.154"
+  }
+ },
+ {
+  "id": "dt-antarctic-ice",
+  "era": "deep",
+  "year": -34000000,
+  "dateLabel": "About 34 million years ago",
+  "emoji": "🧊",
+  "cat": "nature",
+  "title": "Antarctica Freezes Over",
+  "place": "Gamburtsev Mountains, Antarctica",
+  "lat": -80.5,
+  "lng": 76,
+  "text": "About 34 million years ago carbon dioxide levels fell and Antarctica iced over fast. Models suggest the glaciers began on high ground like the Gamburtsev Mountains. Discovered in 1958, these mountains have jagged, Alps-like peaks and valleys, yet they are completely hidden beneath the ice sheet and have only been mapped using radar.",
+  "source": {
+   "name": "Nature (Bo et al. 2009, \"The Gamburtsev mountains and the origin and early evolution of the Antarctic Ice Sheet\"), abstract",
+   "url": "https://doi.org/10.1038/nature08024"
+  },
+  "source2": {
+   "name": "Nature (Ferraccioli et al. 2011, \"East Antarctic rifting triggers uplift of the Gamburtsev Mountains\"), abstract",
+   "url": "https://doi.org/10.1038/nature10566"
+  }
+ },
+ {
+  "id": "dt-riversleigh",
+  "era": "deep",
+  "year": -20000000,
+  "dateLabel": "About 20 million years ago",
+  "emoji": "🦘",
+  "cat": "nature",
+  "title": "When Kangaroos Had Fangs",
+  "place": "Riversleigh, Queensland, Australia",
+  "lat": -19.03,
+  "lng": 138.73,
+  "text": "Riversleigh's fossils come from Australian rainforests that are now gone. They include marsupial lions, a small 'Fangaroo' with huge canine teeth, and a giant rat-kangaroo that ate meat, along with crocodiles and dozens of kinds of bats. UNESCO counts Riversleigh among the world's greatest fossil sites, covering roughly 10 to 30 million years ago.",
+  "source": {
+   "name": "Australian Museum (Riversleigh fossil site)",
+   "url": "https://australian.museum/learn/australia-over-time/fossils/sites/riversleigh/"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/698"
+  }
+ },
+ {
+  "id": "dt-mediterranean-dries",
+  "era": "deep",
+  "year": -5960000,
+  "dateLabel": "About 6 million years ago",
+  "emoji": "🧂",
+  "cat": "nature",
+  "title": "The Mediterranean Dries Up",
+  "place": "Strait of Gibraltar, Spain/Morocco",
+  "lat": 35.97,
+  "lng": -5.5,
+  "text": "When the link to the Atlantic was cut off, the Mediterranean Sea largely evaporated, leaving thick layers of salt on its floor. Rivers carved deep canyons to reach the sunken basin. About 5.3 million years ago the Atlantic broke back through at Gibraltar, and some scientists think the sea refilled astonishingly quickly.",
+  "source": {
+   "name": "Garcia-Castellanos et al. 2009, Nature 462:778-781",
+   "url": "https://www.nature.com/articles/nature08555"
+  },
+  "source2": {
+   "name": "University of Southampton",
+   "url": "https://www.southampton.ac.uk/news/2025/01/new-evidence-suggests-megaflood-refilled-the-mediterranean-sea-five-million-years-ago.page"
+  }
+ },
+ {
+  "id": "dt-laetoli-footprints",
+  "era": "deep",
+  "year": -3660000,
+  "dateLabel": "About 3.6 million years ago",
+  "emoji": "👣",
+  "cat": "discovery",
+  "title": "Footprints in Volcanic Ash",
+  "place": "Laetoli, Tanzania",
+  "lat": -3,
+  "lng": 35.35,
+  "text": "Early human relatives walked across wet volcanic ash, and later ash falls buried and preserved their trail. Mary Leakey's team found animal tracks here in 1976, and in 1978 Paul Abell spotted the human-like trail: about 70 footprints stretching 27 metres. They show upright walking with a heel-first, human-like stride and a big toe in line with the others.",
+  "source": {
+   "name": "Smithsonian National Museum of Natural History - Human Origins",
+   "url": "https://humanorigins.si.edu/evidence/behavior/footprints/laetoli-footprint-trails"
+  }
+ },
+ {
+  "id": "dt-lucy",
+  "era": "deep",
+  "year": -3200000,
+  "dateLabel": "About 3.2 million years ago",
+  "emoji": "🎶",
+  "cat": "discovery",
+  "title": "Lucy, Named After a Beatles Song",
+  "place": "Hadar, Ethiopia",
+  "lat": 11.17,
+  "lng": 40.63,
+  "text": "In 1974 Donald Johanson and Maurice Taieb found the partial skeleton of an Australopithecus afarensis, an early human relative, about 3.2 million years old. She got her nickname that night, while the team celebrated to the Beatles' song Lucy in the Sky with Diamonds. In Ethiopia she is also called Dinknesh, Amharic for 'you are marvellous'.",
+  "source": {
+   "name": "Smithsonian National Museum of Natural History - Human Origins",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/al-288-1"
+  }
+ },
+ {
+  "id": "dt-panama-bridge",
+  "era": "deep",
+  "year": -2800000,
+  "dateLabel": "About 2.8 million years ago",
+  "emoji": "🌉",
+  "cat": "journeys",
+  "title": "A Land Bridge Joins the Americas",
+  "place": "Isthmus of Panama, Panama",
+  "lat": 9.08,
+  "lng": -79.68,
+  "text": "When the Isthmus of Panama finally rose from the sea about 2.8 million years ago, North and South America were linked. Animals crossed both ways: the ancestors of today's opossums, armadillos and porcupines went north, while the ancestors of bears, cats, dogs, horses and llamas went south.",
+  "source": {
+   "name": "O'Dea et al. 2016, Science Advances (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27540590/"
+  },
+  "source2": {
+   "name": "NASA Earth Observatory",
+   "url": "https://earthobservatory.nasa.gov/images/4073/panama-isthmus-that-changed-the-world"
+  }
+ },
+ {
+  "id": "dt-gigantopithecus",
+  "era": "deep",
+  "year": -2000000,
+  "dateLabel": "About 2 million years ago",
+  "emoji": "🦍",
+  "cat": "discovery",
+  "title": "A Giant Ape Found in a Drugstore",
+  "place": "Liucheng, Guangxi, China",
+  "lat": 24.65,
+  "lng": 109.25,
+  "text": "Gigantopithecus was the largest primate that ever lived, perhaps 3 metres tall and weighing 200 to 300 kilograms. It first came to light when a scientist found one of its huge teeth being sold as a 'dragon tooth' in a Hong Kong medicine shop, reported in 1935. We still know it only from four jaws and nearly 2,000 teeth.",
+  "source": {
+   "name": "Zhang et al. 2024, Nature 625:535-539",
+   "url": "https://www.nature.com/articles/s41586-023-06900-0"
+  }
+ },
+ {
+  "id": "dt-dmanisi",
+  "era": "deep",
+  "year": -1800000,
+  "dateLabel": "About 1.8 million years ago",
+  "emoji": "💀",
+  "cat": "journeys",
+  "title": "First Humans Outside Africa",
+  "place": "Dmanisi, Georgia",
+  "lat": 41.33,
+  "lng": 44.33,
+  "text": "Fossils from Dmanisi in Georgia, about 1.77 million years old, belong to some of the earliest humans known outside Africa. One skull belonged to an elderly man who had lost all but one of his teeth years before dying. Surviving that long may mean others in his group took care of him.",
+  "source": {
+   "name": "Lordkipanidze et al. 2005, Nature 434:717-718",
+   "url": "https://www.nature.com/articles/434717b"
+  },
+  "source2": {
+   "name": "Smithsonian National Museum of Natural History - Human Origins",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/d3444"
+  }
+ }
+]

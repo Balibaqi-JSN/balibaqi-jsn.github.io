@@ -1,0 +1,620 @@
+[
+ {
+  "id": "in-anning-ichthyosaur",
+  "era": "industrial",
+  "year": 1811,
+  "dateLabel": "About 1811",
+  "emoji": "🦴",
+  "cat": "discovery",
+  "title": "Mary Anning's Sea Dragon",
+  "place": "Lyme Regis, United Kingdom",
+  "lat": 50.72,
+  "lng": -2.94,
+  "text": "On the crumbly cliffs of England's south coast, Mary Anning's brother Joseph found the skull of an ichthyosaur, a dolphin-shaped reptile from the age of dinosaurs, in 1811, when Mary was 12. About a year later Mary dug out the rest of the skeleton. She sold fossils to help pay her poor family's debts. Scientists often overlooked her, but today she is celebrated as a pioneering palaeontologist.",
+  "source": {
+   "name": "Natural History Museum (London), Mary Anning: the unsung hero",
+   "url": "https://www.nhm.ac.uk/discover/mary-anning-unsung-hero.html"
+  },
+  "source2": {
+   "name": "Natural History Museum (London), Mary Anning: the unsung hero",
+   "url": "https://www.nhm.ac.uk/discover/mary-anning-unsung-hero.html"
+  }
+ },
+ {
+  "id": "in-tambora-eruption",
+  "era": "industrial",
+  "year": 1815,
+  "dateLabel": "April 1815",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "Tambora and the Year Without Summer",
+  "place": "Sumbawa, Indonesia",
+  "lat": -8.25,
+  "lng": 118,
+  "text": "Mount Tambora blew apart in the biggest eruption in recorded history, killing tens of thousands of people on the island. Its ash veiled the sky so well that 1816 became the Year Without a Summer, with snow in June in New England. Stuck indoors during that gloomy summer, Mary Shelley began writing Frankenstein.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Mount Tambora",
+   "url": "https://www.britannica.com/place/Mount-Tambora"
+  },
+  "source2": {
+   "name": "UC Berkeley News, 200th anniversary of Tambora eruption (2015)",
+   "url": "https://news.berkeley.edu/2015/03/31/200th-anniversary-of-tambora-eruption-a-reminder-of-volcanic-perils/"
+  }
+ },
+ {
+  "id": "in-stockton-darlington",
+  "era": "industrial",
+  "year": 1825,
+  "dateLabel": "September 27, 1825",
+  "emoji": "🚂",
+  "cat": "journeys",
+  "title": "The First Steam Railway for Everyone",
+  "place": "Stockton-on-Tees, United Kingdom",
+  "lat": 54.57,
+  "lng": -1.32,
+  "text": "George Stephenson's engine, Locomotion No. 1, pulled wagons of coal and cheering passengers along the world's first public railway to use steam engines. A man on horseback rode ahead of the train carrying a flag to warn people off the track. Within a few decades, railways would knit whole continents together.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Stockton & Darlington Railway",
+   "url": "https://www.britannica.com/topic/Stockton-and-Darlington-Railway"
+  },
+  "source2": {
+   "name": "Science Museum Group Collection, Steam locomotive No. 1 'Locomotion', Stockton & Darlington Railway",
+   "url": "https://collection.sciencemuseumgroup.org.uk/objects/co205767/steam-locomotive-no-1-locomotion-stockton-darlington-railway"
+  }
+ },
+ {
+  "id": "in-cherokee-phoenix",
+  "era": "industrial",
+  "year": 1828,
+  "dateLabel": "February 21, 1828",
+  "emoji": "📰",
+  "cat": "culture",
+  "title": "A Newspaper in Cherokee",
+  "place": "New Echota, Georgia, USA",
+  "lat": 34.54,
+  "lng": -84.91,
+  "text": "The Cherokee Phoenix, the first newspaper published by a Native American nation, printed its first issue in English and Cherokee. Its Cherokee columns used a writing system invented by Sequoyah, who spoke no language other than Cherokee. His syllabary was rapidly adopted by a large number of Cherokees.",
+  "source": {
+   "name": "New Georgia Encyclopedia (Georgia Humanities / UGA Press), Cherokee Phoenix",
+   "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/cherokee-phoenix/"
+  },
+  "source2": {
+   "name": "New Georgia Encyclopedia, Sequoyah",
+   "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/sequoyah-ca-1770-ca-1840/"
+  }
+ },
+ {
+  "id": "in-great-wave",
+  "era": "industrial",
+  "year": 1831,
+  "dateLabel": "About 1831",
+  "emoji": "🌊",
+  "cat": "culture",
+  "title": "Hokusai's Great Wave",
+  "place": "Edo (Tokyo), Japan",
+  "lat": 35.68,
+  "lng": 139.77,
+  "text": "Hokusai, an artist born in 1760, designed a woodblock print of a giant wave curling over tiny boats, with Mount Fuji small in the distance. Prints like this could be made in great quantity for Edo's townspeople. Its deep blues mixed traditional indigo with Prussian blue, an exotic pigment newly available to printers, and the image has become a global icon of Japanese art.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Under the Wave off Kanagawa (JP1847)",
+   "url": "https://www.metmuseum.org/art/collection/search/45434"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, 'The Great Wave: Anatomy of an Icon' (Marco Leona, 2020)",
+   "url": "https://www.metmuseum.org/essays/hokusai-great-wave"
+  }
+ },
+ {
+  "id": "in-darwin-galapagos",
+  "era": "industrial",
+  "year": 1835,
+  "dateLabel": "September 1835",
+  "emoji": "🐢",
+  "cat": "discovery",
+  "title": "Darwin Meets the Galápagos",
+  "place": "San Cristóbal Island, Ecuador",
+  "lat": -0.9,
+  "lng": -89.6,
+  "text": "The young naturalist Charles Darwin spent about five weeks in these volcanic islands aboard HMS Beagle. The islands' vice-governor, Nicholas Lawson, told him he could tell which island a giant tortoise came from just by its shell, and Darwin noticed mockingbirds differed from island to island too. Those small differences helped spark his theory of evolution by natural selection.",
+  "source": {
+   "name": "Darwin Online (University of Cambridge), R. Keynes, Darwin's field notes on the Galapagos",
+   "url": "https://darwin-online.org.uk/EditorialIntroductions/Chancellor_Keynes_Galapagos.html"
+  }
+ },
+ {
+  "id": "in-lin-zexu-opium",
+  "era": "industrial",
+  "year": 1839,
+  "dateLabel": "June 1839",
+  "emoji": "🔥",
+  "cat": "power",
+  "title": "Lin Zexu Destroys the Opium",
+  "place": "Humen, China",
+  "lat": 22.81,
+  "lng": 113.67,
+  "text": "Commissioner Lin Zexu seized more than a thousand tonnes of British opium and destroyed it by mixing it with lime and salt in trenches, then flushing it out to sea. He even wrote a letter to Queen Victoria asking her to stop the trade. Britain answered with the First Opium War, which forced China to hand over Hong Kong.",
+  "source": {
+   "name": "MIT Visualizing Cultures, The First Opium War (essay)",
+   "url": "https://visualizingcultures.mit.edu/opium_wars_01/ow1_essay02.html"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Treaty of Nanjing",
+   "url": "https://www.britannica.com/event/Treaty-of-Nanjing"
+  }
+ },
+ {
+  "id": "in-treaty-of-waitangi",
+  "era": "industrial",
+  "year": 1840,
+  "dateLabel": "February 6, 1840",
+  "emoji": "📜",
+  "cat": "power",
+  "title": "The Treaty of Waitangi",
+  "place": "Waitangi, New Zealand",
+  "lat": -35.27,
+  "lng": 174.08,
+  "text": "Māori chiefs and the British Crown signed a treaty in a marquee on the lawn at Waitangi, and copies later travelled the country for more chiefs to sign. The English and Māori versions did not say quite the same thing about who would rule. New Zealanders still debate that gap today, and February 6 is now the national day.",
+  "source": {
+   "name": "Waitangi Tribunal (NZ Ministry of Justice), About the Treaty",
+   "url": "https://www.waitangitribunal.govt.nz/en/about/the-treaty/about-the-treaty"
+  },
+  "source2": {
+   "name": "Waitangi National Trust (Waitangi Treaty Grounds), Waitangi Day",
+   "url": "https://www.waitangi.org.nz/whats-on/waitangi-day"
+  }
+ },
+ {
+  "id": "in-seneca-falls",
+  "era": "industrial",
+  "year": 1848,
+  "dateLabel": "July 19–20, 1848",
+  "emoji": "✊",
+  "cat": "power",
+  "title": "Women Demand the Vote at Seneca Falls",
+  "place": "Seneca Falls, New York, USA",
+  "lat": 42.91,
+  "lng": -76.8,
+  "text": "Around 300 people packed a small chapel for the first women's rights convention in the United States. Elizabeth Cady Stanton wrote a Declaration of Sentiments modelled on the Declaration of Independence, adding that all men and women are created equal. One hundred people signed it, including the famous abolitionist Frederick Douglass.",
+  "source": {
+   "name": "US National Park Service, Women's Rights NHP, The First Women's Rights Convention",
+   "url": "https://www.nps.gov/wori/learn/historyculture/the-first-womens-rights-convention.htm"
+  },
+  "source2": {
+   "name": "US National Park Service, Declaration of Sentiments (text and signers)",
+   "url": "https://www.nps.gov/wori/learn/historyculture/declaration-of-sentiments.htm"
+  }
+ },
+ {
+  "id": "in-victoria-gold-rush",
+  "era": "industrial",
+  "year": 1851,
+  "dateLabel": "1851",
+  "emoji": "⛏️",
+  "cat": "daily",
+  "title": "Gold Fever in Ballarat",
+  "place": "Ballarat, Australia",
+  "lat": -37.56,
+  "lng": 143.85,
+  "text": "Gold was found in Victoria, and diggers rushed in from across Australia and around the world; by 1855 about 20,000 Chinese were on the Victorian diggings. Victoria's population jumped from 76,000 in 1851 to 540,000 in 1860. In 1869 two miners at Moliagul, north of Ballarat, dug up the Welcome Stranger, a nugget weighing about 72 kilograms.",
+  "source": {
+   "name": "National Museum of Australia, Defining Moments: Eureka Stockade",
+   "url": "https://www.nma.gov.au/defining-moments/resources/eureka-stockade"
+  },
+  "source2": {
+   "name": "State Library Victoria (Ergo), 'Richest discoveries'",
+   "url": "https://ergo.slv.vic.gov.au/explore-history/golden-victoria/finding-gold/richest-discoveries"
+  }
+ },
+ {
+  "id": "in-taiping-nanjing",
+  "era": "industrial",
+  "year": 1853,
+  "dateLabel": "March 1853",
+  "emoji": "⚔️",
+  "cat": "power",
+  "title": "The Taiping Heavenly Capital",
+  "place": "Nanjing, China",
+  "lat": 32.06,
+  "lng": 118.8,
+  "text": "Hong Xiuquan, a failed exam candidate who believed he was the younger brother of Jesus, led his Taiping rebels into Nanjing and renamed it the Heavenly Capital. His movement banned opium and foot-binding and promised shared land. The civil war that followed lasted until 1864 and was one of the deadliest in human history.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Taiping Rebellion'",
+   "url": "https://www.britannica.com/event/Taiping-Rebellion"
+  }
+ },
+ {
+  "id": "in-mosi-oa-tunya",
+  "era": "industrial",
+  "year": 1855,
+  "dateLabel": "November 1855",
+  "emoji": "💦",
+  "cat": "journeys",
+  "title": "The Smoke That Thunders",
+  "place": "Mosi-oa-Tunya (Victoria Falls), Zambia",
+  "lat": -17.92,
+  "lng": 25.86,
+  "text": "Guided by men from the Makololo chief Sekeletu, the Scottish missionary David Livingstone reached a waterfall whose spray rose like smoke above the Zambezi River. Locals already called it Mosi-oa-Tunya, the Smoke That Thunders. Livingstone renamed it for Queen Victoria, but the falls, more than a kilometre and a half wide, are known by both names today.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'David Livingstone'",
+   "url": "https://www.britannica.com/biography/David-Livingstone"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, 'Mosi-oa-Tunya / Victoria Falls'",
+   "url": "https://whc.unesco.org/en/list/509/"
+  }
+ },
+ {
+  "id": "in-indian-rebellion",
+  "era": "industrial",
+  "year": 1857,
+  "dateLabel": "May 10, 1857",
+  "emoji": "🛡️",
+  "cat": "power",
+  "title": "The Great Uprising of 1857",
+  "place": "Meerut, India",
+  "lat": 28.98,
+  "lng": 77.71,
+  "text": "Indian soldiers in the East India Company's army rose up at Meerut, angered partly by rumours that their new rifle cartridges were greased with cow and pig fat. The revolt spread across northern India, with leaders like Rani Lakshmibai of Jhansi leading troops in battle. Afterwards, Britain abolished the Company and ruled India directly.",
+  "source": {
+   "name": "National Army Museum, 'Why did the Indian Rebellion happen?'",
+   "url": "https://www.nam.ac.uk/explore/why-did-indian-mutiny-happen"
+  },
+  "source2": {
+   "name": "National Army Museum, 'Decisive events of the Indian Rebellion'",
+   "url": "https://www.nam.ac.uk/explore/decisive-events-indian-mutiny"
+  }
+ },
+ {
+  "id": "in-meiji-restoration",
+  "era": "industrial",
+  "year": 1868,
+  "dateLabel": "January 3, 1868",
+  "emoji": "🎌",
+  "cat": "power",
+  "title": "The Meiji Restoration",
+  "place": "Kyoto, Japan",
+  "lat": 35.02,
+  "lng": 135.76,
+  "text": "After more than 250 years of shogun rule, a coup in Kyoto proclaimed the young Emperor Meiji ruler of Japan. The court moved to Edo and renamed it Tokyo, the Eastern Capital. By 1871 the old feudal class privileges, including those of the samurai, were abolished, and Japan built railways, industry and schools so fast that by 1919 it counted among the world's five great powers.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Meiji Restoration'",
+   "url": "https://www.britannica.com/event/Meiji-Restoration"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Meiji Restoration'",
+   "url": "https://www.britannica.com/event/Meiji-Restoration"
+  }
+ },
+ {
+  "id": "in-mendeleev-periodic-table",
+  "era": "industrial",
+  "year": 1869,
+  "dateLabel": "1869",
+  "emoji": "🧪",
+  "cat": "discovery",
+  "title": "Mendeleev's Table With Gaps",
+  "place": "Saint Petersburg, Russia",
+  "lat": 59.94,
+  "lng": 30.31,
+  "text": "Chemist Dmitri Mendeleev arranged the known elements by weight and found their properties repeated in a pattern. His boldest move was leaving empty spaces for elements nobody had found yet, and predicting what they would be like. When gallium was discovered in 1875, it matched his forecast closely, and his periodic table hangs in classrooms everywhere.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Dmitri Mendeleev'",
+   "url": "https://www.britannica.com/biography/Dmitri-Mendeleev"
+  }
+ },
+ {
+  "id": "in-suez-canal",
+  "era": "industrial",
+  "year": 1869,
+  "dateLabel": "November 17, 1869",
+  "emoji": "🚢",
+  "cat": "journeys",
+  "title": "The Suez Canal Opens",
+  "place": "Port Said, Egypt",
+  "lat": 31.26,
+  "lng": 32.3,
+  "text": "A new canal about 164 kilometres long joined the Mediterranean to the Red Sea, so ships no longer had to sail all the way around Africa. A sea voyage from Rotterdam to Mumbai became about 41 percent shorter. Much of the digging was done by Egyptian peasants forced into labour, and many thousands died building it.",
+  "source": {
+   "name": "Suez Canal Authority, Canal History",
+   "url": "https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/CanalHistory.aspx"
+  },
+  "source2": {
+   "name": "The Conversation (Jonathan Parry, University of Cambridge)",
+   "url": "https://theconversation.com/suez-canal-what-the-ditch-meant-to-the-british-empire-in-the-19th-century-158169"
+  }
+ },
+ {
+  "id": "in-isandlwana",
+  "era": "industrial",
+  "year": 1879,
+  "dateLabel": "January 22, 1879",
+  "emoji": "🛡️",
+  "cat": "power",
+  "title": "The Zulu Victory at Isandlwana",
+  "place": "Isandlwana, South Africa",
+  "lat": -28.36,
+  "lng": 30.65,
+  "text": "When Britain invaded the Zulu kingdom, King Cetshwayo's army of about 20,000 warriors overran a British camp beneath the distinctive hill of Isandlwana. It was one of the worst disasters the British Army suffered in the late 1800s. A partial solar eclipse occurred during the battle, and one Zulu warrior recalled the sun turning black; Britain still conquered the kingdom months later.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Battles of Isandlwana and Rorke's Drift'",
+   "url": "https://www.britannica.com/event/Battles-of-Isandlwana-and-Rorkes-Drift"
+  },
+  "source2": {
+   "name": "National Army Museum, 'The Battle of Isandlwana, 22 January 1879'",
+   "url": "https://www.nam.ac.uk/explore/battle-isandlwana-22-january-1879"
+  }
+ },
+ {
+  "id": "in-krakatoa",
+  "era": "industrial",
+  "year": 1883,
+  "dateLabel": "August 27, 1883",
+  "emoji": "💥",
+  "cat": "nature",
+  "title": "The Loudest Sound in History",
+  "place": "Krakatoa, Indonesia",
+  "lat": -6.1,
+  "lng": 105.42,
+  "text": "The volcanic island of Krakatoa exploded with a bang heard on Rodrigues Island, nearly 4,800 kilometres away across the Indian Ocean. Its tsunamis killed tens of thousands of people along the coasts of Java and Sumatra. Ash in the upper air turned sunsets around the world a glowing red for months.",
+  "source": {
+   "name": "NASA Earth Observatory, Anak Krakatau",
+   "url": "https://science.nasa.gov/earth/earth-observatory/anak-krakatau-5638/"
+  },
+  "source2": {
+   "name": "NOAA NCEI, On This Day: Historic Krakatau Eruption of 1883",
+   "url": "https://www.ncei.noaa.gov/news/day-historic-krakatau-eruption-1883"
+  }
+ },
+ {
+  "id": "in-lei-aurea",
+  "era": "industrial",
+  "year": 1888,
+  "dateLabel": "May 13, 1888",
+  "emoji": "⛓️",
+  "cat": "power",
+  "title": "Brazil Ends Slavery",
+  "place": "Rio de Janeiro, Brazil",
+  "lat": -22.91,
+  "lng": -43.17,
+  "text": "Princess Isabel signed the Golden Law, a two-article decree that freed everyone still enslaved in Brazil. Brazil had taken in nearly half of all enslaved Africans landed alive in the Americas, and it was the last independent country in the Americas to end slavery. Rio de Janeiro exploded in celebration as an excited crowd filled the city centre.",
+  "source": {
+   "name": "Arquivo Nacional (Brazil), Você sabia que a Lei Áurea faz parte do acervo do Arquivo Nacional?",
+   "url": "https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/copy_of_noticias/voce-sabia-que-a-lei-aurea-faz-parte-do-acervo-do-arquivo-nacional"
+  },
+  "source2": {
+   "name": "Câmara dos Deputados (Brazil), Rádio Câmara: Em 1888, a princesa Isabel assinou a Lei Áurea",
+   "url": "https://www.camara.leg.br/radio/programas/373505-em-1888--a-princesa-isabel-assinou-a-lei--urea?pagina=403"
+  }
+ },
+ {
+  "id": "in-nz-women-vote",
+  "era": "industrial",
+  "year": 1893,
+  "dateLabel": "September 19, 1893",
+  "emoji": "🗳️",
+  "cat": "power",
+  "title": "The First Country Where Women Vote",
+  "place": "Wellington, New Zealand",
+  "lat": -41.29,
+  "lng": 174.78,
+  "text": "New Zealand became the first self-governing country to let all women vote in national elections, Māori women included. Campaigners led by Kate Sheppard gathered nearly 32,000 signatures, and Sheppard pasted the petition sheets end to end into a roll about 270 metres long. Less than two months after it reached Parliament, 109,461 women had enrolled to vote.",
+  "source": {
+   "name": "New Zealand Parliament, Suffrage Day, 19 September: celebrating women's right to vote",
+   "url": "https://www3.parliament.nz/mi/get-involved/features/suffrage-day-19-september-celebrating-women-s-right-to-vote/"
+  },
+  "source2": {
+   "name": "New Zealand Parliament, 'A monster' petition! 125th anniversary of the suffrage petition",
+   "url": "https://www3.parliament.nz/mi/get-involved/features/a-monster-petition-125th-anniversary-of-the-suffrage-petition/"
+  }
+ },
+ {
+  "id": "in-lumiere-cinema",
+  "era": "industrial",
+  "year": 1895,
+  "dateLabel": "December 28, 1895",
+  "emoji": "🎞️",
+  "cat": "culture",
+  "title": "The First Movie Night",
+  "place": "Paris, France",
+  "lat": 48.87,
+  "lng": 2.33,
+  "text": "In the Salon Indien of the Grand Café in Paris, the Lumière brothers charged admission to watch moving pictures on a screen. The programme was ten films, each under a minute, including workers walking out of their own factory. Only about thirty people came the first night, but within weeks up to 2,500 spectators a day were flocking in.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Lumière brothers",
+   "url": "https://www.britannica.com/biography/Lumiere-brothers"
+  },
+  "source2": {
+   "name": "Bibliothèque nationale de France, Passerelles: Invention du cinéma",
+   "url": "https://passerelles.essentiels.bnf.fr/fr/chronologie/article/240a1d43-d2ff-41f2-84a3-a900d626178a-invention-cinema"
+  }
+ },
+ {
+  "id": "in-battle-of-adwa",
+  "era": "industrial",
+  "year": 1896,
+  "dateLabel": "March 1, 1896",
+  "emoji": "🦁",
+  "cat": "power",
+  "title": "Ethiopia Wins at Adwa",
+  "place": "Adwa, Ethiopia",
+  "lat": 14.17,
+  "lng": 38.9,
+  "text": "Emperor Menelik II's huge Ethiopian army, with Empress Taytu leading troops of her own, defeated an invading Italian force near Adwa. It was the first crushing defeat of a European power by African forces in the colonial era and checked Italy's empire-building. The victory became an emblem for Pan-African movements, and Ethiopians still gather to celebrate it.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Battle of Adwa",
+   "url": "https://www.britannica.com/event/Battle-of-Adwa"
+  },
+  "source2": {
+   "name": "Anadolu Agency, 'Ethiopians celebrate 125th anniversary of Adwa Victory'",
+   "url": "https://www.aa.com.tr/en/africa/ethiopians-celebrate-125th-anniversary-of-adwa-victory/2162320"
+  }
+ },
+ {
+  "id": "in-korean-empire",
+  "era": "industrial",
+  "year": 1897,
+  "dateLabel": "October 12, 1897",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "Korea Becomes an Empire",
+  "place": "Seoul, South Korea",
+  "lat": 37.56,
+  "lng": 126.98,
+  "text": "King Gojong declared himself emperor at a new altar in Seoul, announcing that Korea answered to no other country. His Korean Empire raced to modernise, and electric streetcars began rattling through Seoul in 1899, just five years after Kyoto's. Japan annexed Korea in 1910, ending the empire after just thirteen years.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Gojong",
+   "url": "https://www.britannica.com/biography/Gojong"
+  },
+  "source2": {
+   "name": "Seoul Metropolitan Government, Hwangudan Altar",
+   "url": "https://english.seoul.go.kr/hwangudan-altar/"
+  }
+ },
+ {
+  "id": "in-dunhuang-library-cave",
+  "era": "industrial",
+  "year": 1900,
+  "dateLabel": "Around 1900",
+  "emoji": "📚",
+  "cat": "discovery",
+  "title": "The Hidden Library of Dunhuang",
+  "place": "Mogao Caves, Dunhuang, China",
+  "lat": 40.04,
+  "lng": 94.81,
+  "text": "Around 1900 a Daoist monk named Wang Yuanlu found a sealed cave packed with tens of thousands of old scrolls on the Silk Road. Among them was a copy of the Diamond Sutra dated 868, the oldest dated printed book in the world. In 1907 the explorer Aurel Stein bought many manuscripts, including the Diamond Sutra, and carried them off to Britain.",
+  "source": {
+   "name": "International Dunhuang Programme (British Library): Buddhist caves: Dunhuang",
+   "url": "https://idp.bl.uk/discover/learning/buddhism-on-the-silk-roads/articles/buddhism-on-the-ground/buddhist-caves-dunhuang/"
+  },
+  "source2": {
+   "name": "International Dunhuang Programme (British Library): Buddhist texts: The Diamond Sutra",
+   "url": "https://idp.bl.uk/discover/learning/buddhism-on-the-silk-roads/articles/buddhism-on-the-ground/buddhist-texts-the-diamond-sutra/"
+  }
+ },
+ {
+  "id": "in-yaa-asantewaa",
+  "era": "industrial",
+  "year": 1900,
+  "dateLabel": "1900",
+  "emoji": "🪑",
+  "cat": "power",
+  "title": "Yaa Asantewaa and the Golden Stool",
+  "place": "Kumasi, Ghana",
+  "lat": 6.69,
+  "lng": -1.62,
+  "text": "When a British governor demanded the Golden Stool so that he could sit on it, the Asante were outraged: the sacred stool was believed to hold the spirit of the whole nation. Yaa Asantewaa, queen mother of Ejisu, rallied fighters and besieged the British fort at Kumasi. She was captured and exiled, but the British never got the Golden Stool.",
+  "source": {
+   "name": "The Open University (OpenLearn Create, TESSA Ghana): The Yaa Asantewaa War of 1900",
+   "url": "https://www.open.edu/openlearncreate/mod/oucontent/view.php?id=154370&section=2.7"
+  },
+  "source2": {
+   "name": "Wasserman, B. (1961) 'The Ashanti War of 1900: A Study in Cultural Conflict', Africa 31(2) (Cambridge)",
+   "url": "https://www.cambridge.org/core/journals/africa/article/ashanti-war-of-1900-a-study-in-cultural-conflict1/987DAAA68417779D214DDD7428172B80"
+  }
+ },
+ {
+  "id": "in-wright-flyer",
+  "era": "industrial",
+  "year": 1903,
+  "dateLabel": "December 17, 1903",
+  "emoji": "✈️",
+  "cat": "discovery",
+  "title": "Twelve Seconds in the Air",
+  "place": "Kill Devil Hills, North Carolina, USA",
+  "lat": 36.02,
+  "lng": -75.67,
+  "text": "Bicycle makers Orville and Wilbur Wright flew the first powered, controlled aeroplane over windy sand dunes. Orville's first flight lasted 12 seconds and covered about 120 feet (37 metres); later that day Wilbur flew 852 feet in 59 seconds. The brothers had tossed a coin to decide who would try first, Wilbur won, but his try three days earlier stalled.",
+  "source": {
+   "name": "National Park Service, Wright Brothers National Memorial: The First Flight",
+   "url": "https://www.nps.gov/wrbr/learn/historyculture/thefirstflight.htm"
+  },
+  "source2": {
+   "name": "Smithsonian National Air and Space Museum: 1903 Wright Flyer",
+   "url": "https://airandspace.si.edu/collection-objects/1903-wright-flyer/nasm_A19610048000"
+  }
+ },
+ {
+  "id": "in-hejaz-railway",
+  "era": "industrial",
+  "year": 1908,
+  "dateLabel": "September 1908",
+  "emoji": "🕌",
+  "cat": "journeys",
+  "title": "A Railway for Pilgrims",
+  "place": "Medina, Saudi Arabia",
+  "lat": 24.47,
+  "lng": 39.61,
+  "text": "The Ottoman Hejaz Railway reached Medina, linking it to Damascus across about 1,300 kilometres of desert. Paid for partly by donations from Muslims around the world, it cut a pilgrim's journey from weeks on a camel caravan to a few days. During the First World War, raiders blew up its tracks, and much of it was never rebuilt.",
+  "source": {
+   "name": "AramcoWorld: Ottoman-Era Hijaz Railway's Legacy Endures, Chugging Toward Revival (2026)",
+   "url": "https://www.aramcoworld.com/articles/2026/ja26/ottoman-era-hijaz-railways-legacy-endures-chugging-toward-revival"
+  },
+  "source2": {
+   "name": "The Spectator Archive, 29 August 1908, p.1 (Times correspondent en route to Medina ceremonies)",
+   "url": "https://archive.spectator.co.uk/article/29th-august-1908/1/the-times-of-friday-publishes-a-message-from-its-s"
+  }
+ },
+ {
+  "id": "in-tunguska-event",
+  "era": "industrial",
+  "year": 1908,
+  "dateLabel": "June 30, 1908",
+  "emoji": "☄️",
+  "cat": "nature",
+  "title": "The Tunguska Blast",
+  "place": "Tunguska, Siberia, Russia",
+  "lat": 60.89,
+  "lng": 101.89,
+  "text": "Something from space, probably a small asteroid or comet, exploded in the air above the Siberian forest. It flattened around 80 million trees over an area bigger than London, yet left no crater. For a few nights afterwards, the sky over Europe glowed so brightly that people said they could read outdoors at midnight.",
+  "source": {
+   "name": "Royal Museums Greenwich: The Tunguska event explained",
+   "url": "https://www.rmg.co.uk/stories/space-astronomy/tunguska-event"
+  },
+  "source2": {
+   "name": "NASA History: 115 Years Ago, the Tunguska Asteroid Impact Event",
+   "url": "https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/"
+  }
+ },
+ {
+  "id": "in-plan-of-ayala",
+  "era": "industrial",
+  "year": 1911,
+  "dateLabel": "November 1911",
+  "emoji": "🌽",
+  "cat": "power",
+  "title": "Zapata's Land and Liberty",
+  "place": "Ayala, Morelos, Mexico",
+  "lat": 18.77,
+  "lng": -98.98,
+  "text": "During the Mexican Revolution, the peasant leader and horse trainer Emiliano Zapata issued the Plan of Ayala in November 1911. It demanded that land seized by big haciendas be given back to the villages that held titles to it, and declared President Madero unfit to carry out the revolution. Zapata adopted the slogan \"Tierra y Libertad\" (Land and Liberty).",
+  "source": {
+   "name": "Orden Jurídico Nacional (Mexican Government): Plan de Ayala, full text",
+   "url": "https://www.ordenjuridico.gob.mx/Constitucion/CH8.pdf"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Emiliano Zapata",
+   "url": "https://www.britannica.com/biography/Emiliano-Zapata"
+  }
+ },
+ {
+  "id": "in-tagore-nobel",
+  "era": "industrial",
+  "year": 1913,
+  "dateLabel": "November 1913",
+  "emoji": "📖",
+  "cat": "culture",
+  "title": "Tagore Wins the Nobel Prize",
+  "place": "Santiniketan, India",
+  "lat": 23.68,
+  "lng": 87.68,
+  "text": "The Bengali poet Rabindranath Tagore became the first non-European to win the Nobel Prize in Literature, for his song-poems Gitanjali. He ran an open-air school at Santiniketan where classes were often held under trees. He also wrote songs that later became the national anthems of both India and Bangladesh.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Rabindranath Tagore (by W. Andrew Robinson)",
+   "url": "https://www.britannica.com/biography/Rabindranath-Tagore"
+  },
+  "source2": {
+   "name": "NobelPrize.org: Rabindranath Tagore, Facts",
+   "url": "https://www.nobelprize.org/prizes/literature/1913/tagore/facts/"
+  }
+ }
+]

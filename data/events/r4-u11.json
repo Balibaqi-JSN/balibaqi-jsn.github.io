@@ -1,0 +1,402 @@
+[
+ {
+  "id": "u11-swahili-dna-mtwapa",
+  "era": "medieval",
+  "year": 1000,
+  "dateLabel": "About 1000 CE",
+  "cat": "discovery",
+  "title": "Swahili Families Written in DNA",
+  "place": "Mtwapa, Kilifi County, Kenya",
+  "lat": -3.95,
+  "lng": 39.75,
+  "text": "Ancient DNA from elite Muslim graves in Swahili stone towns such as Mtwapa shows that, from about 1000 CE, African and Asian ancestors were forming families together. Most mothers' lines came from Africa, while most of the Asian DNA came from Persian men, with a share from India. It fits the Kilwa Chronicle, the coast's own oldest history, which tells of settlers from Shiraz.",
+  "source": {
+   "name": "Nature (via PMC): Entwined African and Asian genetic roots of medieval peoples of the Swahili coast",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10060156/"
+  }
+ },
+ {
+  "id": "u11-sediba-miners-road",
+  "era": "deep",
+  "year": -2000000,
+  "dateLabel": "About 2 million years ago",
+  "cat": "discovery",
+  "title": "A Spine Hidden in a Miners' Road",
+  "place": "Malapa, Cradle of Humankind, Gauteng, South Africa",
+  "lat": -25.89,
+  "lng": 27.8,
+  "text": "In 2008 fossils of an adult female Australopithecus sediba, nicknamed MH2, turned up in Malapa cave. Years later, scientists found more of her lower back inside rock blocks that early 20th-century limestone miners had dumped to build a track. Pieced together, the near-complete spine curves like a modern woman's, showing this roughly two-million-year-old relative walked comfortably upright on two legs.",
+  "source": {
+   "name": "eLife (via PMC): New fossils of Australopithecus sediba reveal a nearly complete lower back",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8610421/"
+  }
+ },
+ {
+  "id": "u11-madagascar-megafauna-crash",
+  "era": "medieval",
+  "year": 1000,
+  "dateLabel": "About 1000 CE",
+  "cat": "nature",
+  "title": "When Madagascar Lost Its Giants",
+  "place": "Anjohibe Cave, Boeny, Madagascar",
+  "lat": -15.54,
+  "lng": 46.88,
+  "text": "Madagascar once had elephant birds, hippos, giant tortoises and giant lemurs. Around 1000 years ago their populations crashed across the island's wetter regions, and many species vanished for good. Researchers argue the main trigger was not the arrival of the first foragers, who may have reached the island thousands of years earlier, but the spread of farming and cattle herding, plus drought in the driest south.",
+  "source": {
+   "name": "Cambridge Prisms: Extinction (via PMC): Patterns of late Holocene and historical extinctions on Madagascar",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12179543/"
+  }
+ },
+ {
+  "id": "u11-lutuli-peace-prize",
+  "era": "modern",
+  "year": 1961,
+  "dateLabel": "1961",
+  "cat": "power",
+  "title": "Africa's First Peace Prize Laureate",
+  "place": "Groutville, near KwaDukuza (Stanger), KwaZulu-Natal, South Africa",
+  "lat": -29.38,
+  "lng": 31.25,
+  "text": "Albert Lutuli, a chief, teacher and trade unionist, led the African National Congress and its non-violent campaign of civil disobedience against apartheid, inspired by Gandhi. After the Sharpeville massacre in 1960 the ANC was banned and Lutuli was persecuted by his own government. Even so, he received the 1960 Nobel Peace Prize a year late, in 1961, becoming Africa's first Peace laureate.",
+  "source": {
+   "name": "NobelPrize.org: Albert Lutuli – Facts",
+   "url": "https://www.nobelprize.org/prizes/peace/1960/lutuli/facts/"
+  }
+ },
+ {
+  "id": "u11-soyinka-nobel",
+  "era": "modern",
+  "year": 1986,
+  "dateLabel": "1986",
+  "cat": "culture",
+  "title": "A Prison Survivor Wins the Nobel",
+  "place": "Abeokuta, Ogun State, Nigeria",
+  "lat": 7.15,
+  "lng": 3.35,
+  "text": "Wole Soyinka, born in Abeokuta in 1934, won the Nobel Prize in Literature in 1986. During Nigeria's civil war he wrote an article calling for a ceasefire, was accused of conspiring with Biafra, and spent 22 months as a political prisoner. He turned that ordeal into books, while his plays drew on Yoruba myth, especially Ogun, god of iron and war.",
+  "source": {
+   "name": "NobelPrize.org: Wole Soyinka – Biographical",
+   "url": "https://www.nobelprize.org/prizes/literature/1986/soyinka/biographical/"
+  }
+ },
+ {
+  "id": "u11-lake-nyos-gas-cloud",
+  "era": "modern",
+  "year": 1986,
+  "dateLabel": "1986",
+  "cat": "nature",
+  "title": "The Lake That Breathed Out Death",
+  "place": "Lake Nyos, Northwest Region, Cameroon",
+  "lat": 6.44,
+  "lng": 10.3,
+  "text": "Lake Nyos, a 210-metre-deep crater lake in Cameroon, sits in permanent layers that trap gas in its deep water. In 1986 the lake suddenly released a huge cloud of carbon dioxide, which flowed into nearby towns and villages and killed about 1,800 people and 3,000 livestock. Since 2001, engineers have been degassing the lake to stop a repeat, while its chemistry is constantly monitored.",
+  "source": {
+   "name": "Scientific Reports (via PMC): Bacterial and archaeal communities in Lake Nyos (Cameroon, Central Africa)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4139950/"
+  }
+ },
+ {
+  "id": "u11-malawi-malaria-vaccine",
+  "era": "modern",
+  "year": 2019,
+  "dateLabel": "2019",
+  "cat": "discovery",
+  "title": "The World's First Malaria Vaccine Rolls Out",
+  "place": "Lilongwe, Malawi",
+  "lat": -13.97,
+  "lng": 33.79,
+  "text": "In April 2019 Malawi became the first country to launch the world's first malaria vaccine, RTS,S, in a pilot for children up to two years old, with Ghana and Kenya following. The vaccine took about thirty years to develop. In trials it prevented roughly 4 in 10 malaria cases, important in Africa, where malaria was killing more than 250,000 children each year.",
+  "source": {
+   "name": "World Health Organization: Malaria vaccine pilot launched in Malawi",
+   "url": "https://www.who.int/news/item/23-04-2019-malaria-vaccine-pilot-launched-in-malawi"
+  }
+ },
+ {
+  "id": "u11-gando-school-kere",
+  "era": "modern",
+  "year": 2001,
+  "dateLabel": "2001",
+  "cat": "culture",
+  "title": "A Village Builds Its Own Cool School",
+  "place": "Gando, Boulgou Province, Burkina Faso",
+  "lat": 11.93,
+  "lng": -0.33,
+  "text": "Diébédo Francis Kéré, son of Gando's village chief, had to leave home at seven to attend school in a hot, airless classroom with over a hundred pupils. After training in Berlin, he came back. His first building, Gando Primary School, finished in 2001, was made by villagers themselves, almost entirely by hand, from local materials. In 2022 Kéré won architecture's top honour, the Pritzker Prize.",
+  "source": {
+   "name": "The Pritzker Architecture Prize: Diébédo Francis Kéré",
+   "url": "https://www.pritzkerprize.com/laureates/diebedo-francis-kere"
+  }
+ },
+ {
+  "id": "u11-tassili-round-heads",
+  "era": "ancient",
+  "year": -7000,
+  "dateLabel": "Up to 9,000 years ago",
+  "cat": "culture",
+  "title": "Floating Giants Painted in the Sahara",
+  "place": "Tassili n'Ajjer, Illizi Province, Algeria",
+  "lat": 25.5,
+  "lng": 9,
+  "text": "On the Tassili n'Ajjer plateau, a maze of rock arches and pillars, painters left Round Head figures with blank round heads and shapeless, floating bodies. Thought to be up to 9,000 years old, some stand nearly 4 metres tall, among Africa's largest rock paintings. Sadly, early recorders harmed some images; one researcher even tested varnishes on them, leaving a dark rectangular patch.",
+  "source": {
+   "name": "British Museum African Rock Art Image Project: Algeria",
+   "url": "https://africanrockart.britishmuseum.org/country/algeria/"
+  }
+ },
+ {
+  "id": "u11-nyero-batwa-paintings",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "Before 1250 CE",
+  "cat": "culture",
+  "title": "Red Circles on a Granite Rock",
+  "place": "Nyero rock shelters, Kumi District, Uganda",
+  "lat": 1.47,
+  "lng": 33.83,
+  "text": "At Nyero, a granite outcrop in eastern Uganda, six painted shelters are covered with red geometric designs: circles, concentric rings with rays, dots and lines, applied with fingertips. They are attributed to ancestors of the Batwa, forest-dwelling hunter-gatherers of the Great Lakes, and dated to before 1250 CE. Rayed concentric circles like these are a feature unique to Ugandan rock art.",
+  "source": {
+   "name": "British Museum African Rock Art Image Project: Uganda",
+   "url": "https://africanrockart.britishmuseum.org/country/uganda/"
+  }
+ },
+ {
+  "id": "u11-dabous-giraffes",
+  "era": "ancient",
+  "year": -4000,
+  "dateLabel": "Up to 6,000 years ago",
+  "cat": "culture",
+  "title": "Life-Size Giraffes Carved in the Desert",
+  "place": "Dabous, west of the Aïr Mountains, Agadez Region, Niger",
+  "lat": 17.13,
+  "lng": 8.02,
+  "text": "On top of a rocky outcrop at Dabous, west of Niger's Aïr Mountains, someone carved two life-size giraffes into the stone, perhaps up to 6,000 years ago. Today this is the Sahara, but the region's engravings show wild animals, cattle, Barbary sheep and ostriches from wetter times. Niger has more than 2,400 recorded rock art images, mostly engravings around the Aïr and the Djado Plateau.",
+  "source": {
+   "name": "British Museum African Rock Art Image Project: Niger",
+   "url": "https://africanrockart.britishmuseum.org/country/niger/"
+  }
+ },
+ {
+  "id": "u11-tsodilo-louvre-desert",
+  "era": "classical",
+  "year": 1,
+  "dateLabel": "At least 2,000 years ago",
+  "cat": "culture",
+  "title": "The Louvre of the Kalahari",
+  "place": "Tsodilo Hills, Ngamiland, Botswana",
+  "lat": -18.75,
+  "lng": 21.74,
+  "text": "Rising from the Kalahari in north-western Botswana, the Tsodilo Hills hold more than 4,000 rock paintings, earning the nickname Louvre of the Desert. People have lived here for perhaps 100,000 years, and the paintings, of wild animals, cattle, stick-like figures and geometric shapes, are at least 2,000 years old. One painted zebra became the first logo of Botswana's National Museum.",
+  "source": {
+   "name": "British Museum African Rock Art Image Project: Botswana",
+   "url": "https://africanrockart.britishmuseum.org/country/botswana/"
+  }
+ },
+ {
+  "id": "u11-chilembwe-hat-photo",
+  "era": "modern",
+  "year": 1914,
+  "dateLabel": "1914",
+  "cat": "power",
+  "title": "The Preacher Who Wore His Hat",
+  "place": "Providence Industrial Mission, Chiradzulu, Malawi",
+  "lat": -15.7,
+  "lng": 35.15,
+  "text": "In 1914 Baptist preacher John Chilembwe opened his church in Nyasaland, now Malawi, and posed for a photograph wearing a white hat, tilted sideways, beside a white missionary friend. Africans were forbidden to wear hats before white people, so it was a quiet act of defiance. Months later, in 1915, he led the first uprising against British rule and was killed.",
+  "source": {
+   "name": "The Conversation: John Chilembwe, a new statue celebrates Malawi Pan-Africanist the world forgot",
+   "url": "https://theconversation.com/john-chilembwe-a-new-statue-celebrates-malawi-pan-africanist-the-world-forgot-197450"
+  }
+ },
+ {
+  "id": "u11-aba-womens-war",
+  "era": "modern",
+  "year": 1929,
+  "dateLabel": "1929",
+  "cat": "power",
+  "title": "The Women's War Against Colonial Rule",
+  "place": "Aba, Abia State, Nigeria",
+  "lat": 5.11,
+  "lng": 7.37,
+  "text": "In 1929, after petitions to colonial officials failed, hundreds of women in southeastern Nigeria took to the streets of Owerri, Calabar and Aba against harsh British policies. Many wore little more than wreaths of grass, and they mocked the soldiers as pigs. Remembered as Ogu Umunwanyi, the Aba Women's War, the protest cost about 50 women their lives, with 50 more wounded.",
+  "source": {
+   "name": "The Conversation: Undressing for redress, the significance of Nigerian women's naked protests",
+   "url": "https://theconversation.com/undressing-for-redress-the-significance-of-nigerian-womens-naked-protests-144823"
+  }
+ },
+ {
+  "id": "u11-maqdala-looted",
+  "era": "industrial",
+  "year": 1868,
+  "dateLabel": "1868",
+  "cat": "power",
+  "title": "An Emperor's Fortress Falls and Is Looted",
+  "place": "Maqdala (Amba Mariam), South Wollo, Ethiopia",
+  "lat": 11.38,
+  "lng": 39.28,
+  "text": "Emperor Tewodros II wrote to Queen Victoria for military help; when his letters went unanswered, he took about 30 Europeans hostage. Britain sent some 12,000 British and Indian troops from Bombay. On 13 April 1868 they stormed his mountain fortress at Maqdala, and Tewodros took his own life. Soldiers seized manuscripts and church treasures, then auctioned the loot on a nearby plain.",
+  "source": {
+   "name": "Victoria and Albert Museum: Ethiopian collections at the V&A",
+   "url": "https://www.vam.ac.uk/articles/ethiopian-collections-at-the-vampa"
+  }
+ },
+ {
+  "id": "u11-wolaita-amado-walls",
+  "era": "exploration",
+  "year": 1780,
+  "dateLabel": "Late 1700s",
+  "cat": "power",
+  "title": "King Amado's Walls and Ditches",
+  "place": "Ofa and Humbo districts, Wolaita Zone, Ethiopia",
+  "lat": 6.85,
+  "lng": 37.75,
+  "text": "In the 18th century, Kawo (King) Amado of Wolaita in southern Ethiopia ringed sixteen districts with defences. Where the ground was stony he raised dry-stone walls averaging 3 metres high; where stone was lacking, he dug ditches about 5 metres wide and deep. Local tradition compares them to the cattle walls that kept herds safe from wild animals and robbers.",
+  "source": {
+   "name": "Heliyon (via PMC): The Kawo/King Amado Kella defensive wall in Wolaita, Ethiopia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10618486/"
+  }
+ },
+ {
+  "id": "u11-mapela-hill-terraces",
+  "era": "medieval",
+  "year": 1050,
+  "dateLabel": "11th century CE",
+  "cat": "power",
+  "title": "Stone Terraces Older Than Mapungubwe",
+  "place": "Mapela Hill, Shashe region, Matabeleland South, Zimbabwe",
+  "lat": -21.6,
+  "lng": 28.65,
+  "text": "Mapela Hill in south-western Zimbabwe is terraced on every side with stone walls up to two and a half metres high. Dating shows the first prestige terraces were built in the 11th century CE, nearly 200 years before Mapungubwe, long seen as the cradle of the Zimbabwe culture. Elite earthen floors with glass beads show leaders lived apart on the hill.",
+  "source": {
+   "name": "PLOS ONE (via PMC): Zimbabwe Culture before Mapungubwe, New Evidence from Mapela Hill",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4215987/"
+  }
+ },
+ {
+  "id": "u11-takarkori-green-sahara-dna",
+  "era": "ancient",
+  "year": -5000,
+  "dateLabel": "About 7,000 years ago",
+  "cat": "discovery",
+  "title": "Herders of the Green Sahara",
+  "place": "Takarkori rock shelter, Tadrart Acacus, Libya",
+  "lat": 24.97,
+  "lng": 10.73,
+  "text": "Seven thousand years ago the Sahara was green savannah. DNA from two women buried in Takarkori rock shelter in Libya revealed a previously unknown North African lineage that split from sub-Saharan groups long ago and stayed isolated. They kept livestock, yet their ancestry shows herding spread to them as an idea, not through incoming herders. They carried little Neanderthal DNA.",
+  "source": {
+   "name": "Nature (via PMC): Ancient DNA from the Green Sahara reveals ancestral North African lineage",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12043513/"
+  }
+ },
+ {
+  "id": "u11-dungo-coastal-hominins",
+  "era": "early",
+  "year": -600000,
+  "dateLabel": "More than 600,000 years ago",
+  "cat": "daily",
+  "title": "Early Humans on Angola's Old Beaches",
+  "place": "Dungo, Benguela Province, Angola",
+  "lat": -12.85,
+  "lng": 13.25,
+  "text": "On raised beaches now about 100 metres above the sea in Angola's Benguela Province, early humans were making stone tools more than 600,000 years ago. At Dungo IV they shaped local coastal pebbles and cobbles to suit what the shore offered. At nearby Dungo V, similar tools lie with the bones of a stranded whale, hinting these toolmakers also used the coast for food.",
+  "source": {
+   "name": "PLOS ONE (via PMC): Evidence for Earlier Stone Age coastal use, the site of Dungo IV, Benguela Province, Angola",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9955982/"
+  }
+ },
+ {
+  "id": "u11-djoutoubaya-glass-beads",
+  "era": "medieval",
+  "year": 1000,
+  "dateLabel": "About 700 to 1300 CE",
+  "cat": "journeys",
+  "title": "Middle Eastern Glass in the Gold Lands",
+  "place": "Djoutoubaya, Falémé Valley, Tambacounda Region, Senegal",
+  "lat": 14.45,
+  "lng": -12.2,
+  "text": "Djoutoubaya, a farming village on the Falémé River in eastern Senegal, sat in one of the gold-producing areas of the Ghana and Mali empires. Chemical tests on glass beads from it and from Dogon Country in Mali showed most of the glass was made from raw materials from Egypt, the Levant and the Middle East, carried across the Sahara by caravans, even to remote rural places.",
+  "source": {
+   "name": "PLOS ONE (via PMC): Glass beads from archaeological sites in Mali and Senegal",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7710056/"
+  }
+ },
+ {
+  "id": "u11-maji-maji-cotton",
+  "era": "industrial",
+  "year": 1905,
+  "dateLabel": "1905",
+  "cat": "power",
+  "title": "Uprooting Cotton to Defy an Empire",
+  "place": "South-eastern Tanzania (former German East Africa)",
+  "lat": -8.8,
+  "lng": 38.8,
+  "text": "In 1905 people in south-eastern German East Africa, now Tanzania, rose against cotton plantation owners and traders. Rebels typically began by pulling up the hated cotton plants before raiding farmhouses and offices, and the revolt spread inland as a peasants' war. Germany's response was catastrophic: three years of mass starvation and disease, with as many as 300,000 people killed.",
+  "source": {
+   "name": "The Conversation: 300,000 Tanzanians were killed by Germany during the Maji-Maji uprising",
+   "url": "https://theconversation.com/300-000-tanzanians-were-killed-by-germany-during-the-maji-maji-uprising-it-was-genocide-and-should-be-called-that-217712"
+  }
+ },
+ {
+  "id": "u11-sarraounia-lougou",
+  "era": "industrial",
+  "year": 1899,
+  "dateLabel": "1899",
+  "cat": "power",
+  "title": "Sarraounia Stands Against a Rogue Column",
+  "place": "Lougou, near Dogondoutchi, Dosso Region, Niger",
+  "lat": 13.3,
+  "lng": 4.03,
+  "text": "In 1899 a French column under Captain Paul Voulet and Lieutenant Julien Chanoine marched across what is now Niger, looting and massacring thousands. At Lougou, the leader Sarraounia Mangou resisted, though the town was burned. When Paris sent an officer to take over, Voulet killed him and declared he was no longer French; his own soldiers mutinied and killed him.",
+  "source": {
+   "name": "The Conversation (French edition): Massacre de l'armée coloniale au Niger",
+   "url": "https://theconversation.com/massacre-de-larmee-coloniale-au-niger-derriere-le-mea-culpa-de-macron-la-continuite-dun-recit-historique-biaise-262297"
+  }
+ },
+ {
+  "id": "u11-niari-copper-cookpots",
+  "era": "exploration",
+  "year": 1550,
+  "dateLabel": "Mid-1400s to mid-1600s",
+  "cat": "daily",
+  "title": "Copper Smelted in Cooking Pots",
+  "place": "Kingoyi, near Mindouli, Niari Basin, Republic of the Congo",
+  "lat": -4.27,
+  "lng": 14.35,
+  "text": "The Niari Basin held West Central Africa's main copper deposits, between the Kingdom of Kongo, the Tio and coastal Loango. From the mid-1400s to mid-1600s, smelters there used ordinary household pots as crucibles, one clay type unique in sub-Saharan Africa. The mines may have been deliberately hidden from the Portuguese, and no European visited them until the late 19th century.",
+  "source": {
+   "name": "Archaeological and Anthropological Sciences (via PMC): Smelting copper in decorated pottery, Niari Basin, Republic of the Congo",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9537208/"
+  }
+ },
+ {
+  "id": "u11-freetown-ship-repair",
+  "era": "industrial",
+  "year": 1831,
+  "dateLabel": "1831",
+  "cat": "journeys",
+  "title": "Freetown Recycles Captured Slave Ships",
+  "place": "Freetown harbour, Western Area, Sierra Leone",
+  "lat": 8.49,
+  "lng": -13.23,
+  "text": "After Britain banned the slave trade, captured slaving ships were brought to Freetown for trial. Freed captives were resettled, and the condemned ships auctioned, sometimes to groups of Sierra Leoneans who pooled money to buy them for coastal trade. West Africa's largest natural harbour grew a repair district, and the 1831 census counted 2,997 newly Liberated Africans among the colony's residents.",
+  "source": {
+   "name": "History of Science (via PMC): Freetown's ship repair cluster in nineteenth-century Sierra Leone",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9975888/"
+  }
+ },
+ {
+  "id": "u11-ife-wheat-cotton",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "Late 1100s to early 1200s CE",
+  "cat": "daily",
+  "title": "Desert Crops in a Forest City",
+  "place": "Ile-Ife, Osun State, Nigeria",
+  "lat": 7.49,
+  "lng": 4.56,
+  "text": "Archaeobotanists sifting soil at medieval Ile-Ife, famous for its sculptures, found cotton seeds from the late 12th and early 13th centuries and 48 grains of wheat, the largest wheat find in sub-Saharan West Africa. Both crops suit Mediterranean climates, and wheat cannot grow locally, so they likely arrived through trans-Saharan trade as prestige foods and fabrics. Cotton may have been woven there.",
+  "source": {
+   "name": "PNAS (via PMC): Early archaeological evidence of wheat and cotton from medieval Ile-Ife, Nigeria",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11406262/"
+  }
+ }
+]

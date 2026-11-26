@@ -1,0 +1,334 @@
+[
+ {
+  "id": "z01-milan-cortina-opening",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "February 6, 2026",
+  "cat": "culture",
+  "title": "One Olympic Opening, Four Stages",
+  "place": "San Siro Stadium, Milan, Italy",
+  "lat": 45.48,
+  "lng": 9.12,
+  "text": "The Milan Cortina Winter Olympics opened on February 6, 2026, with a ceremony split across four places: San Siro stadium in Milan, Cortina d'Ampezzo, Livigno and Predazzo. For the first time there were two cauldrons, both inspired by Leonardo da Vinci's geometric studies, one in Milan and one some 400 kilometers away in Cortina. Mariah Carey sang \"Volare\" and Laura Pausini sang the anthem.",
+  "source": {
+   "name": "PBS NewsHour (AP): Photos: The Milan Cortina Olympics begin with opening ceremony",
+   "url": "https://www.pbs.org/newshour/world/photos-the-milan-cortina-olympics-begin-with-opening-ceremony"
+  }
+ },
+ {
+  "id": "z01-bulgaria-adopts-euro",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "January 1, 2026",
+  "cat": "daily",
+  "title": "Goodbye Lev, Hello Euro",
+  "place": "Sofia, Bulgaria",
+  "lat": 42.7,
+  "lng": 23.32,
+  "text": "On January 1, 2026, Bulgaria became the 21st EU country to use the euro, now shared by over 357 million EU citizens. The rate was fixed for good at 1.95583 lev to one euro. Through January shoppers could still hand over lev, but their change came back only in euros, and shops had to show prices in both currencies until August 2026.",
+  "source": {
+   "name": "European Commission Access2Markets: Bulgaria adopts euro as of 1 January 2026",
+   "url": "https://trade.ec.europa.eu/access-to-markets/en/news/bulgaria-adopts-euro-1-january-2026"
+  }
+ },
+ {
+  "id": "z01-eurovision-vienna-bulgaria",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "May 16, 2026",
+  "cat": "culture",
+  "title": "Bulgaria's Surprise Song Contest Win",
+  "place": "Wiener Stadthalle, Vienna, Austria",
+  "lat": 48.2,
+  "lng": 16.33,
+  "text": "At the 70th Eurovision Song Contest in Vienna's Stadthalle arena, singer Dara won with \"Bangaranga\", giving Bulgaria its first-ever victory. She was not among the favorites; at home she is a mentor on The Voice Bulgaria. Acts from 25 countries performed, while five longtime entrants, including Spain and Ireland, stayed away in protest over Israel's participation. Australia's Delta Goodrem came fourth.",
+  "source": {
+   "name": "PBS NewsHour (AP): Bulgaria wins the 70th Eurovision Song Contest with 'Bangaranga'",
+   "url": "https://www.pbs.org/newshour/arts/bulgaria-wins-the-70th-eurovision-song-contest-with-bangaranga"
+  }
+ },
+ {
+  "id": "z01-hungary-orban-defeated",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "April 12, 2026",
+  "cat": "power",
+  "title": "Hungary Votes Out Orbán",
+  "place": "Budapest, Hungary",
+  "lat": 47.5,
+  "lng": 19.04,
+  "text": "In Hungary's April 12, 2026 election, Péter Magyar's Tisza party took over 53 percent of the counted vote against about 37 percent for Viktor Orbán's Fidesz. Orbán, the EU's longest-serving leader after 16 years in power, conceded, calling the result painful. Magyar, 45, was a former Fidesz insider who broke with the party in 2024 and quickly formed Tisza. Turnout neared 80 percent, a post-Communist record.",
+  "source": {
+   "name": "PBS NewsHour (AP): Hungarian Prime Minister Viktor Orbán ousted",
+   "url": "https://www.pbs.org/newshour/world/hungarian-prime-minister-viktor-orban-ousted"
+  }
+ },
+ {
+  "id": "z01-world-cup-azteca-opener",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "June 11, 2026",
+  "cat": "daily",
+  "title": "The Biggest World Cup Kicks Off",
+  "place": "Estadio Azteca, Mexico City, Mexico",
+  "lat": 19.3,
+  "lng": -99.15,
+  "text": "The 2026 World Cup, co-hosted by Mexico, Canada and the United States and with 48 teams, the most ever, opened at Mexico City's Estadio Azteca before 80,824 fans. Mexico beat South Africa 2-0, with goals from Julián Quiñones and a Raúl Jiménez header. It was a fiery start: referees showed three red cards, two to South Africa and one to Mexico.",
+  "source": {
+   "name": "PBS NewsHour (AP): Mexico hosts South Africa in opening match as World Cup begins",
+   "url": "https://www.pbs.org/newshour/world/mexico-hosts-south-africa-in-opening-match-as-world-cup-begins"
+  }
+ },
+ {
+  "id": "z01-costa-rica-fernandez",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "February 1, 2026",
+  "cat": "power",
+  "title": "Costa Rica Picks a President in One Round",
+  "place": "San José, Costa Rica",
+  "lat": 9.93,
+  "lng": -84.08,
+  "text": "About 3.7 million Costa Ricans could vote on February 1, 2026. Laura Fernández, 39, of the Sovereign People's Party, won nearly 49 percent in early counts, clearing the 40 percent needed to avoid an April runoff. Chosen by outgoing president Rodrigo Chaves as his successor, she campaigned on tougher security policies, including finishing a maximum-security prison. Her main rival conceded.",
+  "source": {
+   "name": "Al Jazeera: Laura Fernandez declares victory in Costa Rica's presidential election",
+   "url": "https://www.aljazeera.com/news/2026/2/2/laura-fernandez-leads-early-results-in-costa-ricas-presidential-election"
+  }
+ },
+ {
+  "id": "z01-venezuela-double-quake",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "June 24, 2026",
+  "cat": "nature",
+  "title": "Two Big Quakes in One Minute",
+  "place": "Caracas, Venezuela",
+  "lat": 10.5,
+  "lng": -66.85,
+  "text": "On the evening of June 24, 2026, a national holiday, a magnitude 7.2 earthquake struck Venezuela, and less than a minute later came a magnitude 7.5. The USGS placed the larger quake near the coast west of Caracas, and the capital suffered worst, with rescuers pulling survivors from the rubble of a 22-storey building in Altamira. The main airport closed. Officials reported at least 235 deaths.",
+  "source": {
+   "name": "Al Jazeera: Venezuela rocked by 7.5, 7.2 earthquakes: What happened and what we know",
+   "url": "https://www.aljazeera.com/news/2026/6/25/venezuela-rocked-by-7-5-7-2-earthquakes-what-happened-and-what-we-know"
+  },
+  "source2": {
+   "name": "USGS: M 7.5 - 20 km W of Catia La Mar, Venezuela",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp"
+  }
+ },
+ {
+  "id": "z01-super-bowl-lx",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "February 8, 2026",
+  "cat": "daily",
+  "title": "Five Kicks Win a Super Bowl",
+  "place": "Levi's Stadium, Santa Clara, California, USA",
+  "lat": 37.4,
+  "lng": -121.97,
+  "text": "Super Bowl LX was played at Levi's Stadium in Santa Clara, California, on February 8, 2026. The Seattle Seahawks beat the New England Patriots 29-13 for the second title in team history, powered by their defense. Seattle kicker Jason Myers made five field goals, the most in any Super Bowl. At halftime Bad Bunny headlined the show, performing in Spanish.",
+  "source": {
+   "name": "ABC7 News: Super Bowl LX live updates",
+   "url": "https://abc7news.com/live-updates/18496605/"
+  }
+ },
+ {
+  "id": "z01-afcon-final-walk-off",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "January 18, 2026",
+  "cat": "daily",
+  "title": "The Final Where a Team Walked Off",
+  "place": "Prince Moulay Abdellah Stadium, Rabat, Morocco",
+  "lat": 33.96,
+  "lng": -6.89,
+  "text": "Before 66,526 fans in Rabat, Senegal beat hosts Morocco 1-0 after extra time to win the Africa Cup of Nations. In stoppage time a penalty was given against Senegal, and their coach ordered the players off the pitch. Sadio Mané talked them back after about 14 minutes. Brahim Díaz's chipped penalty was saved, and Pape Gueye scored the winner.",
+  "source": {
+   "name": "Al Jazeera: Senegal beat hosts Morocco to win AFCON 2025 after farcical walk-off",
+   "url": "https://aljazeera.com/sports/2026/1/18/senegal-beat-hosts-morocco-to-win-afcon-2025-after-farcical-walk-off"
+  }
+ },
+ {
+  "id": "z01-uganda-museveni-seventh-term",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "January 15, 2026",
+  "cat": "power",
+  "title": "Uganda Votes Behind a Blackout",
+  "place": "Kampala, Uganda",
+  "lat": 0.35,
+  "lng": 32.58,
+  "text": "Uganda voted for president on January 15, 2026, during a nationwide internet blackout that observers said disrupted their work. Two days later the Electoral Commission declared Yoweri Museveni, 81 and in power since 1986, the winner of a seventh term with 71.65 percent. Opposition leader Bobi Wine, credited with 24.72 percent, rejected the result, and his party called it a sham.",
+  "source": {
+   "name": "Al Jazeera: Uganda's President Yoweri Museveni wins seventh term: Electoral Commission",
+   "url": "https://www.aljazeera.com/news/2026/1/17/ugandas-president-yoweri-museveni-wins-seventh-term-electoral-commission"
+  }
+ },
+ {
+  "id": "z01-hajj-1447",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "May 2026",
+  "cat": "journeys",
+  "title": "1.7 Million Pilgrims Reach Mecca",
+  "place": "Mecca, Makkah Province, Saudi Arabia",
+  "lat": 21.42,
+  "lng": 39.83,
+  "text": "Saudi Arabia's statistics authority counted 1,707,301 pilgrims at the Hajj of 1447 AH, held in late May 2026, about two percent more than the year before. Of them, 1,546,655 travelled from abroad: nearly 1.49 million by air, about 54,000 overland and just under 6,500 by sea. Another 160,646 were Saudi citizens or residents.",
+  "source": {
+   "name": "Arab News: 1.7m pilgrims performing Hajj this year, 2.04% more than last year",
+   "url": "https://www.arabnews.com/node/2645054/saudi-arabia"
+  }
+ },
+ {
+  "id": "z01-bangladesh-election",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "February 12, 2026",
+  "cat": "power",
+  "title": "Bangladesh Votes After the Uprising",
+  "place": "Dhaka, Bangladesh",
+  "lat": 23.81,
+  "lng": 90.41,
+  "text": "On February 12, 2026, Bangladesh held its first election since the 2024 student-led uprising that ousted Sheikh Hasina. More than 127 million people could vote, and turnout was nearly 60 percent. Unofficial results gave the BNP 209 seats, led by Tarique Rahman, back from 17 years of exile. Voters also answered a referendum on reforms such as prime-ministerial term limits.",
+  "source": {
+   "name": "Al Jazeera: Bangladesh's BNP claims landslide win in first election since 2024 uprising",
+   "url": "https://www.aljazeera.com/news/2026/2/13/bangladeshs-bnp-claims-landslide-win-in-first-election-since-2024-uprising"
+  }
+ },
+ {
+  "id": "z01-nepal-snap-election",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "March 5, 2026",
+  "cat": "power",
+  "title": "Nepal's New Party Sweeps the Vote",
+  "place": "Kathmandu, Nepal",
+  "lat": 27.71,
+  "lng": 85.32,
+  "text": "Nepal held snap elections for all 275 seats of its House of Representatives on March 5, 2026, the first national vote since youth-led protests in September 2025. The Rastriya Swatantra Party, with Balendra Shah as its candidate for prime minister, won a majority of 182 seats. The older Nepali Congress fell from 89 seats to 38. Observers called the vote peaceful and orderly.",
+  "source": {
+   "name": "International IDEA Democracy Tracker: Nepal, March 2026",
+   "url": "https://www.idea.int/democracytracker/report/nepal/march-2026"
+  }
+ },
+ {
+  "id": "z01-thailand-election-referendum",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "February 8, 2026",
+  "cat": "power",
+  "title": "Thailand Votes Twice in One Day",
+  "place": "Bangkok, Thailand",
+  "lat": 13.76,
+  "lng": 100.5,
+  "text": "On February 8, 2026, Thai voters chose a new parliament and also voted on changing the constitution. Prime Minister Anutin Charnvirakul, who had called the vote after fewer than 100 days in office, saw his Bhumjaithai party on track for at least 194 of 500 seats. Nearly two-thirds of voters backed replacing the charter put in place after a 2014 military coup.",
+  "source": {
+   "name": "Al Jazeera: Thailand's Bhumjaithai set for coalition talks after surprise election win",
+   "url": "https://www.aljazeera.com/news/2026/2/9/thailands-bhumjaithai-set-for-coalition-talks-after-surprise-election-win"
+  }
+ },
+ {
+  "id": "z01-mindanao-school-day-quake",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "June 8, 2026",
+  "cat": "nature",
+  "title": "An Earthquake on the First School Day",
+  "place": "Off Maasim, Sarangani, Mindanao, Philippines",
+  "lat": 5.6,
+  "lng": 125.06,
+  "text": "At 7:37 in the morning on June 8, 2026, a magnitude 7.8 earthquake struck about 32 kilometers off Maasim in Sarangani province, Mindanao. It hit just as millions of children were returning to school after the summer break. Classes were suspended at over 6,200 schools for safety checks, tsunami alerts sent coastal residents inland, and the UN reported at least 19 deaths.",
+  "source": {
+   "name": "UN News: Deadly quake strikes Philippines on first day of school year",
+   "url": "https://news.un.org/feed/view/en/story/2026/06/1167672"
+  }
+ },
+ {
+  "id": "z01-japan-snow-election",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "February 8, 2026",
+  "cat": "power",
+  "title": "Japan Votes Through Record Snow",
+  "place": "Tokyo, Japan",
+  "lat": 35.68,
+  "lng": 139.75,
+  "text": "Prime Minister Sanae Takaichi called a snap election about three months after taking office, and on February 8, 2026, her Liberal Democratic Party won 316 of 465 lower house seats, according to NHK. Only 233 were needed for a majority. Record snowfall in parts of Japan snarled traffic and forced some polling stations to close early, yet voters still turned out.",
+  "source": {
+   "name": "Al Jazeera: PM Sanae Takaichi's party wins supermajority in Japan snap elections",
+   "url": "https://aljazeera.com/news/2026/2/8/pm-sanae-takaichis-party-set-for-majority-in-japan-parliamentary-elections"
+  }
+ },
+ {
+  "id": "z01-miyako-quake-tsunami",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "April 20, 2026",
+  "cat": "nature",
+  "title": "A Small Tsunami Off Iwate",
+  "place": "Pacific Ocean off Miyako, Iwate, Japan",
+  "lat": 39.97,
+  "lng": 143.06,
+  "text": "On the afternoon of April 20, 2026, a magnitude 7.4 earthquake struck the seafloor about 100 kilometers east-northeast of Miyako on Japan's Pacific coast, at a depth of around 25 kilometers, according to the USGS. It raised a small local tsunami, with waves of 80 and 40 centimeters recorded. The Associated Press reported at least one injury. Japan sits where four major tectonic plates meet.",
+  "source": {
+   "name": "EarthScope Consortium: M 7.4 Miyako, Japan",
+   "url": "https://www.earthscope.org/geophysical-event/miyako-japan-us6000sri7/"
+  },
+  "source2": {
+   "name": "USGS: M 7.4 - 102 km ENE of Miyako, Japan",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7"
+  }
+ },
+ {
+  "id": "z01-kazakhstan-new-constitution",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "March 15, 2026",
+  "cat": "power",
+  "title": "Kazakhstan Rewrites Its Constitution",
+  "place": "Astana, Kazakhstan",
+  "lat": 51.17,
+  "lng": 71.45,
+  "text": "On March 15, 2026, Kazakhstan voted in a referendum on a new constitution, and preliminary results showed over 87 percent in favor, with turnout above 73 percent. The changes merge the two-chamber parliament into one, restore the post of vice-president, widen the president's appointment powers and create a People's Council. It was President Kassym-Jomart Tokayev's second constitutional change in four years.",
+  "source": {
+   "name": "All India Radio News: Kazakhstan's voters approved referendum on new constitution",
+   "url": "https://www.newsonair.gov.in/kazakhstans-voters-approved-referendum-on-new-constitution"
+  }
+ },
+ {
+  "id": "z01-tonga-deep-quake",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "March 24, 2026",
+  "cat": "nature",
+  "title": "A Deep Quake Under Tonga",
+  "place": "Tonga Trench region, west of Neiafu, Vava'u, Tonga",
+  "lat": -18.54,
+  "lng": -175.48,
+  "text": "On March 24, 2026, a magnitude 7.5 earthquake struck about 158 kilometers west of Neiafu in Tonga's Vava'u islands. The USGS placed its source about 234 kilometers below the surface, so deep that its loss-estimate system gave it a green alert, its lowest level, meaning little damage was expected. The Associated Press first reported it using a preliminary magnitude of 7.6.",
+  "source": {
+   "name": "USGS: M 7.5 - 158 km W of Neiafu, Tonga",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s789"
+  },
+  "source2": {
+   "name": "WTOP (AP): USGS says a preliminary magnitude 7.6 earthquake struck near Tonga",
+   "url": "https://wtop.com/news/2026/03/usgs-says-a-preliminary-magnitude-7-6-earthquake-struck-near-tonga-in-the-south-pacific-ocean/"
+  }
+ },
+ {
+  "id": "z01-vanuatu-espiritu-santo-quake",
+  "era": "modern",
+  "year": 2026,
+  "dateLabel": "March 30, 2026",
+  "cat": "nature",
+  "title": "A Strong Quake Beneath Espiritu Santo",
+  "place": "Near Luganville, Espiritu Santo, Vanuatu",
+  "lat": -15.29,
+  "lng": 167.58,
+  "text": "Six days after Tonga's deep quake, the Pacific shook again. On the evening of March 30, 2026, a magnitude 7.3 earthquake struck about 51 kilometers east-northeast of the town of Luganville on Espiritu Santo, Vanuatu. The USGS located it roughly 120 kilometers underground. Its loss-estimate system issued a green alert, its lowest level, meaning low expected casualties and damage.",
+  "source": {
+   "name": "USGS: M 7.3 - 51 km ENE of Luganville, Vanuatu",
+   "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s8q0"
+  }
+ }
+]

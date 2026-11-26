@@ -1,0 +1,298 @@
+[
+ {
+  "id": "m25-marj-dabiq",
+  "era": "exploration",
+  "year": 1516,
+  "dateLabel": "August 24, 1516",
+  "cat": "power",
+  "title": "Clash on the Plain of Marj Dabiq",
+  "place": "Marj Dabiq, north of Aleppo, Syria",
+  "lat": 36.53,
+  "lng": 37.27,
+  "text": "On August 24, 1516, on the plain of Marj Dabiq north of Aleppo, the Ottoman sultan Selim I defeated the army of the Mamluks. His forces occupied all of Syria that year and Egypt the next. Syria then remained part of the Ottoman Empire for 400 years, with Damascus organizing the great pilgrimage to Mecca every year.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Syria - Ottoman period",
+   "url": "https://www.britannica.com/place/Syria/Ottoman-period"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Battle of Marj Dabiq",
+   "url": "https://www.britannica.com/topic/Battle-of-Marj-Dabiq"
+  }
+ },
+ {
+  "id": "m25-safed-hebrew-press",
+  "era": "exploration",
+  "year": 1577,
+  "dateLabel": "1577",
+  "cat": "culture",
+  "title": "A Printing Press in Safed",
+  "place": "Safed (Tsfat), Galilee, Israel",
+  "lat": 32.96,
+  "lng": 35.5,
+  "text": "In 1577 Eliezer ben Isaac Ashkenazi, a printer who moved from city to city, set up a Hebrew press in Safed, then a great centre of Jewish mysticism and learning. It printed six books, all by Safed authors. The first, a commentary on the Book of Esther by Yom Tov Zahalon, is considered the first book printed in the Land of Israel.",
+  "source": {
+   "name": "Jewish Virtual Library (from Judaic Treasures of the Library of Congress): First Book in the Holy Land",
+   "url": "https://www.jewishvirtuallibrary.org/first-book-in-the-holy-land-judaic-treasures"
+  }
+ },
+ {
+  "id": "m25-julfa-deportation",
+  "era": "exploration",
+  "year": 1604,
+  "dateLabel": "October to November 1604",
+  "cat": "journeys",
+  "title": "Julfa Forced Across the River",
+  "place": "Old Julfa, Nakhchivan, Azerbaijan",
+  "lat": 38.96,
+  "lng": 45.63,
+  "text": "Old Julfa, an Armenian town on the Aras River, grew rich in the 1500s carrying raw silk to the markets of Aleppo and Bursa; an English preacher passing through in 1600 counted about 2,000 houses. In late 1604, retreating from the Ottomans, Shah Abbas I of Iran had Julfa demolished and its entire population driven across the river into Iran.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Julfa i. Safavid Period (Vazken S. Ghougassian)",
+   "url": "https://www.iranicaonline.org/articles/julfa-i-safavid-period/"
+  }
+ },
+ {
+  "id": "m25-shabbetai-tzevi-edirne",
+  "era": "exploration",
+  "year": 1666,
+  "dateLabel": "September 1666",
+  "cat": "culture",
+  "title": "The Messiah Who Became Mehmed Efendi",
+  "place": "Edirne (Adrianople), Turkey",
+  "lat": 41.68,
+  "lng": 26.56,
+  "text": "In 1665 crowds in Smyrna hailed Shabbetai Tzevi as the Jewish messiah, and his movement spread to Venice, Amsterdam and London. Early in 1666 he was jailed on reaching Constantinople. That September he was brought before the sultan in Adrianople and, after threats of torture, converted to Islam. The sultan renamed him Mehmed Efendi and made him his personal doorkeeper.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Shabbetai Tzevi",
+   "url": "https://www.britannica.com/biography/Shabbetai-Tzevi"
+  }
+ },
+ {
+  "id": "m25-sheki-mudflow-silk",
+  "era": "exploration",
+  "year": 1772,
+  "dateLabel": "1772",
+  "cat": "nature",
+  "title": "Sheki Rebuilt After the Mud Flood",
+  "place": "Sheki, Azerbaijan",
+  "lat": 41.2,
+  "lng": 47.17,
+  "text": "In 1772 a mud flood wrecked the old town of Sheki, at the foot of the Greater Caucasus, and it was rebuilt on higher ground in a valley to the east. Houses got tall, steep roofs so silkworms could be raised in their airy attics, and new caravanserais, shops, baths and fountains soon sprang up to serve the trade in silk cocoons.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Historic Centre of Sheki with the Khan's Palace",
+   "url": "https://whc.unesco.org/en/list/1549"
+  }
+ },
+ {
+  "id": "m25-tbilisi-sacked-1795",
+  "era": "exploration",
+  "year": 1795,
+  "dateLabel": "1795",
+  "cat": "power",
+  "title": "Tbilisi Burns, Georgia Stands Alone",
+  "place": "Tbilisi, Georgia",
+  "lat": 41.69,
+  "lng": 44.8,
+  "text": "In 1783 King Erekle II of Georgia signed the Treaty of Georgievsk with Catherine the Great, accepting Russian overlordship in return for protection. Yet when Agha Mohammad Khan, first ruler of Iran's Qajar dynasty, attacked, Georgia faced him alone. In 1795 Tbilisi was sacked and burned to the ground. In 1801 Russia's Alexander I confirmed that eastern Georgia would be absorbed into his empire.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Georgia - Turkish and Persian domination",
+   "url": "https://www.britannica.com/place/Georgia/Turkish-and-Persian-domination"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Tbilisi",
+   "url": "https://www.britannica.com/place/Tbilisi"
+  }
+ },
+ {
+  "id": "m25-acre-napoleon",
+  "era": "exploration",
+  "year": 1799,
+  "dateLabel": "1799",
+  "cat": "culture",
+  "title": "The Walls That Stopped Napoleon",
+  "place": "Acre (Akko), Israel",
+  "lat": 32.92,
+  "lng": 35.07,
+  "text": "Acre's natural harbour made it a frequent target for invaders. In the late 1700s its Ottoman governor, Ahmad Pasha al-Jazzar, strengthened the old walls and citadel, and in 1799 they withstood a siege by Napoleon. Al-Jazzar also built the city's Great Mosque in 1781, and Acre's Ottoman streets still sit on top of an almost intact Crusader town.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Acre",
+   "url": "https://www.britannica.com/place/Acre-Israel"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Old City of Acre",
+   "url": "https://whc.unesco.org/en/list/1042"
+  }
+ },
+ {
+  "id": "m25-bibiheybat-oil-well",
+  "era": "industrial",
+  "year": 1846,
+  "dateLabel": "January 1846",
+  "cat": "discovery",
+  "title": "Oil Wells at Bibiheybat",
+  "place": "Bibiheybat, Baku, Azerbaijan",
+  "lat": 40.3,
+  "lng": 49.82,
+  "text": "In January 1846 engineer Nikolay Voskoboynikov, director of the Baku Oil and Salt Mines, had two wells drilled at Bibiheybat. One blew out, and industrial oil production began. Azerbaijan's Ministry of Energy calls the 21-metre well the world's first drilled oil well. The same bay had already seen offshore wells, dug in 1803 and wrecked by a Caspian storm in 1825.",
+  "source": {
+   "name": "Ministry of Energy of Azerbaijan: It is important to know!",
+   "url": "https://minenergy.gov.az/en/maariflendirici-melumat/bunu-bilmek-vacibdir"
+  },
+  "source2": {
+   "name": "Ministry of Energy of Azerbaijan: Offshore oil production for the first time in the world",
+   "url": "https://minenergy.gov.az/en/maariflendirici-melumat/dunyada-ilk-defe-denizde-neft-hasilati"
+  }
+ },
+ {
+  "id": "m25-mount-lebanon-autonomy",
+  "era": "industrial",
+  "year": 1861,
+  "dateLabel": "1861",
+  "cat": "power",
+  "title": "Self-Rule for Mount Lebanon",
+  "place": "Mount Lebanon, Lebanon",
+  "lat": 33.83,
+  "lng": 35.65,
+  "text": "In the 1800s Mount Lebanon's growing Christian population spread south and into towns, and relations between Maronites and Druze worsened. The conflict ended in massacres in 1860, and France sent troops. In 1861 the European powers imposed the Organic Regulation, giving the mountain self-rule under a Christian governor named by the Ottoman sultan, with a council representing its communities. It prospered until World War I.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Lebanon - Lebanon in the Middle Ages (to 1914)",
+   "url": "https://www.britannica.com/place/Lebanon/Lebanon-in-the-Middle-Ages"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Syria - Ottoman period",
+   "url": "https://www.britannica.com/place/Syria/Ottoman-period"
+  }
+ },
+ {
+  "id": "m25-schliemann-troy",
+  "era": "industrial",
+  "year": 1870,
+  "dateLabel": "1870",
+  "cat": "discovery",
+  "title": "Digging Into Homer's Troy",
+  "place": "Hisarlık, Çanakkale, Turkey",
+  "lat": 39.96,
+  "lng": 26.24,
+  "text": "In 1870 Heinrich Schliemann began the first excavations at the mound of Hisarlık, near the southern entrance to the Dardanelles, the site of the Troy made famous by Homer's Iliad. UNESCO calls his digs a starting point of modern archaeology. Later work uncovered walls, eleven gates and a paved stone ramp, and showed the region has been inhabited for 8,000 years.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Archaeological Site of Troy",
+   "url": "https://whc.unesco.org/en/list/849"
+  }
+ },
+ {
+  "id": "m25-tel-aviv-founded",
+  "era": "industrial",
+  "year": 1909,
+  "dateLabel": "1909",
+  "cat": "daily",
+  "title": "A New Town Beside Jaffa",
+  "place": "Tel Aviv, Israel",
+  "lat": 32.07,
+  "lng": 34.78,
+  "text": "In 1909 a new town, Tel Aviv, was founded just north of the old walled port of Jaffa. It grew fast under British rule into a busy city. From the early 1930s, architects trained in Europe filled its centre with white Modern Movement buildings, following a plan by Sir Patrick Geddes and adapting their designs to the local climate.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: White City of Tel-Aviv - the Modern Movement",
+   "url": "https://whc.unesco.org/en/list/1096"
+  }
+ },
+ {
+  "id": "m25-hussein-arab-revolt",
+  "era": "modern",
+  "year": 1916,
+  "dateLabel": "October 1916",
+  "cat": "power",
+  "title": "The Sharif of Mecca Crowns Himself",
+  "place": "Mecca, Hejaz, Saudi Arabia",
+  "lat": 21.42,
+  "lng": 39.83,
+  "text": "Hussein ibn Ali, emir of Mecca since 1908, won British backing in a series of letters known as the Hussein-McMahon correspondence and led the Arab Revolt against Ottoman rule during World War I. In October 1916 he proclaimed himself king of the Arab countries, though the Allies recognized him only as king of the Hejaz. His sons later became kings of Transjordan and Iraq.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Hussein ibn Ali",
+   "url": "https://www.britannica.com/biography/Hussein-ibn-Ali"
+  }
+ },
+ {
+  "id": "m25-armenia-first-republic",
+  "era": "modern",
+  "year": 1918,
+  "dateLabel": "May 28, 1918",
+  "cat": "power",
+  "title": "Armenia's First Republic",
+  "place": "Yerevan, Armenia",
+  "lat": 40.18,
+  "lng": 44.51,
+  "text": "On May 28, 1918, after a brief union with Georgia and Azerbaijan fell apart, Armenia declared independence. It was the first independent Armenian state since the Middle Ages, born in the shadow of the 1915 deportations and massacres of Ottoman Armenians. Squeezed by war on several sides, the young republic was proclaimed a Soviet republic in December 1920.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Armenia - Modern Armenia",
+   "url": "https://www.britannica.com/place/Armenia/Modern-Armenia"
+  }
+ },
+ {
+  "id": "m25-turkish-women-vote",
+  "era": "modern",
+  "year": 1934,
+  "dateLabel": "December 5, 1934",
+  "cat": "power",
+  "title": "Turkish Women Win the Vote",
+  "place": "Grand National Assembly, Ankara, Turkey",
+  "lat": 39.91,
+  "lng": 32.85,
+  "text": "On December 5, 1934, women in Turkey gained the right to vote and run in national elections, after winning local voting rights in 1930. In February 1935 they voted nationally for the first time, and 18 women entered parliament, though the single ruling party chose every candidate. Turkish women won the vote a decade or more before women in France, Italy and Belgium.",
+  "source": {
+   "name": "UN Women Europe and Central Asia: Turkey's Parliament celebrates women's rights to vote and run for office",
+   "url": "https://eca.unwomen.org/en/news/stories/2016/12/turkeys-parliament-celebrates-womens-rights-to-vote-and-run-for-office"
+  },
+  "source2": {
+   "name": "OUPblog (Oxford University Press): Turkish women vote",
+   "url": "https://blog.oup.com/2012/02/turkey-women-vote/"
+  }
+ },
+ {
+  "id": "m25-spitak-earthquake",
+  "era": "modern",
+  "year": 1988,
+  "dateLabel": "December 7, 1988",
+  "cat": "nature",
+  "title": "The Spitak Earthquake",
+  "place": "Spitak, Lori, Armenia",
+  "lat": 40.83,
+  "lng": 44.27,
+  "text": "At 11:41 a.m. on December 7, 1988, a magnitude-6.8 earthquake shook northern Armenia, then part of the Soviet Union, and destroyed the town of Spitak. Between 25,000 and 60,000 people died, two-thirds of them under 18. Soviet leader Mikhail Gorbachev asked the United States for aid, and rescue teams flew in with dogs trained to sniff out survivors.",
+  "source": {
+   "name": "EARTH Magazine (American Geosciences Institute): December 7, 1988: A Massive Earthquake Devastates Armenia",
+   "url": "https://www.earthmagazine.org/article/benchmarks-december-7-1988-massive-earthquake-devastates-armenia/"
+  }
+ },
+ {
+  "id": "m25-dmanisi-jaw",
+  "era": "modern",
+  "year": 1991,
+  "dateLabel": "1991",
+  "cat": "discovery",
+  "title": "A Jaw Under a Saber-Tooth Cat",
+  "place": "Dmanisi, Kvemo Kartli, Georgia",
+  "lat": 41.34,
+  "lng": 44.34,
+  "text": "Archaeologists had been digging the crumbling ruins of a medieval citadel at Dmanisi since the 1930s. In 1991, on the last day of the field season, the crew found a fossil jaw of an early human relative beneath the skeleton of a saber-toothed cat. David Lordkipanidze and Leo Gabunia dated it to around 1.6 million years, which would make it the oldest known hominid outside Africa.",
+  "source": {
+   "name": "Scientific American: Stranger in a New Land (Kate Wong)",
+   "url": "https://www.scientificamerican.com/article/stranger-in-a-new-land-2006-06/"
+  }
+ },
+ {
+  "id": "m25-beirut-port-explosion",
+  "era": "modern",
+  "year": 2020,
+  "dateLabel": "August 4, 2020",
+  "cat": "daily",
+  "title": "The Beirut Port Explosion",
+  "place": "Port of Beirut, Beirut, Lebanon",
+  "lat": 33.9,
+  "lng": 35.52,
+  "text": "Shortly after 6 p.m. on August 4, 2020, a fire at Warehouse 12 in the Port of Beirut set off a colossal explosion. The prime minister blamed 2,750 tonnes of ammonium nitrate stored unsafely there. The blast left a crater about 140 metres wide, killed more than 200 people, injured around 5,000 and was heard in Cyprus. Lebanon's government resigned amid public anger.",
+  "source": {
+   "name": "BBC News: Beirut explosion: What we know so far",
+   "url": "https://www.bbc.com/news/world-middle-east-53668493"
+  }
+ }
+]

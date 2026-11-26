@@ -1,0 +1,1440 @@
+[
+ {
+  "id": "cl2-monte-alban",
+  "era": "classical",
+  "year": -500,
+  "dateLabel": "About 500 BCE",
+  "emoji": "⛰️",
+  "cat": "culture",
+  "title": "A City on a Flattened Mountain",
+  "place": "Monte Albán, Mexico",
+  "lat": 17.04,
+  "lng": -96.77,
+  "text": "The Zapotec people levelled the top of a mountain ridge in Oaxaca to build Monte Albán, their leading city for about a thousand years. Its plaza is lined with temples and a ball court. Hundreds of carved stones, nicknamed the Danzantes or 'dancers', show twisted human figures, probably defeated enemies rather than party guests.",
+  "source": {
+   "name": "INAH (Instituto Nacional de Antropología e Historia, Mexico)",
+   "url": "https://lugares.inah.gob.mx/en/node/4351"
+  },
+  "source2": {
+   "name": "FAMSI research report (Heather S. Orr, Danzantes of Building L)",
+   "url": "https://www.famsi.org/reports/93003/index.html"
+  }
+ },
+ {
+  "id": "cl2-han-gou-canal",
+  "era": "classical",
+  "year": -486,
+  "dateLabel": "486 BCE",
+  "emoji": "🚣",
+  "cat": "journeys",
+  "title": "The First Stretch of the Grand Canal",
+  "place": "Yangzhou, China",
+  "lat": 32.39,
+  "lng": 119.41,
+  "text": "King Fuchai of Wu ordered a canal dug to link the Yangtze and Huai rivers so his army could sail north to fight. This Han Gou canal was later absorbed into the Grand Canal, which grew to about 1,800 kilometers. Barges still use parts of it, making it the longest artificial river on Earth.",
+  "source": {
+   "name": "Hangzhou Municipal Government (Culture, Radio, TV and Tourism Bureau)",
+   "url": "https://wgly.hangzhou.gov.cn/art/2021/2/4/art_1229488191_58925360.html"
+  },
+  "source2": {
+   "name": "University of Massachusetts Boston, Building the World",
+   "url": "https://blogs.umb.edu/buildingtheworld/waterworks/the-grand-canal-china/"
+  }
+ },
+ {
+  "id": "cl2-hanno",
+  "era": "classical",
+  "year": -470,
+  "dateLabel": "Sometime in the 400s BCE",
+  "emoji": "⛵",
+  "cat": "journeys",
+  "title": "Hanno Sails Down Africa",
+  "place": "Carthage, Tunisia",
+  "lat": 36.85,
+  "lng": 10.32,
+  "text": "The Carthaginian navigator Hanno is said to have led a large fleet down Africa's west coast in the 400s BCE, founding towns and a trading post. His report, said to have been set up in a temple in Carthage, survives only in a Greek version that scholars doubt. It describes a tribe of hairy women called 'Gorillai', and in 1847 Thomas Savage borrowed the word for a great ape: gorilla.",
+  "source": {
+   "name": "American Heritage Dictionary of the English Language (word history of 'gorilla')",
+   "url": "https://ahdictionary.com/word/search.html?q=gorilla"
+  },
+  "source2": {
+   "name": "History in Africa (Cambridge University Press), 'The Periplus of Hanno in the History and Historiography of Black Africa'",
+   "url": "https://www.cambridge.org/core/journals/history-in-africa/article/abs/periplus-of-hanno-in-the-history-and-historiography-of-black-africa/73D2406CDF4F7F9FB8D9060A3DE0C913"
+  }
+ },
+ {
+  "id": "cl2-la-tene",
+  "era": "classical",
+  "year": -450,
+  "dateLabel": "About 450 BCE",
+  "emoji": "🌀",
+  "cat": "culture",
+  "title": "The Swirly Art of the Celts",
+  "place": "La Tène, Switzerland",
+  "lat": 47.0,
+  "lng": 7.02,
+  "text": "Across much of Europe, Celtic metalworkers began decorating swords, neck rings and shields with flowing spirals and curling plant shapes. The style is named after La Tène, a spot on Lake Neuchâtel where thousands of objects were pulled from the water in the 1850s. Many seem to have been thrown in on purpose as offerings.",
+  "source": {
+   "name": "Stanford University Archaeolog (Patrick Hunt)",
+   "url": "https://archaeolog.stanford.edu/2008/02/26/celtic-iron-age-sword-deposits-and-arthurs-lady-of-the-lake/"
+  }
+ },
+ {
+  "id": "cl2-parthenon",
+  "era": "classical",
+  "year": -447,
+  "dateLabel": "447 BCE",
+  "emoji": "🏛️",
+  "cat": "culture",
+  "title": "Building the Parthenon",
+  "place": "Athens, Greece",
+  "lat": 37.97,
+  "lng": 23.73,
+  "text": "Work began on a marble temple for Athena on the Acropolis, paid for partly with tribute money from Athens' allies. The builders added subtle refinements: the steps curve upward slightly and the columns bulge a little in the middle. Scholars debate whether this was to correct optical illusions or to make the building seem alive. It held a huge gold-and-ivory statue of the goddess.",
+  "source": {
+   "name": "Reed College, 'Reading Greek Temples: The Parthenon'",
+   "url": "https://www.reed.edu/glam/studyguides/temples/parthenon-intro.html"
+  },
+  "source2": {
+   "name": "PBS NOVA, interview with Jeffrey Hurwit (University of Oregon)",
+   "url": "https://www.pbs.org/wgbh/nova/parthenon/hurwit.html"
+  }
+ },
+ {
+  "id": "cl2-anuradhapura",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "About 300 BCE (by tradition)",
+  "emoji": "💧",
+  "cat": "daily",
+  "title": "Anuradhapura, City of Giant Tanks",
+  "place": "Anuradhapura, Sri Lanka",
+  "lat": 8.31,
+  "lng": 80.41,
+  "text": "Sri Lanka's chronicles say King Pandukabhaya made Anuradhapura his capital, and it flourished as the island's political and religious capital for 1,300 years. He is credited with building one of its first reservoirs, called tanks, to store water for farming. Many of these ancient artificial lakes were later restored and are still in use today, more than two thousand years on.",
+  "source": {
+   "name": "Food and Agriculture Organization of the United Nations, 'Reservoirs of Sri Lanka and their fisheries'",
+   "url": "https://www.fao.org/4/t0028e/t0028e03.htm"
+  },
+  "source2": {
+   "name": "University of Peradeniya research repository",
+   "url": "https://ir.lib.pdn.ac.lk/items/b55ab492-f325-404f-8423-5343f843b015"
+  }
+ },
+ {
+  "id": "cl2-marquis-yi-bells",
+  "era": "classical",
+  "year": -433,
+  "dateLabel": "About 433 BCE",
+  "emoji": "🔔",
+  "cat": "culture",
+  "title": "The Marquis and His 65 Bells",
+  "place": "Suizhou, China",
+  "lat": 31.69,
+  "lng": 113.38,
+  "text": "A small-state ruler, Marquis Yi of Zeng, was buried about 2,400 years ago with a whole orchestra, including a set of 65 bronze bells, one a gift from the king of Chu. Soldiers came across the tomb in 1977, and each bell sounds two notes, one when struck at the centre and another at the side. It is the largest and best-preserved set of bronze bells in the world.",
+  "source": {
+   "name": "UNESCO Memory of the World Register",
+   "url": "https://www.unesco.org/en/memory-world/suizhou-bianzhong-marquis-yi-zeng"
+  },
+  "source2": {
+   "name": "UNESCO Memory of the World nomination form (Hubei Provincial Museum), hosted by National Archives Administration of China",
+   "url": "https://www.saac.gov.cn/mowcn/cn/c100512/202506/382e5c53ec654d16aeb7eedeaaf7389f/files/7c1d5b69c72c43c58f05a116a2f2d72d.pdf"
+  }
+ },
+ {
+  "id": "cl2-mozi",
+  "era": "classical",
+  "year": -420,
+  "dateLabel": "About 420 BCE",
+  "emoji": "🛡️",
+  "cat": "culture",
+  "title": "Mozi, the Anti-War Engineer",
+  "place": "Tengzhou, China",
+  "lat": 35.08,
+  "lng": 117.15,
+  "text": "The thinker Mozi taught 'impartial care': be as concerned for strangers as for your own family. He condemned wars of conquest, and some of his followers became experts at defending cities under attack. Later members of his school studied geometry, mechanics and optics, and their writings already discuss the images light makes when it passes through a tiny hole.",
+  "source": {
+   "name": "Stanford Encyclopedia of Philosophy, 'Mohism'",
+   "url": "https://plato.stanford.edu/entries/mohism/"
+  },
+  "source2": {
+   "name": "Fundamental Research (2025) review via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12327861/"
+  }
+ },
+ {
+  "id": "cl2-urewe-iron",
+  "era": "classical",
+  "year": -400,
+  "dateLabel": "Around 400 BCE",
+  "emoji": "🔥",
+  "cat": "discovery",
+  "title": "Iron Furnaces by Lake Victoria",
+  "place": "Katuruka, Tanzania",
+  "lat": -1.33,
+  "lng": 31.75,
+  "text": "In the Great Lakes region of East Africa, farmers of the Urewe culture were smelting iron in brick-built furnaces, making this one of the oldest well-dated ironworking centres in Africa. They also made pottery with a dimple in the base that archaeologists use to trace them. These communities are linked to the spread of Bantu-speaking peoples, whose languages now have over 300 million speakers.",
+  "source": {
+   "name": "African Studies Centre Leiden, AfricaBib (abstract of Clist 1987, Muntu 6: 35-62)",
+   "url": "https://www.africabib.org/rec.php?RID=119528940"
+  },
+  "source2": {
+   "name": "PLOS ONE",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0215573"
+  }
+ },
+ {
+  "id": "cl2-panini",
+  "era": "classical",
+  "year": -370,
+  "dateLabel": "About 5th–4th century BCE (dates debated)",
+  "emoji": "🔤",
+  "cat": "culture",
+  "title": "Pāṇini's Grammar Machine",
+  "place": "Gandhara, Pakistan",
+  "lat": 34.0,
+  "lng": 72.4,
+  "text": "The scholar Pāṇini described the whole Sanskrit language in about 4,000 short rules, packed so tightly they work almost like computer code. His grammar, the Ashtadhyayi, is still studied in India. Modern linguists and even computer scientists admire how he built complex words step by step from tiny pieces.",
+  "source": {
+   "name": "University of Cambridge",
+   "url": "https://www.cam.ac.uk/stories/solving-grammars-greatest-puzzle"
+  }
+ },
+ {
+  "id": "cl2-shang-yang",
+  "era": "classical",
+  "year": -356,
+  "dateLabel": "356 BCE",
+  "emoji": "📏",
+  "cat": "power",
+  "title": "Shang Yang Remakes Qin",
+  "place": "Xianyang, China",
+  "lat": 34.33,
+  "lng": 108.71,
+  "text": "Minister Shang Yang began harsh reforms in the state of Qin: rank was earned mainly by fighting or producing extra grain, and neighbours and relatives had to report each other's crimes. He also set standard measures, and a bronze measuring vessel made under his direction survives in the Shanghai Museum. His system turned Qin into a formidable military power that later conquered all its rivals.",
+  "source": {
+   "name": "Stanford Encyclopedia of Philosophy, 'Legalism in Chinese Philosophy'",
+   "url": "https://plato.stanford.edu/entries/chinese-legalism/"
+  },
+  "source2": {
+   "name": "China Daily (quoting Shanghai Museum deputy director Li Zhongmou)",
+   "url": "http://europe.chinadaily.com.cn/a/201802/10/WS5a7e1a59a3106e7dcc13be7c.html"
+  }
+ },
+ {
+  "id": "cl2-mausoleum",
+  "era": "classical",
+  "year": -350,
+  "dateLabel": "About 350 BCE",
+  "emoji": "⚱️",
+  "cat": "culture",
+  "title": "The Tomb That Named All Mausoleums",
+  "place": "Bodrum, Turkey",
+  "lat": 37.04,
+  "lng": 27.42,
+  "text": "Mausolus, ruler of Caria, began a gigantic tomb for himself, and after he died in 353 BCE his sister and queen Artemisia II carried on the work with top Greek sculptors. Topped by a stepped pyramid and a chariot statue, it became one of the Seven Wonders of the Ancient World. Medieval earthquakes damaged it and its stones were reused in Bodrum's castle, but its name lives on in every 'mausoleum' today.",
+  "source": {
+   "name": "National Geographic History",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/mausoleum-halicarnassus-tomb-wonder-ancient-world"
+  }
+ },
+ {
+  "id": "cl2-chandragupta",
+  "era": "classical",
+  "year": -321,
+  "dateLabel": "About 321 BCE",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "Chandragupta Founds the Maurya Empire",
+  "place": "Patna, India",
+  "lat": 25.61,
+  "lng": 85.14,
+  "text": "With his clever adviser Chanakya, the young Chandragupta overthrew the Nanda kings and made Pataliputra the capital of a new empire that spread across much of South Asia. A Greek ambassador, Megasthenes, lived there and described the city, ringed by a wooden wall with holes for shooting arrows. Jain tradition says Chandragupta later gave up his throne to live as a monk.",
+  "source": {
+   "name": "INFLIBNET e-PG Pathshala (University Grants Commission, India), 'The Mauryan Empire'",
+   "url": "https://ebooks.inflibnet.ac.in/icp01/chapter/the-mauryan-empire/"
+  },
+  "source2": {
+   "name": "Strabo, Geography 15.1.36 (Loeb translation, LacusCurtius, University of Chicago)",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/15A2*.html"
+  }
+ },
+ {
+  "id": "cl2-yayoi",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "About 300 BCE",
+  "emoji": "🌾",
+  "cat": "daily",
+  "title": "Rice Paddies Reach Japan",
+  "place": "Fukuoka, Japan",
+  "lat": 33.57,
+  "lng": 130.45,
+  "text": "Wet-rice farming, brought by migrants from the Korean Peninsula, had spread across western Japan by this time, along with bronze and iron. This is the Yayoi period, named after the Tokyo neighborhood where its pottery was first found in 1884. Newer dating suggests the first paddies in Kyushu go back to about 900 BCE. Moated settlements appeared, and fighting between groups went on for centuries.",
+  "source": {
+   "name": "Evolutionary Human Sciences via PubMed Central (Hudson/Barnes, 'Japan considered from the hypothesis of farmer/language spread')",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10427481/"
+  },
+  "source2": {
+   "name": "Yoshinogari Historical Park (official site), 'History of Yoshinogari'",
+   "url": "https://www.yoshinogari.jp/en/introduction/history/"
+  }
+ },
+ {
+  "id": "cl2-paracas",
+  "era": "classical",
+  "year": -290,
+  "dateLabel": "About 300–200 BCE",
+  "emoji": "🧶",
+  "cat": "culture",
+  "title": "The Embroidered Mummies of Paracas",
+  "place": "Paracas, Peru",
+  "lat": -13.83,
+  "lng": -76.25,
+  "text": "On Peru's desert south coast, the Paracas people wrapped their honored dead in layers of stunning woven and embroidered cloth, making 'mummy bundles'; 429 were found in one cemetery. One mantle shows 32 different figures of animals, people, plants and tools. The Paracas also carried out the earliest known skull surgery in Peru, cutting large openings, and about 40 percent of patients survived.",
+  "source": {
+   "name": "Bard Graduate Center",
+   "url": "https://www.bgc.bard.edu/research/articles/358/paracas-mummy-bundles"
+  },
+  "source2": {
+   "name": "National Geographic (interview with John Verano, Tulane University)",
+   "url": "https://www.nationalgeographic.com/history/article/what-is-trepanation-skull-surgery-peru-inca-archaeology-science"
+  }
+ },
+ {
+  "id": "cl2-dujiangyan",
+  "era": "classical",
+  "year": -256,
+  "dateLabel": "About 256 BCE",
+  "emoji": "🌊",
+  "cat": "discovery",
+  "title": "Dujiangyan Tames a River",
+  "place": "Dujiangyan, China",
+  "lat": 31.0,
+  "lng": 103.62,
+  "text": "The Qin governor Li Bing split the flood-prone Min River with an island shaped like a fish's mouth, sending water into irrigation channels without building a dam. Workers cut through a mountain by heating rock and then cooling it with water. The system still waters the Chengdu Plain today, over 2,200 years later.",
+  "source": {
+   "name": "China Daily (feature on the UNESCO site Mount Qingcheng and the Dujiangyan Irrigation System)",
+   "url": "https://www.chinadaily.com.cn/a/201812/17/WS5c174d0ba3107d4c3a0013f5.html"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1001/"
+  }
+ },
+ {
+  "id": "cl2-parthia",
+  "era": "classical",
+  "year": -247,
+  "dateLabel": "About 247 BCE",
+  "emoji": "🏹",
+  "cat": "power",
+  "title": "The Parthians Ride In",
+  "place": "Nisa, Turkmenistan",
+  "lat": 37.95,
+  "lng": 58.21,
+  "text": "Arsaces, leader of a nomadic tribe, took over the Persian region of Parthia and founded an empire that lasted almost 500 years. Parthian horsemen were famous for turning in the saddle to shoot arrows while retreating. That trick may be the origin of the English phrase 'a parting shot'.",
+  "source": {
+   "name": "Encyclopaedia Iranica, 'ARSACIDS ii. The Arsacid dynasty'",
+   "url": "https://www.iranicaonline.org/articles/arsacids-ii/"
+  },
+  "source2": {
+   "name": "Merriam-Webster, 'Parthian' (Did you know? note on 'Parthian shot' / 'parting shot')",
+   "url": "https://www.merriam-webster.com/dictionary/Parthian"
+  }
+ },
+ {
+  "id": "cl2-lingqu",
+  "era": "classical",
+  "year": -214,
+  "dateLabel": "214 BCE",
+  "emoji": "🛶",
+  "cat": "discovery",
+  "title": "A Canal Over the Watershed",
+  "place": "Xing'an, China",
+  "lat": 25.61,
+  "lng": 110.67,
+  "text": "After unifying China, the First Emperor of Qin ordered Shi Lu to dig the Lingqu canal to carry grain, finished in 214 BCE, helping Qin conquer the far south. Linking the Xiang and Li rivers, it joined the Yangtze and Pearl River basins. For over 2,000 years it was the main water route between central China and the south, and it still serves irrigation and flood control.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Tentative List: Lingqu Canal (Ref. 5814)",
+   "url": "https://whc.unesco.org/en/tentativelists/5814/"
+  }
+ },
+ {
+  "id": "cl2-rosetta",
+  "era": "classical",
+  "year": -196,
+  "dateLabel": "196 BCE",
+  "emoji": "🪨",
+  "cat": "discovery",
+  "title": "A Decree in Three Scripts",
+  "place": "Rashid, Egypt",
+  "lat": 31.4,
+  "lng": 30.42,
+  "text": "Egyptian priests issued a decree praising the boy king Ptolemy V and had it carved in hieroglyphs, everyday Demotic script and Greek. One broken copy was dug up in 1799 by French soldiers building fortifications at Rosetta. Because scholars could read the Greek, the Rosetta Stone became the key that let Champollion publish his decipherment of hieroglyphs in 1821-22.",
+  "source": {
+   "name": "American Research Center in Egypt (ARCE)",
+   "url": "https://arce.org/resource/rosetta-stone-unlocking-ancient-egyptian-language/"
+  },
+  "source2": {
+   "name": "British Museum blog, 'Everything you ever wanted to know about the Rosetta Stone'",
+   "url": "https://www.britishmuseum.org/blog/everything-you-ever-wanted-know-about-rosetta-stone"
+  }
+ },
+ {
+  "id": "cl2-hipparchus",
+  "era": "classical",
+  "year": -130,
+  "dateLabel": "About 130 BCE",
+  "emoji": "✨",
+  "cat": "discovery",
+  "title": "Hipparchus Notices the Sky Drifting",
+  "place": "Rhodes, Greece",
+  "lat": 36.43,
+  "lng": 28.22,
+  "text": "Using his own careful observations and older records, including Babylonian data, the astronomer Hipparchus worked out that the equinoxes slowly drift against the background of stars. He had discovered the 'precession of the equinoxes', caused by a slow change in the direction of Earth's axis. He also invented a scale of star brightness that astronomers still use today, in updated form.",
+  "source": {
+   "name": "MacTutor History of Mathematics, University of St Andrews",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hipparchus/"
+  },
+  "source2": {
+   "name": "Biographical Encyclopedia of Astronomers (Springer), entry 'Hipparchus of Nicaea', hosted by St Andrews",
+   "url": "https://mathshistory.st-andrews.ac.uk/BEA/hipparchus_bea.pdf"
+  }
+ },
+ {
+  "id": "cl2-heavenly-horses",
+  "era": "classical",
+  "year": -102,
+  "dateLabel": "104–101 BCE",
+  "emoji": "🐎",
+  "cat": "journeys",
+  "title": "War for the Heavenly Horses",
+  "place": "Ferghana Valley, Uzbekistan",
+  "lat": 40.5,
+  "lng": 71.5,
+  "text": "Emperor Wu wanted the powerful horses of Dayuan in Central Asia, said to sweat blood. When Dayuan refused to hand them over, he sent armies to a land Sima Qian placed about 10,000 li west of China. The first attempt failed, but the second besieged the capital for more than forty days and came home with a few dozen prized horses and about 3,000 ordinary ones.",
+  "source": {
+   "name": "Silk Road Seattle, University of Washington: Selections from the Han Narrative Histories (Shiji ch. 123)",
+   "url": "https://depts.washington.edu/silkroad/texts/hantxt1.html"
+  },
+  "source2": {
+   "name": "Silk Road Seattle, University of Washington: Shiji ch. 123 (Hirth translation)",
+   "url": "https://depts.washington.edu/silkroad/texts/hantxt1.html"
+  }
+ },
+ {
+  "id": "cl2-shiji",
+  "era": "classical",
+  "year": -91,
+  "dateLabel": "About 91 BCE",
+  "emoji": "🖌️",
+  "cat": "culture",
+  "title": "Sima Qian Finishes His History",
+  "place": "Xi'an, China",
+  "lat": 34.27,
+  "lng": 108.95,
+  "text": "Court historian Sima Qian completed the Shiji, a history covering well over 2,000 years in 130 chapters, from the legendary Yellow Emperor to his own day. After angering the emperor, he chose a humiliating punishment over death so he could finish it. With lively biographies of assassins, merchants and jesters, it became the model for later Chinese dynastic histories.",
+  "source": {
+   "name": "Asia for Educators, Columbia University: Sima Qian's Letter to Ren An",
+   "url": "https://afe.easia.columbia.edu/main_pop/ps//ps_china-sima-qian-letter.htm"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Sima Qian'",
+   "url": "https://www.britannica.com/biography/Sima-Qian"
+  }
+ },
+ {
+  "id": "cl2-gundestrup",
+  "era": "classical",
+  "year": -75,
+  "dateLabel": "About 150–1 BCE",
+  "emoji": "🦌",
+  "cat": "culture",
+  "title": "The Silver Cauldron in the Bog",
+  "place": "Gundestrup, Denmark",
+  "lat": 56.82,
+  "lng": 9.55,
+  "text": "Peat cutters in Denmark found a silver cauldron decorated with gods, elephants and a seated figure wearing antlers. It had been taken apart and laid in a bog, likely as an offering. Its style suggests it was made far away in southeastern Europe, showing how far precious objects traveled in Iron Age Europe.",
+  "source": {
+   "name": "National Museum of Denmark, 'The dating and origin of the silver cauldron'",
+   "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-early-iron-age/the-gundestrup-cauldron/the-dating-and-origin-of-the-silver-cauldron/"
+  },
+  "source2": {
+   "name": "National Museum of Denmark, 'The Gundestrup Cauldron'",
+   "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-early-iron-age/the-gundestrup-cauldron/"
+  }
+ },
+ {
+  "id": "cl2-tea-contract",
+  "era": "classical",
+  "year": -59,
+  "dateLabel": "59 BCE",
+  "emoji": "🍵",
+  "cat": "daily",
+  "title": "Tea Appears on a Chore List",
+  "place": "Chengdu, China",
+  "lat": 30.66,
+  "lng": 104.06,
+  "text": "The writer Wang Bao drew up a contract for a servant, listing all his duties. Among them: going to the town of Wuyang to buy tea. Dated to 59 BCE, it is the first clear written record of tea as a drink, and it suggests a tea market had already formed.",
+  "source": {
+   "name": "Chinese Social Sciences Today (Chinese Academy of Social Sciences), 'Tea culture brewed in the Yangtze River basin'",
+   "url": "http://www.csstoday.net/Culture/202303/t20230324_5904336.shtml"
+  },
+  "source2": {
+   "name": "Scientific Reports (via PubMed Central), Lu et al., 'Earliest tea as evidence for one branch of the Silk Road across the Tibetan Plateau'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4704058/"
+  }
+ },
+ {
+  "id": "cl2-silla",
+  "era": "classical",
+  "year": -57,
+  "dateLabel": "57 BCE (by tradition)",
+  "emoji": "🥚",
+  "cat": "power",
+  "title": "Silla's King Hatched From an Egg",
+  "place": "Gyeongju, South Korea",
+  "lat": 35.84,
+  "lng": 129.21,
+  "text": "Korean tradition says the kingdom of Silla was founded when village elders crowned Bak Hyeokgeose, a boy who hatched from a glowing egg. Silla grew from a small state into the power that united most of Korea. Counting from its legendary start, it lasted about 1,000 years, one of the longest-running dynasties anywhere.",
+  "source": {
+   "name": "Korea.net (official website of the Republic of Korea)",
+   "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=121866"
+  },
+  "source2": {
+   "name": "The Korea Times, Mark Peterson (Brigham Young University), 'Longest dynasties' (2020)",
+   "url": "https://www.koreatimes.co.kr/amp/opinion/20200223/longest-dynasties"
+  }
+ },
+ {
+  "id": "cl2-long-count",
+  "era": "classical",
+  "year": -36,
+  "dateLabel": "36 BCE",
+  "emoji": "📅",
+  "cat": "discovery",
+  "title": "The Oldest Long Count Date",
+  "place": "Chiapa de Corzo, Mexico",
+  "lat": 16.71,
+  "lng": -93.01,
+  "text": "A stone monument in southern Mexico carries a date in the Long Count, a calendar that counted days from a starting point in 3114 BCE. Its date works out to 36 BCE, the oldest known. The Maya later used this system on hundreds of monuments, writing numbers with dots, bars and a shell for zero.",
+  "source": {
+   "name": "Penn Museum, Expedition Magazine, 'Time, Kingship, and the Maya Universe: Maya Calendars'",
+   "url": "https://www.penn.museum/sites/expedition/time-kingship-and-the-maya-universe-maya-calendars/"
+  },
+  "source2": {
+   "name": "PubMed Central (peer-reviewed), 'Non-power positional number representation systems, bijective numeration, and the Mesoamerican discovery of zero'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8022160/"
+  }
+ },
+ {
+  "id": "cl2-wang-zhaojun",
+  "era": "classical",
+  "year": -33,
+  "dateLabel": "33 BCE",
+  "emoji": "🪕",
+  "cat": "journeys",
+  "title": "Wang Zhaojun Goes North",
+  "place": "Hohhot, China",
+  "lat": 40.73,
+  "lng": 111.65,
+  "text": "A palace lady named Wang Zhaojun, who is said to have volunteered, was sent to marry the leader of the Xiongnu, the nomad power on China's northern border, sealing a peace deal. She lived the rest of her life on the steppe. Remembered as one of China's Four Great Beauties, she is often painted on horseback holding a pipa lute.",
+  "source": {
+   "name": "China Daily (Inner Mongolia)",
+   "url": "http://subsites.chinadaily.com.cn/innermongolia/2018-11/05/c_288293.htm"
+  },
+  "source2": {
+   "name": "University of Hawai'i OER textbook (P. Patterson and B. Parkinson), 'Steppe Peoples of Central Asia'",
+   "url": "https://pressbooks.oer.hawaii.edu/honcchist151/chapter/12-steppe-peoples-of-central-asia/"
+  }
+ },
+ {
+  "id": "cl2-amanirenas",
+  "era": "classical",
+  "year": -24,
+  "dateLabel": "About 24 BCE",
+  "emoji": "🗿",
+  "cat": "power",
+  "title": "The Kandake Who Stood Up to Rome",
+  "place": "Meroë, Sudan",
+  "lat": 16.94,
+  "lng": 33.75,
+  "text": "Kush's queen Amanirenas sent armies against Roman Egypt and carried off statues of Augustus. One bronze head was buried beneath temple steps at Meroë, where visitors would walk over the emperor; archaeologists dug it up in 1910. After years of fighting, Kush won a peace deal that canceled Rome's demands for tribute.",
+  "source": {
+   "name": "University of Liverpool News, 'Mary Beard discusses the revolutionary politics of the Meroe Head of Augustus'",
+   "url": "https://news.liverpool.ac.uk/2018/06/29/mary-beard-discusses-the-revolutionary-politics-of-the-meroe-head-of-augustus/"
+  },
+  "source2": {
+   "name": "The Conversation (university researcher), 'the forgotten queens of ancient Nubia'",
+   "url": "https://theconversation.com/never-mind-cleopatra-what-about-the-forgotten-queens-of-ancient-nubia-206828"
+  }
+ },
+ {
+  "id": "cl2-garamantes",
+  "era": "classical",
+  "year": -19,
+  "dateLabel": "19 BCE",
+  "emoji": "🏜️",
+  "cat": "journeys",
+  "title": "Rome Meets the Desert Farmers",
+  "place": "Germa, Libya",
+  "lat": 26.54,
+  "lng": 13.08,
+  "text": "The Roman general Balbus marched deep into the Sahara, captured Garamantian towns and celebrated a triumph in Rome. The Garamantes ran a desert kingdom by digging networks of underground tunnels, called foggaras, to bring ancient groundwater to their fields. They grew wheat, grapes and dates in the middle of the sand.",
+  "source": {
+   "name": "Archaeology Magazine (Archaeological Institute of America), 'Kingdom of the Sands'",
+   "url": "https://archive.archaeology.org/0403/abstracts/sands.html"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Garamantes' (Fezzan excerpt)",
+   "url": "https://www.britannica.com/topic/Garamantes"
+  }
+ },
+ {
+  "id": "cl2-han-census",
+  "era": "classical",
+  "year": 2,
+  "dateLabel": "2 CE",
+  "emoji": "🧮",
+  "cat": "daily",
+  "title": "Counting Nearly 60 Million People",
+  "place": "Xi'an, China",
+  "lat": 34.26,
+  "lng": 108.93,
+  "text": "Han officials recorded a census of the whole empire. The count preserved for 2 CE lists about 12.2 million households and 59.6 million people, and remarkably it has survived for 2,000 years. Since modern estimates put the world's population then at roughly 170 to 400 million, perhaps one in every four or five humans lived under Han rule.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'China: The practice of government' (Han dynasty)",
+   "url": "https://www.britannica.com/place/China/The-practice-of-government"
+  },
+  "source2": {
+   "name": "U.S. Census Bureau, Historical Estimates of World Population",
+   "url": "https://www.census.gov/data/tables/time-series/demo/international-programs/historical-est-worldpop.html"
+  }
+ },
+ {
+  "id": "cl2-teutoburg",
+  "era": "classical",
+  "year": 9,
+  "dateLabel": "9 CE",
+  "emoji": "🌲",
+  "cat": "power",
+  "title": "Ambush in the Teutoburg Forest",
+  "place": "Kalkriese, Germany",
+  "lat": 52.41,
+  "lng": 8.13,
+  "text": "Arminius, a Germanic chief who had served in the Roman army, led three Roman legions into a trap in muddy forest country and destroyed them. Rome gave up on conquering land east of the Rhine. The battlefield was rediscovered in 1987 by a British officer with a metal detector who found Roman coins and sling stones.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Battle of the Teutoburg Forest'",
+   "url": "https://www.britannica.com/event/Battle-of-the-Teutoburg-Forest"
+  },
+  "source2": {
+   "name": "Archaeology Magazine (Archaeological Institute of America), review 'Lost Legions'",
+   "url": "https://archive.archaeology.org/0511/reviews/legions.html"
+  }
+ },
+ {
+  "id": "cl2-polynesian-pause",
+  "era": "classical",
+  "year": 25,
+  "dateLabel": "About 2,000 years ago",
+  "emoji": "🛶",
+  "cat": "journeys",
+  "title": "Polynesia's Long Pause",
+  "place": "Samoa",
+  "lat": -13.76,
+  "lng": -172.1,
+  "text": "Seafarers had settled Tonga and Samoa about 800 BCE, and then stayed put for over a thousand years. During this long pause, a distinct Polynesian language and culture took shape. Later, voyagers in double-hulled canoes sailed east, steering by the stars and ocean swells, to reach islands as remote as Hawai'i and Rapa Nui.",
+  "source": {
+   "name": "PLOS ONE (2018), 'Early cessation of ceramic production for ancestral Polynesian society in Tonga'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5825035/"
+  },
+  "source2": {
+   "name": "PLOS ONE (2023), 'Estimated energetic demands of thermoregulation during ancient canoe passages from Tahiti to Hawaii and New Zealand'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10337932/"
+  }
+ },
+ {
+  "id": "cl2-jesus",
+  "era": "classical",
+  "year": 30,
+  "dateLabel": "About 30 CE",
+  "emoji": "✝️",
+  "cat": "culture",
+  "title": "A Preacher From Galilee",
+  "place": "Jerusalem",
+  "lat": 31.78,
+  "lng": 35.23,
+  "text": "Jesus, a Jewish teacher from Galilee who spoke Aramaic, drew crowds with his teaching and was crucified in Jerusalem on the orders of the Roman governor Pontius Pilate. His small group of followers spread the message that he had risen. Within three centuries, Christianity had become a major religion of the Roman world.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Jesus'",
+   "url": "https://www.britannica.com/biography/Jesus"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Pontius Pilate'",
+   "url": "https://www.britannica.com/biography/Pontius-Pilate"
+  }
+ },
+ {
+  "id": "cl2-trung-sisters",
+  "era": "classical",
+  "year": 40,
+  "dateLabel": "40 CE",
+  "emoji": "🐘",
+  "cat": "power",
+  "title": "The Trưng Sisters Rise Up",
+  "place": "Mê Linh, Vietnam",
+  "lat": 21.18,
+  "lng": 105.72,
+  "text": "Two sisters, Trưng Trắc and Trưng Nhị, led a revolt against Han Chinese rule in northern Vietnam, and tradition says women generals fought at their side. They ruled as queens for about three years before a Han army defeated them. Vietnam still honors them with temples, street names and a yearly festival.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Trung Sisters'",
+   "url": "https://www.britannica.com/topic/Trung-Sisters"
+  },
+  "source2": {
+   "name": "Vietnam News Agency (VietnamPlus), 'Uprising by national heroines commemorated'",
+   "url": "https://en.vietnamplus.vn/uprising-by-national-heroines-commemorated/88887.vnp"
+  }
+ },
+ {
+  "id": "cl2-muziris",
+  "era": "classical",
+  "year": 55,
+  "dateLabel": "About 40–70 CE",
+  "emoji": "🌶️",
+  "cat": "journeys",
+  "title": "Pepper Ships to Muziris",
+  "place": "Pattanam, India",
+  "lat": 10.15,
+  "lng": 76.21,
+  "text": "Greek-speaking merchants from Roman Egypt rode the monsoon winds to Muziris on India's southwest coast to buy pepper, pearls and silk cloth. A sailors' guidebook, the Periplus, describes the port. The Roman writer Pliny grumbled that India drained about 50 million sesterces from the empire every year.",
+  "source": {
+   "name": "Journal of Global History (Cambridge University Press, 2023), article on Indo-Roman trade",
+   "url": "https://www.cambridge.org/core/product/identifier/S1740022823000165/type/journal_article"
+  },
+  "source2": {
+   "name": "Fordham University Internet History Sourcebooks, The Periplus of the Erythraean Sea (Schoff trans.), sec. 56",
+   "url": "https://sourcebooks.fordham.edu/ancient/periplus.asp"
+  }
+ },
+ {
+  "id": "cl2-na-seal",
+  "era": "classical",
+  "year": 57,
+  "dateLabel": "57 CE",
+  "emoji": "🦭",
+  "cat": "power",
+  "title": "The Gold Seal Found by a Farmer",
+  "place": "Shikanoshima, Japan",
+  "lat": 33.67,
+  "lng": 130.3,
+  "text": "Chinese records say Emperor Guangwu gave a seal to envoys from Na, a small state in Japan. In 1784 a farmer on Shikanoshima island dug up a gold seal with a snake-shaped handle, reading 'King of Na of Wa, vassal of Han'. It is only about 2.3 centimeters across and is now a national treasure.",
+  "source": {
+   "name": "Fukuoka City Museum via Google Arts & Culture, 'The Gold Seal Kan no Wa no Na no Kokuou'",
+   "url": "https://artsandculture.google.com/asset/the-gold-seal%E2%80%9Ckan-no-wa-no-na-no-kokuou%E2%80%9D-han-dynasty/-gG-6FNFVDNmvQ"
+  },
+  "source2": {
+   "name": "Japan Ministry of Land, Infrastructure, Transport and Tourism (Kyushu Regional Bureau), 'Interaction with the continent (6)'",
+   "url": "https://www.qsr.mlit.go.jp/suishin/story2019/english/01_6.html"
+  }
+ },
+ {
+  "id": "cl2-boudica",
+  "era": "classical",
+  "year": 60,
+  "dateLabel": "60 or 61 CE",
+  "emoji": "🛡️",
+  "cat": "power",
+  "title": "Boudica Burns Roman Towns",
+  "place": "Colchester, United Kingdom",
+  "lat": 51.89,
+  "lng": 0.9,
+  "text": "After Roman officials seized her kingdom and abused her family, Boudica, queen of the Iceni, led a huge British uprising. Her forces burned Colchester, London and St Albans before Roman troops defeated them. Beneath London, archaeologists still find a layer of burnt debris from that fire.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Boudicca'",
+   "url": "https://www.britannica.com/biography/Boudicca"
+  },
+  "source2": {
+   "name": "Current Archaeology, 'AD 50 - The story of Roman London'",
+   "url": "https://archaeology.co.uk/articles/specials/timeline/the-story-of-roman-london.htm"
+  }
+ },
+ {
+  "id": "cl2-gandhara-buddha",
+  "era": "classical",
+  "year": 70,
+  "dateLabel": "1st century CE",
+  "emoji": "🧘",
+  "cat": "culture",
+  "title": "The Buddha Gets a Face",
+  "place": "Taxila, Pakistan",
+  "lat": 33.75,
+  "lng": 72.82,
+  "text": "For centuries, artists showed the Buddha only through symbols like footprints or an empty throne. Around this time sculptors in Gandhara and Mathura began carving him in human form. Gandharan statues mix Indian ideas with Greek-style wavy hair and draped robes, a legacy of Alexander's conquests.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: 'Kushan Empire'",
+   "url": "https://www.metmuseum.org/essays/kushan-empire-ca-second-century-b-c-third-century-a-d"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: 'Gandhara'",
+   "url": "https://www.metmuseum.org/essays/gandhara"
+  }
+ },
+ {
+  "id": "cl2-ban-zhao",
+  "era": "classical",
+  "year": 92,
+  "dateLabel": "After 92 CE",
+  "emoji": "✍️",
+  "cat": "culture",
+  "title": "Ban Zhao Finishes the Book of Han",
+  "place": "Luoyang, China",
+  "lat": 34.62,
+  "lng": 112.45,
+  "text": "When her brother Ban Gu died before completing his history of the Han dynasty, scholar Ban Zhao finished it, continuing its eight tables. She also taught the empress and palace ladies, including astronomy and mathematics, and wrote 'Lessons for Women'. She is called China's first woman historian.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Ban Zhao'",
+   "url": "https://www.britannica.com/biography/Ban-Zhao"
+  },
+  "source2": {
+   "name": "World History Connected (Univ. of Illinois Press), Yuen Ting Lee, 'Ban Zhao: Scholar of Han Dynasty China'",
+   "url": "https://journals.gmu.edu/whc/article/download/4660/2618?inline=1"
+  }
+ },
+ {
+  "id": "cl2-gan-ying",
+  "era": "classical",
+  "year": 97,
+  "dateLabel": "97 CE",
+  "emoji": "🌊",
+  "cat": "journeys",
+  "title": "The Envoy Who Almost Reached Rome",
+  "place": "Persian Gulf coast, Iraq",
+  "lat": 30.5,
+  "lng": 47.8,
+  "text": "General Ban Chao sent Gan Ying west to find Daqin, the Chinese name for the Roman Empire. Gan Ying reached a great sea, possibly the Persian Gulf, but Parthian sailors warned him the voyage could take up to two years. He turned back. The Parthians may have wanted to keep their role as silk middlemen.",
+  "source": {
+   "name": "University of Washington Silk Road Seattle, Hou Hanshu 'Western Regions' (trans. John E. Hill)",
+   "url": "https://depts.washington.edu/silkroad/texts/hhshu/hou_han_shu.html"
+  }
+ },
+ {
+  "id": "cl2-pantheon",
+  "era": "classical",
+  "year": 125,
+  "dateLabel": "About 125 CE",
+  "emoji": "🕳️",
+  "cat": "discovery",
+  "title": "The Dome With a Hole in the Top",
+  "place": "Rome, Italy",
+  "lat": 41.9,
+  "lng": 12.48,
+  "text": "Under Emperor Hadrian, Romans finished the Pantheon, a temple with a concrete dome 43 meters wide. A round opening at the top, about 8 meters across, is the only window, and rain still falls onto the floor below. Nearly 1,900 years later, it remains the largest unreinforced concrete dome in the world.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Pantheon'",
+   "url": "https://www.britannica.com/topic/Pantheon-building-Rome-Italy"
+  },
+  "source2": {
+   "name": "MIT News, 'Riddle solved: Why was Roman concrete so durable?' (2023)",
+   "url": "https://news.mit.edu/2023/roman-concrete-durability-lime-casts-0106"
+  }
+ },
+ {
+  "id": "cl2-kanishka",
+  "era": "classical",
+  "year": 127,
+  "dateLabel": "About 127 CE",
+  "emoji": "🪙",
+  "cat": "power",
+  "title": "Kanishka's Gods on Coins",
+  "place": "Peshawar, Pakistan",
+  "lat": 34.01,
+  "lng": 71.58,
+  "text": "Kanishka became ruler of the Kushan Empire, which stretched from Central Asia into northern India along the Silk Road. His coins show a crowd of gods: Greek, Persian, Hindu and the Buddha. He switched official inscriptions from Greek to the local Bactrian language, and Buddhist tradition remembers him as a great patron.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Kanishka'",
+   "url": "https://www.britannica.com/biography/Kaniska"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica, 'Kushan Dynasty ii. Inscriptions of the Kushans'",
+   "url": "https://www.iranicaonline.org/articles/kushan-02-inscriptions/"
+  }
+ },
+ {
+  "id": "cl2-zhang-heng",
+  "era": "classical",
+  "year": 132,
+  "dateLabel": "132 CE",
+  "emoji": "🐉",
+  "cat": "discovery",
+  "title": "The Dragon Jar That Felt Earthquakes",
+  "place": "Luoyang, China",
+  "lat": 34.63,
+  "lng": 112.44,
+  "text": "Astronomer Zhang Heng built a metal jar with eight dragons around it, each holding a ball above an open-mouthed frog. When the ground shook, a ball dropped, showing the quake's direction. Once a ball fell when no one felt anything, and days later reports arrived of an earthquake more than a thousand kilometres away.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Zhang Heng'",
+   "url": "https://www.britannica.com/biography/Zhang-Heng"
+  },
+  "source2": {
+   "name": "MacTutor History of Mathematics (University of St Andrews), 'Zhang Heng'",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Zhang_Heng/"
+  }
+ },
+ {
+  "id": "cl2-kallanai",
+  "era": "classical",
+  "year": 175,
+  "dateLabel": "About 2nd century CE",
+  "emoji": "🏞️",
+  "cat": "discovery",
+  "title": "The Grand Anicut Still Works",
+  "place": "Kallanai, India",
+  "lat": 10.83,
+  "lng": 78.82,
+  "text": "The Chola king Karikala, who probably ruled in the late 2nd century CE, is credited with building the Kallanai, or Grand Anicut, a barrier across the Kaveri River where it divides, sending water into farm canals. It is still in use today and is considered one of the oldest water-control structures in the world.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Kaveri River'",
+   "url": "https://www.britannica.com/place/Kaveri-River"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Karikalan' (India: Southern Indian kingdoms excerpt)",
+   "url": "https://www.britannica.com/biography/Karikalan"
+  }
+ },
+ {
+  "id": "cl2-yellow-turbans",
+  "era": "classical",
+  "year": 184,
+  "dateLabel": "184 CE",
+  "emoji": "🟡",
+  "cat": "power",
+  "title": "The Yellow Turbans Rebel",
+  "place": "Julu, China",
+  "lat": 37.22,
+  "lng": 115.04,
+  "text": "Zhang Jue, a faith healer who led a Daoist movement awaiting an age of Great Peace, promised a new age would begin in 184. Hundreds of thousands of followers rose up wearing yellow headscarves. The Han crushed the revolt, but the warlords who did it grew so strong that the dynasty fell apart.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Yellow Turbans'",
+   "url": "https://www.britannica.com/topic/Yellow-Turbans"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Cao Cao'",
+   "url": "https://www.britannica.com/biography/Cao-Cao"
+  }
+ },
+ {
+  "id": "cl2-champa",
+  "era": "classical",
+  "year": 192,
+  "dateLabel": "192 CE",
+  "emoji": "🧱",
+  "cat": "power",
+  "title": "Champa Breaks Away",
+  "place": "Huế, Vietnam",
+  "lat": 16.46,
+  "lng": 107.59,
+  "text": "A local official broke away from Han China and founded a kingdom in central Vietnam that Chinese records called Linyi. The Cham kingdoms of Champa grew up in the same region, though historians debate exactly how they link to Linyi. Champa traded by sea for over a thousand years, and its brick temple towers for Hindu gods still stand.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Champa'",
+   "url": "https://www.britannica.com/place/Champa-ancient-kingdom-Indochina"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, 'My Son Sanctuary'",
+   "url": "https://whc.unesco.org/en/list/949"
+  }
+ },
+ {
+  "id": "cl2-red-cliffs",
+  "era": "classical",
+  "year": 208,
+  "dateLabel": "208 CE",
+  "emoji": "🔥",
+  "cat": "power",
+  "title": "Defeat at Red Cliffs",
+  "place": "Chibi, China",
+  "lat": 29.72,
+  "lng": 113.88,
+  "text": "In 208 the warlord Cao Cao pushed south toward the Yangtze, but his tired army was struck by sickness. At Red Cliffs, near today's Wuhan, Huang Gai of Sun Quan's forces sent burning ships, driven by the wind, into Cao Cao's fleet and camp. Cao Cao never crossed the Yangtze, and China split into three kingdoms, a story retold in the novel Romance of the Three Kingdoms.",
+  "source": {
+   "name": "Rafe de Crespigny, 'Man from the Margin: Cao Cao and the Three Kingdoms' (51st Morrison Lecture), ANU Open Research",
+   "url": "https://openresearch-repository.anu.edu.au/bitstream/1885/41887/1/morrison51.html"
+  },
+  "source2": {
+   "name": "Columbia University, Asia for Educators: Su Shi, 'The Red Cliff' (introduction)",
+   "url": "https://afe.easia.columbia.edu/ps/china/sushi_redcliff.pdf"
+  }
+ },
+ {
+  "id": "cl2-taupo",
+  "era": "classical",
+  "year": 232,
+  "dateLabel": "About 232 CE",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "Taupō Blows Its Top",
+  "place": "Lake Taupō, New Zealand",
+  "lat": -38.82,
+  "lng": 176.0,
+  "text": "One of the most violent eruptions of the last 5,000 years tore through New Zealand's North Island around 232 CE, sending scorching ash flows across about 20,000 square kilometers. No people saw it, because humans had not yet reached New Zealand. Its caldera is now filled by Lake Taupō, the country's largest lake.",
+  "source": {
+   "name": "GeoNet (GNS Science / New Zealand government), 'Taupō volcano'",
+   "url": "https://www.geonet.org.nz/about/volcano/taupo"
+  },
+  "source2": {
+   "name": "Nature Communications (2019), Hogg et al., 'Wiggle-match radiocarbon dating of the Taupo eruption'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6788995/"
+  }
+ },
+ {
+  "id": "cl2-mani",
+  "era": "classical",
+  "year": 240,
+  "dateLabel": "240 CE",
+  "emoji": "🎨",
+  "cat": "culture",
+  "title": "Mani Starts a World Religion",
+  "place": "Ctesiphon, Iraq",
+  "lat": 33.09,
+  "lng": 44.58,
+  "text": "The prophet Mani began preaching a faith that saw the universe as a struggle between light and darkness. He was also a painter and illustrated his own holy books. Manichaeism spread from North Africa to China, and the young Augustine, later a famous Christian thinker, followed it for about a decade.",
+  "source": {
+   "name": "Encyclopaedia Iranica, 'Manicheism i. General Survey'",
+   "url": "https://www.iranicaonline.org/articles/manicheism-parent/manicheism-1-general-survey/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Mani'",
+   "url": "https://www.britannica.com/biography/Mani-Iranian-religious-leader"
+  }
+ },
+ {
+  "id": "cl2-funan-envoys",
+  "era": "classical",
+  "year": 245,
+  "dateLabel": "About 245 CE",
+  "emoji": "📖",
+  "cat": "journeys",
+  "title": "Chinese Envoys Visit Funan",
+  "place": "Angkor Borei, Cambodia",
+  "lat": 10.99,
+  "lng": 104.98,
+  "text": "The kingdom of Wu sent two envoys, Kang Tai and Zhu Ying, to Funan, a trading power on the Mekong. They reported walled towns, people paying taxes in gold, silver and pearls, and books and archives written in a script like India's. Their accounts are some of the earliest descriptions of a Southeast Asian kingdom.",
+  "source": {
+   "name": "Kenneth R. Hall, Maritime Trade and State Development in Early Southeast Asia (University of Hawai'i Press, 1985), ch. 3 (open access on UH Press Manifold)",
+   "url": "https://manifold.uhpress.hawaii.edu/read/maritime-trade-and-state-development-in-early-southeast-asia"
+  },
+  "source2": {
+   "name": "ChinaKnowledge (Ulrich Theobald), 'Funan'",
+   "url": "http://www.chinaknowledge.de/History/Altera/funan.html"
+  }
+ },
+ {
+  "id": "cl2-sipan",
+  "era": "classical",
+  "year": 250,
+  "dateLabel": "About 250 CE",
+  "emoji": "🥜",
+  "cat": "culture",
+  "title": "The Lord of Sipán's Golden Peanuts",
+  "place": "Sipán, Peru",
+  "lat": -6.8,
+  "lng": -79.6,
+  "text": "A Moche warrior-priest was buried with gold and silver headdresses, ear spools and a necklace of giant metal peanuts, half gold and half silver. His tomb, found in 1987, was one of the first rich Moche burials discovered untouched by looters. Archaeologists compare it to Tutankhamun's tomb for the Americas.",
+  "source": {
+   "name": "Current World Archaeology, 'Tombs of the Lords of Sipán'",
+   "url": "https://www.world-archaeology.com/features/tombs-of-the-lords-of-sipan/"
+  }
+ },
+ {
+  "id": "cl2-aksum-coins",
+  "era": "classical",
+  "year": 290,
+  "dateLabel": "About 290 CE",
+  "emoji": "🪙",
+  "cat": "journeys",
+  "title": "Aksum Mints Its Own Gold",
+  "place": "Aksum, Ethiopia",
+  "lat": 14.13,
+  "lng": 38.72,
+  "text": "Around 290 CE, King Endubis became the first ruler of Aksum to issue coins, striking them in gold, silver and copper with Greek writing. Only three other powers of the time, including Rome and Persia, made coins in all three metals. Aksumite gold coins have turned up as far away as India and southern Arabia, where a hoard of over 800 was found near Aden.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: 'Foundations of Aksumite Civilization and Its Christian Legacy'",
+   "url": "https://www.metmuseum.org/essays/foundations-of-aksumite-civilization-and-its-christian-legacy-1st-7th-century"
+  },
+  "source2": {
+   "name": "Anglo-Ethiopian Society, lecture 'An Introduction to Axumite Coinage' (Vincent West, 27 March 2007)",
+   "url": "https://www.anglo-ethiopian.org/publications/articles.php?type=L&reference=publications%2Farticles%2F2007summer%2Faxumitecoins.php"
+  }
+ },
+ {
+  "id": "cl2-st-anthony",
+  "era": "classical",
+  "year": 285,
+  "dateLabel": "About 285 CE",
+  "emoji": "🏜️",
+  "cat": "culture",
+  "title": "Anthony Moves to the Desert",
+  "place": "Red Sea Mountains, Egypt",
+  "lat": 28.92,
+  "lng": 32.35,
+  "text": "An Egyptian named Anthony gave his family's land to his neighbours and his money to the poor, then moved into the desert to live alone in prayer. Others followed him, and Christian monasticism grew from Egypt's hermits. The Monastery of Saint Anthony still stands near the mountain by the Red Sea where he later settled.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'St. Anthony of Egypt'",
+   "url": "https://www.britannica.com/biography/Saint-Anthony-of-Egypt"
+  },
+  "source2": {
+   "name": "Athanasius, Life of St. Anthony, ch. 2-3 (NPNF translation, New Advent)",
+   "url": "https://www.newadvent.org/fathers/2811.htm"
+  }
+ },
+ {
+  "id": "cl2-price-edict",
+  "era": "classical",
+  "year": 301,
+  "dateLabel": "301 CE",
+  "emoji": "🥚",
+  "cat": "daily",
+  "title": "Diocletian Sets the Price of Eggs",
+  "place": "Aphrodisias, Turkey",
+  "lat": 37.71,
+  "lng": 28.72,
+  "text": "Fighting runaway inflation, Emperor Diocletian issued an edict fixing maximum prices for well over a thousand items, from eggs and beer to barbers' fees and even a lion. Stone copies give a rare peek at Roman shopping. The edict flopped: it was impossible to enforce across the vast empire and was scarcely applied.",
+  "source": {
+   "name": "Aphrodisias Excavations (New York University / University of Oxford), 'Diocletian's Price Edict'",
+   "url": "https://aphrodisias-excavations.com/?p=6757"
+  },
+  "source2": {
+   "name": "The Conversation (university historians), 'Skyrocketing prices are an age-old problem. Here's how Roman emperors battled runaway inflation'",
+   "url": "https://theconversation.com/skyrocketing-prices-are-an-age-old-problem-heres-how-roman-emperors-battled-runaway-inflation-243921"
+  }
+ },
+ {
+  "id": "cl2-sogdian-letters",
+  "era": "classical",
+  "year": 313,
+  "dateLabel": "About 313 CE",
+  "emoji": "✉️",
+  "cat": "journeys",
+  "title": "Miwnay's Angry Letter",
+  "place": "Dunhuang, China",
+  "lat": 40.14,
+  "lng": 94.66,
+  "text": "A bag of letters by Sogdian merchants from Central Asia was lost near Dunhuang and found in 1907 in a ruined watchtower. One is from a woman named Miwnay, stranded with her daughter after her husband left. She writes that she would rather have married a dog or a pig. The letters reveal Silk Road life.",
+  "source": {
+   "name": "Smithsonian Institution, National Museum of Asian Art, 'The Sogdians: Ancient Letters' (Nicholas Sims-Williams)",
+   "url": "https://sogdians.si.edu/ancient-letters/"
+  }
+ },
+ {
+  "id": "cl2-nydam-boat",
+  "era": "classical",
+  "year": 320,
+  "dateLabel": "About 320 CE",
+  "emoji": "🚣",
+  "cat": "culture",
+  "title": "The Boat Sunk as a Gift",
+  "place": "Nydam Mose, Denmark",
+  "lat": 54.97,
+  "lng": 9.73,
+  "text": "People in southern Denmark sank a 23-meter oak boat in Nydam bog along with masses of weapons, at a site archaeologists see as an offering of war booty after battle. Found in 1863 and tree-ring dated to about 310-320 CE, it is the oldest known boat built in the 'clinker' style, with overlapping planks fastened by metal pins.",
+  "source": {
+   "name": "Museum fuer Archaeologie Schloss Gottorf (Schleswig-Holstein State Museums), 'Iron Age / The famous Nydam Boat'",
+   "url": "https://museum-fuer-archaeologie.de/en/iron-age"
+  },
+  "source2": {
+   "name": "Radiocarbon 61(5), 2019 (Hüls, Meadows & Rau), 'Interpreting 14C measurements on 3rd-4th century AD iron artifacts from Nydam'",
+   "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CC96975F1C7C290E7DD209FADE0E73CB/S0033822219000158a.pdf/interpreting_14c_measurements_on_3rd4th_century_ad_iron_artifacts_from_nydam_denmark.pdf"
+  }
+ },
+ {
+  "id": "cl2-constantinople",
+  "era": "classical",
+  "year": 330,
+  "dateLabel": "May 11, 330",
+  "emoji": "🕌",
+  "cat": "power",
+  "title": "Constantine's New Rome",
+  "place": "Istanbul, Turkey",
+  "lat": 41.01,
+  "lng": 28.98,
+  "text": "Emperor Constantine dedicated a new capital on the old Greek town of Byzantium, where Europe meets Asia. He filled it with statues hauled from across the empire. Constantinople would be the capital of the Eastern Roman Empire for over 1,100 years and is today's Istanbul.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Istanbul: Constantinople'",
+   "url": "https://www.britannica.com/place/Istanbul/Constantinople"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Constantine I'",
+   "url": "https://www.britannica.com/biography/Constantine-I-Roman-emperor"
+  }
+ },
+ {
+  "id": "cl2-orchid-pavilion",
+  "era": "classical",
+  "year": 353,
+  "dateLabel": "353 CE",
+  "emoji": "🍶",
+  "cat": "culture",
+  "title": "Wine Cups at the Orchid Pavilion",
+  "place": "Shaoxing, China",
+  "lat": 30.0,
+  "lng": 120.58,
+  "text": "At a spring festival in 353, the calligrapher Wang Xizhi and his friends floated wine cups down a stream; when a cup reached a guest, he had to write a poem or drink three cups as a penalty. Wang wrote a preface for their poems that became the most famous calligraphy in China. A Tang emperor reportedly had the original buried with him.",
+  "source": {
+   "name": "National Palace Museum, Taipei, exhibition 'A Penchant for the Orchid Pavilion'",
+   "url": "https://www.npm.gov.tw/Exhibition-Content.aspx?sno=04014382&l=2"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Lanting Xu'",
+   "url": "https://www.britannica.com/topic/Lanting-Xu"
+  }
+ },
+ {
+  "id": "cl2-goguryeo-buddhism",
+  "era": "classical",
+  "year": 372,
+  "dateLabel": "372 CE",
+  "emoji": "🪷",
+  "cat": "culture",
+  "title": "Buddhism Arrives in Korea",
+  "place": "Ji'an, China",
+  "lat": 41.12,
+  "lng": 126.18,
+  "text": "In 372 a Chinese Buddhist monk named Sundo arrived at the court of Goguryeo, the northernmost of Korea's Three Kingdoms, as Buddhism came in from the Chinese state of Former Qin. King Sosurim supported the new faith and that same year founded a Confucian academy. From Korea, Buddhism would later travel on to Japan.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Goguryeo'",
+   "url": "https://www.britannica.com/place/Goguryeo"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline of Art History, 'Korea, 1-500 A.D.'",
+   "url": "https://www.metmuseum.org/toah/ht/05/eak.html"
+  }
+ },
+ {
+  "id": "cl2-siyaj-kak",
+  "era": "classical",
+  "year": 378,
+  "dateLabel": "January 378",
+  "emoji": "🦉",
+  "cat": "power",
+  "title": "Strangers From Teotihuacan Arrive",
+  "place": "Tikal, Guatemala",
+  "lat": 17.23,
+  "lng": -89.61,
+  "text": "A warlord named Siyaj K'ak' arrived at Tikal with ties to the giant city of Teotihuacan, about 1,000 kilometers away. On that same day, Tikal's king died. Soon a new king took the throne, the son of a mysterious ruler nicknamed 'Spearthrower Owl', and Mexican-style art spread through Maya cities.",
+  "source": {
+   "name": "David Stuart (Peabody Museum, Harvard), 'The Arrival of Strangers', Pre-Columbian Art Research Institute / Mesoweb",
+   "url": "https://www.mesoweb.com/pari/publications/news_archive/25/strangers/strangers.html"
+  },
+  "source2": {
+   "name": "National Geographic, 'Archaeologists have discovered a 1,600-year-old Maya altar...'",
+   "url": "https://www.nationalgeographic.com/history/article/maya-tikal-altar-child-sacrifice-teotihuacan"
+  }
+ },
+ {
+  "id": "cl2-iron-pillar",
+  "era": "classical",
+  "year": 400,
+  "dateLabel": "About 400 CE",
+  "emoji": "🔩",
+  "cat": "discovery",
+  "title": "The Pillar That Won't Rust",
+  "place": "Delhi, India",
+  "lat": 28.52,
+  "lng": 77.19,
+  "text": "Gupta-era smiths forged an iron pillar over 7 meters tall and weighing about 6 tonnes, inscribed for a king named Chandra. After roughly 1,600 years outdoors, it has barely rusted. Scientists found the iron contains phosphorus that helps form a thin protective layer on the surface.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Iron Pillar of Delhi'",
+   "url": "https://www.britannica.com/topic/Iron-Pillar-of-Delhi"
+  }
+ },
+ {
+  "id": "cl2-faxian",
+  "era": "classical",
+  "year": 405,
+  "dateLabel": "About 405 CE",
+  "emoji": "🚶",
+  "cat": "journeys",
+  "title": "Faxian Walks to India",
+  "place": "Patna, India",
+  "lat": 25.6,
+  "lng": 85.13,
+  "text": "The Chinese monk Faxian crossed deserts and mountains to India to find Buddhist rule books. He described Gupta India as peaceful, with free hospitals for the poor in Pataliputra, and said criminals were usually just fined rather than executed or beaten. He sailed home by way of Sri Lanka, surviving storms, after about 14 years away.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Faxian'",
+   "url": "https://www.britannica.com/biography/Faxian"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Chandragupta II'",
+   "url": "https://www.britannica.com/biography/Chandragupta-II"
+  }
+ },
+ {
+  "id": "cl2-hypatia",
+  "era": "classical",
+  "year": 415,
+  "dateLabel": "415 CE",
+  "emoji": "📐",
+  "cat": "discovery",
+  "title": "Hypatia of Alexandria",
+  "place": "Alexandria, Egypt",
+  "lat": 31.2,
+  "lng": 29.9,
+  "text": "Hypatia was a mathematician, astronomer and philosopher who led a school of Platonist philosophy in Alexandria, drawing students from far and wide, and often met with the city's Roman governor. She wrote commentaries on math texts. In 415 she was murdered by a Christian mob during a bitter political feud, and she later became a symbol of learning and women in science.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Hypatia' (Michael Deakin)",
+   "url": "https://www.britannica.com/biography/Hypatia"
+  },
+  "source2": {
+   "name": "Socrates Scholasticus, Ecclesiastical History VII.15 (NPNF translation, New Advent)",
+   "url": "https://www.newadvent.org/fathers/26017.htm"
+  }
+ },
+ {
+  "id": "cl2-nalanda",
+  "era": "classical",
+  "year": 427,
+  "dateLabel": "About 427 CE",
+  "emoji": "🏫",
+  "cat": "culture",
+  "title": "Nalanda Opens Its Doors",
+  "place": "Nalanda, India",
+  "lat": 25.14,
+  "lng": 85.44,
+  "text": "Under the Gupta kings, a Buddhist monastery at Nalanda grew into a huge centre of learning with lecture halls and dormitories. At its peak it drew thousands of students from as far away as China, Korea and Southeast Asia. Entrance was famously hard: the gatekeeper quizzed newcomers with tough questions, and most failed.",
+  "source": {
+   "name": "Nalanda University (Government of India), 'History and Revival'",
+   "url": "https://nalandauniv.edu.in/about-nalanda/history-and-revival/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Nalanda'",
+   "url": "https://www.britannica.com/topic/Nalanda"
+  }
+ },
+ {
+  "id": "cl2-ilopango",
+  "era": "classical",
+  "year": 431,
+  "dateLabel": "About 431 CE",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "Ilopango Buries Maya Farmland",
+  "place": "Lake Ilopango, El Salvador",
+  "lat": 13.67,
+  "lng": -89.05,
+  "text": "The Ilopango volcano exploded in a gigantic eruption that ranks among the 20 biggest blasts of sulfur into the stratosphere in the last 2,000 years. Ash blanketed farms and villages of the southeastern Maya region, and people had to leave for generations. The volcano's collapsed crater is now a lake right next to San Salvador.",
+  "source": {
+   "name": "PNAS (via PubMed Central), Smith et al. 2020, 'The magnitude and impact of the 431 CE Tierra Blanca Joven eruption of Ilopango, El Salvador'",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7584997/"
+  },
+  "source2": {
+   "name": "Smithsonian Global Volcanism Program, 'Ilopango'",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=343060"
+  }
+ },
+ {
+  "id": "cl2-daisen-kofun",
+  "era": "classical",
+  "year": 450,
+  "dateLabel": "Mid-400s CE",
+  "emoji": "🔑",
+  "cat": "culture",
+  "title": "A Keyhole Tomb Twice a Pyramid's Length",
+  "place": "Sakai, Japan",
+  "lat": 34.56,
+  "lng": 135.49,
+  "text": "During the Kofun period, Japan's rulers were buried under huge keyhole-shaped mounds. The biggest, Daisen Kofun, is about 486 meters long, twice the length of the Great Pyramid's base, and is surrounded by three moats. Thousands of clay figures called haniwa once lined the tomb, which is linked to Emperor Nintoku.",
+  "source": {
+   "name": "Sakai City (official), 'Nintoku-tenno-ryo Kofun'",
+   "url": "https://www.city.sakai.lg.jp/foreign-language/english/visitors/topics/world_heritage_site/notable_tombs/nintoku-ryo.html"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Mausoleum of Nintoku'",
+   "url": "https://www.britannica.com/place/Mausoleum-of-Nintoku"
+  }
+ },
+ {
+  "id": "cl2-yungang",
+  "era": "classical",
+  "year": 460,
+  "dateLabel": "460 CE",
+  "emoji": "🗿",
+  "cat": "culture",
+  "title": "Giant Buddhas at Yungang",
+  "place": "Datong, China",
+  "lat": 40.11,
+  "lng": 113.13,
+  "text": "The monk Tanyao persuaded the Northern Wei court to carve five colossal Buddhas into a sandstone cliff near the capital, possibly honoring past emperors. Work went on for decades. Today the Yungang Grottoes hold about 51,000 statues in 252 caves and niches, with the biggest Buddhas reaching up to 17 meters tall.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Yungang caves'",
+   "url": "https://www.britannica.com/place/Yungang-caves"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, 'Yungang Grottoes'",
+   "url": "https://whc.unesco.org/en/list/1039"
+  }
+ },
+ {
+  "id": "cl2-romulus-augustulus",
+  "era": "classical",
+  "year": 476,
+  "dateLabel": "476 CE",
+  "emoji": "🦅",
+  "cat": "power",
+  "title": "The Last Western Emperor Steps Down",
+  "place": "Ravenna, Italy",
+  "lat": 44.42,
+  "lng": 12.2,
+  "text": "The Germanic general Odoacer deposed the young emperor Romulus Augustulus and returned the leftover imperial regalia to the emperor Zeno in Constantinople. The year 476 is traditionally considered the end of the Western Roman Empire. The boy was spared because of his youth, given a pension and sent to live with relatives in southern Italy.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Romulus Augustulus' (with 'Odoacer')",
+   "url": "https://www.britannica.com/biography/Romulus-Augustulus"
+  },
+  "source2": {
+   "name": "Michael Maas, 'Reversals of Fortune: An Overview of the Age of Attila', The Cambridge Companion to the Age of Attila (Cambridge University Press)",
+   "url": "https://www.cambridge.org/core/books/cambridge-companion-to-the-age-of-attila/reversals-of-fortune-an-overview-of-the-age-of-attila/9F92FDDA3711527E2E1F8CBE681ECCCA/core-reader"
+  }
+ },
+ {
+  "id": "cl2-sigiriya",
+  "era": "classical",
+  "year": 477,
+  "dateLabel": "About 477 CE",
+  "emoji": "🦁",
+  "cat": "culture",
+  "title": "A Palace on the Lion Rock",
+  "place": "Sigiriya, Sri Lanka",
+  "lat": 7.96,
+  "lng": 80.76,
+  "text": "King Kashyapa built a fortress palace on top of a granite rock rising about 180 meters from the jungle, entered through the paws of a giant brick lion. Painted women still decorate a sheltered rock face. Later visitors scratched hundreds of poems and comments onto the rock's walls, early graffiti now treasured by scholars.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Sigiriya'",
+   "url": "https://www.britannica.com/place/Sigiriya"
+  },
+  "source2": {
+   "name": "National Geographic History, 'Sigiriya, the Lion Fortress of Sri Lanka'",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/sri-lanka-sigiriya-fortress"
+  }
+ },
+ {
+  "id": "cl2-mazdak",
+  "era": "classical",
+  "year": 494,
+  "dateLabel": "Late 400s CE",
+  "emoji": "🤝",
+  "cat": "culture",
+  "title": "Mazdak Preaches Sharing",
+  "place": "Ctesiphon, Iraq",
+  "lat": 33.1,
+  "lng": 44.59,
+  "text": "In Sasanian Persia, a preacher named Mazdak led an egalitarian movement that attacked the privileges of the elite and demanded that wealth be shared among the poor. King Kavad I supported it for a time, alarming nobles and priests. Kavad later withdrew his support and his son Khosrow I crushed the movement, but its discontent kept simmering for generations.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Mazdakism'",
+   "url": "https://www.britannica.com/topic/Mazdakism"
+  },
+  "source2": {
+   "name": "Encyclopaedia Iranica, 'IRAN ii. Iranian History (1) Pre-Islamic Times'",
+   "url": "https://www.iranicaonline.org/articles/iran-ii1-pre-islamic-times/"
+  }
+ }
+]

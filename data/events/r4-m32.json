@@ -1,0 +1,358 @@
+[
+ {
+  "id": "m32-pemulwuy-resists",
+  "era": "exploration",
+  "year": 1790,
+  "dateLabel": "December 10, 1790",
+  "cat": "power",
+  "title": "Pemulwuy Fights Back",
+  "place": "Botany Bay, Sydney, New South Wales, Australia",
+  "lat": -33.97,
+  "lng": 151.18,
+  "text": "Two years after the First Fleet arrived, the Bidjigal warrior Pemulwuy began resisting the settlers moving onto his people's land around Botany Bay. In December 1790 he was involved in the fatal wounding of the governor's gamekeeper, and from 1792 he led raids on farms. Badly wounded in 1797, he escaped capture until he was shot dead in 1802.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Pemulwuy",
+   "url": "https://www.nma.gov.au/defining-moments/resources/pemulwuy"
+  }
+ },
+ {
+  "id": "m32-bennelong-sails-to-england",
+  "era": "exploration",
+  "year": 1792,
+  "dateLabel": "December 1792",
+  "cat": "journeys",
+  "title": "Bennelong Sails to England",
+  "place": "Warrane (Sydney Cove), New South Wales, Australia",
+  "lat": -33.86,
+  "lng": 151.21,
+  "text": "In December 1792 the Wangal man Bennelong and his younger relative Yemmerawannie sailed with Governor Arthur Phillip to England, the first Aboriginal people known to visit. They went to theatres and had their portraits painted, but Yemmerawannie fell sick and died there. Suffering from the cold and homesickness, Bennelong finally reached home in September 1795.",
+  "source": {
+   "name": "Australian Dictionary of Biography (Emma Dortins): Bennelong (1764–1813)",
+   "url": "https://adb.anu.edu.au/biography/bennelong-1769"
+  }
+ },
+ {
+  "id": "m32-norfolk-voyage-van-diemens-land",
+  "era": "exploration",
+  "year": 1798,
+  "dateLabel": "October 7, 1798 – January 12, 1799",
+  "cat": "journeys",
+  "title": "Sailing Around Van Diemen's Land",
+  "place": "Derwent estuary and Mount Wellington, Tasmania, Australia",
+  "lat": -42.9,
+  "lng": 147.24,
+  "text": "On 7 October 1798, surgeon George Bass and Matthew Flinders set out in the Norfolk, a 25-ton sloop built on Norfolk Island, to prove Bass's hunch that a strait separated the mainland from Van Diemen's Land. They sailed through it and back around the south, exploring the Derwent estuary, where Bass climbed Mount Wellington on Christmas Day.",
+  "source": {
+   "name": "Australian Dictionary of Biography: George Bass (1771–1803)",
+   "url": "https://adb.anu.edu.au/biography/bass-george-1748"
+  }
+ },
+ {
+  "id": "m32-castle-hill-rebellion",
+  "era": "industrial",
+  "year": 1804,
+  "dateLabel": "March 4, 1804",
+  "cat": "power",
+  "title": "Death or Liberty at Castle Hill",
+  "place": "Castle Hill, Sydney, New South Wales, Australia",
+  "lat": -33.73,
+  "lng": 151,
+  "text": "On the night of 4 March 1804, a hut was set alight at the Castle Hill Government Farm as a signal. Led by Irishmen, around 300 convicts overpowered their guards, crying 'Death or Liberty', and planned to seize Parramatta and Sydney and return to Ireland. Troops crushed Australia's first uprising, and an estimated 39 convicts died in the fighting and punishments.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Castle Hill Rebellion",
+   "url": "https://www.nma.gov.au/defining-moments/resources/castle-hill-rebellion"
+  }
+ },
+ {
+  "id": "m32-founding-of-perth",
+  "era": "industrial",
+  "year": 1829,
+  "dateLabel": "August 12, 1829",
+  "cat": "daily",
+  "title": "An Axe Instead of a Stone",
+  "place": "Perth, Western Australia, Australia",
+  "lat": -31.95,
+  "lng": 115.86,
+  "text": "On 12 August 1829, a party travelled through the bush to lay a foundation stone for Perth, capital of the new Swan River Colony on Whadjuk country. Finding no suitable stones, Helena Dance, the only woman in the party, marked the occasion by cutting a tree with an axe. It was Australia's first free-settler colony set up with private money.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Founding of Perth",
+   "url": "https://www.nma.gov.au/defining-moments/resources/founding-of-perth"
+  }
+ },
+ {
+  "id": "m32-myall-creek-trials",
+  "era": "industrial",
+  "year": 1838,
+  "dateLabel": "June 10, 1838",
+  "cat": "power",
+  "title": "Justice After Myall Creek",
+  "place": "Myall Creek station, near Bingara, New South Wales, Australia",
+  "lat": -29.78,
+  "lng": 150.72,
+  "text": "Just before sunset on 10 June 1838, a group of armed convicts, ex-convicts and one settler led away Wirrayaraay people who had camped at Myall Creek station seeking safety; the remains of at least 28 people were later found. Unusually, the crime was investigated. In December seven men were hanged, the first British subjects executed for massacring First Nations people.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Myall Creek massacre",
+   "url": "https://www.nma.gov.au/defining-moments/resources/myall-creek-massacre"
+  }
+ },
+ {
+  "id": "m32-eight-hour-day",
+  "era": "industrial",
+  "year": 1856,
+  "dateLabel": "April 21, 1856",
+  "cat": "daily",
+  "title": "Stonemasons Win the Eight-Hour Day",
+  "place": "Melbourne, Victoria, Australia",
+  "lat": -37.81,
+  "lng": 144.96,
+  "text": "On 21 April 1856, Melbourne stonemasons downed tools and walked off the job because their employers refused to cut working hours. The strike brought the bosses to the table, and the masons won an agreement to work no more than eight hours a day. Workers celebrated in a popular ditty: eight hours to work, eight hours to play, eight hours to sleep.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Eight-hour day",
+   "url": "https://www.nma.gov.au/defining-moments/resources/eight-hour-day"
+  }
+ },
+ {
+  "id": "m32-aboriginal-cricket-team",
+  "era": "industrial",
+  "year": 1868,
+  "dateLabel": "1868",
+  "cat": "culture",
+  "title": "Australia's First Touring Cricket Team",
+  "place": "Lake Wallace station, near Edenhope, Victoria, Australia",
+  "lat": -37.04,
+  "lng": 141.29,
+  "text": "In 1868 thirteen Jardwadjali, Gunditjmara and Wotjobaluk men, stockmen who had learned cricket on western Victorian stations, became the first Australian cricket team to tour England. Between May and October they played 47 matches, winning 14, losing 14 and drawing 19. The star was all-rounder Unaarrimin, also known as Johnny Mullagh, who took 245 wickets.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Aboriginal cricket team",
+   "url": "https://www.nma.gov.au/defining-moments/resources/aboriginal-cricket-team"
+  }
+ },
+ {
+  "id": "m32-overland-telegraph",
+  "era": "industrial",
+  "year": 1872,
+  "dateLabel": "August 22, 1872",
+  "cat": "discovery",
+  "title": "A Wire Through the Red Centre",
+  "place": "Frews Ponds, Northern Territory, Australia",
+  "lat": -17,
+  "lng": 133.5,
+  "text": "On 22 August 1872, workers joined the northern and southern halves of the Overland Telegraph at Frews Ponds. Its 36,000 poles linked Port Augusta with Darwin, along a route that partly followed an Aboriginal trade route used for millennia. Once it was connected to an undersea cable from Java, news that had taken months to reach England could travel in hours.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Overland telegraph",
+   "url": "https://www.nma.gov.au/defining-moments/resources/overland-telegraph"
+  }
+ },
+ {
+  "id": "m32-hannan-kalgoorlie-gold",
+  "era": "industrial",
+  "year": 1893,
+  "dateLabel": "June 10–17, 1893",
+  "cat": "daily",
+  "title": "Paddy Hannan's Bag of Gold",
+  "place": "Kalgoorlie, Western Australia, Australia",
+  "lat": -30.75,
+  "lng": 121.47,
+  "text": "On 10 June 1893, prospectors Paddy Hannan, Thomas Flanagan and Dan O'Shea found gold near the surface of the dry red soil east of Coolgardie. Working in secret, each won the equivalent of several years' wages in a week. On 17 June Hannan rode into Coolgardie with about 100 ounces of gold, and the next morning the rush to Kalgoorlie began.",
+  "source": {
+   "name": "Australian Dictionary of Biography: Patrick Hannan",
+   "url": "https://adb.anu.edu.au/biography/hannan-patrick-6554"
+  }
+ },
+ {
+  "id": "m32-sa-womens-suffrage",
+  "era": "industrial",
+  "year": 1894,
+  "dateLabel": "December 18, 1894",
+  "cat": "power",
+  "title": "Votes and Seats for Women",
+  "place": "Adelaide, South Australia, Australia",
+  "lat": -34.92,
+  "lng": 138.6,
+  "text": "On 18 December 1894, South Australia's parliament gave women both the vote and the right to stand for parliament, making the colony the first electorate in the world with equal political rights for men and women. Campaigners such as Mary Lee and Mary Colton had gathered a petition with more than 11,600 signatures, around 400 feet long with its pages glued end to end.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Women's suffrage",
+   "url": "https://www.nma.gov.au/defining-moments/resources/womens-suffrage"
+  }
+ },
+ {
+  "id": "m32-naming-of-canberra",
+  "era": "industrial",
+  "year": 1913,
+  "dateLabel": "March 12, 1913",
+  "cat": "power",
+  "title": "A Capital Gets Its Name",
+  "place": "Capital Hill, Canberra, Australian Capital Territory, Australia",
+  "lat": -35.31,
+  "lng": 149.12,
+  "text": "At a ceremony on 12 March 1913, Lady Denman announced the name of Australia's new federal capital: Canberra, with the stress on the first syllable. The district was already known by that name, derived from the Ngunnawal/Kamberri people whose country it is. Over 4000 spectators watched, but real construction of the city did not get going until the 1920s.",
+  "source": {
+   "name": "National Archives of Australia: Lady Denman, wife of the Governor-General, names Canberra",
+   "url": "https://www.naa.gov.au/students-and-teachers/learning-resources/learning-resource-themes/government-and-democracy/federation/lady-denman-wife-governor-general-names-canberra"
+  }
+ },
+ {
+  "id": "m32-aerial-medical-service",
+  "era": "modern",
+  "year": 1928,
+  "dateLabel": "1928",
+  "cat": "daily",
+  "title": "A Doctor Who Flies In",
+  "place": "Cloncurry, Queensland, Australia",
+  "lat": -20.71,
+  "lng": 140.51,
+  "text": "In 1928 John Flynn's Australian Inland Mission set up its Aerial Medical Service at Cloncurry, bringing medical help by air to remote outback homes. Flynn's mission had started with one nursing sister, one padre, a nursing hostel and five camels. In 1929 Alfred Traeger's pedal radio completed Flynn's vision of a 'canopy' of safety for the inland.",
+  "source": {
+   "name": "Australian Dictionary of Biography: John Flynn",
+   "url": "https://adb.anu.edu.au/biography/flynn-john-6200"
+  }
+ },
+ {
+  "id": "m32-day-of-mourning",
+  "era": "modern",
+  "year": 1938,
+  "dateLabel": "January 26, 1938",
+  "cat": "power",
+  "title": "A Day of Mourning",
+  "place": "Australian Hall, Elizabeth Street, Sydney, New South Wales, Australia",
+  "lat": -33.88,
+  "lng": 151.21,
+  "text": "While Sydney celebrated 150 years since the British arrival, Aboriginal people met at the Australian Hall on 26 January 1938 and declared the day a Day of Mourning for their lost land, freedom and kin. Organised by Jack Patten, William Ferguson and William Cooper, it was the first time Aboriginal activist groups from different states had fully worked together.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Day of Mourning",
+   "url": "https://www.nma.gov.au/defining-moments/resources/day-of-mourning"
+  }
+ },
+ {
+  "id": "m32-snowy-mountains-scheme",
+  "era": "modern",
+  "year": 1949,
+  "dateLabel": "October 17, 1949",
+  "cat": "journeys",
+  "title": "Migrants Build the Snowy Scheme",
+  "place": "Adaminaby, Snowy Mountains, New South Wales, Australia",
+  "lat": -35.99,
+  "lng": 148.77,
+  "text": "On 17 October 1949, Prime Minister Ben Chifley and other leaders fired the first blast at Adaminaby to begin the Snowy Mountains Hydro-Electric Scheme. More than 100,000 people worked on it before its official opening in 1972, and migrants from more than 30 nations made up about 65 per cent of the workforce. Sadly, 121 men were killed in industrial accidents.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Snowy Mountains Hydro",
+   "url": "https://www.nma.gov.au/defining-moments/resources/snowy-mountains-hydro"
+  }
+ },
+ {
+  "id": "m32-yirrkala-bark-petitions",
+  "era": "modern",
+  "year": 1963,
+  "dateLabel": "August 1963",
+  "cat": "culture",
+  "title": "Petitions Painted on Bark",
+  "place": "Yirrkala, Arnhem Land, Northern Territory, Australia",
+  "lat": -12.25,
+  "lng": 136.89,
+  "text": "When land near Yirrkala was cut from their reserve for bauxite mining without telling them, the Yolngu petitioned Parliament in August 1963. The text, typed in English and Yolngu Matha, was pasted onto bark, and senior artists painted clan designs in ochre, charcoal and pipeclay around it to show their ownership. The Yolngu call them Näku Dhäruk: bark, and word or message.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Näku Dhäruk – Yirrkala bark petitions",
+   "url": "https://www.nma.gov.au/defining-moments/resources/yirrkala-bark-petitions"
+  }
+ },
+ {
+  "id": "m32-parkes-apollo-11",
+  "era": "modern",
+  "year": 1969,
+  "dateLabel": "July 21, 1969 (AEST)",
+  "cat": "discovery",
+  "title": "Moonwalk Pictures via Parkes",
+  "place": "Parkes Observatory (Murriyang), New South Wales, Australia",
+  "lat": -33,
+  "lng": 148.26,
+  "text": "At 12.56 pm on 21 July 1969, Australian time, 600 million people watched Neil Armstrong step onto the Moon. NASA's Honeysuckle Creek station near Canberra was the prime receiver, but CSIRO's Parkes radio telescope, Murriyang, also caught the TV signals despite wind gusts of 110 km per hour. NASA chose its images for the following two hours and 12 minutes.",
+  "source": {
+   "name": "CSIRO: Apollo 11 Moon landing",
+   "url": "https://www.csiro.au/en/about/facilities-collections/atnf/parkes-radio-telescope-murriyang/apollo-11-moon-landing"
+  }
+ },
+ {
+  "id": "m32-papunya-painters",
+  "era": "modern",
+  "year": 1971,
+  "dateLabel": "1971",
+  "cat": "culture",
+  "title": "Desert Stories in Acrylic",
+  "place": "Papunya, Northern Territory, Australia",
+  "lat": -23.21,
+  "lng": 131.92,
+  "text": "In 1971 men at Papunya, a government settlement west of Alice Springs, began painting their traditional designs with acrylic paint on small boards. That August, Kaapa Tjampitjinpa became the first Aboriginal Australian to win a contemporary art award, and over the following months more than 600 paintings were sold. The Western Desert art movement had begun.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Papunya Tula",
+   "url": "https://www.nma.gov.au/defining-moments/resources/papunya-tula"
+  }
+ },
+ {
+  "id": "m32-cyclone-tracy",
+  "era": "modern",
+  "year": 1974,
+  "dateLabel": "December 25, 1974",
+  "cat": "nature",
+  "title": "Cyclone Tracy Hits Darwin",
+  "place": "Darwin, Northern Territory, Australia",
+  "lat": -12.42,
+  "lng": 130.84,
+  "text": "In the small hours of Christmas Day 1974, Cyclone Tracy crossed the coast near Fannie Bay, with gusts reaching 217 km/h before the wind gauge was destroyed. It killed 66 people and devastated 80 per cent of Darwin. Red Cross leader Joan Allridge sheltered under her kitchen table with two other adults, six children, a cat, four kittens, a dog and three birds.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Cyclone Tracy",
+   "url": "https://www.nma.gov.au/defining-moments/resources/cyclone-tracy"
+  }
+ },
+ {
+  "id": "m32-bionic-ear",
+  "era": "modern",
+  "year": 1978,
+  "dateLabel": "August 1, 1978",
+  "cat": "discovery",
+  "title": "The Bionic Ear",
+  "place": "Melbourne, Victoria, Australia",
+  "lat": -37.81,
+  "lng": 144.97,
+  "text": "On 1 August 1978, Professor Graeme Clark of the University of Melbourne, inspired by his father's struggle with deafness, implanted a prototype bionic ear in Rod Saunders, who was totally deaf. It became the first cochlear implant to reliably give speech understanding to severely and profoundly deaf people. Clark later recalled going next door and bursting into tears of joy.",
+  "source": {
+   "name": "Bionics Institute: Professor Graeme Clark AC",
+   "url": "https://www.bionicsinstitute.org/about/professor-graeme-clark-ac/"
+  },
+  "source2": {
+   "name": "National Museum of Australia: Bionic ear prototype",
+   "url": "https://www.nma.gov.au/explore/collection/highlights/bionic-ear-prototype"
+  }
+ },
+ {
+  "id": "m32-franklin-blockade",
+  "era": "modern",
+  "year": 1982,
+  "dateLabel": "December 1982",
+  "cat": "nature",
+  "title": "No Dams on the Franklin",
+  "place": "Franklin and Gordon rivers, Tasmania, Australia",
+  "lat": -42.3,
+  "lng": 145.75,
+  "text": "In December 1982 protesters blocked access to the site where Tasmania's Hydro-Electric Commission planned a dam that would flood the wild Franklin River. Bob Brown recalled some 6,000 people registering to help and nearly 1,500 being arrested. The campaign saved a key wilderness area and eventually led to the Greens forming as a federal political party.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Franklin Dam and the Greens",
+   "url": "https://www.nma.gov.au/defining-moments/resources/franklin-dam-greens"
+  }
+ },
+ {
+  "id": "m32-cathy-freeman-gold",
+  "era": "modern",
+  "year": 2000,
+  "dateLabel": "September 25, 2000",
+  "cat": "culture",
+  "title": "Cathy Freeman's Golden Run",
+  "place": "Stadium Australia, Sydney Olympic Park, New South Wales, Australia",
+  "lat": -33.85,
+  "lng": 151.06,
+  "text": "Ten days after lighting the Olympic cauldron, standing in a pool of water as it rose around her, Cathy Freeman won the women's 400 metres at the Sydney Olympics on 25 September 2000. Born in Mackay to a Kuku Yalanji mother and a Birra Gubba father, she said running at its best felt 'like there are ants in your blood'.",
+  "source": {
+   "name": "National Museum of Australia: Defining Moments, Cathy Freeman",
+   "url": "https://www.nma.gov.au/defining-moments/resources/cathy-freeman"
+  }
+ }
+]

@@ -1,0 +1,410 @@
+[
+ {
+  "id": "z06-mehrgarh-lost-wax-wheel",
+  "era": "ancient",
+  "year": -4000,
+  "dateLabel": "About 4000 BCE",
+  "cat": "discovery",
+  "title": "The First Thing Ever Cast From Wax",
+  "place": "Mehrgarh, Kachi Plain, Balochistan, Pakistan",
+  "lat": 29.39,
+  "lng": 67.61,
+  "text": "A copper charm no wider than a coin, shaped like a six-spoked wheel, turned up at Mehrgarh in 1985. Its spokes cross in ways no open mould could make, so its maker first modelled it from wax rods, packed clay around it, melted the wax out and poured in copper. About 6,000 years old, it is the oldest known lost-wax casting, made of unusually pure, probably native, copper.",
+  "source": {
+   "name": "Nature Communications (PMC): High spatial dynamics-photoluminescence imaging reveals the metallurgy of the earliest lost-wax cast object",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5116070/"
+  }
+ },
+ {
+  "id": "z06-harappa-pigs-on-the-move",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2300 BCE",
+  "cat": "journeys",
+  "title": "Pigs That Rode Across the Indus",
+  "place": "Harappa, Sahiwal, Punjab, Pakistan",
+  "lat": 30.63,
+  "lng": 72.87,
+  "text": "Indus streets bear cart ruts, and clay toy carts are common, but did animals travel far? Scientists read strontium in the tooth enamel of cattle, buffalo, sheep and pigs from thirteen sites. Most beasts grew up near where they died. The surprise was pigs: several at Harappa, and one at Rakhigarhi, came from distant regions, probably shipped alive as cargo rather than walking.",
+  "source": {
+   "name": "Scientific Reports (PMC): Animal movement on the hoof and on the cart and its implications for understanding exchange within the Indus Civilisation",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10762248/"
+  }
+ },
+ {
+  "id": "z06-bubog-porcupinefish",
+  "era": "iceage",
+  "year": -11000,
+  "dateLabel": "About 13,000 years ago",
+  "cat": "daily",
+  "title": "Dining Safely on a Poisonous Fish",
+  "place": "Bubog and Bilat sites, Ilin Island and Mindoro, Occidental Mindoro, Philippines",
+  "lat": 12.23,
+  "lng": 121.07,
+  "text": "Porcupinefish puff up into spiky balls, and parts of them carry a deadly toxin. Yet foragers on Ilin Island and Mindoro kept catching them from about 13,000 years ago. Charred spines and jaws show the fish were carried whole back to cave and rock-shelter camps, not cleaned at the shore. Eating them again and again means people knew how to separate the poison from the edible flesh.",
+  "source": {
+   "name": "Animals (PMC): The Exploitation of Toxic Fish from the Terminal Pleistocene in Maritime Southeast Asia: A Case Study from the Mindoro Archaeological Sites, Philippines",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10339915/"
+  }
+ },
+ {
+  "id": "z06-tam-hang-tooth-ablation",
+  "era": "iceage",
+  "year": -13700,
+  "dateLabel": "About 15,700 years ago",
+  "cat": "culture",
+  "title": "Missing Teeth in a Laotian Rock Shelter",
+  "place": "Tam Hang rock shelter, Pa Hang mountain, Houaphanh Province, Laos",
+  "lat": 20.4,
+  "lng": 104.03,
+  "text": "In 1934 geologist Jacques Fromaget dug at Tam Hang, high in the hills of northern Laos, and found seventeen human skulls. Decades later a rib was radiocarbon dated to about 15,700 years ago. Six of the people had teeth deliberately removed, a custom called tooth ablation, making them among the oldest known examples anywhere in eastern Asia. Fromaget's tools, sadly, have been lost.",
+  "source": {
+   "name": "Comptes Rendus Palevol (MNHN): The place of Tam Hang in Southeast Asian human evolution",
+   "url": "https://sciencepress.mnhn.fr/sites/default/files/articles/xml/comptes-rendus-palevol2012v11f2-3a04.xml"
+  }
+ },
+ {
+  "id": "z06-bhando-qubo-pearl-millet",
+  "era": "ancient",
+  "year": -2470,
+  "dateLabel": "About 2500 BCE",
+  "cat": "journeys",
+  "title": "An African Grain on the Indus",
+  "place": "Bhando Qubo, near Rato Dero, Larkana, Sindh, Pakistan",
+  "lat": 27.8,
+  "lng": 68.32,
+  "text": "Pearl millet was first tamed in West Africa's Sahel. Yet charred grains dug up in 2019 at Bhando Qubo, a Harappan town in Sindh, were radiocarbon dated to about 2578 to 2356 BCE. They are as old as the earliest domesticated pearl millet known in Africa itself, and the oldest directly dated grains anywhere, showing the crop crossed to South Asia five centuries earlier than thought.",
+  "source": {
+   "name": "Scientific Reports (PMC): New evidence reveals dispersal of pearl millet from West Africa to South Asia by 2500 BCE",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12464294/"
+  }
+ },
+ {
+  "id": "z06-con-co-ngua-thalassemia",
+  "era": "ancient",
+  "year": -4600,
+  "dateLabel": "About 4800 to 4200 BCE",
+  "cat": "nature",
+  "title": "Malaria's Mark on Vietnam's Foragers",
+  "place": "Con Co Ngua, Thanh Hoa Province, Vietnam",
+  "lat": 20.03,
+  "lng": 105.85,
+  "text": "Thalassemia is an inherited blood disorder that also guards against malaria, and today it is very common in Southeast Asia. Scientists long assumed farming drove the rise of malaria there. But skeletons from Con Co Ngua, a hunter-gatherer cemetery in northern Vietnam used about 6,800 to 6,200 years ago, show signs of thalassemia, so it took hold before farming even arrived.",
+  "source": {
+   "name": "Scientific Reports (PMC): Forager and farmer evolutionary adaptations to malaria evidenced by 7000 years of thalassemia in Southeast Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7952380/"
+  },
+  "source2": {
+   "name": "PLOS ONE (PMC): Skeletal trauma in northern Vietnam during the hunter-gatherer Da But period",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6726200/"
+  }
+ },
+ {
+  "id": "z06-hang-trong-far-stones",
+  "era": "iceage",
+  "year": -20000,
+  "dateLabel": "About 38,000 to 18,000 years ago",
+  "cat": "journeys",
+  "title": "Toolstones Carried Through the Karst",
+  "place": "Hang Trong cave, Tràng An, Ninh Bình Province, Vietnam",
+  "lat": 20.25,
+  "lng": 105.89,
+  "text": "Most stone tools in the caves of Tràng An were knapped from local limestone. Yet about one in five at Hang Trong, in layers dated between roughly 38,000 and 18,000 years ago, are igneous rock, much of it andesite. None occurs among Tràng An's limestone towers: the nearest known source lies about 35 kilometres away, so Ice Age foragers carried their toolstone a long way.",
+  "source": {
+   "name": "PLOS ONE (PMC): Geochemical fingerprinting of Pleistocene stone tools from the Tràng An Landscape Complex, Ninh Bình Province, Vietnam",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9216604/"
+  }
+ },
+ {
+  "id": "z06-torongan-first-landing",
+  "era": "ancient",
+  "year": -1800,
+  "dateLabel": "About 2000 to 1000 BCE",
+  "cat": "journeys",
+  "title": "First Footprints on the Batanes Islands",
+  "place": "Torongan Cave, east coast of Itbayat, Batanes, Philippines",
+  "lat": 20.76,
+  "lng": 121.87,
+  "text": "The Batanes Islands sit in the strait between Taiwan and Luzon. Their oldest known archaeological finds come from Torongan Cave on Itbayat, whose mouth opens right at sea level, perhaps an early landing place. Inside, excavators counted nearly 300 red-slipped pottery sherds, left by settlers who lived there between about 4,000 and 3,000 years ago.",
+  "source": {
+   "name": "ANU Press, Bellwood, Dizon and Mijares: Archaeological Excavations on Itbayat and Siayan Islands",
+   "url": "https://press-files.anu.edu.au/downloads/press/p269441/html/ch02.xhtml"
+  }
+ },
+ {
+  "id": "z06-moh-khiew-sundaland-burial",
+  "era": "iceage",
+  "year": -23800,
+  "dateLabel": "About 25,800 years ago (radiocarbon)",
+  "cat": "discovery",
+  "title": "A Burial From Sundaland's Ice Age",
+  "place": "Moh Khiew Cave, Krabi Province, Thailand",
+  "lat": 8.12,
+  "lng": 98.8,
+  "text": "Human skeletons from Ice Age Southeast Asia are rare, so a well-preserved burial in Moh Khiew Cave in southern Thailand was a prize. Charcoal from the grave gave a radiocarbon age of about 25,800 years, when the region was part of the low-sea-level landmass called Sundaland. Skull and tooth measurements most resemble Ice Age Australians from Coobool Creek.",
+  "source": {
+   "name": "Homo (Europe PMC abstract): A morphometric analysis of the Late Pleistocene human skeleton from the Moh Khiew Cave in Thailand",
+   "url": "https://europepmc.org/abstract/MED/16130834"
+  }
+ },
+ {
+  "id": "z06-diem-cave-snail-middens",
+  "era": "iceage",
+  "year": -21300,
+  "dateLabel": "About 23,000 years ago",
+  "cat": "daily",
+  "title": "Snail Shell Heaps in a Glacial Cave",
+  "place": "Diêm Cave, Cúc Phương National Park, Ninh Bình, Vietnam",
+  "lat": 20.32,
+  "lng": 105.6,
+  "text": "During the coldest part of the last Ice Age, foragers in the limestone hills around the Hanoi Basin piled up heaps of land-snail shells inside Diêm Cave. The oldest layer is about 23,000 years old. The middens held some 2,200 stone tools, a bone awl and a decorated ochre object, and one layer held a woman buried in a crouched position.",
+  "source": {
+   "name": "Philosophical Transactions B (PMC): Late Pleistocene shell midden microstratigraphy in the uplands of North Vietnam",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8899622/"
+  }
+ },
+ {
+  "id": "z06-timor-turn-inland",
+  "era": "iceage",
+  "year": -18000,
+  "dateLabel": "From about 20,000 years ago",
+  "cat": "daily",
+  "title": "Island Foragers Turn Toward the Forest",
+  "place": "Asitau Kuru and Matja Kuru caves, Lautém, Timor-Leste",
+  "lat": -8.42,
+  "lng": 127.2,
+  "text": "The first people on Timor and nearby Alor leaned heavily on the sea; one individual from about 42,000 to 39,000 years ago ate plenty of coastal food. Carbon and oxygen in tooth enamel show a change from about 20,000 years ago, as forests spread across island Southeast Asia: people relied more on inland resources, though some still feasted on seafood.",
+  "source": {
+   "name": "Nature Communications (PMC): Isotopic evidence for initial coastal colonization and subsequent diversification in the human occupation of Wallacea",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7190613/"
+  }
+ },
+ {
+  "id": "z06-hoa-huong-stalagmite",
+  "era": "iceage",
+  "year": -12000,
+  "dateLabel": "About 14,000 years ago",
+  "cat": "nature",
+  "title": "A Stalagmite Records Vietnam's Rains Returning",
+  "place": "Hoa Huong cave, Phong Nha-Ke Bang National Park, Quảng Bình, Vietnam",
+  "lat": 17.5,
+  "lng": 106.2,
+  "text": "A broken stalagmite 3.7 metres long, from Hoa Huong cave, holds 41,000 years of central Vietnam's weather. It shows a long dry spell through the Ice Age's peak, when low seas exposed land in the Gulf of Tonkin and starved the autumn monsoon of moisture. About 14,000 years ago, as rising water flooded that land, the region abruptly turned wet.",
+  "source": {
+   "name": "PNAS (PMC): Glacial changes in sea level modulated millennial-scale variability of Southeast Asian autumn monsoon rainfall",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10319016/"
+  }
+ },
+ {
+  "id": "z06-badahlin-first-luminescence",
+  "era": "iceage",
+  "year": -28000,
+  "dateLabel": "About 30,000 years ago",
+  "cat": "discovery",
+  "title": "Myanmar's Caves Get Older",
+  "place": "Badahlin (Padah-lin) Cave, Ywangan, Shan State, Myanmar",
+  "lat": 21.1,
+  "lng": 96.48,
+  "text": "Old Stone Age tools had been dug from Badahlin and Gu Myaung caves in Myanmar, but how old were they? In 2019 a team produced the country's first luminescence dates, measuring the light trapped in single feldspar grains from the sediment. People were living at Badahlin by about 30,000 years ago and at Gu Myaung by about 25,000, far older than Gu Myaung's radiocarbon dates suggested.",
+  "source": {
+   "name": "University of Washington Anthropology: pIRIR and IR-RF dating of archaeological deposits at Badahlin and Gu Myaung Caves (Quaternary Geochronology)",
+   "url": "https://anthropology.washington.edu/research/publications/first-luminescence-ages-myanmar"
+  }
+ },
+ {
+  "id": "z06-kathmandu-ice-age-lake",
+  "era": "iceage",
+  "year": -28000,
+  "dateLabel": "About 30,000 years ago",
+  "cat": "nature",
+  "title": "When Kathmandu Lay Under a Lake",
+  "place": "Kathmandu Basin, Bagmati Province, Nepal",
+  "lat": 27.7,
+  "lng": 85.32,
+  "text": "Nepal's capital stands on the bed of a vanished lake. Muddy lake sediments buried under the slopes at the edge of the Kathmandu basin date to about 30,000 years ago, when the water rose to some 1,400 to 1,440 metres and covered almost the whole valley. Soon afterwards the Bagmati River began draining it, the only outlet researchers could find.",
+  "source": {
+   "name": "Himalayan Journal of Sciences (NepJOL): Expansion of an ancient lake in the Kathmandu basin of Nepal during the Late Pleistocene",
+   "url": "https://www.nepjol.info/index.php/HJS/article/view/981"
+  }
+ },
+ {
+  "id": "z06-sundarbans-ice-age-water",
+  "era": "iceage",
+  "year": -20000,
+  "dateLabel": "About 20,000 years ago",
+  "cat": "nature",
+  "title": "Ice Age Rain Hidden Under the Sundarbans",
+  "place": "Pusur River, Khulna to the Sundarbans, Bangladesh",
+  "lat": 22.3,
+  "lng": 89.6,
+  "text": "Coastal Bangladesh is short of fresh water, yet electrical soundings along the Pusur River found huge fresh aquifers reaching 800 metres deep. They probably filled during the last Ice Age, when sea level was up to 120 metres lower and the Bengal shoreline lay 150 to 200 kilometres offshore. Rising seas later sealed them under a stiff ancient clay soil.",
+  "source": {
+   "name": "Nature Communications (PMC): Buried deep freshwater reserves beneath salinity-stressed coastal Bangladesh",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12663281/"
+  }
+ },
+ {
+  "id": "z06-belan-valley-crowded",
+  "era": "iceage",
+  "year": -10000,
+  "dateLabel": "About 12,000 years ago",
+  "cat": "daily",
+  "title": "A Crowded Valley at the Ice Age's End",
+  "place": "Belan Valley, Prayagraj District, Uttar Pradesh, India",
+  "lat": 24.98,
+  "lng": 82.03,
+  "text": "As the last Ice Age ended, hunters, fishers and foragers were well established on India's low plains. Surveys have counted perhaps more than 100 sites of this age in the Belan Valley and about 100 in the Son Valley, and 204 Mesolithic sites in the middle Ganges region, 177 of them in Pratapgarh district alone, though older dating methods call for caution.",
+  "source": {
+   "name": "PLOS ONE (PMC): Early to Mid-Holocene land use transitions in South Asia: A new archaeological synthesis",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11819507/"
+  }
+ },
+ {
+  "id": "z06-fahien-return",
+  "era": "iceage",
+  "year": -11000,
+  "dateLabel": "About 13,000 to 12,000 years ago",
+  "cat": "daily",
+  "title": "Back to the Cave After 20,000 Years",
+  "place": "Fa-Hien Lena Cave, Yatagampitiya, Kalutara District, Sri Lanka",
+  "lat": 6.63,
+  "lng": 80.2,
+  "text": "Fa-Hien Lena's layers jump a 20,000-year gap. When people returned to this big rainforest cave about 13,000 to 12,000 years ago, they left its densest pile of debris: charcoal, burned bone and snail shell, and about 2,700 stone artefacts. Their quartz-knapping methods matched those of the cave's first users, and one core was even smeared with red ochre.",
+  "source": {
+   "name": "PLOS ONE (PMC): Microliths in the South Asian rainforest ~45-4 ka: New insights from Fa-Hien Lena Cave, Sri Lanka",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6774521/"
+  }
+ },
+ {
+  "id": "z06-piklihal-horsegram",
+  "era": "ancient",
+  "year": -1750,
+  "dateLabel": "About 1900 to 1600 BCE",
+  "cat": "discovery",
+  "title": "X-Raying a Bean's Path to the Farm",
+  "place": "Piklihal, Raichur District, Karnataka, India",
+  "lat": 16.05,
+  "lng": 76.48,
+  "text": "Wild horsegram, a hardy Indian bean, has a thick, hard seed coat that keeps most seeds from sprouting. Scientists scanned charred seeds from Southern Neolithic villages with a synchrotron, without cutting them. Seeds from Piklihal, about 1900 to 1600 BCE, still had thick or intermediate coats, and the coats thinned between 2000 and 1200 BCE as cultivation went on.",
+  "source": {
+   "name": "Scientific Reports (PMC): Seed coat thinning during horsegram domestication documented through synchrotron tomography of archaeological seeds",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5511171/"
+  }
+ },
+ {
+  "id": "z06-lahuradewa-rice-debate",
+  "era": "ancient",
+  "year": -6400,
+  "dateLabel": "7th millennium BCE",
+  "cat": "daily",
+  "title": "Wild or Tame? Lahuradewa's Early Rice",
+  "place": "Lahuradewa, Sant Kabir Nagar District, Uttar Pradesh, India",
+  "lat": 26.77,
+  "lng": 82.95,
+  "text": "People were living at Lahuradewa on the Ganges plain, at least seasonally, by the 7th millennium BCE, and rice turns up in their earliest layers. Excavators argued some grains were already domesticated. Critics counter that the grains look closer to wild or unripe rice, that early dates came from bulk charcoal, and that every animal bone there is wild. Was this farming or gathering?",
+  "source": {
+   "name": "PLOS ONE (PMC): Early to Mid-Holocene land use transitions in South Asia: A new archaeological synthesis",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11819507/"
+  }
+ },
+ {
+  "id": "z06-damdama-settled-foragers",
+  "era": "ancient",
+  "year": -4000,
+  "dateLabel": "About 6,000 years ago",
+  "cat": "daily",
+  "title": "Hunters Who Stayed Put on the Ganges",
+  "place": "Damdama, Pratapgarh District, Uttar Pradesh, India",
+  "lat": 25.98,
+  "lng": 82.19,
+  "text": "Foragers are usually pictured on the move, but on the Ganges plain they settled down beside lakes and streams at sites such as Damdama, Mahadaha and Sarai Nahar Rai. They built huts with plastered floors, used heavy grinding stones, hunted in more than one season and buried their dead again and again. Worn teeth show a coarse, wild diet.",
+  "source": {
+   "name": "PLOS ONE (PMC): Early to Mid-Holocene land use transitions in South Asia: A new archaeological synthesis",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11819507/"
+  }
+ },
+ {
+  "id": "z06-inamgaon-hard-times",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1600 to 700 BCE",
+  "cat": "daily",
+  "title": "When Inamgaon's Farms Turned Salty",
+  "place": "Inamgaon, Shirur, Pune District, Maharashtra, India",
+  "lat": 18.59,
+  "lng": 74.54,
+  "text": "Inamgaon, a Chalcolithic village on the Deccan, mixed farming with herding, hunting, fishing and foraging from about 1600 BCE. Over time, unsustainable farming and salty soils wore the land down, and eventually people shifted away from agriculture. Their skeletons show the cost of that change, which fell hardest on babies.",
+  "source": {
+   "name": "PNAS (PMC): Climate change, human health, and resilience in the Holocene",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9942907/"
+  },
+  "source2": {
+   "name": "Data in Brief (PMC): Human tooth enamel stable isotope dataset from chalcolithic Inamgaon (India)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8717445/"
+  }
+ },
+ {
+  "id": "z06-dabli-vas-chugta-village-potters",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2600 to 1900 BCE",
+  "cat": "culture",
+  "title": "Village Potters of the Indus Age",
+  "place": "Dabli-vas Chugta, Hanumangarh District, Rajasthan, India",
+  "lat": 29.42,
+  "lng": 74.2,
+  "text": "Most Indus people probably lived in villages, not cities. At small sites like Dabli-vas Chugta, near Kalibangan, potters made city-style dish-on-stands and perforated jars from local clays. Many coiled pots by hand and only finished the rims on the wheel, a skill needing long training, and here they painted floral designs rarely seen on Indus pottery of that time.",
+  "source": {
+   "name": "World Archaeology (PMC): 'We are inheritors of a rural civilisation': rural complexity and the ceramic economy in the Indus Civilisation",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7643715/"
+  }
+ },
+ {
+  "id": "z06-ban-chiang-ancestry",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1500 to 400 BCE",
+  "cat": "journeys",
+  "title": "Whose Ancestors Lived at Ban Chiang?",
+  "place": "Ban Chiang, Udon Thani Province, Thailand",
+  "lat": 17.41,
+  "lng": 103.24,
+  "text": "Ancient DNA from people buried at Ban Chiang, between about 3,500 and 2,400 years ago, was compared with genomes from across Asia. They share the most ancestry with today's Austroasiatic speakers, such as the Mlabri and Htin of Thailand, as do Neolithic villagers at Mán Bạc in Vietnam, suggesting farmers related to these groups spread widely across mainland Southeast Asia.",
+  "source": {
+   "name": "Science (PMC): Ancient genomes document multiple waves of migration in Southeast Asian prehistory",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6476732/"
+  }
+ },
+ {
+  "id": "z06-niah-neolithic-cemetery",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1500 to 200 BCE",
+  "cat": "culture",
+  "title": "The Great Cemetery in Niah's West Mouth",
+  "place": "West Mouth, Niah Great Cave, Sarawak, Malaysia",
+  "lat": 3.81,
+  "lng": 113.78,
+  "text": "For more than a thousand years, from about 1500 to 200 BCE, the mouth of Niah's Great Cave in Borneo served as a burial ground, the largest Neolithic cemetery in Southeast Asia, with 170 burials. Around 1000 BCE, mourners switched from burying whole bodies to reburying bones, a custom that later grew into cremation, perhaps as wealth allowed grander funerals.",
+  "source": {
+   "name": "Proceedings of the Prehistoric Society (Cambridge Core): The West Mouth Neolithic Cemetery, Niah Cave, Sarawak",
+   "url": "https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/west-mouth-neolithic-cemetery-niah-cave-sarawak/F45B5C4B5E0B0A5F71AF6341A73B9174"
+  }
+ },
+ {
+  "id": "z06-nagsabaran-first-pots",
+  "era": "ancient",
+  "year": -2900,
+  "dateLabel": "About 3400 to 2300 BCE",
+  "cat": "discovery",
+  "title": "Did Pottery Sail South From Taiwan?",
+  "place": "Nagsabaran, Lal-lo, Cagayan, Philippines",
+  "lat": 18.13,
+  "lng": 121.67,
+  "text": "The classic story says pottery-making farmers sailed from Taiwan to Luzon, then spread south. A statistical study of radiocarbon dates from 20 sites put Luzon's first pottery, including red-slipped, stamped and dentate wares at the Nagsabaran shell midden, between about 5,430 and 4,290 years ago. That is about the same time as western Borneo, hinting at movements from several directions.",
+  "source": {
+   "name": "PLOS ONE (PMC): Radiocarbon chronologies for initial pottery in Island Southeast Asia support multi-directional Neolithic dispersal",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8171956/"
+  }
+ }
+]

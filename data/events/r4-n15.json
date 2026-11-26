@@ -1,0 +1,278 @@
+[
+ {
+  "id": "n15-ohthere-north-cape",
+  "era": "medieval",
+  "year": 890,
+  "dateLabel": "About 890 CE",
+  "cat": "journeys",
+  "title": "Ottar Tells a King About the North",
+  "place": "Troms, northern Norway",
+  "lat": 69.65,
+  "lng": 18.96,
+  "text": "About 890 CE, Ottar (Ohthere), a chieftain from what is now Troms in Norway, told King Alfred the Great about his journeys. He had sailed round the North Cape and along the coast of Lapland to the White Sea. Ottar owned 600 tame reindeer, but his main income was tax collected from the Sámi, paid in hides and whale and seal skins.",
+  "source": {
+   "name": "Encyclopaedia Britannica: European exploration – Exploration of the Atlantic coastlines",
+   "url": "https://www.britannica.com/topic/European-exploration/Exploration-of-the-Atlantic-coastlines"
+  },
+  "source2": {
+   "name": "Sámi Parliament (Sametinget): The Sami – an Indigenous People in Sweden (timeline)",
+   "url": "https://samer.se/2844"
+  }
+ },
+ {
+  "id": "n15-oraefi-wasteland",
+  "era": "medieval",
+  "year": 1362,
+  "dateLabel": "1362",
+  "cat": "nature",
+  "title": "The Eruption That Made a Wasteland",
+  "place": "Öræfajökull, southeast Iceland",
+  "lat": 64,
+  "lng": -16.65,
+  "text": "In 1362, Öræfajökull, Iceland's highest peak, blew apart in the island's largest explosive eruption since it was settled. Rich farmland at the foot of the volcano was buried under thick ash and swept by pyroclastic flows, while meltwater floods raced down the glaciers. The area was abandoned and renamed Öræfi, meaning \"wasteland\". Its ash has been found as far away as Greenland and western Europe.",
+  "source": {
+   "name": "The Open University (McGarvie, Stevenson, Nicholls): Is Iceland's tallest volcano awakening?",
+   "url": "https://research.open.ac.uk/news/icelands-tallest-volcano-awakening"
+  },
+  "source2": {
+   "name": "Smithsonian Global Volcanism Program: Öræfajökull",
+   "url": "https://volcano.si.edu/volcano.cfm?vn=374010"
+  }
+ },
+ {
+  "id": "n15-shetland-dowry",
+  "era": "medieval",
+  "year": 1469,
+  "dateLabel": "May 1469",
+  "cat": "power",
+  "title": "Islands Mortgaged for a Dowry",
+  "place": "Lerwick, Shetland, Scotland, UK",
+  "lat": 60.15,
+  "lng": -1.15,
+  "text": "When Princess Margaret of Denmark married James III of Scotland, her father, King Christian I, couldn't afford a dowry. So he mortgaged first Orkney, then Shetland, to his new son-in-law. In May 1469 he wrote to the islanders telling them to obey the king of Scots and pay him taxes until the islands were redeemed. Christian paid them no more attention, and James annexed the islands in 1472.",
+  "source": {
+   "name": "Shetland Museum and Archives (Brian Smith): 550 Years Ago: how Shetland became part of Scotland",
+   "url": "https://www.shetlandmuseumandarchives.org.uk/blog/550-years-ago-how-shetland-became-part-of-scotland"
+  }
+ },
+ {
+  "id": "n15-willoughby-kola",
+  "era": "exploration",
+  "year": 1553,
+  "dateLabel": "1553",
+  "cat": "journeys",
+  "title": "A Fatal Winter on the Kola Coast",
+  "place": "Kola Peninsula, Murmansk Oblast, Russia",
+  "lat": 68.3,
+  "lng": 38.3,
+  "text": "In 1553 England sent three ships north-east under Sir Hugh Willoughby, searching for a sea passage to China. Willoughby, with two ships, wintered in a harbour on the Kola Peninsula, where he and all his men perished. His chief pilot, Richard Chancellor, separated in a gale, reached what is now Arkhangelsk and travelled overland to Moscow. A lucrative trade with Russia followed.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Arctic – Study and exploration",
+   "url": "https://www.britannica.com/place/Arctic/Study-and-exploration"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Richard Chancellor",
+   "url": "https://www.britannica.com/biography/Richard-Chancellor"
+  }
+ },
+ {
+  "id": "n15-shalaurov-chukchi",
+  "era": "exploration",
+  "year": 1764,
+  "dateLabel": "1764",
+  "cat": "journeys",
+  "title": "The Trader Who Vanished",
+  "place": "Arctic coast of Chukotka, Russia (exact site unknown)",
+  "lat": 69.6,
+  "lng": 170.5,
+  "text": "Russian trader Nikita Shalaurov tried to sail east from the Kolyma River to the Bering Strait in 1762, but ice stopped him. Trying again in 1764, he and his party disappeared. What happened came from the people who lived there: the Chukchi later told of finding the expedition's wintering site littered with skeletons.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Arctic – Study and exploration (The Northeast Passage)",
+   "url": "https://www.britannica.com/place/Arctic/Study-and-exploration"
+  }
+ },
+ {
+  "id": "n15-cook-bering-strait",
+  "era": "exploration",
+  "year": 1778,
+  "dateLabel": "1778",
+  "cat": "journeys",
+  "title": "Cook Pushes Through the Bering Strait",
+  "place": "Cape Shmidt (Cape North), Chukotka, Russia",
+  "lat": 68.9,
+  "lng": -179.4,
+  "text": "In 1778 the English navigator James Cook sailed north through the Bering Strait and pushed west along the Arctic coast as far as Cape North, today's Cape Shmidt. His voyage provoked Catherine the Great of Russia to send her own expedition to explore the Chukchi Peninsula, led by Joseph Billings, who had been Cook's assistant astronomer.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Arctic – Study and exploration (The Northeast Passage)",
+   "url": "https://www.britannica.com/place/Arctic/Study-and-exploration"
+  }
+ },
+ {
+  "id": "n15-davis-gilbert-sound",
+  "era": "exploration",
+  "year": 1585,
+  "dateLabel": "July 29, 1585",
+  "cat": "culture",
+  "title": "Music and Dancing at Gilbert Sound",
+  "place": "Gilbert Sound, near Nuuk, Greenland",
+  "lat": 64.17,
+  "lng": -51.7,
+  "text": "On July 29, 1585, English navigator John Davis entered a fjord near today's Nuuk and named it Gilbert Sound. On nearby islands his crew met many Greenlanders, and friendship was established. Davis took musicians on his voyages and had his sailors dance to the music. His narratives give what Vilhjalmur Stefansson called the first reasonably good description of Greenland's people in modern literature.",
+  "source": {
+   "name": "Dartmouth College, Encyclopedia Arctica (Eloise McCaskill Popini): John Davis",
+   "url": "https://collections.dartmouth.edu/arctica-beta/html/EA15-20.html"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: John Davis",
+   "url": "https://www.britannica.com/biography/John-Davis"
+  }
+ },
+ {
+  "id": "n15-nasafjall-silver",
+  "era": "exploration",
+  "year": 1635,
+  "dateLabel": "1635",
+  "cat": "daily",
+  "title": "Reindeer Hauling Silver Ore",
+  "place": "Nasafjäll, Arjeplog, Norrbotten, Sweden",
+  "lat": 66.48,
+  "lng": 15.38,
+  "text": "In 1635 Queen Kristina's government in Sweden decided to start mining silver at Nasafjäll, a mountain in Sápmi, the Sámi homeland. The Sámi were forced to haul the ore to the coast with their reindeer. Later in the 17th century they were also made to provide transport for mines in other parts of Sápmi.",
+  "source": {
+   "name": "Sámi Parliament (Sametinget): The Sami – an Indigenous People in Sweden (timeline)",
+   "url": "https://samer.se/2844"
+  }
+ },
+ {
+  "id": "n15-sami-drum-trials",
+  "era": "exploration",
+  "year": 1685,
+  "dateLabel": "1685",
+  "cat": "culture",
+  "title": "The Drums Ordered Burned",
+  "place": "Lappmarks, northern Sweden",
+  "lat": 66.6,
+  "lng": 19.8,
+  "text": "In 1685 the Swedish state decided to hold idolatry trials in all the Lappmarks, the Sámi districts. The drums of Sámi shamans were to be burned, and anyone who disobeyed could be flogged against the courthouse wall or made to run the gauntlet. Cult images called sieidi and sacrificial sites were destroyed, and sacred Sámi places were desecrated.",
+  "source": {
+   "name": "Sámi Parliament (Sametinget): The Sami – an Indigenous People in Sweden (timeline)",
+   "url": "https://samer.se/2844"
+  }
+ },
+ {
+  "id": "n15-cook-south-georgia",
+  "era": "exploration",
+  "year": 1775,
+  "dateLabel": "January 17, 1775",
+  "cat": "discovery",
+  "title": "Cape Disappointment, South Georgia",
+  "place": "Possession Bay, South Georgia",
+  "lat": -54.1,
+  "lng": -37.13,
+  "text": "On January 17, 1775, James Cook landed at Possession Bay on icy South Georgia and claimed it for King George III, calling it a land \"doomed by nature\". Sailing on to its southern tip, he realised this was not the great Southern Continent, so he named the spot Cape Disappointment. His journal notes on its seals, whales, penguins and seabirds laid the foundation for early studies in natural history.",
+  "source": {
+   "name": "South Georgia Museum: 250 Years of Discovery – Captain Cook's Antarctic Voyage",
+   "url": "https://sgmuseum.gs/chapter/cook-chapter-1/"
+  },
+  "source2": {
+   "name": "South Georgia Museum: History of South Georgia",
+   "url": "https://sgmuseum.gs/the-museum/history-of-south-georgia/"
+  }
+ },
+ {
+  "id": "n15-greenland-leaves-eec",
+  "era": "modern",
+  "year": 1982,
+  "dateLabel": "February 1982",
+  "cat": "power",
+  "title": "Greenland Votes to Leave Europe's Club",
+  "place": "Nuuk, Greenland",
+  "lat": 64.18,
+  "lng": -51.72,
+  "text": "When Denmark joined the European Community, 70 per cent of Greenlanders had voted against membership. Fishing made up half their exports, and they wanted it under Greenland's own control. In a second referendum in February 1982, a small majority of 52 per cent chose to leave. After long talks over fishing rights, Greenland set 1 January 1985 as the date its new status would take effect.",
+  "source": {
+   "name": "UK Parliament, Hansard (House of Commons, 20 July 1984): Greenland (Withdrawal From EEC)",
+   "url": "https://hansard.parliament.uk/commons/1984-07-20/debates/6d0cc01e-5de5-45ac-a29d-c8eeb8d92ff0/Greenland(WithdrawalFromEec)"
+  }
+ },
+ {
+  "id": "n15-dog-days-king",
+  "era": "industrial",
+  "year": 1809,
+  "dateLabel": "June 26, 1809",
+  "cat": "power",
+  "title": "The Dog-Days King of Iceland",
+  "place": "Reykjavík, Iceland",
+  "lat": 64.15,
+  "lng": -21.94,
+  "text": "In 1809 a Danish adventurer, Jørgen Jørgensen, landed in Reykjavík with eight sailors, captured the Danish governor and locked him aboard ship. On June 26 he proclaimed himself \"Protector of Iceland, Commander in Chief by Land and Sea\", tried to restore the ancient Althing and sold cheap grain. Within two months a British warship took him away. Icelanders remember him as the Dog-Days King.",
+  "source": {
+   "name": "Reading Museum: Jørgen Jørgensen: the King of Iceland",
+   "url": "https://www.readingmuseum.org.uk/blog/j%C3%B8rgen-j%C3%B8rgensen-king-iceland"
+  }
+ },
+ {
+  "id": "n15-kiel-islands-stay",
+  "era": "industrial",
+  "year": 1814,
+  "dateLabel": "January 14, 1814",
+  "cat": "power",
+  "title": "Norway Goes, the Islands Stay",
+  "place": "Tórshavn, Faroe Islands (treaty signed at Kiel)",
+  "lat": 62.01,
+  "lng": -6.77,
+  "text": "On January 14, 1814, the Treaty of Kiel ended fighting between Denmark and Sweden in the Napoleonic Wars. Denmark had to hand Norway to Sweden, ending a union that began in 1380. But the old Norwegian settlements far out in the North Atlantic, Greenland, Iceland and the Faroe Islands, stayed with Denmark. Even so, losing Norway disrupted Denmark’s political and economic life.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Treaty of Kiel",
+   "url": "https://www.britannica.com/event/Treaty-of-Kiel"
+  }
+ },
+ {
+  "id": "n15-umik-oqaq-kigutikkaaq",
+  "era": "exploration",
+  "year": 1605,
+  "dateLabel": "1605",
+  "cat": "power",
+  "title": "Kidnapped to Copenhagen",
+  "place": "Itivdleq Fjord, south of Sisimiut, Greenland",
+  "lat": 66.55,
+  "lng": -53.4,
+  "text": "In 1605 ships sent by King Christian IV to rediscover Greenland traded nails and old iron with Greenlanders for clothing, sealskins and narwhal tusks, then kidnapped four of them. One was shot. The survivors, today called Umik, Oqaq and Kigutikkaaq, could row their kayaks as fast as ten of the king's boatmen. Homesick, they built an umiak in Denmark and tried to escape.",
+  "source": {
+   "name": "ScienceNordic (Jens Winther Johannesen, Museum of Copenhagen): Did a recently found bird spear belong to a kidnapped Greenlander?",
+   "url": "https://www.sciencenordic.com/denmark-greenland-history/did-a-recently-found-bird-spear-belong-to-a-kidnapped-greenlander/1374238"
+  }
+ },
+ {
+  "id": "n15-pribilof-seal-islands",
+  "era": "exploration",
+  "year": 1786,
+  "dateLabel": "June 1786",
+  "cat": "nature",
+  "title": "Following the Barking Seals",
+  "place": "St. George Island, Pribilof Islands, Alaska, USA",
+  "lat": 56.6,
+  "lng": -169.55,
+  "text": "An Unangan story told of Iggadaagix, a chief's son from Unimak Island, who was blown by a storm to misty islands full of fur seals. Guided by that tale, Russian navigator Gavriil Pribylov followed the sound of barking seals through Bering Sea fog in June 1786 and found St. George Island. Aleuts were then brought from the Aleutian Chain to harvest and process the seals.",
+  "source": {
+   "name": "NOAA Office of Response and Restoration: Pribilof Islands Historic Preservation – History, Russian period",
+   "url": "https://library.oarcloud.noaa.gov/noaa_documents.lib/NOS/ORR/TM_NOS_ORR/TM_NOS-ORR_17/HTML/Pribilof_html/Pages/history_Russian_period.htm"
+  }
+ },
+ {
+  "id": "n15-birkarls-lappmarks",
+  "era": "medieval",
+  "year": 1328,
+  "dateLabel": "1328",
+  "cat": "daily",
+  "title": "Traders, Taxes and the Right to Hunt",
+  "place": "Sápmi, northern Sweden and Finland",
+  "lat": 66,
+  "lng": 24,
+  "text": "The Swedish Crown gave the Birkarls, traders thought to come from what is now Tampere in Finland, the right to trade with the Sámi and collect taxes from them. An agreement concluded in 1328 said that the Sámi must not be prevented from hunting. The Birkarls divided the Sámi lands into trade districts called Lappmarks.",
+  "source": {
+   "name": "Sámi Parliament (Sametinget): The Sami – an Indigenous People in Sweden (timeline)",
+   "url": "https://samer.se/2844"
+  }
+ }
+]

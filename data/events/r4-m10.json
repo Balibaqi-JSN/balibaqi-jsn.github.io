@@ -1,0 +1,386 @@
+[
+ {
+  "id": "m10-amsa-dong-comb-pottery",
+  "era": "ancient",
+  "year": -3000,
+  "dateLabel": "About 3000 BCE (comb pottery made c. 5000–1000 BCE)",
+  "cat": "daily",
+  "title": "Comb-Pattern Pots of Amsa-dong",
+  "place": "Amsa-dong, Gangdong District, Seoul, South Korea",
+  "lat": 37.56,
+  "lng": 127.13,
+  "text": "By about 3000 BCE, Neolithic life in Korea was well established, and its signature object was comb-pattern pottery. At Amsa-dong, a major dwelling site on the Han River east of today's Seoul, people made wide-mouthed storage and cooking pots with pointed or round bases, scratching diagonal lines into the damp clay, perhaps with a comb-like tool, before firing.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Korea, 8000–2000 B.C.",
+   "url": "https://www.metmuseum.org/toah/ht/02/eak.html"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Korea (history), The Stone Age",
+   "url": "https://www.britannica.com/place/Korea"
+  }
+ },
+ {
+  "id": "m10-bronze-reaches-korea",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 10th century BCE",
+  "cat": "discovery",
+  "title": "Bronze Comes to the Peninsula",
+  "place": "Northern Korean Peninsula, Korea",
+  "lat": 40.0,
+  "lng": 127.0,
+  "text": "Around the 10th century BCE, metalworking arrived in Korea, probably from the northern mainland, and thick-walled plain pottery replaced the older comb-pattern wares. By the 7th century BCE a Bronze Age culture flourished. Korean bronzes held more zinc than those of neighbouring cultures, and graves have yielded daggers, spearheads, small bells and geometric-patterned mirrors.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Korea, 1000 B.C.–1 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/04/eak.html"
+  }
+ },
+ {
+  "id": "m10-red-burnished-ware",
+  "era": "ancient",
+  "year": -550,
+  "dateLabel": "About 6th century BCE",
+  "cat": "culture",
+  "title": "Shiny Red Pots for the Dead",
+  "place": "Southern Korean Peninsula, South Korea",
+  "lat": 35.5,
+  "lng": 127.8,
+  "text": "In about the 6th century BCE, Korean potters began making burnished red wares from fine, iron-rich clay. They painted on a pigment such as ochre, then polished the pot before firing to give it a glossy red sheen. Most turn up in stone cist and dolmen tombs, and the thin-walled vessels were probably meant mainly for rituals.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Korea, 1000 B.C.–1 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/04/eak.html"
+  }
+ },
+ {
+  "id": "m10-eggplant-pattern-jars",
+  "era": "classical",
+  "year": -450,
+  "dateLabel": "About 5th century BCE",
+  "cat": "culture",
+  "title": "The Eggplant-Pattern Jars",
+  "place": "Gyeongsang and Jeolla provinces, South Korea",
+  "lat": 35.3,
+  "lng": 127.6,
+  "text": "Around the 5th century BCE, potters in Korea's far south made round-bodied jars painted on the shoulders with long dark grey and brown patches that remind people of eggplants. Painting colour onto the clay was a bold break from the scratched and raised decoration of Neolithic pots. These jars are found only in the Gyeongsang and Jeolla provinces.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Korea, 1000 B.C.–1 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/04/eak.html"
+  }
+ },
+ {
+  "id": "m10-byeonhan-iron",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "About 300 BCE",
+  "cat": "journeys",
+  "title": "Iron That Drew Traders From Japan",
+  "place": "Lower Nakdong River valley, near Gimhae, South Korea",
+  "lat": 35.23,
+  "lng": 128.88,
+  "text": "Iron technology reached Korea from China around 300 BCE, and by the 2nd century BCE iron was being produced in the south of the peninsula. Chinese accounts say iron from the Byeonhan region, in the lower Nakdong River valley, was prized across the peninsula and even attracted traders from Japan. Iron ploughs and sickles also changed farming.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Korea, 1000 B.C.–1 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/04/eak.html"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Korea (history), The use of metals",
+   "url": "https://www.britannica.com/place/Korea"
+  }
+ },
+ {
+  "id": "m10-wiman-joseon",
+  "era": "classical",
+  "year": -194,
+  "dateLabel": "About 194 BCE",
+  "cat": "power",
+  "title": "Wiman Takes Over Gojoseon",
+  "place": "Daedong River basin, near Pyongyang, North Korea",
+  "lat": 39.03,
+  "lng": 125.75,
+  "text": "Around 194 BCE, a man named Wiman became ruler of Gojoseon, Korea's first known kingdom. Old accounts say he defected from China, but Britannica notes he was more likely a local. His new state, Wiman Joseon, had strong armies and wealth, and it brought neighbouring states to the north, east and south under its control until Han China conquered it.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Korea (history), The use of metals and the emergence of tribal states",
+   "url": "https://www.britannica.com/place/Korea"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Korea, 1000 B.C.–1 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/04/eak.html"
+  }
+ },
+ {
+  "id": "m10-goguryeo-takes-lelang",
+  "era": "classical",
+  "year": 313,
+  "dateLabel": "313 CE",
+  "cat": "power",
+  "title": "Goguryeo Ends Chinese Lelang",
+  "place": "Lelang Commandery site, near Pyongyang, North Korea",
+  "lat": 38.99,
+  "lng": 125.78,
+  "text": "In 313 CE the northern kingdom of Goguryeo seized the lands of Lelang, a Chinese commandery near modern Pyongyang. Lelang had been a Chinese colonial base for more than 400 years after Han armies invaded in 108 BCE. Its fall ended Chinese rule there, as the peninsula moved toward three rival kingdoms: Goguryeo, Baekje and Silla.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Korea, 1–500 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/05/eak.html"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Korea, 1000 B.C.–1 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/04/eak.html"
+  }
+ },
+ {
+  "id": "m10-mireuksa-golden-plate",
+  "era": "medieval",
+  "year": 639,
+  "dateLabel": "639 CE",
+  "cat": "culture",
+  "title": "A Queen's Golden Plate at Mireuksa",
+  "place": "Mireuksa Temple Site, Iksan, North Jeolla, South Korea",
+  "lat": 36.01,
+  "lng": 127.03,
+  "text": "When workers took apart Mireuksa's stone pagoda in 2009, they found a gold plate about 15.5 by 10.5 cm carrying 193 Chinese characters. It says the pagoda, thought to be Korea's oldest surviving stone pagoda, was built in 639. It also names King Mu's queen as the daughter of a high Baekje official, not Princess Seonhwa of Silla.",
+  "source": {
+   "name": "The Korea Times: Buddhist Urn, Relics Found at Mireuk Temple in Iksan (2009)",
+   "url": "https://www.koreatimes.co.kr/lifestyle/arts-theater/20090119/buddhist-urn-relics-found-at-mireuk-temple-in-iksan"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Baekje Historic Areas",
+   "url": "https://whc.unesco.org/en/list/1477"
+  }
+ },
+ {
+  "id": "m10-emille-bell",
+  "era": "medieval",
+  "year": 771,
+  "dateLabel": "December 14, 771",
+  "cat": "culture",
+  "title": "The Bell That Cries Emile",
+  "place": "Gyeongju National Museum, Gyeongju, South Korea",
+  "lat": 35.83,
+  "lng": 129.23,
+  "text": "King Gyeongdeok began a huge bell for his late father, using 72,000 kg of copper, but died first; his son King Hyegong finished it on December 14, 771. A grim legend says a child was cast into the metal, so it rang 'emile, emile' like a resentful child. Yet a 1999 analysis found no phosphorus that human remains would leave, so the story is likely untrue.",
+  "source": {
+   "name": "Gyeongju National Museum (Google Arts & Culture): The Bell of King Seongdeok the Great",
+   "url": "https://artsandculture.google.com/story/AAVhcz8wEYLALw"
+  }
+ },
+ {
+  "id": "m10-paektu-millennium-eruption",
+  "era": "medieval",
+  "year": 946,
+  "dateLabel": "Late 946 CE",
+  "cat": "nature",
+  "title": "Mount Paektu Blows Its Top",
+  "place": "Mount Paektu, on the North Korea–China border",
+  "lat": 41.99,
+  "lng": 128.08,
+  "text": "In the final months of 946, Mount Paektu erupted, perhaps throwing about 100 cubic kilometres of ash and pumice into the sky. Scientists pinned the date using a 264-year-old tree buried by the eruption and ash in Greenland ice cores. A Japanese temple chronicle records 'white ash falling like snow' on 3 November 946.",
+  "source": {
+   "name": "University of Cambridge: Fossilised tree and ice cores help date huge volcanic eruption 1,000 years ago to within three months",
+   "url": "https://www.cam.ac.uk/node/183512"
+  }
+ },
+ {
+  "id": "m10-samguk-sagi",
+  "era": "medieval",
+  "year": 1145,
+  "dateLabel": "1145",
+  "cat": "culture",
+  "title": "Korea's Oldest Surviving History Book",
+  "place": "Kaesong (Goryeo capital Songdo), North Korea",
+  "lat": 37.97,
+  "lng": 126.55,
+  "text": "In 1145 the Confucian scholar-official Kim Busik and his team presented the Samguk sagi, or Histories of the Three Kingdoms, to the Goryeo king Injong. It is the older of Korea's two earliest surviving histories. The compilers drew on earlier documents that are now lost, which makes their book a precious window on Goguryeo, Baekje and Silla.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Korea, 1000–1400 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/07/eak.html"
+  }
+ },
+ {
+  "id": "m10-cheugugi-rain-gauge",
+  "era": "medieval",
+  "year": 1441,
+  "dateLabel": "1441",
+  "cat": "discovery",
+  "title": "King Sejong Measures the Rain",
+  "place": "Hanyang (Seoul), South Korea",
+  "lat": 37.58,
+  "lng": 126.98,
+  "text": "In 1441 King Sejong and a group of scholars invented the cheugugi, a copper cylinder for collecting rain, described as the world's oldest rain gauge. Officials recorded how deep the rain fell and when it started and stopped. Wars and fires destroyed many early records, but measurements at the royal palace in Seoul continued until a modern gauge replaced it in 1907.",
+  "source": {
+   "name": "Scientific Data (Nature Portfolio): Precipitation data in Seoul, Korea during 1778–1907",
+   "url": "https://www.nature.com/articles/s41597-024-03335-8"
+  }
+ },
+ {
+  "id": "m10-joseon-blue-and-white",
+  "era": "medieval",
+  "year": 1465,
+  "dateLabel": "1465",
+  "cat": "discovery",
+  "title": "Korea's Own Cobalt Blue",
+  "place": "Official royal kilns, Gwangju, Gyeonggi Province, South Korea",
+  "lat": 37.41,
+  "lng": 127.26,
+  "text": "Joseon's court loved plain white porcelain, made at official kilns in Gwangju near Seoul that moved every few decades to find enough firewood. Then came blue-and-white ware, painted in cobalt under the glaze. Records show that in 1465 Korean potters first successfully used cobalt found at home, which cost less than cobalt imported from China.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Korea, 1400–1600 A.D.",
+   "url": "https://www.metmuseum.org/toah/ht/08/eak.html"
+  }
+ },
+ {
+  "id": "m10-admiral-yi-noryang",
+  "era": "exploration",
+  "year": 1598,
+  "dateLabel": "December 16, 1598",
+  "cat": "power",
+  "title": "Admiral Yi's Last Battle",
+  "place": "Noryang Strait, Namhae, South Gyeongsang, South Korea",
+  "lat": 34.94,
+  "lng": 127.87,
+  "text": "In 1597 Admiral Yi Sun-shin was falsely accused and demoted to common soldier, and the navy was nearly destroyed. Reinstated with the few ships left, he restored Korea's control of the sea. On December 16, 1598, off Noryang, he was killed by a stray bullet while chasing the retreating Japanese, who were withdrawing after Toyotomi Hideyoshi's death.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Yi Sun-shin",
+   "url": "https://www.britannica.com/biography/Yi-Sun-shin"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Korea (history), Foreign invasions",
+   "url": "https://www.britannica.com/place/Korea/Korea-since-c-1400"
+  }
+ },
+ {
+  "id": "m10-jongmyo-rebuilt",
+  "era": "exploration",
+  "year": 1601,
+  "dateLabel": "Early 17th century",
+  "cat": "culture",
+  "title": "Rebuilding the Royal Ancestors' Shrine",
+  "place": "Jongmyo Shrine, Jongno District, Seoul, South Korea",
+  "lat": 37.57,
+  "lng": 126.99,
+  "text": "Jongmyo holds the spirit tablets of Joseon's kings and queens, where kings came to pray for the safety of the people. First built in the late 14th century, it was destroyed during the Japanese invasion and rebuilt in the early 17th century. Its ancestral rites, Jongmyo Jerye, are still performed today with their ritual music and dance.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Jongmyo Shrine",
+   "url": "https://whc.unesco.org/en/list/738"
+  }
+ },
+ {
+  "id": "m10-kim-man-deok",
+  "era": "exploration",
+  "year": 1794,
+  "dateLabel": "1794",
+  "cat": "daily",
+  "title": "The Merchant Who Fed Jeju",
+  "place": "Jeju City, Jeju Island, South Korea",
+  "lat": 33.51,
+  "lng": 126.52,
+  "text": "Despite her low rank as a female entertainer, Kim Man-deok (1739–1812) became a merchant and medical practitioner on Jeju. When severe drought struck the island in 1794, she spent her whole fortune sharing crops with her neighbours. King Jeongjo gave her a court post and let her fulfil a lifelong wish: a trip to Geumgangsan Mountain.",
+  "source": {
+   "name": "Korea.net (Korean government): Meet the Joseon businesswoman who saved Jeju",
+   "url": "https://www.korea.net/NewsFocus/FoodTravel/view?articleId=133790"
+  }
+ },
+ {
+  "id": "m10-choe-je-u-donghak",
+  "era": "industrial",
+  "year": 1860,
+  "dateLabel": "May 1860",
+  "cat": "culture",
+  "title": "A New Faith Called Eastern Learning",
+  "place": "North Gyeongsang Province, South Korea",
+  "lat": 35.86,
+  "lng": 129.21,
+  "text": "In May 1860 Choe Je-u, a poor scholar's son who kept failing the civil-service exams, said he had received a mandate to found a religion that would make Korea as strong as the West. He called it Donghak, 'Eastern Learning', and taught that everyone was equal before heaven. Poor rural communities flocked to it, and the government executed him in 1864.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Choe Je-u",
+   "url": "https://www.britannica.com/biography/Choe-Je-u"
+  }
+ },
+ {
+  "id": "m10-daewongun-closed-door",
+  "era": "industrial",
+  "year": 1864,
+  "dateLabel": "1864",
+  "cat": "power",
+  "title": "The Regent Who Shut the Door",
+  "place": "Seoul, South Korea",
+  "lat": 37.57,
+  "lng": 126.99,
+  "text": "King Gojong was too young to rule when he took the throne in 1864, so his father, the Daewon-gun, ran the country. He closed many private Confucian academies and refused Western ships seeking trade. Koreans burned the American ship General Sherman at Pyongyang and drove off two French attacks in 1866, hardening his resolve to keep the doors shut.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Korea (history), Opening the door",
+   "url": "https://www.britannica.com/place/Korea/The-introduction-of-Roman-Catholicism"
+  }
+ },
+ {
+  "id": "m10-gyeongbokgung-electric-light",
+  "era": "industrial",
+  "year": 1887,
+  "dateLabel": "Early 1887",
+  "cat": "discovery",
+  "title": "Water Lights in the Palace",
+  "place": "Gyeongbokgung Palace, Seoul, South Korea",
+  "lat": 37.58,
+  "lng": 126.98,
+  "text": "Korea's first electric lamp was switched on between January and March 1887 at Gyeongbokgung Palace, lighting grounds that included the royal residence Geoncheonggung. The palace had signed a contract with an Edison company in 1884. The water-powered plant stood near Hyangwonji pond, and people called its lights 'mulbul', meaning water light. Archaeologists located the plant's site in 2015.",
+  "source": {
+   "name": "The Korea Times: Site of 1st electricity generation found (2015)",
+   "url": "https://www.koreatimes.co.kr/amp/lifestyle/koreanheritage/20150527/site-of-1st-electricity-generation-found"
+  }
+ },
+ {
+  "id": "m10-muryeong-tomb-found",
+  "era": "modern",
+  "year": 1971,
+  "dateLabel": "July 5, 1971",
+  "cat": "discovery",
+  "title": "A Baekje King's Tomb Found by Accident",
+  "place": "Songsan-ri Royal Tombs, Gongju, South Chungcheong, South Korea",
+  "lat": 36.46,
+  "lng": 127.11,
+  "text": "On July 5, 1971, workers digging drains at the Songsan-ri royal tombs in Gongju stumbled on a tomb. Inscriptions inside showed it belonged to the Baekje royal couple, King Muryeong and his queen. The excavation was rushed through in a single day and night, and a later report counted 2,561 artifacts of eighty-eight types.",
+  "source": {
+   "name": "National Museum of Korea, Journal of Korean Art and Archaeology vol. 16: Critical Review on the Metalworks in the Tomb of King Muryeong",
+   "url": "https://www.ijkaa.org/v.16/0/57/11"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Baekje Historic Areas",
+   "url": "https://whc.unesco.org/en/list/1477"
+  }
+ },
+ {
+  "id": "m10-han-kang-nobel",
+  "era": "modern",
+  "year": 2024,
+  "dateLabel": "October 10, 2024",
+  "cat": "culture",
+  "title": "Han Kang Wins the Nobel Prize",
+  "place": "Seoul, South Korea",
+  "lat": 37.55,
+  "lng": 126.99,
+  "text": "On October 10, 2024, South Korean author Han Kang won the Nobel Prize in Literature, born in Gwangju in 1970, 'for her intense poetic prose that confronts historical traumas and exposes the fragility of human life'. She began as a poet in 1993; her novels include The Vegetarian, Human Acts and We Do Not Part.",
+  "source": {
+   "name": "NobelPrize.org: Han Kang – Facts – 2024",
+   "url": "https://www.nobelprize.org/prizes/literature/2024/han/facts/"
+  },
+  "source2": {
+   "name": "NobelPrize.org: The Nobel Prize in Literature 2024 – Press release",
+   "url": "https://www.nobelprize.org/prizes/literature/2024/press-release/"
+  }
+ },
+ {
+  "id": "m10-bangucheon-petroglyphs",
+  "era": "modern",
+  "year": 2025,
+  "dateLabel": "July 2025",
+  "cat": "nature",
+  "title": "Whales on the Rocks Win World Heritage",
+  "place": "Bangucheon Stream, Ulju, Ulsan, South Korea",
+  "lat": 35.61,
+  "lng": 129.17,
+  "text": "In 2025 UNESCO added the Petroglyphs along the Bangucheon Stream to the World Heritage List. Over about 6,000 years, from 5,000 BCE to the 9th century CE, local artists carved animals, hunters and writing into the cliffs. The animals are so detailed that species can be identified, and the scenes of whales and whaling are rare in rock art worldwide.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Petroglyphs along the Bangucheon Stream",
+   "url": "https://whc.unesco.org/en/list/1740"
+  }
+ }
+]

@@ -1,0 +1,632 @@
+[
+ {
+  "id": "md-hagia-sophia",
+  "era": "medieval",
+  "year": 537,
+  "dateLabel": "537",
+  "emoji": "⛪",
+  "cat": "culture",
+  "title": "Hagia Sophia's Floating Dome",
+  "place": "Istanbul, Turkey",
+  "lat": 41.01,
+  "lng": 28.98,
+  "text": "Emperor Justinian's giant church in Constantinople was finished in less than six years. Its huge dome sits on a ring of windows, so it seems to float on light. It stayed the world's largest cathedral for about a thousand years, and visitors can still spot Viking runes scratched into the parapets of its upper galleries.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Hagia Sophia'",
+   "url": "https://www.britannica.com/topic/Hagia-Sophia"
+  },
+  "source2": {
+   "name": "National Museum of Denmark, 'Viking graffiti'",
+   "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/expeditions-and-raids/viking-graffiti/"
+  }
+ },
+ {
+  "id": "md-sutton-hoo",
+  "era": "medieval",
+  "year": 625,
+  "dateLabel": "About 625",
+  "emoji": "🪖",
+  "cat": "culture",
+  "title": "A King Sails Into the Afterlife",
+  "place": "Sutton Hoo, United Kingdom",
+  "lat": 52.09,
+  "lng": 1.34,
+  "text": "An Anglo-Saxon king, probably Rædwald of East Anglia, was buried inside a ship about 27 metres long that had been hauled up onto a hill. The wood rotted away long ago, leaving a ghostly outline of iron rivets in the sand. His treasures included a stunning iron helmet and silver bowls made in faraway Byzantium.",
+  "source": {
+   "name": "National Trust (Sutton Hoo)",
+   "url": "https://www.nationaltrust.org.uk/visit/suffolk/sutton-hoo/history-of-sutton-hoo"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Sutton Hoo)",
+   "url": "https://www.britannica.com/topic/Sutton-Hoo"
+  }
+ },
+ {
+  "id": "md-xuanzang-nalanda",
+  "era": "medieval",
+  "year": 636,
+  "dateLabel": "About 636",
+  "emoji": "📜",
+  "cat": "journeys",
+  "title": "A Monk's Long Walk to Nalanda",
+  "place": "Nalanda, India",
+  "lat": 25.14,
+  "lng": 85.44,
+  "text": "The Chinese monk Xuanzang slipped out of the Tang empire in defiance of a travel ban, crossed deserts and mountains, and reached Nalanda, a giant Buddhist university in India. He studied there among more than ten thousand monks. He later carried more than 650 texts home to Chang'an and spent the rest of his life translating them.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Xuanzang)",
+   "url": "https://www.britannica.com/biography/Xuanzang"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre (Nalanda Mahavihara)",
+   "url": "https://whc.unesco.org/en/list/1502"
+  }
+ },
+ {
+  "id": "md-pakal-tomb",
+  "era": "medieval",
+  "year": 683,
+  "dateLabel": "683",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "King Pakal's Hidden Tomb",
+  "place": "Palenque, Mexico",
+  "lat": 17.48,
+  "lng": -92.05,
+  "text": "K'inich Janaab Pakal took the throne of the Maya city of Palenque at the age of twelve and ruled for about 68 years, until he died in 683 at around eighty. He was buried deep inside the Temple of the Inscriptions. Archaeologists only reached his tomb in 1952, after following a hidden staircase, and found Pakal wearing a mask of jade.",
+  "source": {
+   "name": "National Geographic History",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/this-seventh-century-maya-city-was-a-glorious-center-of-power"
+  },
+  "source2": {
+   "name": "INAH, revista Lakamha' (H. Orea Magana, 'La conservacion de la tumba de K'inich Janaab' Pakal')",
+   "url": "https://revistas.inah.gob.mx/index.php/lakamha/article/download/18768/20109/40427"
+  }
+ },
+ {
+  "id": "md-dome-of-the-rock",
+  "era": "medieval",
+  "year": 691,
+  "dateLabel": "About 691",
+  "emoji": "🕌",
+  "cat": "culture",
+  "title": "The Golden Dome of Jerusalem",
+  "place": "Old City of Jerusalem",
+  "lat": 31.78,
+  "lng": 35.24,
+  "text": "Caliph Abd al-Malik built the Dome of the Rock over a stone linked both to Abraham's near-sacrifice of Isaac and to the Prophet Muhammad's ascent to heaven. It is the oldest Islamic monument still standing, its walls glittering with mosaics and Arabic writing. The bright gold dome you see today is much newer: it is covered with gold leaf donated by Jordan's late King Hussein.",
+  "source": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: The Art of the Umayyad Period (661-750)",
+   "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Dome of the Rock)",
+   "url": "https://www.britannica.com/topic/Dome-of-the-Rock"
+  }
+ },
+ {
+  "id": "md-tang-changan",
+  "era": "medieval",
+  "year": 750,
+  "dateLabel": "About 750",
+  "emoji": "🏮",
+  "cat": "daily",
+  "title": "Chang'an, City of a Million",
+  "place": "Xi'an, China",
+  "lat": 34.27,
+  "lng": 108.94,
+  "text": "Tang dynasty Chang'an was probably the most populous city on Earth, home to around a million people. Walls divided it into more than a hundred quarters whose gates were locked at night, while drum towers called out the time. Its two great markets sold horses, silks and tea, along with exotic goods brought from as far as Persia and India.",
+  "source": {
+   "name": "Silk Road Seattle, University of Washington (Chang'an essay)",
+   "url": "https://depts.washington.edu/silkroad/exhibit/tang/essay2.html"
+  },
+  "source2": {
+   "name": "The Metropolitan Museum of Art, Heilbrunn Timeline: Tang Dynasty (618-907)",
+   "url": "https://www.metmuseum.org/essays/tang-dynasty-618-906"
+  }
+ },
+ {
+  "id": "md-classic-of-tea",
+  "era": "medieval",
+  "year": 760,
+  "dateLabel": "About 760",
+  "emoji": "🍵",
+  "cat": "daily",
+  "title": "The First Book All About Tea",
+  "place": "Huzhou, China",
+  "lat": 30.89,
+  "lng": 120.09,
+  "text": "Lu Yu, an orphan raised by the abbot of a Buddhist monastery, wrote the Classic of Tea, the first known book devoted to the drink. It explains how to harvest, process and brew tea, and which tools to use. He judged water from mountain streams to be ideal, river water good enough and well water inferior.",
+  "source": {
+   "name": "Smithsonian National Museum of Asian Art",
+   "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/videos/exploring-chinese-teas-and-tea-wares/"
+  },
+  "source2": {
+   "name": "Nutrients (MDPI, peer-reviewed) 2019, 'The Influence of Water Composition on Flavor and Nutrient Extraction in Green and Black Tea' (PMC6356489)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6356489/"
+  }
+ },
+ {
+  "id": "md-borobudur",
+  "era": "medieval",
+  "year": 800,
+  "dateLabel": "About 800",
+  "emoji": "☸️",
+  "cat": "culture",
+  "title": "Borobudur, a Mountain of Stories",
+  "place": "Borobudur, Indonesia",
+  "lat": -7.61,
+  "lng": 110.2,
+  "text": "Java's Shailendra kings built Borobudur, one of the greatest Buddhist monuments in the world. Pilgrims walk round and round its terraces, more than 5 kilometers in all, climbing upward past carved reliefs that tell Buddhist stories. Later it lay buried under volcanic ash and jungle for centuries, until it was uncovered again in 1814.",
+  "source": {
+   "name": "UNESCO World Heritage Centre (Borobudur Temple Compounds)",
+   "url": "https://whc.unesco.org/en/list/592"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Borobudur)",
+   "url": "https://www.britannica.com/topic/Borobudur"
+  }
+ },
+ {
+  "id": "md-house-of-wisdom",
+  "era": "medieval",
+  "year": 830,
+  "dateLabel": "About 830",
+  "emoji": "📚",
+  "cat": "discovery",
+  "title": "Baghdad's House of Wisdom",
+  "place": "Baghdad, Iraq",
+  "lat": 33.31,
+  "lng": 44.36,
+  "text": "Under the Abbasid caliphs, Baghdad's scholars translated Greek, Persian and Indian books into Arabic and pushed their ideas further. Here the mathematician al-Khwarizmi wrote a book on solving equations whose title gave us the word 'algebra'. His own name, turned into Latin, became the word 'algorithm'.",
+  "source": {
+   "name": "MacTutor History of Mathematics, University of St Andrews (al-Khwarizmi)",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Bayt al-Hikmah)",
+   "url": "https://www.britannica.com/topic/Bayt-al-Hikmah"
+  }
+ },
+ {
+  "id": "md-igbo-ukwu",
+  "era": "medieval",
+  "year": 900,
+  "dateLabel": "About 900 (date debated)",
+  "emoji": "🏺",
+  "cat": "culture",
+  "title": "The Lace-Fine Bronzes of Igbo-Ukwu",
+  "place": "Igbo-Ukwu, Nigeria",
+  "lat": 6.02,
+  "lng": 7.02,
+  "text": "In what is now southeastern Nigeria, artists cast bronzes covered in string and lace-like designs, among the most technically accomplished bronzes ever made. Isaiah Anozie found the first pieces in 1938 while digging a water cistern at his compound. Tens of thousands of glass beads, much of the glass made in Mesopotamia and Iran, show the town was linked to long-distance trade networks.",
+  "source": {
+   "name": "McIntosh et al., 'Igbo-Ukwu at 50', African Archaeological Review 2022 (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9640786/"
+  },
+  "source2": {
+   "name": "Metropolitan Museum of Art, Heilbrunn Timeline: 'Igbo-Ukwu (ca. 9th Century)'",
+   "url": "https://www.metmuseum.org/toah/hd/igbo/hd_igbo.htm"
+  }
+ },
+ {
+  "id": "md-chichen-itza",
+  "era": "medieval",
+  "year": 1000,
+  "dateLabel": "About 1000",
+  "emoji": "🐍",
+  "cat": "culture",
+  "title": "The Serpent Shadow of Chichen Itza",
+  "place": "Chichen Itza, Mexico",
+  "lat": 20.68,
+  "lng": -88.57,
+  "text": "Chichen Itza was one of the greatest Maya cities of the Yucatán. Its step pyramid, El Castillo, has 365 steps if you count all four stairways plus the top platform, one for each day of the year. At the spring and autumn equinoxes, late-afternoon shadows form a wavy serpent sliding down the stairs toward a stone snake head.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Chichen Itza'",
+   "url": "https://www.britannica.com/place/Chichen-Itza"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Pre-Hispanic City of Chichen-Itza (via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/483"
+  }
+ },
+ {
+  "id": "md-tale-of-genji",
+  "era": "medieval",
+  "year": 1008,
+  "dateLabel": "About 1008",
+  "emoji": "🖌️",
+  "cat": "culture",
+  "title": "Murasaki Writes The Tale of Genji",
+  "place": "Kyoto, Japan",
+  "lat": 35.01,
+  "lng": 135.77,
+  "text": "A lady-in-waiting at the Heian court, known to us only by the nickname Murasaki Shikibu, wrote The Tale of Genji, often called the world's first novel. It follows a dashing prince's loves and heartbreaks across 54 chapters. Court women wrote stories in Japanese using kana, a script developed in this era, while Chinese was the learned language of men.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'The Tale of Genji'",
+   "url": "https://www.britannica.com/topic/The-Tale-of-Genji"
+  },
+  "source2": {
+   "name": "Library of Congress blog, 'The Tale of Genji: 1,000 Years of Romance' (2025)",
+   "url": "https://blogs.loc.gov/loc/2025/05/the-tale-of-genji-1000-years-of-romance/"
+  }
+ },
+ {
+  "id": "md-brihadisvara",
+  "era": "medieval",
+  "year": 1010,
+  "dateLabel": "1010",
+  "emoji": "🛕",
+  "cat": "culture",
+  "title": "The Chola Temple Tower",
+  "place": "Thanjavur, India",
+  "lat": 10.78,
+  "lng": 79.13,
+  "text": "King Rajaraja I of the Chola dynasty completed the Brihadisvara Temple, among the largest Hindu temples in India, with a granite tower about 60 metres tall. Its top is a single carved rock said to weigh about 80 tonnes, and legend says it was hauled up a ramp some 6 kilometres long. The temple is believed to have employed up to 400 dancers.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Great Living Chola Temples (via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/250"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Brihadishvara Temple' (Sanat Pai Raikar; read in browser)",
+   "url": "https://www.britannica.com/place/Brihadishvara-temple"
+  }
+ },
+ {
+  "id": "md-lanse-aux-meadows",
+  "era": "medieval",
+  "year": 1021,
+  "dateLabel": "1021",
+  "emoji": "🪓",
+  "cat": "journeys",
+  "title": "Vikings Reach North America",
+  "place": "L'Anse aux Meadows, Canada",
+  "lat": 51.6,
+  "lng": -55.53,
+  "text": "Norse sailors from Greenland built a small camp of turf houses at the northern tip of Newfoundland, nearly 500 years before Columbus. Scientists dated it exactly thanks to a solar storm in 993, which left a radiation marker in tree rings. Counting rings from that marker showed Norse metal tools cut wood here in 1021.",
+  "source": {
+   "name": "Kuitems et al., 'Evidence for European presence in the Americas in AD 1021', Nature 601 (2022) (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8770119/"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, L'Anse aux Meadows National Historic Site (via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/4"
+  }
+ },
+ {
+  "id": "md-gunpowder-formula",
+  "era": "medieval",
+  "year": 1044,
+  "dateLabel": "1044",
+  "emoji": "🧨",
+  "cat": "discovery",
+  "title": "The First Gunpowder Recipe",
+  "place": "Kaifeng, China",
+  "lat": 34.8,
+  "lng": 114.31,
+  "text": "Song dynasty officials finished the Wujing Zongyao, a military handbook with the oldest known written formulas for gunpowder. Mixing saltpetre, sulphur and charcoal, Song armies packed the powder into bombs launched by catapults. Funnily enough, gunpowder had been stumbled upon earlier by Taoist alchemists who were searching for medicines to help people live longer.",
+  "source": {
+   "name": "Peter A. Lorge, The Asian Military Revolution, ch. 1 'China through the Yuan' (Cambridge University Press)",
+   "url": "https://www.cambridge.org/core/books/abs/asian-military-revolution/china-through-the-yuan/9F1DB9DEB1E783072D525780135E9D26"
+  },
+  "source2": {
+   "name": "Smithsonian National Air and Space Museum, 'The First Fireworks: Origins of the Rocket'",
+   "url": "https://airandspace.si.edu/stories/editorial/first-fireworks-origins-rocket"
+  }
+ },
+ {
+  "id": "md-cahokia",
+  "era": "medieval",
+  "year": 1100,
+  "dateLabel": "About 1100",
+  "emoji": "🌽",
+  "cat": "daily",
+  "title": "Cahokia, City of Mounds",
+  "place": "Collinsville, United States",
+  "lat": 38.66,
+  "lng": -90.06,
+  "text": "Near today's St. Louis, Cahokia was the largest city north of Mexico, home to perhaps 15,000 to 20,000 people. They built over 100 earthen mounds, and the biggest, Monks Mound, has a base about as large as Egypt's Great Pyramid. Corn farming fed the city, and people played chunkey, throwing spears to mark where a rolling stone disc would stop.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/198"
+  },
+  "source2": {
+   "name": "National Geographic",
+   "url": "https://www.nationalgeographic.com/history/history-magazine/article/this-american-indian-metropolis-was-mysteriously-abandoned-archaeologists-want-to-know-why"
+  }
+ },
+ {
+  "id": "md-angkor-wat",
+  "era": "medieval",
+  "year": 1150,
+  "dateLabel": "About 1150",
+  "emoji": "🏛️",
+  "cat": "culture",
+  "title": "Angkor Wat Rises in the Jungle",
+  "place": "Siem Reap, Cambodia",
+  "lat": 13.41,
+  "lng": 103.87,
+  "text": "King Suryavarman II of the Khmer Empire built Angkor Wat as a Hindu temple to the god Vishnu; it later became Buddhist. It is the largest religious monument in the world. One of its famous bas-reliefs shows gods and demons working together to churn an ocean of milk, with Vishnu at the centre.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Angkor-Wat"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/668"
+  }
+ },
+ {
+  "id": "md-lalibela",
+  "era": "medieval",
+  "year": 1200,
+  "dateLabel": "About 1200",
+  "emoji": "✝️",
+  "cat": "culture",
+  "title": "Churches Carved Down Into Rock",
+  "place": "Lalibela, Ethiopia",
+  "lat": 12.03,
+  "lng": 39.04,
+  "text": "Ethiopia's King Lalibela is credited with eleven churches cut straight down into solid volcanic rock. Instead of stacking stones, workers dug a deep trench around a block, then hollowed it out, carving windows and pillars as they went. The cross-shaped Church of Saint George stands apart from the others, and pilgrims still worship at Lalibela today.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/18"
+  },
+  "source2": {
+   "name": "Metropolitan Museum of Art, Heilbrunn Timeline: 'The Rock-hewn Churches of Lalibela' (Kristen Windmuller-Luna)",
+   "url": "https://www.metmuseum.org/essays/the-rock-hewn-churches-of-lalibela"
+  }
+ },
+ {
+  "id": "md-genghis-khan",
+  "era": "medieval",
+  "year": 1206,
+  "dateLabel": "1206",
+  "emoji": "🐎",
+  "cat": "power",
+  "title": "Temüjin Becomes Genghis Khan",
+  "place": "Onon River, Mongolia",
+  "lat": 48.8,
+  "lng": 109,
+  "text": "At a great gathering near the Onon River, the Mongol tribes proclaimed Temüjin their supreme ruler, Genghis Khan. He had grown up poor and hunted after his father was poisoned. His empire soon stretched across Asia; according to Marco Polo, its relay riders changed horses at stations about 40 km apart and could carry messages hundreds of kilometres in a day.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Genghis-Khan"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Pony Express: Conceiving the idea' (Joseph J. Di Certo; read in browser)",
+   "url": "https://www.britannica.com/topic/Pony-Express/Conceiving-the-idea-of-a-Pony-Express"
+  }
+ },
+ {
+  "id": "md-maori-aotearoa",
+  "era": "medieval",
+  "year": 1280,
+  "dateLabel": "About 1280",
+  "emoji": "🛶",
+  "cat": "journeys",
+  "title": "Polynesian Voyagers Reach Aotearoa",
+  "place": "Wairau Bar, New Zealand",
+  "lat": -41.51,
+  "lng": 174.05,
+  "text": "Steering double-hulled canoes by stars, waves and birds, Polynesian voyagers became the first people to settle New Zealand, one of the last big lands on Earth reached by humans. Wairau Bar is among the earliest sites. Settlers met moa, flightless birds up to about 3 metres tall, which were hunted to extinction within one or two centuries.",
+  "source": {
+   "name": "Bunbury et al. 2022, PNAS (via Europe PMC)",
+   "url": "https://europepmc.org/article/PMC/PMC9674228"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (moa)",
+   "url": "https://www.britannica.com/animal/moa"
+  }
+ },
+ {
+  "id": "md-great-zimbabwe",
+  "era": "medieval",
+  "year": 1300,
+  "dateLabel": "About 1300",
+  "emoji": "🧱",
+  "cat": "power",
+  "title": "The Stone Walls of Great Zimbabwe",
+  "place": "Masvingo, Zimbabwe",
+  "lat": -20.27,
+  "lng": 30.93,
+  "text": "Great Zimbabwe was the capital of a rich trading kingdom in southern Africa. Its Great Enclosure has walls up to 11 metres high, built of granite blocks fitted together without any mortar. Finds there include Chinese porcelain and Persian pottery traded via the coast, and the modern country of Zimbabwe is named after it.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Great Zimbabwe'",
+   "url": "https://www.britannica.com/place/Great-Zimbabwe"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Great Zimbabwe National Monument (read via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/364"
+  }
+ },
+ {
+  "id": "md-mansa-musa",
+  "era": "medieval",
+  "year": 1324,
+  "dateLabel": "1324",
+  "emoji": "💰",
+  "cat": "journeys",
+  "title": "Mansa Musa's Golden Pilgrimage",
+  "place": "Cairo, Egypt",
+  "lat": 30.04,
+  "lng": 31.24,
+  "text": "Mansa Musa, ruler of the Mali Empire, passed through Cairo on his pilgrimage to Mecca with a huge caravan and camels loaded with gold. He handed out so much gold that its value in Cairo dropped for years. A famous 1375 atlas by a mapmaker from Majorca shows him on a throne holding a round gold object, perhaps a nugget.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Musa I of Mali' (J. C. de Graft-Johnson)",
+   "url": "https://www.britannica.com/biography/Musa-I-of-Mali"
+  },
+  "source2": {
+   "name": "British Library blog, 'African kings on medieval and renaissance maps'",
+   "url": "https://www.bl.uk/stories/blogs/posts/african-kings-on-medieval-and-renaissance-maps"
+  }
+ },
+ {
+  "id": "md-tenochtitlan",
+  "era": "medieval",
+  "year": 1325,
+  "dateLabel": "About 1325",
+  "emoji": "🦅",
+  "cat": "daily",
+  "title": "Tenochtitlan Rises From a Lake",
+  "place": "Mexico City, Mexico",
+  "lat": 19.43,
+  "lng": -99.13,
+  "text": "According to legend, the Mexica (Aztecs) settled where they saw an eagle perched on a cactus, on a marshy island in Lake Texcoco. They farmed chinampas, garden plots built up from lake mud and reeds. Tenochtitlan grew into one of the largest cities in the world, and that eagle-on-a-cactus scene sits on Mexico's flag today.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Tenochtitlan'",
+   "url": "https://www.britannica.com/place/Tenochtitlan"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Flag of Mexico' (Whitney Smith)",
+   "url": "https://www.britannica.com/topic/flag-of-Mexico"
+  }
+ },
+ {
+  "id": "md-kilwa",
+  "era": "medieval",
+  "year": 1331,
+  "dateLabel": "About 1331",
+  "emoji": "⛵",
+  "cat": "journeys",
+  "title": "Ibn Battuta Visits Kilwa",
+  "place": "Kilwa Kisiwani, Tanzania",
+  "lat": -8.96,
+  "lng": 39.51,
+  "text": "The Moroccan traveller Ibn Battuta sailed down the Swahili coast and praised Kilwa as one of the most beautiful, well-built towns he had seen. Kilwa grew rich by controlling gold traded from inland Africa across the Indian Ocean. Its sultans minted their own copper coins for centuries, and some have turned up as far inland as Great Zimbabwe.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Ruins of Kilwa Kisiwani and Songo Mnara (read via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/144"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Great Zimbabwe (read via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/364"
+  }
+ },
+ {
+  "id": "md-black-death",
+  "era": "medieval",
+  "year": 1347,
+  "dateLabel": "October 1347",
+  "emoji": "🐀",
+  "cat": "nature",
+  "title": "The Black Death Arrives by Ship",
+  "place": "Messina, Italy",
+  "lat": 38.19,
+  "lng": 15.55,
+  "text": "In early October 1347, twelve Genoese galleys docked at Messina in Sicily, carrying plague from the Black Sea. Spread by fleas on rats and from person to person, the Black Death killed perhaps a quarter to a third of Europe's people within a few years. One lasting legacy: 'quarantine' comes from the Italian for forty, the days arriving ships were held.",
+  "source": {
+   "name": "Emerging Infectious Diseases (CDC), Tognotti 2013, 'Lessons from the history of quarantine' (PMC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3559034/"
+  },
+  "source2": {
+   "name": "Michele da Piazza (Michael Platiensis), chronicle of 1347, trans. C. H. Clarke, hosted at University of Szeged",
+   "url": "https://www.staff.u-szeged.hu/~gnovak/s99mplaguemp.htm"
+  }
+ },
+ {
+  "id": "md-ming-giraffe",
+  "era": "medieval",
+  "year": 1414,
+  "dateLabel": "1414",
+  "emoji": "🦒",
+  "cat": "nature",
+  "title": "A Giraffe Arrives at the Ming Court",
+  "place": "Nanjing, China",
+  "lat": 32.06,
+  "lng": 118.8,
+  "text": "During the era of Admiral Zheng He's treasure-fleet voyages, envoys from Bengal brought a giraffe from East Africa to the Yongle Emperor. Court officials declared it a qilin, a lucky mythical beast, and a court painter recorded it. Zheng He's fleets sailed as far as the Swahili coast, decades before Portuguese ships reached the Indian Ocean.",
+  "source": {
+   "name": "The Met, 'Giraffe with Two Keepers' (47.18.21) catalogue text",
+   "url": "https://www.metmuseum.org/art/collection/search/51649"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Zheng He'",
+   "url": "https://www.britannica.com/biography/Zheng-He"
+  }
+ },
+ {
+  "id": "md-ulugh-beg",
+  "era": "medieval",
+  "year": 1425,
+  "dateLabel": "About 1425",
+  "emoji": "🌌",
+  "cat": "discovery",
+  "title": "Ulugh Beg's Star Observatory",
+  "place": "Samarkand, Uzbekistan",
+  "lat": 39.67,
+  "lng": 67.01,
+  "text": "Ulugh Beg, a Timurid prince who loved astronomy more than war, built a great observatory in Samarkand. Its giant curved instrument, sunk into a trench in the hillside, tracked the Sun and stars precisely. His team catalogued about 1,000 stars and measured the length of the year to within about a minute of today's value.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Ulugh Beg'",
+   "url": "https://www.britannica.com/biography/Ulugh-Beg"
+  },
+  "source2": {
+   "name": "Stanford University (F. P. Jazra), 'The Significance of Ulugh Beg's Zij-i Sultani'",
+   "url": "https://web.stanford.edu/~fparviz/introduction.html"
+  }
+ },
+ {
+  "id": "md-hangul",
+  "era": "medieval",
+  "year": 1443,
+  "dateLabel": "1443",
+  "emoji": "✍️",
+  "cat": "culture",
+  "title": "King Sejong Invents an Alphabet",
+  "place": "Seoul, South Korea",
+  "lat": 37.58,
+  "lng": 126.98,
+  "text": "King Sejong the Great created Hangul so ordinary Koreans, not just scholars who had mastered Chinese characters, could read and write. Some consonant letters are drawn to show the shape of the mouth and tongue making that sound. Its official guide, published in 1446, explained the principles behind the letters and praised the new script's excellence.",
+  "source": {
+   "name": "Korean Cultural Center New York (Korean government), 'The spirit and principles behind Hangeul's creation'",
+   "url": "https://www.koreanculture.org/gallery-korea/2024/04/07/hangeul"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Joseon dynasty'",
+   "url": "https://www.britannica.com/topic/Joseon-dynasty"
+  }
+ },
+ {
+  "id": "md-machu-picchu",
+  "era": "medieval",
+  "year": 1450,
+  "dateLabel": "About 1450",
+  "emoji": "🦙",
+  "cat": "culture",
+  "title": "Machu Picchu in the Clouds",
+  "place": "Machu Picchu, Peru",
+  "lat": -13.16,
+  "lng": -72.55,
+  "text": "High in the Andes, the Inca built Machu Picchu, probably as a royal estate for the emperor Pachacuti. Its finest stone blocks were fitted without mortar so tightly that a credit card can't slip between them, a method that helped the walls ride out earthquakes. Spanish conquerors never found it, and it became world-famous after Hiram Bingham's visit in 1911.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Machu Picchu'",
+   "url": "https://www.britannica.com/place/Machu-Picchu"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Historic Sanctuary of Machu Picchu (read via data.unesco.org)",
+   "url": "https://whc.unesco.org/en/list/274"
+  }
+ },
+ {
+  "id": "md-gutenberg-bible",
+  "era": "medieval",
+  "year": 1455,
+  "dateLabel": "About 1455",
+  "emoji": "📖",
+  "cat": "discovery",
+  "title": "Gutenberg Prints a Bible",
+  "place": "Mainz, Germany",
+  "lat": 50,
+  "lng": 8.27,
+  "text": "In Mainz, Johannes Gutenberg finished printing about 180 Bibles using movable metal type and oil-based ink. Movable type had been invented earlier in China and Korea, but his press helped books spread quickly across Europe. Around 49 copies survive today, and many had their colourful decorations painted in by hand after printing.",
+  "source": {
+   "name": "Library of Congress, 'The Gutenberg Bible' (Bible Collection exhibit)",
+   "url": "https://www.loc.gov/exhibits/bibles/interactives/gutenberg/index.html"
+  },
+  "source2": {
+   "name": "Harry Ransom Center, University of Texas at Austin, 'The Gutenberg Bible'",
+   "url": "https://www.hrc.utexas.edu/gutenberg-bible/"
+  }
+ }
+]

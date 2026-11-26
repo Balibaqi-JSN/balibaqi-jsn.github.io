@@ -1,0 +1,414 @@
+[
+ {
+  "id": "v04-tharosaurus-desert-lizard",
+  "era": "deep",
+  "year": -167000000,
+  "dateLabel": "About 167 million years ago",
+  "cat": "discovery",
+  "title": "The Oldest Long-Necked Giant of Its Kind",
+  "place": "Jethwai village, Jaisalmer District, Rajasthan, India",
+  "lat": 26.95,
+  "lng": 70.85,
+  "text": "Near the desert town of Jaisalmer, researchers dug neck, back and tail bones out of a shale bed, scattered over about 25 square metres. They named the plant-eater Tharosaurus indicus, the \"Thar Desert lizard\". It belongs to the dicraeosaurs, a long-necked sauropod family, and its Middle Jurassic rocks make it the earliest known member of the wider diplodocoid group anywhere on Earth.",
+  "source": {
+   "name": "Scientific Reports: Fossils of the oldest diplodocoid dinosaur suggest India was a major centre for neosauropod radiation",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10403599/"
+  }
+ },
+ {
+  "id": "v04-kachchh-ichthyosaur",
+  "era": "deep",
+  "year": -152000000,
+  "dateLabel": "Late Jurassic, about 152 million years ago",
+  "cat": "nature",
+  "title": "A Sea Dragon Buried Nose-First",
+  "place": "Lodai, near Bhuj, Kachchh District, Gujarat, India",
+  "lat": 23.37,
+  "lng": 69.91,
+  "text": "In 2016, a Delhi University and Kachchh University team uncovered India's first Jurassic ichthyosaur, a dolphin-shaped marine reptile about 5 metres long, near Lodai village. The animal seems to have hit the soft seabed snout-first, then settled on its side. Its teeth carry odd grooves and chipped enamel, hinting that this top predator crunched hard prey such as armoured fish or thick-shelled ammonites.",
+  "source": {
+   "name": "PLOS ONE: Discovery of the first ichthyosaur from the Jurassic of India",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5656312/"
+  }
+ },
+ {
+  "id": "v04-dhar-titanosaur-nests",
+  "era": "deep",
+  "year": -67000000,
+  "dateLabel": "Late Cretaceous, about 67 million years ago",
+  "cat": "nature",
+  "title": "Ninety-Two Nests of Giant Dinosaurs",
+  "place": "Bagh and Kukshi area, Dhar District, Madhya Pradesh, India",
+  "lat": 22.36,
+  "lng": 74.79,
+  "text": "Around the villages of Bagh and Kukshi, scientists mapped 92 egg clutches and 256 eggs left by titanosaurs, the huge long-necked dinosaurs. The round eggs measured about 15 to 17 centimetres across, laid in sandy ground near marshy lakes. One egg had a second egg inside it, a defect seen in birds, hinting that these giants may have laid eggs one after another, as birds do.",
+  "source": {
+   "name": "PLOS ONE: New Late Cretaceous titanosaur sauropod dinosaur egg clutches from lower Narmada valley, India",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278242"
+  }
+ },
+ {
+  "id": "v04-kapi-gibbon-tooth",
+  "era": "deep",
+  "year": -13000000,
+  "dateLabel": "About 13 million years ago",
+  "cat": "discovery",
+  "title": "A Shiny Tooth From the First Gibbons",
+  "place": "Sunetar, near Ramnagar, Udhampur District, Jammu and Kashmir, India",
+  "lat": 32.77,
+  "lng": 75.33,
+  "text": "In 2015, researcher Christopher Gilbert was resting on a hill near Ramnagar when he spotted something shiny in a pile of dirt. It was a complete ape molar, about 13 million years old. Named Kapi ramnagarensis, from the Hindi word for ape, it is the oldest known gibbon ancestor and pushes the gibbon fossil record back by at least five million years.",
+  "source": {
+   "name": "ASU News: New fossil ape is discovered in India",
+   "url": "https://news.asu.edu/20200908-new-fossil-ape-discovered-india"
+  },
+  "source2": {
+   "name": "Proceedings of the Royal Society B: New Middle Miocene ape from Ramnagar, India",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7542791/"
+  }
+ },
+ {
+  "id": "v04-sivapithecus-kutch-jaw",
+  "era": "deep",
+  "year": -10500000,
+  "dateLabel": "About 10.5 million years ago",
+  "cat": "discovery",
+  "title": "An Ape Jaw on an Ancient Seashore",
+  "place": "Tapar, Bhachau Taluka, Kachchh District, Gujarat, India",
+  "lat": 23.25,
+  "lng": 70.15,
+  "text": "Miocene apes in India were long known only from the Siwalik Hills in the north. Then, in 2011, fieldworkers at Tapar in Kutch collected an upper jaw of Sivapithecus, an orangutan relative, with its canine and molars still in place. It lay among fossil fish, crocodiles and turtles from a coastal lagoon, and shifted the known range of these apes about ten degrees of latitude south.",
+  "source": {
+   "name": "PLOS ONE: First record of the Miocene hominoid Sivapithecus from Kutch, Gujarat state, western India",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6235281/"
+  }
+ },
+ {
+  "id": "v04-pampore-elephant-marrow",
+  "era": "early",
+  "year": -350000,
+  "dateLabel": "300,000 to 400,000 years ago",
+  "cat": "daily",
+  "title": "A Feast on a Sick Giant Elephant",
+  "place": "Pampore, Kashmir Valley, Jammu and Kashmir, India",
+  "lat": 34.02,
+  "lng": 74.93,
+  "text": "In 2000, a brownish stump in a Pampore quarry, first taken for fossil wood, turned out to be a tusk. The skull belonged to a huge straight-tusked elephant whose sinuses show a chronic infection. Nearby lay 87 tools of basalt, a rock not found locally, and smashed bone flakes. People had broken the bones for marrow: India's earliest known evidence of butchery, though nobody knows if they hunted it.",
+  "source": {
+   "name": "Florida Museum: Rare fossils of extinct elephant document the earliest known instance of butchery in India",
+   "url": "https://www.floridamuseum.ufl.edu/science/rare-fossils-of-extinct-elephant-document-the-earliest-known-instance-of-butchery-in-india/"
+  },
+  "source2": {
+   "name": "Natural History Museum: Ancient humans feasted on a giant elephant in India over 300,000 years ago",
+   "url": "https://nhm.ac.uk/discover/news/2024/november/ancient-humans-feasted-giant-elephant-india-over-300000-years-ago.html"
+  }
+ },
+ {
+  "id": "v04-singi-talav-crystals",
+  "era": "early",
+  "year": -177000,
+  "dateLabel": "About 177,000 years ago",
+  "cat": "culture",
+  "title": "Quartz Crystals Carried for No Reason",
+  "place": "Singi Talav, near Didwana, Rajasthan, India",
+  "lat": 27.4,
+  "lng": 74.57,
+  "text": "On the edge of the Thar Desert, handaxe makers camped beside a lake at Singi Talav when monsoon rains turned the land into grassland. Their tools, dated to about 177,000 years ago, are among the youngest Acheulean handaxes in the world. With them lay six quartz crystals that were carried in but had no obvious use: the oldest dated non-practical objects in South Asia.",
+  "source": {
+   "name": "Scientific Reports: Constraining the chronology and ecology of Late Acheulean and Middle Palaeolithic occupations at the margins of the monsoon",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8492674/"
+  }
+ },
+ {
+  "id": "v04-billasurgam-cave-animals",
+  "era": "early",
+  "year": -165000,
+  "dateLabel": "About 210,000 to 120,000 years ago",
+  "cat": "nature",
+  "title": "The Caves Where India's Animals Endured",
+  "place": "Billasurgam caves, Kurnool District, Andhra Pradesh, India",
+  "lat": 15.43,
+  "lng": 78.16,
+  "text": "The Billasurgam caves hold more than 10 metres of dusty cave earth packed with bones. Cathedral Cave's layers reach back about 210,000 years, and a younger cave even holds ash from the Toba super-eruption. Of 21 mammals identified, from leopards and bears to langurs and porcupines, 20 still live in India today. The odd one out is a gelada-like monkey now found only in Africa.",
+  "source": {
+   "name": "PNAS: Continuity of mammalian fauna over the last 200,000 y in the Indian subcontinent",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4000863/"
+  }
+ },
+ {
+  "id": "v04-sandhav-coast-camp",
+  "era": "early",
+  "year": -114000,
+  "dateLabel": "About 114,000 years ago",
+  "cat": "journeys",
+  "title": "Stone Points Near the Indian Ocean",
+  "place": "Sandhav, Naira Valley, Kachchh District, Gujarat, India",
+  "lat": 23.15,
+  "lng": 68.85,
+  "text": "About 15 kilometres from today's Kachchh coast, Sandhav gave scientists the first directly dated proof of people living near South Asia's shores. Around 114,000 years ago, during a wet phase of strong monsoons, toolmakers left a distinctive tanged point, perhaps a spear tip or knife. Surprisingly, their kit matched inland groups, so these were land-based people, not specialised beachcombers travelling a coastal highway.",
+  "source": {
+   "name": "Max Planck Institute of Geoanthropology: The first directly dated evidence for Palaeolithic occupation on the Indian coast at Sandhav, Kachchh",
+   "url": "https://www.shh.mpg.de/1508604/palaeolithic-sandhav-india"
+  }
+ },
+ {
+  "id": "v04-jwalapuram-toba-years",
+  "era": "early",
+  "year": -74000,
+  "dateLabel": "About 74,000 years ago",
+  "cat": "nature",
+  "title": "Six Monsoons Written in Volcanic Ash",
+  "place": "Jurreru River valley, Jwalapuram, Kurnool District, Andhra Pradesh, India",
+  "lat": 15.32,
+  "lng": 78.13,
+  "text": "When Sumatra's Toba volcano erupted, ash fell up to 3 metres deep in this Indian valley, burying tree trunks and leaves. A newly exposed section shows six ash layers split by thin crusts, read as six yearly monsoons. Instead of a long volcanic winter, they record about a year of mild cooling, then roughly four years of heat and drought, before grasses returned.",
+  "source": {
+   "name": "PNAS Nexus: Seasonally resolved stratigraphy at Jwalapuram India shows regional surface warming after the Toba eruption",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12008719/"
+  }
+ },
+ {
+  "id": "v04-batadomba-first-people",
+  "era": "early",
+  "year": -34000,
+  "dateLabel": "About 36,000 years ago",
+  "cat": "journeys",
+  "title": "Newcomers Who Lived Off the Rainforest",
+  "place": "Batadomba-lena rock shelter, Kuruwita, Ratnapura District, Sri Lanka",
+  "lat": 6.77,
+  "lng": 80.36,
+  "text": "Batadomba-lena, a rock shelter in Sri Lanka's wet-zone rainforest, holds human remains that rank among South Asia's earliest Homo sapiens, from roughly 36,000 years ago. Rainforests were long thought too poor in food and too hard to live in for early people. Yet isotopes in human teeth show that the island's first modern humans relied on forest resources from the start, including dedicated monkey hunting.",
+  "source": {
+   "name": "Max Planck Institute for the Science of Human History: Earliest evidence for human rainforest resource reliance",
+   "url": "https://www.shh.mpg.de/391130/earliest-evidence-for-human-rainforest-resource-reliance"
+  },
+  "source2": {
+   "name": "PNAS: Population increase and environmental deterioration correspond with microlithic innovations in South Asia ca. 35,000 years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2718386/"
+  }
+ },
+ {
+  "id": "v04-patne-microlith-switch",
+  "era": "iceage",
+  "year": -28000,
+  "dateLabel": "About 30,000 years ago",
+  "cat": "discovery",
+  "title": "An Eggshell Dates the Tiny-Tool Revolution",
+  "place": "Patne, Jalgaon District, Maharashtra, India",
+  "lat": 20.45,
+  "lng": 75.03,
+  "text": "At Patne in Maharashtra, an ostrich eggshell buried 4 metres deep was dated to about 30,000 years ago. By then the camp's toolmakers had swapped big flakes and scrapers for tiny backed microliths: crescents, trapezes and triangles made to slot into handles. Across South Asia, sites of this microlith age outnumber older Middle Palaeolithic ones 402 to 153, hinting at growing populations.",
+  "source": {
+   "name": "PNAS: Population increase and environmental deterioration correspond with microlithic innovations in South Asia ca. 35,000 years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2718386/"
+  }
+ },
+ {
+  "id": "v04-jwalapuram9-tiny-blades",
+  "era": "iceage",
+  "year": -27000,
+  "dateLabel": "Between 34,000 and 20,000 years ago",
+  "cat": "daily",
+  "title": "A Rock Shelter Full of Shrinking Tools",
+  "place": "Jwalapuram Locality 9, Jurreru River valley, Kurnool District, Andhra Pradesh, India",
+  "lat": 15.33,
+  "lng": 78.12,
+  "text": "Jwalapuram Locality 9 is a small rock shelter in southern India with more than 3 metres of deposits and over 53,000 stone artefacts in seven layers. Its oldest layers, from before 34,000 years ago, are dominated by scrapers. Then, sometime before 20,000 years ago, slim microblades and backed pieces shaped like crescents and triangles appear, a step-by-step switch to miniature tools.",
+  "source": {
+   "name": "PNAS: Population increase and environmental deterioration correspond with microlithic innovations in South Asia ca. 35,000 years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2718386/"
+  }
+ },
+ {
+  "id": "v04-frogmore-ice-age-drought",
+  "era": "iceage",
+  "year": -20500,
+  "dateLabel": "About 26,000 to 19,000 years ago",
+  "cat": "nature",
+  "title": "When Sri Lanka's Monsoon Went Quiet",
+  "place": "Frogmore grassland, Maskeliya, Central Province, Sri Lanka",
+  "lat": 6.88,
+  "lng": 80.55,
+  "text": "A sediment core from the Frogmore grassland high in Sri Lanka's hills, together with cores from the seabed off Colombo and Negombo, tracks 80,000 years of rain. During the coldest stretch of the last Ice Age, about 26,000 to 19,000 years ago, the island was dry. Colder oceans meant fewer storms, so springtime inter-monsoon showers, not the summer monsoon, supplied most rain.",
+  "source": {
+   "name": "Scientific Reports: Interplay of the Indian summer monsoon and intermonsoon precipitation in Sri Lanka due to ITCZ migration during the last 80000 years",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11436829/"
+  }
+ },
+ {
+  "id": "v04-indus-canyon-monsoon-mud",
+  "era": "iceage",
+  "year": -12000,
+  "dateLabel": "About 16,000 to 12,000 years ago",
+  "cat": "nature",
+  "title": "Monsoon Winds Recorded in Seabed Mud",
+  "place": "Indus submarine canyon, northeastern Arabian Sea, off Sindh, Pakistan",
+  "lat": 23.12,
+  "lng": 66.5,
+  "text": "A 20-metre core pulled from 571 metres down, beside the Indus submarine canyon off Pakistan, holds finely layered mud from the end of the last Ice Age. Scanning it in strips thinner than a millimetre, scientists found that summer monsoon winds rose and fell with climate swings near distant Greenland, while winter monsoon winds slowly weakened over millennia as the world warmed.",
+  "source": {
+   "name": "Nature Geoscience: Contrasting drivers of South Asian summer and winter monsoon evolution during the last deglaciation",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13447086/"
+  }
+ },
+ {
+  "id": "v04-kuragala-plant-eaters",
+  "era": "iceage",
+  "year": -12000,
+  "dateLabel": "About 20,000 to 3,000 years ago",
+  "cat": "daily",
+  "title": "Forest Foragers Who Turned to Plants",
+  "place": "Balangoda Kuragala, Ratnapura District, Sri Lanka",
+  "lat": 6.6,
+  "lng": 80.75,
+  "text": "Zinc isotopes in the tooth enamel of 24 people from three Sri Lankan rainforest caves, including Balangoda Kuragala, reveal where they sat in the food chain. From the late Ice Age onward, their values drift toward those of plant-eaters. Long before millet farming arrived about 3,000 years ago, forest foragers were eating ever more plants, a menu earlier digs show included breadfruit and kekuna nuts.",
+  "source": {
+   "name": "Nature Ecology & Evolution: Pre-agricultural intensification of plant use in Pleistocene Sri Lankan rainforests",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13345896/"
+  }
+ },
+ {
+  "id": "v04-bhirrana-monsoon-settlers",
+  "era": "ancient",
+  "year": -6500,
+  "dateLabel": "About 6500 BCE",
+  "cat": "nature",
+  "title": "Settlers Who Came With the Rains",
+  "place": "Bhirrana, Fatehabad District, Haryana, India",
+  "lat": 29.55,
+  "lng": 75.55,
+  "text": "Bhirrana, beside the dry bed of the Ghaggar-Hakra river, preserves every phase of Indus history, beginning with a pre-Harappan level of pit dwellings and incised pottery. Oxygen isotopes in cattle, goat and deer teeth suggest its first settlers arrived when the monsoon was strong, which the study dates to roughly 9,500 to 8,000 years ago. Fish bones and turtle shells point to wetter land.",
+  "source": {
+   "name": "Scientific Reports: Oxygen isotope in archaeological bioapatites from India: Implications to climate change and decline of Bronze Age Harappan civilization",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4879637/"
+  }
+ },
+ {
+  "id": "v04-vaharvo-timbo-blackbuck",
+  "era": "ancient",
+  "year": -5300,
+  "dateLabel": "About 5600 to 5000 BCE",
+  "cat": "daily",
+  "title": "Blackbuck Hunters on a Sand Dune",
+  "place": "Vaharvo Timbo, Runi, Patan District, Gujarat, India",
+  "lat": 23.55,
+  "lng": 71.8,
+  "text": "On a sand dune in north Gujarat, hunter-gatherers camped at Vaharvo Timbo for about 600 years. Excavators found blades, tiny geometric tools of agate, carnelian and chert, and roughly 5,000 waste chips, with many finished tools apparently never used. The hunters mostly chased blackbuck antelope, gathered wild sesame and grasses, and wore beads made from Dentalium, a tusk-shaped seashell.",
+  "source": {
+   "name": "PLOS ONE: Microlithic variation and the Mesolithic occupations of western India",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9216571/"
+  }
+ },
+ {
+  "id": "v04-mehrgarh-redated-graves",
+  "era": "ancient",
+  "year": -5000,
+  "dateLabel": "About 5200 to 4900 BCE",
+  "cat": "discovery",
+  "title": "Mehrgarh's Farmers Arrive Late",
+  "place": "Mehrgarh, Kachi Plain, Balochistan, Pakistan",
+  "lat": 29.39,
+  "lng": 67.62,
+  "text": "Mehrgarh is famed as the Indus region's first farming village, long thought to begin around 8000 BCE and last three millennia. New radiocarbon dates on tooth enamel from 23 graves tell a different story: its pottery-free cemetery began about 5200 to 4900 BCE and lasted only two to five centuries. The team argues farming arrived with incoming farmers, not as a local invention.",
+  "source": {
+   "name": "Scientific Reports: New radiocarbon dates of human tooth enamel reveal a late appearance of farming life in the Indus Valley",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12000376/"
+  }
+ },
+ {
+  "id": "v04-masudpur-rice-taming",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2600 to 1900 BCE",
+  "cat": "daily",
+  "title": "Taming Rice Without Paddy Fields",
+  "place": "Masudpur, Hisar District, Haryana, India",
+  "lat": 29.23,
+  "lng": 75.98,
+  "text": "Near the Indus city of Rakhigarhi, archaeologists sifted village soils at Masudpur for charred rice spikelet bases, the tiny scars where grains attach. In Mature Harappan layers most looked wild; in later layers domestic types took over. Indus farmers seem to have slowly domesticated local rice, without wet paddies, before East Asian japonica rice and paddy farming arrived around 2000 BCE.",
+  "source": {
+   "name": "Journal of Archaeological Science: Approaching rice domestication in South Asia: New evidence from Indus settlements in northern India",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7773629/"
+  }
+ },
+ {
+  "id": "v04-harappa-child-migrants",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2600 to 1900 BCE",
+  "cat": "journeys",
+  "title": "Cities Filled With Childhood Migrants",
+  "place": "Harappa cemetery, Sahiwal District, Punjab, Pakistan",
+  "lat": 30.63,
+  "lng": 72.86,
+  "text": "Tooth enamel records where a child grew up. At Harappa, and at Farmana in India, scientists compared strontium, lead and oxygen in first molars, formed by about age three, with molars formed later. Most first molars carried non-local signatures, while later teeth shifted toward local values. The cemeteries seem filled almost entirely with people who moved to the cities as young children.",
+  "source": {
+   "name": "PLOS ONE: Evidence for Patterns of Selective Urban Migration in the Greater Indus Valley (2600-1900 BC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4414352/"
+  }
+ },
+ {
+  "id": "v04-kanmer-dung-fires",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2600 to 1900 BCE",
+  "cat": "daily",
+  "title": "Dung Cakes for Indus Kitchens",
+  "place": "Kanmer, Rapar Taluka, Kachchh District, Gujarat, India",
+  "lat": 23.43,
+  "lng": 70.87,
+  "text": "At Kanmer, a walled Harappan town in Kachchh, burnt remains show what fed the fires. People burned thorny scrub wood, a little mangrove, and plenty of dung, whose tell-tale crystals turned up in seven of eight fireplaces. A kiln, probably for beads or pots, held only dung ash. One charred scrap came from a nutmeg-family tree growing about 500 kilometres away.",
+  "source": {
+   "name": "PLOS ONE: 'Not all that burns is wood'. A social perspective on fuel exploitation and use during the Indus urban period (2600-1900 BC)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5841642/"
+  }
+ },
+ {
+  "id": "v04-khirsara-millet-switch",
+  "era": "ancient",
+  "year": -2200,
+  "dateLabel": "About 2200 BCE",
+  "cat": "daily",
+  "title": "Swapping Barley for Millet in a Drought",
+  "place": "Khirsara, Kachchh District, Gujarat, India",
+  "lat": 23.45,
+  "lng": 69.05,
+  "text": "Khirsara was a fortified Harappan town in Kachchh with a warehouse, a well and workshops for shell bangles and beads. Around 4,200 years ago, as severe drought set in, its farmers changed crops. Barley had made up about 73 percent of grains; soon millets such as foxtail, pearl and finger millet reached 85 percent. The town survived, but its pottery grew coarser.",
+  "source": {
+   "name": "PLOS ONE: Altered cropping pattern and cultural continuation with declined prosperity following abrupt and extreme arid event at ~4,200 yrs BP: Evidence from an Indus archaeological site Khirsara",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5630146/"
+  }
+ },
+ {
+  "id": "v04-burzahom-skull-surgery-dna",
+  "era": "ancient",
+  "year": -2005,
+  "dateLabel": "About 2000 BCE",
+  "cat": "discovery",
+  "title": "Skull Surgery and Deep Roots in Kashmir",
+  "place": "Burzahom, Srinagar District, Jammu and Kashmir, India",
+  "lat": 34.17,
+  "lng": 74.87,
+  "text": "Neolithic Burzahom buried its dead with animals and red ochre, and several skulls show trepanation, holes deliberately cut into the head, with seven complete cases reported. Now scientists have read a full mitochondrial genome from one Neolithic person dated to about 2000 BCE. Its maternal line, M65, still survives among people in Kashmir today, suggesting deep local roots.",
+  "source": {
+   "name": "Scientific Reports: Ancient mitogenomes from Neolithic, megalithic and medieval burials suggest complex genetic history of Kashmir valley, India",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12511581/"
+  }
+ },
+ {
+  "id": "v04-hiregudda-axe-hill",
+  "era": "ancient",
+  "year": -1400,
+  "dateLabel": "About 1400 to 1300 BCE",
+  "cat": "culture",
+  "title": "From Dung Fires to an Axe Factory",
+  "place": "Hiregudda (Kupgal Hill), near Sanganakallu, Ballari District, Karnataka, India",
+  "lat": 15.19,
+  "lng": 76.97,
+  "text": "Neolithic herders on Hiregudda, or Kupgal Hill, near Ballari first piled up a mound of burnt cattle dung ash. Later the hilltop became a village, busiest from about 1700 to 1500 BCE, its slopes dotted with rock art and stone walls. Around 1400 to 1300 BCE it turned into a large stone axe workshop, as new black-and-red pottery and child urn burials appeared.",
+  "source": {
+   "name": "UCL Institute of Archaeology (Fuller, Boivin and Korisettar): Dating the Neolithic of South India, author manuscript",
+   "url": "https://www.homepages.ucl.ac.uk/%7Etcrndfu/web_project/docs/FullerBoivinKorisettar%20Manuscript%200706.pdf"
+  }
+ }
+]

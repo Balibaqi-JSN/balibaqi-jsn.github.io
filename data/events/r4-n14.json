@@ -1,0 +1,378 @@
+[
+ {
+  "id": "n14-biskupin-island-town",
+  "era": "ancient",
+  "year": -738,
+  "dateLabel": "738–737 BCE",
+  "cat": "daily",
+  "title": "A Wooden Town on a Lake",
+  "place": "Biskupin, Żnin district, Poland",
+  "lat": 52.79,
+  "lng": 17.74,
+  "text": "Around 738–737 BCE, people of the Lusatian culture founded a fortified settlement at Biskupin in what is now Poland. It had about 100 houses whose gable walls adjoined each other, lined up along 11 perpendicular streets joined by a ring street running inside the rampart. A breakwater outside the rampart kept lake waves from damaging the defences.",
+  "source": {
+   "name": "Archaeological Museum in Poznań: Bronze Age and the Dawn of Iron Age",
+   "url": "https://nowa.muzarp.poznan.pl/en/bronze-age-and-the-dawn-of-iron-age-1"
+  }
+ },
+ {
+  "id": "n14-vasa-sinks",
+  "era": "exploration",
+  "year": 1628,
+  "dateLabel": "August 10, 1628",
+  "cat": "journeys",
+  "title": "The Warship That Sank in Minutes",
+  "place": "Stockholm harbour, Sweden",
+  "lat": 59.32,
+  "lng": 18.09,
+  "text": "On 10 August 1628 Vasa, the most powerful warship in the Baltic, sank in Stockholm harbour just minutes after setting sail for the first time. Its upper hull was too tall and heavy, and its gun ports had been left open. About 30 people died. Searchers confirmed the wreck in 1956, and on 24 April 1961 it broke the surface again.",
+  "source": {
+   "name": "Vasa Museum: The disaster",
+   "url": "https://www.vasamuseet.se/en/vasa-history/disaster"
+  },
+  "source2": {
+   "name": "Vasa Museum: The salvage",
+   "url": "https://www.vasamuseet.se/en/vasa-history/salvage"
+  }
+ },
+ {
+  "id": "n14-tycho-new-star",
+  "era": "exploration",
+  "year": 1572,
+  "dateLabel": "November 11, 1572",
+  "cat": "discovery",
+  "title": "A New Star in Cassiopeia",
+  "place": "Herrevad Abbey, Skåne, Sweden (then Denmark)",
+  "lat": 56.09,
+  "lng": 13.24,
+  "text": "On the early evening of 11 November 1572, after a session of alchemy experiments, the Danish astronomer Tycho Brahe spotted an extra star in Cassiopeia and had his assistant confirm it. His careful observations, published in 1574, helped show the star truly belonged to the heavens, not the nearby world below the Moon. Astronomers now call it Tycho’s supernova.",
+  "source": {
+   "name": "MacTutor History of Mathematics, University of St Andrews: Tycho Brahe",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahe.html"
+  },
+  "source2": {
+   "name": "NASA Chandra X-ray Observatory: Tycho’s Supernova Remnant",
+   "url": "https://chandra.harvard.edu/photo/2011/tycho/"
+  }
+ },
+ {
+  "id": "n14-warsaw-confederation",
+  "era": "exploration",
+  "year": 1573,
+  "dateLabel": "January 28, 1573",
+  "cat": "power",
+  "title": "A Promise of Religious Peace",
+  "place": "Warsaw, Poland",
+  "lat": 52.23,
+  "lng": 21.01,
+  "text": "When the last Jagiellonian king died in July 1572, Poland had no rules for running the state without a king. A general convention met in Warsaw in January 1573 and agreed the Confederation of Warsaw, which set out peaceful co-existence for nobles of all religious denominations. In 2003 UNESCO added the document to its Memory of the World Register.",
+  "source": {
+   "name": "UNESCO Memory of the World: The Confederation of Warsaw of 28th of January 1573",
+   "url": "https://www.unesco.org/en/memory-world/confederation-warsaw-28th-january-1573-religious-tolerance-guaranteed"
+  }
+ },
+ {
+  "id": "n14-althing-thingvellir",
+  "era": "medieval",
+  "year": 930,
+  "dateLabel": "930",
+  "cat": "power",
+  "title": "A Parliament in a Rift Valley",
+  "place": "Þingvellir, Iceland",
+  "lat": 64.26,
+  "lng": -21.13,
+  "text": "In 930 Icelanders set up the Althing, an open-air assembly for the whole island, in a dramatic rift valley at Þingvellir. For two weeks each year it made laws and settled disputes, and it kept meeting there until 1798. Visitors can still see fragments of around 50 booths built from turf and stone, where people stayed during the assembly.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Þingvellir National Park",
+   "url": "https://whc.unesco.org/en/list/1152/"
+  }
+ },
+ {
+  "id": "n14-jelling-stone",
+  "era": "medieval",
+  "year": 965,
+  "dateLabel": "About 965",
+  "cat": "culture",
+  "title": "Denmark’s Birth Certificate",
+  "place": "Jelling, Jutland, Denmark",
+  "lat": 55.76,
+  "lng": 9.42,
+  "text": "Around 965 King Harald Bluetooth raised a huge rune stone at Jelling between two burial mounds, in memory of his parents Gorm and Thyra. Its inscription boasts that Harald won all Denmark and Norway and made the Danes Christians. One face shows the earliest picture of Christ in Scandinavia, and the stone is often called Denmark’s birth certificate.",
+  "source": {
+   "name": "National Museum of Denmark: The Jelling Stone",
+   "url": "https://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-viking-age/the-monuments-at-jelling/the-jelling-stone"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Jelling Mounds, Runic Stones and Church",
+   "url": "https://whc.unesco.org/en/list/697/"
+  }
+ },
+ {
+  "id": "n14-sarmizegetusa-falls",
+  "era": "classical",
+  "year": 106,
+  "dateLabel": "106 CE",
+  "cat": "power",
+  "title": "The Last Stand of the Dacian King",
+  "place": "Sarmizegetusa Regia, Orăștie Mountains, Romania",
+  "lat": 45.62,
+  "lng": 23.31,
+  "text": "King Decebalus united the Dacian tribes of what is now Romania and led them in wars against the Roman emperors Domitian and Trajan. In 106 the emperor Trajan seized the capital, Sarmizegetusa, for a second time, and the defeated king took his own life. Dacia became a Roman province, and Trajan’s Column in Rome still shows scenes of the war.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Decebalus",
+   "url": "https://www.britannica.com/biography/Decebalus"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Dacian Fortresses of the Orastie Mountains",
+   "url": "https://whc.unesco.org/en/list/906/"
+  }
+ },
+ {
+  "id": "n14-ovid-exiled-tomis",
+  "era": "classical",
+  "year": 8,
+  "dateLabel": "8 CE",
+  "cat": "culture",
+  "title": "A Poet Banished to the Black Sea",
+  "place": "Tomis (Constanța), Romania",
+  "lat": 44.17,
+  "lng": 28.65,
+  "text": "In 8 CE the emperor Augustus banished the famous Roman poet Ovid to Tomis, a port on the Black Sea first settled by Greeks. Ovid blamed his love-advice poem Ars amatoria and a mysterious “error”. From exile he wrote the Tristia and Letters from the Black Sea, pleading for pardon, but neither Augustus nor Tiberius relented. He died at Tomis in 17 CE.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Ovid",
+   "url": "https://www.britannica.com/biography/Ovid-Roman-poet"
+  }
+ },
+ {
+  "id": "n14-mithradates-kerch",
+  "era": "classical",
+  "year": -63,
+  "dateLabel": "63 BCE",
+  "cat": "power",
+  "title": "Rome’s Great Enemy Meets His End",
+  "place": "Panticapaeum (Kerch), Crimea, Ukraine",
+  "lat": 45.35,
+  "lng": 36.47,
+  "text": "Mithradates VI, king of Pontus, contested Rome’s power in Asia Minor. After Pompey defeated him, he set himself up at Panticapaeum, today’s Kerch, and was planning to invade Italy by way of the Danube. In 63 BCE his own troops, led by his son Pharnaces, turned against him. When his attempt to poison himself failed, he ordered a Gallic mercenary to kill him.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Mithradates VI Eupator",
+   "url": "https://www.britannica.com/biography/Mithradates-VI-Eupator"
+  }
+ },
+ {
+  "id": "n14-kazanlak-tomb",
+  "era": "classical",
+  "year": -305,
+  "dateLabel": "End of the 4th century BCE",
+  "cat": "culture",
+  "title": "Painted Walls of a Thracian Tomb",
+  "place": "Kazanlak, Stara Zagora Province, Bulgaria",
+  "lat": 42.63,
+  "lng": 25.4,
+  "text": "Near Seutopolis, capital of the Thracian king Seutes III, a tomb was built around the end of the 4th century BCE. Its narrow corridor and round burial chamber are painted with murals of Thracian burial rituals and culture. Found in 1944, the frescoes are Bulgaria’s best-preserved artworks from the Hellenistic period, and visitors now see a copy in a nearby museum.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Thracian Tomb of Kazanlak",
+   "url": "https://whc.unesco.org/en/list/44/"
+  }
+ },
+ {
+  "id": "n14-st-sophia-kyiv",
+  "era": "medieval",
+  "year": 1037,
+  "dateLabel": "1037 (construction begins)",
+  "cat": "culture",
+  "title": "A Cathedral of Many Domes",
+  "place": "Saint Sophia Cathedral, Kyiv, Ukraine",
+  "lat": 50.45,
+  "lng": 30.51,
+  "text": "Grand Prince Yaroslav the Wise founded Saint Sophia Cathedral, built between 1037 and 1044 by local builders working with Byzantine masters. One large central dome rises above 12 smaller ones, and inside, an 11th-century mosaic of Christ Pantocrator gazes down from the central dome. Yaroslav founded Ukraine’s first library here, and his sarcophagus still survives inside.",
+  "source": {
+   "name": "Encyclopedia of Ukraine: Saint Sophia Cathedral",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CS%5CA%5CSaintSophiaCathedral.htm"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre: Kyiv: Saint-Sophia Cathedral and Related Monastic Buildings, Kyiv-Pechersk Lavra",
+   "url": "https://whc.unesco.org/en/list/527/"
+  }
+ },
+ {
+  "id": "n14-darius-scythia",
+  "era": "ancient",
+  "year": -513,
+  "dateLabel": "About 513 BCE",
+  "cat": "journeys",
+  "title": "Chasing Scythians Who Would Not Fight",
+  "place": "Lower Danube into Scythia, Odesa Oblast, Ukraine",
+  "lat": 45.35,
+  "lng": 28.84,
+  "text": "In about 513 BCE the Persian king Darius I marched into Europe over a pontoon bridge across the Bosporus, then crossed the Danube on a bridge of boats into Scythia. The Scythians refused battle and retreated, laying waste to the land as they went. After chasing them for a month, harassed and facing October weather, Darius turned back.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Darius iii. Darius I the Great",
+   "url": "https://www.iranicaonline.org/articles/darius-iii"
+  }
+ },
+ {
+  "id": "n14-kaali-crater",
+  "era": "ancient",
+  "year": -1530,
+  "dateLabel": "Shortly after 1530–1450 BCE",
+  "cat": "nature",
+  "title": "A Fireball Hits an Inhabited Island",
+  "place": "Kaali, Saaremaa, Estonia",
+  "lat": 58.37,
+  "lng": 22.67,
+  "text": "Scientists once disagreed by as much as 6,000 years about when a space rock blasted the Kaali crater on the Estonian island of Saaremaa. By radiocarbon dating charcoal trapped in the debris thrown out by the impact, a 2016 study concluded it most probably formed shortly after 1530–1450 BCE. People already lived on Saaremaa when the bolide struck.",
+  "source": {
+   "name": "Losiak et al., Meteoritics & Planetary Science (2016): Dating a small impact crater, abstract via Estonian geoscience literature database",
+   "url": "https://kirjandus.geoloogia.info/en/reference/20777"
+  }
+ },
+ {
+  "id": "n14-charles-university",
+  "era": "medieval",
+  "year": 1348,
+  "dateLabel": "1348",
+  "cat": "culture",
+  "title": "A University for Prague",
+  "place": "Prague, Czechia",
+  "lat": 50.09,
+  "lng": 14.42,
+  "text": "In 1348 Charles IV, King of Bohemia and Holy Roman Emperor, founded a university in Prague. Modelled on the universities of Bologna and Paris, it was the first of its kind north of the Alps and east of Paris, with faculties of theology, liberal arts, law and medicine. The reformer Jan Hus later served as its rector.",
+  "source": {
+   "name": "Charles University: History",
+   "url": "https://cuni.cz/UKEN-106.html"
+  }
+ },
+ {
+  "id": "n14-battle-of-mohi",
+  "era": "medieval",
+  "year": 1241,
+  "dateLabel": "April 10, 1241",
+  "cat": "power",
+  "title": "Mongol Explosives at the Sajó River",
+  "place": "Muhi, Sajó River, Hungary",
+  "lat": 47.98,
+  "lng": 20.92,
+  "text": "On 10 April 1241 Mongol forces under Batu Khan and his general Subutai attacked King Béla IV’s Hungarian army at the Sajó River. Using catapult-fired explosives, they forced a crossing and encircled the Hungarian camp. Béla fled to Croatia, and the Mongols burned Pest. When he returned, he began rebuilding with a strong network of fortifications.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Battle of Mohi",
+   "url": "https://www.britannica.com/event/Battle-of-Mohi"
+  }
+ },
+ {
+  "id": "n14-hermitage-founded",
+  "era": "exploration",
+  "year": 1764,
+  "dateLabel": "1764",
+  "cat": "culture",
+  "title": "An Empress’s Private Gallery",
+  "place": "Hermitage, Saint Petersburg, Russia",
+  "lat": 59.94,
+  "lng": 30.31,
+  "text": "In 1764 Catherine the Great founded the Hermitage as a court museum beside the Winter Palace, a private gallery for the art she collected. It opened to the public only in 1852. Today it fills five connected buildings and holds nearly three million items, from Stone Age objects to modern works, including one of the world’s richest collections of European painting.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Hermitage",
+   "url": "https://www.britannica.com/topic/Hermitage-museum-Saint-Petersburg-Russia"
+  }
+ },
+ {
+  "id": "n14-fedorovych-lviv-primer",
+  "era": "exploration",
+  "year": 1574,
+  "dateLabel": "1574",
+  "cat": "culture",
+  "title": "A Printer’s ABC Book in Lviv",
+  "place": "Saint Onuphrius Monastery, Lviv, Ukraine",
+  "lat": 49.85,
+  "lng": 24.03,
+  "text": "Ivan Fedorovych had printed church books in Moscow before he settled in Lviv in 1572. Working at Saint Onuphrius Monastery, in 1574 he published a new edition of the Apostolos with his own life story at the end, plus an Azbuka, a primer for learning letters. His Lviv tombstone praises him for having renewed neglected printing.",
+  "source": {
+   "name": "Encyclopedia of Ukraine: Fedorovych (Fedorov), Ivan",
+   "url": "https://www.encyclopediaofukraine.com/pages/F/E/FedorovychFedorovIvan.htm"
+  }
+ },
+ {
+  "id": "n14-linnaeus-lapland",
+  "era": "exploration",
+  "year": 1732,
+  "dateLabel": "May 12, 1732 (journey begins)",
+  "cat": "journeys",
+  "title": "Linnaeus Walks Into Lapland",
+  "place": "Lapland, northern Sweden",
+  "lat": 66.6,
+  "lng": 19.8,
+  "text": "On 12 May 1732 the 25-year-old Carl Linnaeus set out from Uppsala for Lapland. Over six months he covered more than 2,000 km, guided through wild country by the Saami people, who fascinated him. He described about a hundred plants new to science, plus birds, fish and minerals. The Linnean Society in London still keeps his travel diary and a carved walking stick.",
+  "source": {
+   "name": "Linnean Society of London: Linnaeus in Lapland",
+   "url": "https://www.linnean.org/news/2020/02/04/4-february-2020-linnaeus-in-lapland"
+  }
+ },
+ {
+  "id": "n14-eidsvoll-constitution",
+  "era": "industrial",
+  "year": 1814,
+  "dateLabel": "May 17, 1814",
+  "cat": "power",
+  "title": "Six Weeks to Write a Constitution",
+  "place": "Eidsvoll Verk, Viken, Norway",
+  "lat": 60.31,
+  "lng": 11.15,
+  "text": "On 10 April 1814, 112 elected representatives arrived at Eidsvoll Verk to write a constitution for Norway. After six weeks of intense work and votes in May, the Constitution was dated 17 May 1814, and the Danish prince Christian Frederik was elected King of Norway. By November that year, Norway had entered a union with Sweden under an amended Constitution.",
+  "source": {
+   "name": "Eidsvoll 1814 (Norwegian Parliament): The Constituent Assembly",
+   "url": "https://eidsvoll1814.no/en/the-constituent-assembly"
+  },
+  "source2": {
+   "name": "Eidsvoll 1814: The story of 1814 in 1-2-3",
+   "url": "https://eidsvoll1814.no/en/the-story-of-1814-in-123"
+  }
+ },
+ {
+  "id": "n14-pushkin-banished-south",
+  "era": "industrial",
+  "year": 1820,
+  "dateLabel": "May 1820",
+  "cat": "culture",
+  "title": "A Poet Sent Into Exile",
+  "place": "Yekaterinoslav (Dnipro), Ukraine",
+  "lat": 48.46,
+  "lng": 35.05,
+  "text": "In 1820 Aleksandr Pushkin published Ruslan and Ludmila, a romantic poem drawing on Russian folklore. That May, his political verses got him banished from St Petersburg to the remote south, first to Yekaterinoslav, now Dnipro in Ukraine. Travels in the Caucasus and Crimea during his exile gave him material for a famous cycle of romantic poems.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Aleksandr Pushkin",
+   "url": "https://www.britannica.com/biography/Aleksandr-Sergeyevich-Pushkin"
+  }
+ },
+ {
+  "id": "n14-november-uprising",
+  "era": "industrial",
+  "year": 1830,
+  "dateLabel": "November 29, 1830",
+  "cat": "power",
+  "title": "Cadets Rise Up in Warsaw",
+  "place": "Warsaw, Poland",
+  "lat": 52.24,
+  "lng": 21.02,
+  "text": "When Tsar Nicholas I signalled he might use the Polish Army against a revolution in Paris, a secret society of infantry cadets launched an uprising in Warsaw on 29 November 1830. They seized weapons from the arsenal and armed the city’s people. The revolt spread into Lithuania, Belarus and Ukraine, but when Russian troops attacked Warsaw in September 1831, the Polish Army withdrew.",
+  "source": {
+   "name": "Encyclopaedia Britannica: November Insurrection",
+   "url": "https://www.britannica.com/event/November-Insurrection"
+  }
+ },
+ {
+  "id": "n14-riga-port-town",
+  "era": "medieval",
+  "year": 1201,
+  "dateLabel": "1201",
+  "cat": "daily",
+  "title": "Riga, a Port for Hanseatic Trade",
+  "place": "Riga, Latvia",
+  "lat": 56.95,
+  "lng": 24.11,
+  "text": "Riga was founded as a port town in 1201. From the 13th to the 15th century it was one of the key centres of the Hanseatic League in Eastern Europe, growing rich on trade with central and eastern Europe. Many of its earliest buildings were later lost to fire or war, but the medieval core still reflects that prosperity.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Historic Centre of Riga",
+   "url": "https://whc.unesco.org/en/list/852/"
+  }
+ }
+]

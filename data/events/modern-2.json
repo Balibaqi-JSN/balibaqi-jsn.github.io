@@ -1,0 +1,1553 @@
+[
+ {
+  "id": "mo2-panama-canal",
+  "era": "modern",
+  "year": 1914,
+  "dateLabel": "August 15, 1914",
+  "emoji": "🚢",
+  "cat": "journeys",
+  "title": "A Shortcut Between Two Oceans",
+  "place": "Panama Canal, Panama",
+  "lat": 9.08,
+  "lng": -79.68,
+  "text": "The cargo ship SS Ancon made the first official trip through the Panama Canal, cutting thousands of kilometres off the voyage around South America. Giant water-filled locks lift ships about 26 metres up to an artificial lake and back down again. Tens of thousands of workers, many from the Caribbean, built it, and thousands died of disease and accidents along the way.",
+  "source": {
+   "name": "Panama Canal Authority: 107-year timeline",
+   "url": "https://pancanal.com/en/history/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Panama Canal",
+   "url": "https://www.britannica.com/topic/Panama-Canal"
+  }
+ },
+ {
+  "id": "mo2-gallipoli",
+  "era": "modern",
+  "year": 1915,
+  "dateLabel": "April 25, 1915",
+  "emoji": "🎖️",
+  "cat": "power",
+  "title": "The Landing at Gallipoli",
+  "place": "Anzac Cove, Turkey",
+  "lat": 40.24,
+  "lng": 26.28,
+  "text": "Allied troops, including Australians and New Zealanders, landed on Ottoman beaches hoping to knock the Ottoman Empire out of the First World War. The campaign failed after eight months, with heavy losses on both sides. An Ottoman officer there, Mustafa Kemal, later founded modern Turkey, and April 25 is still remembered as Anzac Day.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Gallipoli Campaign",
+   "url": "https://www.britannica.com/event/Gallipoli-Campaign"
+  },
+  "source2": {
+   "name": "Australian War Memorial: Gallipoli",
+   "url": "https://www.awm.gov.au/articles/encyclopedia/gallipoli"
+  }
+ },
+ {
+  "id": "mo2-october-revolution",
+  "era": "modern",
+  "year": 1917,
+  "dateLabel": "November 7, 1917",
+  "emoji": "🚩",
+  "cat": "power",
+  "title": "The Storming of the Winter Palace",
+  "place": "St Petersburg, Russia",
+  "lat": 59.94,
+  "lng": 30.31,
+  "text": "Lenin's Bolsheviks seized power in Petrograd, arresting the ministers of the government in the tsars' old Winter Palace. Russia still used the old Julian calendar, so locals called it the October Revolution even though it was November elsewhere. A civil war followed, and in 1922 the Soviet Union was born.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Russian Revolution (The February Revolution and the Bolshevik Revolution)",
+   "url": "https://www.britannica.com/event/Russian-Revolution/The-February-Revolution"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Soviet Union",
+   "url": "https://www.britannica.com/place/Soviet-Union"
+  }
+ },
+ {
+  "id": "mo2-may-fourth",
+  "era": "modern",
+  "year": 1919,
+  "dateLabel": "May 4, 1919",
+  "emoji": "📣",
+  "cat": "culture",
+  "title": "Students Fill Tiananmen Square",
+  "place": "Beijing, China",
+  "lat": 39.9,
+  "lng": 116.39,
+  "text": "About 3,000 Beijing students marched in fury after the peace talks ending the First World War handed German-held land in Shandong to Japan instead of back to China. The May Fourth Movement grew into a wider push for science, democracy and writing in everyday spoken Chinese instead of the old classical style. Many future leaders, including founders of the Communist Party, came out of it.",
+  "source": {
+   "name": "Encyclopaedia Britannica: May Fourth Movement",
+   "url": "https://www.britannica.com/event/May-Fourth-Movement"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Tiananmen Square",
+   "url": "https://www.britannica.com/topic/Tiananmen-Square"
+  }
+ },
+ {
+  "id": "mo2-march-first",
+  "era": "modern",
+  "year": 1919,
+  "dateLabel": "March 1, 1919",
+  "emoji": "🇰🇷",
+  "cat": "power",
+  "title": "Korea Declares Independence",
+  "place": "Seoul, South Korea",
+  "lat": 37.57,
+  "lng": 126.99,
+  "text": "Under Japanese rule, Korean leaders signed a Declaration of Independence, and a student read it aloud in Seoul's Tapgol Park, sparking peaceful protests across the country. About two million people joined, and the colonial police cracked down hard. A teenage schoolgirl, Yu Gwan-sun, died in prison after torture, and March 1st is now a public holiday.",
+  "source": {
+   "name": "Encyclopaedia Britannica: March First Movement",
+   "url": "https://www.britannica.com/event/March-First-Movement"
+  },
+  "source2": {
+   "name": "Korea JoongAng Daily: The quiet city park where independence was declared",
+   "url": "https://www.koreajoongangdaily.com/lifestyle/the-quiet-city-park-where-independence-was-declared/10016552"
+  }
+ },
+ {
+  "id": "mo2-insulin",
+  "era": "modern",
+  "year": 1922,
+  "dateLabel": "January 1922",
+  "emoji": "💉",
+  "cat": "discovery",
+  "title": "Insulin Saves a Dying Boy",
+  "place": "Toronto, Canada",
+  "lat": 43.66,
+  "lng": -79.39,
+  "text": "At the University of Toronto, Frederick Banting, Charles Best and their colleagues purified insulin, the hormone that people with diabetes lack. In January 1922 a 14-year-old boy, Leonard Thompson, became the first person treated, and he recovered. The discoverers sold the patent to the university for a symbolic one dollar each so the medicine could reach as many people as possible.",
+  "source": {
+   "name": "PMC: The discovery of insulin revisited: lessons for the modern era",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7773348"
+  }
+ },
+ {
+  "id": "mo2-kanto-earthquake",
+  "era": "modern",
+  "year": 1923,
+  "dateLabel": "September 1, 1923",
+  "emoji": "🔥",
+  "cat": "nature",
+  "title": "The Great Kantō Earthquake",
+  "place": "Tokyo, Japan",
+  "lat": 35.68,
+  "lng": 139.76,
+  "text": "A huge earthquake struck just before noon, when families were cooking lunch over open flames, so fires swept through wooden Tokyo and Yokohama. More than 100,000 people died, and in the chaos false rumours led mobs to kill thousands of Korean residents. Japan now marks September 1 as Disaster Prevention Day with drills in schools and offices.",
+  "source": {
+   "name": "The Japan Times (Deep Dive podcast transcript, 2023)",
+   "url": "https://www.japantimes.co.jp/podcast/2023/08/31/deep-dive/tokyo-kanto-1923-earthquake/"
+  },
+  "source2": {
+   "name": "The Japan Times (2016, Disaster Prevention Day)",
+   "url": "https://www.japantimes.co.jp/news/2016/03/11/national/maintaining-remnants-disaster-future/"
+  }
+ },
+ {
+  "id": "mo2-turkish-republic",
+  "era": "modern",
+  "year": 1923,
+  "dateLabel": "October 29, 1923",
+  "emoji": "🌙",
+  "cat": "power",
+  "title": "A Republic Rises in Ankara",
+  "place": "Ankara, Turkey",
+  "lat": 39.93,
+  "lng": 32.86,
+  "text": "After the Ottoman Empire collapsed, Mustafa Kemal declared the Republic of Turkey and made Ankara, his wartime headquarters, its capital instead of Istanbul. His reforms moved fast: in 1928 Turkish switched from Arabic script to Latin letters, and he toured the country with a chalkboard teaching it himself. In 1934 parliament gave him the surname Atatürk, meaning \"Father of the Turks.\"",
+  "source": {
+   "name": "Encyclopaedia Britannica, Kemal Atatürk (Norman Itzkowitz)",
+   "url": "https://www.britannica.com/biography/Kemal-Ataturk/The-Turkish-republic"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Kemal Atatürk: nationalist movement",
+   "url": "https://www.britannica.com/biography/Kemal-Ataturk/The-nationalist-movement-and-the-war-for-independence"
+  }
+ },
+ {
+  "id": "mo2-baird-television",
+  "era": "modern",
+  "year": 1926,
+  "dateLabel": "January 26, 1926",
+  "emoji": "📺",
+  "cat": "discovery",
+  "title": "Television's First Public Show",
+  "place": "London, United Kingdom",
+  "lat": 51.51,
+  "lng": -0.13,
+  "text": "In an attic room in Soho, Scottish inventor John Logie Baird showed scientists a flickering moving picture of a human face. His mechanical television used spinning discs to scan the image line by line. Early tests used a ventriloquist's dummy nicknamed Stooky Bill, whose painted face gave a sharp, high-contrast picture under the hot, bright lamps.",
+  "source": {
+   "name": "English Heritage, Blue Plaques: John Logie Baird",
+   "url": "https://www.english-heritage.org.uk/visit/blue-plaques/john-logie-baird-television/"
+  },
+  "source2": {
+   "name": "University of Strathclyde news (2026 centenary)",
+   "url": "https://www.strath.ac.uk/whystrathclyde/news/2026/fromstrathclydetotheworld100yearssincetelevisionsfirstdemonstration/"
+  }
+ },
+ {
+  "id": "mo2-wall-street-crash",
+  "era": "modern",
+  "year": 1929,
+  "dateLabel": "October 29, 1929",
+  "emoji": "📉",
+  "cat": "daily",
+  "title": "Black Tuesday",
+  "place": "New York City, United States",
+  "lat": 40.71,
+  "lng": -74.01,
+  "text": "After years of wild buying, panic swept the New York Stock Exchange and share prices collapsed, wiping out fortunes in days. The crash helped trigger the Great Depression, when banks failed and millions around the world lost their jobs. At its worst, more than one in five American workers was unemployed, and hungry people lined up at bread lines and soup kitchens.",
+  "source": {
+   "name": "Federal Reserve History, Stock Market Crash of 1929",
+   "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929"
+  },
+  "source2": {
+   "name": "Federal Reserve History, The Great Depression",
+   "url": "https://www.federalreservehistory.org/essays/great-depression"
+  }
+ },
+ {
+  "id": "mo2-first-world-cup",
+  "era": "modern",
+  "year": 1930,
+  "dateLabel": "July 30, 1930",
+  "emoji": "⚽",
+  "cat": "daily",
+  "title": "The First Football World Cup",
+  "place": "Montevideo, Uruguay",
+  "lat": -34.89,
+  "lng": -56.15,
+  "text": "Uruguay, the reigning Olympic champion, hosted the first World Cup and built the Estadio Centenario to mark 100 years of its constitution. Only 13 teams came, since the trip from Europe took weeks by ship. In the final Uruguay beat neighbour Argentina 4–2, and the day after the win was declared a national holiday.",
+  "source": {
+   "name": "FIFA, 1930 tournament review",
+   "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/uruguay-1930-tournament-review"
+  },
+  "source2": {
+   "name": "FIFA, Estadio Centenario turns 90",
+   "url": "https://inside.fifa.com/en/news/estadio-centenario-an-icon-of-world-football-turns-90"
+  }
+ },
+ {
+  "id": "mo2-saudi-unification",
+  "era": "modern",
+  "year": 1932,
+  "dateLabel": "September 23, 1932",
+  "emoji": "🐪",
+  "cat": "power",
+  "title": "The Kingdom of Saudi Arabia",
+  "place": "Riyadh, Saudi Arabia",
+  "lat": 24.71,
+  "lng": 46.68,
+  "text": "After three decades of campaigns starting from Riyadh, Abdulaziz Ibn Saud united the regions of Najd and Hejaz into the Kingdom of Saudi Arabia. At first it was a poor desert country living largely on pilgrims visiting Mecca. That changed in 1938, when an American-run well near Dammam finally struck oil after years of failed drilling.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Ibn Saud (John Bagot Glubb)",
+   "url": "https://www.britannica.com/biography/Ibn-Saud"
+  },
+  "source2": {
+   "name": "Aramco World, Well Done, Well Seven (1988)",
+   "url": "https://archive.aramcoworld.com/issue/198803/well.done.well.seven.htm"
+  }
+ },
+ {
+  "id": "mo2-long-march",
+  "era": "modern",
+  "year": 1934,
+  "dateLabel": "October 1934",
+  "emoji": "🥾",
+  "cat": "journeys",
+  "title": "The Long March Begins",
+  "place": "Ruijin, Jiangxi, China",
+  "lat": 25.89,
+  "lng": 116.03,
+  "text": "Surrounded by Nationalist armies, about 86,000 Communist troops and staff broke out of their base in Jiangxi in October 1934 on a year-long retreat. Fighting all the way, they crossed 18 mountain ranges and 24 rivers on a trek of about 10,000 kilometres. Only about 8,000 reached Shaanxi with Mao, but the march made Mao Zedong the party's undisputed leader.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Long March",
+   "url": "https://www.britannica.com/event/Long-March"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Long March",
+   "url": "https://www.britannica.com/event/Long-March"
+  }
+ },
+ {
+  "id": "mo2-black-sunday",
+  "era": "modern",
+  "year": 1935,
+  "dateLabel": "April 14, 1935",
+  "emoji": "🌪️",
+  "cat": "nature",
+  "title": "Black Sunday Dust Storm",
+  "place": "Guymon, Oklahoma, United States",
+  "lat": 36.68,
+  "lng": -101.48,
+  "text": "A towering wall of dust rolled across the southern Great Plains, turning a sunny afternoon pitch dark. Years of drought and ploughing up prairie grass had let the soil simply blow away, and a reporter's story about the storm gave the region its name, the Dust Bowl. Many people left the Plains in the 1930s, but research shows only a minority went to California.",
+  "source": {
+   "name": "NOAA National Weather Service Norman, The Black Sunday Dust Storm of 14 April 1935",
+   "url": "https://www.weather.gov/oun/events-19350414"
+  },
+  "source2": {
+   "name": "National Bureau of Economic Research Digest, Tracking the Dust Bowl Migrants of the 1930s",
+   "url": "https://www.nber.org/digest/jul16/tracking-dust-bowl-migrants-1930s"
+  }
+ },
+ {
+  "id": "mo2-marco-polo-bridge",
+  "era": "modern",
+  "year": 1937,
+  "dateLabel": "July 7, 1937",
+  "emoji": "🌉",
+  "cat": "power",
+  "title": "Shots at the Marco Polo Bridge",
+  "place": "Beijing, China",
+  "lat": 39.85,
+  "lng": 116.21,
+  "text": "A night-time clash between Chinese and Japanese troops near this old stone bridge, famous for its hundreds of carved lions, grew into full-scale war. The Second Sino-Japanese War lasted until 1945 and cost millions of Chinese lives, including the Nanjing Massacre that December. Today a museum of the war stands beside the bridge.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Marco Polo Bridge Incident",
+   "url": "https://www.britannica.com/event/Marco-Polo-Bridge-Incident"
+  },
+  "source2": {
+   "name": "Beijing Municipal Culture and Tourism Bureau (visitbeijing.com.cn), The Red Blood Journey of Lugou Bridge",
+   "url": "https://english.visitbeijing.com.cn/article/47OLgKRPBAT"
+  }
+ },
+ {
+  "id": "mo2-mexican-oil",
+  "era": "modern",
+  "year": 1938,
+  "dateLabel": "March 18, 1938",
+  "emoji": "🛢️",
+  "cat": "power",
+  "title": "Mexico Takes Back Its Oil",
+  "place": "Mexico City, Mexico",
+  "lat": 19.43,
+  "lng": -99.13,
+  "text": "President Lázaro Cárdenas took over the foreign oil companies operating in Mexico after they ignored a court ruling on workers' pay. To help pay the companies compensation, ordinary Mexicans lined up to donate money, jewellery and even chickens. The new state company, Pemex, became a symbol of national pride, and March 18 is still celebrated.",
+  "source": {
+   "name": "Senado de la República (Mexico), Efeméride: aniversario de la Expropiación Petrolera (2025)",
+   "url": "http://sil.gobernacion.gob.mx/Archivos/Documentos/2025/03/asun_4857420_20250319_1742428962.pdf"
+  },
+  "source2": {
+   "name": "Archivo General de la Nación (Mexico), #AGNRecuerda la expropiación petrolera",
+   "url": "https://www.gob.mx/agn/articulos/agnrecuerda-el-80-aniversario-de-la-expropiacion-petrolera"
+  }
+ },
+ {
+  "id": "mo2-westerplatte",
+  "era": "modern",
+  "year": 1939,
+  "dateLabel": "September 1, 1939",
+  "emoji": "⚔️",
+  "cat": "power",
+  "title": "The War Begins at Westerplatte",
+  "place": "Gdańsk, Poland",
+  "lat": 54.41,
+  "lng": 18.67,
+  "text": "In the early hours, a German battleship opened fire on a small Polish army depot on the Westerplatte peninsula, among the first shots of the Second World War in Europe. About 200 Polish soldiers held out for seven days instead of the few hours expected. The war that followed would kill tens of millions of people worldwide.",
+  "source": {
+   "name": "Polish History Museum (polishhistory.pl), The defence of Westerplatte",
+   "url": "https://polishhistory.pl/the-defence-of-westerplatte-the-first-battle-of-the-second-world-war/"
+  },
+  "source2": {
+   "name": "Museum of Gdańsk, Guardhouse No. 1 at Westerplatte",
+   "url": "https://muzeumgdansk.pl/en/oddzialy-muzeum/guardhouse-no-1-at-westerplatte/"
+  }
+ },
+ {
+  "id": "mo2-lascaux",
+  "era": "modern",
+  "year": 1940,
+  "dateLabel": "September 1940",
+  "emoji": "🐂",
+  "cat": "discovery",
+  "title": "Teenagers Find Lascaux Cave",
+  "place": "Montignac, France",
+  "lat": 45.05,
+  "lng": 1.17,
+  "text": "Four teenagers exploring near Montignac in 1940 found walls covered in Ice Age paintings of horses, bulls and deer, dated to somewhere between about 17,000 and 23,000 years ago. After the cave opened to visitors in 1948, crowds and artificial lighting faded the colours and spread algae, bacteria and crystals. It was closed in 1963, and visitors now tour replicas.",
+  "source": {
+   "name": "French Ministry of Culture, Lascaux: The discovery",
+   "url": "https://archeologie.culture.gouv.fr/lascaux/en/discovery"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Vézère Valley (via UNESCO open-data API)",
+   "url": "https://whc.unesco.org/en/list/85"
+  }
+ },
+ {
+  "id": "mo2-d-day",
+  "era": "modern",
+  "year": 1944,
+  "dateLabel": "June 6, 1944",
+  "emoji": "🪖",
+  "cat": "power",
+  "title": "D-Day on the Normandy Beaches",
+  "place": "Normandy, France",
+  "lat": 49.37,
+  "lng": -0.87,
+  "text": "About 156,000 Allied soldiers crossed the English Channel by sea and air to land on five Normandy beaches in one day, the largest seaborne invasion in history. Planners fooled Germany with a fake army of inflatable tanks pointed at a different stretch of coast. Thousands died that day, and within a year Nazi Germany had surrendered.",
+  "source": {
+   "name": "Imperial War Museums, Operation Fortitude: D-Day's Deception Strategy",
+   "url": "https://www.iwm.org.uk/history/second-world-war/d-day/parachuting-dummies-and-inflatable-tanks"
+  },
+  "source2": {
+   "name": "Eisenhower Presidential Library, World War II: D-Day, The Invasion of Normandy",
+   "url": "https://www.eisenhowerlibrary.gov/research/online-documents/world-war-ii-d-day-invasion-normandy"
+  }
+ },
+ {
+  "id": "mo2-un-charter",
+  "era": "modern",
+  "year": 1945,
+  "dateLabel": "June 26, 1945",
+  "emoji": "🕊️",
+  "cat": "power",
+  "title": "The United Nations Charter",
+  "place": "San Francisco, United States",
+  "lat": 37.78,
+  "lng": -122.42,
+  "text": "Delegates from 50 countries met in San Francisco and signed the Charter creating the United Nations, hoping to prevent another world war. The charter came into force on October 24, now celebrated as United Nations Day. Poland missed the conference but signed soon after, becoming the 51st founding member.",
+  "source": {
+   "name": "United Nations, The San Francisco Conference",
+   "url": "https://www.un.org/en/node/130983"
+  }
+ },
+ {
+  "id": "mo2-indonesia-proclamation",
+  "era": "modern",
+  "year": 1945,
+  "dateLabel": "August 17, 1945",
+  "emoji": "🇮🇩",
+  "cat": "power",
+  "title": "Indonesia Proclaims Independence",
+  "place": "Jakarta, Indonesia",
+  "lat": -6.2,
+  "lng": 106.85,
+  "text": "Two days after Japan surrendered, Sukarno, together with Mohammad Hatta, proclaimed Indonesia's independence, reading a short, typed text at his house in Jakarta. The Dutch, who had ruled the islands for centuries, fought to return. After four years of war and diplomacy, the Netherlands recognised Indonesia's independence in 1949.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Sukarno",
+   "url": "https://www.britannica.com/biography/Sukarno"
+  },
+  "source2": {
+   "name": "SBS (Australian public broadcaster), Independence of the Republic of Indonesia, August 17, 1945",
+   "url": "https://www.sbs.com.au/language/indonesian/en/article/independence-of-the-republic-of-indonesia-august-17-1945/4smm3mdn2"
+  }
+ },
+ {
+  "id": "mo2-israel-nakba",
+  "era": "modern",
+  "year": 1948,
+  "dateLabel": "May 14, 1948",
+  "emoji": "🗝️",
+  "cat": "power",
+  "title": "A New State and a Lasting Divide",
+  "place": "Tel Aviv, Israel",
+  "lat": 32.07,
+  "lng": 34.77,
+  "text": "David Ben-Gurion declared the State of Israel in a Tel Aviv museum as British rule in Palestine ended. War with neighbouring Arab states followed, and around 700,000 Palestinians fled or were driven from their homes. Palestinians remember this as the Nakba, meaning \"catastrophe,\" and some families still keep the keys to houses they left.",
+  "source": {
+   "name": "United Nations, Question of Palestine: About the Nakba",
+   "url": "https://www.un.org/unispal/about-the-nakba/"
+  },
+  "source2": {
+   "name": "UNRWA, Palestine refugees",
+   "url": "https://www.unrwa.org/palestine-refugees"
+  }
+ },
+ {
+  "id": "mo2-apartheid",
+  "era": "modern",
+  "year": 1948,
+  "dateLabel": "May 1948",
+  "emoji": "⚖️",
+  "cat": "power",
+  "title": "Apartheid Becomes Law",
+  "place": "Cape Town, South Africa",
+  "lat": -33.92,
+  "lng": 18.42,
+  "text": "The National Party won South Africa's whites-only election and began building apartheid, an Afrikaans word meaning \"apartness.\" New laws sorted every person by race and decided where they could live, work, study and even whom they could marry. Black South Africans, the large majority, could not vote in national elections until 1994.",
+  "source": {
+   "name": "Encyclopaedia Britannica, apartheid",
+   "url": "https://www.britannica.com/topic/apartheid"
+  },
+  "source2": {
+   "name": "South African History Online, A history of Apartheid in South Africa",
+   "url": "https://www.sahistory.org.za/article/history-apartheid-south-africa"
+  }
+ },
+ {
+  "id": "mo2-maracanazo",
+  "era": "modern",
+  "year": 1950,
+  "dateLabel": "July 16, 1950",
+  "emoji": "🏟️",
+  "cat": "daily",
+  "title": "The Silence of the Maracanã",
+  "place": "Rio de Janeiro, Brazil",
+  "lat": -22.91,
+  "lng": -43.23,
+  "text": "A record crowd, officially 173,850 and widely believed to be over 200,000, packed Rio's new Maracanã stadium expecting Brazil, who needed only a draw, to win the World Cup. Instead little Uruguay came from a goal behind to win 2–1 and silenced the stadium. Brazilians still remember the shock as the Maracanazo.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'FIFA World Cup' (Brazil 1950)",
+   "url": "https://www.britannica.com/sports/World-Cup-football"
+  },
+  "source2": {
+   "name": "FIFA, Maracanazo (Uruguay 2-1 Brazil, 1950)",
+   "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/uruguay-brazil-1950-maracanazo"
+  }
+ },
+ {
+  "id": "mo2-photo-51",
+  "era": "modern",
+  "year": 1952,
+  "dateLabel": "May 1952",
+  "emoji": "🧬",
+  "cat": "discovery",
+  "title": "Photo 51 and the Shape of DNA",
+  "place": "London, United Kingdom",
+  "lat": 51.51,
+  "lng": -0.12,
+  "text": "At King's College London, Rosalind Franklin and her student Raymond Gosling took an X-ray picture of DNA showing a blurry X shape. Shown to James Watson without her knowledge, it helped him and Francis Crick work out the double helix in 1953. Franklin died young in 1958, and her key role was only widely recognised much later.",
+  "source": {
+   "name": "King's College London, 'The story behind Photograph 51'",
+   "url": "https://www.kcl.ac.uk/the-story-behind-photograph-51"
+  },
+  "source2": {
+   "name": "King's College London, 'Rosalind Franklin'",
+   "url": "https://www.kcl.ac.uk/people/rosalind-franklin"
+  }
+ },
+ {
+  "id": "mo2-korean-armistice",
+  "era": "modern",
+  "year": 1953,
+  "dateLabel": "July 27, 1953",
+  "emoji": "🤝",
+  "cat": "power",
+  "title": "The Korean War Stops but Never Ends",
+  "place": "Panmunjom, Korea",
+  "lat": 37.96,
+  "lng": 126.68,
+  "text": "Korea was split at the 38th parallel in 1945, and in 1950 the North invaded the South, starting a war that drew in the United States, China and many others. After three years and millions of deaths, an armistice was signed at Panmunjom. No peace treaty followed, so a heavily guarded strip about 4 kilometres wide still divides the peninsula.",
+  "source": {
+   "name": "US National Archives, Milestone Documents: Armistice Agreement for the Restoration of the South Korean State (1953)",
+   "url": "https://www.archives.gov/milestone-documents/armistice-agreement-restoration-south-korean-state"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Korean War",
+   "url": "https://www.britannica.com/event/Korean-War"
+  }
+ },
+ {
+  "id": "mo2-dien-bien-phu",
+  "era": "modern",
+  "year": 1954,
+  "dateLabel": "May 7, 1954",
+  "emoji": "🚲",
+  "cat": "power",
+  "title": "Victory at Dien Bien Phu",
+  "place": "Dien Bien Phu, Vietnam",
+  "lat": 21.39,
+  "lng": 103.02,
+  "text": "French forces built a fortress in a remote valley, confident they could hold it. With unheard-of physical effort, Viet Minh fighters brought some 200 artillery pieces through the jungle, while bicycles pushed by hand carried supplies. The French surrendered after 56 days of battle, ending their rule in Indochina and leaving Vietnam split in two.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Battle of Dien Bien Phu'",
+   "url": "https://www.britannica.com/event/Battle-of-Dien-Bien-Phu"
+  },
+  "source2": {
+   "name": "US Department of State, Office of the Historian, 'Dien Bien Phu & the Fall of French Indochina'",
+   "url": "https://history.state.gov/milestones/1953-1960/dien-bien-phu"
+  }
+ },
+ {
+  "id": "mo2-bandung",
+  "era": "modern",
+  "year": 1955,
+  "dateLabel": "April 1955",
+  "emoji": "🌏",
+  "cat": "power",
+  "title": "Asia and Africa Meet at Bandung",
+  "place": "Bandung, Indonesia",
+  "lat": -6.92,
+  "lng": 107.61,
+  "text": "Leaders from 29 newly independent or soon-to-be-free countries in Asia and Africa gathered in Bandung, Indonesia. Sukarno, Nehru, Zhou Enlai and Nasser called for an end to colonialism and for staying out of the Cold War rivalry. The meeting planted the seeds of the Non-Aligned Movement, a bloc of countries that refused to pick a superpower.",
+  "source": {
+   "name": "US Department of State, Office of the Historian, 'Bandung Conference (Asian-African Conference), 1955'",
+   "url": "https://history.state.gov/milestones/1953-1960/bandung-conf"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Bandung Conference'",
+   "url": "https://www.britannica.com/event/Bandung-Conference"
+  }
+ },
+ {
+  "id": "mo2-suez-crisis",
+  "era": "modern",
+  "year": 1956,
+  "dateLabel": "July 26, 1956",
+  "emoji": "⛴️",
+  "cat": "power",
+  "title": "Nasser Takes the Suez Canal",
+  "place": "Port Said, Egypt",
+  "lat": 31.26,
+  "lng": 32.3,
+  "text": "Egypt's president Gamal Abdel Nasser announced in a speech that Egypt was taking over the Suez Canal from its British and French owners. Britain, France and Israel invaded that autumn, but pressure from both the United States and the Soviet Union forced them to withdraw. The crisis showed that Europe's old empires could no longer act alone.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Suez Crisis'",
+   "url": "https://www.britannica.com/event/Suez-Crisis"
+  },
+  "source2": {
+   "name": "US Department of State, Office of the Historian, 'Suez Crisis, 1956'",
+   "url": "https://history.state.gov/milestones/1953-1960/suez"
+  }
+ },
+ {
+  "id": "mo2-things-fall-apart",
+  "era": "modern",
+  "year": 1958,
+  "dateLabel": "1958",
+  "emoji": "📖",
+  "cat": "culture",
+  "title": "Things Fall Apart Is Published",
+  "place": "Lagos, Nigeria",
+  "lat": 6.45,
+  "lng": 3.39,
+  "text": "Chinua Achebe, a young broadcaster in Lagos, published a novel about Okonkwo, a famous Igbo wrestler and prosperous farmer whose world is upended by British missionaries and colonial rule. Told from inside Igbo society, it challenged the way European writers had portrayed Africans. It has since been translated into more than 50 languages.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Chinua Achebe'",
+   "url": "https://www.britannica.com/biography/Chinua-Achebe"
+  },
+  "source2": {
+   "name": "Guardian News and Media via Mail & Guardian, 'Achebe: Founding father of African fiction dies' (22 March 2013)",
+   "url": "https://mg.co.za/article/2013-03-22-achebe-founding-father-of-african-fiction-dies/"
+  }
+ },
+ {
+  "id": "mo2-pele-1958",
+  "era": "modern",
+  "year": 1958,
+  "dateLabel": "June 29, 1958",
+  "emoji": "🏆",
+  "cat": "daily",
+  "title": "Seventeen-Year-Old Pelé Wins It All",
+  "place": "Solna, Sweden",
+  "lat": 59.37,
+  "lng": 18.0,
+  "text": "Brazil beat host Sweden 5–2 in the World Cup final, and a 17-year-old named Pelé scored twice, then wept on the pitch. It was Brazil's first world title, eight years after the heartbreak of 1950. He went on to win three World Cups, still the record for any player.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Pelé'",
+   "url": "https://www.britannica.com/biography/Pele-Brazilian-football-player"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'FIFA World Cup' (Sweden 1958)",
+   "url": "https://www.britannica.com/sports/World-Cup-football"
+  }
+ },
+ {
+  "id": "mo2-cuban-revolution",
+  "era": "modern",
+  "year": 1959,
+  "dateLabel": "January 1, 1959",
+  "emoji": "🧔",
+  "cat": "power",
+  "title": "The Cuban Revolution Wins",
+  "place": "Havana, Cuba",
+  "lat": 23.11,
+  "lng": -82.37,
+  "text": "Dictator Fulgencio Batista fled Cuba on New Year's Day, and a week later Fidel Castro rolled into Havana to cheering crowds. His rebellion had begun in 1956 when Castro and 81 men landed from the yacht Granma, and only about a dozen escaped the first fighting. Castro's Cuba soon drew close to the Soviet Union, just 150 kilometres from the United States.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Cuban Revolution'",
+   "url": "https://www.britannica.com/event/Cuban-Revolution"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Cuba'",
+   "url": "https://www.britannica.com/place/Cuba"
+  }
+ },
+ {
+  "id": "mo2-congo-lumumba",
+  "era": "modern",
+  "year": 1960,
+  "dateLabel": "June 30, 1960",
+  "emoji": "✊",
+  "cat": "power",
+  "title": "Lumumba's Independence Day Speech",
+  "place": "Kinshasa, DR Congo",
+  "lat": -4.32,
+  "lng": 15.31,
+  "text": "In 1960, the \"Year of Africa,\" 17 African countries became independent. At the Congo's ceremony, with Belgium's king listening, Prime Minister Patrice Lumumba gave an unscheduled speech about the suffering of colonial rule. Within months he was overthrown, and in January 1961 he was executed by Katangan separatists alongside Belgian officers, becoming a symbol of African freedom.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Patrice Lumumba'",
+   "url": "https://www.britannica.com/biography/Patrice-Lumumba"
+  },
+  "source2": {
+   "name": "Library of Congress, Worlds Revealed blog, 'Mapping the Year of Africa' (2023)",
+   "url": "https://blogs.loc.gov/maps/2023/10/mapping-the-year-of-africa/"
+  }
+ },
+ {
+  "id": "mo2-gagarin",
+  "era": "modern",
+  "year": 1961,
+  "dateLabel": "April 12, 1961",
+  "emoji": "🚀",
+  "cat": "journeys",
+  "title": "The First Human in Space",
+  "place": "Baikonur, Kazakhstan",
+  "lat": 45.92,
+  "lng": 63.34,
+  "text": "Yuri Gagarin, the son of a carpenter on a collective farm, blasted off in Vostok 1 and circled Earth once in about 108 minutes. Near the end he ejected and parachuted down in the Saratov region, near the town of Engels, where a startled farm woman and her young relative watched him land. The flight brought him immediate worldwide fame.",
+  "source": {
+   "name": "European Space Agency, 'The flight of Vostok 1'",
+   "url": "https://esa.int/About_Us/50_years_of_ESA/50_years_of_humans_in_space/The_flight_of_Vostok_1"
+  },
+  "source2": {
+   "name": "NASA, 'April 1961 - First Human Entered Space'",
+   "url": "https://www.nasa.gov/image-article/april-1961-first-human-entered-space/"
+  }
+ },
+ {
+  "id": "mo2-algeria-independence",
+  "era": "modern",
+  "year": 1962,
+  "dateLabel": "July 5, 1962",
+  "emoji": "🇩🇿",
+  "cat": "power",
+  "title": "Algeria Wins Its Freedom",
+  "place": "Algiers, Algeria",
+  "lat": 36.75,
+  "lng": 3.06,
+  "text": "After eight years of war against France, Algeria became independent, ending French rule that had begun in 1830. The war was brutal for civilians and divided France itself, bringing its government down in 1958. Most European settlers left in a mass exodus, and July 5 is now celebrated as Algeria's Independence Day.",
+  "source": {
+   "name": "US Department of State, Office of the Historian, 'Algeria' (country page)",
+   "url": "https://history.state.gov/countries/algeria"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Algerian War' and 'Algeria'",
+   "url": "https://www.britannica.com/event/Algerian-War"
+  }
+ },
+ {
+  "id": "mo2-samoa-independence",
+  "era": "modern",
+  "year": 1962,
+  "dateLabel": "January 1, 1962",
+  "emoji": "🌺",
+  "cat": "power",
+  "title": "Samoa Leads the Pacific to Freedom",
+  "place": "Apia, Samoa",
+  "lat": -13.83,
+  "lng": -171.76,
+  "text": "Western Samoa, run by New Zealand since the First World War, became the first Pacific Islands nation to regain its independence in the 20th century. Its elected parliament is made up of matai, the chiefs who lead Samoa's extended families. Today Samoans hold their big Independence Day celebrations every June.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'History of Samoa' (Sophie Foster)",
+   "url": "https://www.britannica.com/topic/history-of-Samoa"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Samoa: Government and society' / 'Cultural life'",
+   "url": "https://www.britannica.com/place/Samoa-island-nation-Pacific-Ocean/Government-and-society"
+  }
+ },
+ {
+  "id": "mo2-march-on-washington",
+  "era": "modern",
+  "year": 1963,
+  "dateLabel": "August 28, 1963",
+  "emoji": "🗣️",
+  "cat": "power",
+  "title": "The March on Washington",
+  "place": "Washington, D.C., United States",
+  "lat": 38.89,
+  "lng": -77.05,
+  "text": "About 250,000 people gathered at the Lincoln Memorial to demand civil rights and jobs for Black Americans. Martin Luther King Jr. was nearing the end of his prepared speech when gospel singer Mahalia Jackson urged him to tell the crowd about his dream, and he began to improvise. The Civil Rights Act passed the following year.",
+  "source": {
+   "name": "King Institute, Stanford, 'March on Washington for Jobs and Freedom'",
+   "url": "https://kinginstitute.stanford.edu/march-washington-jobs-and-freedom"
+  },
+  "source2": {
+   "name": "King Institute, Stanford, 'I Have a Dream'",
+   "url": "https://kinginstitute.stanford.edu/i-have-dream"
+  }
+ },
+ {
+  "id": "mo2-kenya-independence",
+  "era": "modern",
+  "year": 1963,
+  "dateLabel": "December 12, 1963",
+  "emoji": "🇰🇪",
+  "cat": "power",
+  "title": "Uhuru for Kenya",
+  "place": "Nairobi, Kenya",
+  "lat": -1.29,
+  "lng": 36.82,
+  "text": "At midnight the British flag came down in Nairobi and Kenya's flag went up, a moment Kenyans call Uhuru, Swahili for \"freedom.\" Jomo Kenyatta, who had been jailed by the British for years during the Mau Mau uprising, became its first leader. December 12 is now celebrated every year as Jamhuri Day.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Jomo Kenyatta' (John A. Rowe)",
+   "url": "https://www.britannica.com/biography/Jomo-Kenyatta"
+  },
+  "source2": {
+   "name": "National Museums of Kenya via Google Arts & Culture, 'Discover Kenya's Birthplace'",
+   "url": "https://artsandculture.google.com/story/hQUhmWhkPJQByQ"
+  }
+ },
+ {
+  "id": "mo2-singapore-independence",
+  "era": "modern",
+  "year": 1965,
+  "dateLabel": "August 9, 1965",
+  "emoji": "🦁",
+  "cat": "power",
+  "title": "Singapore Becomes a Nation",
+  "place": "Singapore",
+  "lat": 1.29,
+  "lng": 103.85,
+  "text": "After just two years as part of Malaysia, tiny Singapore was pushed out and became independent with no natural resources and little fresh water. Prime Minister Lee Kuan Yew broke down in tears on television when announcing the split. Today the island is one of the world's busiest ports and a prosperous trading hub.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Singapore'",
+   "url": "https://www.britannica.com/place/Singapore"
+  }
+ },
+ {
+  "id": "mo2-green-revolution",
+  "era": "modern",
+  "year": 1966,
+  "dateLabel": "1966",
+  "emoji": "🌾",
+  "cat": "daily",
+  "title": "India's Green Revolution",
+  "place": "Ludhiana, Punjab, India",
+  "lat": 30.9,
+  "lng": 75.85,
+  "text": "After droughts and chronic food shortages, scientists like M. S. Swaminathan brought in short, sturdy wheat varieties first bred in Mexico by Norman Borlaug. With irrigation and fertiliser, Punjab's farmers grew far bigger harvests, and by 1971 India was self-sufficient in food. The boom also had costs, such as depleted groundwater and heavy chemical use.",
+  "source": {
+   "name": "NobelPrize.org, 'Norman Borlaug - Biographical' (Nobel Peace Prize 1970)",
+   "url": "https://www.nobelprize.org/prizes/peace/1970/borlaug/biographical/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Green revolution'",
+   "url": "https://www.britannica.com/event/green-revolution"
+  }
+ },
+ {
+  "id": "mo2-biafra",
+  "era": "modern",
+  "year": 1967,
+  "dateLabel": "May 30, 1967",
+  "emoji": "🕯️",
+  "cat": "power",
+  "title": "The Nigerian Civil War",
+  "place": "Enugu, Nigeria",
+  "lat": 6.45,
+  "lng": 7.51,
+  "text": "After violence against Igbo people in northern Nigeria, the southeast declared itself the independent Republic of Biafra. During the three-year war that followed, a blockade caused terrible famine, and perhaps a million or more people died, many of them children. French doctors who worked there went on to help found Médecins Sans Frontières, the medical aid charity.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Biafra'",
+   "url": "https://www.britannica.com/place/Biafra"
+  },
+  "source2": {
+   "name": "Médecins Sans Frontières UK, 'History'",
+   "url": "https://www.msf.org.uk/history"
+  }
+ },
+ {
+  "id": "mo2-arpanet",
+  "era": "modern",
+  "year": 1969,
+  "dateLabel": "October 29, 1969",
+  "emoji": "💻",
+  "cat": "discovery",
+  "title": "The Internet's First Message",
+  "place": "Los Angeles, United States",
+  "lat": 34.07,
+  "lng": -118.44,
+  "text": "A student at UCLA tried to log in to a computer at the Stanford Research Institute over ARPANET, a new network funded by the US military. He typed L, then O, and the system crashed before he could finish the word. So the first message ever sent on the internet's ancestor was simply \"LO.\"",
+  "source": {
+   "name": "Leonard Kleinrock, UCLA Computer Science, 'The Day the Infant Internet Uttered its First Words'",
+   "url": "https://www.lk.cs.ucla.edu/internet_first_words.html"
+  },
+  "source2": {
+   "name": "DARPA, 'ARPANET'",
+   "url": "https://www.darpa.mil/news/features/arpanet"
+  }
+ },
+ {
+  "id": "mo2-bangladesh",
+  "era": "modern",
+  "year": 1971,
+  "dateLabel": "December 16, 1971",
+  "emoji": "🇧🇩",
+  "cat": "power",
+  "title": "The Birth of Bangladesh",
+  "place": "Dhaka, Bangladesh",
+  "lat": 23.81,
+  "lng": 90.41,
+  "text": "East Pakistan, separated from West Pakistan by some 1,800 kilometres of India, had long protested being treated unequally, starting with a fight in 1952 to have Bengali recognised as a national language. In 1971 a brutal crackdown led to a war of independence, and about ten million refugees fled to India. Bangladesh won its freedom that December.",
+  "source": {
+   "name": "Banglapedia (Asiatic Society of Bangladesh), 'War of Liberation, The'",
+   "url": "https://en.banglapedia.org/index.php/War_of_Liberation,_The"
+  },
+  "source2": {
+   "name": "UNHCR, 'UNHCR honoured by Bangladesh for helping millions in 1971 conflict'",
+   "url": "https://www.unhcr.org/us/news/stories/unhcr-honoured-bangladesh-helping-millions-1971-conflict"
+  }
+ },
+ {
+  "id": "mo2-nixon-china",
+  "era": "modern",
+  "year": 1972,
+  "dateLabel": "February 21, 1972",
+  "emoji": "🐼",
+  "cat": "power",
+  "title": "Nixon Goes to China",
+  "place": "Beijing, China",
+  "lat": 39.92,
+  "lng": 116.4,
+  "text": "US President Richard Nixon flew to Beijing and met Premier Zhou Enlai and Chairman Mao, after more than twenty years without diplomatic relations. The visit followed \"ping-pong diplomacy,\" when China invited the American table tennis team in 1971. Soon after, China gave the Washington zoo two giant pandas, Ling-Ling and Hsing-Hsing, which drew huge crowds.",
+  "source": {
+   "name": "US Department of State, Office of the Historian",
+   "url": "https://history.state.gov/milestones/1969-1976/rapprochement-china"
+  },
+  "source2": {
+   "name": "US National Archives, 'Pandaversary'",
+   "url": "https://www.archives.gov/news/topics/pandaversary"
+  }
+ },
+ {
+  "id": "mo2-chile-coup",
+  "era": "modern",
+  "year": 1973,
+  "dateLabel": "September 11, 1973",
+  "emoji": "🏛️",
+  "cat": "power",
+  "title": "The Coup in Chile",
+  "place": "Santiago, Chile",
+  "lat": -33.44,
+  "lng": -70.65,
+  "text": "Chile's armed forces overthrew elected socialist president Salvador Allende, bombing the presidential palace, La Moneda; Allende died inside. General Augusto Pinochet then ruled for 17 years, and thousands of people were killed or disappeared. His rule finally ended after Chileans voted \"No\" to him in a 1988 referendum, with a cheerful rainbow ad campaign.",
+  "source": {
+   "name": "NPR, 'The U.S. set the stage for a coup in Chile' (2023)",
+   "url": "https://www.npr.org/2023/09/10/1193755188/chile-coup-50-years-pinochet-kissinger-human-rights-allende"
+  },
+  "source2": {
+   "name": "NPR, 'The Story Of No Is The Story Of Modern Chile' (2013)",
+   "url": "https://www.npr.org/2013/02/15/172040656/the-story-of-no-is-the-story-of-modern-chile"
+  }
+ },
+ {
+  "id": "mo2-sydney-opera-house",
+  "era": "modern",
+  "year": 1973,
+  "dateLabel": "October 20, 1973",
+  "emoji": "🎭",
+  "cat": "culture",
+  "title": "The Sydney Opera House Opens",
+  "place": "Sydney, Australia",
+  "lat": -33.86,
+  "lng": 151.21,
+  "text": "Danish architect Jørn Utzon won a design contest in 1957 with sail-like shells that engineers struggled for years to figure out how to build. He quit in 1966 after disputes and never returned to see it finished. Queen Elizabeth II opened it in 1973, ten years late and far over budget, and it is now a World Heritage Site.",
+  "source": {
+   "name": "Australian Government DCCEEW, National Heritage List: Sydney Opera House",
+   "url": "https://www.dcceew.gov.au/parks-heritage/heritage/places/national/sydney-opera-house"
+  },
+  "source2": {
+   "name": "Dictionary of Sydney, 'Utzon's Opera House'",
+   "url": "https://dictionaryofsydney.org/entry/utzons_opera_house"
+  }
+ },
+ {
+  "id": "mo2-lucy",
+  "era": "modern",
+  "year": 1974,
+  "dateLabel": "November 24, 1974",
+  "emoji": "🦴",
+  "cat": "discovery",
+  "title": "Meet Lucy",
+  "place": "Hadar, Ethiopia",
+  "lat": 11.1,
+  "lng": 40.58,
+  "text": "Paleoanthropologists in Ethiopia's Afar region found about 40 percent of the skeleton of a human relative who lived about 3.2 million years ago. That night the team played the Beatles song \"Lucy in the Sky with Diamonds,\" and the name stuck. In Ethiopia she is called Dinkinesh, meaning \"you are marvellous\" in Amharic.",
+  "source": {
+   "name": "Arizona State University, Institute of Human Origins, 'About the Fossil Lucy'",
+   "url": "https://iho.asu.edu/aboutLucy"
+  },
+  "source2": {
+   "name": "ASU News, 'Lucy at 50'",
+   "url": "https://news.asu.edu/spotlight/lucy-at-50"
+  }
+ },
+ {
+  "id": "mo2-fall-of-saigon",
+  "era": "modern",
+  "year": 1975,
+  "dateLabel": "April 30, 1975",
+  "emoji": "🚁",
+  "cat": "power",
+  "title": "The Fall of Saigon",
+  "place": "Ho Chi Minh City, Vietnam",
+  "lat": 10.78,
+  "lng": 106.7,
+  "text": "As North Vietnamese forces closed in, American helicopters lifted thousands of people from rooftops in the largest helicopter evacuation ever. On April 30 a tank crashed through the gates of the presidential palace, ending the Vietnam War. The city was renamed Ho Chi Minh City, and in the following years hundreds of thousands of \"boat people\" fled by sea.",
+  "source": {
+   "name": "US Naval History and Heritage Command, H-Gram 090",
+   "url": "https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-090.html"
+  },
+  "source2": {
+   "name": "US Naval History and Heritage Command, Marolda, 'By Sea, Air, and Land', ch. 5",
+   "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/by-sea-air-land-marolda/chapter-5-the-final-curtain-1973-1975.html"
+  }
+ },
+ {
+  "id": "mo2-soweto-uprising",
+  "era": "modern",
+  "year": 1976,
+  "dateLabel": "June 16, 1976",
+  "emoji": "📸",
+  "cat": "power",
+  "title": "The Soweto Uprising",
+  "place": "Soweto, South Africa",
+  "lat": -26.24,
+  "lng": 27.91,
+  "text": "Thousands of Black schoolchildren marched against a rule forcing them to be taught half their subjects in Afrikaans. Police opened fire, and a photo of 12-year-old Hector Pieterson being carried by another student shocked the world. Protests spread across the country, and June 16 is now Youth Day in South Africa.",
+  "source": {
+   "name": "South African History Online, '16 June 1976 - Soweto Uprising'",
+   "url": "https://sahistory.org.za/article/june-16-soweto-youth-uprising"
+  },
+  "source2": {
+   "name": "South African History Online, 'Hector Pieterson'",
+   "url": "https://www.sahistory.org.za/people/hector-pieterson"
+  }
+ },
+ {
+  "id": "mo2-xiaogang",
+  "era": "modern",
+  "year": 1978,
+  "dateLabel": "Late 1978",
+  "emoji": "👍",
+  "cat": "daily",
+  "title": "Eighteen Thumbprints in Xiaogang",
+  "place": "Xiaogang, Anhui, China",
+  "lat": 32.87,
+  "lng": 117.56,
+  "text": "Facing hunger, 18 farmers in a poor village secretly agreed to split the collective fields into family plots, sealing the deal with red thumbprints. It was risky, but their harvest soared. Under Deng Xiaoping's new Reform and Opening policy, the idea spread nationwide, and the original contract is now held by the National Museum of China.",
+  "source": {
+   "name": "NPR Planet Money, 'The Secret Document That Transformed China'",
+   "url": "https://www.npr.org/sections/money/2012/01/20/145360447/the-secret-document-that-transformed-china"
+  },
+  "source2": {
+   "name": "Xinhua, 'Xiaogang Village: name fixed in China's memory as start of reform'",
+   "url": "http://www.xinhuanet.com/english/2018-10/16/c_137536674.htm"
+  }
+ },
+ {
+  "id": "mo2-iranian-revolution",
+  "era": "modern",
+  "year": 1979,
+  "dateLabel": "February 1, 1979",
+  "emoji": "🕌",
+  "cat": "power",
+  "title": "Khomeini Returns to Iran",
+  "place": "Tehran, Iran",
+  "lat": 35.69,
+  "lng": 51.39,
+  "text": "After months of mass protests drove the Shah out, Ayatollah Ruhollah Khomeini flew home from exile in France. Millions of people gathered in Tehran to welcome him. Within weeks the monarchy collapsed, and a referendum that spring turned Iran into an Islamic Republic, reshaping the politics of the whole region.",
+  "source": {
+   "name": "Encyclopaedia Iranica, 'Iran ii. Iranian History (2) Islamic period'",
+   "url": "https://www.iranicaonline.org/articles/iran-ii2-islamic-period-page-6/"
+  },
+  "source2": {
+   "name": "The Conversation, 'World politics explainer: the Iranian Revolution'",
+   "url": "https://theconversation.com/world-politics-explainer-the-iranian-revolution-100453"
+  }
+ },
+ {
+  "id": "mo2-walkman",
+  "era": "modern",
+  "year": 1979,
+  "dateLabel": "July 1, 1979",
+  "emoji": "🎧",
+  "cat": "daily",
+  "title": "Music on the Move",
+  "place": "Tokyo, Japan",
+  "lat": 35.62,
+  "lng": 139.74,
+  "text": "Sony released the Walkman, a pocket cassette player with light headphones, and suddenly people could carry their own soundtrack. Early models had two headphone sockets so friends or couples could listen together. Sony expected to sell about 5,000 a month but sold 50,000 by the end of that summer, and went on to sell hundreds of millions of Walkmans worldwide.",
+  "source": {
+   "name": "Smithsonian Music / National Museum of American History, Sony TPS-L2 'Walkman'",
+   "url": "https://music.si.edu/story/smithsonian-collections-object-sony-tps-l2-%E2%80%9Cwalkman%E2%80%9D-cassette-player-national-museum-american"
+  },
+  "source2": {
+   "name": "IEEE Spectrum, 'Consumer Electronics Hall of Fame: Sony Walkman'",
+   "url": "https://spectrum.ieee.org/the-consumer-electronics-hall-of-fame-sony-walkman"
+  }
+ },
+ {
+  "id": "mo2-gwangju",
+  "era": "modern",
+  "year": 1980,
+  "dateLabel": "May 18, 1980",
+  "emoji": "🕯️",
+  "cat": "power",
+  "title": "The Gwangju Uprising",
+  "place": "Gwangju, South Korea",
+  "lat": 35.16,
+  "lng": 126.85,
+  "text": "When students in Gwangju protested against military rule, soldiers responded with brutal force, and citizens armed themselves and took control of the city. The army crushed the uprising on May 27, and estimates of the dead range from about 200 to 2,000. It played a pivotal role in Korea's democratization, and novelist Han Kang, born in Gwangju, wrote about it in Human Acts.",
+  "source": {
+   "name": "The Conversation, 'Three novels by Nobel winner Han Kang...'",
+   "url": "https://theconversation.com/three-novels-by-nobel-winner-han-kang-that-explain-the-fragile-nature-of-south-korea-249653"
+  },
+  "source2": {
+   "name": "NobelPrize.org, Han Kang Facts",
+   "url": "https://www.nobelprize.org/prizes/literature/2024/han/facts/"
+  }
+ },
+ {
+  "id": "mo2-hiv-discovery",
+  "era": "modern",
+  "year": 1983,
+  "dateLabel": "1983",
+  "emoji": "🔬",
+  "cat": "discovery",
+  "title": "Finding the Virus Behind AIDS",
+  "place": "Paris, France",
+  "lat": 48.84,
+  "lng": 2.31,
+  "text": "At the Pasteur Institute, Françoise Barré-Sinoussi and Luc Montagnier identified the virus later named HIV, which causes AIDS. Knowing the cause made blood tests possible and, eventually, medicines that let people with HIV live long lives. The two were awarded the 2008 Nobel Prize in Physiology or Medicine for the discovery.",
+  "source": {
+   "name": "NobelPrize.org, Physiology or Medicine 2008 press release",
+   "url": "https://www.nobelprize.org/prizes/medicine/2008/press-release/"
+  },
+  "source2": {
+   "name": "Europe PMC record: Barré-Sinoussi et al., Science 1983, 'Isolation of a T-lymphotropic retrovirus from a patient at risk for AIDS'",
+   "url": "https://europepmc.org/article/MED/6189183"
+  }
+ },
+ {
+  "id": "mo2-chernobyl",
+  "era": "modern",
+  "year": 1986,
+  "dateLabel": "April 26, 1986",
+  "emoji": "☢️",
+  "cat": "nature",
+  "title": "The Chernobyl Disaster",
+  "place": "Pripyat, Ukraine",
+  "lat": 51.39,
+  "lng": 30.1,
+  "text": "A safety test went wrong at the Chernobyl nuclear plant, and a reactor exploded, spreading radioactive material across Europe. The nearby town of Pripyat, home to about 49,000 people, was evacuated and still stands empty. With humans gone, the exclusion zone has become an accidental wildlife refuge for wolves, elk and rare Przewalski's horses.",
+  "source": {
+   "name": "National Geographic, 'Chernobyl disaster facts and information'",
+   "url": "https://www.nationalgeographic.com/culture/article/chernobyl-disaster"
+  },
+  "source2": {
+   "name": "The Conversation, 'Chernobyl has become a refuge for wildlife 33 years after the nuclear accident'",
+   "url": "https://theconversation.com/chernobyl-has-become-a-refuge-for-wildlife-33-years-after-the-nuclear-accident-116303"
+  }
+ },
+ {
+  "id": "mo2-montreal-protocol",
+  "era": "modern",
+  "year": 1987,
+  "dateLabel": "September 16, 1987",
+  "emoji": "🌍",
+  "cat": "nature",
+  "title": "Saving the Ozone Layer",
+  "place": "Montreal, Canada",
+  "lat": 45.5,
+  "lng": -73.57,
+  "text": "Two years after scientists reported a hole in the ozone layer over Antarctica, countries signed the Montreal Protocol to phase out the chemicals causing it, such as those in old spray cans and fridges. Together with the Vienna Convention, it became the first environmental treaty ratified by every country in the world. The ozone layer is now slowly healing.",
+  "source": {
+   "name": "UNEP Ozone Secretariat, Ozone Timeline",
+   "url": "https://ozone.unep.org/ozone-timeline"
+  },
+  "source2": {
+   "name": "British Antarctic Survey, 'The ozone hole discovery'",
+   "url": "https://www.bas.ac.uk/about/history/ozone-hole-discovery/"
+  }
+ },
+ {
+  "id": "mo2-soviet-dissolution",
+  "era": "modern",
+  "year": 1991,
+  "dateLabel": "December 25, 1991",
+  "emoji": "🏳️",
+  "cat": "power",
+  "title": "The Soviet Flag Comes Down",
+  "place": "Moscow, Russia",
+  "lat": 55.75,
+  "lng": 37.62,
+  "text": "Mikhail Gorbachev resigned on Christmas Day, and that evening the red Soviet flag was lowered over the Kremlin for the last time. The Soviet Union split into 15 independent countries, from Estonia to Kazakhstan. The Cold War rivalry that had shaped the world since 1945 was over.",
+  "source": {
+   "name": "US Department of State, Office of the Historian, 'The Collapse of the Soviet Union'",
+   "url": "https://history.state.gov/milestones/1989-1992/collapse-soviet-union"
+  }
+ },
+ {
+  "id": "mo2-nollywood",
+  "era": "modern",
+  "year": 1992,
+  "dateLabel": "1992",
+  "emoji": "🎬",
+  "cat": "culture",
+  "title": "Nollywood Is Born",
+  "place": "Lagos, Nigeria",
+  "lat": 6.52,
+  "lng": 3.38,
+  "text": "Nigerian businessman Kenneth Nnebue teamed up with co-writer Okechukwu Ogunjiofor to make a thriller called Living in Bondage, shot on video and sold straight to VHS. It became a smash hit and launched Nollywood, Nigeria's film industry. Today Nollywood is one of the largest film industries in the world by number of films made, turning out more than 2,000 films a year.",
+  "source": {
+   "name": "The Conversation, 'From Nollywood to New Nollywood'",
+   "url": "https://theconversation.com/from-nollywood-to-new-nollywood-the-story-of-nigerias-runaway-success-47959"
+  },
+  "source2": {
+   "name": "UN News, 'Nigeria surpasses Hollywood as world's second largest film producer' (2009)",
+   "url": "https://news.un.org/en/story/2009/05/299102-nigeria-surpasses-hollywood-worlds-second-largest-film-producer-un"
+  }
+ },
+ {
+  "id": "mo2-rwanda",
+  "era": "modern",
+  "year": 1994,
+  "dateLabel": "April 7, 1994",
+  "emoji": "💜",
+  "cat": "power",
+  "title": "The Genocide Against the Tutsi",
+  "place": "Kigali, Rwanda",
+  "lat": -1.94,
+  "lng": 30.06,
+  "text": "In about 100 days, extremists killed more than a million people, overwhelmingly Tutsi, along with Hutu who opposed the killing, while the world largely failed to act. Neighbours were turned against neighbours by radio propaganda. Each April Rwandans hold Kwibuka, meaning \"remember,\" and the Kigali Genocide Memorial is the resting place of about 250,000 victims.",
+  "source": {
+   "name": "United Nations, Outreach Programme on the 1994 Genocide against the Tutsi in Rwanda",
+   "url": "https://www.un.org/en/preventgenocide/rwanda/"
+  },
+  "source2": {
+   "name": "Kigali Genocide Memorial, About",
+   "url": "https://kgm.rw/about/"
+  }
+ },
+ {
+  "id": "mo2-kobe-earthquake",
+  "era": "modern",
+  "year": 1995,
+  "dateLabel": "January 17, 1995",
+  "emoji": "🙌",
+  "cat": "nature",
+  "title": "The Kobe Earthquake",
+  "place": "Kobe, Japan",
+  "lat": 34.69,
+  "lng": 135.2,
+  "text": "At 5:46 in the morning a powerful earthquake shook Kobe, toppling buildings and an elevated highway, and more than 6,000 people died. Over a million volunteers poured in from across Japan to help. The response was so big that 1995 is often called the \"first year of volunteerism\" in Japan.",
+  "source": {
+   "name": "Nippon.com, '25 Years after Disaster: Looking Back on the Great Hanshin-Awaji Earthquake'",
+   "url": "https://www.nippon.com/en/japan-data/h00629/25-years-after-disaster-looking-back-on-the-great-hanshin-awaji-earthquake.html"
+  },
+  "source2": {
+   "name": "Kobe University News, 'Passing down experiences from the earthquake'",
+   "url": "https://www.kobe-u.ac.jp/en/news/article/20240913-65900/"
+  }
+ },
+ {
+  "id": "mo2-dolly",
+  "era": "modern",
+  "year": 1996,
+  "dateLabel": "July 5, 1996",
+  "emoji": "🐑",
+  "cat": "discovery",
+  "title": "Hello, Dolly",
+  "place": "Roslin, United Kingdom",
+  "lat": 55.86,
+  "lng": -3.2,
+  "text": "At the Roslin Institute near Edinburgh, a lamb was born that was the first mammal cloned from an adult cell. Because that cell came from a mammary gland, scientists jokingly named her after country singer Dolly Parton. Dolly went on to have six lambs of her own, and she is now on display at the National Museum of Scotland.",
+  "source": {
+   "name": "National Museums Scotland, 'Dolly the sheep'",
+   "url": "https://www.nms.ac.uk/explore-our-collections/stories/natural-sciences/dolly-the-sheep/"
+  }
+ },
+ {
+  "id": "mo2-good-friday",
+  "era": "modern",
+  "year": 1998,
+  "dateLabel": "April 10, 1998",
+  "emoji": "🤝",
+  "cat": "power",
+  "title": "The Good Friday Agreement",
+  "place": "Belfast, United Kingdom",
+  "lat": 54.6,
+  "lng": -5.93,
+  "text": "After about 30 years of violence known as the Troubles, in which some 3,500 people died, Northern Ireland's main parties reached a peace deal on Good Friday. Voters on both sides of the Irish border approved it in referendums. It created a power-sharing government in which unionists and nationalists would rule together.",
+  "source": {
+   "name": "CAIN Archive, Ulster University: The Agreement (text)",
+   "url": "https://cain.ulster.ac.uk/events/peace/docs/agreement.htm"
+  },
+  "source2": {
+   "name": "CAIN Archive, Ulster University: 1998 Referendum results",
+   "url": "https://cain.ulster.ac.uk/issues/politics/election/ref1998.htm"
+  }
+ },
+ {
+  "id": "mo2-september-11",
+  "era": "modern",
+  "year": 2001,
+  "dateLabel": "September 11, 2001",
+  "emoji": "🗽",
+  "cat": "power",
+  "title": "September 11 Attacks",
+  "place": "New York City, United States",
+  "lat": 40.71,
+  "lng": -74.01,
+  "text": "Terrorists hijacked four airliners, crashing two into the World Trade Center's Twin Towers in New York and one into the Pentagon, while passengers fought back on the fourth. Nearly 3,000 people died. Today two huge memorial pools sit in the towers' footprints, with the victims' names carved around their edges.",
+  "source": {
+   "name": "National Park Service, Flight 93 National Memorial: September 11, 2001 Timeline",
+   "url": "https://www.nps.gov/flni/learn/historyculture/september-11-2001-timeline.htm"
+  },
+  "source2": {
+   "name": "National September 11 Memorial & Museum",
+   "url": "https://www.911memorial.org/visit/memorial/about-memorial"
+  }
+ },
+ {
+  "id": "mo2-african-union",
+  "era": "modern",
+  "year": 2002,
+  "dateLabel": "July 9, 2002",
+  "emoji": "🌍",
+  "cat": "power",
+  "title": "The African Union Is Launched",
+  "place": "Durban, South Africa",
+  "lat": -29.86,
+  "lng": 31.02,
+  "text": "African leaders met in Durban to launch the African Union, replacing the Organisation of African Unity founded in 1963. The new group aimed for deeper cooperation, with peacekeeping, a continental parliament and dreams of a single market. Its headquarters is in Addis Ababa, Ethiopia, and today it has 55 member states covering the whole continent.",
+  "source": {
+   "name": "African Union: Overview",
+   "url": "https://au.int/en/overview"
+  }
+ },
+ {
+  "id": "mo2-sars",
+  "era": "modern",
+  "year": 2003,
+  "dateLabel": "2003",
+  "emoji": "😷",
+  "cat": "daily",
+  "title": "SARS Sweeps Out of Guangdong",
+  "place": "Guangzhou, China",
+  "lat": 23.13,
+  "lng": 113.26,
+  "text": "A new coronavirus first appeared in Guangdong province in late 2002 and spread to dozens of countries in 2003. Italian WHO doctor Carlo Urbani spotted the outbreak in Vietnam and raised the alarm, then caught the disease and died. Around 8,000 people fell ill, and the lessons learned shaped how the world prepared for future pandemics.",
+  "source": {
+   "name": "CDC Emerging Infectious Diseases: Progress in Global Surveillance and Response Capacity 10 Years after SARS (2013)",
+   "url": "https://wwwnc.cdc.gov/eid/article/19/6/13-0192_article"
+  },
+  "source2": {
+   "name": "World Health Organization: WHO remembers Dr Carlo Urbani",
+   "url": "https://www.who.int/news/item/28-03-2018-who-remembers-dr-carlo-urbani-as-a-hero-who-fought-sars"
+  }
+ },
+ {
+  "id": "mo2-tsunami-2004",
+  "era": "modern",
+  "year": 2004,
+  "dateLabel": "December 26, 2004",
+  "emoji": "🌊",
+  "cat": "nature",
+  "title": "The Indian Ocean Tsunami",
+  "place": "Banda Aceh, Indonesia",
+  "lat": 5.55,
+  "lng": 95.32,
+  "text": "One of the strongest earthquakes ever recorded struck off Sumatra, sending waves across the Indian Ocean that killed about 230,000 people in 14 countries. Aceh was hit hardest. On nearby Simeulue island, an old oral tradition called smong taught people to run uphill when the sea drew back, and almost everyone survived.",
+  "source": {
+   "name": "USGS Earthquake Hazards Program: Today in Earthquake History (Dec 26)",
+   "url": "https://earthquake.usgs.gov/learn/today/index.php?month=12&day=26"
+  },
+  "source2": {
+   "name": "Rahman et al. 2020, IJERPH (PMC7660313): Grandmothers' tsunami stories on Simeulue",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7660313/"
+  }
+ },
+ {
+  "id": "mo2-beijing-olympics",
+  "era": "modern",
+  "year": 2008,
+  "dateLabel": "August 8, 2008",
+  "emoji": "🎆",
+  "cat": "daily",
+  "title": "The Beijing Olympics",
+  "place": "Beijing, China",
+  "lat": 39.99,
+  "lng": 116.39,
+  "text": "The Beijing Games opened at 8 p.m. on 8/8/08, since eight is a lucky number in Chinese culture. The ceremony, featuring 2,008 drummers, was held in the \"Bird's Nest\" stadium, nicknamed for its twig-like lattice of huge steel beams. In 2022 Beijing became the first city to host both the Summer and Winter Olympics.",
+  "source": {
+   "name": "Olympics.com (IOC): Opening Ceremony - Beijing 2008",
+   "url": "https://www.olympics.com/en/news/opening-ceremony"
+  },
+  "source2": {
+   "name": "Olympics.com (IOC): Beijing 2022",
+   "url": "https://www.olympics.com/en/olympic-games/beijing-2022"
+  }
+ },
+ {
+  "id": "mo2-tunisian-revolution",
+  "era": "modern",
+  "year": 2010,
+  "dateLabel": "December 17, 2010",
+  "emoji": "🍊",
+  "cat": "power",
+  "title": "A Fruit Seller Sparks the Arab Spring",
+  "place": "Sidi Bouzid, Tunisia",
+  "lat": 35.04,
+  "lng": 9.48,
+  "text": "Mohamed Bouazizi, a young street vendor, set himself on fire after market inspectors confiscated his wares, and his desperate act set off nationwide protests. Within a month Tunisia's longtime president fled. Uprisings spread across the Arab world in what became known as the Arab Spring, and in 2015 a group of Tunisian organisations won the Nobel Peace Prize.",
+  "source": {
+   "name": "NobelPrize.org: Nobel Peace Prize 2015 presentation speech",
+   "url": "https://www.nobelprize.org/prizes/peace/2015/ceremony-speech/"
+  },
+  "source2": {
+   "name": "NobelPrize.org: Nobel Peace Prize 2015 press release",
+   "url": "https://www.nobelprize.org/prizes/peace/2015/press-release/"
+  }
+ },
+ {
+  "id": "mo2-fukushima",
+  "era": "modern",
+  "year": 2011,
+  "dateLabel": "March 11, 2011",
+  "emoji": "🌊",
+  "cat": "nature",
+  "title": "The Tōhoku Tsunami and Fukushima",
+  "place": "Fukushima, Japan",
+  "lat": 37.42,
+  "lng": 141.03,
+  "text": "A magnitude 9.0 earthquake off Japan's northeast coast sent a tsunami crashing ashore, leaving about 18,500 people dead or missing. The waves knocked out cooling at the Fukushima Daiichi nuclear plant, and three reactors overheated and melted their cores. Old stone markers along the coast, like one at Aneyoshi set up after a 1933 tsunami, had warned residents not to build homes below them.",
+  "source": {
+   "name": "U.S. Nuclear Regulatory Commission: Backgrounder on NRC Response to Lessons Learned from Fukushima",
+   "url": "https://www.nrc.gov/regulations-legislation/fact-sheets-brochures/backgrounder-on-nrc-response-to-lessons-learned-from-fukushima"
+  },
+  "source2": {
+   "name": "USC Dornsife: As collective memory fades... (Aneyoshi tsunami stone)",
+   "url": "https://dornsife.usc.edu/news/stories/coronavirus-covid-19-stay-prepared-with-collective-memory/"
+  }
+ },
+ {
+  "id": "mo2-gangnam-style",
+  "era": "modern",
+  "year": 2012,
+  "dateLabel": "July 2012",
+  "emoji": "🐴",
+  "cat": "culture",
+  "title": "Gangnam Style Breaks the Internet",
+  "place": "Gangnam, Seoul, South Korea",
+  "lat": 37.5,
+  "lng": 127.03,
+  "text": "South Korean rapper Psy released a song poking fun at the flashy lifestyle of Seoul's wealthy Gangnam district, with a goofy invisible-horse-riding dance. In December 2012 it became the first video on YouTube to reach one billion views. It helped carry K-pop, Korea's pop music, to audiences around the world.",
+  "source": {
+   "name": "Encyclopaedia Britannica: PSY",
+   "url": "https://www.britannica.com/biography/PSY"
+  },
+  "source2": {
+   "name": "Guinness World Records: Gangnam Style first video viewed 1 billion times (20 Dec 2012)",
+   "url": "https://www.guinnessworldrecords.com/news/2012/12/psys-gangnam-style-becomes-first-video-to-be-viewed-1-billion-times-on-youtube-46462"
+  }
+ },
+ {
+  "id": "mo2-ebola",
+  "era": "modern",
+  "year": 2014,
+  "dateLabel": "2014",
+  "emoji": "🧤",
+  "cat": "daily",
+  "title": "The West African Ebola Epidemic",
+  "place": "Guéckédou, Guinea",
+  "lat": 8.56,
+  "lng": -10.13,
+  "text": "An Ebola outbreak that began in a village in southern Guinea spread into Liberia and Sierra Leone, becoming the largest ever recorded. More than 28,000 people were infected and over 11,000 died, including hundreds of health workers. Safe burials helped slow the spread, and a vaccine tested in Guinea during the epidemic gave substantial protection.",
+  "source": {
+   "name": "CDC: History of Ebola Disease Outbreaks",
+   "url": "https://www.cdc.gov/ebola/outbreaks/index.html"
+  },
+  "source2": {
+   "name": "CDC MMWR Suppl. 65(3): CDC's Response to the 2014-2016 Ebola Epidemic",
+   "url": "https://www.cdc.gov/mmwr/volumes/65/su/su6503a3.htm"
+  }
+ },
+ {
+  "id": "mo2-paris-agreement",
+  "era": "modern",
+  "year": 2015,
+  "dateLabel": "December 12, 2015",
+  "emoji": "🌡️",
+  "cat": "nature",
+  "title": "The Paris Climate Agreement",
+  "place": "Le Bourget, Paris, France",
+  "lat": 48.94,
+  "lng": 2.43,
+  "text": "Almost every country on Earth agreed to keep global warming well below 2°C and to try for 1.5°C. Small Pacific and Caribbean island nations, threatened by rising seas, pushed hard for the tougher goal with the slogan \"1.5 to stay alive.\" Each country sets its own plan and is meant to raise its ambition every five years.",
+  "source": {
+   "name": "United Nations: The Paris Agreement",
+   "url": "https://www.un.org/en/climatechange/paris-agreement"
+  },
+  "source2": {
+   "name": "Program on Negotiation, Harvard Law School: Forging a Global Agreement on Climate Change",
+   "url": "https://www.pon.harvard.edu/daily/business-negotiations/forging-a-global-agreement-on-climate-change/"
+  }
+ },
+ {
+  "id": "mo2-covid-19",
+  "era": "modern",
+  "year": 2020,
+  "dateLabel": "March 11, 2020",
+  "emoji": "🦠",
+  "cat": "daily",
+  "title": "A Pandemic Shuts the World",
+  "place": "Wuhan, China",
+  "lat": 30.59,
+  "lng": 114.31,
+  "text": "A new coronavirus first identified in Wuhan in late 2019 spread across the globe, and the World Health Organization declared a pandemic in March 2020. Cities emptied, schools moved online and by April more than 3.9 billion people, half of humanity, were being asked to stay home. Scientists developed effective vaccines in under a year, far faster than ever before.",
+  "source": {
+   "name": "World Health Organization: WHO Timeline - COVID-19",
+   "url": "https://www.who.int/news/item/27-04-2020-who-timeline---covid-19"
+  },
+  "source2": {
+   "name": "Gavi, the Vaccine Alliance: How did scientists manage to develop safe COVID-19 vaccines in just ten months?",
+   "url": "https://www.gavi.org/vaccineswork/how-did-scientists-manage-develop-safe-covid-19-vaccines-just-ten-months"
+  }
+ },
+ {
+  "id": "mo2-hunga-tonga",
+  "era": "modern",
+  "year": 2022,
+  "dateLabel": "January 15, 2022",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "The Hunga Tonga Eruption",
+  "place": "Hunga Tonga–Hunga Haʻapai, Tonga",
+  "lat": -20.55,
+  "lng": -175.39,
+  "text": "An undersea volcano in Tonga erupted with the largest atmospheric explosion ever recorded by modern instruments, blasting an ash column about 57 kilometres high, into the mesosphere. Its pressure wave circled the planet several times, and the boom was heard as far away as Alaska. The eruption cut Tonga's undersea internet cable, leaving the country almost cut off from the world.",
+  "source": {
+   "name": "University of Reading: Hunga Tonga volcano created biggest ever explosion",
+   "url": "https://www.reading.ac.uk/news/2022/Research-News/Hunga-Tonga-volcano-created-biggest-ever-explosion"
+  },
+  "source2": {
+   "name": "NASA Aura mission: Evolution of an Underwater Volcano",
+   "url": "https://science.nasa.gov/mission/aura/evolution-of-an-underwater-volcano/"
+  }
+ },
+ {
+  "id": "mo2-qatar-world-cup",
+  "era": "modern",
+  "year": 2022,
+  "dateLabel": "December 18, 2022",
+  "emoji": "⚽",
+  "cat": "daily",
+  "title": "Messi's World Cup Final",
+  "place": "Lusail, Qatar",
+  "lat": 25.42,
+  "lng": 51.49,
+  "text": "The first World Cup held in the Middle East, played in November and December to avoid the hot Qatari summer, ended with one of the greatest finals ever. Argentina and France drew 3–3, with Kylian Mbappé scoring a hat-trick. Argentina won on penalties, finally giving Lionel Messi the one trophy he had never won.",
+  "source": {
+   "name": "Olympics.com: Lionel Messi scores twice, Argentina beat France in 2022 World Cup final",
+   "url": "https://www.olympics.com/en/news/lionel-messi-world-cup-final-trophy-argentina-france-2022-penalties"
+  },
+  "source2": {
+   "name": "FIFA media release, 'One year to go, Qatar 2022: first FIFA World Cup in Middle East and Arab World'",
+   "url": "https://inside.fifa.com/media-releases/one-year-to-go-qatar-2022-first-fifa-world-cup-tm-in-middle-east-and-arab"
+  }
+ }
+]

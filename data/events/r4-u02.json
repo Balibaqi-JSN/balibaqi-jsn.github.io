@@ -1,0 +1,414 @@
+[
+ {
+  "id": "u02-grand-canyon-young-gorge",
+  "era": "deep",
+  "year": -5500000,
+  "dateLabel": "About 5 to 6 million years ago",
+  "cat": "nature",
+  "title": "A Young Canyon in Ancient Rock",
+  "place": "Grand Canyon National Park, Arizona, USA",
+  "lat": 36.1,
+  "lng": -112.11,
+  "text": "The Grand Canyon looks ancient, but the gorge itself is young. The Colorado River began cutting down only 5 to 6 million years ago, slicing through rocks far older than itself: the top layer is 270 million years old, and the inner gorge holds rocks about 1.8 billion years old. A steep slope, big floods and a dry climate let the river carve astonishingly fast.",
+  "source": {
+   "name": "U.S. National Park Service: Grand Canyon Geology",
+   "url": "https://www.nps.gov/grca/learn/nature/grca-geology.htm"
+  }
+ },
+ {
+  "id": "u02-chesapeake-bay-crater",
+  "era": "deep",
+  "year": -35000000,
+  "dateLabel": "About 35 million years ago",
+  "cat": "nature",
+  "title": "A Crater Hiding Under Chesapeake Bay",
+  "place": "Lower Chesapeake Bay, near Cape Charles, Virginia, USA",
+  "lat": 37.27,
+  "lng": -76.02,
+  "text": "About 35 million years ago, a space rock roughly 2 to 3 miles wide slammed into the shallow sea shelf off what is now Virginia. It blasted out a crater about 90 kilometres across, now buried under 1,000 to 1,500 feet of rubble and sea sediment beneath the lower Chesapeake Bay. USGS scientist Wylie Poag uncovered it using drill cores and seismic surveys of the seabed.",
+  "source": {
+   "name": "USGS: Chesapeake Bay Meteorite Impact Crater",
+   "url": "https://www.usgs.gov/media/images/chesapeake-bay-meteorite-impact-crater"
+  },
+  "source2": {
+   "name": "USGS Virginia and West Virginia Water Science Center: The Chesapeake Bay Impact Crater",
+   "url": "https://www.usgs.gov/centers/virginia-and-west-virginia-water-science-center/chesapeake-bay-impact-crater"
+  }
+ },
+ {
+  "id": "u02-columbia-river-lava-floods",
+  "era": "deep",
+  "year": -16700000,
+  "dateLabel": "About 16.7 million years ago",
+  "cat": "nature",
+  "title": "Lava Rivers That Reached the Pacific",
+  "place": "Rowena Crest, Columbia River Gorge, Oregon, USA",
+  "lat": 45.68,
+  "lng": -121.3,
+  "text": "Beginning about 16.7 million years ago, long cracks in the ground of eastern Oregon, Washington and Idaho poured out more than 350 lava flows. Many single flows held over 1,000 cubic kilometres of molten rock, and some crossed the Cascades all the way to the Pacific Ocean. Piled up to 4,000 metres thick, the layers now line the Columbia River Gorge like pages in a giant book.",
+  "source": {
+   "name": "USGS Cascades Volcano Observatory: Columbia River Basalt Group Stretches from Oregon to Idaho",
+   "url": "https://www.usgs.gov/observatories/cvo/science/columbia-river-basalt-group-stretches-oregon-idaho"
+  },
+  "source2": {
+   "name": "U.S. National Park Service: Fissure Volcanoes",
+   "url": "https://www.nps.gov/articles/000/fissure-volcanoes.htm"
+  }
+ },
+ {
+  "id": "u02-giants-causeway-lava",
+  "era": "deep",
+  "year": -60000000,
+  "dateLabel": "About 60 million years ago",
+  "cat": "nature",
+  "title": "Forty Thousand Columns of Cooled Lava",
+  "place": "Giant's Causeway, County Antrim, Northern Ireland, UK",
+  "lat": 55.24,
+  "lng": -6.51,
+  "text": "About 60 million years ago, as the North Atlantic was beginning to open, lava flooded across what is now Northern Ireland. Thick flows cooled, shrank and cracked into some 40,000 tidy basalt columns, the stepping stones of the Giant's Causeway. New dating shows all of Northern Ireland's volcanic rocks formed in just 5.5 million years, eight million fewer than geologists once believed.",
+  "source": {
+   "name": "British Geological Survey: Scientists make new discovery in the history of the Giant's Causeway",
+   "url": "https://www.bgs.ac.uk/news/scientists-make-new-discovery-in-the-history-of-the-giants-causeway/"
+  }
+ },
+ {
+  "id": "u02-zealandia-sinks",
+  "era": "deep",
+  "year": -84000000,
+  "dateLabel": "About 84 million years ago",
+  "cat": "discovery",
+  "title": "The Continent That Sank Out of Sight",
+  "place": "Zealandia, highest point Aoraki / Mount Cook, New Zealand",
+  "lat": -43.59,
+  "lng": 170.14,
+  "text": "About 84 million years ago, a long ribbon of land tore away from the supercontinent Gondwana. It had been stretched thin before breaking free, so it sank: today about 94% of its 4.9 million square kilometres lies underwater. In 2017 geologists argued it is Earth's seventh continent, Zealandia, the youngest, thinnest and most submerged of all. New Zealand is among the few bits still above the waves.",
+  "source": {
+   "name": "GSA Today (Mortimer et al. 2017): Zealandia: Earth's Hidden Continent",
+   "url": "https://www.geosociety.org/gsatoday/archive/27/3/article/GSATG321A.1.htm"
+  }
+ },
+ {
+  "id": "u02-sahara-older-desert",
+  "era": "deep",
+  "year": -7000000,
+  "dateLabel": "About 7 million years ago",
+  "cat": "discovery",
+  "title": "How Old Is the Sahara?",
+  "place": "Djurab Desert, northern Chad",
+  "lat": 16.25,
+  "lng": 17.5,
+  "text": "When did the Sahara become a desert? Most scientists said 2 to 3 million years ago, but petrified sand dunes in Chad, dated by nearby fossils, hinted at about 7 million. In 2014 climate modellers offered a cause: the shrinking Tethys Sea, ancestor of the Mediterranean, weakened the monsoon rains reaching North Africa. Not everyone is convinced; one desert geologist called it \"numerical speculation.\"",
+  "source": {
+   "name": "Science News: Shrinking ancient sea may have spawned Sahara Desert",
+   "url": "https://www.sciencenews.org/article/shrinking-ancient-sea-may-have-spawned-sahara-desert"
+  }
+ },
+ {
+  "id": "u02-zanclean-megaflood",
+  "era": "deep",
+  "year": -5330000,
+  "dateLabel": "About 5.3 million years ago",
+  "cat": "nature",
+  "title": "The Flood That Refilled the Mediterranean",
+  "place": "Malta Escarpment, Ionian Sea, off south-east Sicily, Italy",
+  "lat": 36.5,
+  "lng": 15.5,
+  "text": "After the Mediterranean had partly dried out, the Atlantic came roaring back about 5.3 million years ago. Water spilling east through a gateway in south-eastern Sicily plunged into the eastern basin, whose surface may have sat up to 2,400 metres below today's sea level. Seismic surveys have found the leftover heap: up to 860 metres thick and over 1,400 cubic kilometres, perhaps Earth's largest megaflood deposit.",
+  "source": {
+   "name": "Scientific Reports (Micallef et al. 2018): Evidence of the Zanclean megaflood in the eastern Mediterranean Basin",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5773550/"
+  }
+ },
+ {
+  "id": "u02-ries-steinheim-impacts",
+  "era": "deep",
+  "year": -14810000,
+  "dateLabel": "About 14.8 million years ago",
+  "cat": "discovery",
+  "title": "Twin Craters That Weren't Twins",
+  "place": "Nördlinger Ries, Bavaria, Germany",
+  "lat": 48.88,
+  "lng": 10.56,
+  "text": "About 14.8 million years ago an asteroid blasted out the Nördlinger Ries, a crater about 24 kilometres wide in southern Germany. Only 40 kilometres away lies the much smaller Steinheim Basin, and for decades textbooks called them twins made by a split asteroid. But two separate earthquake-shaken layers in nearby sediments suggest Steinheim's impact came roughly half a million to 800,000 years later.",
+  "source": {
+   "name": "Scientific Reports (2022): Event- and biostratigraphic evidence for two independent Ries and Steinheim asteroid impacts in the Middle Miocene",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9633785/"
+  }
+ },
+ {
+  "id": "u02-torres-del-paine-granite",
+  "era": "deep",
+  "year": -12500000,
+  "dateLabel": "About 12.5 million years ago",
+  "cat": "nature",
+  "title": "Patagonia's Towers Were Born Underground",
+  "place": "Torres del Paine National Park, Magallanes, Chile",
+  "lat": -50.94,
+  "lng": -72.99,
+  "text": "The famous granite towers of Torres del Paine began as molten rock squeezed between layers 2 to 3 kilometres underground, about 12.5 million years ago. Precise dating shows the granite arrived in at least three batches, followed by dark sheets of mafic magma slipped in beneath, all within about 150,000 years, a blink in geological time. Erosion later stripped away the rock above and exposed the roof.",
+  "source": {
+   "name": "European Journal of Mineralogy (2020): Contact metamorphism and the assembly of the Torres del Paine intrusive complex",
+   "url": "https://ejm.copernicus.org/articles/32/653/2020/"
+  },
+  "source2": {
+   "name": "University of Bristol Research: Time resolved construction of a bimodal laccolith (Torres del Paine, Patagonia)",
+   "url": "https://research-information.bris.ac.uk/en/publications/time-resolved-construction-of-a-bimodal-laccolith-torres-del-pain/"
+  }
+ },
+ {
+  "id": "u02-atacama-ancient-dryness",
+  "era": "deep",
+  "year": -40000000,
+  "dateLabel": "About 40 million years ago",
+  "cat": "discovery",
+  "title": "Pebbles That Sat Still for Ages",
+  "place": "Coastal Cordillera above Quebrada de Jazpampa, Atacama Desert, Chile",
+  "lat": -19.55,
+  "lng": -70.05,
+  "text": "Quartz pebbles lying on flat ground in Chile's Atacama Desert have barely moved for tens of millions of years. By measuring neon made inside them by cosmic rays, scientists found 32 of 135 had sat at the surface since before the Miocene, one perhaps for 62 million years. They argue the desert's core turned hyperarid by the Mid to Late Eocene, as Earth cooled.",
+  "source": {
+   "name": "Nature Communications (2026): Evidence for Eocene aridification of the Atacama Desert's hyperarid core",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13190850/"
+  }
+ },
+ {
+  "id": "u02-luolong-tibet-rises",
+  "era": "deep",
+  "year": -44000000,
+  "dateLabel": "About 44 million years ago",
+  "cat": "nature",
+  "title": "A Tibetan Valley Climbs Two Kilometres",
+  "place": "Meiduo Village, Luolong County, Tibet, China",
+  "lat": 30.74,
+  "lng": 95.83,
+  "text": "Today the Luolong Basin in eastern Tibet sits 3,600 to 5,200 metres high. Yet between about 54 and 46 million years ago it lay only around 600 metres up, covered in dry scrub. By roughly 44 million years ago it had risen to about 2.9 kilometres, where palms, laurels, oaks and willows grew together. Scientists collected 2,387 fossils from that forest, including leaves, insects and fish.",
+  "source": {
+   "name": "National Science Review (2025): The raising and westward expansion of central Tibet",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12010958/"
+  }
+ },
+ {
+  "id": "u02-first-eurasian-ice-sheet",
+  "era": "deep",
+  "year": -2410000,
+  "dateLabel": "About 2.4 million years ago",
+  "cat": "nature",
+  "title": "Scandinavian Boulders Reach the Netherlands",
+  "place": "Molenweg quarry, Hattem, Gelderland, Netherlands",
+  "lat": 52.44,
+  "lng": 6.05,
+  "text": "About 2.4 million years ago, a great ice sheet spread out of Scandinavia and carried boulders all the way to what is now the Netherlands. Granites from Åland and Finland and sandstones from Bornholm and Öland lie in gravels near the town of Hattem. New dating of these rocks shows Europe's first big ice sheet grew more than a million years earlier than once thought.",
+  "source": {
+   "name": "Nature Communications (2026): A continental-scale Eurasian ice sheet 2.4 million years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13434758/"
+  }
+ },
+ {
+  "id": "u02-red-sea-rift-magma",
+  "era": "deep",
+  "year": -26000000,
+  "dateLabel": "About 26 million years ago",
+  "cat": "nature",
+  "title": "Arabia Starts Tearing Away from Africa",
+  "place": "Tihama Asir complex, east of the Jizan coastal plain, Saudi Arabia",
+  "lat": 17.2,
+  "lng": 42.9,
+  "text": "About 26 million years ago, Arabia was beginning to tear away from Africa. A mantle plume under Afar had weakened the crust, and magma flooded into it, leaving gabbros and dike swarms thousands of kilometres long beside today's Red Sea coast. A 2025 study argues this magma actually patched and thickened the stretching crust, delaying true seafloor spreading in the southern Red Sea until about 5 million years ago.",
+  "source": {
+   "name": "Nature Communications (2025): Magmatic underplating and crustal intrusions accommodate extension during Red Sea continental rifting",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12259940/"
+  }
+ },
+ {
+  "id": "u02-green-arabia-caves",
+  "era": "deep",
+  "year": -7440000,
+  "dateLabel": "About 7.4 million years ago",
+  "cat": "discovery",
+  "title": "Cave Stones Remember a Wetter Arabia",
+  "place": "As Sulb Plateau, central Saudi Arabia",
+  "lat": 26.9,
+  "lng": 47.3,
+  "text": "Beneath the stony As Sulb Plateau of central Saudi Arabia, cave formations grow only when rain soaks the ground above. Dating stalagmites and flowstones from seven caves, with names like Hotel Cave and Mossy Cave, scientists found wet spells stretching back to 7.44 million years ago. Fossils of about the same age from the nearby UAE show crocodiles and hippos once lived in what is now desert.",
+  "source": {
+   "name": "Nature (2025): Recurrent humid phases in Arabia over the past 8 million years",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12018461/"
+  }
+ },
+ {
+  "id": "u02-aleutian-arc-begins",
+  "era": "deep",
+  "year": -56000000,
+  "dateLabel": "About 56 million years ago",
+  "cat": "nature",
+  "title": "The Aleutian Volcano Chain Is Born",
+  "place": "Agattu Island forearc, western Aleutian Islands, Alaska, USA",
+  "lat": 52.4,
+  "lng": 173.6,
+  "text": "About 56 million years ago or earlier, the Pacific seafloor began diving beneath what became the Aleutian Islands, a volcanic arc now nearly 4,000 kilometres long. Researchers dredged basalts from the seabed near Agattu Island and dated them to about 55.6 million years, far older than most earlier estimates. The change came as the whole Pacific Plate swung from heading west-northwest to heading north.",
+  "source": {
+   "name": "Nature Communications (2026): Tectonic and climatic implications of the Aleutian Arc initiation 56 million years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13226694/"
+  }
+ },
+ {
+  "id": "u02-antarctic-current-weak-start",
+  "era": "deep",
+  "year": -33700000,
+  "dateLabel": "About 33.7 million years ago",
+  "cat": "nature",
+  "title": "A Weak Start for Earth's Mightiest Current",
+  "place": "Drake Passage, between South America and Antarctica",
+  "lat": -58,
+  "lng": -63,
+  "text": "When Antarctica first froze over, about 33.7 million years ago, new ocean gaps had opened at the Tasman Gateway and Drake Passage. Yet climate simulations suggest the current circling Antarctica, today Earth's strongest, was still feeble. The gaps did not line up with the westerly winds, so the flow reached only about 35% of its pre-industrial strength, and a shallow seaway even cut off the Antarctic Peninsula.",
+  "source": {
+   "name": "PNAS (2026): Configuration of circum-Antarctic circulation at the last green- to icehouse climate transition",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13080016/"
+  }
+ },
+ {
+  "id": "u02-hawaiian-emperor-bend",
+  "era": "deep",
+  "year": -47000000,
+  "dateLabel": "About 47 million years ago",
+  "cat": "nature",
+  "title": "The Sharp Turn in Hawaii's Volcano Trail",
+  "place": "Hawaiian-Emperor Bend, northwest Pacific Ocean",
+  "lat": 32,
+  "lng": 172,
+  "text": "On the floor of the northwest Pacific, the trail of volcanoes left by the Hawaiian hotspot makes a sharp 60° turn, formed about 47 million years ago. For decades geologists argued over whether the Pacific Plate changed direction or the hotspot itself wandered. A 2025 computer study says both mattered: the hotspot drifted south and also west, and the westward drift alone adds about 20° to the bend.",
+  "source": {
+   "name": "PNAS (2025): Dynamics of longitudinal Hawaiian hotspot motion and the formation of the Hawaiian-Emperor Bend",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12501157/"
+  }
+ },
+ {
+  "id": "u02-kerguelen-ocean-suffocates",
+  "era": "deep",
+  "year": -94000000,
+  "dateLabel": "About 94 million years ago",
+  "cat": "nature",
+  "title": "Volcanoes That Took the Ocean's Breath",
+  "place": "Mentelle Basin, off south-west Western Australia",
+  "lat": -33.8,
+  "lng": 112.8,
+  "text": "About 94 million years ago, in a super-hot world with exceptionally high seas, oxygen ran short across much of the ocean. What set it off? Drill cores from the Mentelle Basin off Western Australia hold pulses of mercury, an element volcanoes release in vast amounts, just before and during the crisis. The likely culprit: huge eruptions building the Kerguelen Plateau in the southern Indian Ocean.",
+  "source": {
+   "name": "Nature Communications (2024): Oceanic Anoxic Event 2 triggered by Kerguelen volcanism",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11180104/"
+  }
+ },
+ {
+  "id": "u02-turkana-escapes-lava",
+  "era": "deep",
+  "year": -30000000,
+  "dateLabel": "About 31 to 29 million years ago",
+  "cat": "nature",
+  "title": "Why Turkana Dodged the Lava Floods",
+  "place": "Turkana Depression, northern Kenya",
+  "lat": 3.5,
+  "lng": 36,
+  "text": "Around 31 to 29 million years ago, one to two kilometres of lava piled up on the Ethiopian Plateau, fed by a plume of hot mantle rising beneath East Africa. Just to the south, the Turkana Depression sat on thin crust left by an older failed rift, an obvious weak spot. Yet seismic surveys show it largely escaped: its old rift had become drained and stiff, not weak.",
+  "source": {
+   "name": "Nature (2025): The importance of past rifting in large igneous province development",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12589129/"
+  }
+ },
+ {
+  "id": "u02-peru-canyons-river-capture",
+  "era": "deep",
+  "year": -6000000,
+  "dateLabel": "About 7 to 5 million years ago",
+  "cat": "nature",
+  "title": "Rivers That Stole Their Way to Canyons",
+  "place": "San Gabán Canyon, Puno, Peru",
+  "lat": -13.45,
+  "lng": -70.4,
+  "text": "Along the northeastern edge of the high Andean Plateau in Peru, rivers have sawn canyons 2 to 3 kilometres deep, the largest being San Gabán. Modelling suggests the trick was capture: once mountain-building slowed after about 10 million years ago, rivers ate back into closed, inward-draining basins on the plateau and grabbed their water. Captures around 7 to 5 and 3.5 to 0.5 million years ago supercharged erosion.",
+  "source": {
+   "name": "Science Advances (2025): Drivers of canyon incision in the Peruvian Andes",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12588262/"
+  }
+ },
+ {
+  "id": "u02-maldives-monsoon-dust",
+  "era": "deep",
+  "year": -12000000,
+  "dateLabel": "About 12 million years ago",
+  "cat": "discovery",
+  "title": "Monsoon Secrets in Maldives Mud",
+  "place": "Maldives Inner Sea (IODP Site U1467), Maldives",
+  "lat": 4.85,
+  "lng": 73.28,
+  "text": "The Maldives' double row of atolls encloses a sheltered inner sea that rivers barely reach, so mostly windblown dust settles there. Drilling 708 metres into its mud, scientists traced dust from northeastern Africa and Arabia carried by summer monsoon winds. The record suggests the South Asian summer monsoon winds have weakened in two steps since about 12 million years ago, as ice sheets grew.",
+  "source": {
+   "name": "Nature Communications (2023): Weakening of the South Asian summer monsoon linked to interhemispheric ice-sheet growth since 12 Ma",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9929083/"
+  }
+ },
+ {
+  "id": "u02-qaidam-lake-rises",
+  "era": "deep",
+  "year": -9000000,
+  "dateLabel": "About 11 to 7.6 million years ago",
+  "cat": "discovery",
+  "title": "Sea Algae Measure Tibet's Rise",
+  "place": "Honggou section, Qaidam Basin, Qinghai, China",
+  "lat": 37.5,
+  "lng": 95.2,
+  "text": "Tiny algae usually found only in the sea once lived in an ancient lake in the Qaidam Basin, on Tibet's northern edge, perhaps arriving with a Middle Miocene seawater incursion. Their fatty molecules record water temperature. They show the lake cooled by about 6.6°C in a geologically quick burst, either around 11 or 7.7 million years ago, meaning the basin rose roughly 1.5 kilometres.",
+  "source": {
+   "name": "Science Advances (2025): Terrestrial temperature history reveals Late Miocene rapid uplift of the northern Tibetan Plateau",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12248382/"
+  }
+ },
+ {
+  "id": "u02-red-clay-dust",
+  "era": "deep",
+  "year": -8100000,
+  "dateLabel": "About 8 million years ago",
+  "cat": "discovery",
+  "title": "Where the Loess Plateau's Red Dust Came From",
+  "place": "Chaona section, Loess Plateau, Gansu, China",
+  "lat": 35.12,
+  "lng": 107.2,
+  "text": "On China's Loess Plateau, reddish dust layers called the Red Clay were piling up by about 8 million years ago. Scientists long read them as a sign of inner Asia drying out. But dating tiny zircon crystals from the Chaona section showed much of the dust came from the Qilian Mountains and eastern lowlands, eroded by stronger summer monsoon rains. Meanwhile dust reaching the North Pacific rose about tenfold.",
+  "source": {
+   "name": "Science Advances (2018): Pre-Quaternary decoupling between Asian aridification and high dust accumulation rates",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5817930/"
+  }
+ },
+ {
+  "id": "u02-indonesian-gateway-closes",
+  "era": "deep",
+  "year": -10000000,
+  "dateLabel": "About 10 million years ago",
+  "cat": "nature",
+  "title": "The Deep Door Between Two Oceans Shuts",
+  "place": "Deep basin of the South China Sea (IODP drilling area)",
+  "lat": 15.38,
+  "lng": 117,
+  "text": "Until about 10 million years ago, cold deep water from around Antarctica flowed from the Indian Ocean through gaps among the Indonesian islands into the deep South China Sea, piling up current-built sediment drifts on the seafloor. Drill cores and seismic images show that flow faded when the deep Indonesian Gateway finally closed, cutting the deep link between the Pacific and Indian Oceans and reshuffling global ocean circulation.",
+  "source": {
+   "name": "Nature Communications (2024): South China Sea records Late Miocene reorganization of western Pacific deep circulation",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11589845/"
+  }
+ },
+ {
+  "id": "u02-malta-blue-clay",
+  "era": "deep",
+  "year": -13800000,
+  "dateLabel": "About 14 million years ago",
+  "cat": "nature",
+  "title": "Malta's Cliffs Record a Cooling World",
+  "place": "Ras il-Pellegrin, Malta",
+  "lat": 35.92,
+  "lng": 14.34,
+  "text": "At Ras il-Pellegrin on Malta, the cliff layers change from Globigerina Limestone to Blue Clay. That switch, during a cooling step between about 14.7 and 12.8 million years ago when Antarctica's ice expanded, is the official global marker for the start of the Serravallian age. Chemistry in tiny shells shows the sea there then freshened in pulses, as stronger monsoon rains fell over North Africa.",
+  "source": {
+   "name": "Science Advances (2026): Humid periods over western Sahara during the Middle Miocene Climate Transition",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13742176/"
+  }
+ }
+]

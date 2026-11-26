@@ -1,0 +1,624 @@
+[
+ {
+  "id": "mo-christmas-truce",
+  "era": "modern",
+  "year": 1914,
+  "dateLabel": "December 25, 1914",
+  "emoji": "🎄",
+  "cat": "daily",
+  "title": "The Christmas Truce",
+  "place": "Ypres, Belgium",
+  "lat": 50.85,
+  "lng": 2.88,
+  "text": "In the first winter of the First World War, soldiers along parts of the front stopped fighting on their own for Christmas. British and German troops climbed out of their trenches, sang carols, swapped cigarettes and chocolate, and in some places kicked a football around. Generals made sure it never happened on that scale again.",
+  "source": {
+   "name": "Imperial War Museums: The Real Story of the Christmas Truce",
+   "url": "https://www.iwm.org.uk/history/first-world-war/christmas-truce"
+  },
+  "source2": {
+   "name": "National Army Museum: Christmas in the First World War",
+   "url": "https://www.nam.ac.uk/explore/christmas-ww1"
+  }
+ },
+ {
+  "id": "mo-samoa-flu",
+  "era": "modern",
+  "year": 1918,
+  "dateLabel": "November 1918",
+  "emoji": "🚫",
+  "cat": "daily",
+  "title": "Two Samoas, Two Fates",
+  "place": "Apia, Samoa",
+  "lat": -13.83,
+  "lng": -171.76,
+  "text": "The 1918 flu pandemic reached Western Samoa from Auckland, New Zealand, and more than a fifth of the population died. Just across the water, the U.S. Navy imposed a strict quarantine on American Samoa. Thanks to that quarantine, American Samoa recorded no flu deaths at all, a lesson that public health experts still cite.",
+  "source": {
+   "name": "Epidemiology and Infection (PMC): Pacific islands which escaped the 1918-1919 influenza pandemic and their subsequent mortality experiences",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9152047/"
+  }
+ },
+ {
+  "id": "mo-tutankhamun",
+  "era": "modern",
+  "year": 1922,
+  "dateLabel": "November 4, 1922",
+  "emoji": "⚱️",
+  "cat": "discovery",
+  "title": "Tutankhamun's Tomb Found",
+  "place": "Valley of the Kings, Egypt",
+  "lat": 25.74,
+  "lng": 32.6,
+  "text": "Howard Carter's team uncovered a step cut into the rock, leading down to the almost untouched tomb of a boy pharaoh. Inside were more than 5,000 objects, from a solid gold coffin to furniture, chariots and weapons. Tutankhamun had little claim to fame in his own time, but his tomb made him perhaps the best-known pharaoh of all.",
+  "source": {
+   "name": "The Metropolitan Museum of Art: Discovering Tutankhamun: The Photographs of Harry Burton",
+   "url": "https://www.metmuseum.org/exhibitions/listings/2006/discovering-tutankhamun"
+  },
+  "source2": {
+   "name": "Griffith Institute, University of Oxford: Tutankhamun, 1st Season (1922-1923)",
+   "url": "https://tutankhamun.griffith.ox.ac.uk/seasons/1st-season-1922-1923"
+  }
+ },
+ {
+  "id": "mo-mohenjo-daro",
+  "era": "modern",
+  "year": 1924,
+  "dateLabel": "1924",
+  "emoji": "🧱",
+  "cat": "discovery",
+  "title": "A Lost City on the Indus",
+  "place": "Mohenjo-daro, Pakistan",
+  "lat": 27.33,
+  "lng": 68.14,
+  "text": "Archaeologists announced that ruins dug up near the Indus River belonged to a forgotten civilization about 4,500 years old. Mohenjo-daro had grid-like streets, an elaborate drainage system and a huge public bath, and some houses even had their own bathing rooms. Its people wrote in a script that nobody has managed to read to this day.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Mohenjo-daro",
+   "url": "https://www.britannica.com/place/Mohenjo-daro"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Indus civilization",
+   "url": "https://www.britannica.com/topic/Indus-civilization"
+  }
+ },
+ {
+  "id": "mo-penicillin",
+  "era": "modern",
+  "year": 1928,
+  "dateLabel": "September 1928",
+  "emoji": "🧫",
+  "cat": "discovery",
+  "title": "The Mould That Saved Millions",
+  "place": "London, United Kingdom",
+  "lat": 51.52,
+  "lng": -0.17,
+  "text": "Returning from a holiday, scientist Alexander Fleming noticed that a fuzzy mould had landed on one of his dishes of bacteria and killed the germs around it. He named the mystery substance penicillin. It took other scientists more than a decade to turn it into a medicine, but antibiotics have since saved countless lives.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Alexander Fleming",
+   "url": "https://www.britannica.com/biography/Alexander-Fleming"
+  },
+  "source2": {
+   "name": "American Chemical Society: Alexander Fleming Discovery and Development of Penicillin (National Historic Chemical Landmark)",
+   "url": "https://www.acs.org/education/whatischemistry/landmarks/flemingpenicillin.html"
+  }
+ },
+ {
+  "id": "mo-peking-man",
+  "era": "modern",
+  "year": 1929,
+  "dateLabel": "December 2, 1929",
+  "emoji": "💀",
+  "cat": "discovery",
+  "title": "Peking Man's Skull",
+  "place": "Zhoukoudian, China",
+  "lat": 39.69,
+  "lng": 115.93,
+  "text": "In a limestone cave near Beijing, the young Chinese archaeologist Pei Wenzhong dug up an ancient skullcap of Homo erectus, an early human relative who lived there hundreds of thousands of years ago. More fossils followed. In 1941, while being shipped to safety during the war, the bones vanished, and nobody knows where they are.",
+  "source": {
+   "name": "UNESCO World Heritage Centre, Peking Man Site at Zhoukoudian (via UNESCO open-data API)",
+   "url": "https://whc.unesco.org/en/list/449"
+  },
+  "source2": {
+   "name": "Discourses of Race and Rising China (2019), PMC",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7123927/"
+  }
+ },
+ {
+  "id": "mo-salt-march",
+  "era": "modern",
+  "year": 1930,
+  "dateLabel": "April 6, 1930",
+  "emoji": "🧂",
+  "cat": "power",
+  "title": "Gandhi's Salt March",
+  "place": "Dandi, India",
+  "lat": 20.89,
+  "lng": 72.8,
+  "text": "Mahatma Gandhi walked about 385 kilometres over 24 days to the sea to protest a British tax on salt, something every family needed. He set out with 78 followers, and crowds grew at every village. At Dandi beach he picked up a lump of salt, breaking the law and inspiring protests across India.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Salt March",
+   "url": "https://www.britannica.com/event/Salt-March"
+  },
+  "source2": {
+   "name": "National Gandhi Museum, 'Dandi March and Salt Satyagraha' (via mkgandhi.org, Gandhi Research Foundation)",
+   "url": "https://mkgandhi.org/articles/salt_satya.htm"
+  }
+ },
+ {
+  "id": "mo-hiroshima",
+  "era": "modern",
+  "year": 1945,
+  "dateLabel": "August 6, 1945",
+  "emoji": "🕊️",
+  "cat": "power",
+  "title": "The Bombing of Hiroshima",
+  "place": "Hiroshima, Japan",
+  "lat": 34.39,
+  "lng": 132.45,
+  "text": "An American plane dropped the first atomic bomb used in war on Hiroshima, killing tens of thousands of people in an instant and many more later. Three days later Nagasaki was bombed, and Japan soon surrendered. A domed building near the blast survived as a ruin, and today it stands in a peace park as a reminder.",
+  "source": {
+   "name": "U.S. Department of Energy OSTI, Manhattan Project: The Atomic Bombing of Hiroshima",
+   "url": "https://www.osti.gov/opennet/manhattan-project-history/Events/1945/hiroshima.htm"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre, Hiroshima Peace Memorial (Genbaku Dome) (via UNESCO open-data API)",
+   "url": "https://whc.unesco.org/en/list/775"
+  }
+ },
+ {
+  "id": "mo-dead-sea-scrolls",
+  "era": "modern",
+  "year": 1947,
+  "dateLabel": "About 1947",
+  "emoji": "🏺",
+  "cat": "discovery",
+  "title": "The Dead Sea Scrolls",
+  "place": "Qumran, West Bank",
+  "lat": 31.74,
+  "lng": 35.46,
+  "text": "Bedouin shepherds exploring a cave above the Dead Sea found clay jars holding ancient scrolls. Over the next decade, searchers recovered pieces of hundreds more from nearby caves. Some are over 2,000 years old, including the oldest known copies of books of the Hebrew Bible, preserved by the bone-dry desert air.",
+  "source": {
+   "name": "Israel Antiquities Authority, Leon Levy Dead Sea Scrolls Digital Library: Discovery and Publication",
+   "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication"
+  },
+  "source2": {
+   "name": "Israel Antiquities Authority, Leon Levy DSS Digital Library: Introduction",
+   "url": "https://www.deadseascrolls.org.il/learn-about-the-scrolls/introduction"
+  }
+ },
+ {
+  "id": "mo-india-independence",
+  "era": "modern",
+  "year": 1947,
+  "dateLabel": "August 15, 1947",
+  "emoji": "🇮🇳",
+  "cat": "power",
+  "title": "Independence at Midnight",
+  "place": "New Delhi, India",
+  "lat": 28.61,
+  "lng": 77.21,
+  "text": "At the stroke of midnight, India became independent after about two centuries of British rule, and Pakistan had been born a day earlier. Jawaharlal Nehru marked the moment with his famous Tryst with Destiny speech. But the hurried partition uprooted more than ten million people and brought terrible violence on both sides of the new border.",
+  "source": {
+   "name": "Encyclopaedia Britannica, Partition of India",
+   "url": "https://www.britannica.com/event/Partition-of-India"
+  },
+  "source2": {
+   "name": "Free Press Journal, FPJ Archives: Nehru's Tryst with Destiny",
+   "url": "https://www.freepressjournal.in/india/fpj-archives-read-and-listen-to-pandit-jawaharlal-nehrus-tryst-with-destiny-on-the-eve-of-independence-in-1947"
+  }
+ },
+ {
+  "id": "mo-prc-founded",
+  "era": "modern",
+  "year": 1949,
+  "dateLabel": "October 1, 1949",
+  "emoji": "🏮",
+  "cat": "power",
+  "title": "The People's Republic Is Proclaimed",
+  "place": "Tiananmen, Beijing, China",
+  "lat": 39.9,
+  "lng": 116.39,
+  "text": "After decades of war, Mao Zedong stood atop Tiananmen, the old gate to the imperial palace, and proclaimed the People's Republic of China. The defeated Nationalist government retreated to Taiwan. Mao's portrait still hangs on that same gate, looking out over one of the largest public squares in the world.",
+  "source": {
+   "name": "U.S. Department of State, Office of the Historian: The Chinese Revolution of 1949",
+   "url": "https://history.state.gov/milestones/1945-1952/chinese-rev"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, Tiananmen Square",
+   "url": "https://www.britannica.com/topic/Tiananmen-Square"
+  }
+ },
+ {
+  "id": "mo-everest-summit",
+  "era": "modern",
+  "year": 1953,
+  "dateLabel": "May 29, 1953",
+  "emoji": "🏔️",
+  "cat": "journeys",
+  "title": "Top of the World",
+  "place": "Mount Everest, Nepal",
+  "lat": 27.99,
+  "lng": 86.93,
+  "text": "Tenzing Norgay, a Sherpa climber, and Edmund Hillary, a beekeeper from New Zealand, became the first people confirmed to stand on the summit of Everest. They stayed only about fifteen minutes. The news reached London just as Queen Elizabeth II was crowned, and Tenzing became a hero across Nepal and India.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Edmund Hillary'",
+   "url": "https://www.britannica.com/biography/Edmund-Hillary"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica, 'Tenzing Norgay'",
+   "url": "https://www.britannica.com/biography/Tenzing-Norgay"
+  }
+ },
+ {
+  "id": "mo-ghana-independence",
+  "era": "modern",
+  "year": 1957,
+  "dateLabel": "March 6, 1957",
+  "emoji": "⭐",
+  "cat": "power",
+  "title": "Ghana Breaks Free",
+  "place": "Accra, Ghana",
+  "lat": 5.56,
+  "lng": -0.2,
+  "text": "The British colony called the Gold Coast became independent Ghana, one of the first countries in sub-Saharan Africa to win freedom from colonial rule. As midnight struck in Accra, leader Kwame Nkrumah told cheering crowds that Ghana was free forever. Its new flag carried a black star, a symbol of African emancipation and unity in the struggle against colonialism.",
+  "source": {
+   "name": "Encyclopaedia Britannica, 'Kwame Nkrumah'",
+   "url": "https://www.britannica.com/biography/Kwame-Nkrumah"
+  },
+  "source2": {
+   "name": "UPI Archives, 'Ghana, first Negro native colony, born' (6 March 1957)",
+   "url": "https://www.upi.com/Archives/1957/03/06/Ghana-first-negro-native-colony-born/3671551645801/"
+  }
+ },
+ {
+  "id": "mo-sputnik",
+  "era": "modern",
+  "year": 1957,
+  "dateLabel": "October 4, 1957",
+  "emoji": "🛰️",
+  "cat": "discovery",
+  "title": "Sputnik Beeps From Orbit",
+  "place": "Baikonur, Kazakhstan",
+  "lat": 45.92,
+  "lng": 63.34,
+  "text": "The Soviet Union launched Sputnik, the first artificial satellite, from the steppes of Kazakhstan. It was a shiny metal ball about the size of a beach ball, circling Earth every 96 minutes. Radio fans around the world could tune in to its simple beep-beep signal, and the Space Race had begun.",
+  "source": {
+   "name": "NASA History Office, Roger D. Launius, 'Sputnik and the Origins of the Space Age'",
+   "url": "https://www.nasa.gov/history/sputnik/sputorig.html"
+  },
+  "source2": {
+   "name": "Smithsonian National Air and Space Museum, 'Music Box, Sputnik Model'",
+   "url": "https://airandspace.si.edu/collection-objects/music-box-sputnik-model/nasm_A19850563000"
+  }
+ },
+ {
+  "id": "mo-valdivia-earthquake",
+  "era": "modern",
+  "year": 1960,
+  "dateLabel": "May 22, 1960",
+  "emoji": "🌎",
+  "cat": "nature",
+  "title": "The Strongest Earthquake Ever Recorded",
+  "place": "Valdivia, Chile",
+  "lat": -39.81,
+  "lng": -73.25,
+  "text": "Southern Chile was struck by the most powerful earthquake ever measured, about magnitude 9.5. The ground shook hard for several minutes, and the tsunami it caused raced across the whole Pacific. Waves hit Hawaii about fifteen hours later and reached Japan, on the far side of the ocean, almost a day after the quake.",
+  "source": {
+   "name": "NOAA Science On a Sphere, 'Tsunami Historical Series: Chile - 1960'",
+   "url": "https://sos.noaa.gov/catalog/datasets/tsunami-historical-series-chile-1960/"
+  },
+  "source2": {
+   "name": "NOAA National Centers for Environmental Information, 'On This Day: 1960 Chilean Earthquake and Tsunami'",
+   "url": "https://www.ncei.noaa.gov/news/day-1960-chilean-earthquake-and-tsunami"
+  }
+ },
+ {
+  "id": "mo-shinkansen",
+  "era": "modern",
+  "year": 1964,
+  "dateLabel": "October 1, 1964",
+  "emoji": "🚄",
+  "cat": "journeys",
+  "title": "The First Bullet Train",
+  "place": "Tokyo, Japan",
+  "lat": 35.68,
+  "lng": 139.77,
+  "text": "Just days before Tokyo hosted the Olympics, the Shinkansen began zipping between Tokyo and Osaka at up to 210 kilometres per hour. It was the world's first high-speed railway line. Its trains became famous for punctuality, with average delays measured in seconds, and other countries soon copied the idea.",
+  "source": {
+   "name": "International Union of Railways (UIC), 'High-Speed Rail History'",
+   "url": "https://uic.org/activities/high-speed-rail-history"
+  },
+  "source2": {
+   "name": "JR Central, 'Tokaido Shinkansen' (average delay 12 seconds as of 2019)",
+   "url": "https://global.jr-central.co.jp/en/onlinebooking/contents/expo_in_osaka/"
+  }
+ },
+ {
+  "id": "mo-apollo-11",
+  "era": "modern",
+  "year": 1969,
+  "dateLabel": "July 20, 1969",
+  "emoji": "🌕",
+  "cat": "journeys",
+  "title": "Footprints on the Moon",
+  "place": "Kennedy Space Center, Florida, USA",
+  "lat": 28.57,
+  "lng": -80.65,
+  "text": "Four days after launching from Florida, Neil Armstrong and Buzz Aldrin landed on the Moon while Michael Collins circled overhead. Hundreds of millions of people watched the grainy black-and-white broadcast. With no wind on the Moon, their bootprints in the grey dust are probably still there.",
+  "source": {
+   "name": "NASA, 'July 20, 1969: One Giant Leap For Mankind'",
+   "url": "https://www.nasa.gov/history/july-20-1969-one-giant-leap-for-mankind/"
+  },
+  "source2": {
+   "name": "NASA StarChild, 'Apollo 11' (Level 1)",
+   "url": "https://starchild.gsfc.nasa.gov/docs/StarChild/space_level1/apollo11.html"
+  }
+ },
+ {
+  "id": "mo-terracotta-army",
+  "era": "modern",
+  "year": 1974,
+  "dateLabel": "March 1974",
+  "emoji": "🗿",
+  "cat": "discovery",
+  "title": "Farmers Find the Terracotta Army",
+  "place": "Lintong, Xi'an, China",
+  "lat": 34.38,
+  "lng": 109.27,
+  "text": "Farmers digging a well during a drought struck pieces of a clay head. They had found the edge of a buried army made to guard the tomb of Qin Shi Huang, China's first emperor. Archaeologists estimate there are around 8,000 life-sized soldiers, each with its own face, plus horses and chariots.",
+  "source": {
+   "name": "National Geographic, 'About Emperor Qin's Terra Cotta Army'",
+   "url": "https://www.nationalgeographic.com/history/article/emperor-qin"
+  },
+  "source2": {
+   "name": "National Geographic, 'Mausoleum of the First Qin Emperor'",
+   "url": "https://www.nationalgeographic.com/travel/world-heritage/article/mausoleum-first-qin-emperor"
+  }
+ },
+ {
+  "id": "mo-phnom-penh-1975",
+  "era": "modern",
+  "year": 1975,
+  "dateLabel": "April 17, 1975",
+  "emoji": "🕯️",
+  "cat": "power",
+  "title": "The Khmer Rouge Empty a Capital",
+  "place": "Phnom Penh, Cambodia",
+  "lat": 11.56,
+  "lng": 104.92,
+  "text": "Khmer Rouge soldiers marched into Phnom Penh and, within days, forced its whole population out into the countryside. Their leaders wanted to restart history at Year Zero, abolishing money, schools and religion. In under four years, up to two million Cambodians died, and survivors today keep the memory alive at memorials and museums.",
+  "source": {
+   "name": "United States Holocaust Memorial Museum, 'Day One: April 17, 1975'",
+   "url": "https://www.ushmm.org/genocide-prevention/countries/cambodia/day-one"
+  },
+  "source2": {
+   "name": "United States Holocaust Memorial Museum, 'Explore Cambodia 1975-1979'",
+   "url": "https://www.ushmm.org/genocide-prevention/countries/cambodia/cambodia-1975"
+  }
+ },
+ {
+  "id": "mo-last-smallpox",
+  "era": "modern",
+  "year": 1977,
+  "dateLabel": "October 1977",
+  "emoji": "💉",
+  "cat": "discovery",
+  "title": "The Last Case of Smallpox",
+  "place": "Merca, Somalia",
+  "lat": 1.71,
+  "lng": 44.77,
+  "text": "Ali Maow Maalin, a hospital cook, became the last person on Earth to catch smallpox naturally, a disease that had killed hundreds of millions over history. He recovered, and in 1980 the world declared smallpox wiped out, the first human disease ever eradicated. Maalin later spent years helping vaccinate children against polio.",
+  "source": {
+   "name": "US CDC, 'History of Smallpox'",
+   "url": "https://www.cdc.gov/smallpox/about/history.html"
+  },
+  "source2": {
+   "name": "WHO, 'History of smallpox vaccination'",
+   "url": "https://www.who.int/news-room/spotlight/history-of-vaccination/history-of-smallpox-vaccination"
+  }
+ },
+ {
+  "id": "mo-templo-mayor",
+  "era": "modern",
+  "year": 1978,
+  "dateLabel": "February 21, 1978",
+  "emoji": "🌙",
+  "cat": "discovery",
+  "title": "The Moon Goddess Under the Street",
+  "place": "Mexico City, Mexico",
+  "lat": 19.43,
+  "lng": -99.13,
+  "text": "Electricity workers digging in downtown Mexico City hit a giant carved stone disc about three metres wide. It showed Coyolxauhqui, an Aztec moon goddess, and it marked the foot of the Templo Mayor, the great temple of Tenochtitlan. The government let 13 buildings be torn down, and the digs revealed the heart of the Aztec capital beneath the modern streets.",
+  "source": {
+   "name": "INAH (Mexico), bulletin on the anniversary of the Coyolxauhqui discovery",
+   "url": "https://www.inah.gob.mx/boletines/con-teatro-y-talleres-festejaran-el-aniversario-del-hallazgo-del-monolito-de-la-diosa-coyolxauhqui"
+  },
+  "source2": {
+   "name": "INAH Repositorio, Coyolxauhqui monolith record",
+   "url": "https://repositorio.inah.gob.mx/o-35425"
+  }
+ },
+ {
+  "id": "mo-uluru-handback",
+  "era": "modern",
+  "year": 1985,
+  "dateLabel": "October 26, 1985",
+  "emoji": "🪨",
+  "cat": "culture",
+  "title": "Uluru Returns to Its Owners",
+  "place": "Uluru, Australia",
+  "lat": -25.34,
+  "lng": 131.04,
+  "text": "The Australian government handed the title to Uluru back to the Anangu, its traditional owners, who then leased it back as a national park. Anangu had long asked visitors not to climb the sacred rock. On the same date in 2019, the climb was closed for good.",
+  "source": {
+   "name": "Parks Australia, Uluru-Kata Tjuta National Park: History",
+   "url": "https://uluru.gov.au/discover/history/"
+  },
+  "source2": {
+   "name": "Parks Australia, Uluru climb closure",
+   "url": "https://uluru.gov.au/discover/culture/uluru-climb/"
+  }
+ },
+ {
+  "id": "mo-people-power",
+  "era": "modern",
+  "year": 1986,
+  "dateLabel": "February 22–25, 1986",
+  "emoji": "🌼",
+  "cat": "power",
+  "title": "People Power on EDSA",
+  "place": "Manila, Philippines",
+  "lat": 14.59,
+  "lng": 121.06,
+  "text": "Huge crowds filled EDSA, a major Manila highway, to protest the dictator Ferdinand Marcos after a stolen election. Nuns knelt in front of tanks, and people handed flowers and food to soldiers, many of whom switched sides. After four days, Marcos fled the country, and Corazon Aquino became president.",
+  "source": {
+   "name": "TIME, 'The Philippines: Anatomy of a Revolution' (1986)",
+   "url": "https://time.com/archive/6705692/the-philippines-anatomy-of-a-revolution/"
+  },
+  "source2": {
+   "name": "TIME, 'Has the Philippines Moved On From Ferdinand Marcos' Dictatorship?'",
+   "url": "https://time.com/6257017/philippines-bongbong-marcos-people-power-revolution/"
+  }
+ },
+ {
+  "id": "mo-seoul-olympics",
+  "era": "modern",
+  "year": 1988,
+  "dateLabel": "September 17, 1988",
+  "emoji": "🐯",
+  "cat": "culture",
+  "title": "The Seoul Olympics",
+  "place": "Seoul, South Korea",
+  "lat": 37.52,
+  "lng": 127.07,
+  "text": "South Korea, whose economic miracle had risen from the rubble of war, hosted the Summer Olympics with a friendly tiger mascot named Hodori. After two Games hit by boycotts, the United States and the Soviet Union met at a Summer Olympics for the first time since 1976. The Games also helped push South Korea toward democracy.",
+  "source": {
+   "name": "International Olympic Committee, Seoul 1988",
+   "url": "https://www.olympics.com/en/olympic-games/seoul-1988"
+  },
+  "source2": {
+   "name": "Korea.net, 'Olympic mascots symbolize protection, harmony'",
+   "url": "https://www.korea.net/NewsFocus/Sports/view?articleId=153358"
+  }
+ },
+ {
+  "id": "mo-berlin-wall",
+  "era": "modern",
+  "year": 1989,
+  "dateLabel": "November 9, 1989",
+  "emoji": "🔨",
+  "cat": "power",
+  "title": "The Berlin Wall Opens",
+  "place": "Berlin, Germany",
+  "lat": 52.52,
+  "lng": 13.4,
+  "text": "At a confused press conference, an East German official announced new travel rules and said, by mistake, that they started right away. Thousands rushed to the checkpoints, and overwhelmed guards opened the gates. Berliners climbed onto the wall that had split their city for 28 years and began chipping off pieces as souvenirs.",
+  "source": {
+   "name": "Berlin.de (State of Berlin), 'Opening and fall of the Berlin Wall'",
+   "url": "https://www.berlin.de/en/history/8482274-8619314-opening-and-fall-of-the-berlin-wall.en.html"
+  },
+  "source2": {
+   "name": "Bundesregierung, 'Chronik der Deutschen Einheit: 09. November 1989'",
+   "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/die-mauer-ist-offen--403858"
+  }
+ },
+ {
+  "id": "mo-mandela-freed",
+  "era": "modern",
+  "year": 1990,
+  "dateLabel": "February 11, 1990",
+  "emoji": "🔓",
+  "cat": "power",
+  "title": "Mandela Walks Free",
+  "place": "Paarl, South Africa",
+  "lat": -33.73,
+  "lng": 18.97,
+  "text": "After 27 years in prison for fighting apartheid, the system of racial segregation, Nelson Mandela walked out of the gates of Victor Verster Prison with Winnie Mandela by his side, raising his fist in the ANC salute. His speech that day was broadcast live around the world. Four years later he voted for the first time in his life and became South Africa's president.",
+  "source": {
+   "name": "South African History Online, 'Nelson Rolihlahla Mandela'",
+   "url": "https://www.sahistory.org.za/people/nelson-rolihlahla-mandela"
+  },
+  "source2": {
+   "name": "TIME, 'Prisoner' (1990 archive)",
+   "url": "https://time.com/archive/6596336/prisoner/"
+  }
+ },
+ {
+  "id": "mo-world-wide-web",
+  "era": "modern",
+  "year": 1991,
+  "dateLabel": "August 6, 1991",
+  "emoji": "🌐",
+  "cat": "culture",
+  "title": "The First Website Goes Public",
+  "place": "Meyrin, Switzerland",
+  "lat": 46.23,
+  "lng": 6.05,
+  "text": "British scientist Tim Berners-Lee invented the World Wide Web so researchers at a physics lab could share documents, and in 1991 he opened it to the public. The very first website explained what the web was and how to use it. It ran on a single computer with a handwritten label warning people not to switch it off.",
+  "source": {
+   "name": "CERN, 'A short history of the Web'",
+   "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/"
+  }
+ },
+ {
+  "id": "mo-hong-kong-handover",
+  "era": "modern",
+  "year": 1997,
+  "dateLabel": "July 1, 1997",
+  "emoji": "🌧️",
+  "cat": "power",
+  "title": "Hong Kong Changes Hands",
+  "place": "Hong Kong, China",
+  "lat": 22.28,
+  "lng": 114.17,
+  "text": "At midnight on a rainy night, the British flag came down and Hong Kong returned to China after more than 150 years as a British colony. Under a deal called one country, two systems, the city was promised its own laws and way of life for fifty years. The last British governor sailed away on the royal yacht.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Handover of Hong Kong",
+   "url": "https://www.britannica.com/event/handover-of-Hong-Kong"
+  },
+  "source2": {
+   "name": "Imperial War Museums: Chris Patten arrives on board HMY Britannia (CT 1626)",
+   "url": "https://www.iwm.org.uk/collections/item/object/205125291"
+  }
+ },
+ {
+  "id": "mo-wangari-maathai",
+  "era": "modern",
+  "year": 2004,
+  "dateLabel": "October 2004",
+  "emoji": "🌳",
+  "cat": "nature",
+  "title": "The Woman Who Planted Millions of Trees",
+  "place": "Nairobi, Kenya",
+  "lat": -1.29,
+  "lng": 36.82,
+  "text": "Wangari Maathai became the first African woman to win the Nobel Peace Prize. Her Green Belt Movement paid rural women a small amount for each tree seedling they grew, fighting soil erosion and giving them income at the same time. Together they planted tens of millions of trees across Kenya, despite Maathai being beaten and arrested for her activism.",
+  "source": {
+   "name": "NobelPrize.org: Wangari Maathai - Speed read",
+   "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/speedread/"
+  },
+  "source2": {
+   "name": "NobelPrize.org: Wangari Maathai - Nobel Lecture",
+   "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/lecture/"
+  }
+ },
+ {
+  "id": "mo-ever-given",
+  "era": "modern",
+  "year": 2021,
+  "dateLabel": "March 23, 2021",
+  "emoji": "🚧",
+  "cat": "journeys",
+  "title": "The Ship That Blocked the World",
+  "place": "Suez Canal, Egypt",
+  "lat": 30.02,
+  "lng": 32.58,
+  "text": "Strong winds are thought to have pushed the Ever Given, a container ship about 400 metres long, sideways across the Suez Canal. For six days, hundreds of ships piled up at both ends while global trade waited. Photos of one small digger scooping at the giant ship's bow became a popular online joke about tackling impossible tasks.",
+  "source": {
+   "name": "The Conversation: Suez Canal blockage - how cargo ships like Ever Given became so huge",
+   "url": "https://theconversation.com/suez-canal-blockage-how-cargo-ships-like-ever-given-became-so-huge-and-why-theyre-causing-problems-158090"
+  },
+  "source2": {
+   "name": "Georgia Southern University Magazine: How did the Suez Canal blockage back up shipping for months?",
+   "url": "https://magazine.georgiasouthern.edu/2022/02/03/how-did-the-suez-canal-blockage-back-up-shipping-for-months/"
+  }
+ }
+]

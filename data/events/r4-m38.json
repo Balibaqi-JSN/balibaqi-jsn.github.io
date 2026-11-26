@@ -1,0 +1,346 @@
+[
+ {
+  "id": "m38-utnur-ash-mound",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 2500 BCE",
+  "cat": "daily",
+  "title": "Mounds Made of Burnt Cattle Dung",
+  "place": "Utnur, Deccan Plateau, India",
+  "lat": 16.3,
+  "lng": 77.6,
+  "text": "Across the Deccan, Neolithic herders left huge heaps of ash from burnt cattle dung. At Utnur, archaeologists found cattle hoof prints, pens marked by post-holes, and layers left by repeated dung burning. Radiocarbon dates suggest the ash mound began forming around 2500 BCE, making Utnur the earliest dated ash mound. Once the burning stopped, people abandoned the site.",
+  "source": {
+   "name": "Fuller, Boivin and Korisettar (UCL Institute of Archaeology): Dating the Neolithic of South India",
+   "url": "https://www.homepages.ucl.ac.uk/~tcrndfu/articles/Fuller%20et%20al%20Ashmound%20AMS.pdf"
+  }
+ },
+ {
+  "id": "m38-sannarachamma-wheat",
+  "era": "ancient",
+  "year": -1900,
+  "dateLabel": "About 1900–1800 BCE",
+  "cat": "journeys",
+  "title": "Wheat Reaches a Deccan Hilltop",
+  "place": "Sannarachamma hill, Sanganakallu, Ballari, Karnataka, India",
+  "lat": 15.18,
+  "lng": 76.97,
+  "text": "Wheat and barley were first domesticated in Southwest Asia and became staple crops of the Indus civilization. Seeds from Sannarachamma, a hilltop in Bellary District, have been directly dated to 1900–1800 BCE, showing these crops had reached south India by then. The village grew up over an earlier ash mound, and people kept living there for centuries afterwards.",
+  "source": {
+   "name": "Fuller, Boivin and Korisettar (UCL Institute of Archaeology): Dating the Neolithic of South India",
+   "url": "https://www.homepages.ucl.ac.uk/~tcrndfu/articles/Fuller%20et%20al%20Ashmound%20AMS.pdf"
+  }
+ },
+ {
+  "id": "m38-hallur-african-crops",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 1600–1400 BCE",
+  "cat": "journeys",
+  "title": "African Crops in a Karnataka Village",
+  "place": "Hallur, Haveri, Karnataka, India",
+  "lat": 14.33,
+  "lng": 75.65,
+  "text": "Hallur, in western Karnataka, has the most varied plant remains of any Neolithic site in south India. Its main village dates to about 1600–1400 BCE, and an early layer held hyacinth beans and pearl millet, crops that came from Africa. A later layer produced east African finger millet and a cotton seed dated to about 900 BCE, the earliest direct evidence of cotton in south India.",
+  "source": {
+   "name": "Fuller, Boivin and Korisettar (UCL Institute of Archaeology): Dating the Neolithic of South India",
+   "url": "https://www.homepages.ucl.ac.uk/~tcrndfu/articles/Fuller%20et%20al%20Ashmound%20AMS.pdf"
+  }
+ },
+ {
+  "id": "m38-hire-benkal-megaliths",
+  "era": "ancient",
+  "year": -700,
+  "dateLabel": "About 700–500 BCE",
+  "cat": "culture",
+  "title": "Paintings Beside a Hill of Tombs",
+  "place": "Hire Benkal, Koppal, Karnataka, India",
+  "lat": 15.44,
+  "lng": 76.46,
+  "text": "On a granite hilltop near Hire Benkal, almost 1,000 Iron Age megaliths cover about 20 hectares, most of them dolmens, including giant ones with port-holes. Nearby rock shelters hold paintings, mostly from about 700–500 BCE: rows of people, a horse rider holding a battle-axe, deer, long-horned bulls and peacocks. Some scenes may even show graves like the stone circles around them.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Hire Benkal, Megalithic Site (Tentative List)",
+   "url": "https://whc.unesco.org/en/tentativelists/6529"
+  }
+ },
+ {
+  "id": "m38-anuradhapura-brahmi-sherds",
+  "era": "classical",
+  "year": -400,
+  "dateLabel": "Early 4th century BCE",
+  "cat": "discovery",
+  "title": "Early Writing on Anuradhapura Pots",
+  "place": "Anuradhapura, North Central Province, Sri Lanka",
+  "lat": 8.35,
+  "lng": 80.4,
+  "text": "Excavators at Anuradhapura found broken pots inscribed in Brahmi, South Asia's earliest readable script. A 1996 study by R. Coningham, F. R. Allchin and colleagues dated the sherds to the beginning of the 4th century BCE, making them the earliest dated examples of Brahmi anywhere in the subcontinent. The authors suggested Sri Lanka may have played a pivotal role in developing the script.",
+  "source": {
+   "name": "Cambridge Archaeological Journal: Passage to India? Anuradhapura and the Early Use of the Brahmi Script",
+   "url": "https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/passage-to-india-anuradhapura-and-the-early-use-of-the-brahmi-script/DAAA2514FB08E1DDE3FAFF2171AB097B"
+  }
+ },
+ {
+  "id": "m38-dambulla-cave-monks",
+  "era": "classical",
+  "year": -250,
+  "dateLabel": "3rd century BCE",
+  "cat": "culture",
+  "title": "Forest Monks Move Into Dambulla",
+  "place": "Dambulla, Central Province, Sri Lanka",
+  "lat": 7.86,
+  "lng": 80.65,
+  "text": "Forest-dwelling Buddhist monks began living in the natural caves at Dambulla, in central Sri Lanka, in the 3rd century BCE. Over the centuries the caves were turned into five shrines holding 157 statues and Buddhist murals covering 2,100 square metres. Pilgrims have come here for more than two thousand years, and monks still perform the daily rituals.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Rangiri Dambulla Cave Temple",
+   "url": "https://whc.unesco.org/en/list/561"
+  }
+ },
+ {
+  "id": "m38-gudimallam-lingam",
+  "era": "classical",
+  "year": -200,
+  "dateLabel": "Between the 3rd century BCE and 1st century CE",
+  "cat": "culture",
+  "title": "The Oldest Linga on a Pedestal",
+  "place": "Gudimallam, Chittoor, Andhra Pradesh, India",
+  "lat": 13.62,
+  "lng": 79.57,
+  "text": "In a temple at Gudimallam stands a polished reddish-brown stone linga about 1.5 metres tall, carved with a detailed Shiva standing on the shoulders of a crouching, dwarf-like figure. Dated variously between the 3rd century BCE and the 1st century CE, it is the oldest known linga set on a pedestal and the earliest fully representational one. It was documented in 1903.",
+  "source": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Gudimallam Stone Lingam",
+   "url": "https://imp-art.org/articles/gudimallam-stone-lingam/"
+  }
+ },
+ {
+  "id": "m38-sittanavasal-jain-centre",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "From about 100 BCE",
+  "cat": "culture",
+  "title": "Stone Beds for Jain Monks",
+  "place": "Sittanavasal, Pudukkottai, Tamil Nadu, India",
+  "lat": 10.45,
+  "lng": 78.73,
+  "text": "Tamil-Brahmi inscriptions show that Sittanavasal was a Jain centre from as early as 100 BCE until around 900 CE. A natural rock shelter there, Ezhadipattam, has polished rock beds where monks practised austerities. A later cave temple on the same hill, Arivar Koil or 'temple of the Jina', holds the earliest Jain frescoes in south India.",
+  "source": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Cave Art at Sittanavasal",
+   "url": "https://imp-art.org/articles/cave-art-at-sittanavasal/"
+  }
+ },
+ {
+  "id": "m38-abhayagiri-vow",
+  "era": "classical",
+  "year": -89,
+  "dateLabel": "89 BCE (some scholars say 29 BCE)",
+  "cat": "power",
+  "title": "A Fleeing King's Vow",
+  "place": "Abhayagiri Vihara, Anuradhapura, Sri Lanka",
+  "lat": 8.37,
+  "lng": 80.39,
+  "text": "Driven from Anuradhapura by invaders from South India, King Vattagamani Abhaya fled to the mountains. When a temple chief mocked him for abandoning his kingdom, he vowed to replace that temple with a Buddhist monastery. After fourteen years he retook the city, in 89 BCE by one dating, and founded Abhayagiri Vihara, later the first place in Sri Lanka to house the Buddha's Tooth Relic.",
+  "source": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Abhayagiri Vihara, Anuradhapura",
+   "url": "https://imp-art.org/articles/abhayagiri-vihara-anuradhapura/"
+  }
+ },
+ {
+  "id": "m38-amaravati-railings",
+  "era": "classical",
+  "year": -50,
+  "dateLabel": "Mid-1st century BCE",
+  "cat": "culture",
+  "title": "The Buddha's Story on Amaravati's Railings",
+  "place": "Amaravati, Palnadu, Andhra Pradesh, India",
+  "lat": 16.57,
+  "lng": 80.36,
+  "text": "The great stupa at Amaravati was begun in the 3rd century BCE, but its carved stone railings were added from the mid-1st century BCE to the early 3rd century CE. The earliest reliefs show the Buddha only through symbols, such as a pair of footprints. Later carvers gave him a human form, yet at Amaravati the old symbols never disappeared.",
+  "source": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Sculptures at Amaravati Stupa",
+   "url": "https://imp-art.org/articles/sculptures-at-amaravati-stupa/"
+  }
+ },
+ {
+  "id": "m38-kaashidhoo-cowries",
+  "era": "classical",
+  "year": 220,
+  "dateLabel": "3rd century CE",
+  "cat": "discovery",
+  "title": "A Monastery and 62,000 Cowries",
+  "place": "Kaashidhoo, Kaafu Atoll, Maldives",
+  "lat": 4.95,
+  "lng": 73.46,
+  "text": "Long before the Maldives became Muslim, a Buddhist monastery stood on the island of Kaashidhoo. Founded in the 3rd century CE, it stayed in use until about 1500. Archaeologist Egil Mikkelsen excavated about 1,800 square metres there in 1996–1998 and found a deposit of 62,000 cowrie shells beside one building. The earliest radiocarbon dates fall between 220 and 610 CE.",
+  "source": {
+   "name": "Kon-Tiki Museum: The Archaeology of Buddhism in the Maldives",
+   "url": "https://www.kon-tiki.no/en/news/the-archaeology-of-buddhism-in-the-maldives"
+  }
+ },
+ {
+  "id": "m38-nagarjunakonda-vijayapuri",
+  "era": "classical",
+  "year": 250,
+  "dateLabel": "3rd century CE",
+  "cat": "journeys",
+  "title": "A Buddhist City Now an Island",
+  "place": "Nagarjunakonda, Andhra Pradesh, India",
+  "lat": 16.52,
+  "lng": 79.24,
+  "text": "Nagarjunakonda, 'Nagarjuna's Hill', was the site of Vijayapuri, capital of the Ikshvaku dynasty in the 3rd and 4th centuries CE. More than thirty establishments of different Buddhist sects stood there, and monks from other parts of South Asia are recorded. Sculptures at Anuradhapura in Sri Lanka resemble its standing Buddhas. Today the site is an island in the Nagarjuna Sagar reservoir.",
+  "source": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Standing Buddhas, Nagarjunakonda",
+   "url": "https://imp-art.org/articles/standing-buddhas-nagarjunakonda/"
+  }
+ },
+ {
+  "id": "m38-kalawewa-avukana",
+  "era": "classical",
+  "year": 455,
+  "dateLabel": "Reign of Dhatusena, 455–473 CE",
+  "cat": "daily",
+  "title": "A Reservoir Watched by a Giant Buddha",
+  "place": "Kalawewa, North Central Province, Sri Lanka",
+  "lat": 8.02,
+  "lng": 80.53,
+  "text": "King Dhatusena, who reigned from 455 to 473 CE, developed Kalawewa, a reservoir complex fed by the Kala Oya river system that let farming and trade flourish. Nearby at Avukana, a colossal standing Buddha was carved from a granite rock face, looking out over the water. Scholars still debate when the statue was made, with suggestions ranging from the 5th century onward.",
+  "source": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Avukana Buddha",
+   "url": "https://imp-art.org/articles/avukana-buddha/"
+  }
+ },
+ {
+  "id": "m38-ravanaphadi-cave-aihole",
+  "era": "medieval",
+  "year": 550,
+  "dateLabel": "c. 550 CE",
+  "cat": "culture",
+  "title": "A Ten-Armed Shiva Dances at Aihole",
+  "place": "Aihole, Bagalkot, Karnataka, India",
+  "lat": 16.02,
+  "lng": 75.88,
+  "text": "Around 550 CE, under the Early Western Chalukyas, a cave temple was cut into the rock at Aihole, then known as Aryapura or Ayyavole. Inside the Ravanaphadi cave, a ten-armed Shiva dances beside Parvati and the seven mother goddesses, while a carved lotus blooms on the ceiling. Faint traces of colour suggest the walls were once painted.",
+  "source": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Ravanaphadi Cave, Aihole",
+   "url": "https://imp-art.org/articles/ravanaphadi-cave-aihole/"
+  }
+ },
+ {
+  "id": "m38-mahendravarman-playwright-king",
+  "era": "medieval",
+  "year": 580,
+  "dateLabel": "Reigned 580–630 CE",
+  "cat": "power",
+  "title": "The Pallava King Who Wrote Comedies",
+  "place": "Mandagapattu, Viluppuram, Tamil Nadu, India",
+  "lat": 12.11,
+  "lng": 79.45,
+  "text": "Mahendravarman I, the Pallava king who ruled from Kanchipuram between 580 and 630 CE, is believed to have written two Sanskrit farces, one poking fun at Buddhist monks and Kapalikas. Rock inscriptions at Kudumiyanmalai record his love of music. Inscriptions in cave temples he sponsored, such as Mandagapattu, call him by playful titles like 'the curious-minded' and 'drunken sporter'.",
+  "source": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Mahendravarman I",
+   "url": "https://imp-art.org/articles/mahendravarman-i/"
+  },
+  "source2": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Pallava Art and Architecture",
+   "url": "https://imp-art.org/articles/pallava-art-and-architecture/"
+  }
+ },
+ {
+  "id": "m38-kailasanathar-kanchipuram",
+  "era": "medieval",
+  "year": 728,
+  "dateLabel": "Built 700–728 CE",
+  "cat": "culture",
+  "title": "Queens' Shrines at the Kailasanathar Temple",
+  "place": "Kanchipuram, Tamil Nadu, India",
+  "lat": 12.84,
+  "lng": 79.69,
+  "text": "Between 700 and 728 CE, the Pallava king Narasimhavarman II, also called Rajasimha, built a sandstone temple to Shiva beside the Vegavathi river. Fifty-eight small shrines line its courtyard wall, and eight near the entrance are believed to have been commissioned by his queens. Its popular name, Kailasanathar, comes from an inscription saying its tower touched Shiva's realm, Kailasa.",
+  "source": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Kailasanathar Temple, Kanchipuram",
+   "url": "https://imp-art.org/articles/kailasanathar-temple-kanchipuram/"
+  }
+ },
+ {
+  "id": "m38-gomateshvara-shravanabelagola",
+  "era": "medieval",
+  "year": 983,
+  "dateLabel": "Around 983 CE",
+  "cat": "culture",
+  "title": "A Giant Carved From One Boulder",
+  "place": "Shravanabelagola, Hassan, Karnataka, India",
+  "lat": 12.85,
+  "lng": 76.48,
+  "text": "Completed around 983 CE, the 17.4-metre Gomateshvara statue on Vindhyagiri hill is the tallest free-standing monolithic sculpture in the world. Commissioned by Chamundaraya, a minister and general at the Western Ganga court, it shows the Jain figure Bahubali meditating so long that vines climb his legs and arms. Every 12 years, the statue's head is ritually anointed.",
+  "source": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Gomateshvara Statue, Shravanabelagola",
+   "url": "https://imp-art.org/articles/gomateshvara-statue-shravanabelagola/"
+  }
+ },
+ {
+  "id": "m38-thiruvengadu-bronzes",
+  "era": "medieval",
+  "year": 1015,
+  "dateLabel": "Early 11th century",
+  "cat": "discovery",
+  "title": "Festival Gods Buried for Safekeeping",
+  "place": "Thiruvengadu, Mayiladuthurai, Tamil Nadu, India",
+  "lat": 11.15,
+  "lng": 79.8,
+  "text": "Early in the 11th century, Chola artists cast bronze images of Shiva as Vrishabhavahana, 'the bull-mounted one', and his consort Uma using the lost-wax method. They were festival images, carried in processions on poles threaded through their pedestals. Probably used at the Thiruvengadu temple until the 14th century, they were then buried for safekeeping and unearthed again in the mid-20th century.",
+  "source": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Vrishabhavahana and Uma Chola Bronzes, Thanjavur Art Gallery",
+   "url": "https://imp-art.org/articles/vrishabhavahana-and-uma-chola-bronzes-thanjavur-art-gallery/"
+  }
+ },
+ {
+  "id": "m38-kohinoor-kakatiya-tribute",
+  "era": "medieval",
+  "year": 1310,
+  "dateLabel": "c. 1310",
+  "cat": "power",
+  "title": "A Diamond Paid as Tribute",
+  "place": "Warangal, Telangana, India",
+  "lat": 17.96,
+  "lng": 79.59,
+  "text": "The diamond later named Koh-i-Noor, 'mountain of light', was probably found in the 13th century in river deposits of the Krishna–Godavari delta and held by the Kakatiya dynasty, whose capital was Warangal. Around 1310, when Alauddin Khilji's forces subjugated the Kakatiyas, it was by most accounts handed over as tribute to the Delhi Sultanate, beginning centuries of changing hands.",
+  "source": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Koh-i-Noor Diamond",
+   "url": "https://imp-art.org/articles/koh-i-noor-diamond/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Warangal",
+   "url": "https://www.britannica.com/place/Warangal"
+  }
+ },
+ {
+  "id": "m38-galle-trilingual-inscription",
+  "era": "medieval",
+  "year": 1409,
+  "dateLabel": "February 15, 1409",
+  "cat": "journeys",
+  "title": "A Stone Tablet in Three Languages",
+  "place": "Galle, Southern Province, Sri Lanka",
+  "lat": 6.03,
+  "lng": 80.22,
+  "text": "Dated 15 February 1409, this stone tablet was inscribed in Nanjing under the Ming emperor Yongle and installed at Galle by the Chinese admiral Zheng He. Written in Chinese, Tamil and Persian, it praises the Buddha, Vishnu and Allah and records offerings to a sacred mountain shrine. Found in a culvert in Galle in 1911, it is now in the Colombo National Museum.",
+  "source": {
+   "name": "National Library and Documentation Services Board, Sri Lanka: Trilingual Inscription (Tribhasha Sellipiya)",
+   "url": "https://www.natlib.lk/NLDSB/2026/04/17/trilingual-inscription-tribhasha-sellipiya/"
+  }
+ },
+ {
+  "id": "m38-bidar-bidriware",
+  "era": "medieval",
+  "year": 1436,
+  "dateLabel": "Reign of Alauddin Ahmad II, 1436–1458",
+  "cat": "daily",
+  "title": "Shining Inlay on Dark Metal",
+  "place": "Bidar, Karnataka, India",
+  "lat": 17.91,
+  "lng": 77.52,
+  "text": "Bidriware, metal inlay set against a dark alloy, is named after Bidar, a capital of the Bahmani Sultanate. Persian and Syrian artisans are believed to have brought the technique to the Deccan, and production in Bidar probably began under Sultan Alauddin Ahmad II (r. 1436–58), who encouraged artisans from Bijapur to settle there. Bidar is still a leading centre of the craft.",
+  "source": {
+   "name": "Impart (Museum of Art & Photography, Bengaluru): Bidriware",
+   "url": "https://imp-art.org/articles/bidriware/"
+  }
+ }
+]

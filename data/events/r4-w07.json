@@ -1,0 +1,402 @@
+[
+ {
+  "id": "w07-nippur-palm-receipt",
+  "era": "ancient",
+  "year": -2100,
+  "dateLabel": "Late 3rd millennium BCE",
+  "cat": "daily",
+  "title": "Buying the Trees, Not the Land",
+  "place": "Nippur, Al-Qadisiyah, Iraq",
+  "lat": 32.13,
+  "lng": 45.23,
+  "text": "A small clay tablet from Nippur in southern Iraq is a receipt for 15 date palms. A second tablet records another deal between the same buyer and seller. The land itself was probably sacred: its trees could change hands, but the ground went on belonging to the god. Writing may have been invented for exactly this kind of record-keeping.",
+  "source": {
+   "name": "Penn Museum Expedition: Clay Tablets to Text Messages",
+   "url": "https://www.penn.museum/sites/expedition/clay-tablets-to-text-messages/"
+  }
+ },
+ {
+  "id": "w07-bronze-age-ring-money",
+  "era": "ancient",
+  "year": -1900,
+  "dateLabel": "About 2150 to 1700 BCE",
+  "cat": "discovery",
+  "title": "Bronze Rings That Worked Like Cash",
+  "place": "Danube region, Lower Austria, Austria",
+  "lat": 48.2,
+  "lng": 15.6,
+  "text": "Early Bronze Age people in southern Germany, Lower Austria and Czechia buried thousands of copper rings, ribs and axe blades in hoards. Researchers weighed over 5,000 of them. About 70 percent of the rings feel identical in the hand to a standard of roughly 195 grams. Such near-copies, the study argues, were an early commodity money, long before coins.",
+  "source": {
+   "name": "PLOS ONE: The origins of money (Kuijpers and Popa 2021)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240462"
+  }
+ },
+ {
+  "id": "w07-megiddo-hacksilber",
+  "era": "ancient",
+  "year": -1600,
+  "dateLabel": "Middle Bronze Age, about 1600 BCE",
+  "cat": "discovery",
+  "title": "Chopped Silver Before Coins",
+  "place": "Megiddo, Jezreel Valley, Israel",
+  "lat": 32.59,
+  "lng": 35.18,
+  "text": "Hoards from Megiddo, Gezer, Shiloh and Tel el-'Ajjul hold hacksilber: silver cut into pieces of set weights, sometimes stored in pots or wrapped in cloth. A study found it was used as money over 3,600 years ago, about 500 years earlier than thought. The Levant had no silver mines; lead isotopes point to Anatolia. Coins arrived nearly a thousand years later.",
+  "source": {
+   "name": "The Times of Israel: Newly analyzed 3,600-year-old silver pieces are 1st currency in Levant",
+   "url": "https://www.timesofisrael.com/study-claims-hoards-of-3600-year-old-cut-silver-pieces-are-first-currency-in-levant/"
+  }
+ },
+ {
+  "id": "w07-rising-sun-coins",
+  "era": "classical",
+  "year": 500,
+  "dateLabel": "Mid-1st millennium CE",
+  "cat": "journeys",
+  "title": "Twin Coins From One Die",
+  "place": "Halin, Sagaing Region, Myanmar",
+  "lat": 22.47,
+  "lng": 95.82,
+  "text": "Silver coins stamped with a rising sun on one side and a Srivatsa, an Indian religious symbol, on the other circulated across mainland Southeast Asia. Studying 245 of them, researchers found two coins, one from Bangladesh and one from Vietnam, struck from the very same die, perhaps by one mint master at the Pyu city of Halin. Overlooked coins revealed a far-reaching trade web.",
+  "source": {
+   "name": "Archaeology Magazine: 'Rising Sun' Coins Reveal Extensive Ancient Trade Networks Across Southeast Asia",
+   "url": "https://archaeology.org/news/2025/08/19/rising-sun-coins-reveal-extensive-ancient-trade-networks-across-southeast-asia/"
+  }
+ },
+ {
+  "id": "w07-turfan-silk-currency",
+  "era": "medieval",
+  "year": 700,
+  "dateLabel": "Tang dynasty, around 700 CE",
+  "cat": "daily",
+  "title": "When Silk Was Cash",
+  "place": "Astana Cemetery, Turfan, Xinjiang, China",
+  "lat": 42.86,
+  "lng": 89.53,
+  "text": "In the Tang-era oasis towns around Turfan, silk was still a major currency, and tombs at the Astana cemetery reflect a busy commerce. Graves along the northern routes between China and Central Asia held Sasanian Iranian coins and eastern Mediterranean glass. In the 8th century, Uyghur horse breeders received huge quantities of Chinese silk in exchange for their horses.",
+  "source": {
+   "name": "Penn Museum Expedition: The Silk Roads in History (Daniel C. Waugh)",
+   "url": "https://www.penn.museum/sites/expedition/the-silk-roads-in-history/"
+  }
+ },
+ {
+  "id": "w07-wado-kaichin",
+  "era": "medieval",
+  "year": 708,
+  "dateLabel": "708",
+  "cat": "power",
+  "title": "Japan's Coin That Built a Palace",
+  "place": "Heijō Palace site, Nara, Japan",
+  "lat": 34.69,
+  "lng": 135.8,
+  "text": "In 708 Japan's government minted the Wadō Kaichin, a copper coin modeled on China's Tang Kaiyuan Tongbao. It paid for building the Heijō imperial palace, and because its face value exceeded its metal value, the state profited. Later coins shrank and turned to lead, one new coin was declared worth ten old ones, and trust collapsed. The last coin came in 958.",
+  "source": {
+   "name": "Bank of Japan Currency Museum: Historical Events and Currencies in Use",
+   "url": "https://www.imes.boj.or.jp/cm/english/history/content/index.html"
+  }
+ },
+ {
+  "id": "w07-manda-yongle-coin",
+  "era": "medieval",
+  "year": 1410,
+  "dateLabel": "Early 1400s",
+  "cat": "discovery",
+  "title": "A Ming Coin on a Kenyan Island",
+  "place": "Manda Island, Lamu Archipelago, Kenya",
+  "lat": -2.25,
+  "lng": 40.95,
+  "text": "In 2012 anthropologist Chapurukha Kusimba's team found a 600-year-old Chinese coin, a Yongle Tongbao, at Manda, an ancient trading port on Kenya's coast. It was issued under Emperor Yongle of the Ming dynasty, whose admiral Zheng He sailed beyond the South China Sea nearly 80 years before Vasco da Gama reached India. Swahili kings and merchants traded across the Indian Ocean.",
+  "source": {
+   "name": "The Conversation: When and why did people first start using money?",
+   "url": "https://theconversation.com/when-and-why-did-people-first-start-using-money-78887"
+  }
+ },
+ {
+  "id": "w07-rhineland-manillas",
+  "era": "exploration",
+  "year": 1524,
+  "dateLabel": "1500s",
+  "cat": "journeys",
+  "title": "Brass Bracelets That Bought a Coast",
+  "place": "Benin City, Edo State, Nigeria",
+  "lat": 6.34,
+  "lng": 5.62,
+  "text": "Manillas, horseshoe-shaped brass rings, were shipped by the hundreds of thousands to West Africa as currency once Portuguese trade began. Analysis of 67 manillas from shipwrecks, including a Flemish ship lost off Getaria, Spain, in 1524, traced the earliest ones to the German Rhineland. Lead isotopes in the famous Benin Bronzes match Rhenish ores, suggesting melted manillas went into the art.",
+  "source": {
+   "name": "PLOS ONE: German brass for Benin Bronzes (Skowronek et al. 2023)",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0283415"
+  }
+ },
+ {
+  "id": "w07-tlaxcala-cacao-prices",
+  "era": "exploration",
+  "year": 1545,
+  "dateLabel": "1545",
+  "cat": "daily",
+  "title": "A Turkey Costs 100 Cacao Beans",
+  "place": "Tlaxcala, Tlaxcala, Mexico",
+  "lat": 19.32,
+  "lng": -98.24,
+  "text": "Cacao beans were everyday small change in Aztec Mexico. A price list from Tlaxcala in 1545 sets a small rabbit at 30 beans, a turkey hen at 100 and a ripe avocado at one; a single bean bought 20 small tomatoes. Shriveled beans were worth less than plump ones. Cheats faked beans from wax or amaranth dough, and the Florentine Codex calls such sellers tricksters.",
+  "source": {
+   "name": "Mexicolore: Beanz meanz money! (Frances Berdan)",
+   "url": "https://www.mexicolore.co.uk/maya/chocolate/beanz-meanz-money"
+  }
+ },
+ {
+  "id": "w07-yamada-hagaki",
+  "era": "exploration",
+  "year": 1600,
+  "dateLabel": "Around 1600",
+  "cat": "daily",
+  "title": "Japan's First Paper Money From a Shrine Town",
+  "place": "Ise-Yamada, Ise, Mie Prefecture, Japan",
+  "lat": 34.49,
+  "lng": 136.71,
+  "text": "Around 1600 a priest-merchant in the Ise Yamada area, the town that served the great Ise shrines, issued Yamada Hagaki: paper receipts that could be swapped for silver traded by weight. They solved a shortage of small change and circulated locally. Later, feudal clans printed their own notes; by the end of the Edo period nearly 80 percent had done so, fueling severe inflation.",
+  "source": {
+   "name": "Bank of Japan Currency Museum: Historical Events and Currencies in Use",
+   "url": "https://www.imes.boj.or.jp/cm/english/history/content/index.html"
+  }
+ },
+ {
+  "id": "w07-bank-of-england-founded",
+  "era": "exploration",
+  "year": 1694,
+  "dateLabel": "1694",
+  "cat": "power",
+  "title": "A Bank Born to Pay for War",
+  "place": "Mercers' Hall, Cheapside, London, United Kingdom",
+  "lat": 51.51,
+  "lng": -0.09,
+  "text": "The Bank of England was founded on 27 July 1694 as a private bank to lend to the government, mainly to fund war against France. King William and Queen Mary were among its first stockholders. It opened on 1 August in borrowed rooms at Mercers' Hall in Cheapside with 17 clerks and two gatekeepers, moving to Threadneedle Street in 1734.",
+  "source": {
+   "name": "Bank of England: Our history",
+   "url": "https://www.bankofengland.co.uk/about/history"
+  }
+ },
+ {
+  "id": "w07-south-sea-bubble",
+  "era": "exploration",
+  "year": 1720,
+  "dateLabel": "1720",
+  "cat": "power",
+  "title": "The South Sea Bubble Bursts",
+  "place": "Threadneedle Street, City of London, United Kingdom",
+  "lat": 51.51,
+  "lng": -0.09,
+  "text": "In 1720 the South Sea Company offered to take over about £30 million of Britain's national debt in exchange for its shares. Prices soared from around £140 in January to nearly £1,000 that summer, then crashed back to about £200 by October, ruining thousands of investors. Inquiries exposed corruption reaching ministers and King George I; Robert Walpole organized the rescue.",
+  "source": {
+   "name": "Encyclopedia.com: South Sea Bubble",
+   "url": "https://www.encyclopedia.com/history/modern-europe/british-and-irish-history/south-sea-bubble"
+  }
+ },
+ {
+  "id": "w07-jagat-seth-bankers",
+  "era": "exploration",
+  "year": 1723,
+  "dateLabel": "1723",
+  "cat": "power",
+  "title": "The Banker of the World",
+  "place": "Murshidabad, West Bengal, India",
+  "lat": 24.18,
+  "lng": 88.27,
+  "text": "In 1723 the Mughal emperor granted Fateh Chand of Murshidabad the title Jagat Sheth, 'banker of the world.' His family collected Bengal's revenue, ran its treasury and controlled the Murshidabad mint, turning bullion into coin. One English historian called them the richest family in the empire. Their loans to the East India Company helped make the British victory at Plassey possible.",
+  "source": {
+   "name": "Banglapedia: Jagat Sheth Family",
+   "url": "https://en.banglapedia.org/index.php/Jagat_Sheth_Family"
+  }
+ },
+ {
+  "id": "w07-dojima-rice-exchange",
+  "era": "exploration",
+  "year": 1730,
+  "dateLabel": "1730",
+  "cat": "power",
+  "title": "Futures Trading on Rice",
+  "place": "Dōjima, Kita Ward, Osaka, Japan",
+  "lat": 34.7,
+  "lng": 135.5,
+  "text": "Osaka's rice traders gathered at Dojima from around 1697, and in 1730, under Shogun Tokugawa Yoshimune, the market was officially licensed. Its successor calls it the world's first futures market. Traders bought and sold rice bills, even for unharvested rice, posting a margin called shikigin, with members and a clearing system. Couriers carried Dojima's prices to other cities.",
+  "source": {
+   "name": "Osaka Dojima Exchange: The Birthplace of Futures Trading",
+   "url": "https://www.odex.co.jp/en/about/derivative/index.html"
+  }
+ },
+ {
+  "id": "w07-franklin-leaf-money",
+  "era": "exploration",
+  "year": 1735,
+  "dateLabel": "1730s",
+  "cat": "culture",
+  "title": "Franklin Prints Money With Leaves",
+  "place": "Philadelphia, Pennsylvania, USA",
+  "lat": 39.95,
+  "lng": -75.15,
+  "text": "From the early 1730s Benjamin Franklin printed millions of pounds' worth of paper money for Pennsylvania and other colonies. To beat forgers he pressed real leaves to capture their veins, since no two leaves match, and mixed blue fibers and shimmering mica into the paper. A study of nearly 600 colonial bills found his inks were also surprisingly experimental.",
+  "source": {
+   "name": "The Conversation: We analyzed paper money printed by Ben Franklin",
+   "url": "https://theconversation.com/we-analyzed-paper-money-printed-by-ben-franklin-to-uncover-his-anti-counterfeiting-techniques-and-materials-innovations-282943"
+  }
+ },
+ {
+  "id": "w07-bengal-cowrie-rent",
+  "era": "industrial",
+  "year": 1800,
+  "dateLabel": "Around 1800",
+  "cat": "daily",
+  "title": "Paying the Rent in Seashells",
+  "place": "Rangpur, Rangpur Division, Bangladesh",
+  "lat": 25.75,
+  "lng": 89.25,
+  "text": "Glossy cowrie shells, mostly from the Maldives, served as coins in Bengal until the end of the 18th century. Villages far from big trading towns relied on them, and peasants could pay land revenue in shells. In frontier districts like Rangpur and Sylhet, rent was still paid mainly in cowries in the early 19th century. In Bangla, 'cowrie' can still mean money.",
+  "source": {
+   "name": "Banglapedia: Cowrie",
+   "url": "https://en.banglapedia.org/index.php/Cowrie"
+  }
+ },
+ {
+  "id": "w07-katanga-cross",
+  "era": "industrial",
+  "year": 1850,
+  "dateLabel": "19th century",
+  "cat": "daily",
+  "title": "Copper Crosses as Currency",
+  "place": "Katanga copper belt, Haut-Katanga, Democratic Republic of the Congo",
+  "lat": -11.66,
+  "lng": 27.48,
+  "text": "In Central Africa, copper alloy was cast into ingots and anklets that served as currency for a very long time. Ingots shaped like an H or an X are called Katanga crosses, after the copper-mining region of the Democratic Republic of the Congo. One 19th-century example at Princeton, possibly made by Luba metalworkers, measures 44 centimeters across.",
+  "source": {
+   "name": "Princeton University Art Museum: H-shaped ingot (Katanga cross or possibly handa)",
+   "url": "https://artmuseum.princeton.edu/art/collections/objects/36847"
+  }
+ },
+ {
+  "id": "w07-leh-bazaar",
+  "era": "industrial",
+  "year": 1905,
+  "dateLabel": "Early 1900s",
+  "cat": "journeys",
+  "title": "Four Languages in One Bazaar",
+  "place": "Leh, Ladakh, India",
+  "lat": 34.16,
+  "lng": 77.58,
+  "text": "High in the Himalayas, Leh's bazaar and caravanserais drew traders from Lhasa, Kashmir and Chinese Central Asia during the brief summers when passes opened. A 1905 memoir counted at least four languages in common use there. Yaks, ponies and dzo carried carpets, Yarkand bronzes and cotton cloth, and Ladakhi ledgers show Japanese cotton gaining ground on British goods.",
+  "source": {
+   "name": "Penn Museum Expedition: Trade at the Crossroads of Continents",
+   "url": "https://www.penn.museum/sites/expedition/trade-at-the-crossroads-of-continents/"
+  }
+ },
+ {
+  "id": "w07-panic-of-1907",
+  "era": "industrial",
+  "year": 1907,
+  "dateLabel": "1907",
+  "cat": "power",
+  "title": "The Panic That Created the Fed",
+  "place": "Knickerbocker Trust, Fifth Avenue, New York City, USA",
+  "lat": 40.75,
+  "lng": -73.99,
+  "text": "In October 1907, speculators failed to corner United Copper stock, setting off runs on banks tied to them. When Knickerbocker Trust suspended payments on 22 October, panic swept New York. J. P. Morgan gathered cash from banks and companies to keep the stock exchange's lending alive. The scare launched the reform movement that produced the Federal Reserve System.",
+  "source": {
+   "name": "Federal Reserve History: The Panic of 1907",
+   "url": "https://www.federalreservehistory.org/essays/panic-of-1907"
+  }
+ },
+ {
+  "id": "w07-ruhr-hyperinflation",
+  "era": "modern",
+  "year": 1923,
+  "dateLabel": "1923",
+  "cat": "power",
+  "title": "Germany's Money Collapses",
+  "place": "Ruhr, Essen, North Rhine-Westphalia, Germany",
+  "lat": 51.46,
+  "lng": 7.01,
+  "text": "Germany's war reparations were set at 132 billion gold marks. When it defaulted in January 1923, France and Belgium occupied the Ruhr industrial region and met passive resistance. Inflation spiraled into hyperinflation and the currency collapsed. The 1924 Dawes Plan cut payments, introduced the Reichsmark and floated a $200 million loan; Charles Dawes shared the Nobel Peace Prize.",
+  "source": {
+   "name": "Office of the Historian, U.S. State Department: The Dawes Plan, the Young Plan, German Reparations",
+   "url": "https://history.state.gov/milestones/1921-1936/dawes"
+  }
+ },
+ {
+  "id": "w07-bretton-woods",
+  "era": "modern",
+  "year": 1944,
+  "dateLabel": "July 1944",
+  "cat": "power",
+  "title": "A Hotel Meeting Remakes World Money",
+  "place": "Mount Washington Hotel, Bretton Woods, New Hampshire, USA",
+  "lat": 44.26,
+  "lng": -71.44,
+  "text": "In July 1944, delegates from 44 nations met at Bretton Woods in New Hampshire's mountains to plan the postwar economy. Following drafts by Harry Dexter White and John Maynard Keynes, they created the International Monetary Fund and the World Bank, with fixed exchange rates centered on the U.S. dollar and gold. The system lasted until 1971.",
+  "source": {
+   "name": "Office of the Historian, U.S. State Department: Bretton Woods-GATT, 1941-1947",
+   "url": "https://history.state.gov/milestones/1937-1945/bretton-woods"
+  }
+ },
+ {
+  "id": "w07-tevau-feather-money",
+  "era": "modern",
+  "year": 1948,
+  "dateLabel": "1948",
+  "cat": "culture",
+  "title": "Ten Turtles for a Feather Coil",
+  "place": "Santa Cruz Islands, Temotu Province, Solomon Islands",
+  "lat": -10.72,
+  "lng": 165.9,
+  "text": "In the Santa Cruz Islands, specialists made tevau, long coils of red feathers used as money for canoes, pigs, turtles and root crops, and as marriage gifts. Makers caught honeyeaters and took just four tiny feathers from each, so one coil holds feathers from over 300 birds. As the red faded, value fell. In 1948 the navigator Tevake paid ten turtles for one.",
+  "source": {
+   "name": "Museum of New Zealand Te Papa Tongarewa: Tevau (red feather currency)",
+   "url": "https://collections.tepapa.govt.nz/object/1292637"
+  }
+ },
+ {
+  "id": "w07-mexico-debt-crisis",
+  "era": "modern",
+  "year": 1982,
+  "dateLabel": "August 1982",
+  "cat": "power",
+  "title": "Mexico Says It Cannot Pay",
+  "place": "Mexico City, Mexico",
+  "lat": 19.43,
+  "lng": -99.13,
+  "text": "In August 1982 Mexico's finance minister Jesús Silva Herzog told U.S. officials and the IMF that his country could no longer service about $80 billion in debt. Latin America's debts had ballooned from $29 billion in 1970 to $327 billion. Sixteen countries rescheduled, and austerity brought a 'lost decade.' Under the 1989 Brady plan, lenders forgave about a third.",
+  "source": {
+   "name": "Federal Reserve History: Latin American Debt Crisis of the 1980s",
+   "url": "https://www.federalreservehistory.org/essays/latin-american-debt-crisis"
+  }
+ },
+ {
+  "id": "w07-polymer-banknote",
+  "era": "modern",
+  "year": 1988,
+  "dateLabel": "January 1988",
+  "cat": "discovery",
+  "title": "The Banknote Made of Plastic",
+  "place": "Reserve Bank of Australia, Sydney, New South Wales, Australia",
+  "lat": -33.87,
+  "lng": 151.21,
+  "text": "In January 1988, for Australia's bicentenary, the Reserve Bank issued a commemorative $10 note printed on polymer instead of paper, a world first developed with the science agency CSIRO. Rising counterfeiting with modern copiers drove the change, and polymer also lasts longer and can be recycled. Between 1992 and 1996 Australia became the first country with a full polymer series.",
+  "source": {
+   "name": "Reserve Bank of Australia: History of banknotes",
+   "url": "https://banknotes.rba.gov.au/australias-banknotes/history/"
+  }
+ },
+ {
+  "id": "w07-katsuren-roman-coins",
+  "era": "modern",
+  "year": 2016,
+  "dateLabel": "2016",
+  "cat": "discovery",
+  "title": "Roman Coins in an Okinawan Castle",
+  "place": "Katsuren Castle, Uruma, Okinawa, Japan",
+  "lat": 26.33,
+  "lng": 127.88,
+  "text": "Excavations at Katsuren Castle in Okinawa, occupied from the 12th to the 15th century, turned up four small Roman copper coins from around 320 to 370 CE, one apparently of Constantius II. An Ottoman coin dated 1687 to 1688 was found too. Rome had fallen long before the castle rose, so the coins probably arrived later, maybe as curiosities.",
+  "source": {
+   "name": "The Conversation: How did 4th-century Roman coins end up in a medieval Japanese castle?",
+   "url": "https://theconversation.com/how-did-4th-century-roman-coins-end-up-in-a-medieval-japanese-castle-66417"
+  }
+ }
+]

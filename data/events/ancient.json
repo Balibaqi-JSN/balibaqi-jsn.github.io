@@ -1,0 +1,588 @@
+[
+ {
+  "id": "an-botai-horses",
+  "era": "ancient",
+  "year": -3500,
+  "dateLabel": "About 3500 BCE",
+  "emoji": "🐎",
+  "cat": "nature",
+  "title": "The Horse People of Botai",
+  "place": "Botai, Kazakhstan",
+  "lat": 53.3,
+  "lng": 67.65,
+  "text": "Around 3500 BCE, villagers at Botai on the Kazakh steppe kept horses: archaeologists have found evidence of bridling, milking and corralling. That makes Botai the earliest known horse-herding community. DNA later delivered a twist: today's domestic horses do not descend from the Botai horses at all, but from a later lineage on the western steppes.",
+  "source": {
+   "name": "Nature (Librado et al. 2021)",
+   "url": "https://www.nature.com/articles/s41586-021-04018-9"
+  }
+ },
+ {
+  "id": "an-liangzhu-dams",
+  "era": "ancient",
+  "year": -3000,
+  "dateLabel": "About 3000 BCE",
+  "emoji": "💧",
+  "cat": "discovery",
+  "title": "China's 5,000-Year-Old Dams",
+  "place": "Liangzhu, China",
+  "lat": 30.39,
+  "lng": 119.99,
+  "text": "The Liangzhu people built a walled city in the marshlands of China's Yangtze Delta, plus a network of dams and levees begun about 5,100 years ago, one of the world's oldest large water-management systems. Builders stacked bundles of clay wrapped in grass, a bit like sandbags. Finely carved jades were buried in the graves of the elite.",
+  "source": {
+   "name": "PNAS (Liu et al. 2017, 'Earliest hydraulic enterprise in China, 5,100 years ago')",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5748178/"
+  },
+  "source2": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1592"
+  }
+ },
+ {
+  "id": "an-otzi-iceman",
+  "era": "ancient",
+  "year": -3300,
+  "dateLabel": "About 3300 BCE",
+  "emoji": "❄️",
+  "cat": "daily",
+  "title": "The Iceman's Last Hike",
+  "place": "Ötztal Alps, Italy",
+  "lat": 46.78,
+  "lng": 10.84,
+  "text": "In 1991, hikers in the Alps found a man who had lain frozen in the ice for over 5,000 years. Nicknamed Ötzi, he carried a copper axe, wore shoes padded with dry grass, and had 61 tattoos. His last meals included ibex and red deer, and a flint arrowhead in his left shoulder shows his final day was not a peaceful one.",
+  "source": {
+   "name": "South Tyrol Museum of Archaeology",
+   "url": "https://www.iceman.it/en/oetzi/the-body"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Otzi"
+  }
+ },
+ {
+  "id": "an-uruk-writing",
+  "era": "ancient",
+  "year": -3200,
+  "dateLabel": "About 3200 BCE",
+  "emoji": "📜",
+  "cat": "culture",
+  "title": "Writing Starts With Bookkeeping",
+  "place": "Uruk, Iraq",
+  "lat": 31.32,
+  "lng": 45.64,
+  "text": "By about 3200 BCE Uruk was the largest settlement in southern Mesopotamia, if not the world. Its scribes drew simple pictographs on clay tablets, not poems but records of goods, barley and workers' rations. Pressed into soft clay with a stylus, the signs grew into wedge-shaped cuneiform, a script used for some three thousand years.",
+  "source": {
+   "name": "The Metropolitan Museum of Art",
+   "url": "https://www.metmuseum.org/essays/uruk-the-first-city"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/cuneiform"
+  }
+ },
+ {
+  "id": "an-sannai-maruyama",
+  "era": "ancient",
+  "year": -2900,
+  "dateLabel": "About 3000 BCE",
+  "emoji": "🌰",
+  "cat": "daily",
+  "title": "A Great Jōmon Village",
+  "place": "Aomori, Japan",
+  "lat": 40.81,
+  "lng": 140.7,
+  "text": "From about 3900 to 2200 BCE, a large Jōmon settlement thrived here in northern Japan, with pit houses, storage pits, roads and big pillar-supported buildings. Chestnuts, walnuts and fish bones show what people ate, and more than 2,000 clay figurines have been dug up. Jōmon pottery is named for its cord-pattern decoration.",
+  "source": {
+   "name": "Jomon Prehistoric Sites in Northern Japan, official World Heritage website",
+   "url": "https://jomon-japan.jp/en/learn/jomon-sites/sannai-maruyama"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Jomon-culture"
+  }
+ },
+ {
+  "id": "an-lothagam-pillars",
+  "era": "ancient",
+  "year": -2800,
+  "dateLabel": "About 3000–2300 BCE",
+  "emoji": "🪦",
+  "cat": "culture",
+  "title": "Kenya's Lakeside Pillar Cemetery",
+  "place": "Lake Turkana, Kenya",
+  "lat": 2.92,
+  "lng": 36.07,
+  "text": "As rains faded and Lake Turkana shrank, East Africa's earliest herders built a huge shared cemetery on its shore, marked with tall stone pillars. Hundreds of people were buried there over about 700 years, many wearing beads and ornaments. It shows that mobile herders, not only kings with cities, could build big monuments.",
+  "source": {
+   "name": "Max Planck Institute for the Science of Human History",
+   "url": "https://www.shh.mpg.de/1030272/lake-turkana"
+  },
+  "source2": {
+   "name": "PNAS (Hildebrand et al. 2018)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6130363/"
+  }
+ },
+ {
+  "id": "an-caral",
+  "era": "ancient",
+  "year": -2600,
+  "dateLabel": "About 2600 BCE",
+  "emoji": "🎶",
+  "cat": "daily",
+  "title": "Caral: Pyramids in Peru",
+  "place": "Caral, Peru",
+  "lat": -10.89,
+  "lng": -77.52,
+  "text": "While Egyptians were building pyramids, people in Peru's Supe Valley were building their own, with plazas, homes, and sunken circular courts. About 5,000 years old, Caral is called the oldest centre of civilization in the Americas. In its amphitheater, archaeologists found 32 flutes made from pelican and condor bones.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1269"
+  },
+  "source2": {
+   "name": "Smithsonian Magazine",
+   "url": "https://www.smithsonianmag.com/history/first-city-in-the-new-world-66643778/"
+  }
+ },
+ {
+  "id": "an-great-pyramid",
+  "era": "ancient",
+  "year": -2560,
+  "dateLabel": "About 2560 BCE",
+  "emoji": "🔺",
+  "cat": "culture",
+  "title": "Merer's Pyramid Diary",
+  "place": "Giza, Egypt",
+  "lat": 29.98,
+  "lng": 31.13,
+  "text": "In 2013, in caves near the Red Sea, archaeologists found rolls of papyrus including the journal of an official named Merer. He led a crew of about 200 men and logged boat trips hauling limestone from the Tura quarries up the Nile to Giza, late in the reign of King Khufu, builder of the Great Pyramid. They are the oldest known inscribed papyri in the world.",
+  "source": {
+   "name": "Smithsonian Magazine",
+   "url": "https://www.smithsonianmag.com/history/ancient-egypt-shipping-mining-farming-economy-pyramids-180956619/"
+  }
+ },
+ {
+  "id": "an-stonehenge",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 2500 BCE",
+  "emoji": "🌅",
+  "cat": "culture",
+  "title": "Stonehenge's Long-Distance Stones",
+  "place": "Stonehenge, United Kingdom",
+  "lat": 51.18,
+  "lng": -1.83,
+  "text": "Stonehenge's giant sarsen stones went up around 2500 BCE, lined up with the midsummer sunrise and midwinter sunset. Smaller bluestones were hauled about 240 kilometers from Wales, and a 2024 study traced the central Altar Stone all the way to northern Scotland. Exactly how people moved them is still debated.",
+  "source": {
+   "name": "English Heritage",
+   "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/history/"
+  },
+  "source2": {
+   "name": "Nature (Clarke et al. 2024, Altar Stone)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11324516/"
+  }
+ },
+ {
+  "id": "an-mohenjo-daro",
+  "era": "ancient",
+  "year": -2450,
+  "dateLabel": "About 2500 BCE",
+  "emoji": "🚿",
+  "cat": "daily",
+  "title": "Mohenjo-daro's Amazing Drains",
+  "place": "Mohenjo-daro, Pakistan",
+  "lat": 27.33,
+  "lng": 68.14,
+  "text": "This Indus Valley city was carefully planned, with streets crossing at right angles, brick houses with small bathrooms, and an elaborate drainage system. On its high mound stood the 'Great Bath', a large tank surrounded by a veranda. UNESCO calls it the best-preserved city of the Indus civilization, dating back to the 3rd millennium BCE.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/138"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Mohenjo-daro"
+  }
+ },
+ {
+  "id": "an-enheduanna",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2300 BCE",
+  "emoji": "✍️",
+  "cat": "culture",
+  "title": "The First Author We Know By Name",
+  "place": "Ur, Iraq",
+  "lat": 30.96,
+  "lng": 46.1,
+  "text": "Enheduanna, daughter of King Sargon of Akkad, served as high priestess of the moon god Nanna at Ur around the 23rd century BCE. She is credited with hymns and poems, most famously a collection dedicated to the goddess Inanna. She is the earliest author in history whose name we know.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Enheduanna"
+  }
+ },
+ {
+  "id": "an-hammurabi-code",
+  "era": "ancient",
+  "year": -1754,
+  "dateLabel": "About 1754 BCE",
+  "emoji": "⚖️",
+  "cat": "power",
+  "title": "Hammurabi's Laws in Stone",
+  "place": "Babylon, Iraq",
+  "lat": 32.54,
+  "lng": 44.42,
+  "text": "King Hammurabi of Babylon had 282 laws carved onto a tall black stone, covering everything from stolen oxen to doctors' fees and tavern prices. Punishments often depended on whether you were noble, commoner, or enslaved. The stone was later carried off as war loot and was rediscovered in Iran in 1901.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Code-of-Hammurabi"
+  },
+  "source2": {
+   "name": "Yale Law School, Avalon Project: The Code of Hammurabi (L. W. King translation)",
+   "url": "https://avalon.law.yale.edu/ancient/hamcode.asp"
+  }
+ },
+ {
+  "id": "an-kerma",
+  "era": "ancient",
+  "year": -1700,
+  "dateLabel": "About 1700 BCE",
+  "emoji": "🐂",
+  "cat": "power",
+  "title": "Kerma, Kingdom of Cattle",
+  "place": "Kerma, Sudan",
+  "lat": 19.6,
+  "lng": 30.41,
+  "text": "Kerma, on the Nile in today's Sudan, was the first capital of a powerful Nubian kingdom, long mistaken for an Egyptian outpost. It grew rich on gold, cattle herding and river trade, and around 1630 BCE its rulers even raided Egypt. Kerma's kings were buried under large mounds, lying on beds, surrounded by hundreds of sacrificed courtiers.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Karmah"
+  },
+  "source2": {
+   "name": "Smithsonian Magazine: 'Why Sudan's Remarkable Ancient Civilization Has Been Overlooked by History'",
+   "url": "https://www.smithsonianmag.com/travel/sudan-land-kush-meroe-ancient-civilization-overlooked-180975498/"
+  }
+ },
+ {
+  "id": "an-minoan-eruption",
+  "era": "ancient",
+  "year": -1600,
+  "dateLabel": "About 1600–1500 BCE",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "The Island That Blew Its Top",
+  "place": "Akrotiri, Greece",
+  "lat": 36.35,
+  "lng": 25.4,
+  "text": "One of the largest volcanic eruptions known tore apart the island of Thera, today's Santorini, and buried the town of Akrotiri under ash and pumice. Its multi-story houses still stand, with some of the finest Minoan wall paintings found anywhere. Experts still argue over the date: about 1500 BCE, or as early as the 1620s BCE.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Thera"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Akrotiri-Thera-Greece"
+  }
+ },
+ {
+  "id": "an-dhar-tichitt",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 1500 BCE",
+  "emoji": "🌾",
+  "cat": "daily",
+  "title": "Stone Towns on the Sahara's Edge",
+  "place": "Dhar Tichitt, Mauritania",
+  "lat": 18.44,
+  "lng": -9.5,
+  "text": "Along the cliffs of Dhar Tichitt, people built large dry-stone villages; the biggest had almost 600 walled compounds and narrow passageways. They raised livestock, especially cattle, and grew pearl millet, a hardy grain that is still a staple in many parts of West Africa. The land was wetter then, with lakes in the valleys, and the villages flourished during the region's last major humid phase.",
+  "source": {
+   "name": "African Archaeological Review (2022), 'Spatial Organization and Socio-Economic Differentiation at the Dhar Tichitt Center of Dakhlet el Atrouss I (Southeastern Mauritania)' (Springer, read in browser)",
+   "url": "https://link.springer.com/article/10.1007/s10437-022-09479-5"
+  },
+  "source2": {
+   "name": "Archaeological and Anthropological Sciences (2021), Champion et al., 'Agricultural diversification in West Africa: an archaeobotanical study of the site of Sadia (Dogon Country, Mali)' (PMC full text)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7937602/"
+  }
+ },
+ {
+  "id": "an-hatshepsut-punt",
+  "era": "ancient",
+  "year": -1470,
+  "dateLabel": "About 1470 BCE",
+  "emoji": "⛵",
+  "cat": "journeys",
+  "title": "Hatshepsut's Shopping Trip to Punt",
+  "place": "Deir el-Bahari, Egypt",
+  "lat": 25.74,
+  "lng": 32.61,
+  "text": "Hatshepsut, who ruled Egypt as a female king, sent ships to the faraway land of Punt, on the African coast beyond the southern end of the Red Sea. Carvings at her temple show the expedition bringing home gold, ebony, animal skins, baboons and living myrrh trees. The trees were planted in the gardens of her temple at Deir el-Bahari.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Hatshepsut"
+  }
+ },
+ {
+  "id": "an-ugarit-alphabet",
+  "era": "ancient",
+  "year": -1400,
+  "dateLabel": "About 1400 BCE",
+  "emoji": "🔤",
+  "cat": "discovery",
+  "title": "An Alphabet Written in Wedges",
+  "place": "Ras Shamra, Syria",
+  "lat": 35.6,
+  "lng": 35.78,
+  "text": "Scribes in the port city of Ugarit used an alphabet of 30 signs, pressed into clay tablets with a wedge-shaped stylus like cuneiform, but written from left to right. Rediscovered in 1929, the tablets revealed forgotten Canaanite myths. Ugarit was so cosmopolitan that its scribes worked in four languages and seven different scripts.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Ugaritic-alphabet"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Ugarit"
+  }
+ },
+ {
+  "id": "an-uluburun-wreck",
+  "era": "ancient",
+  "year": -1300,
+  "dateLabel": "About 1300 BCE",
+  "emoji": "🚢",
+  "cat": "journeys",
+  "title": "A Bronze Age Cargo Ship",
+  "place": "Kaş, Turkey",
+  "lat": 36.13,
+  "lng": 29.68,
+  "text": "In 1982, a Turkish sponge diver near Kaş described strange 'metal biscuits with ears' on the seabed. They were copper ingots from a ship wrecked around 1320 BCE, carrying copper and tin in the ten-to-one mix needed for bronze, plus glass ingots, ebony, ivory, and ostrich eggshells. A gold scarab naming Queen Nefertiti was on board too.",
+  "source": {
+   "name": "Institute of Nautical Archaeology",
+   "url": "https://nauticalarch.org/projects/uluburun-late-bronze-age-shipwreck-excavation/"
+  }
+ },
+ {
+  "id": "an-poverty-point",
+  "era": "ancient",
+  "year": -1450,
+  "dateLabel": "About 1700–1100 BCE",
+  "emoji": "🧺",
+  "cat": "daily",
+  "title": "Poverty Point's Giant Earthworks",
+  "place": "Poverty Point, United States",
+  "lat": 32.64,
+  "lng": -91.41,
+  "text": "Hunter-fisher-gatherers in what is now Louisiana moved nearly two million cubic yards of soil, basketful by basketful, to build six curved ridges, five mounds and a central plaza. The biggest mound stands 72 feet tall. They brought in stone from up to 800 miles away, part of a huge trading network.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1435"
+  },
+  "source2": {
+   "name": "Poverty Point World Heritage Site (State of Louisiana)",
+   "url": "https://www.povertypoint.us/"
+  }
+ },
+ {
+  "id": "an-fu-hao",
+  "era": "ancient",
+  "year": -1200,
+  "dateLabel": "About 1200 BCE",
+  "emoji": "👑",
+  "cat": "power",
+  "title": "Fu Hao, Queen and General",
+  "place": "Anyang, China",
+  "lat": 36.12,
+  "lng": 114.31,
+  "text": "Fu Hao is believed to have been a consort of the Shang king Wu Ding, and she was also a noted military leader. Her tomb near Anyang, excavated in 1976, was the first major Shang royal tomb to be found intact. It held more than 440 bronze vessels and 590 jade objects.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Chinese bronzes, The Shang dynasty",
+   "url": "https://www.britannica.com/art/Chinese-bronzes/The-Shang-dynasty-c-1600-1046-bce"
+  }
+ },
+ {
+  "id": "an-sanxingdui",
+  "era": "ancient",
+  "year": -1100,
+  "dateLabel": "About 1200–1000 BCE",
+  "emoji": "🎭",
+  "cat": "culture",
+  "title": "Sanxingdui's Bug-Eyed Bronzes",
+  "place": "Guanghan, China",
+  "lat": 31,
+  "lng": 104.2,
+  "text": "In 1986, workers digging near Guanghan uncovered pits packed with astonishing bronzes: masks with eyes bulging out like telescopes, a 2.6-meter standing figure, and a bronze tree almost four meters tall. They look nothing like Shang bronzes from the same time, revealing a mysterious culture that left no writing.",
+  "source": {
+   "name": "Archaeology Magazine (Archaeological Institute of America)",
+   "url": "https://archaeology.org/issues/november-december-2024/features/the-many-faces-of-the-kingdom-of-shu/"
+  }
+ },
+ {
+  "id": "an-olmec-heads",
+  "era": "ancient",
+  "year": -1200,
+  "dateLabel": "About 1200 BCE",
+  "emoji": "🗿",
+  "cat": "culture",
+  "title": "The Giant Stone Heads of the Olmec",
+  "place": "San Lorenzo, Mexico",
+  "lat": 17.75,
+  "lng": -94.76,
+  "text": "The Olmec of Mexico's Gulf Coast carved 17 enormous basalt heads, from about 1.5 to 3.4 meters tall. Each wears a helmet-like cap, and they are generally thought to be portraits of rulers. The Olmec were also rubber makers, mixing tree latex with vine juice; their Aztec name means 'rubber people'.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Olmec"
+  }
+ },
+ {
+  "id": "an-lapita-voyagers",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1000 BCE",
+  "emoji": "🛶",
+  "cat": "journeys",
+  "title": "Lapita Sailors Head Into the Pacific",
+  "place": "Teouma, Vanuatu",
+  "lat": -17.77,
+  "lng": 168.4,
+  "text": "The Lapita people sailed east into the open Pacific and were the first settlers of islands such as Vanuatu, Fiji, Tonga and Samoa. They carried domesticated plants and animals with them and left pottery stamped with fine toothed patterns. Their settlements laid the foundations of the societies that later grew up across Polynesia.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Lapita-culture"
+  },
+  "source2": {
+   "name": "PLOS ONE / PubMed Central (Kinaston et al. 2014, Teouma)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3944017/"
+  }
+ },
+ {
+  "id": "an-gochang-dolmens",
+  "era": "ancient",
+  "year": -700,
+  "dateLabel": "About 700 BCE",
+  "emoji": "🪨",
+  "cat": "culture",
+  "title": "Korea, Land of Dolmens",
+  "place": "Gochang, South Korea",
+  "lat": 35.44,
+  "lng": 126.63,
+  "text": "Korea is the land of dolmens, stone tombs made of a huge capstone resting on upright slabs. According to UNESCO, its Gochang, Hwasun and Ganghwa sites hold the highest density and greatest variety of dolmens of any country. Gochang alone has more than 440, built in the first millennium BCE as burial chambers for important people.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/977"
+  }
+ },
+ {
+  "id": "an-ban-chiang",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1500-900 BCE",
+  "emoji": "🏺",
+  "cat": "discovery",
+  "title": "The Student Who Tripped on History",
+  "place": "Ban Chiang, Thailand",
+  "lat": 17.41,
+  "lng": 103.24,
+  "text": "In 1966, an American student tripped over a tree root in a Thai village and landed face-first beside ancient pottery. Digging revealed a community that grew wet rice, kept farm animals and cast bronze tools and ornaments. The site's dates have been revised several times; UNESCO now places its occupation from about 1500 to 900 BCE.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/575"
+  },
+  "source2": {
+   "name": "TIME (19 Nov 1984, 'Hidden Treasures at a Dead End')",
+   "url": "https://time.com/archive/6883290/science-hidden-treasures-at-a-dead-end/"
+  }
+ },
+ {
+  "id": "an-deer-stones",
+  "era": "ancient",
+  "year": -900,
+  "dateLabel": "About 1000 BCE",
+  "emoji": "🦌",
+  "cat": "culture",
+  "title": "The Deer Stones of Mongolia",
+  "place": "Mörön, Mongolia",
+  "lat": 49.65,
+  "lng": 99.93,
+  "text": "Bronze Age herders on the Mongolian steppe raised standing stones up to four meters tall, covered with carvings of stylized stags. These 'deer stones' date from about 1200 to 600 BCE, were used for ceremonies and funerals, and usually stand beside large burial mounds called khirgisüürs. About 1,500 are known across the Eurasian steppe, more than 80 percent of them in Mongolia.",
+  "source": {
+   "name": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/1621"
+  }
+ },
+ {
+  "id": "an-carthage-founded",
+  "era": "ancient",
+  "year": -814,
+  "dateLabel": "814 BCE (traditional date)",
+  "emoji": "⚓",
+  "cat": "journeys",
+  "title": "Queen Dido's Oxhide Trick",
+  "place": "Carthage, Tunisia",
+  "lat": 36.85,
+  "lng": 10.32,
+  "text": "Phoenician settlers from Tyre founded Carthage on the coast of North Africa; tradition dates it to 814 BCE. In Virgil's telling, Queen Dido's people bought as much land as a bull's hide could encircle, and the citadel hill was named the Byrsa. Carthage grew into a trading power that controlled much of the trade in purple dye from murex shells.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Carthage-ancient-city-Tunisia"
+  },
+  "source2": {
+   "name": "Perseus Digital Library, Tufts University (Virgil, Aeneid 1.335-370, trans. Williams)",
+   "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0054%3Abook%3D1%3Acard%3D335"
+  }
+ },
+ {
+  "id": "an-first-olympics",
+  "era": "ancient",
+  "year": -776,
+  "dateLabel": "776 BCE (traditional date)",
+  "emoji": "🏃",
+  "cat": "daily",
+  "title": "The First Olympics Had One Race",
+  "place": "Olympia, Greece",
+  "lat": 37.64,
+  "lng": 21.63,
+  "text": "According to Greek tradition, the first Olympic Games had just one event: a sprint of about 190 meters called the stadion. The winner listed for that year is Koroibos, said to be a cook from nearby Elis. Winners got a wreath of olive leaves, and the games went on for over a thousand years.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/sports/Olympic-Games"
+  },
+  "source2": {
+   "name": "International Olympic Committee",
+   "url": "https://www.olympics.com/ioc/ancient-olympic-games/history"
+  }
+ },
+ {
+  "id": "an-piye-of-kush",
+  "era": "ancient",
+  "year": -727,
+  "dateLabel": "Reigned about 753-723 BCE",
+  "emoji": "🐴",
+  "cat": "power",
+  "title": "Piye, the Kushite Conqueror of Egypt",
+  "place": "Jebel Barkal, Sudan",
+  "lat": 18.54,
+  "lng": 31.83,
+  "text": "King Piye of Kush, in today's Sudan, invaded Egypt from the south and ended the rule of its rival petty kings. After the last holdouts submitted, he sailed home to his capital near Mount Barkal with the spoils. A great stela found there recounts his deeds, and his conquest laid the foundations of Egypt's 25th dynasty.",
+  "source": {
+   "name": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Piye"
+  }
+ },
+ {
+  "id": "an-cyrus-the-great",
+  "era": "ancient",
+  "year": -550,
+  "dateLabel": "About 550 BCE",
+  "emoji": "🏛️",
+  "cat": "power",
+  "title": "Cyrus Builds the Persian Empire",
+  "place": "Pasargadae, Iran",
+  "lat": 30.2,
+  "lng": 53.18,
+  "text": "Cyrus the Great started out ruling a small Persian kingdom and built one of the largest empires the world had yet seen. After taking Babylon in 539 BCE, he let peoples who had been forcibly settled there, including the Jews, return home, and the Jews could rebuild their temple in Jerusalem. His simple stone tomb still stands at Pasargadae, his capital.",
+  "source": {
+   "name": "Smithsonian National Museum of Asian Art",
+   "url": "https://asia-archive.si.edu/heart-of-an-empire/"
+  },
+  "source2": {
+   "name": "National Geographic",
+   "url": "https://www.nationalgeographic.com/history/article/king-cyrus-the-great-bible"
+  }
+ }
+]

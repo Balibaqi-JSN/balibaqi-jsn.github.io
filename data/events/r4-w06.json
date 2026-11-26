@@ -1,0 +1,410 @@
+[
+ {
+  "id": "w06-catalhoyuk-crowded-town",
+  "era": "ancient",
+  "year": -6600,
+  "dateLabel": "About 6600 BCE",
+  "cat": "daily",
+  "title": "Crowded Living at Çatalhöyük",
+  "place": "Çatalhöyük, Konya Plain, Turkey",
+  "lat": 37.67,
+  "lng": 32.83,
+  "text": "For about 1,150 years, families at Çatalhöyük rebuilt their houses on the same spots, sometimes four or more times, piling up a mound 21 metres deep. At its busiest, between 3,500 and 8,000 people crowded together. Floors were swept clean, yet scientists found human and animal dung in walls and floors, and most of the dead were buried right beneath them.",
+  "source": {
+   "name": "PNAS (via PMC): Bioarchaeology of Neolithic Çatalhöyük reveals fundamental transitions in health, mobility, and lifestyle in early farmers",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6601267/"
+  }
+ },
+ {
+  "id": "w06-kaifeng-fire-stations",
+  "era": "medieval",
+  "year": 1100,
+  "dateLabel": "Around 1100",
+  "cat": "daily",
+  "title": "Kaifeng's Million and Its Firefighters",
+  "place": "Kaifeng, Henan, China",
+  "lat": 34.8,
+  "lng": 114.31,
+  "text": "The Song capital Kaifeng may have held about a million people, while London then had around 15,000. Shops, restaurants and houses lined its streets, some several stories tall, and the crowd spilled past the outer wall. To fight fires, the government kept 2,000 soldiers at 14 fire stations inside the city. The state also ran public clinics and old-age homes.",
+  "source": {
+   "name": "Columbia University, Asia for Educators: A New Kind of City Emerges",
+   "url": "https://afe.easia.columbia.edu/songdynasty-module/cities-new.html"
+  }
+ },
+ {
+  "id": "w06-hangzhou-city-of-heaven",
+  "era": "medieval",
+  "year": 1280,
+  "dateLabel": "1280s",
+  "cat": "daily",
+  "title": "Marco Polo's City of Heaven",
+  "place": "Hangzhou, Zhejiang, China",
+  "lat": 30.25,
+  "lng": 120.17,
+  "text": "Marco Polo wrote that Hangzhou, the old Southern Song capital at the end of the Grand Canal, had 12,000 stone bridges and streets paved with stone or brick. He counted ten great markets, each drawing 40,000 to 50,000 people three days a week, and about 3,000 spring-fed bathhouses, some big enough for 100 bathers. He claimed pears there weighed up to ten pounds.",
+  "source": {
+   "name": "Columbia University, Asia for Educators: Hangzhou and the Urban Elite",
+   "url": "https://afe.easia.columbia.edu/songdynasty-module/cities-hangzhou.html"
+  }
+ },
+ {
+  "id": "w06-hanyang-joseon-capital",
+  "era": "medieval",
+  "year": 1394,
+  "dateLabel": "1394",
+  "cat": "power",
+  "title": "Laying Out Seoul by the Rules",
+  "place": "Hanyang (Seoul), South Korea",
+  "lat": 37.57,
+  "lng": 126.98,
+  "text": "In 1394 King Taejo, founder of the Joseon dynasty, chose Hanyang for his new capital and planned it by geomancy and Confucian ideas. Gyeongbokgung Palace sat at the foot of Baegaksan Mountain, the royal ancestral shrine to the east and the Sajik Altar to the west. Six government ministries lined up before the palace, and licensed shops filled the main east-west street.",
+  "source": {
+   "name": "Seoul Museum of History: The Joseon Capital",
+   "url": "https://museum.seoul.go.kr/eng/exhibition/permanent/permExhibit/permExhibit1.jsp"
+  }
+ },
+ {
+  "id": "w06-pullman-company-town",
+  "era": "industrial",
+  "year": 1880,
+  "dateLabel": "1880",
+  "cat": "daily",
+  "title": "A Town Built for Railcar Workers",
+  "place": "Pullman, Chicago, Illinois, USA",
+  "lat": 41.69,
+  "lng": -87.61,
+  "text": "Ground broke in 1880 on Pullman, a planned town for the Pullman Palace Car Company's workers south of Chicago. Its brick row houses had indoor plumbing, far above the standards of the day, and over 100 railroad cars of supplies arrived each week that first summer. By 1883 over 8,000 people lived there, but George Pullman set rents to earn a six percent return.",
+  "source": {
+   "name": "National Park Service, Pullman National Historical Park: The Town of Pullman",
+   "url": "https://www.nps.gov/pull/learn/historyculture/the-town-of-pullman.htm"
+  }
+ },
+ {
+  "id": "w06-great-fire-of-rome",
+  "era": "classical",
+  "year": 64,
+  "dateLabel": "64 CE",
+  "cat": "power",
+  "title": "Rome Burns, Nero Builds",
+  "place": "Rome, Italy",
+  "lat": 41.89,
+  "lng": 12.49,
+  "text": "In July 64 CE a fire damaged or destroyed 10 of Rome's 14 regions, fed by narrow streets and wooden upper floors. Nero rushed back from Antium. Tacitus says he sheltered the homeless, paid people to rebuild fast and enforced new fire-safety rules. He then seized burned land for his Golden House, a palace with its own artificial lake and woodlands.",
+  "source": {
+   "name": "National Geographic: Rethinking Nero",
+   "url": "https://www.nationalgeographic.com/magazine/article/emperor-nero"
+  }
+ },
+ {
+  "id": "w06-chicago-fire-rebuilding",
+  "era": "industrial",
+  "year": 1871,
+  "dateLabel": "1871",
+  "cat": "power",
+  "title": "Chicago Rises From the Ashes",
+  "place": "DeKoven Street, Chicago, Illinois, USA",
+  "lat": 41.87,
+  "lng": -87.64,
+  "text": "On October 8, 1871, a fire starting in the O'Leary barn swept through dried-out wooden Chicago, destroying 17,500 buildings and leaving 90,000 people, one in three residents, homeless. New laws demanded brick and stone. Fireproof terra cotta spread, and in 1884 William Le Baron Jenney's steel-framed Home Insurance Building rose, considered the world's first skyscraper. The public library reopened inside a surviving water tank.",
+  "source": {
+   "name": "National Geographic Education: The Chicago Fire of 1871 and the 'Great Rebuilding'",
+   "url": "https://education.nationalgeographic.org/resource/chicago-fire-1871-and-great-rebuilding/"
+  }
+ },
+ {
+  "id": "w06-marvellous-melbourne",
+  "era": "industrial",
+  "year": 1888,
+  "dateLabel": "1880s",
+  "cat": "daily",
+  "title": "Champagne and Land in Marvellous Melbourne",
+  "place": "Melbourne, Victoria, Australia",
+  "lat": -37.81,
+  "lng": 144.96,
+  "text": "In the 1880s Melbourne boomed on borrowed money and was among the world's richest cities by 1888. An 1884 law authorised 66 new railway lines, and land agents gave buyers free first-class train tickets to auctions with chicken and champagne lunches. Electric light, telephones and lifts were commoner there than in London. Then an 1891 banking collapse brought decades of hardship.",
+  "source": {
+   "name": "State Library Victoria: Victoria through the ages, the boom years",
+   "url": "https://blogs.slv.vic.gov.au/our-stories/ask-a-librarian/collection-spotlights/victoria-through-the-ages-the-boom-years/"
+  }
+ },
+ {
+  "id": "w06-bievre-buried-river",
+  "era": "industrial",
+  "year": 1912,
+  "dateLabel": "1912",
+  "cat": "nature",
+  "title": "Paris Buries Its Second River",
+  "place": "Bièvre river, 5th arrondissement, Paris, France",
+  "lat": 48.84,
+  "lng": 2.36,
+  "text": "The Bièvre, barely three metres wide, powered Paris's tanners, millers and the dyers who became the Gobelins tapestry works, and it turned into a stinking open sewer. In 1858 Baron Haussmann vowed it would no longer pour its muddy water into the Seine, and engineer Eugène Belgrand sent it into sewers. Its last open stretches in Paris were covered in 1912.",
+  "source": {
+   "name": "National Geographic: Parisians want to recover a legendary river now buried under the city",
+   "url": "https://www.nationalgeographic.com/travel/article/in-paris-conservation-effort-is-recovering-lost-river"
+  }
+ },
+ {
+  "id": "w06-tikal-poisoned-reservoirs",
+  "era": "medieval",
+  "year": 850,
+  "dateLabel": "Mid-800s CE",
+  "cat": "nature",
+  "title": "Tikal's Poisoned Drinking Water",
+  "place": "Tikal, Petén, Guatemala",
+  "lat": 17.22,
+  "lng": -89.62,
+  "text": "Tikal depended on reservoirs to get through the dry season. Mud cores from the Palace and Temple reservoirs in the city centre show that mercury, probably washed off cinnabar-painted buildings, and blooms of toxic blue-green algae made the water unsafe to drink. These problems peaked during droughts of the 800s CE, shortly before the great Maya city was abandoned.",
+  "source": {
+   "name": "Scientific Reports (via PMC): Lentz et al. 2020, contamination of drinking water reservoirs at Tikal",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7316703/"
+  }
+ },
+ {
+  "id": "w06-angkor-lidar-city-grid",
+  "era": "modern",
+  "year": 2012,
+  "dateLabel": "2012",
+  "cat": "discovery",
+  "title": "Lasers Find Angkor's Hidden City Grid",
+  "place": "Angkor, Siem Reap, Cambodia",
+  "lat": 13.41,
+  "lng": 103.87,
+  "text": "In April 2012 an aircraft fired lasers through the Cambodian forest canopy over about 370 square kilometres. Inside and around Angkor Wat's moat, the scans revealed a grid of city blocks dotted with mounds and ponds. The planned core covered at least 35 square kilometres, not the 9 inside Angkor Thom's walls, and a lost earlier capital appeared on Phnom Kulen.",
+  "source": {
+   "name": "PNAS (via PMC): Uncovering archaeological landscapes at Angkor using lidar",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3732978/"
+  }
+ },
+ {
+  "id": "w06-constantinople-water-line",
+  "era": "classical",
+  "year": 350,
+  "dateLabel": "4th century CE",
+  "cat": "power",
+  "title": "Water From 265 Miles Away",
+  "place": "Aqueduct of Valens, Istanbul, Turkey",
+  "lat": 41.02,
+  "lng": 28.96,
+  "text": "When Constantine made Constantinople the new Roman capital, builders began a water supply that eventually stretched about 265 miles, with 90 large bridges and tunnels up to three miles long. It worked for more than 700 years. Its limescale holds only about 27 years of buildup, so crews must have kept cleaning it, perhaps switching between double channels.",
+  "source": {
+   "name": "Archaeology Magazine: Constantinople's Ancient Aqueduct Examined",
+   "url": "https://archaeology.org/news/2021/05/17/210517-aqueduct-valens-maintenance/"
+  }
+ },
+ {
+  "id": "w06-aghmat-bathhouse",
+  "era": "medieval",
+  "year": 1058,
+  "dateLabel": "1058",
+  "cat": "daily",
+  "title": "The Great Bathhouse of Aghmat",
+  "place": "Aghmat, near Marrakech, Morocco",
+  "lat": 31.42,
+  "lng": -7.8,
+  "text": "In 1058 the Almoravids took Aghmat, in the High Atlas foothills, and made it their first capital before moving to Marrakech in 1062. Townspeople already enjoyed one of the largest medieval bathhouses in the western Islamic world, with cold, warm and hot rooms on a Roman plan, toilets, dressing rooms and a domed hall around an octagonal pool.",
+  "source": {
+   "name": "Archaeology Magazine: Splendor at the Edge of the Sahara",
+   "url": "https://archaeology.org/issues/online/collection/morocco-medieval-capital/"
+  }
+ },
+ {
+  "id": "w06-songo-mnara-cisterns",
+  "era": "medieval",
+  "year": 1400,
+  "dateLabel": "About 1400",
+  "cat": "daily",
+  "title": "A Cistern in Every Swahili House",
+  "place": "Songo Mnara, Kilwa Archipelago, Tanzania",
+  "lat": -9.07,
+  "lng": 39.57,
+  "text": "Songo Mnara was built quickly to a plan in the 1300s, its coral-stone houses plastered gleaming white. With a nine-month dry season and salty groundwater, every house had a cistern to catch rain, and wells stood at each of its six mosques. Chinese celadon dishes set into the bottom of the mosque cisterns may have shown whether the water was clean.",
+  "source": {
+   "name": "Archaeology Magazine: Saving for the Season",
+   "url": "https://archaeology.org/issues/march-april-2023/collection/swahili-coast-water-storage/the-ancient-promise-of-water/"
+  },
+  "source2": {
+   "name": "Archaeology Magazine: Stone Towns of the Swahili Coast",
+   "url": "https://archaeology.org/issues/january-february-2014/features/swahili-coast-towns/"
+  }
+ },
+ {
+  "id": "w06-dholavira-reservoirs",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 2500 BCE",
+  "cat": "nature",
+  "title": "Dholavira Saves Every Drop",
+  "place": "Dholavira, Kachchh, Gujarat, India",
+  "lat": 23.89,
+  "lng": 70.21,
+  "text": "In the dry land of Kachchh, the Indus city of Dholavira caught rain with dams and stored it in giant reservoirs. The biggest measured 263 by 39 feet and was 24 feet deep, and together they held more than 325,000 cubic yards of water. Wells linked to the reservoirs filled cisterns used for drinking and bathing across the 123-acre city.",
+  "source": {
+   "name": "Archaeology Magazine: Aqua Dholavira",
+   "url": "https://archive.archaeology.org/0011/newsbriefs/aqua.html"
+  }
+ },
+ {
+  "id": "w06-rakhigarhi-street-bins",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 2500 BCE",
+  "cat": "daily",
+  "title": "Garbage Bins on Indus Street Corners",
+  "place": "Rakhigarhi, Hisar, Haryana, India",
+  "lat": 29.29,
+  "lng": 76.11,
+  "text": "Archaeologists from the Archaeological Survey of India digging at Rakhigarhi, a planned Harappan city, found straight streets, brick walls, drains and multistory homes. Refuse bins stood on the street corners, a sign that someone organised the rubbish. Nearby lay a jewelry workshop about 5,000 years old, with copper and gold objects, beads and seals carved with Indus script.",
+  "source": {
+   "name": "Archaeology Magazine: Indus Valley Civilization Site Investigated in Northern India",
+   "url": "https://archaeology.org/news/2022/05/10/220511-india-rakhigarhi-jewelry/"
+  }
+ },
+ {
+  "id": "w06-merv-moving-city",
+  "era": "classical",
+  "year": -280,
+  "dateLabel": "About 280 BCE",
+  "cat": "power",
+  "title": "Merv, the City That Moved Next Door",
+  "place": "Ancient Merv, Mary Region, Turkmenistan",
+  "lat": 37.66,
+  "lng": 62.19,
+  "text": "Merv kept moving over. The Achaemenid Persians first settled Erk Kala in the 400s BCE. The Seleucid king Antiochus I then built Gyaur Kala beside it, and by the 700s CE the Abbasids ran their eastern capital from Sultan Kala, one of the world's largest cities. The oldest layers now lie up to 60 feet underground.",
+  "source": {
+   "name": "Archaeology Magazine: Off the Grid, Merv, Turkmenistan",
+   "url": "https://archaeology.org/issues/july-august-2019/off-the-grid/trenches-turkmenistan-merv/"
+  }
+ },
+ {
+  "id": "w06-brasilia-built-for-500000",
+  "era": "modern",
+  "year": 1960,
+  "dateLabel": "1960",
+  "cat": "power",
+  "title": "A Capital Built to Order",
+  "place": "Brasília, Federal District, Brazil",
+  "lat": -15.8,
+  "lng": -47.86,
+  "text": "Rio de Janeiro was crowded, with government buildings far apart and traffic heavy, so between 1956 and 1960 Brazil built a brand-new capital in its interior. Planners, architects and political scientists designed Brasília purely as a government city, meant to pull development inland. It was planned for 500,000 people. Today about two million more live beyond the lake and park meant to stop sprawl.",
+  "source": {
+   "name": "National Geographic Education: Capital",
+   "url": "https://education.nationalgeographic.org/resource/capital/"
+  },
+  "source2": {
+   "name": "National Geographic: The City Solution",
+   "url": "https://www.nationalgeographic.com/magazine/article/city-solutions"
+  }
+ },
+ {
+  "id": "w06-jakarta-sinking-capital",
+  "era": "modern",
+  "year": 2019,
+  "dateLabel": "2019",
+  "cat": "nature",
+  "title": "The Capital That Is Sinking",
+  "place": "North Jakarta, Indonesia",
+  "lat": -6.12,
+  "lng": 106.8,
+  "text": "Parts of northern Jakarta sink up to 11 inches a year, mostly because residents pump groundwater when piped water reaches only about a quarter of households. Roughly 40 percent of the city of 10 million now lies below sea level. In 2019 President Joko Widodo announced that the capital would move to a new city on Borneo, on land that is now forest.",
+  "source": {
+   "name": "National Geographic: Indonesia's giant capital city is sinking. Can the government's plan save it?",
+   "url": "https://www.nationalgeographic.com/environment/article/indonesias-giant-capital-city-is-sinking-can-the-governments-plan-save-it"
+  }
+ },
+ {
+  "id": "w06-kaminaljuyu-canals",
+  "era": "classical",
+  "year": -400,
+  "dateLabel": "About 800 BCE to 700 CE",
+  "cat": "daily",
+  "title": "Water Pipes Under a Maya Metropolis",
+  "place": "Kaminaljuyú, Guatemala City, Guatemala",
+  "lat": 14.63,
+  "lng": -90.55,
+  "text": "Kaminaljuyú, the most populous Maya city of the southern highlands, was built mostly of adobe and timber rather than limestone. Its canals ranged from narrow culverts to navigable channels about 30 feet wide, clay pipes ran water under the streets, and a three-mile earthen aqueduct tapped a spring. Today Guatemala City covers most of it; the park preserves under 10 percent.",
+  "source": {
+   "name": "Archaeology Magazine: Maya Metropolis",
+   "url": "https://archaeology.org/issues/march-april-2016/letters-from/maya-metropolis-kaminaljuyu-guatemala-kaminaljuyu/"
+  }
+ },
+ {
+  "id": "w06-ichijodani-samurai-city",
+  "era": "exploration",
+  "year": 1573,
+  "dateLabel": "1573",
+  "cat": "daily",
+  "title": "The Samurai Town in a Narrow Valley",
+  "place": "Ichijōdani, Fukui, Japan",
+  "lat": 36,
+  "lng": 136.3,
+  "text": "For about a century the Asakura clan ruled from Ichijōdani, a valley town of up to 10,000 people with gates at each end. Refugees from war-torn Kyoto brought artists and craftspeople, and even townspeople drank tea from fine ceramics. Oda Nobunaga's forces burned it in August 1573. Excavators have since recovered over 1.7 million artifacts, including Japan's oldest known flower bed.",
+  "source": {
+   "name": "Archaeology Magazine: Lost City of the Samurai",
+   "url": "https://archaeology.org/issues/may-june-2025/features/lost-city-of-the-samurai/"
+  }
+ },
+ {
+  "id": "w06-luoyang-palace-water-channels",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "220 to 420 CE",
+  "cat": "discovery",
+  "title": "Four Channels Into Luoyang's Palace",
+  "place": "Qianqiu Gate, Han-Wei city of Luoyang, Henan, China",
+  "lat": 34.73,
+  "lng": 112.62,
+  "text": "Near the Qianqiu Gate of Luoyang's old imperial palace, archaeologists traced more than 260 feet of water channels: four built side by side to one plan between 220 and 420 CE. Their covers had square holes to catch rainwater. They carried water from outside the city into the palace and on to garden lakes, and the Northern Wei emperor Xiaowen likely reused them.",
+  "source": {
+   "name": "Archaeology Magazine: Ancient Water System Unearthed in Central China",
+   "url": "https://archaeology.org/news/2023/01/10/230111-china-water-channels/"
+  }
+ },
+ {
+  "id": "w06-tongatapu-mound-city",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "Around 300 CE",
+  "cat": "discovery",
+  "title": "Ten Thousand Mounds on Tongatapu",
+  "place": "Tongatapu, Tonga",
+  "lat": -21.19,
+  "lng": -175.1,
+  "text": "Aerial scanning and fieldwork led by Phillip Parton of the Australian National University mapped about 10,000 earth mounds on Tongatapu, traces of an ancient city. People were already building earth structures around 300 CE, about 700 years earlier than thought. Between the 1200s and 1800s the city's influence spread across the southwest Pacific, until diseases brought by Europeans led to collapse.",
+  "source": {
+   "name": "Archaeology Magazine: Traces of an Ancient City Discovered on a Pacific Island",
+   "url": "https://archaeology.org/news/2024/04/12/240415-tonga-ancient-city/"
+  }
+ },
+ {
+  "id": "w06-beirut-digging-downtown",
+  "era": "modern",
+  "year": 2011,
+  "dateLabel": "2011",
+  "cat": "discovery",
+  "title": "Digging Beneath Rebuilt Beirut",
+  "place": "Downtown Beirut, Lebanon",
+  "lat": 33.9,
+  "lng": 35.5,
+  "text": "A 15-year civil war, from 1975 to 1990, wrecked central Beirut. As builders rebuilt, archaeologists won rules making developers pay for digs, and by 2011 six big excavations were under way. They found a Phoenician seawall, a grid of 4th-century BCE houses and a Byzantine stable with seven donkeys and a camel. Some Hellenistic streets stayed in use until the 1800s.",
+  "source": {
+   "name": "Archaeology Magazine: Rebuilding Beirut",
+   "url": "https://archaeology.org/issues/online/features/rebuilding-beirut/"
+  }
+ },
+ {
+  "id": "w06-anuradhapura-hospital",
+  "era": "classical",
+  "year": -50,
+  "dateLabel": "About 2,000 years ago",
+  "cat": "daily",
+  "title": "A Hospital in Ancient Anuradhapura",
+  "place": "Near Thuparama Dagoba, Anuradhapura, Sri Lanka",
+  "lat": 8.35,
+  "lng": 80.4,
+  "text": "Near the Thuparama Dagoba, a stupa said to hold the Buddha's right collarbone, archaeologists in the ancient city of Anuradhapura uncovered a hospital about 2,000 years old. It had medical rooms and a spa. Excavators found grinding stones and knives, and a latrine system carved straight out of the rock.",
+  "source": {
+   "name": "Archaeology Magazine: Ancient Hospital Unearthed in Sri Lanka",
+   "url": "https://archaeology.org/news/2012/12/23/anuradhapura-sri-lanka-hospital/"
+  }
+ }
+]

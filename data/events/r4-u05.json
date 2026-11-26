@@ -1,0 +1,390 @@
+[
+ {
+  "id": "u05-semiyarka-seven-ravines",
+  "era": "ancient",
+  "year": -1600,
+  "dateLabel": "About 1600 BCE",
+  "cat": "discovery",
+  "title": "A Bronze Age City of Seven Ravines",
+  "place": "Semiyarka, Irtysh River, northeastern Kazakhstan",
+  "lat": 50.87,
+  "lng": 78.37,
+  "text": "Steppe herders were long thought to live on the move, yet around 1600 BCE someone planned a 140-hectare settlement on a promontory above the Irtysh River. Rows of earthen mounds mark multi-room homes, with a much larger building at the centre. On the southeastern edge, crucibles and slag reveal the first firm evidence of large-scale tin-bronze making on the Eurasian steppe, probably using Altai ores.",
+  "source": {
+   "name": "Durham University: Archaeologists uncover ancient Bronze Age city in Central Asia",
+   "url": "https://dur.ac.uk/news-events/latest-news/2025/11/archaeologists-uncover-ancient-bronze-age-city-in-central-asia-/"
+  }
+ },
+ {
+  "id": "u05-kyshtym-blue-sky",
+  "era": "modern",
+  "year": 1957,
+  "dateLabel": "1957",
+  "cat": "power",
+  "title": "The Secret Nuclear Blast in the Urals",
+  "place": "Mayak nuclear complex, near Ozyorsk, Chelyabinsk Oblast, Russia",
+  "lat": 55.71,
+  "lng": 60.85,
+  "text": "On the afternoon of 29 September 1957, a tank of radioactive waste at the secret Mayak plant overheated unnoticed and exploded, bursting its 160-ton concrete lid. Locals saw strange bluish-violet colours in the sky, which the press called polar lights. More than 11,000 people from over 20 villages were moved and their homes demolished, but the West only learned the details in 1976.",
+  "source": {
+   "name": "Rachel Carson Center, Environment & Society Portal: The Kyshtym Disaster (Arcadia)",
+   "url": "https://www.environmentandsociety.org/node/4967"
+  }
+ },
+ {
+  "id": "u05-chelyabinsk-fireball",
+  "era": "modern",
+  "year": 2013,
+  "dateLabel": "2013",
+  "cat": "nature",
+  "title": "A Fireball Brighter Than the Sun",
+  "place": "Chelyabinsk, Chelyabinsk Oblast, Russia",
+  "lat": 55.15,
+  "lng": 61.4,
+  "text": "On 15 February 2013, a space rock about 20 metres wide hit the atmosphere over the southern Urals at 68,400 km/h. It burst about 27 kilometres up with at least 500 kilotons of energy, glowing so bright that some witnesses got sunburned. The shock wave shattered windows and injured about 1,500 people. A 600-kilogram fragment was later hauled out of icy Lake Chebarkul.",
+  "source": {
+   "name": "National Geographic: Russian meteor blast was 500 kilotons",
+   "url": "https://www.nationalgeographic.com/science/article/131106-russian-meteor-chelyabinsk-airburst-500-kilotons"
+  }
+ },
+ {
+  "id": "u05-saiga-die-off",
+  "era": "modern",
+  "year": 2015,
+  "dateLabel": "2015",
+  "cat": "nature",
+  "title": "The Antelope Die-Off on the Steppe",
+  "place": "Torgai lowland, Kostanay Region, Kazakhstan",
+  "lat": 50,
+  "lng": 64.5,
+  "text": "In May 2015, more than 200,000 saiga antelopes, the odd-nosed grazers of the steppe, died within three weeks in central Kazakhstan, about 62 percent of the world's population. Animals went from first symptoms to death in a few hours. Scientists traced it to a normally harmless bacterium, Pasteurella multocida, turned deadly after unusually hot, humid days during calving season.",
+  "source": {
+   "name": "Science Advances (PMC): Saigas on the brink: Multidisciplinary analysis of the factors influencing mass mortality events",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5777396/"
+  }
+ },
+ {
+  "id": "u05-batagaika-megaslump",
+  "era": "modern",
+  "year": 2016,
+  "dateLabel": "2016",
+  "cat": "nature",
+  "title": "The Siberian Hole That Keeps Growing",
+  "place": "Batagaika Crater, near Batagay, Sakha Republic, Russia",
+  "lat": 67.58,
+  "lng": 134.77,
+  "text": "Satellites watched a small gash in the Yakutian hills, likely begun in the early 1980s, swell into a tadpole-shaped crater about a kilometre long, with cliffs over 85 metres tall. As permafrost thaws, the walls retreat. The exposed frozen ground may hold up to 200,000 years of history, and has given up remains of Ice Age horses, steppe bison, cave lions and wolves.",
+  "source": {
+   "name": "NASA Earth Observatory: Batagaika Crater Expands",
+   "url": "https://science.nasa.gov/earth/earth-observatory/batagaika-crater-expands-90104"
+  },
+  "source2": {
+   "name": "ESA: Earth from Space: Batagaika Crater",
+   "url": "https://www.esa.int/ESA_Multimedia/Images/2026/05/Earth_from_Space_Batagaika_Crater"
+  }
+ },
+ {
+  "id": "u05-kolyma-ice-age-worm",
+  "era": "early",
+  "year": -46000,
+  "dateLabel": "About 46,000 years ago",
+  "cat": "nature",
+  "title": "The Worm That Woke After 46,000 Years",
+  "place": "Duvanny Yar, Kolyma River, Sakha Republic, Russia",
+  "lat": 68.63,
+  "lng": 159.08,
+  "text": "In 2002, scientists collected frozen soil from an ancient ground-squirrel burrow about 40 metres down in Siberian permafrost. Plant material in it dated to roughly 46,000 years ago. Inside were tiny roundworms in a dormant state, and once thawed they came back to life. The new species, Panagrolaimus kolymaensis, reproduces without males and has been raised in the lab for over 100 generations.",
+  "source": {
+   "name": "PLOS Genetics (PMC): A novel nematode species from the Siberian permafrost",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10374039/"
+  }
+ },
+ {
+  "id": "u05-homotherium-cub-mummy",
+  "era": "early",
+  "year": -36000,
+  "dateLabel": "About 36,000 years ago",
+  "cat": "discovery",
+  "title": "A Sabre-Toothed Kitten in the Permafrost",
+  "place": "Badyarikha River, Indigirka basin, Sakha Republic, Russia",
+  "lat": 68.2,
+  "lng": 146,
+  "text": "In 2020, a three-week-old cub with short, thick, dark brown fur emerged from frozen ground along a Yakutian river. It was a Homotherium, a sabre-toothed cat, dated to about 36,000 years ago. Compared with a lion cub of the same age it had a far thicker neck, longer forelimbs, tiny ears and broad round paws, perhaps for snow. Nobody had seen this extinct cat's face before.",
+  "source": {
+   "name": "Scientific Reports (PMC): Mummy of a juvenile sabre-toothed cat Homotherium latidens from the Upper Pleistocene of Siberia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11564651/"
+  }
+ },
+ {
+  "id": "u05-emir-bukhara-in-colour",
+  "era": "industrial",
+  "year": 1911,
+  "dateLabel": "1911",
+  "cat": "power",
+  "title": "The Last Emir of Bukhara, in Colour",
+  "place": "Bukhara, Uzbekistan",
+  "lat": 39.78,
+  "lng": 64.41,
+  "text": "In 1911, the Russian photographer Sergei Prokudin-Gorskii photographed Alim Khan, the newly enthroned Emir of Bukhara, in colour. The Emir sits solemnly, an absolute monarch, though his city-state had been a vassal of the Russian Empire since the mid-1800s. Nine years later Soviet power reached Bukhara, and Alim Khan fled to Afghanistan, where he died in 1944.",
+  "source": {
+   "name": "Library of Congress: The Empire That Was Russia, Ethnic Diversity",
+   "url": "https://www.loc.gov/exhibits/empire/ethnic.html"
+  }
+ },
+ {
+  "id": "u05-boz-barmak-saka-dna",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "About 300 BCE",
+  "cat": "discovery",
+  "title": "Saka Kin Found by a Railway Line",
+  "place": "Boz-Barmak, near Balykchi, Issyk-Kul Region, Kyrgyzstan",
+  "lat": 42.44,
+  "lng": 76.23,
+  "text": "Building a railway near Lake Issyk-Kul in 2022 uncovered graves of Saka herders from the 4th to 2nd centuries BCE. DNA linked them to Iron Age groups in Kazakhstan. Every man shared one father line, still common among Kyrgyz today, while each person carried a different mother line, hinting that wives married in. One woman stood apart, with ancestry closer to Siberia.",
+  "source": {
+   "name": "Scientific Reports (PMC): Genomic insights into the Iron Age Saka of Boz-Barmak, Kyrgyzstan",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13683032/"
+  }
+ },
+ {
+  "id": "u05-karatau-culture-toolmakers",
+  "era": "early",
+  "year": -580000,
+  "dateLabel": "About 580,000 years ago",
+  "cat": "discovery",
+  "title": "Stone Toolmakers of the Tajik Loess",
+  "place": "Khovaling Loess Plateau, Khatlon Region, Tajikistan",
+  "lat": 38.35,
+  "lng": 69.95,
+  "text": "Thick layers of wind-blown dust in southern Tajikistan hold buried soils from warm periods, and in them lie the tools of the Karatau Culture. Using 286 luminescence dates plus other methods, scientists found these early humans arrived around 580,000 years ago with a fully developed toolkit, thrived through three warm spells to about 400,000 years ago, then vanished as a glacial cold set in.",
+  "source": {
+   "name": "Nature Communications (PMC): Absolute chronology of the Early Palaeolithic Karatau Culture in Central Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13462899/"
+  }
+ },
+ {
+  "id": "u05-toda-cave-barley",
+  "era": "ancient",
+  "year": -7200,
+  "dateLabel": "About 7200 BCE",
+  "cat": "daily",
+  "title": "Barley Harvesters Before the Farmers",
+  "place": "Toda-1 Cave, Surkhan Darya Valley, Uzbekistan",
+  "lat": 38.1,
+  "lng": 67.3,
+  "text": "In a cave in the foothills of southern Uzbekistan, people around 9,200 years ago were cutting barley with stone sickle blades and grinding it on stones, long before pottery appeared there. They were foragers, not farmers, eating grains along with nuts and fruits. The cave also gave the earliest known evidence of people gathering the wild ancestors of pistachios and apples, or a close apple relative.",
+  "source": {
+   "name": "PNAS (PMC): 9,000-year-old barley consumption in the foothills of central Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12435284/"
+  }
+ },
+ {
+  "id": "u05-paykend-silk-road-eggs",
+  "era": "classical",
+  "year": -300,
+  "dateLabel": "About 300 BCE",
+  "cat": "daily",
+  "title": "Eggs for Breakfast on the Silk Road",
+  "place": "Paykend, Bukhara Region, Uzbekistan",
+  "lat": 39.77,
+  "lng": 63.85,
+  "text": "Chicken bones rarely survive, but eggshells can. Studying shell fragments from 12 sites in Uzbekistan and Tajikistan, scientists used ancient proteins to confirm they came from chickens, first appearing in Hellenistic layers at sites like Paykend near Bukhara. Eggshells turned up in such quantities, through medieval times, that chickens were probably an everyday food, perhaps bred to lay eggs all year round.",
+  "source": {
+   "name": "Nature Communications (PMC): Archaeological and molecular evidence for ancient chickens in Central Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10987595/"
+  }
+ },
+ {
+  "id": "u05-uyelgi-hungarian-roots",
+  "era": "medieval",
+  "year": 850,
+  "dateLabel": "About 850",
+  "cat": "journeys",
+  "title": "Where the Hungarians Came From",
+  "place": "Uyelgi cemetery, near Chelyabinsk, Chelyabinsk Oblast, Russia",
+  "lat": 55.6,
+  "lng": 61.3,
+  "text": "Hungarian is a Uralic language marooned in Central Europe, and chronicles spoke of an eastern homeland. DNA from 131 people buried around the Urals settled the question. Magyars who reached the Carpathian Basin in the late 800s were closely related to people of the Karayakupovo horizon, dated 750 to 1000 CE, buried at cemeteries such as Uyelgi on the Asian side of the southern Urals.",
+  "source": {
+   "name": "Cell (PMC): Long shared haplotypes identify the southern Urals as a primary source for the 10th-century Hungarians",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12711333/"
+  }
+ },
+ {
+  "id": "u05-jochi-mausoleum-dna",
+  "era": "medieval",
+  "year": 1350,
+  "dateLabel": "14th century",
+  "cat": "discovery",
+  "title": "Who Lies in Jochi's Tomb?",
+  "place": "Mausoleum of Jochi Khan, Ulytau region, Kazakhstan",
+  "lat": 47.9,
+  "lng": 67.7,
+  "text": "Kazakhs honour a domed tomb in the Ulytau hills as the grave of Jochi, Genghis Khan's eldest son, who died in 1227. Radiocarbon dating put the man inside in the 14th century instead. Still, his DNA was strongly Mongolian, and he shared a father line with men from two nearby mausoleums: the line long suspected to descend from Genghis Khan himself.",
+  "source": {
+   "name": "PNAS (PMC): Genomes of the Golden Horde elites and their implications for the rulers of the Mongol Empire",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12933120/"
+  }
+ },
+ {
+  "id": "u05-yakutia-conquest-smallpox",
+  "era": "exploration",
+  "year": 1650,
+  "dateLabel": "About 1650",
+  "cat": "journeys",
+  "title": "Smallpox Rides In With the Fur Hunters",
+  "place": "Central Yakutia, Sakha Republic, Russia",
+  "lat": 62.5,
+  "lng": 131,
+  "text": "From 1632, Russia pushed into Yakutia hunting furs, bringing cereals, tobacco, vodka, Christianity and new diseases. DNA from 122 Yakut burials showed their gene pool stayed remarkably stable through the conquest. But three bodies held smallpox, and by around 1650 the strains circulating in central Yakutia were distinct from any documented in Europe.",
+  "source": {
+   "name": "Nature (PMC): An ancient DNA perspective on the Russian conquest of Yakutia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12893923/"
+  }
+ },
+ {
+  "id": "u05-darvaza-descent",
+  "era": "modern",
+  "year": 2013,
+  "dateLabel": "2013",
+  "cat": "discovery",
+  "title": "Down Into the Door to Hell",
+  "place": "Darvaza gas crater, Karakum Desert, Turkmenistan",
+  "lat": 40.25,
+  "lng": 58.44,
+  "text": "In November 2013, explorer George Kourounis was lowered into Darvaza, a burning gas crater in the Karakum Desert about 69 metres wide and 30 metres deep. The usual story says it opened under a Soviet drilling rig in 1971 and was lit to burn off gas, but local geologists told him it may have collapsed in the 1960s, unlit until the 1980s. At the bottom he found heat-loving bacteria.",
+  "source": {
+   "name": "National Geographic: Explorer descends into Turkmenistan's 'Door to Hell'",
+   "url": "https://www.nationalgeographic.com/adventure/article/140716-door-to-hell-darvaza-crater-george-kourounis-expedition"
+  }
+ },
+ {
+  "id": "u05-tagar-warrior-couple",
+  "era": "classical",
+  "year": -500,
+  "dateLabel": "About 500 BCE",
+  "cat": "culture",
+  "title": "A Warrior Couple of the Tagar",
+  "place": "Khakassia, southern Siberia, Russia",
+  "lat": 53.7,
+  "lng": 91,
+  "text": "About 2,500 years ago in Siberia's Khakassia region, people of the Tagar culture laid a man and a woman in one tomb, both armed with bronze daggers and axes. Tagar women's graves more often hold bows and arrows, so her close-combat weapons stand out and may mark her as a skilled fighter. The tomb also held an elderly woman, perhaps a servant, and an infant.",
+  "source": {
+   "name": "Archaeology Magazine: Around the World, Russia (January/February 2021)",
+   "url": "https://archaeology.org/issues/january-february-2021/world/?location=atw-russia-3"
+  }
+ },
+ {
+  "id": "u05-pamir-boundary-commission",
+  "era": "industrial",
+  "year": 1895,
+  "dateLabel": "1895",
+  "cat": "power",
+  "title": "Drawing a Border on the Roof of the World",
+  "place": "Little Pamir, Wakhan Corridor, Badakhshan, Afghanistan",
+  "lat": 37.3,
+  "lng": 73.9,
+  "text": "On 22 July 1895, British officers who had trekked a month from India met a Russian party with mounted Cossacks beside a lake in the Pamirs, in Afghanistan's Wakhan corridor. Afghan delegates joined days later. Over about two months they marked roughly ninety miles of border. The lake became 'Lake Victoria' and a range the 'Nicholas Range'; local names were not considered important.",
+  "source": {
+   "name": "University of Exeter Special Collections: The Pamir Commission (EUL MS 152)",
+   "url": "https://specialcollections.exeter.ac.uk/2025/11/21/the-pamir-commission-eul-ms-152/"
+  }
+ },
+ {
+  "id": "u05-bukhara-cesspit-seeds",
+  "era": "medieval",
+  "year": 950,
+  "dateLabel": "10th century",
+  "cat": "daily",
+  "title": "What Samanid Bukhara Threw Away",
+  "place": "Inner city (shahristan), Bukhara, Uzbekistan",
+  "lat": 39.77,
+  "lng": 64.4,
+  "text": "Just outside Bukhara's early inner-city wall, archaeologists found nearly forty refuse wells and cesspits filled in the 10th century, when the city was the Samanid capital. Sifting them yielded 358,883 seeds and fruit parts, the richest plant haul yet from Central Asia. Mineral-preserved remains show townspeople ate figs, grapes, melons, watermelon and rice, and seasoned food with tangy sumac.",
+  "source": {
+   "name": "Archaeological and Anthropological Sciences (PMC): Food globalization in southern Central Asia: archaeobotany at Bukhara between antiquity and the Middle Ages",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10361866/"
+  }
+ },
+ {
+  "id": "u05-koken-oldest-kazakhs",
+  "era": "ancient",
+  "year": -5350,
+  "dateLabel": "About 5350 BCE",
+  "cat": "discovery",
+  "title": "Kazakhstan's Oldest Known People",
+  "place": "Koken, Upper Irtysh region, Abai Region, Kazakhstan",
+  "lat": 49.9,
+  "lng": 81.5,
+  "text": "At Koken, near the Altai foothills in eastern Kazakhstan, two hunter-gatherers were buried in the sixth millennium BCE. They are the oldest human remains yet found in the country. DNA showed they were second-degree relatives, perhaps uncle and nephew or half-brothers, yet their ancestry differed noticeably. Thousands of years later, Bronze Age herders used the same spot for more than 70 burials.",
+  "source": {
+   "name": "Science Advances (PMC): Ancient genomes from eastern Kazakhstan reveal dynamic genetic legacy of Inner Eurasian hunter-gatherers",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12526762/"
+  }
+ },
+ {
+  "id": "u05-kurteke-pamir-rockshelter",
+  "era": "iceage",
+  "year": -8000,
+  "dateLabel": "About 8000 BCE",
+  "cat": "journeys",
+  "title": "A Campfire at Almost 4,000 Metres",
+  "place": "Kurteke Rockshelter, near Murghab, Eastern Pamir, Tajikistan",
+  "lat": 37.99,
+  "lng": 74.43,
+  "text": "High on the dry Eastern Pamir plateau, at 3,980 metres, a small rockshelter 40 kilometres from Murghab held a single ancient fireplace. Charred plants from it date to around 8000 BCE. Few tools or bones were left, so people probably visited only now and then, perhaps following herds, sharing stone-tool styles with groups in the Fergana foothills far below.",
+  "source": {
+   "name": "iScience (PMC): Archaeobotanical investigations at high-elevation sites of the Pamir Mountains and Fergana foothills",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12775865/"
+  }
+ },
+ {
+  "id": "u05-yakutia-tea-and-tobacco",
+  "era": "industrial",
+  "year": 1800,
+  "dateLabel": "1800s",
+  "cat": "daily",
+  "title": "Tea and Tobacco in Frozen Hair",
+  "place": "Central Yakutia, Sakha Republic, Russia",
+  "lat": 62,
+  "lng": 132,
+  "text": "Hair from 47 frozen Yakut burials, dating from first Russian contact around 1620 to the late 1800s, still held traces of nicotine and caffeine. Soon after contact a few people were already heavy smokers. Tea took longer: heavy tea drinkers appear only in the 19th century, as trade grew. One grave even held an English teapot, the oldest imported teapot found in the north.",
+  "source": {
+   "name": "Biology (PMC): At the Origins of Tobacco-Smoking and Tea Consumption in a Virgin Population (Yakutia, 1650-1900 A.D.)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8698326/"
+  }
+ },
+ {
+  "id": "u05-steppe-fires-after-ussr",
+  "era": "modern",
+  "year": 2000,
+  "dateLabel": "1990s",
+  "cat": "nature",
+  "title": "When the Herds Vanished, the Steppe Burned",
+  "place": "Northern Kazakh steppe, Kazakhstan",
+  "lat": 52,
+  "lng": 69,
+  "text": "After the Soviet Union broke up in 1991, state farms crumbled and livestock herds collapsed. By around 2000, at least 20 million hectares of Kazakh cropland had been abandoned, and poaching cut saiga numbers from over a million to about 30,000. With nothing grazing, grass piled up. Across northern Kazakhstan the burned area grew sevenfold and the number of fires eightfold between 1990 and 2000.",
+  "source": {
+   "name": "Philosophical Transactions of the Royal Society B (PMC): Collapse and recovery of livestock systems shape fire regimes on the Eurasian steppe",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12004101/"
+  }
+ },
+ {
+  "id": "u05-denisova-ivory-lion",
+  "era": "early",
+  "year": -43000,
+  "dateLabel": "About 43,000 years ago",
+  "cat": "culture",
+  "title": "A Tiny Ivory Lion in Denisova Cave",
+  "place": "Denisova Cave, Altai Krai, Russia",
+  "lat": 51.4,
+  "lng": 84.68,
+  "text": "Deep in Denisova Cave in the Altai, excavators found a cave lion carved from woolly mammoth tusk, only about 4 centimetres long, dated to roughly 45,000 to 40,000 years ago. It was once painted with red ochre and decorated with cut lines, and may be among the oldest animal figurines anywhere. Nobody yet knows whether modern humans or an extinct kind of human carved it.",
+  "source": {
+   "name": "Archaeology Magazine: Around the World, Russia (March/April 2020)",
+   "url": "https://archaeology.org/issues/march-april-2020/world/?location=atw-russia-2"
+  }
+ }
+]

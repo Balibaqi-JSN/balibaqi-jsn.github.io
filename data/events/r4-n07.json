@@ -1,0 +1,362 @@
+[
+ {
+  "id": "n07-cannons-at-chaldiran",
+  "era": "exploration",
+  "year": 1514,
+  "dateLabel": "August 23, 1514",
+  "cat": "power",
+  "title": "Cannons Beat Cavalry at Chaldiran",
+  "place": "Chaldiran, West Azerbaijan, Iran",
+  "lat": 39.07,
+  "lng": 44.38,
+  "text": "Sultan Selim I marched an army of more than 100,000 into Iran to face Shah Ismail I. The Ottomans had heavy cannon and musket-armed Janissaries; the Safavids relied on cavalry charges and had no artillery. The Safavid army was routed, Tabriz was taken, and the frontier that followed still shapes the border between Turkey and Iran.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Battle of Chaldiran",
+   "url": "https://www.britannica.com/event/Battle-of-Chaldiran"
+  }
+ },
+ {
+  "id": "n07-suleymans-jerusalem-walls",
+  "era": "exploration",
+  "year": 1538,
+  "dateLabel": "1538–40",
+  "cat": "culture",
+  "title": "Süleyman Rings Jerusalem With Walls",
+  "place": "Old City, Jerusalem",
+  "lat": 31.78,
+  "lng": 35.23,
+  "text": "The walls that still wrap around Jerusalem's Old City were put up in 1538–40 by the Ottoman sultan Süleyman the Magnificent, mostly on the foundations of older Crusader-era walls. Today people walk in through gates such as the Jaffa and Damascus gates. The Golden Gate stays sealed, because Jewish legend says the messiah will enter through it.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Old City of Jerusalem",
+   "url": "https://www.britannica.com/place/Old-City-of-Jerusalem"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Wall of Süleyman",
+   "url": "https://www.britannica.com/place/Wall-of-Suleyman"
+  }
+ },
+ {
+  "id": "n07-istanbul-first-coffeehouses",
+  "era": "exploration",
+  "year": 1554,
+  "dateLabel": "About 1554–55",
+  "cat": "daily",
+  "title": "Istanbul's First Coffeehouses",
+  "place": "Tahtakale, Istanbul, Turkey",
+  "lat": 41.02,
+  "lng": 28.97,
+  "text": "Around 1554–55, Hakim from Aleppo and Shams from Damascus arrived in Istanbul and each opened a large shop in the Tahtakale district serving coffee. Their coffeehouses became meeting places where groups of twenty or thirty gathered to read books or play tric-trac and chess. Shams seems to have gone home to Syria after three years, with a profit of 5,000 gold pieces.",
+  "source": {
+   "name": "Robert Mantran, 'Le café à Istanbul au XVIIe siècle', in Le café en Méditerranée (IREMAM, OpenEdition Books)",
+   "url": "https://books.openedition.org/iremam/1193"
+  }
+ },
+ {
+  "id": "n07-roxelana-hurrem",
+  "era": "exploration",
+  "year": 1558,
+  "dateLabel": "Died April 1558",
+  "cat": "culture",
+  "title": "From Captive to Sultan's Wife",
+  "place": "Istanbul, Turkey",
+  "lat": 41.01,
+  "lng": 28.95,
+  "text": "Captured as a girl by Crimean Tatar raiders and sold in a Constantinople slave market, Hürrem, known in Europe as Roxelana, entered Süleyman the Magnificent's harem. Unusually, the sultan freed and married her. The pair wrote poetry to each other, she wrote to the king of Poland, and she commissioned buildings from the architect Sinan. She died in April 1558.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Robert Lewis): Roxelana",
+   "url": "https://www.britannica.com/biography/Roxelana"
+  }
+ },
+ {
+  "id": "n07-murad-iv-baghdad",
+  "era": "exploration",
+  "year": 1638,
+  "dateLabel": "1638",
+  "cat": "power",
+  "title": "The Boy Sultan Retakes Baghdad",
+  "place": "Baghdad, Iraq",
+  "lat": 33.31,
+  "lng": 44.37,
+  "text": "Murad IV became Ottoman sultan at age 11 and at first ruled through his mother, Kösem, as regent. Once in full control, he crushed mutinous troops, banned tobacco and closed coffeehouses and wineshops. Taking personal command in the war against Iran, he reconquered Baghdad in 1638 after a siege that ended in a massacre of soldiers and citizens alike.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Murad IV",
+   "url": "https://www.britannica.com/biography/Murad-IV"
+  }
+ },
+ {
+  "id": "n07-niebuhr-arabia-expedition",
+  "era": "exploration",
+  "year": 1763,
+  "dateLabel": "1763",
+  "cat": "journeys",
+  "title": "The Last Man of the Arabia Expedition",
+  "place": "Sanaa, Yemen",
+  "lat": 15.35,
+  "lng": 44.21,
+  "text": "King Frederick V of Denmark sent out the first scientific expedition to Arabia, with surveyor Carsten Niebuhr among its members. The party visited the Nile, Mount Sinai and Jidda, then went overland to Mocha. In 1763 the expedition's philologist and naturalist died, and the rest visited Sanaa, Yemen's capital. Niebuhr ended up the sole survivor and wrote 'Description of Arabia' (1772).",
+  "source": {
+   "name": "Encyclopaedia Britannica: Carsten Niebuhr",
+   "url": "https://www.britannica.com/biography/Carsten-Niebuhr"
+  }
+ },
+ {
+  "id": "n07-karim-khan-shiraz",
+  "era": "exploration",
+  "year": 1765,
+  "dateLabel": "July 21, 1765",
+  "cat": "power",
+  "title": "The Ruler Who Refused to Be Shah",
+  "place": "Shiraz, Fars, Iran",
+  "lat": 29.62,
+  "lng": 52.53,
+  "text": "Karim Khan Zand re-entered his capital, Shiraz, and stayed there for the rest of his life. Defying everyone's expectations, he refused the title of shah. He kept the title wakil instead, reinterpreting it as 'deputy of the subjects' or 'people's deputy'. That same year he allowed the East India Company to set up a trading post at Bushehr.",
+  "source": {
+   "name": "Encyclopaedia Iranica: Karim Khan Zand",
+   "url": "https://www.iranicaonline.org/articles/karim-khan-zand/"
+  }
+ },
+ {
+  "id": "n07-fall-of-diriyah",
+  "era": "industrial",
+  "year": 1818,
+  "dateLabel": "April–September 1818",
+  "cat": "power",
+  "title": "The Siege of Al-Diriyah",
+  "place": "Diriyah, Riyadh Province, Saudi Arabia",
+  "lat": 24.73,
+  "lng": 46.57,
+  "text": "After Wahhabi forces seized Karbala and Mecca, the Ottoman sultan asked Egypt's ruler Muhammad Ali to crush them. His son Ibrahim Pasha won over Arabian tribes with diplomacy and lavish gifts, then reached the Wahhabi capital, Al-Diriyah, in April 1818. After six months of fighting, Abd Allah I surrendered and was beheaded in Constantinople. Al-Diriyah was razed to the ground.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Battle of Al-Dir'iyyah",
+   "url": "https://www.britannica.com/event/Battle-of-Al-Diriyyah"
+  }
+ },
+ {
+  "id": "n07-janissaries-abolished",
+  "era": "industrial",
+  "year": 1826,
+  "dateLabel": "June 1826",
+  "cat": "power",
+  "title": "The End of the Janissaries",
+  "place": "Istanbul, Turkey",
+  "lat": 41.01,
+  "lng": 28.96,
+  "text": "For centuries the Janissaries were the Ottoman sultan's elite soldiers, and they often toppled sultans who crossed them. In June 1826 they revolted again when they learned that Sultan Mahmud II was forming new, Western-style troops. Mahmud had cannon fired on their barracks. Most Janissaries were killed, and the event became known as the Auspicious Incident.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Janissary",
+   "url": "https://www.britannica.com/topic/Janissary"
+  }
+ },
+ {
+  "id": "n07-oman-us-treaty",
+  "era": "industrial",
+  "year": 1833,
+  "dateLabel": "September 21, 1833",
+  "cat": "journeys",
+  "title": "America's First Handshake in Arabia",
+  "place": "Muscat, Oman",
+  "lat": 23.61,
+  "lng": 58.59,
+  "text": "At Muscat, American special agent Edmund Roberts and Seyed Syeed bin Sultan of Muscat signed a treaty of Amity and Commerce. It was the first formal act of recognition between the United States and Oman, and these dealings were some of America's earliest official contacts with the Middle East. A U.S. consulate opened in Muscat in 1880.",
+  "source": {
+   "name": "U.S. Department of State, Office of the Historian: Oman",
+   "url": "https://history.state.gov/countries/oman"
+  }
+ },
+ {
+  "id": "n07-the-bab-in-shiraz",
+  "era": "industrial",
+  "year": 1844,
+  "dateLabel": "May 23, 1844",
+  "cat": "culture",
+  "title": "A Merchant's Son Becomes the Bab",
+  "place": "Shiraz, Fars, Iran",
+  "lat": 29.61,
+  "lng": 52.54,
+  "text": "In Shiraz, a merchant's son named Ali Mohammad wrote and chanted a commentary on the Quran's chapter of Joseph, then declared himself the Bab, or Gateway. He gathered 18 disciples who carried his message across Persia. Religious scholars decided he was dangerous, and he was executed in Tabriz in 1850, but his movement gave rise to the Babi religion.",
+  "source": {
+   "name": "Encyclopaedia Britannica: The Bab",
+   "url": "https://www.britannica.com/biography/the-Bab"
+  }
+ },
+ {
+  "id": "n07-amir-kabir",
+  "era": "industrial",
+  "year": 1852,
+  "dateLabel": "January 9, 1852",
+  "cat": "power",
+  "title": "The Reformer Who Fell From Favour",
+  "place": "Kashan, Isfahan Province, Iran",
+  "lat": 33.98,
+  "lng": 51.44,
+  "text": "From humble beginnings, Mirza Taqi Khan rose from scribe to chief minister of Iran, taking the title Amir Kabir. He slashed spending, built Tehran's bazaar, founded the Dar al-Fonun college and banned overly ornate writing in government papers. Nobles and the queen mother turned the young shah against him, and he was exiled to Kashan and murdered there on the shah's orders.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Mirza Taqi Khan",
+   "url": "https://www.britannica.com/biography/Mirza-Taqi-Khan"
+  }
+ },
+ {
+  "id": "n07-lady-with-the-lamp",
+  "era": "industrial",
+  "year": 1854,
+  "dateLabel": "November 3, 1854",
+  "cat": "daily",
+  "title": "The Lady with the Lamp",
+  "place": "Üsküdar (Scutari), Istanbul, Turkey",
+  "lat": 41,
+  "lng": 29.02,
+  "text": "During the Crimean War, Florence Nightingale and her nurses reached Constantinople and found the army hospital at nearby Scutari dirty, full of vermin and short of basic supplies. They ran food kitchens, washed linen, wrote soldiers' letters home and set up reading rooms. Walking among the beds at night with a light, she earned the nickname 'the Lady with the Lamp'.",
+  "source": {
+   "name": "National Army Museum: Florence Nightingale, the Lady with the Lamp",
+   "url": "https://www.nam.ac.uk/explore/florence-nightingale-lady-lamp"
+  }
+ },
+ {
+  "id": "n07-first-ottoman-parliament",
+  "era": "industrial",
+  "year": 1877,
+  "dateLabel": "March 1877",
+  "cat": "power",
+  "title": "The Sultan's First Parliament",
+  "place": "Istanbul, Turkey",
+  "lat": 41.01,
+  "lng": 28.98,
+  "text": "The Ottoman constitution of December 1876 was the first full constitution in any Islamic country apart from a Tunisian law of 1861. It created a two-chamber Parliament, which met in March 1877. Sultan Abdulhamid II kept most of the power, though: the Parliament was dissolved in less than a year and was not called back until 1908.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Ottoman Empire, The 1875-78 crisis",
+   "url": "https://www.britannica.com/place/Ottoman-Empire/The-1875-78-crisis"
+  }
+ },
+ {
+  "id": "n07-ikhwan-hijrahs",
+  "era": "industrial",
+  "year": 1912,
+  "dateLabel": "1912",
+  "cat": "daily",
+  "title": "Nomads Settle in Desert Colonies",
+  "place": "Najd, central Arabia, Saudi Arabia",
+  "lat": 25.5,
+  "lng": 45,
+  "text": "Ibn Saud began organizing the Ikhwan, a religious and military brotherhood, in 1912. To break old tribal loyalties, Bedouin were settled in oasis colonies called hijrahs, which offered homes, mosques, schools, farm tools and training, and arms. Some hijrahs held 10 people, others 10,000. The colonies pushed Bedouin to abandon nomadic life, and by 1918 the Ikhwan were ready for Ibn Saud's elite army.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Ikhwan",
+   "url": "https://www.britannica.com/topic/Ikhwan"
+  }
+ },
+ {
+  "id": "n07-faisal-crowned-iraq",
+  "era": "modern",
+  "year": 1921,
+  "dateLabel": "August 1921",
+  "cat": "power",
+  "title": "A King Without a Kingdom Finds One",
+  "place": "Baghdad, Iraq",
+  "lat": 33.34,
+  "lng": 44.4,
+  "text": "Faisal, son of the sharif of Mecca, was declared king of Syria in 1918, but was forced into exile when France occupied Damascus in July 1920. In March 1921 Britain decided to sponsor him as king of Iraq instead. He was enthusiastically welcomed and crowned in August 1921, and later negotiated Iraq's full independence and League of Nations membership by 1932.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Faisal I",
+   "url": "https://www.britannica.com/biography/Faisal-I"
+  }
+ },
+ {
+  "id": "n07-lebanon-cedar-flag",
+  "era": "modern",
+  "year": 1943,
+  "dateLabel": "November 22, 1943",
+  "cat": "culture",
+  "title": "The Cedar Flag of Independence",
+  "place": "Beirut, Lebanon",
+  "lat": 33.89,
+  "lng": 35.5,
+  "text": "When Lebanon's new government stripped French influence from the constitution, the French arrested the president and almost the whole government on November 11, 1943. An insurrection and British diplomatic intervention made France back down, and independence was proclaimed on November 22. A new flag dropped the French Tricolour but kept the green cedar, a biblical symbol of strength and wealth.",
+  "source": {
+   "name": "Encyclopaedia Britannica (Barnett and Ochsenwald): History of Lebanon",
+   "url": "https://www.britannica.com/topic/history-of-Lebanon/Lebanon-in-the-Middle-Ages"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica (Whitney Smith): Flag of Lebanon",
+   "url": "https://www.britannica.com/topic/flag-of-Lebanon"
+  }
+ },
+ {
+  "id": "n07-dasht-e-bayaz-earthquake",
+  "era": "modern",
+  "year": 1968,
+  "dateLabel": "August 31, 1968",
+  "cat": "nature",
+  "title": "The Ground Splits in Khorasan",
+  "place": "Dasht-e Bayaz, Khorasan, Iran",
+  "lat": 34.07,
+  "lng": 58.82,
+  "text": "A magnitude 7.7 earthquake struck Khorasan province, causing severe damage over 20,000 square kilometres. An estimated 12,000 to 14,000 people were killed. In the village of Dasht-e Bayaz all buildings were levelled, including a mosque thought to be 800 years old. A field study afterwards uncovered a major fault rupture in the ground.",
+  "source": {
+   "name": "Nature (M. Niazi, 1968): Fault Rupture in the Iranian (Dasht-e-bayaz) Earthquake of August 1968",
+   "url": "https://www.nature.com/articles/220569a0"
+  }
+ },
+ {
+  "id": "n07-cyclone-gonu",
+  "era": "modern",
+  "year": 2007,
+  "dateLabel": "June 2007",
+  "cat": "nature",
+  "title": "A Super Cyclone Heads for Arabia",
+  "place": "Gulf of Oman coast, near Muscat, Oman",
+  "lat": 23,
+  "lng": 59.2,
+  "text": "Cyclones in the Arabian Sea rarely grow beyond tropical-storm strength, but Gonu became a Category 5 storm with sustained winds of 255 kilometres per hour. That made it the most powerful cyclone to threaten the Arabian Peninsula since record keeping began in 1945. It weakened as it neared Oman, its centre staying just offshore, then turned north toward Iran.",
+  "source": {
+   "name": "NASA Earth Observatory: Tropical Cyclone Gonu",
+   "url": "https://science.nasa.gov/earth/earth-observatory/tropical-cyclone-gonu-18444/"
+  }
+ },
+ {
+  "id": "n07-louvre-abu-dhabi",
+  "era": "modern",
+  "year": 2017,
+  "dateLabel": "November 11, 2017",
+  "cat": "culture",
+  "title": "A Rain of Light in Abu Dhabi",
+  "place": "Saadiyat Island, Abu Dhabi, United Arab Emirates",
+  "lat": 24.53,
+  "lng": 54.4,
+  "text": "Louvre Abu Dhabi, born of a 2007 agreement between the governments of Abu Dhabi and France, opened its doors to the public. Architect Jean Nouvel designed a 'museum city' under a 180-metre dome made of almost 8,000 unique metal stars. When sunlight filters through, it creates a moving 'rain of light' beneath the dome.",
+  "source": {
+   "name": "Louvre press office: Louvre Abu Dhabi to welcome visitors from November",
+   "url": "https://presse.louvre.fr/?p=8341"
+  }
+ },
+ {
+  "id": "n07-khaybar-bronze-age-town",
+  "era": "modern",
+  "year": 2024,
+  "dateLabel": "October 30, 2024",
+  "cat": "discovery",
+  "title": "A Lost Town in the Khaybar Oasis",
+  "place": "al-Natah, Khaybar, Saudi Arabia",
+  "lat": 25.7,
+  "lng": 39.29,
+  "text": "Archaeologists described al-Natah, a fortified Bronze Age town in the Khaybar oasis built around 2400–2000 BCE. It had about 50 houses built to a standard plan and linked by small streets, a necropolis of tower-tombs, and perhaps 500 residents. Tombs held metal weapons, including an axe and a bronze dagger, and a 14.5-kilometre rampart surrounded the oasis.",
+  "source": {
+   "name": "PLOS ONE (Charloux et al., 2024): A Bronze Age town in the Khaybar walled oasis",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309963"
+  }
+ },
+ {
+  "id": "n07-qaboos-takes-oman",
+  "era": "modern",
+  "year": 1970,
+  "dateLabel": "1970",
+  "cat": "power",
+  "title": "A Prisoner Prince Becomes Sultan",
+  "place": "Salalah, Dhofar, Oman",
+  "lat": 17.02,
+  "lng": 54.09,
+  "text": "Qaboos bin Said, born in Salalah and trained at Sandhurst in England, was kept a virtual prisoner by his father for six years. In 1970 he took over the palace in a coup and sent his father into exile. He quickly began building roads, hospitals, schools and ports, and ruled as sultan until his death in 2020.",
+  "source": {
+   "name": "Encyclopaedia Britannica: Qaboos bin Said",
+   "url": "https://www.britannica.com/biography/Qaboos-bin-Said"
+  }
+ }
+]

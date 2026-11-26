@@ -1,0 +1,1038 @@
+[
+ {
+  "id": "eh-e-bose-hand-axes",
+  "era": "early",
+  "year": -803000,
+  "dateLabel": "About 800,000 years ago",
+  "emoji": "🪨",
+  "cat": "discovery",
+  "title": "East Asia's Oldest Hand Axes",
+  "place": "Bose Basin, Guangxi, China",
+  "lat": 23.9,
+  "lng": 106.62,
+  "text": "In the Bose Basin of southern China, archaeologists found big cutting tools, including hand axes, much like those being made in Africa and western Eurasia at the same time. They lie with tektites, glassy droplets that rained from the sky, dated to about 803,000 years ago. When reported in 2000 they were the oldest known large cutting tools in East Asia.",
+  "collections": [
+   "inventions",
+   "ancestors"
+  ],
+  "source": {
+   "name": "Hou et al. 2000, Science (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/10698732/"
+  }
+ },
+ {
+  "id": "eh-e-kalinga-rhino",
+  "era": "early",
+  "year": -709000,
+  "dateLabel": "About 709,000 years ago",
+  "emoji": "🦏",
+  "cat": "discovery",
+  "title": "Someone Butchered a Rhino in Luzon",
+  "place": "Rizal, Kalinga, Philippines",
+  "lat": 17.6,
+  "lng": 121.6,
+  "text": "In 2018, archaeologists reported 57 stone tools lying with the nearly complete skeleton of an extinct Philippine rhinoceros that showed clear signs of butchery. It pushed the first known human relatives in the Philippines back to about 709,000 years ago. Nobody knows which kind of human it was, but they must have crossed the sea to get there.",
+  "collections": [
+   "lost-and-found",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Ingicco et al. 2018, Nature 557:233-237",
+   "url": "https://www.nature.com/articles/s41586-018-0072-8"
+  }
+ },
+ {
+  "id": "eh-e-mata-menge",
+  "era": "early",
+  "year": -700000,
+  "dateLabel": "About 700,000 years ago",
+  "emoji": "🦷",
+  "cat": "discovery",
+  "title": "The Hobbits' Great-Grandparents",
+  "place": "Mata Menge, Flores, Indonesia",
+  "lat": -8.65,
+  "lng": 121.1,
+  "text": "At Mata Menge, in the So'a Basin on the island of Flores, diggers in 2014 found a piece of jaw and six teeth about 700,000 years old, the oldest human fossils on the island. They lay among simple stone tools and the bones of island animals. The jaw and teeth are tiny, and scientists think these people were ancestors of the famous 'hobbits' who lived on Flores much later.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "van den Bergh et al. 2016, Nature 534:245-248",
+   "url": "https://www.nature.com/articles/nature17999"
+  },
+  "source2": {
+   "name": "Brumm et al. 2016, Nature (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27279222/"
+  }
+ },
+ {
+  "id": "eh-e-peking-man-cave",
+  "era": "early",
+  "year": -770000,
+  "dateLabel": "About 770,000 years ago (lower layers)",
+  "emoji": "🔥",
+  "cat": "daily",
+  "title": "Life in Peking Man's Cave",
+  "place": "Zhoukoudian, Beijing, China",
+  "lat": 39.69,
+  "lng": 115.93,
+  "text": "Homo erectus, nicknamed Peking Man, lived at the Zhoukoudian caves near Beijing; the lower tool-bearing layers are about 770,000 years old. Burned bones there were long hailed as the oldest proof that humans tamed fire. But a 1998 study found burned bones beside stone tools and no ash or charcoal at all, so whether Peking Man really kept fires here is debated.",
+  "collections": [
+   "ancestors",
+   "inventions"
+  ],
+  "source": {
+   "name": "Shen et al. 2009, Nature (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/19279636/"
+  },
+  "source2": {
+   "name": "Weiner et al. 1998, Science (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9657718/"
+  }
+ },
+ {
+  "id": "eh-e-nanjing-man",
+  "era": "early",
+  "year": -580000,
+  "dateLabel": "Middle Pleistocene (often given as about 580,000 years ago)",
+  "emoji": "💀",
+  "cat": "discovery",
+  "title": "The Nanjing Skull",
+  "place": "Tangshan, Nanjing, China",
+  "lat": 32.05,
+  "lng": 119.05,
+  "text": "A broken skull known as Nanjing 1 was recovered at Tangshan, in the hills near Nanjing. It belonged to a Homo erectus who lived in the Middle Pleistocene, hundreds of thousands of years ago. It shares typical features with Homo erectus fossils from Africa and Europe, yet differs from Peking Man, hinting at regional variety among China's early humans.",
+  "collections": [
+   "ancestors",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Liu et al. 2005, American Journal of Physical Anthropology (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/15584056/"
+  }
+ },
+ {
+  "id": "eh-e-trinil-shell",
+  "era": "early",
+  "year": -500000,
+  "dateLabel": "About 500,000 years ago",
+  "emoji": "🐚",
+  "cat": "culture",
+  "title": "A Zigzag Doodle on a Shell",
+  "place": "Trinil, East Java, Indonesia",
+  "lat": -7.37,
+  "lng": 111.36,
+  "text": "A freshwater mussel shell from Trinil, the site where Java Man was found, carries a neat zigzag pattern scratched into it. Researchers think Homo erectus made it between about 540,000 and 430,000 years ago. That is far older than any other known geometric engraving, though nobody can say whether it meant anything.",
+  "collections": [
+   "masterpieces",
+   "ancestors"
+  ],
+  "source": {
+   "name": "Joordens et al. 2015, Nature 518:228-231",
+   "url": "https://www.nature.com/articles/nature13962"
+  }
+ },
+ {
+  "id": "eh-e-hexian-man",
+  "era": "early",
+  "year": -412000,
+  "dateLabel": "About 412,000 years ago",
+  "emoji": "🦴",
+  "cat": "discovery",
+  "title": "Hexian Man of Longtan Cave",
+  "place": "Longtan Cave, He County, Anhui, China",
+  "lat": 31.7,
+  "lng": 118.35,
+  "text": "During 1980 and 1981, Chinese scientists dug into Longtan Cave in Hexian, just north of the Yangtze River, and found a nearly complete early human skullcap, part of a lower jaw and loose teeth. The fossils are dated to about 412,000 years ago. Oddly, the teeth look more primitive than those of Peking Man.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Xing et al. 2014, PLOS ONE 9(12): e114265",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4281145/"
+  }
+ },
+ {
+  "id": "eh-e-attirampakkam",
+  "era": "early",
+  "year": -385000,
+  "dateLabel": "About 385,000 years ago",
+  "emoji": "🔪",
+  "cat": "discovery",
+  "title": "A Smarter Way to Make Stone Tools",
+  "place": "Attirampakkam, Tamil Nadu, India",
+  "lat": 13.23,
+  "lng": 79.88,
+  "text": "At Attirampakkam in southern India, around 385,000 years ago, give or take 64,000, toolmakers moved away from big hand axes to smaller tools made with the Levallois technique: shaping a stone core first, then striking off a ready-made flake or point. That is much earlier than experts expected for South Asia, and the new style lasted there until about 172,000 years ago.",
+  "collections": [
+   "inventions"
+  ],
+  "source": {
+   "name": "Akhilesh et al. 2018, Nature 554:97-101",
+   "url": "https://www.nature.com/articles/nature25444"
+  }
+ },
+ {
+  "id": "eh-e-gantangqing-wood",
+  "era": "early",
+  "year": -305000,
+  "dateLabel": "About 360,000–250,000 years ago",
+  "emoji": "🪵",
+  "cat": "daily",
+  "title": "Digging Sticks 300,000 Years Old",
+  "place": "Gantangqing, Yunnan, China",
+  "lat": 24.3,
+  "lng": 102.75,
+  "text": "Wood almost never survives this long, but at Gantangqing in south-west China archaeologists found 35 wooden tools between about 361,000 and 250,000 years old. They came with stone tools, antler hammers and cut-marked bones. Many are digging sticks and small pointed hand tools, showing how much these early people relied on wood.",
+  "collections": [
+   "inventions",
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Liu et al. 2025, Science (abstract via PubMed)",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40608932/"
+  }
+ },
+ {
+  "id": "eh-e-hualong-cave",
+  "era": "early",
+  "year": -300000,
+  "dateLabel": "About 300,000 years ago",
+  "emoji": "🐼",
+  "cat": "discovery",
+  "title": "The Cave People of Hualongdong",
+  "place": "Hualong Cave, Dongzhi, Anhui, China",
+  "lat": 30.1,
+  "lng": 117.0,
+  "text": "Hualong Cave, in the hills of Anhui, was discovered in 2005, and a first dig in 2006 found a piece of human skull and a tooth. Digs from 2014 to 2019 added more than 30 human fossils about 300,000 years old, including a nearly complete skull, plus stone tools. Animal bones show these people shared their world with giant pandas and Stegodon, an extinct elephant relative.",
+  "collections": [
+   "ancestors",
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Acta Anthropologica Sinica (IVPP, Chinese Academy of Sciences)",
+   "url": "https://www.anthropol.ac.cn/EN/10.16359/j.1000-3193/AAS.2022.0022"
+  },
+  "source2": {
+   "name": "PNAS (Wu et al. 2019)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6525539/"
+  }
+ },
+ {
+  "id": "eh-e-jinniushan",
+  "era": "early",
+  "year": -260000,
+  "dateLabel": "About 260,000 years ago",
+  "emoji": "💪",
+  "cat": "discovery",
+  "title": "The Big Woman of Golden Ox Hill",
+  "place": "Jinniushan, Yingkou, Liaoning, China",
+  "lat": 40.58,
+  "lng": 122.45,
+  "text": "In 1984 a Peking University team found human bones in a collapsed cave at Jinniushan, 'Golden Ox Mountain'. First thought to be a man, the skeleton turned out to be a woman who lived about 260,000 years ago. At an estimated 78.6 kg, she is the largest female human fossil ever found.",
+  "collections": [
+   "ancestors",
+   "remarkable-women"
+  ],
+  "source": {
+   "name": "PNAS (Rosenberg, Lü & Ruff 2006)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1450121/"
+  }
+ },
+ {
+  "id": "eh-e-dali-man",
+  "era": "early",
+  "year": -259000,
+  "dateLabel": "Perhaps about 260,000 years ago (debated)",
+  "emoji": "🧠",
+  "cat": "discovery",
+  "title": "Dali Man's Puzzle Face",
+  "place": "Dali County, Shaanxi, China",
+  "lat": 34.8,
+  "lng": 109.9,
+  "text": "Found in 1978 in loess deposits in Shaanxi, the Dali skull is a nearly complete human cranium from China's Middle Pleistocene. It mixes old Homo erectus traits, like a low skull, with a bigger brain and a more modern-looking face. A 2017 study found it closest to the earliest Homo sapiens, though scientists have not agreed which species it belongs to.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "American Journal of Physical Anthropology (Wu & Athreya 2013), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/23283667/"
+  },
+  "source2": {
+   "name": "American Journal of Physical Anthropology (Athreya & Wu 2017), abstract via CARTA/UC San Diego",
+   "url": "https://carta.anthropogeny.org/libraries/bibliography/multivariate-assessment-dali-hominin-cranium-china-morphological-affinities"
+  }
+ },
+ {
+  "id": "eh-e-gigantopithecus-end",
+  "era": "early",
+  "year": -215000,
+  "dateLabel": "About 295,000–215,000 years ago",
+  "emoji": "🦍",
+  "cat": "nature",
+  "title": "Goodbye, Giant Ape",
+  "place": "Guangxi, China",
+  "lat": 23.5,
+  "lng": 107.5,
+  "text": "Gigantopithecus, the largest ape that ever lived and a relative of orangutans, lived in southern China from about two million years ago. Then, sometime between about 295,000 and 215,000 years ago, it vanished. A study of 22 caves suggests more seasonal weather changed the forests, and the giant ape could not adapt its diet the way orangutans did.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Nature (Zhang et al. 2024)",
+   "url": "https://www.nature.com/articles/s41586-023-06900-0"
+  }
+ },
+ {
+  "id": "eh-e-xujiayao",
+  "era": "early",
+  "year": -170000,
+  "dateLabel": "About 200,000–140,000 years ago",
+  "emoji": "🐎",
+  "cat": "nature",
+  "title": "Hunters of the Northern Steppe",
+  "place": "Xujiayao, Nihewan Basin, China",
+  "lat": 40.1,
+  "lng": 113.98,
+  "text": "By the Liyi River, a tributary of the Sanggan, Xujiayao has yielded archaic human fossils, tens of thousands of stone tools and about 5,000 animal fossils. The people here were skilled horse hunters, and woolly rhino teeth and ostrich eggshells point to a cold, open landscape. The fossils date to roughly 199,000 to 138,000 years ago, and proteins now link them to Denisovans.",
+  "collections": [
+   "ancestors",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "PLOS ONE (Tu et al. 2015)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4338100/"
+  },
+  "source2": {
+   "name": "Nature (2026), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42907507/"
+  }
+ },
+ {
+  "id": "eh-e-xiahe-jaw",
+  "era": "early",
+  "year": -160000,
+  "dateLabel": "At least 160,000 years ago",
+  "emoji": "🏔️",
+  "cat": "discovery",
+  "title": "A Denisovan on the Roof of the World",
+  "place": "Baishiya Karst Cave, Xiahe, Gansu, China",
+  "lat": 35.45,
+  "lng": 102.57,
+  "text": "In 1980 a local monk found a strange jawbone in Baishiya Karst Cave, high on the Tibetan Plateau. Decades later, ancient proteins showed it belonged to a Denisovan who lived at least 160,000 years ago. Fittingly, people of the Himalayas today carry a gene for coping with thin air that was passed on to them by Denisovans.",
+  "collections": [
+   "ancestors",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Max Planck Society",
+   "url": "https://www.mpg.de/13386452/first-hominins-on-the-tibetan-plateau-were-denisovans"
+  }
+ },
+ {
+  "id": "eh-e-harbin-dragon-man",
+  "era": "early",
+  "year": -146000,
+  "dateLabel": "At least 146,000 years ago",
+  "emoji": "🐉",
+  "cat": "discovery",
+  "title": "Dragon Man of Harbin",
+  "place": "Harbin, Heilongjiang, China",
+  "lat": 45.78,
+  "lng": 126.6,
+  "text": "This skull was reportedly found in 1933 by workers building a bridge over the Songhua River in Harbin, and its history afterwards is long and confused. It is massive, larger than any other archaic human skull known, with a brain as big as ours. Named 'Dragon Man' in 2021, it was shown by protein tests in 2025 to be Denisovan.",
+  "collections": [
+   "ancestors",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "The Innovation (Shao et al. 2021)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8454624/"
+  },
+  "source2": {
+   "name": "Science (Fu et al. 2025), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/40531192/"
+  }
+ },
+ {
+  "id": "eh-e-callao-luzonensis",
+  "era": "early",
+  "year": -67000,
+  "dateLabel": "At least 67,000 years ago",
+  "emoji": "🦌",
+  "cat": "discovery",
+  "title": "The Little People of Luzon",
+  "place": "Callao Cave, Cagayan, Philippines",
+  "lat": 17.7,
+  "lng": 121.82,
+  "text": "In 2007 a small human foot bone turned up in Callao Cave on Luzon, dated to at least 67,000 years ago. Twelve more teeth and bones from at least three people followed, and in 2019 they were named a new species, Homo luzonensis. To reach Luzon at all, their ancestors must somehow have crossed open sea.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Nature (Détroit et al. 2019), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/30971845/"
+  },
+  "source2": {
+   "name": "Journal of Human Evolution (Mijares et al. 2010), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/20569967/"
+  }
+ },
+ {
+  "id": "eh-e-xuchang-man",
+  "era": "early",
+  "year": -115000,
+  "dateLabel": "About 125,000–105,000 years ago",
+  "emoji": "💧",
+  "cat": "discovery",
+  "title": "The Mosaic Skulls of Xuchang",
+  "place": "Lingjing, Xuchang, Henan, China",
+  "lat": 34.05,
+  "lng": 113.9,
+  "text": "At Lingjing, near Xuchang in central China, archaeologists pieced together two skulls about 105,000 to 125,000 years old. They are a puzzle: big-brained like other humans of their time, low and broad like earlier East Asian people, and with ear bones and a skull back like Neanderthals. They may record groups mixing across Eurasia.",
+  "collections": [
+   "ancestors",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Science (Li et al. 2017), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/28254945/"
+  }
+ },
+ {
+  "id": "eh-e-solo-man",
+  "era": "early",
+  "year": -112000,
+  "dateLabel": "About 117,000–108,000 years ago",
+  "emoji": "🌊",
+  "cat": "nature",
+  "title": "The Last of Homo Erectus",
+  "place": "Ngandong, Solo River, Java, Indonesia",
+  "lat": -7.29,
+  "lng": 111.6,
+  "text": "Beside Java's Solo River, digs between 1931 and 1933 found twelve skullcaps and two shin bones of Solo Man, the youngest and most advanced kind of Homo erectus. They date to about 117,000 to 108,000 years ago, the last known appearance of a species that had reached Java more than 1.5 million years earlier.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Nature (Rizal et al. 2020), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/31853068/"
+  }
+ },
+ {
+  "id": "eh-e-zhiren-cave",
+  "era": "early",
+  "year": -110000,
+  "dateLabel": "About 116,000–106,000 years ago",
+  "emoji": "🐘",
+  "cat": "discovery",
+  "title": "Early Moderns in Zhiren Cave",
+  "place": "Zhiren Cave, Chongzuo, Guangxi, China",
+  "lat": 22.3,
+  "lng": 107.5,
+  "text": "In 2007, in Zhiren Cave, scientists found two human teeth and the front of a jaw sealed under layers of flowstone. The chin looks modern, but the jaw is sturdy like older humans. The flowstone shows they are more than 100,000 years old. Their animal neighbours included Asian elephants, and a quarter of the large mammals found with them are now extinct.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "PNAS (Liu et al. 2010)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2984215/"
+  }
+ },
+ {
+  "id": "eh-e-narmada-human",
+  "era": "early",
+  "year": -105000,
+  "dateLabel": "Age very uncertain (Middle Pleistocene)",
+  "emoji": "🏞️",
+  "cat": "discovery",
+  "title": "The Narmada Skull",
+  "place": "Hathnora, Narmada Valley, Madhya Pradesh, India",
+  "lat": 22.87,
+  "lng": 77.85,
+  "text": "In 1982 a fossil human skullcap was found in the central Narmada valley of Madhya Pradesh. First named a kind of Homo erectus, 'Narmada Man' was later judged an early Homo sapiens with some features all its own. A very short, sturdy collarbone later turned up in the same deposit at Hathnora. The fossils' exact age remains uncertain.",
+  "collections": [
+   "ancestors",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "American Journal of Physical Anthropology (Kennedy et al. 1991), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/1776655/"
+  },
+  "source2": {
+   "name": "Journal of Human Evolution (Sankhyan 1997), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/9034953/"
+  }
+ },
+ {
+  "id": "eh-e-fuyan-teeth",
+  "era": "early",
+  "year": -100000,
+  "dateLabel": "About 120,000–80,000 years ago (debated)",
+  "emoji": "🦷",
+  "cat": "journeys",
+  "title": "Forty-Seven Teeth in Fuyan Cave",
+  "place": "Fuyan Cave, Daoxian, Hunan, China",
+  "lat": 25.65,
+  "lng": 111.48,
+  "text": "Fuyan Cave held 47 fully modern human teeth, first dated to more than 80,000 and at most 120,000 years old. That would make them some of the earliest Homo sapiens outside Africa. The date is strongly debated: a 2021 study using ancient DNA and radiocarbon argued that the teeth are far younger, from within the last 12,000 years.",
+  "collections": [
+   "great-voyages",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Nature (Liu et al. 2015), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/26466566/"
+  },
+  "source2": {
+   "name": "PNAS (Sun et al. 2021)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7923607/"
+  }
+ },
+ {
+  "id": "eh-e-denny",
+  "era": "early",
+  "year": -100000,
+  "dateLabel": "Between about 140,000 and 80,000 years ago",
+  "emoji": "🧬",
+  "cat": "discovery",
+  "title": "Denny, Daughter of Two Peoples",
+  "place": "Denisova Cave, Altai Krai, Russia",
+  "lat": 51.4,
+  "lng": 84.68,
+  "text": "Among more than 2,000 unidentified bone scraps from Denisova Cave, one sliver belonged to a girl at least 13 years old. Her DNA revealed something astonishing: her mother was a Neanderthal and her father a Denisovan. She is the first known child of parents from two different human groups, proof that they met and had families.",
+  "collections": [
+   "ancestors",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "Nature (Slon et al. 2018)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6130845/"
+  },
+  "source2": {
+   "name": "Nature (Douka et al. 2019)",
+   "url": "https://www.nature.com/articles/s41586-018-0870-z"
+  }
+ },
+ {
+  "id": "eh-e-liang-bua-hobbits",
+  "era": "early",
+  "year": -80000,
+  "dateLabel": "About 100,000–60,000 years ago",
+  "emoji": "🦩",
+  "cat": "daily",
+  "title": "Hobbits, Giant Storks and Mini Elephants",
+  "place": "Liang Bua, Flores, Indonesia",
+  "lat": -8.53,
+  "lng": 120.46,
+  "text": "The small people of Flores, Homo floresiensis, lived around Liang Bua cave about 100,000 to 60,000 years ago. Their island was full of oddities: giant storks almost two metres tall, Komodo dragons and small Stegodon elephants, which the hobbits may have eaten. Their stone tools continue until about 50,000 years ago.",
+  "collections": [
+   "ancestors",
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "Nature (Sutikna et al. 2016), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/27027286/"
+  },
+  "source2": {
+   "name": "Natural History Museum, London",
+   "url": "https://www.nhm.ac.uk/discover/homo-floresiensis-hobbit.html"
+  }
+ },
+ {
+  "id": "eh-e-toba-eruption",
+  "era": "early",
+  "year": -74000,
+  "dateLabel": "About 74,000 years ago",
+  "emoji": "🌋",
+  "cat": "nature",
+  "title": "The Toba Super-Eruption",
+  "place": "Lake Toba, Sumatra, Indonesia",
+  "lat": 2.68,
+  "lng": 98.88,
+  "text": "About 74,000 years ago, the Toba volcano in Sumatra exploded in one of the largest volcanic eruptions known on Earth. Ash fell across India, and tiny shards of its volcanic glass have even been found in South Africa. Scientists still debate how badly it affected the climate and the people alive at the time.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "Nature (Smith et al. 2018), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/29531318/"
+  },
+  "source2": {
+   "name": "Science (Petraglia et al. 2007), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17615356/"
+  }
+ },
+ {
+  "id": "eh-e-jwalapuram",
+  "era": "early",
+  "year": -73500,
+  "dateLabel": "About 74,000 years ago",
+  "emoji": "⛏️",
+  "cat": "daily",
+  "title": "Tools Above and Below the Ash",
+  "place": "Jwalapuram, Andhra Pradesh, India",
+  "lat": 15.32,
+  "lng": 78.13,
+  "text": "At Jwalapuram, in the Jurreru River valley of southern India, stone tools lie both under and over a layer of ash from the Toba eruption, which drifted all the way from Sumatra. The tools above and below look much the same, so people seem to have kept living in the region after the blast.",
+  "collections": [
+   "earth-shakers"
+  ],
+  "source": {
+   "name": "Science (Petraglia et al. 2007), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/17615356/"
+  }
+ },
+ {
+  "id": "eh-e-teshik-tash",
+  "era": "early",
+  "year": -70000,
+  "dateLabel": "About 70,000 years ago",
+  "emoji": "🐐",
+  "cat": "culture",
+  "title": "The Neanderthal Child of Teshik-Tash",
+  "place": "Teshik-Tash Cave, Surxondaryo, Uzbekistan",
+  "lat": 38.25,
+  "lng": 67.33,
+  "text": "In 1938, A. P. Okladnikov found the skull of a child aged about 8 to 11 in the Teshik-Tash cave in Uzbekistan, about 70,000 years old. Some thought it looked like an early modern human, but skull shape and DNA show the child was a Neanderthal, one of the easternmost then known.",
+  "collections": [
+   "ancestors"
+  ],
+  "source": {
+   "name": "Smithsonian Human Origins Program",
+   "url": "https://humanorigins.si.edu/evidence/human-fossils/fossils/teshik-tash"
+  },
+  "source2": {
+   "name": "American Journal of Physical Anthropology (Gunz & Bulygina 2012), abstract",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/22976750/"
+  }
+ },
+ {
+  "id": "eh-e-madjedbebe",
+  "era": "early",
+  "year": -65000,
+  "dateLabel": "About 65,000 years ago (debated)",
+  "emoji": "🖍️",
+  "cat": "journeys",
+  "title": "Australia's Oldest Campsite",
+  "place": "Madjedbebe, Arnhem Land, Australia",
+  "lat": -12.5,
+  "lng": 132.9,
+  "text": "In a rock shelter on Mirarr country in northern Australia, digs found ground ochre, grinding stones and ground-edge axe heads. A 2017 study concluded people were here about 65,000 years ago, which would make it Australia's oldest known site. Not everyone agrees: other researchers argue that an age of more than 50,000 years is unlikely to be right.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Nature (Clarkson et al. 2017)",
+   "url": "https://www.nature.com/articles/nature22968"
+  },
+  "source2": {
+   "name": "PNAS (O'Connell et al. 2018)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6112744/"
+  }
+ },
+ {
+  "id": "eh-e-tam-pa-ling",
+  "era": "early",
+  "year": -70000,
+  "dateLabel": "About 77,000–46,000 years ago",
+  "emoji": "🐒",
+  "cat": "journeys",
+  "title": "Moderns in the Cave of the Monkeys",
+  "place": "Tam Pa Ling, Houaphanh, Laos",
+  "lat": 20.21,
+  "lng": 103.41,
+  "text": "At the top of Pa Hang Mountain in northern Laos, Tam Pa Ling, the 'Cave of the Monkeys', has yielded a modern human skull, two jaws and other bones. The first finds were at least 46,000 years old, but deeper fossils show our species was here by about 70,000 years ago, and perhaps 77,000.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Nature Communications (Freidline et al. 2023)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10264382/"
+  },
+  "source2": {
+   "name": "PNAS (Demeter et al. 2012)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3437904/"
+  }
+ },
+ {
+  "id": "eh-e-denisova-needle",
+  "era": "early",
+  "year": -50000,
+  "dateLabel": "About 50,000 years ago",
+  "emoji": "🪡",
+  "cat": "discovery",
+  "title": "A Bone Needle in Siberia",
+  "place": "Denisova Cave, Altai Krai, Russia",
+  "lat": 51.4,
+  "lng": 84.68,
+  "text": "Excavators at Denisova Cave in Siberia unearthed a bone needle about 50,000 years old, announced in 2016. Made from a large bird bone, about 7 cm long with an eye for thread, it was described by its finders as the oldest needle known. The cave was used at different times by Denisovans, Neanderthals and modern humans.",
+  "collections": [
+   "inventions",
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Archaeology Magazine (Archaeological Institute of America)",
+   "url": "https://archaeology.org/news/2016/08/23/160823-denisova-cave-needle/"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Denisova Cave",
+   "url": "https://www.britannica.com/place/Denisova-Cave"
+  }
+ },
+ {
+  "id": "eh-e-megalania",
+  "era": "early",
+  "year": -49500,
+  "dateLabel": "About 50,000 years ago",
+  "emoji": "🦎",
+  "cat": "nature",
+  "title": "The Last Giant Lizard",
+  "place": "Capricorn Caves, near Rockhampton, Queensland, Australia",
+  "lat": -23.17,
+  "lng": 150.49,
+  "text": "Megalania was the largest land lizard known, a monitor up to about 5 metres long. A tiny bony skin plate from the Capricorn Caves in Queensland, about 50,000 years old, is the youngest trace of a giant lizard in Australia, though it could be from Megalania or a Komodo dragon. Giant lizards and the first Australians overlapped in time.",
+  "collections": [
+   "beasts-through-time"
+  ],
+  "source": {
+   "name": "University of Queensland news release (as carried by Phys.org) on Price et al. 2015, Quaternary Science Reviews",
+   "url": "https://phys.org/news/2015-09-giant-killer-lizard-fossil-early.html"
+  },
+  "source2": {
+   "name": "Australian Museum: Megalania prisca",
+   "url": "https://australian.museum/learn/australia-over-time/extinct-animals/megalania-prisca/"
+  }
+ },
+ {
+  "id": "eh-e-warratyi",
+  "era": "early",
+  "year": -49000,
+  "dateLabel": "About 49,000 years ago",
+  "emoji": "🚽",
+  "cat": "discovery",
+  "title": "Found While Looking for a Toilet",
+  "place": "Warratyi, Flinders Ranges, South Australia",
+  "lat": -30.6,
+  "lng": 138.8,
+  "text": "Adnyamathanha elder Clifford Coulthard and archaeologist Giles Hamm found this rock shelter in the Flinders Ranges after a toilet stop led them down a gorge. Digging showed people used it from about 49,000 years ago, some 10,000 years earlier than expected for Australia's dry interior. It held Australia's oldest known bone tool, ochre, and bones of the giant wombat-like Diprotodon.",
+  "collections": [
+   "lost-and-found",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "SBS / NITV News (Australia)",
+   "url": "https://www.sbs.com.au/nitv/the-point/article/historic-discovery-places-adnyamathanha-people-in-outback-australia-10-000-years-earlier-than-thought/3yk597veo"
+  },
+  "source2": {
+   "name": "Archaeology Magazine (Archaeological Institute of America)",
+   "url": "https://archaeology.org/news/2016/11/03/161103-australia-megafauna-rock-shelter/"
+  }
+ },
+ {
+  "id": "eh-e-fa-hien-bows",
+  "era": "early",
+  "year": -48000,
+  "dateLabel": "About 48,000 years ago",
+  "emoji": "🏹",
+  "cat": "discovery",
+  "title": "Bows and Arrows in the Rainforest",
+  "place": "Fa Hien Cave, Kalutara, Sri Lanka",
+  "lat": 6.65,
+  "lng": 80.22,
+  "text": "Fa-Hien Lena, one of the largest caves in Sri Lanka, lies in the island's wet-zone rainforest. A 2020 study found bone arrow points there about 48,000 years old, the earliest clear evidence of bows and arrows outside Africa. The same people made beads from mineral ochre and shell beads brought from the coast, dated to about 45,000 years ago.",
+  "collections": [
+   "inventions"
+  ],
+  "source": {
+   "name": "Max Planck Institute for the Science of Human History (press release on Langley et al. 2020, Science Advances)",
+   "url": "https://www.shh.mpg.de/1725622/bow-and-arrrow-roberts"
+  },
+  "source2": {
+   "name": "PLOS ONE 2019 (Wedage et al.) via PMC",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6774521/"
+  }
+ },
+ {
+  "id": "eh-e-tabon-caves",
+  "era": "early",
+  "year": -47000,
+  "dateLabel": "About 47,000 years ago",
+  "emoji": "🦵",
+  "cat": "journeys",
+  "title": "The Philippines' Oldest Shin Bone",
+  "place": "Tabon Caves, Palawan, Philippines",
+  "lat": 9.28,
+  "lng": 117.97,
+  "text": "A re-investigation of Tabon Cave on Palawan around 2000 turned up a piece of human shin bone dated to roughly 47,000 years ago, though with a margin of about 10,000 years either way. The cave's remains are the oldest modern human fossils known in the Philippines. Hearths show people were using the cave by about 40,000 years ago.",
+  "collections": [
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Frontiers in Earth Science (2023 peer-reviewed review citing Detroit et al. 2004)",
+   "url": "https://www.frontiersin.org/articles/10.3389/feart.2023.1110147/full"
+  }
+ },
+ {
+  "id": "eh-e-kara-bom",
+  "era": "early",
+  "year": -46500,
+  "dateLabel": "About 47,000 years ago",
+  "emoji": "🗻",
+  "cat": "journeys",
+  "title": "Newcomers in the Altai",
+  "place": "Kara-Bom, Altai Republic, Russia",
+  "lat": 50.75,
+  "lng": 85.6,
+  "text": "At Kara-Bom in southern Siberia, stone tools including long, pointed Levallois points date to about 46,600 years ago. They are among the earliest probable signs of modern humans in Siberia. Researchers link them to a wave of newcomers spreading from Southwest Asia, a wave that reached Siberia but apparently never took hold for good.",
+  "collections": [
+   "great-voyages",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "Zwyns 2021, Journal of Paleolithic Archaeology 4:19, 'The Initial Upper Paleolithic in Central and East Asia: blade technology, cultural transmission, and implications for human dispersals' (abstract via Crossref)",
+   "url": "https://doi.org/10.1007/s41982-021-00085-6"
+  },
+  "source2": {
+   "name": "Scientific Reports 2023, personal ornaments from Tolbor-21 (Mongolia), Table listing Kara-Bom UP2 at 46-45.5 ka",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10261033/"
+  }
+ },
+ {
+  "id": "eh-e-ivane-valley",
+  "era": "early",
+  "year": -46000,
+  "dateLabel": "About 49,000–44,000 years ago",
+  "emoji": "⛰️",
+  "cat": "journeys",
+  "title": "Up Into New Guinea's Highlands",
+  "place": "Ivane Valley, Papua New Guinea",
+  "lat": -8.1,
+  "lng": 147.1,
+  "text": "In the Ice Age, New Guinea, Australia and Tasmania were one landmass called Sahul, reached only by sea. Its first settlers didn't stay on the coast. Excavations led by Glenn Summerhayes in the Ivane Valley, high in Papua New Guinea's mountains, showed people living there between about 49,000 and 44,000 years ago.",
+  "collections": [
+   "great-voyages",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "University of Queensland News (on Summerhayes et al. 2010, Science)",
+   "url": "https://news.uq.edu.au/2010-09-30-prehistoric-highlanders-uncovered"
+  }
+ },
+ {
+  "id": "eh-e-ust-ishim",
+  "era": "early",
+  "year": -45000,
+  "dateLabel": "About 45,000 years ago",
+  "emoji": "🧬",
+  "cat": "discovery",
+  "title": "A Thighbone Sticking Out of a Riverbank",
+  "place": "Ust'-Ishim, Omsk Oblast, Russia",
+  "lat": 57.7,
+  "lng": 71.2,
+  "text": "In 2008 an ivory carver named Nikolai Peristov noticed a bone poking out of the bank of Siberia's Irtysh River. It was the thighbone of a man who lived about 45,000 years ago. His DNA, one of the oldest modern human genomes ever read, held Neanderthal DNA too, showing the two groups had already met.",
+  "collections": [
+   "ancestors",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "National Geographic",
+   "url": "https://www.nationalgeographic.com/science/article/141022-siberian-genome-ancient-science-discovery"
+  },
+  "source2": {
+   "name": "Max Planck Society: Earliest modern human sequenced (Fu et al. 2014, Nature)",
+   "url": "https://www.mpg.de/8710423/genome-earliest-modern-human"
+  }
+ },
+ {
+  "id": "eh-e-denisovan-dna",
+  "era": "early",
+  "year": -44000,
+  "dateLabel": "Between about 50,000 and 37,000 years ago",
+  "emoji": "🧩",
+  "cat": "journeys",
+  "title": "Denisovan Genes in the Pacific",
+  "place": "Wallacea, Indonesia",
+  "lat": -2.0,
+  "lng": 121.0,
+  "text": "A 2010 genome study found that Denisovans contributed about 4 to 6 percent of the DNA of present-day Melanesians; later work found similar traces in Aboriginal Australians and some Philippine groups. Because mainland Asians carry so little, some scientists argue the mixing happened in island Southeast Asia, and that Denisovans had crossed the Wallace Line, the deep-water divide between Asian and Australian wildlife.",
+  "collections": [
+   "ancestors",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Reich et al. 2010, Nature (PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4306417/"
+  },
+  "source2": {
+   "name": "University of Adelaide repository: Cooper & Stringer 2013, Science, 'Did the Denisovans cross Wallace's Line?'",
+   "url": "https://digital.library.adelaide.edu.au/dspace/handle/2440/81200"
+  }
+ },
+ {
+  "id": "eh-e-jerimalai-fishing",
+  "era": "early",
+  "year": -42000,
+  "dateLabel": "About 42,000 years ago",
+  "emoji": "🐟",
+  "cat": "daily",
+  "title": "Tuna for Dinner",
+  "place": "Jerimalai, Tutuala, Timor-Leste",
+  "lat": -8.4,
+  "lng": 127.3,
+  "text": "At Jerimalai shelter on the eastern tip of Timor-Leste, people were catching tuna and other open-ocean fish about 42,000 years ago, the oldest evidence of deep-sea fishing. Archaeologists counted more than 38,000 fish bones there. The site also produced a shell fish hook made between 23,000 and 16,000 years ago, among the earliest known.",
+  "collections": [
+   "food-and-drink",
+   "great-voyages"
+  ],
+  "source": {
+   "name": "Australian National University research portal (O'Connor, Ono & Clarkson 2011, Science, abstract)",
+   "url": "https://researchportalplus.anu.edu.au/en/publications/pelagic-fishing-at-42000-years-before-the-present-and-the-maritim/"
+  },
+  "source2": {
+   "name": "ANU news release (as carried by Phys.org)",
+   "url": "https://phys.org/news/2011-11-prehistoric-mastered-deep-sea-fishing.html"
+  }
+ },
+ {
+  "id": "eh-e-tianyuan-man",
+  "era": "early",
+  "year": -41000,
+  "dateLabel": "About 42,000–39,000 years ago",
+  "emoji": "🎣",
+  "cat": "daily",
+  "title": "Tianyuan Man Loved Fish",
+  "place": "Tianyuan Cave, Beijing, China",
+  "lat": 39.65,
+  "lng": 115.87,
+  "text": "Tree-farm workers found Tianyuan Cave near Beijing in 2001, and digs in 2003 and 2004 recovered 34 bones from one person. Radiocarbon dating put them at 42,000 to 39,000 years old, among the oldest directly dated modern humans in eastern Eurasia. Chemical tests suggest he regularly ate freshwater fish, and his DNA links him to ancestors of present-day Asians and Native Americans.",
+  "collections": [
+   "ancestors",
+   "food-and-drink"
+  ],
+  "source": {
+   "name": "Shang et al. 2007, PNAS (PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1871827/"
+  },
+  "source2": {
+   "name": "Max Planck Society (Fu et al. 2013, PNAS, DNA study)",
+   "url": "https://www.mpg.de/6842535/dna-tianyuan-cave"
+  }
+ },
+ {
+  "id": "eh-e-mungo-man",
+  "era": "early",
+  "year": -40000,
+  "dateLabel": "About 42,000 years ago",
+  "emoji": "🕊️",
+  "cat": "culture",
+  "title": "Mungo Man's Ochre Burial",
+  "place": "Lake Mungo, New South Wales, Australia",
+  "lat": -33.75,
+  "lng": 143.1,
+  "text": "By a lake that is now dry, a man was laid on his back with his hands in his lap and sprinkled with red ochre that must have been carried from far away. Geologist Jim Bowler found Mungo Man in 1974; he is about 42,000 years old. In 2022 he and Mungo Lady were reburied at Lake Mungo.",
+  "collections": [
+   "ancestors",
+   "lost-and-found"
+  ],
+  "source": {
+   "name": "ABC News (Australia)",
+   "url": "https://www.abc.net.au/news/2024-03-10/mungo-man-anniversary-willandra-lakes-lake-mungo-national-park/103536402"
+  },
+  "source2": {
+   "name": "Encyclopaedia Britannica: Lake Mungo",
+   "url": "https://www.britannica.com/place/Lake-Mungo"
+  }
+ },
+ {
+  "id": "eh-e-lake-nojiri",
+  "era": "early",
+  "year": -39000,
+  "dateLabel": "About 40,000 years ago",
+  "emoji": "🐘",
+  "cat": "nature",
+  "title": "Elephant Hunters at Lake Nojiri",
+  "place": "Lake Nojiri, Nagano, Japan",
+  "lat": 36.83,
+  "lng": 138.22,
+  "text": "In 1948 a lakeside innkeeper found the molar of a Naumann's elephant, an extinct Japanese elephant, at Lake Nojiri. Digs since 1962 have found stone and bone tools beside elephant and giant deer fossils, linked to about 40,000 years ago. It may have been a place where people killed and butchered elephants, though no direct proof of hunting has been found.",
+  "collections": [
+   "beasts-through-time",
+   "korea-and-japan"
+  ],
+  "source": {
+   "name": "The Quaternary Research (Japan Association for Quaternary Research), J-STAGE",
+   "url": "https://www.jstage.jst.go.jp/article/jaqua1957/28/4/28_4_257/_article/-char/en"
+  },
+  "source2": {
+   "name": "Shinano Town (Nagano) official site: Naumann Elephant and Lake Nojiri",
+   "url": "http://shinanomachi-nagano.jp/en/wp/?p=281"
+  }
+ },
+ {
+  "id": "eh-e-okladnikov-cave",
+  "era": "early",
+  "year": -38500,
+  "dateLabel": "About 44,000–33,000 years ago",
+  "emoji": "🧭",
+  "cat": "journeys",
+  "title": "The Farthest-East Neanderthals",
+  "place": "Okladnikov Cave, Altai Krai, Russia",
+  "lat": 51.68,
+  "lng": 84.33,
+  "text": "In the foothills of the Altai Mountains, Okladnikov Cave held Neanderthal-style Mousterian stone tools dated to about 44,000 to 33,000 years ago, plus broken human bones. Along with a few nearby caves, it marks the easternmost place Neanderthals are confirmed to have lived, thousands of kilometres from their European heartland.",
+  "collections": [
+   "ancestors",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "Vassar College, Central Asia Sites: Okladnikov Cave",
+   "url": "https://pages.vassar.edu/central-asia-sites/2017/12/07/okladnikov-cave/"
+  },
+  "source2": {
+   "name": "Krause et al. 2007, Nature, 'Neanderthals in central Asia and Siberia' (University of Copenhagen research portal)",
+   "url": "https://researchprofiles.ku.dk/en/publications/neanderthals-in-central-asia-and-siberia/"
+  }
+ },
+ {
+  "id": "eh-e-warreen-cave",
+  "era": "early",
+  "year": -35000,
+  "dateLabel": "About 35,000 years ago",
+  "emoji": "🐾",
+  "cat": "journeys",
+  "title": "The First Tasmanians",
+  "place": "Warreen Cave, Maxwell River, Tasmania, Australia",
+  "lat": -42.65,
+  "lng": 146.3,
+  "text": "Warreen Cave, in the Maxwell River valley of south-west Tasmania, is the earliest known place people lived on the island: digs show Aboriginal people were there at least 35,000 years ago. Back then the sea was lower and Tasmania was joined to the mainland. Rising seas flooded the Bassian Plain about 12,000 years ago, cutting Tasmania off.",
+  "collections": [
+   "great-voyages",
+   "ice-worlds"
+  ],
+  "source": {
+   "name": "Australian Bureau of Statistics, Tasmanian Year Book: Aboriginal occupation",
+   "url": "https://www.abs.gov.au/ausstats/abs@.nsf/2f762f95845417aeca25706c00834efa/B8EECA1DFD690C1BCA25710E00756394?opendocument="
+  }
+ },
+ {
+  "id": "eh-e-shuidonggou",
+  "era": "early",
+  "year": -31000,
+  "dateLabel": "More than 30,000 years ago",
+  "emoji": "🥚",
+  "cat": "culture",
+  "title": "Ostrich Eggshell Beads",
+  "place": "Shuidonggou, Ningxia, China",
+  "lat": 38.29,
+  "lng": 106.5,
+  "text": "In 1923 the French scientists Émile Licent and Pierre Teilhard de Chardin discovered the Stone Age site of Shuidonggou in Ningxia, starting a century of research. Later excavations found people living here from about 41,000 years ago. Among the finds are dozens of tiny beads made from ostrich eggshell, about 31,000 to 30,000 years old.",
+  "collections": [
+   "masterpieces"
+  ],
+  "source": {
+   "name": "Wei et al. 2016, PLOS ONE (PubMed Central)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4881959/"
+  }
+ }
+]

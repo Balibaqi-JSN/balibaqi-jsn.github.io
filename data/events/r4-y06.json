@@ -1,0 +1,326 @@
+[
+ {
+  "id": "y06-al-razi-rayy",
+  "era": "medieval",
+  "year": 865,
+  "dateLabel": "865 (al-Razi's birth)",
+  "cat": "discovery",
+  "title": "The Doctor Who Hung Up Meat",
+  "place": "Rayy (Ray), Tehran Province, Iran",
+  "lat": 35.59,
+  "lng": 51.43,
+  "text": "The physician al-Razi was born in Rayy in 865 and later worked in Baghdad. Asked to choose a site for a new hospital, he hung pieces of meat around the city and picked the spot where the meat rotted most slowly. His Treatise on Smallpox and Measles told the two diseases apart by their symptoms and contains the earliest known description of smallpox.",
+  "source": {
+   "name": "Heart Views (PMC): The Air of History (Part IV): Great Muslim Physicians Al Rhazes",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3752886/"
+  }
+ },
+ {
+  "id": "y06-ibn-sina-escape",
+  "era": "medieval",
+  "year": 1022,
+  "dateLabel": "1022",
+  "cat": "discovery",
+  "title": "Ibn Sina Slips Away in Disguise",
+  "place": "Hamadan, Hamadan Province, Iran",
+  "lat": 34.8,
+  "lng": 48.51,
+  "text": "Ibn Sina served as court physician in Hamadan and was twice made vizier, but rivals forced him into hiding and he spent time as a political prisoner. In 1022, after the death of the prince he served, he decided to leave and escaped to Isfahan disguised as a Sufi. His Canon of Medicine has been called the most famous single book in the history of medicine.",
+  "source": {
+   "name": "MacTutor History of Mathematics, University of St Andrews: Abu Ali al-Husain ibn Abdallah ibn Sina (Avicenna)",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Avicenna/"
+  }
+ },
+ {
+  "id": "y06-gelati-monastery",
+  "era": "medieval",
+  "year": 1106,
+  "dateLabel": "1106",
+  "cat": "culture",
+  "title": "A Monastery That Was Also an Academy",
+  "place": "Gelati, near Kutaisi, Imereti, Georgia",
+  "lat": 42.29,
+  "lng": 42.77,
+  "text": "In 1106 King David IV 'the Builder' began building Gelati Monastery on a wooded hill near his capital, Kutaisi. It was more than a monastery: its Academy drew scholars such as the philosopher Johannes Petritzi, who translated Proclus. Inside the main church, finished in 1130, a 12th-century mosaic shows the Virgin and Child flanked by archangels, and the walls hold more than 40 royal and clerical portraits.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Gelati Monastery",
+   "url": "https://whc.unesco.org/en/list/710"
+  }
+ },
+ {
+  "id": "y06-anjar-abandoned",
+  "era": "medieval",
+  "year": 744,
+  "dateLabel": "744",
+  "cat": "daily",
+  "title": "Anjar, the Unfinished Trade Town",
+  "place": "Anjar, Bekaa Valley, Lebanon",
+  "lat": 33.73,
+  "lng": 35.93,
+  "text": "The Umayyad caliph Walid I founded Anjar early in the 8th century where the road from Beirut to Damascus crossed the route through the Bekaa. Its walls had forty towers, and two main streets ran above the sewers, splitting the town into four quarters. Anjar was never finished: in 744 Caliph Ibrahim, Walid's son, was defeated and the damaged town was abandoned.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Anjar",
+   "url": "https://whc.unesco.org/en/list/293"
+  }
+ },
+ {
+  "id": "y06-haghpat-queen",
+  "era": "medieval",
+  "year": 976,
+  "dateLabel": "976",
+  "cat": "culture",
+  "title": "Queen Khosrovanush Founds Haghpat",
+  "place": "Haghpat, Lori Province, Armenia",
+  "lat": 41.09,
+  "lng": 44.71,
+  "text": "In 976 Queen Khosrovanush, wife of the Armenian king Ashot III the Merciful, founded the monastery of Haghpat. Its oldest building, the domed church of St Nshan, was built between 976 and 991 by the architect Trdat. Carvings on its east wall show two kings holding a model of the church. Haghpat and nearby Sanahin became important centres of learning.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Monasteries of Haghpat and Sanahin",
+   "url": "https://whc.unesco.org/en/list/777"
+  }
+ },
+ {
+  "id": "y06-geghard-rock-church",
+  "era": "medieval",
+  "year": 1283,
+  "dateLabel": "1283",
+  "cat": "culture",
+  "title": "Churches Dug Into a Cliff",
+  "place": "Geghard Monastery, Kotayk Province, Armenia",
+  "lat": 40.14,
+  "lng": 44.82,
+  "text": "At Geghard, once called Ayrivank, the 'Monastery in the Cave', builders did not stack stones so much as carve them away. A first church was dug entirely into the living rock before 1250, and a second rock-cut church followed in 1283, reached through a princely tomb chamber of the Proshyan family. Most monks lived in cells cut into the cliff face.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Monastery of Geghard and the Upper Azat Valley",
+   "url": "https://whc.unesco.org/en/list/960"
+  }
+ },
+ {
+  "id": "y06-afyon-wooden-mosque",
+  "era": "medieval",
+  "year": 1272,
+  "dateLabel": "1272–77",
+  "cat": "culture",
+  "title": "Mosques Held Up by Wooden Forests",
+  "place": "Great Mosque of Afyon, Afyonkarahisar, Turkey",
+  "lat": 38.76,
+  "lng": 30.54,
+  "text": "Most mosques of the time were stone or brick, but the Great Mosque of Afyon, built in 1272–77, rests on rows of wooden columns topped with carved honeycomb capitals that hold up a flat wooden ceiling. It is one of five such Anatolian mosques. Their building is linked to the Mongol invasions of the 1240s and the Central Asian woodworkers who arrived afterwards.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Wooden Hypostyle Mosques of Medieval Anatolia",
+   "url": "https://whc.unesco.org/en/list/1694"
+  }
+ },
+ {
+  "id": "y06-zabid-founded",
+  "era": "medieval",
+  "year": 820,
+  "dateLabel": "820",
+  "cat": "daily",
+  "title": "Zabid, Yemen's City of Scholars",
+  "place": "Zabid, Al Hudaydah Governorate, Yemen",
+  "lat": 14.2,
+  "lng": 43.32,
+  "text": "In 820 the caliph al-Mamun sent Ibn Ziyad to Yemen's coastal plain to put down a rebellion, and the round, walled town of Zabid owes its growth to him. Canals brought it water. Zabid later served as Yemen's capital and became famous for its mosques and madrasas, which drew students from all over the world; it has some 86 mosques in all.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Historic Town of Zabid",
+   "url": "https://whc.unesco.org/en/list/611"
+  }
+ },
+ {
+  "id": "y06-isfahan-friday-mosque",
+  "era": "medieval",
+  "year": 841,
+  "dateLabel": "841 (first building)",
+  "cat": "culture",
+  "title": "Twelve Centuries in One Mosque",
+  "place": "Masjed-e Jameh, Isfahan, Iran",
+  "lat": 32.67,
+  "lng": 51.69,
+  "text": "Isfahan's Friday Mosque began in 841 and kept growing for twelve centuries, from the Abbasids to the Safavids. Under the Seljuqs it gained four great iwans (vaulted halls) around its courtyard, the first use of that plan in Islamic architecture. Its Nezam al-Molk dome was the first double-shell ribbed dome in the Islamic world, a design copied across the region.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Masjed-e Jāmé of Isfahan",
+   "url": "https://whc.unesco.org/en/list/1397"
+  }
+ },
+ {
+  "id": "y06-acre-buried",
+  "era": "medieval",
+  "year": 1291,
+  "dateLabel": "1291",
+  "cat": "power",
+  "title": "Crusader Acre Goes Underground",
+  "place": "Old City of Acre (Akko), Israel",
+  "lat": 32.92,
+  "lng": 35.07,
+  "text": "From 1104 to 1291 the port of Acre was the Crusaders' main harbour and the capital of their Kingdom of Jerusalem, a busy centre of international trade. After the Mamluks took over at the end of the 13th century, the Crusader town was buried. Much of it still survives almost intact below today's streets, and excavations have only recently begun to reveal it.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Old City of Acre",
+   "url": "https://whc.unesco.org/en/list/1042"
+  }
+ },
+ {
+  "id": "y06-blacas-ewer",
+  "era": "medieval",
+  "year": 1232,
+  "dateLabel": "1232 (AH 629)",
+  "cat": "daily",
+  "title": "Court Life on a Brass Jug",
+  "place": "Mosul, Nineveh Governorate, Iraq",
+  "lat": 36.34,
+  "lng": 43.13,
+  "text": "In 1232 Shuja ibn Mana of Mosul signed and dated a brass ewer inlaid with silver and copper. Its medallions show court life: a noblewoman gazing into a mirror, another riding in a camel litter, a hunter with a cheetah on his horse, musicians and dancers. Mosul's glittering inlaid brass was exported and given to rulers. The ewer is now in the British Museum.",
+  "source": {
+   "name": "Discover Islamic Art (Museum With No Frontiers), Emily Shovelton: Ewer (the Blacas Ewer)",
+   "url": "https://islamicart.museumwnf.org/database_item.php?id=object;ISL;uk;Mus01;12;en"
+  }
+ },
+ {
+  "id": "y06-umayyad-coin-reform",
+  "era": "medieval",
+  "year": 696,
+  "dateLabel": "77 AH (696 CE)",
+  "cat": "daily",
+  "title": "Coins Without Faces",
+  "place": "Damascus, Syria",
+  "lat": 33.51,
+  "lng": 36.31,
+  "text": "Early Umayyad gold coins showed the caliph Abd al-Malik standing alone holding his sword, replacing the Byzantine emperor and his sons seen on older coins. Then, in 77 AH (696 CE), he ordered that coins carry no images at all. The new dinars, believed to have been struck in Damascus, bore only words: religious phrases, the denomination and the date.",
+  "source": {
+   "name": "Qatar Museums, Museum of Islamic Art collection: Umayyad Dinar",
+   "url": "https://collections.qm.org.qa/en/objects/umayyad-dinar-g1"
+  },
+  "source2": {
+   "name": "Qatar Museums, Museum of Islamic Art collection: Standing Caliph Dinar",
+   "url": "https://collections.qm.org.qa/objects/standing-caliph-dinar-g10517"
+  }
+ },
+ {
+  "id": "y06-ain-jalut",
+  "era": "medieval",
+  "year": 1260,
+  "dateLabel": "September 3, 1260",
+  "cat": "power",
+  "title": "A Trap at the Spring of Goliath",
+  "place": "'Ain Jalut, Jezreel Valley (Plain of Esdraelon), Israel",
+  "lat": 32.55,
+  "lng": 35.36,
+  "text": "In 1260 the Mamluk sultan Qutuz marched from Egypt to meet a Mongol army led by Kitbuqa. At 'Ain Jalut, where the plain narrows below Mount Gilboa, Qutuz hid cavalry in the hills. His commander Baybars clashed with the Mongols, then pretended to retreat. As the Mongols chased him, the hidden horsemen struck their flanks, and Kitbuqa was captured and executed.",
+  "source": {
+   "name": "AramcoWorld, David W. Tschanz: History's Hinge: 'Ain Jalut",
+   "url": "https://archive.aramcoworld.com/issue/200704/history.s.hinge.ain.jalut.htm"
+  }
+ },
+ {
+  "id": "y06-damascus-plague-prayer",
+  "era": "medieval",
+  "year": 1348,
+  "dateLabel": "1348",
+  "cat": "nature",
+  "title": "Damascus Prays Through the Plague",
+  "place": "Great Mosque, Damascus, Syria",
+  "lat": 33.51,
+  "lng": 36.31,
+  "text": "When the traveller Ibn Battuta reached Damascus in 1348, plague was killing about 2,000 people a day, by his account. The people fasted for three days and crowded the Great Mosque, then walked out barefoot carrying Qur'ans. Jews came with their book of the law and Christians with the Gospel, all praying together for God's help.",
+  "source": {
+   "name": "ORIAS, UC Berkeley: The Travels of Ibn Battuta: Return Home, 1346-1349",
+   "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta/journey/return-home-1346-1349"
+  }
+ },
+ {
+  "id": "y06-anatolia-young-brotherhood",
+  "era": "medieval",
+  "year": 1330,
+  "dateLabel": "1330–31",
+  "cat": "daily",
+  "title": "Anatolia's Brotherhoods of Hospitality",
+  "place": "Antalya, Antalya Province, Turkey",
+  "lat": 36.89,
+  "lng": 30.7,
+  "text": "Landing at Alanya from a Genoese ship, the Moroccan traveller Ibn Battuta found a 'Young Brotherhood' in every Turkmen town of Anatolia. Members worked by day, pooled their earnings each afternoon to buy food, and lodged any traveller who arrived; if none came, they ate together, sang and danced. He also noted that Turkish women went unveiled and were shown great respect.",
+  "source": {
+   "name": "ORIAS, UC Berkeley: The Travels of Ibn Battuta: Anatolia, 1330-1331",
+   "url": "https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta/journey/anatolia-1330-1331"
+  }
+ },
+ {
+  "id": "y06-madrasat-al-firdaws",
+  "era": "medieval",
+  "year": 1235,
+  "dateLabel": "AH 633 (1235–36)",
+  "cat": "culture",
+  "title": "Dayfa Khatun's Garden of Paradise",
+  "place": "Madrasat al-Firdaws, Aleppo, Syria",
+  "lat": 36.19,
+  "lng": 37.15,
+  "text": "Dayfa Khatun, Saladin's niece, ruled Aleppo on her own for nearly 20 years. Her Madrasat al-Firdaws, 'Paradise' or 'Garden', dated by inscription to 1235–36, combined a tomb, mosque, school and lodging for Sufis, with eleven domes around a courtyard. Inside runs one of the longest continuous Arabic inscriptions in the world, nearly 92 metres long, describing the Sufi experience of worship.",
+  "source": {
+   "name": "Discover Islamic Art (Museum With No Frontiers): Madrasat al-Firdaws",
+   "url": "https://islamicart.museumwnf.org/database_item.php?id=monument;isl;sy;mon01;4;en"
+  }
+ },
+ {
+  "id": "y06-st-hripsime-church",
+  "era": "medieval",
+  "year": 618,
+  "dateLabel": "618",
+  "cat": "culture",
+  "title": "Armenia's Perfect Domed Church",
+  "place": "St Hripsime Church, Echmiatsin (Vagharshapat), Armavir, Armenia",
+  "lat": 40.17,
+  "lng": 44.31,
+  "text": "St Hripsime Church, built in 618 at Echmiatsin, is the perfect example of an Armenian four-apse church, with niches and corner rooms gathered under a central dome. Central-domed churches spread across Armenia in the 7th century. Nearby St Gayane (630) was the first to join a three-aisle basilica to a central dome, a form that became widespread in Armenia and Western Asia.",
+  "source": {
+   "name": "UNESCO World Heritage Centre: Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots",
+   "url": "https://whc.unesco.org/en/list/1011"
+  }
+ },
+ {
+  "id": "y06-al-battani-raqqa",
+  "era": "medieval",
+  "year": 877,
+  "dateLabel": "877 (first observations)",
+  "cat": "discovery",
+  "title": "Timing the Year From Raqqa",
+  "place": "Raqqa (ar-Raqqah), Raqqa Governorate, Syria",
+  "lat": 35.95,
+  "lng": 39.01,
+  "text": "Working mostly at ar-Raqqah in Syria, the astronomer al-Battani observed the sky between 877 and 918. He measured the year as 365 days, 5 hours, 46 minutes and 24 seconds, catalogued 489 stars, and used trigonometry where Ptolemy had used geometry. His Kitab al-Zij, in 57 chapters, influenced Copernicus, Tycho Brahe, Kepler and Galileo.",
+  "source": {
+   "name": "MacTutor History of Mathematics, University of St Andrews: Al-Battani",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Battani/"
+  }
+ },
+ {
+  "id": "y06-fatih-mosque",
+  "era": "medieval",
+  "year": 1463,
+  "dateLabel": "1463",
+  "cat": "power",
+  "title": "A Mosque Over the Emperors' Church",
+  "place": "Fatih Mosque, Istanbul, Turkey",
+  "lat": 41.02,
+  "lng": 28.95,
+  "text": "Ten years after the Ottoman conquest of Constantinople, Sultan Mehmed II built a new mosque under his own name in 1463: the Fatih Mosque, or Mosque of the Conqueror. Its site was chosen with care. The Church of the Holy Apostles, burial place of Byzantine emperors, was torn down to make way. An earthquake in 1766 largely destroyed the mosque, but its courtyard is still largely original.",
+  "source": {
+   "name": "Society of Architectural Historians blog, Patricia Blessing: Creating an Ottoman Capital: Istanbul in the Late Fifteenth Century",
+   "url": "https://www.sah.org/publications/sah-blog/sah-blog/2016/02/26/creating-an-ottoman-capital-istanbul-in-the-late-fifteenth-century"
+  }
+ },
+ {
+  "id": "y06-zanj-revolt",
+  "era": "medieval",
+  "year": 869,
+  "dateLabel": "869",
+  "cat": "power",
+  "title": "The Zanj Rise in the Marshes",
+  "place": "Near Basra, Basra Governorate, Iraq",
+  "lat": 30.51,
+  "lng": 47.81,
+  "text": "In 869 enslaved workers, mostly of African origin, revolted in southern Iraq around Basra. Their job was reclaiming land by removing the nitrous topsoil to make it farmable. Led by the mysterious, charismatic Ali ibn Muhammad, the Zanj built a capital, al-Mukhtara, deep in the marshes and held out for about 15 years until the caliphate turned much of its army and resources against them.",
+  "source": {
+   "name": "Oxford Research Encyclopedia of African History, Adam Ali (University of Toronto): Zanj Revolt in the Abbasid Caliphate (Iraq)",
+   "url": "https://academic.oup.com/edited-volume/61663/chapter-abstract/553388422"
+  }
+ }
+]
