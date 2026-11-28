@@ -1,0 +1,418 @@
+[
+ {
+  "id": "z08-lanse-amour-mound",
+  "era": "ancient",
+  "year": -5700,
+  "dateLabel": "About 5700 BCE",
+  "cat": "culture",
+  "title": "A Child's Grave Under Labrador Stones",
+  "place": "L'Anse Amour, southern Labrador, Newfoundland and Labrador, Canada",
+  "lat": 51.46,
+  "lng": -56.87,
+  "text": "About 7,700 years ago, Maritime Archaic people in southern Labrador laid a young person in a stone burial box, covered the body in red ochre and lit fires on either side. Then they heaped a careful mound of rocks over it. Inside lay spearheads, a walrus tusk, a bone whistle and the earliest known toggling harpoon in the world. It is North America's oldest known First Nations funerary monument.",
+  "source": {
+   "name": "Parks Canada: L'Anse Amour National Historic Site of Canada",
+   "url": "https://parks.canada.ca/culture/designation/lieu-site/anse-amour"
+  }
+ },
+ {
+  "id": "z08-lake-huron-caribou-lanes",
+  "era": "ancient",
+  "year": -7000,
+  "dateLabel": "About 7000 BCE",
+  "cat": "discovery",
+  "title": "Caribou Hunters Beneath Lake Huron",
+  "place": "Alpena-Amberley Ridge, Lake Huron, southeast of Alpena, Michigan, USA",
+  "lat": 44.75,
+  "lng": -82.95,
+  "text": "Nine thousand years ago, a dry ridge crossed what is now Lake Huron, linking Michigan to Ontario. Caribou walked it, and hunters waited. Today their stone drive lanes and hunting blinds lie deep underwater, first spotted when a line of rocks appeared on sonar in 2008. Researchers think small family groups hunted here in autumn, while larger groups worked together to steer herds through the lanes in spring.",
+  "source": {
+   "name": "Archaeology Magazine: Where the Ice Age Caribou Ranged",
+   "url": "https://archaeology.org/issues/january-february-2018/features/where-the-ice-age-caribou-ranged/"
+  }
+ },
+ {
+  "id": "z08-manasota-key-pond-burials",
+  "era": "ancient",
+  "year": -5000,
+  "dateLabel": "About 5000 BCE",
+  "cat": "discovery",
+  "title": "A Burial Pond Under the Gulf",
+  "place": "Manasota Key Offshore site, near Venice, Florida, USA",
+  "lat": 26.98,
+  "lng": -82.43,
+  "text": "About 7,000 years ago, people on Florida's Gulf Coast buried their dead in a marsh pond, probably wrapping the bodies in woven fiber and ringing them with sharpened wooden stakes. Rising seas later swallowed it. It now lies 21 feet underwater off Manasota Key, found after a diver picked up a human jaw in 2016. The Seminole Tribe of Florida is helping plan for the ancestors to rest undisturbed.",
+  "source": {
+   "name": "National Geographic: 7,000-Year-Old Native American Burial Site Found Underwater",
+   "url": "https://www.nationalgeographic.com/adventure/article/florida-native-american-indian-burial-underwater"
+  }
+ },
+ {
+  "id": "z08-ocean-bay-kodiak-crossing",
+  "era": "ancient",
+  "year": -5500,
+  "dateLabel": "About 5500 BCE",
+  "cat": "journeys",
+  "title": "Skin Boats Across Shelikof Strait",
+  "place": "Amalik Bay, Shelikof Strait coast, Katmai National Park, Alaska, USA",
+  "lat": 58.08,
+  "lng": -154.5,
+  "text": "More than 7,500 years ago, people of the Ocean Bay tradition paddled small skin boats across Alaska's stormy Shelikof Strait, the first known to reach Kodiak Island. They hunted seals, sea lions and sea otters, ground slate into bayonets, fished deep water with bone hooks on kelp lines, and burned blubber in stone lamps through the winter darkness. They were ancestors of today's Alutiiq people.",
+  "source": {
+   "name": "National Park Service, Katmai: The Ocean Bay Tradition",
+   "url": "https://www.nps.gov/katm/learn/historyculture/ocean-bay-tradition.htm"
+  }
+ },
+ {
+  "id": "z08-crater-lake-llao-skell",
+  "era": "ancient",
+  "year": -5700,
+  "dateLabel": "About 5700 BCE",
+  "cat": "nature",
+  "title": "The Mountain That Fell on Llao",
+  "place": "Crater Lake (Mount Mazama), Crater Lake National Park, Oregon, USA",
+  "lat": 42.94,
+  "lng": -122.1,
+  "text": "About 7,700 years ago, Mount Mazama in Oregon erupted and collapsed, leaving the hole that became Crater Lake, today 1,943 feet deep. People saw it happen: archaeologists have found sandals buried under its ash. The Klamath Tribes, descendants of the Makalak people, tell of Llao, chief of the Below World, battling Skell, chief of the Above World, until the mountain fell in on Llao.",
+  "source": {
+   "name": "National Park Service, Crater Lake: History (park brochure)",
+   "url": "https://www.nps.gov/crla/planyourvisit/upload/History-508.pdf"
+  },
+  "source2": {
+   "name": "National Park Service: Traditional Knowledge of Prehistoric Eruptions",
+   "url": "https://www.nps.gov/subjects/volcanoes/traditional-knowledge-of-prehistoric-eruptions.htm"
+  }
+ },
+ {
+  "id": "z08-isle-royale-copper-pits",
+  "era": "ancient",
+  "year": -2500,
+  "dateLabel": "About 2500 BCE",
+  "cat": "daily",
+  "title": "Copper Mines on a Lake Superior Island",
+  "place": "Minong Ridge, Isle Royale National Park, Michigan, USA",
+  "lat": 48.05,
+  "lng": -88.85,
+  "text": "By about 2500 BCE, Indigenous miners were crossing to Isle Royale in Lake Superior for something rare: nearly pure copper sitting in the bedrock. They pounded it loose with rounded beach cobbles, then cold-hammered it into knives, points and ornaments. More than 1,000 ancient pits survive, many along Minong Ridge, yet archaeologists have found almost no trace of where the miners themselves lived.",
+  "source": {
+   "name": "National Park Service: Archaeological History and Ancient Copper Mining on Isle Royale",
+   "url": "https://www.nps.gov/articles/000/archaeological-history-ancient-copper-mining.htm"
+  }
+ },
+ {
+  "id": "z08-namu-salmon-village",
+  "era": "ancient",
+  "year": -5000,
+  "dateLabel": "About 5000 BCE",
+  "cat": "daily",
+  "title": "A Salmon Village 7,000 Years Old",
+  "place": "Namu, central coast, Heiltsuk Nation territory, British Columbia, Canada",
+  "lat": 51.86,
+  "lng": -127.87,
+  "text": "At Namu, on British Columbia's central coast, people were living year-round by about 5000 BCE, in what is now the territory of the Heiltsuk Nation. Ancient DNA from fish bones shows they caught several kinds of salmon but relied most on pink salmon, storing it to last the year. Later, after 2000 BCE, failures in the pink salmon runs seem to have brought hard times.",
+  "source": {
+   "name": "American Antiquity (Cannon and Yang 2006): Early Storage and Sedentism on the Pacific Northwest Coast",
+   "url": "https://www.sfu.ca/~donyang/adnaweb/Cannon%20and%20Yang%20AA%202006.pdf"
+  }
+ },
+ {
+  "id": "z08-hinds-cave-latrines",
+  "era": "ancient",
+  "year": -4000,
+  "dateLabel": "About 4000 BCE",
+  "cat": "daily",
+  "title": "What Ancient Toilets Say About Dinner",
+  "place": "Hinds Cave, lower Pecos River canyonlands, Val Verde County, Texas, USA",
+  "lat": 29.98,
+  "lng": -101.4,
+  "text": "In a dry rock shelter above the lower Pecos River, people camped on and off for more than 9,000 years, sleeping on grass-lined beds. They also used the back wall as a latrine. Hundreds of dried human feces survived there, some over 6,000 years old, and Texas A&M researchers studied them in the 1970s. The verdict on the diet: high fiber, low fat, and almost any animal they could catch.",
+  "source": {
+   "name": "Texas Beyond History (University of Texas at Austin): Hinds Cave",
+   "url": "https://www.texasbeyondhistory.net/hinds/index.html"
+  }
+ },
+ {
+  "id": "z08-petroglyph-point-tule-lake",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 2500 to 600 BCE",
+  "cat": "culture",
+  "title": "Carvings Made From Boats",
+  "place": "Petroglyph Point, Lava Beds National Monument, Modoc County, California, USA",
+  "lat": 41.845,
+  "lng": -121.391,
+  "text": "Petroglyph Point in northern California was once an island in Tule Lake, reachable only by boat. Its soft volcanic cliff, in the homeland of the Modoc people, holds over 5,000 carvings, mostly geometric patterns. Researchers think people carved them from boats whenever dry spells lowered the lake, including one between 4,500 and 2,600 years ago. Similar patterns appear on household items up to 5,000 years old from nearby Nightfire Island.",
+  "source": {
+   "name": "National Park Service, Lava Beds: Images in Stone",
+   "url": "https://www.nps.gov/labe/learn/historyculture/images-in-stone.htm"
+  }
+ },
+ {
+  "id": "z08-fremont-dewclaw-moccasins",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "About 300 CE",
+  "cat": "daily",
+  "title": "Moccasins With Dew Claws for Grip",
+  "place": "Fremont River valley, Capitol Reef National Park, Utah, USA",
+  "lat": 38.29,
+  "lng": -111.25,
+  "text": "By about 300 CE, people archaeologists call the Fremont were living in the canyons of what is now Capitol Reef, Utah. They farmed corn, beans and squash, gathered pinyon nuts and wove tight rod-and-bundle baskets. Their moccasins, cut from the leg hide of deer or bighorn sheep, kept the dew claws on the soles, possibly for grip. Oral traditions link them to the Hopi, Zuni and Paiute.",
+  "source": {
+   "name": "National Park Service, Capitol Reef: Fremont Culture",
+   "url": "https://www.nps.gov/care/learn/historyculture/fremont.htm"
+  }
+ },
+ {
+  "id": "z08-the-forks-campfires",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1000 BCE",
+  "cat": "journeys",
+  "title": "Where Two Rivers Met the Trade Routes",
+  "place": "The Forks, junction of the Red and Assiniboine rivers, Winnipeg, Manitoba, Canada",
+  "lat": 49.89,
+  "lng": -97.13,
+  "text": "Two old campfires on the Assiniboine River show people stopping where it meets the Red River by 4000 BCE. By 1000 BCE, groups were camping at this spot in today's Winnipeg for long stretches, fishing the rich waters and hunting deer, elk and bison. Archaeologists have found objects here that came from as far away as the Lake Superior region and northern Texas, signs of a vast trade network.",
+  "source": {
+   "name": "Parks Canada, The Forks National Historic Site: Land Use",
+   "url": "https://parks.canada.ca/lhn-nhs/mb/forks/culture/histoire-history/vocation-landuse"
+  }
+ },
+ {
+  "id": "z08-aisinaipi-milk-river-rock-art",
+  "era": "ancient",
+  "year": -4000,
+  "dateLabel": "From about 4000 BCE",
+  "cat": "culture",
+  "title": "It Is Pictured, It Is Written",
+  "place": "Áísínai'pi (Writing-on-Stone Provincial Park), Milk River, Alberta, Canada",
+  "lat": 49.08,
+  "lng": -111.62,
+  "text": "Along Alberta's Milk River, sandstone cliffs and hoodoos carry one of the largest concentrations of rock art on the Great Plains, in more than 200 panels. The Niitsítapi, or Blackfoot, call the place Áísínai'pi, \"it is pictured, it is written.\" Its carvings and paintings record vision quests and life events from about 4000 BCE into the 20th century, messages tied to Spirit Beings who dwell in the hoodoos.",
+  "source": {
+   "name": "Parks Canada: Áísínai'pi National Historic Site of Canada",
+   "url": "https://parks.canada.ca/culture/designation/lieu-site/aisinaipi"
+  }
+ },
+ {
+  "id": "z08-carns-site-storm-dig",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "About 100 BCE to 900 CE",
+  "cat": "discovery",
+  "title": "Racing the Storms at Coast Guard Beach",
+  "place": "Carns site, Coast Guard Beach, Cape Cod National Seashore, Eastham, Massachusetts, USA",
+  "lat": 41.84,
+  "lng": -69.95,
+  "text": "In November 1990, erosion at Coast Guard Beach on Cape Cod exposed an old buried ground surface. Archaeologists spent 16 months digging more than 300 square meters while severe storms kept scouring the site away. The finds dated mostly to between 2,100 and 1,100 years ago, a poorly understood stretch of Cape Cod's Woodland past. Over 200 boxes of soil samples were still waiting to be processed a decade later.",
+  "source": {
+   "name": "National Park Service, Cape Cod: The Carns Site",
+   "url": "https://www.nps.gov/caco/learn/historyculture/the-carns-site.htm"
+  }
+ },
+ {
+  "id": "z08-augustine-mound-metepenagiag",
+  "era": "classical",
+  "year": -500,
+  "dateLabel": "About 500 BCE",
+  "cat": "culture",
+  "title": "A Sacred Mound on the Miramichi",
+  "place": "Augustine Mound, Metepenagiag (Red Bank), Miramichi River, New Brunswick, Canada",
+  "lat": 46.955,
+  "lng": -65.85,
+  "text": "About 2,500 years ago, Mi'kmaw ancestors at Metepenagiag, on New Brunswick's Miramichi River, raised a low, circular burial mound. It follows the Adena burial tradition of the faraway Ohio Valley, and held textiles, basketry, ornaments of Lake Superior copper and Ohio clay pipes. Just 700 meters away lies Oxbow, a riverbank site used for 3,000 years. The mound remains a sacred place for the Metepenagiag Mi'kmaq Nation.",
+  "source": {
+   "name": "Parks Canada, Directory of Federal Heritage Designations: Augustine Mound National Historic Site of Canada",
+   "url": "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=193"
+  },
+  "source2": {
+   "name": "Canada's Historic Places: Oxbow National Historic Site of Canada",
+   "url": "https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=4299"
+  }
+ },
+ {
+  "id": "z08-keatley-creek-big-houses",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "About 450 BCE to 750 CE",
+  "cat": "power",
+  "title": "Giant Pithouses Above the Fraser",
+  "place": "Keatley Creek site, near Lillooet, British Columbia, Canada",
+  "lat": 50.82,
+  "lng": -121.97,
+  "text": "On a terrace above the Fraser River near Lillooet stood one of the largest ancient villages in western Canada. About 115 house pits survive, and some semi-underground homes reached 25 meters across. Many big houses were lived in through the Plateau period, roughly 2,400 to 1,200 years ago, fed by salmon dried for winter. One large house held eight dog skulls in its storage pits, perhaps a sign of wealth.",
+  "source": {
+   "name": "BC Studies (Hayden and Spafford 1993): The Keatley Creek Site and Corporate Group Archaeology",
+   "url": "https://ojs.library.ubc.ca/index.php/bcstudies/article/download/1468/1512/6055"
+  }
+ },
+ {
+  "id": "z08-st-paul-indian-mounds",
+  "era": "classical",
+  "year": 100,
+  "dateLabel": "About 200 BCE to 400 CE",
+  "cat": "culture",
+  "title": "Burial Mounds Inside a Modern City",
+  "place": "Indian Mounds Park, Dayton's Bluff, St. Paul, Minnesota, USA",
+  "lat": 44.948,
+  "lng": -93.05,
+  "text": "On a bluff above the Mississippi in St. Paul, six burial mounds survive, built between about 200 BCE and 400 CE. They are the only ancient Native American burial mounds still standing inside a major US city. Diggers in the 1800s found wood and stone burial chambers, copper, shell beads and about fifty people, including a small child's skull bearing a clay mask. Most finds were later burned or stolen.",
+  "source": {
+   "name": "MNopedia, Minnesota Historical Society: Indian Mounds Park, St. Paul",
+   "url": "https://www.mnhs.org/mnopedia/search/index/place/indian-mounds-park-st-paul"
+  }
+ },
+ {
+  "id": "z08-copena-copper-galena",
+  "era": "classical",
+  "year": 250,
+  "dateLabel": "About 1 to 500 CE",
+  "cat": "power",
+  "title": "Copper and Galena for the Honored Dead",
+  "place": "Oakville Indian Mounds, near Moulton, Lawrence County, Alabama, USA",
+  "lat": 34.442,
+  "lng": -87.178,
+  "text": "In Alabama's Tennessee Valley, Middle Woodland people of about 1 to 500 CE buried some of their dead in caves and burial mounds, like those at Oakville near Moulton. Archaeologists call the tradition Copena, from COPper and galENA, a shiny lead ore found again and again in the graves. Copper earspools, ocean-shell cups and long stone points, some traded from far away, hint that certain people held special status.",
+  "source": {
+   "name": "Encyclopedia of Alabama: Woodland Period",
+   "url": "https://encyclopediaofalabama.org/article/woodland-period/"
+  }
+ },
+ {
+  "id": "z08-alberta-first-arrows",
+  "era": "classical",
+  "year": 1,
+  "dateLabel": "About 2,000 years ago",
+  "cat": "discovery",
+  "title": "The Bow Reaches the Alberta Plains",
+  "place": "Southern Alberta plains, Canada",
+  "lat": 49.9,
+  "lng": -111,
+  "text": "About 2,000 years ago, a new weapon reached the plains of what is now Alberta: the bow and arrow, which seems to have developed first in the Arctic before spreading south. For thousands of years before, hunters there had used the atlatl, a weighted spear-thrower that hurled darts with deadly force. Yet the bow did not simply replace it. People kept using both, choosing whichever suited the local landscape.",
+  "source": {
+   "name": "Alberta's Energy Heritage (Government of Alberta): The Atlatl",
+   "url": "https://history.alberta.ca/EnergyHeritage/energy/human-and-animal-power/human-power/the-atlatl.aspx"
+  }
+ },
+ {
+  "id": "z08-fleur-de-lys-soapstone",
+  "era": "classical",
+  "year": 400,
+  "dateLabel": "About 400 CE",
+  "cat": "daily",
+  "title": "A Cliff Quarried for Lamps and Pots",
+  "place": "Fleur de Lys Soapstone Quarry, Baie Verte Peninsula, Newfoundland and Labrador, Canada",
+  "lat": 50.12,
+  "lng": -56.13,
+  "text": "About 1,600 years ago, Dorset Paleo-Inuit people began quarrying a soapstone cliff at Fleur de Lys in northern Newfoundland, and kept at it for roughly 500 years. Soapstone is soft to carve and holds heat, ideal for oil lamps and cooking pots. Around a thousand scars remain where vessel blanks were cut out, matching the size of finished Dorset bowls. Waterlogged clay below even preserved wooden poles.",
+  "source": {
+   "name": "Canada's Historic Places: Fleur de Lys Soapstone Quarry",
+   "url": "https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=4127"
+  },
+  "source2": {
+   "name": "Government of Newfoundland and Labrador: Field Report for the 1997 Fleur de Lys Archaeology Project",
+   "url": "https://www.gov.nl.ca/tcar/provincial-archaeology-annual-report-series/1997-toc/erwin-1997-fdl"
+  }
+ },
+ {
+  "id": "z08-adena-falcon-tablet",
+  "era": "classical",
+  "year": -150,
+  "dateLabel": "About 500 BCE to 200 CE",
+  "cat": "culture",
+  "title": "A Stone Stamp for Printing Falcons",
+  "place": "Montgomery County, Bluegrass region, Kentucky, USA",
+  "lat": 38.03,
+  "lng": -83.92,
+  "text": "Adena people of Kentucky's Bluegrass, living from about 500 BCE to 200 CE, carved palm-sized stone tablets. One engraved fragment, found at the base of a Montgomery County mound, shows a stylized falcon or hawk. Traces of pigment, red on one tablet, survive in some grooves, so archaeologists think they were printing blocks, perhaps inked with red ochre to stamp rows of birds onto leather or deerskin capes.",
+  "source": {
+   "name": "Kentucky Heritage Council and Kentucky Archaeological Survey: Adena, Woodland Period Moundbuilders of the Bluegrass",
+   "url": "https://heritage.ky.gov/Documents/Adena-Booklet.pdf"
+  }
+ },
+ {
+  "id": "z08-newspaper-rock-layers",
+  "era": "classical",
+  "year": 500,
+  "dateLabel": "About 500 CE",
+  "cat": "culture",
+  "title": "A Rock Face Carved for 1,500 Years",
+  "place": "Newspaper Rock, Indian Creek, San Juan County, Utah, USA",
+  "lat": 37.99,
+  "lng": -109.52,
+  "text": "On a sandstone face beside Indian Creek in southeastern Utah, people began pecking images through the dark desert varnish about 1,500 years ago, and kept adding more into the early 20th century, sometimes right over older ones. The oldest carvings are attributed to Basketmaker and Ancestral Puebloan people, while riders on horseback are thought to be Ute work. Look closely for bighorn sheep, bison and feet with six toes.",
+  "source": {
+   "name": "Bureau of Land Management: Newspaper Rock",
+   "url": "https://www.blm.gov/visit/newspaper-rock"
+  },
+  "source2": {
+   "name": "Bureau of Land Management: Newspaper Rock brochure",
+   "url": "https://www.blm.gov/sites/default/files/documents/files/BLMUtah_NewspaperRock_Brochure.pdf"
+  }
+ },
+ {
+  "id": "z08-kachemak-nets-and-labrets",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 2000 BCE",
+  "cat": "daily",
+  "title": "Salmon Nets and Labrets on Kodiak",
+  "place": "Kodiak Archipelago, Alaska, USA",
+  "lat": 57.55,
+  "lng": -153.45,
+  "text": "About 4,000 years ago, people on Alaska's Kodiak Island began fishing more intensely than ever, launching what archaeologists call the Kachemak tradition. They developed nets for salmon, and slate knives called ulus and smokehouses to process big catches of cod and salmon for storage. As the population grew, labrets, decorative plugs worn in the face, came into fashion, perhaps showing who belonged to which group.",
+  "source": {
+   "name": "Alutiiq Museum: Our Stories",
+   "url": "https://alutiiqmuseum.org/alutiiq-people/history/our-stories/"
+  }
+ },
+ {
+  "id": "z08-jeffers-petroglyphs-human-figures",
+  "era": "ancient",
+  "year": -3000,
+  "dateLabel": "About 3000 BCE",
+  "cat": "culture",
+  "title": "When People Joined the Bison on the Rock",
+  "place": "Jeffers Petroglyphs, Red Rock Ridge, Cottonwood County, Minnesota, USA",
+  "lat": 44.09,
+  "lng": -95.05,
+  "text": "On smooth quartzite outcrops in southwestern Minnesota, people pecked an estimated 8,000 images over about 11,000 years: bison, elk, turtles, atlatls and arrowheads. For thousands of years animals dominated, but around 3000 BCE human figures performing ceremonies began to appear beside them. The site lies in Dakota homeland and is sacred to the Cheyenne, Arapaho, Iowa and Ojibwe, whose elders say people came here to fast and seek guidance.",
+  "source": {
+   "name": "MNopedia, Minnesota Historical Society: Jeffers Petroglyphs",
+   "url": "https://www.mnhs.org/mnopedia/search/index/place/jeffers-petroglyphs"
+  }
+ },
+ {
+  "id": "z08-bonfire-shelter-bison-jump",
+  "era": "ancient",
+  "year": -600,
+  "dateLabel": "About 600 BCE",
+  "cat": "nature",
+  "title": "The Bison Jump That Set Itself Alight",
+  "place": "Bonfire Shelter, near Langtry, Val Verde County, Texas, USA",
+  "lat": 29.82,
+  "lng": -101.55,
+  "text": "About 2,600 years ago, a brief wet spell spread grassland into the dry canyons of the lower Pecos, and bison herds followed. Hunters stampeded them over a cliff near today's Langtry, Texas, and butchered them in the rock shelter below, where remains of an estimated 800 animals piled up. The leftover bones, meat and fat apparently caught fire on their own, giving Bonfire Shelter its name.",
+  "source": {
+   "name": "Handbook of Texas (Texas State Historical Association): Bonfire Shelter",
+   "url": "https://www.tshaonline.org/handbook/entries/bonfire-shelter"
+  }
+ },
+ {
+  "id": "z08-kejimkujik-stopping-place",
+  "era": "ancient",
+  "year": -1500,
+  "dateLabel": "About 2000 to 1000 BCE",
+  "cat": "journeys",
+  "title": "The Stopping Place Between Two Coasts",
+  "place": "Kejimkujik National Park and National Historic Site, Nova Scotia, Canada",
+  "lat": 44.38,
+  "lng": -65.25,
+  "text": "By 3,000 to 4,000 years ago, Late Archaic people were camping around the lakes of Kejimkujik in the heart of Nova Scotia, and finds on the Mersey River suggest earlier visitors 6,000 years ago. Rich in caribou, moose and fish, the area became a regular stop on canoe routes linking the south and north coasts. Over 60 sites survive, and over millennia these peoples developed the culture of today's Mi'kmaq.",
+  "source": {
+   "name": "Parks Canada, Kejimkujik: Mi'kmaw History",
+   "url": "https://parks.canada.ca/pn-np/ns/kejimkujik/culture/autochtone-indigenous/mikmaq"
+  }
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "z11-loc-giang-lime-floors",
+  "era": "ancient",
+  "year": -1400,
+  "dateLabel": "About 1400 BCE",
+  "cat": "daily",
+  "title": "Thirty Floors Laid One on Another",
+  "place": "Loc Giang, Duc Hoa, Long An, Vietnam",
+  "lat": 10.995,
+  "lng": 106.29,
+  "text": "Beside the Vam Co Dong River, Neolithic villagers kept laying new floors of lime mortar, probably made by burning shells. Excavators counted more than 30 surfaces stacked on top of each other, probably kept clean by sweeping or mats, with worn patches replaced and spots of burning where hearths stood. They tempered the mortar with rice husk and sometimes broken pots. Quarrying has since almost destroyed the site.",
+  "source": {
+   "name": "Antiquity (Cambridge): Early settlement construction in Southeast Asia: lime mortar floor sequences at Loc Giang",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/early-settlement-construction-in-southeast-asia-lime-mortar-floor-sequences-at-loc-giang-southern-vietnam/DDDE6C85BA800120E6CAFABD97A0BC37"
+  }
+ },
+ {
+  "id": "z11-lovea-moated-village",
+  "era": "classical",
+  "year": 200,
+  "dateLabel": "About 130–345 CE",
+  "cat": "daily",
+  "title": "A Village Wrapped in a Moat",
+  "place": "Lovea, Puok District, Siem Reap, Cambodia",
+  "lat": 13.485,
+  "lng": 103.713,
+  "text": "Long before Angkor's temples, villagers at Lovea lived on a mound wrapped in a circular bank and moat. Laser scans from an aircraft revealed ox-cart tracks fanning out from the village like spokes, and a bank kept at almost the same height even where the ground slopes. That suggests it was built to hold water. Graves inside date to roughly 130 to 345 CE.",
+  "source": {
+   "name": "Antiquity (Cambridge): Airborne LiDAR prospection at Lovea, an Iron Age moated settlement in central Cambodia",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/airborne-lidar-prospection-at-lovea-an-iron-age-moated-settlement-in-central-cambodia/0B0955BD24FD43D9718735F1FEC13E1F"
+  }
+ },
+ {
+  "id": "z11-pacung-indian-pottery",
+  "era": "classical",
+  "year": -100,
+  "dateLabel": "About 100 BCE",
+  "cat": "journeys",
+  "title": "Indian Dishes on Bali's North Shore",
+  "place": "Pacung, Tejakula, Buleleng, Bali, Indonesia",
+  "lat": -8.11,
+  "lng": 115.36,
+  "text": "Buried under about three metres of river sediment, the coastal villages of Pacung and Sembiran hold over 600 fine sherds of pottery made in India. Radiocarbon dates on the burials place this contact as early as the last centuries BCE. One sherd even carries Kharoshthi, a script of the far northwest of the Indian subcontinent, and a mung bean from India turned up just above the graves.",
+  "source": {
+   "name": "Antiquity (Cambridge): Sembiran and Pacung on the north coast of Bali",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/sembiran-and-pacung-on-the-north-coast-of-bali-a-strategic-crossroads-for-early-transasiatic-exchange/6684E0B9709380F39E85417E637F3518"
+  }
+ },
+ {
+  "id": "z11-sembiran-drum-mould",
+  "era": "classical",
+  "year": -50,
+  "dateLabel": "About 50 BCE",
+  "cat": "discovery",
+  "title": "A Stone Mould for Bronze Drums",
+  "place": "Sembiran, Tejakula, Buleleng, Bali, Indonesia",
+  "lat": -8.12,
+  "lng": 115.4,
+  "text": "Bronze drums of the Dong Son culture of northern Vietnam were imported into Indonesia, and Balinese smiths soon cast their own. At Sembiran, archaeologists found a mould carved from volcanic tuff with patterns for a Pejeng-type drum, Bali's local style. A second mould, for a socketed axe, lay in the same layer. Lead isotopes from a bronze point suggest imported metal was melted down and recast locally.",
+  "source": {
+   "name": "Antiquity (Cambridge): Sembiran and Pacung on the north coast of Bali",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/sembiran-and-pacung-on-the-north-coast-of-bali-a-strategic-crossroads-for-early-transasiatic-exchange/6684E0B9709380F39E85417E637F3518"
+  }
+ },
+ {
+  "id": "z11-pangkung-paruk-roman-beads",
+  "era": "classical",
+  "year": 0,
+  "dateLabel": "Roughly 2,000 years ago",
+  "cat": "journeys",
+  "title": "Roman Glass in a Balinese Coffin",
+  "place": "Pangkung Paruk, Seririt district, Buleleng, Bali, Indonesia",
+  "lat": -8.21,
+  "lng": 114.94,
+  "text": "A stone sarcophagus at Pangkung Paruk, west of Sembiran on Bali's north coast, held about 40 beads with gold foil sealed in glass. Tests on two showed soda natron glass, the same kind as a red striped bead from Sembiran identified as Roman. Researchers call these finds the first evidence of Roman materials in a prehistoric context anywhere in Island Southeast Asia.",
+  "source": {
+   "name": "Antiquity (Cambridge): Sembiran and Pacung on the north coast of Bali",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/sembiran-and-pacung-on-the-north-coast-of-bali-a-strategic-crossroads-for-early-transasiatic-exchange/6684E0B9709380F39E85417E637F3518"
+  }
+ },
+ {
+  "id": "z11-khao-khuram-zebu",
+  "era": "classical",
+  "year": 350,
+  "dateLabel": "About 1,700–1,500 years ago",
+  "cat": "discovery",
+  "title": "Humped Cattle Arrive From India",
+  "place": "Khao Khuram, west coast of peninsular Thailand",
+  "lat": 9,
+  "lng": 98.4,
+  "text": "Earlier DNA studies found only humpless taurine cattle in ancient Thailand. Then DNA from three cow bones at Khao Khuram, an early historic site on Thailand's west coast, turned out to be zebu, the humped cattle of India, about 1,700 to 1,500 years old. The same site has carnelian beads, a classic Indian trade good. Researchers think zebu came with traders, overland through Myanmar or by sea.",
+  "source": {
+   "name": "Animals (MDPI), via PMC: The First Ancient DNA Evidence of Zebu Husbandry in Thailand",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13295790/"
+  }
+ },
+ {
+  "id": "z11-don-yai-thong-ring",
+  "era": "classical",
+  "year": 0,
+  "dateLabel": "About 2,000 years ago",
+  "cat": "culture",
+  "title": "A Gold Ring Signed in Brahmi",
+  "place": "Don Yai Thong, Phetchaburi Province, Thailand",
+  "lat": 13.1,
+  "lng": 99.9,
+  "text": "A burial at Don Yai Thong held a rare gold ring engraved in Brahmi, an Indian script, reading 'pusarakhitasa', meaning 'the one protected by Pushya', a sign in Indian astrology. Its owner may have been a merchant. The cemetery, about 1,500 to 2,000 years old, also gave up six bronze drums and skeletons with bronze vessels laid over their heads and chins.",
+  "source": {
+   "name": "Archaeology Magazine: Around the World, Thailand (Sept/Oct 2026)",
+   "url": "https://archaeology.org/issues/september-october-2026/world/?location=thailand-2"
+  },
+  "source2": {
+   "name": "Archaeology Magazine: Skeletons Uncovered at Thailand's Don Yai Thong Burial Site",
+   "url": "https://archaeology.org/news/2026/07/02/skeletons-uncovered-at-thailands-don-yai-thong-burial-site/"
+  }
+ },
+ {
+  "id": "z11-wetar-painted-plaque",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 4,000 years ago",
+  "cat": "culture",
+  "title": "A Pocket-Sized Sun on Wetar",
+  "place": "Huknaur rock shelter, Wetar Island, Maluku, Indonesia",
+  "lat": -7.8,
+  "lng": 126.3,
+  "text": "Ancient seafarers painted red suns and circles on cave walls across the western Pacific. At Huknaur rock shelter on Wetar Island, excavators found the same sun-ray design on something you could carry: a small stone plaque in a layer about 4,000 years old, some 500 years before the first Austronesian pottery there. It may have been a voyager's charm or badge of belonging.",
+  "source": {
+   "name": "Archaeology Magazine: Around the World, Indonesia (Nov/Dec 2026)",
+   "url": "https://archaeology.org/issues/november-december-2026/world/?location=indonesia-4"
+  },
+  "source2": {
+   "name": "The Conversation (ANU authors): 4,000-year-old rock painting in Indonesia offers clues to one of humanity's greatest migrations",
+   "url": "https://theconversation.com/4-000-year-old-rock-painting-in-indonesia-offers-clues-to-one-of-humanitys-greatest-migrations-288516"
+  }
+ },
+ {
+  "id": "z11-fiji-five-generation-family",
+  "era": "classical",
+  "year": 500,
+  "dateLabel": "About 1,500 years ago",
+  "cat": "power",
+  "title": "A Fijian Family Tree in the Bones",
+  "place": "Fiji",
+  "lat": -18,
+  "lng": 178.3,
+  "text": "Ancient DNA from 72 people in Vanuatu, Fiji and Tonga shows waves of newcomers arriving and mixing over the last 3,000 years. In one Fijian community about 1,500 years old, geneticists traced a family tree across five generations. One kin group stood out with its own ancestry, and the researchers think its customs may have helped keep wealth or status inside the family.",
+  "source": {
+   "name": "Phys.org (University of Tübingen): Early settlement dynamics in the Pacific revealed through ancient DNA",
+   "url": "https://phys.org/news/2026-08-early-settlement-dynamics-pacific-revealed.html"
+  }
+ },
+ {
+  "id": "z11-leang-bulu-sipong-shark-knife",
+  "era": "ancient",
+  "year": -5000,
+  "dateLabel": "About 7,000 years ago",
+  "cat": "discovery",
+  "title": "Knives Made From Tiger Shark Teeth",
+  "place": "Leang Bulu' Sipong 1, Pangkep, South Sulawesi, Indonesia",
+  "lat": -4.8,
+  "lng": 119.65,
+  "text": "Toalean foragers in southwest Sulawesi drilled holes through the roots of two-metre tiger sharks' teeth and bound them to handles with plant thread and a glue of mineral, plant and animal ingredients. Found at Leang Bulu' Sipong 1 and Leang Panninge, the 7,000-year-old teeth show wear from cutting flesh and bone. Tests showed they gash deeply but blunt fast, so perhaps they were ritual or fighting weapons.",
+  "source": {
+   "name": "The Conversation (Griffith University authors): 7,000-year-old shark-tooth knives discovered in Indonesia",
+   "url": "https://theconversation.com/bringing-a-shark-to-a-knife-fight-7-000-year-old-shark-tooth-knives-discovered-in-indonesia-214070"
+  }
+ },
+ {
+  "id": "z11-ban-non-wat-freshwater-beads",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "About 1000 BCE",
+  "cat": "journeys",
+  "title": "Eighty Thousand Beads From the Rivers",
+  "place": "Ban Non Wat, Nakhon Ratchasima, Thailand",
+  "lat": 15.27,
+  "lng": 102.27,
+  "text": "Bronze Age graves at Ban Non Wat held tiny shell discs by the tens of thousands: over 83,000 in one phase alone, many still stuck to skulls, perhaps from a shroud or head covering. Isotope tests show almost all came from freshwater shells, not the sea. With no bead workshop found at the village, they were probably imported, perhaps from several makers around the Khorat Plateau's wetlands.",
+  "source": {
+   "name": "Antiquity (Cambridge): Isotopic and provenance analysis of shell disc beads from Ban Non Wat",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/isotopic-and-provenance-analysis-of-neolithic-and-bronze-age-shell-disc-beads-from-ban-non-wat-northeast-thailand/4D1271F3861800B2C5A9A608686123EB"
+  }
+ },
+ {
+  "id": "z11-krong-no-volcanic-cave-burials",
+  "era": "ancient",
+  "year": -5000,
+  "dateLabel": "About 7,000 years ago",
+  "cat": "daily",
+  "title": "Burials in a Volcanic Cave",
+  "place": "Krông Nô volcanic cave system, Đắk Nông, Vietnam",
+  "lat": 12.43,
+  "lng": 107.86,
+  "text": "Vietnam's Central Highlands hold a system of volcanic caves. In one at Krông Nô, archaeologists found two adults and a child of about four, buried some 7,000 years ago and surrounded by the bones of ten more people. The red basalt soil rarely preserves bones, but the cave dwellers ate snails and mussels, whose calcium-rich shells changed the chemistry inside the cave.",
+  "source": {
+   "name": "Archaeology Magazine: Neolithic Human Remains Discovered in Central Vietnam",
+   "url": "https://archaeology.org/news/2018/09/19/180919-vietnam-neolithic-remains/"
+  }
+ },
+ {
+  "id": "z11-puong-cave-hoabinhian-meals",
+  "era": "ancient",
+  "year": -7000,
+  "dateLabel": "About 9,000 years ago",
+  "cat": "daily",
+  "title": "Hedgehog and Oysters in Puong Cave",
+  "place": "Puong Cave, Ba Bể, Bắc Kạn, Vietnam",
+  "lat": 22.45,
+  "lng": 105.65,
+  "text": "In the mountains of northern Vietnam, Puong Cave kept the leftovers of people of the Hoa Binh culture. They made tools from stones taken from streams and rivers, and ate pigs, monkeys, deer and even hedgehogs, along with oysters, snails and nuts. Trinh Nang Chung of the Vietnam Archaeology Institute estimated in 2019 that the site is about 9,000 years old.",
+  "source": {
+   "name": "Archaeology Magazine: Neolithic Artifacts Discovered in Northern Vietnam",
+   "url": "https://archaeology.org/news/2019/06/18/190618-vietnam-neolithic-cave/"
+  }
+ },
+ {
+  "id": "z11-nenggiri-extended-burial",
+  "era": "ancient",
+  "year": -4000,
+  "dateLabel": "About 6,000 years ago",
+  "cat": "culture",
+  "title": "Lying Down Instead of Curled Up",
+  "place": "Nenggiri Valley, Gua Musang, Kelantan, Malaysia",
+  "lat": 4.95,
+  "lng": 101.85,
+  "text": "In 13 limestone caves of Malaysia's Nenggiri Valley, archaeologists recovered 16 people. Fifteen were buried curled up, the oldest 14,000 to 16,000 years ago. One stood apart: a Neolithic person laid out flat about 6,000 years ago, with a stone bracelet, polished stone tools and pottery. A hydroelectric dam is expected to flood the caves in 2027.",
+  "source": {
+   "name": "Archaeology Magazine: Prehistoric Burials Unearthed in Malaysia",
+   "url": "https://archaeology.org/news/2024/09/11/prehistoric-burials-unearthed-in-malaysia/"
+  }
+ },
+ {
+  "id": "z11-timor-oliva-shell-beads",
+  "era": "ancient",
+  "year": -4000,
+  "dateLabel": "About 6,000 years ago",
+  "cat": "culture",
+  "title": "Necklaces Tapped Open the Old Way",
+  "place": "Lene Hara and Jerimalai caves, Tutuala, Lautém, Timor-Leste",
+  "lat": -8.4,
+  "lng": 127.3,
+  "text": "At the eastern tip of Timor, people strung tiny shiny Oliva shells into necklaces for roughly 38,000 years. Experiments showed they opened each shell by tapping its tip against a hard surface, a job of under a minute, and the same method appears on the oldest bead. Over half carry red ochre, and bead numbers jumped about 5,000 to 6,000 years ago.",
+  "source": {
+   "name": "PLOS ONE: An Enduring Shell Artefact Tradition from Timor-Leste (Langley and O'Connor 2016)",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4990244/"
+  }
+ },
+ {
+  "id": "z11-mount-srobu-crouching-statues",
+  "era": "ancient",
+  "year": -1000,
+  "dateLabel": "Possibly over 3,000 years ago",
+  "cat": "culture",
+  "title": "Crouching Stone Ancestors of Srobu",
+  "place": "Mount Srobu, Jayapura, Papua, Indonesia",
+  "lat": -2.6,
+  "lng": 140.75,
+  "text": "On New Guinea's north coast, graves cut into limestone at Mount Srobu and capped with shell mounds held ornately carved stone statues about 90 centimetres tall. The figures crouch, a pose like statues known from Polynesia. Lead researcher Erlin Novita links them to honoured ancestors, and to the crouched smoked mummies of Papuan chiefs still venerated today. The cemetery may be over 3,000 years old.",
+  "source": {
+   "name": "Archaeology Magazine: Honoring the Ancestors (Mar/Apr 2019)",
+   "url": "https://archaeology.org/issues/march-april-2019/digs-discoveries/trenches-new-guinea-statues/"
+  }
+ },
+ {
+  "id": "z11-kelabit-stone-mounds",
+  "era": "classical",
+  "year": 0,
+  "dateLabel": "About 2,000 years ago",
+  "cat": "daily",
+  "title": "Stone Mounds in Borneo's Highlands",
+  "place": "Kelabit Highlands, Sarawak, Malaysia",
+  "lat": 3.73,
+  "lng": 115.48,
+  "text": "Deep in Borneo's interior, the Kelabit Highlands hide stone mounds called perupun, up to about 30 metres wide and 3 metres high, linked to roughly 2,000 years ago. The Cultured Rainforest Project also found open-air Early Metal Age villages with stone walls and iron tools, 1,000 to 2,300 years old, plus rice and sago plots up to 2,300 years old.",
+  "source": {
+   "name": "Archaeology Magazine: The Landscape of Memory (Letter From Borneo)",
+   "url": "https://archaeology.org/issues/march-april-2014/letters-from/borneo-jungle-megalithic-mounds-stone-jars/"
+  }
+ },
+ {
+  "id": "z11-navatu-hilltop-feasts",
+  "era": "classical",
+  "year": 450,
+  "dateLabel": "About 450 CE",
+  "cat": "power",
+  "title": "Fancy Pots on a Volcanic Plug",
+  "place": "Navatu 17A, near Rakiraki, Viti Levu, Fiji",
+  "lat": -17.38,
+  "lng": 178.16,
+  "text": "Around the middle of the first millennium CE, Fijians began building in places that were easier to defend. Navatu 17A sat on the flanks of a steep volcanic plug, while hilltop forts rose in the Sigatoka Valley. Navatu's lowest layers hold ornate double-spouted pots alongside turtle bone and cannibalised human remains, foods that archaeologists suspect were reserved for people of high status.",
+  "source": {
+   "name": "ANU Press (Terra Australis 31): Clark and Anderson, Colonisation and culture change in the early prehistory of Fiji",
+   "url": "https://press-files.anu.edu.au/downloads/press/p49471/pdf/161.pdf"
+  }
+ },
+ {
+  "id": "z11-lakeba-hilltop-turn",
+  "era": "classical",
+  "year": -400,
+  "dateLabel": "About 2,500–2,100 years ago",
+  "cat": "daily",
+  "title": "Climbing to the Hilltops of Lau",
+  "place": "Lakeba, Lau Group, Fiji",
+  "lat": -18.2,
+  "lng": -178.8,
+  "text": "A few centuries after the first Lapita settlers, life in Fiji's Lau islands changed. Sites from about 2,500 to 2,100 years ago turn up in every part of the landscape, even the highest hilltops, and archaeologist Best read hilltops plus cannibalism as signs of stress and strife. On Lakeba, mud from Waitabu Swamp records burning and erosion that grew massively between about 1,900 and 1,750 years ago.",
+  "source": {
+   "name": "ANU Press (Terra Australis 31): Clark and Anderson, Colonisation and culture change in the early prehistory of Fiji",
+   "url": "https://press-files.anu.edu.au/downloads/press/p49471/pdf/161.pdf"
+  }
+ },
+ {
+  "id": "z11-viti-levu-dialect-split",
+  "era": "classical",
+  "year": 200,
+  "dateLabel": "About 1,500–2,000 years ago",
+  "cat": "culture",
+  "title": "A Plateau Splits Fiji's Speech",
+  "place": "Nadrau Plateau, central Viti Levu, Fiji",
+  "lat": -17.65,
+  "lng": 177.95,
+  "text": "As people moved into the rugged interior of Viti Levu, roughly 1,500 to 2,000 years ago, the high Nadrau Plateau came between eastern and western communities. Their speech drifted apart. Today Fiji's Eastern dialect group covers most of the islands, including Vanua Levu and Lau, while the Western group is limited to western Viti Levu, the Yasawas and Vatulele.",
+  "source": {
+   "name": "ANU Press (Terra Australis 31): Clark and Anderson, Colonisation and culture change in the early prehistory of Fiji",
+   "url": "https://press-files.anu.edu.au/downloads/press/p49471/pdf/161.pdf"
+  }
+ },
+ {
+  "id": "z11-fiji-salt-pans",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "Post-Lapita era, roughly first millennium CE",
+  "cat": "daily",
+  "title": "Big Clay Pans for Sea Salt?",
+  "place": "Yasawa Islands, Fiji",
+  "lat": -16.9,
+  "lng": 177.4,
+  "text": "After decorated Lapita pottery faded, Fijian potters on Viti Levu and the Yasawa Islands made something new: large clay pans with flat bases. Archaeologists think they may have been used to evaporate seawater into salt. In later centuries, salt was an important trade good passing from coastal villages to inland groups, and that exchange may have begun this early.",
+  "source": {
+   "name": "ANU Press (Terra Australis 31): Clark and Anderson, Colonisation and culture change in the early prehistory of Fiji",
+   "url": "https://press-files.anu.edu.au/downloads/press/p49471/pdf/161.pdf"
+  }
+ },
+ {
+  "id": "z11-velanai-island-midden",
+  "era": "ancient",
+  "year": -4100,
+  "dateLabel": "About 6,300–5,970 years ago",
+  "cat": "discovery",
+  "title": "Dugong and Dolphin on Velanai",
+  "place": "Velanai Island, Jaffna, Sri Lanka",
+  "lat": 9.63,
+  "lng": 79.9,
+  "text": "Northern Sri Lanka was long thought empty until herders arrived from India in the 5th century BCE. Then a shell midden on Velanai Island turned out to be about 6,000 years old. Hunter-gatherers there ate shellfish, sea bream, deer, wild boar, dugongs and dolphins, and used quartz and chert carried more than 48 kilometres from the mainland, about 5 kilometres of it across water.",
+  "source": {
+   "name": "Archaeology Magazine: Prehistoric Midden Excavated in Northern Sri Lanka",
+   "url": "https://archaeology.org/news/2026/05/12/prehistoric-midden-excavated-in-northern-sri-lanka/"
+  }
+ },
+ {
+  "id": "z11-molapalayam-rhino",
+  "era": "ancient",
+  "year": -1600,
+  "dateLabel": "About 1600 BCE",
+  "cat": "discovery",
+  "title": "A Rhino Among the Cattle Herders",
+  "place": "Molapalayam, Noyyal River valley, near Coimbatore, Tamil Nadu, India",
+  "lat": 11,
+  "lng": 76.9,
+  "text": "At Molapalayam, a Neolithic site in Tamil Nadu, animal bones show a herding village raising cattle, sheep and goats, hunting deer and antelope, and eating small millets and pulses. Among bones of 28 kinds of animals were four from an Indian rhinoceros, about 3,600 years old. Today the species survives only in Assam and northeastern India, far from the south.",
+  "source": {
+   "name": "Archaeology Magazine: Rhino Bones Discovered at Tamil Nadu Neolithic Site",
+   "url": "https://archaeology.org/news/2026/01/30/rhino-bones-found-at-tamil-nadu-neolithic-site/"
+  },
+  "source2": {
+   "name": "ThePrint: Rhinos roamed Tamil Nadu 3,600 years ago",
+   "url": "https://theprint.in/science/tamil-nadu-rhinos-3600-yrs-study-wildlife-diversity-trade-coast/2845351"
+  }
+ },
+ {
+  "id": "z11-kutch-early-harappan-graves",
+  "era": "ancient",
+  "year": -3000,
+  "dateLabel": "About 3300–2600 BCE",
+  "cat": "culture",
+  "title": "Graves Facing East in Kutch",
+  "place": "Kachchh District, Gujarat, India",
+  "lat": 23.5,
+  "lng": 69.2,
+  "text": "A University of Kerala team dug more than 20 graves in Gujarat's Kutch region, used between about 3300 and 2600 BCE, early in the Indus story. Some were rectangular pits aligned east to west with the head at the eastern end. Mourners left pots, conch-shell bangles, terracotta and stone beads, grinding stones and animal remains. Some bones may have been moved from an older site.",
+  "source": {
+   "name": "Archaeology Magazine: Harappan Cemetery Excavated in India",
+   "url": "https://archaeology.org/news/2019/03/13/190313-india-harappan-cemetery/"
+  },
+  "source2": {
+   "name": "Dawn (via BBC): Discovery of massive Indus Valley burial site in Gujarat puzzles scientists",
+   "url": "https://www.dawn.com/news/1779749/discovery-of-massive-indus-valley-burial-site-in-gujarat-puzzles-scientists"
+  }
+ }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "id": "z07-kuldara-oldest-flakes",
+  "era": "early",
+  "year": -930000,
+  "dateLabel": "About 930,000 years ago",
+  "cat": "discovery",
+  "title": "A Handful of Flakes, 930,000 Years Old",
+  "place": "Kuldara, Khovaling district, Khatlon Region, Tajikistan",
+  "lat": 38.38,
+  "lng": 69.92,
+  "text": "Near the bottom of a towering stack of wind-blown dust at Kuldara, about 1,300 metres up in southern Tajikistan, lie a few simple stone flakes. Two ancient soils holding them date to roughly 915,000 and 970,000 years ago, giving a modelled age near 930,000 years. That makes them the earliest dated sign of human relatives anywhere in Central Asia, a possible corridor between the Near East and East Asia.",
+  "source": {
+   "name": "Nature Communications (PMC): Absolute chronology of the Early Palaeolithic Karatau Culture in Central Asia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13462899/"
+  }
+ },
+ {
+  "id": "z07-amir-timur-stalagmite",
+  "era": "early",
+  "year": -391000,
+  "dateLabel": "About 391,000 years ago",
+  "cat": "nature",
+  "title": "A Stalagmite Logs Forty-Year Droughts",
+  "place": "Amir Timur Cave, Zaravshan Mountains, south of Samarkand, Uzbekistan",
+  "lat": 39.42,
+  "lng": 66.76,
+  "text": "A stalagmite from Amir Timur Cave in Uzbekistan's Zaravshan mountains grew layer by layer around 391,000 years ago. By counting its yearly bands across about 780 years and reading their chemistry, scientists found three dry spells, each lasting about 40 years, separated by wetter times. In that era, moisture carried inland by westerly winds may have made today's arid Central Asian plains intermittently livable for early humans.",
+  "source": {
+   "name": "PMC: Paleolithic occupation of arid Central Asia in the Middle Pleistocene",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9586385/"
+  }
+ },
+ {
+  "id": "z07-bukhtarma-hyenas-hunters",
+  "era": "early",
+  "year": -47000,
+  "dateLabel": "About 47,000 years ago",
+  "cat": "daily",
+  "title": "Hyenas and Hunters Took Turns",
+  "place": "Bukhtarma Cave, southern Altai foothills, East Kazakhstan, Kazakhstan",
+  "lat": 49.65,
+  "lng": 83.7,
+  "text": "In a limestone cave above Kazakhstan's Bukhtarma River, a cut mark on a large animal bone shows people were there about 47,000 years ago. For thousands of years, carnivores such as cave hyenas and humans used the cave in turns. Hunters butchered horses, bison, red deer and brown bears, and the bones include camel, rhino and mammoth. A reservoir flooded the cave in 1958, so no one can dig again.",
+  "source": {
+   "name": "PMC: A Newly Dated Late Pleistocene and Holocene Archaeological Assemblage from Bukhtarma Cave in the Southern Altai Piedmont, East Kazakhstan",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11695562/"
+  }
+ },
+ {
+  "id": "z07-ushbulak-crossroads-camp",
+  "era": "early",
+  "year": -41000,
+  "dateLabel": "About 41,000 years ago",
+  "cat": "journeys",
+  "title": "A Camp at Asia's Crossroads",
+  "place": "Ushbulak, Shilikty Valley, East Kazakhstan, Kazakhstan",
+  "lat": 47.4,
+  "lng": 85.6,
+  "text": "Found in 2016 by a Russian-Kazakh team, Ushbulak sits in the Shilikty Valley, where routes from southwestern Central Asia, southern Siberia and northern China meet. One of its deepest layers gave radiocarbon ages of about 41,000 and 36,000 years and holds retouched blades, endscrapers, beveled points and stemmed tools. They closely match toolkits from the Altai's Kara-Bom and Denisova Cave and from Mongolia and northern China, hinting ideas travelled widely.",
+  "source": {
+   "name": "Archaeology, Ethnology and Anthropology of Eurasia: Ushbulak, a new stratified Upper Paleolithic site in northeastern Kazakhstan",
+   "url": "https://archaeology.nsc.ru/en/publications/jr-aeae-en/19-47-4/annot-02/"
+  }
+ },
+ {
+  "id": "z07-baikal-spruce-newcomers",
+  "era": "early",
+  "year": -45000,
+  "dateLabel": "About 45,000 years ago",
+  "cat": "journeys",
+  "title": "Spruce Forests Welcome Newcomers to Baikal",
+  "place": "Posolskoe Bank, southern Lake Baikal, Buryatia, Russia",
+  "lat": 52.08,
+  "lng": 105.83,
+  "text": "Pollen drilled from the bed of southern Lake Baikal shows sudden bursts of forest in a mostly treeless, wormwood-covered land. The strongest came around 45,000 years ago, when spruce spread and summers were only about 3°C cooler than today. That is just when modern humans with new blade tools appear at sites like Kamenka and Makarovo-4, perhaps drawn by the mix of forest and steppe.",
+  "source": {
+   "name": "Science Advances (PMC): Climate amelioration, abrupt vegetation recovery, and the dispersal of Homo sapiens in Baikal Siberia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10516500/"
+  }
+ },
+ {
+  "id": "z07-malta-hooded-child-figures",
+  "era": "iceage",
+  "year": -23000,
+  "dateLabel": "About 25,000 years ago",
+  "cat": "culture",
+  "title": "Ivory Children in Hooded Fur Suits",
+  "place": "Mal'ta, Belaya River, Irkutsk Oblast, Russia",
+  "lat": 52.85,
+  "lng": 103.53,
+  "text": "Mammoth hunters at Mal'ta, near Lake Baikal, carved dozens of little human figures from ivory as the Ice Age's coldest phase began. Eight from Mal'ta and nearby Buret' show young children and teenagers, just 2 to 5 centimetres tall, and the smallest wear fur coveralls. A hooded teenage girl still bears traces of red ochre. Flat-based animals and hanging birds may have been toys or cradle charms.",
+  "source": {
+   "name": "PMC: The Siberian Paleolithic site of Mal'ta: a unique source for the study of childhood archaeology",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10427291/"
+  }
+ },
+ {
+  "id": "z07-kebezen-flood-beetles",
+  "era": "iceage",
+  "year": -17700,
+  "dateLabel": "About 19,700 years ago",
+  "cat": "nature",
+  "title": "Beetles Return After an Altai Megaflood",
+  "place": "Kebezen, Turachak stream near the Biya River, Altai Republic, Russia",
+  "lat": 51.94,
+  "lng": 87.1,
+  "text": "Mud near the Altai village of Kebezen piled up astonishingly fast, about a centimetre a year, around 20,000 years ago, probably after a megaflood. Inside it, scientists found 105 kinds of beetles. Spruce bark beetles, alpine-meadow and waterside species reveal a cold, humid world of spruce forest. Some of those species now live far to the east, in Transbaikalia or the Russian Far East.",
+  "source": {
+   "name": "PMC: Subfossil Insects of the Kebezen Site (Altai Mountains): New Data on the Last Deglaciation Environment",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11942972/"
+  }
+ },
+ {
+  "id": "z07-tolbor17-microblades",
+  "era": "iceage",
+  "year": -27000,
+  "dateLabel": "After about 29,000 years ago",
+  "cat": "daily",
+  "title": "Tiny Blades for a Colder Mongolia",
+  "place": "Tolbor-17, Ikh-Tolborin-Gol, Selenga basin, Mongolia",
+  "lat": 49.28,
+  "lng": 102.9,
+  "text": "On a low pass above a river that feeds Lake Baikal, the Mongolian site of Tolbor-17 holds two toolkits. The older, about 33,000 to 34,000 years old, has blades and bladelets. Above it, in loess that nearby sites date to after about 29,000 years ago, come microblades: tiny, standard blades struck from small, easily carried cores. They suited hunters who had to roam farther as the Ice Age cold deepened.",
+  "source": {
+   "name": "PMC: Analyzing blank cutting edge efficiency associated with the adoption of microblade technology: A case study from Tolbor-17, Mongolia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11329150/"
+  }
+ },
+ {
+  "id": "z07-mine-cave-lions",
+  "era": "early",
+  "year": -35000,
+  "dateLabel": "About 35,000 years ago",
+  "cat": "nature",
+  "title": "Japan's 'Tigers' Were Cave Lions",
+  "place": "Mine, Yamaguchi Prefecture, Japan",
+  "lat": 34.17,
+  "lng": 131.21,
+  "text": "For decades, big cat bones from Ice Age Japan were labelled tigers. A 2026 study pulled ancient DNA and proteins from them and found cave lions instead. The best-preserved specimen, from Mine in Yamaguchi, is about 35,000 years old, and its protein carries a lion-type amino acid where tigers differ. Lions likely walked in over a northern land bridge and reached far southwest Honshu.",
+  "source": {
+   "name": "PNAS (PMC): The Japanese Archipelago sheltered cave lions, not tigers, during the Late Pleistocene",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12890994/"
+  }
+ },
+ {
+  "id": "z07-kozushima-obsidian-voyage",
+  "era": "early",
+  "year": -38000,
+  "dateLabel": "About 38,000 years ago",
+  "cat": "journeys",
+  "title": "The Oldest Planned Sea Voyage?",
+  "place": "Kozushima, Izu Islands, Tokyo, Japan",
+  "lat": 34.21,
+  "lng": 139.15,
+  "text": "About 38,000 years ago, people carried shiny volcanic glass from Kozushima, a small island roughly 38 kilometres off Honshu even when sea levels were low, back to Honshu. Researchers call this obsidian the world's oldest secure evidence of a planned sea voyage. Around the same time, people also crossed from Korea to Kyushu, and by 30,000 years ago they had settled most of the Ryukyu chain.",
+  "source": {
+   "name": "Antiquity (Cambridge): Palaeolithic seafaring in East Asia: testing the bamboo raft hypothesis",
+   "url": "https://www.cambridge.org/core/product/0A30DF8514DF32E0E9273AA3364B8055/core-reader"
+  },
+  "source2": {
+   "name": "Current Anthropology (Hokkaido University repository): On the Pleistocene Population History in the Japanese Archipelago (Nakazawa 2017)",
+   "url": "https://eprints.lib.hokudai.ac.jp/repo/huscap/all/72078/694447.pdf"
+  }
+ },
+ {
+  "id": "z07-jeongok-ri-hand-axes",
+  "era": "early",
+  "year": -350000,
+  "dateLabel": "At least 350,000 years ago",
+  "cat": "discovery",
+  "title": "A Soldier's Find Upends a Theory",
+  "place": "Jeongok-ri, Hantan River, Yeoncheon, Gyeonggi Province, South Korea",
+  "lat": 38.01,
+  "lng": 127.07,
+  "text": "In 1978 Greg Bowen, an American soldier, picked up stone tools near Korea's Hantan River and passed them to Seoul National University. They turned out to be Acheulean-style hand axes, two-sided tools that Harvard's Hallam Movius had argued were never made east of India. Excavated more than 17 times since, the Jeongok-ri site is at least 350,000 years old, resting on basalt dated near 500,000.",
+  "source": {
+   "name": "Jeongok Prehistory Museum (Google Arts & Culture): Jeongok-ri Paleolithic site",
+   "url": "https://artsandculture.google.com/exhibit/swICUqGwlsp4Iw"
+  }
+ },
+ {
+  "id": "z07-hajin-ri-tanged-points",
+  "era": "early",
+  "year": -40000,
+  "dateLabel": "About 43,000 to 40,000 years ago",
+  "cat": "daily",
+  "title": "A Riverside Workshop for Spear Tips",
+  "place": "Hajin-ri (Suyanggae Locality VI), Danyang, North Chungcheong, South Korea",
+  "lat": 37,
+  "lng": 128.3,
+  "text": "Excavators at Hajin-ri in central Korea collected more than 40,000 stone artefacts, mostly of fine siliceous shale. The two deepest levels, dated to about 43,000 to 40,000 years ago, hold nearly 3,000 slim blades and many tanged points, blades shaped with a narrow stem at the base. The lowest level alone yielded 61 points, two-thirds unbroken, marking Korea's early switch to new blade-making ways.",
+  "source": {
+   "name": "Radiocarbon (Cambridge): The Early Upper Paleolithic of Korea: A chronological review",
+   "url": "https://www.cambridge.org/core/product/122B2B48CE6EE1A77EB0BB4BF97F7D78"
+  }
+ },
+ {
+  "id": "z07-penghu-denisovan-jaw",
+  "era": "early",
+  "year": -130000,
+  "dateLabel": "Between 10,000 and 190,000 years ago",
+  "cat": "discovery",
+  "title": "A Denisovan Jaw in a Fishing Net",
+  "place": "Penghu Channel, between Penghu and Taiwan",
+  "lat": 23.5,
+  "lng": 119.9,
+  "text": "Fishermen trawling the Penghu Channel off Taiwan, 60 to 120 metres down, hauled up a human jaw with big teeth, along with bones of buffalo, tigers and straight-tusked elephants. In 2025 proteins from its teeth and bone showed he was a male Denisovan. He probably lived when ice-age seas fell and dry land joined Taiwan to the mainland, either 10,000 to 70,000 or 130,000 to 190,000 years ago.",
+  "source": {
+   "name": "Natural History Museum, London: Denisovan jawbone helps reveal appearance of ancient human species",
+   "url": "https://nhm.ac.uk/discover/news/2025/april/denisovan-jawbone-helps-reveal-appearance-ancient-human-species.html"
+  },
+  "source2": {
+   "name": "EurekAlert: A male Denisovan mandible from Pleistocene Taiwan",
+   "url": "https://www.eurekalert.org/news-releases/1079555"
+  }
+ },
+ {
+  "id": "z07-xigou-hafted-tools",
+  "era": "early",
+  "year": -120000,
+  "dateLabel": "About 160,000 to 72,000 years ago",
+  "cat": "daily",
+  "title": "Stone Tips Fixed to Handles",
+  "place": "Xigou, Danjiangkou Reservoir, Henan, China",
+  "lat": 32.93,
+  "lng": 111.48,
+  "text": "At Xigou, beside the Laoguanhe River in central China, excavators recovered 2,601 stone artefacts from layers dated between about 160,000 and 72,000 years ago. Twenty-two tools have tangs, shoulders or blunted backs. Wear on two borers shows they were set into handles, one used to drill reed or wood. The team argues these are East Asia's earliest known composite tools, though their makers remain unknown.",
+  "source": {
+   "name": "PMC: Technological innovations and hafted technology in central China ~160,000-72,000 years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12848047/"
+  }
+ },
+ {
+  "id": "z07-nanzhuangtou-clay-beads",
+  "era": "iceage",
+  "year": -8000,
+  "dateLabel": "About 10,000 years ago",
+  "cat": "culture",
+  "title": "The First Beads Made of Fired Clay",
+  "place": "Nanzhuangtou, Xushui District, Hebei, China",
+  "lat": 39.03,
+  "lng": 115.62,
+  "text": "In a sealed gully at Nanzhuangtou in northern China lay two small tubes of fired clay about 10,000 years old. Each was moulded around a plant stem, which left marks inside one, then baked at about 500 to 600°C. One end is shorter than the other, which may have helped the bead hang straight. They are among the oldest known ornaments made from a human-made material.",
+  "source": {
+   "name": "Scientific Reports (PMC): The earliest known ceramic beads as adornment from Nanzhuangtou site in North China 10,000 years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13199370/"
+  }
+ },
+ {
+  "id": "z07-yunlong-tianchi-megafloods",
+  "era": "iceage",
+  "year": -18460,
+  "dateLabel": "About 20,400 years ago",
+  "cat": "nature",
+  "title": "Water Fleas Remember Ice Age Floods",
+  "place": "Lake Yunlong Tianchi, Yunlong County, western Yunnan, China",
+  "lat": 25.87,
+  "lng": 99.28,
+  "text": "Mud from a small mountain lake in western Yunnan records seven mega-floods over 30,000 years. Scientists spotted them through sudden jumps in tiny open-water crustaceans called water fleas, along with surges of sediment washed in from the hills. The first struck about 20,400 years ago, near the depths of the last Ice Age, when wild monsoon downpours fell on thinly covered slopes.",
+  "source": {
+   "name": "Scientific Reports (PMC): Mega-floods over the past 30,000 years in western Yunnan, southwest China",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13187425/"
+  }
+ },
+ {
+  "id": "z07-south-walker-creek-megafauna",
+  "era": "early",
+  "year": -40100,
+  "dateLabel": "About 40,000 years ago",
+  "cat": "nature",
+  "title": "The World's Biggest Kangaroo by the Creek",
+  "place": "South Walker Creek, near Nebo, Queensland, Australia",
+  "lat": -21.8,
+  "lng": 148.45,
+  "text": "Barada Barna Traditional Owners found fossil bones at South Walker Creek in tropical Queensland, leading to digs that revealed a lost world. Beside leaves, seeds and insects lay several kinds of crocodile, the giant lizard Varanus priscus, Diprotodon, a marsupial lion and the world's largest kangaroo. They survived until at least 40,000 years ago. Researchers link their loss to a drying climate, not a sudden human-caused wipeout.",
+  "source": {
+   "name": "Nature Communications (PMC): Extinction of eastern Sahul megafauna coincides with sustained environmental deterioration",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7231803/"
+  }
+ },
+ {
+  "id": "z07-mt-etna-homebody-kangaroos",
+  "era": "early",
+  "year": -300000,
+  "dateLabel": "About 300,000 years ago",
+  "cat": "nature",
+  "title": "Rainforest Kangaroos That Stayed Close to Home",
+  "place": "Mount Etna, near Rockhampton, Queensland, Australia",
+  "lat": -23.16,
+  "lng": 150.45,
+  "text": "Around 300,000 years ago, Queensland's Mount Etna was rainforest roamed by Protemnodon, extinct kangaroos weighing roughly 50 to 170 kilograms. Animals that big usually need wide ranges, but strontium in most of their fossil teeth matched the local limestone, so they fed close to home. Scientists suggest these homebodies were poorly prepared when the climate dried and rainforest gave way after about 280,000 years ago.",
+  "source": {
+   "name": "PLOS One (PMC): Megafauna mobility: Assessing the foraging range of an extinct macropodid from central eastern Queensland, Australia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12017834/"
+  }
+ },
+ {
+  "id": "z07-minjerribah-early-campers",
+  "era": "early",
+  "year": -39000,
+  "dateLabel": "About 40,000 years ago",
+  "cat": "discovery",
+  "title": "Ice Age Campers on a Giant Sand Island",
+  "place": "Wallen Wallen Creek and Middle Canalpin Creek, Minjerribah (North Stradbroke Island), Queensland, Australia",
+  "lat": -27.61,
+  "lng": 153.42,
+  "text": "Community-led digs on Minjerribah, the world's second-largest sand island, pushed back human history on Australia's east coast. Charcoal and heavily retouched tools made from imported stone show people camped there from roughly 40,000 years ago, long before rising seas cut it off from the mainland. By about 30,000 years ago they were heat-treating silcrete to improve it, among the oldest such tools in Australia.",
+  "source": {
+   "name": "Scientific Reports (PMC): Early human occupation of Australia's eastern seaboard",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10830458/"
+  }
+ },
+ {
+  "id": "z07-boodie-cave-wallabies",
+  "era": "iceage",
+  "year": -9500,
+  "dateLabel": "About 13,000 to 10,000 years ago",
+  "cat": "daily",
+  "title": "Wallabies Far from Today's Homes",
+  "place": "Boodie Cave, Barrow Island, Western Australia, Australia",
+  "lat": -20.8,
+  "lng": 115.4,
+  "text": "Boodie Cave, now on an island 60 kilometres off the Pilbara coast, sheltered people from about 51,000 to 7,000 years ago. Measuring tiny foot bones from their meals, researchers identified a banded hare-wallaby from 13,000 to 10,000 years ago and a northern nail-tail wallaby from about 10,000 years ago. Today one survives only on Shark Bay islands and the other in wetter tropical woodland, far from Barrow Island.",
+  "source": {
+   "name": "Scientific Reports (PMC): Morphometric classification of kangaroo bones reveals paleoecological change in northwest Australia during the terminal Pleistocene",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9617867/"
+  }
+ },
+ {
+  "id": "z07-pamwak-forest-foragers",
+  "era": "iceage",
+  "year": -9800,
+  "dateLabel": "About 11,800 years ago",
+  "cat": "journeys",
+  "title": "Manus Islanders Who Lived Off the Forest",
+  "place": "Pamwak rockshelter, Manus Island, Papua New Guinea",
+  "lat": -2.07,
+  "lng": 146.9,
+  "text": "People were sheltering at Pamwak on remote Manus Island by about 25,000 years ago, and a further metre of undated layers below hints at an earlier arrival. Human teeth from the site, the oldest about 11,800 years old, are the oldest human fossils yet found beyond mainland New Guinea and Aru. Chemical signals in their enamel show these seafarers' descendants relied mainly on the island's inland forests, not the reef.",
+  "source": {
+   "name": "Philosophical Transactions B (PMC): Fossils, fish and tropical forests: prehistoric human adaptations on the island frontiers of Oceania",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8899615/"
+  }
+ },
+ {
+  "id": "z07-matenbek-obsidian-trade",
+  "era": "iceage",
+  "year": -18000,
+  "dateLabel": "About 20,000 years ago",
+  "cat": "journeys",
+  "title": "Volcanic Glass Travels 350 Kilometres",
+  "place": "Matenbek cave, southern New Ireland, Papua New Guinea",
+  "lat": -4.45,
+  "lng": 152.95,
+  "text": "About 20,000 years ago, people in Matenbek, a cave in southern New Ireland, were flaking obsidian, a sharp volcanic glass. Chemical sourcing traced it to outcrops in West New Britain, 350 kilometres away in a straight line, across sea. It is the region's earliest evidence of obsidian on the move, and for the next 16,500 years the glass kept travelling to sites across New Britain and New Ireland.",
+  "source": {
+   "name": "Records of the Australian Museum: The nature of prehistoric obsidian importation to Anir (Summerhayes 2004)",
+   "url": "https://journals.australian.museum/media/Uploads/Journals/17978/1411_complete.pdf"
+  },
+  "source2": {
+   "name": "Records of the Australian Museum: From Misisil Cave to Eliva Hamlet (Pavlides 2004)",
+   "url": "https://journals.australian.museum/media/Uploads/Journals/17981/1406_complete.pdf"
+  }
+ },
+ {
+  "id": "z07-pilanduk-tiger-deer-hunters",
+  "era": "iceage",
+  "year": -21000,
+  "dateLabel": "About 20,000 to 25,000 years ago",
+  "cat": "daily",
+  "title": "Deer Hunters Who Shared Palawan with Tigers",
+  "place": "Pilanduk, Quezon, Palawan, Philippines",
+  "lat": 9.23,
+  "lng": 118,
+  "text": "Re-excavating Pilanduk Cave on Palawan, a University of the Philippines-led team confirmed with new radiocarbon dates that people lived there 20,000 to 25,000 years ago, at the height of the last Ice Age. They specialised in hunting deer and ate freshwater molluscs. Among nine kinds of vertebrates in the deposits are fossils of the tiger.",
+  "source": {
+   "name": "University of the Philippines OVPAA: New research confirms the Philippines' Last Glacial Maximum antiquity at 20,000 to 25,000 years ago",
+   "url": "https://ovpaa.up.edu.ph/?p=4652"
+  },
+  "source2": {
+   "name": "Antiquity (Cambridge): Tropical island adaptations in Southeast Asia during the Last Glacial Maximum: evidence from Palawan",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/tropical-island-adaptations-in-southeast-asia-during-the-last-glacial-maximum-evidence-from-palawan/A55AABA43B6E6F9CD4C66662B73D55A8"
+  }
+ },
+ {
+  "id": "z07-sundaland-forest-mosaic",
+  "era": "iceage",
+  "year": -21000,
+  "dateLabel": "About 23,000 to 19,000 years ago",
+  "cat": "nature",
+  "title": "No Savanna Highway After All",
+  "place": "Sunda Shelf (now under the South China and Java seas), Southeast Asia",
+  "lat": 2,
+  "lng": 107.5,
+  "text": "When Ice Age seas dropped about 120 metres, a vast lowland joined Java, Sumatra and Borneo to Asia. Many scholars pictured a grassy savanna corridor running through it. A 2023 review of 59 pollen and plant-chemistry records disagrees, proposing that montane forest spread downhill while seasonally dry forest replaced lowland rainforest. Early humans crossing the region found a varied, wooded mosaic rather than open plains.",
+  "source": {
+   "name": "PNAS (PMC): Forest mosaics, not savanna corridors, dominated in Southeast Asia during the Last Glacial Maximum",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10769823/"
+  }
+ },
+ {
+  "id": "z07-madura-strait-seabed-fossils",
+  "era": "early",
+  "year": -140000,
+  "dateLabel": "About 146,000 to 131,000 years ago",
+  "cat": "discovery",
+  "title": "Homo Erectus on the Seafloor",
+  "place": "Madura Strait, between Java and Madura, East Java, Indonesia",
+  "lat": -7.18,
+  "lng": 112.8,
+  "text": "Sand dredged from Indonesia's Madura Strait to build an artificial island held a drowned world. Working alone on his hands and knees from 2015 to 2018, geologist Harold Berghuis picked out 6,372 fossils, including two skull pieces of Homo erectus. They lived 131,000 to 146,000 years ago in a Solo River valley on dry land, cutting up turtles and cracking the bones of buffalo and other mammals for marrow.",
+  "source": {
+   "name": "Science News: A drowned landscape held clues to the lives of ancient human relatives",
+   "url": "https://www.sciencenews.org/article/seafloor-clues-ancient-human-relatives"
+  },
+  "source2": {
+   "name": "Quaternary Environments and Humans: A late Middle Pleistocene lowstand valley of the Solo River on the Madura Strait seabed (Berghuis et al. 2025)",
+   "url": "https://doi.org/10.1016/j.qeh.2024.100042"
+  }
+ }
+]

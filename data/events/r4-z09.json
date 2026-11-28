@@ -1,0 +1,422 @@
+[
+ {
+  "id": "z09-sopochnaya-karga-mammoth",
+  "era": "early",
+  "year": -45000,
+  "dateLabel": "About 45,000 years ago",
+  "cat": "discovery",
+  "title": "A Mammoth Speared Near the Kara Sea",
+  "place": "Sopochnaya Karga, Taymyr Peninsula, Krasnoyarsk Krai, Russia",
+  "lat": 71.9,
+  "lng": 82.7,
+  "text": "Marks on a mammoth skeleton from Siberia's far north suggest it was stabbed and butchered about 45,000 years ago. The tip of one tusk was damaged in a way that hints people chipped off ivory to make tools. It is by far the northernmost sign of humans in Eurasia from that time, though one sceptical archaeologist called the hunting evidence pretty marginal.",
+  "source": {
+   "name": "Phys.org: Bones of hunted mammoth show early human presence in Arctic",
+   "url": "https://phys.org/news/2016-01-bones-mammoth-early-human-presence.html"
+  },
+  "source2": {
+   "name": "Science: Early human presence in the Arctic, evidence from 45,000-year-old mammoth remains (Pitulko et al. 2016)",
+   "url": "https://doi.org/10.1126/science.aad0554"
+  }
+ },
+ {
+  "id": "z09-saqqaq-bowhead-dna",
+  "era": "ancient",
+  "year": -2000,
+  "dateLabel": "About 2000 BCE",
+  "cat": "daily",
+  "title": "Whale DNA in a Saqqaq Rubbish Heap",
+  "place": "Qajaa, Ilulissat Icefjord, Disko Bay, Greenland",
+  "lat": 69.12,
+  "lng": -50.6,
+  "text": "Early Greenlanders of the Saqqaq culture left frozen rubbish heaps full of bones. When scientists read the ancient DNA in the soil, a giant appeared: bowhead whale, barely visible among the bones themselves. Did Saqqaq hunters kill these huge whales with lances and small harpoons, or scavenge stranded carcasses? Either way, whales mattered far more to them 4,000 years ago than anyone had guessed.",
+  "source": {
+   "name": "Nature Communications: DNA evidence of bowhead whale exploitation by Greenlandic Paleo-Inuit 4,000 years ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5105157/"
+  }
+ },
+ {
+  "id": "z09-ardley-penguins-volcano",
+  "era": "ancient",
+  "year": -2300,
+  "dateLabel": "About 2300 BCE",
+  "cat": "nature",
+  "title": "Penguins Wiped Out by a Neighbouring Volcano",
+  "place": "Ardley Lake, Ardley Island, South Shetland Islands, Antarctica",
+  "lat": -62.21,
+  "lng": -58.94,
+  "text": "Penguin droppings pile up in Ardley Island's lake, so its mud records the colony since its founding about 6,700 years ago. At least three times the record suddenly goes quiet, right where ash from Deception Island's volcano, about 120 km away, lands in the layers. One of those eruptions struck around 4,300 years ago. Each time penguins needed roughly 400 to 800 years to fully come back.",
+  "source": {
+   "name": "Nature Communications: Past penguin colony responses to explosive volcanism on the Antarctic Peninsula",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5394244/"
+  }
+ },
+ {
+  "id": "z09-signy-revived-moss",
+  "era": "classical",
+  "year": 400,
+  "dateLabel": "About 300 to 450 CE",
+  "cat": "nature",
+  "title": "Moss That Woke After 1,500 Years",
+  "place": "Signy Island, South Orkney Islands, Antarctica",
+  "lat": -60.71,
+  "lng": -45.6,
+  "text": "Deep in an Antarctic moss bank, stems that last grew around 300 to 450 CE lay frozen in permafrost. In 2003 scientists drilled a 1.4-metre core, sliced it up and gave the pieces light and warmth in the lab. Within three to six weeks, green shoots sprouted even from the oldest layers. Before this, moss was only known to revive after about 400 years under a glacier.",
+  "source": {
+   "name": "National Geographic: Ancient Moss Brought Back to Life After 1,500 Years",
+   "url": "https://www.nationalgeographic.com/science/article/140317-ancient-moss-frozen-life-biology-science"
+  }
+ },
+ {
+  "id": "z09-birkeland-haldde-aurora",
+  "era": "industrial",
+  "year": 1899,
+  "dateLabel": "1899",
+  "cat": "discovery",
+  "title": "Wintering on a Mountain to Catch the Aurora",
+  "place": "Haldde (Halde) observatory, near Alta, Finnmark, Norway",
+  "lat": 69.9,
+  "lng": 23.05,
+  "text": "To measure how high the northern lights shine, Kristian Birkeland built what the Alta Museum calls the world's first northern lights observatory on Mount Haldde in 1899. He spent the winter on the summit with two assistants. Gales struck every other day, stove smoke filled the hut, and instruments broke. One assistant died in an avalanche. The aurora, it turned out, never came anywhere near the summit.",
+  "source": {
+   "name": "Alta Museum: The Northern Lights, from mythology to science in Alta",
+   "url": "https://altamuseum.no/en/altas-nyere-tids-historie/altas-historie/nordlys-1/nordlys"
+  },
+  "source2": {
+   "name": "University of Oslo, Apollon: The king of northern lights",
+   "url": "https://www.uio.no/english/research/research-news/apollon/articles/2017/birkeland_english.html"
+  }
+ },
+ {
+  "id": "z09-mesa-site-lookout",
+  "era": "iceage",
+  "year": -9900,
+  "dateLabel": "Nearly 12,000 years ago",
+  "cat": "daily",
+  "title": "A Hunters' Lookout Above the Arctic Circle",
+  "place": "Mesa site, north flank of the Brooks Range, North Slope, Alaska, USA",
+  "lat": 68.4,
+  "lng": -155.6,
+  "text": "From the top of a rocky mesa in northern Alaska, about 200 feet above the tundra, Ice Age hunters had a 360-degree view for spotting bison and perhaps mammoths. They left stone spear points there. Archaeologists found the site in 1978 while surveying ahead of oil exploration. First dated to 7,600 years old, better radiocarbon methods later showed some artifacts were nearly 12,000 years old.",
+  "source": {
+   "name": "Bureau of Land Management: Mesa Site",
+   "url": "https://www.blm.gov/programs/cultural-resources/archaeology/alaska/mesa-site"
+  }
+ },
+ {
+  "id": "z09-snow-petrel-mumijo",
+  "era": "ancient",
+  "year": -1660,
+  "dateLabel": "About 3,680 years ago",
+  "cat": "nature",
+  "title": "Fossil Bird Spit Far Inland",
+  "place": "Greenall Glacier, southern Prince Charles Mountains, East Antarctica",
+  "lat": -73.3,
+  "lng": 66.5,
+  "text": "Snow petrels defend their nests by spitting stomach oil at intruders. In Antarctica's cold, dry air the oil turns waxy and builds up in layers called mumijo. At Greenall Glacier, 450 km inland, the oldest layer is about 3,680 years old, so the birds have nested there at least that long. These are the furthest-inland snow petrels known, and they arrived thousands of years after the ice retreated.",
+  "source": {
+   "name": "Australian Antarctic Program: Fossilised spit reveals 3600 years of snow petrel colonisation",
+   "url": "https://www.antarctica.gov.au/magazine/issue-36-june-2019/science/fossilised-spit-reveals-3600-years-of-snow-petrel-colonisation/"
+  }
+ },
+ {
+  "id": "z09-baffin-bylot-farthest-north",
+  "era": "exploration",
+  "year": 1616,
+  "dateLabel": "1616",
+  "cat": "journeys",
+  "title": "A Farthest North That Stood 236 Years",
+  "place": "Entrance to Smith Sound, northern Baffin Bay, between Greenland and Ellesmere Island",
+  "lat": 77.75,
+  "lng": -73,
+  "text": "In 1616 the little ship Discovery, with Robert Bylot in command and William Baffin as pilot, sailed past every earlier record into the bay now named for Baffin. They reached 77°45′N, a farthest north for that sea that stood for 236 years, and named Smith, Jones and Lancaster sounds. Later mapmakers doubted them and erased the bay, until John Ross confirmed it in 1818.",
+  "source": {
+   "name": "Dictionary of Canadian Biography: Baffin, William",
+   "url": "http://www.biographi.ca/en/bio/baffin_william_1E.html"
+  }
+ },
+ {
+  "id": "z09-ahnighito-meteorite",
+  "era": "industrial",
+  "year": 1897,
+  "dateLabel": "1897",
+  "cat": "power",
+  "title": "Hauling Away the Great Iron",
+  "place": "Meteorite Island, near Savissivik, Cape York district, Northwest Greenland",
+  "lat": 76,
+  "lng": -64.9,
+  "text": "For about a thousand years, Inuit of northwest Greenland chipped knives from three iron meteorites they called a woman, her dog and her tent, thrown from the sky. Robert Peary wanted them to sell to a museum. The biggest, 34 tons, defeated him in 1896. In 1897 he winched it onto the whaler Hope and took it to New York, naming it Ahnighito after his daughter.",
+  "source": {
+   "name": "National Geographic: Meteorite Hunters, Peary and the Cape York meteorite",
+   "url": "https://www.nationalgeographic.com/news/2013/2/130215-meteorite-earth-hit-science-space-peary-american-museum-natural-history/"
+  }
+ },
+ {
+  "id": "z09-blood-falls-brine",
+  "era": "modern",
+  "year": 2017,
+  "dateLabel": "2017",
+  "cat": "nature",
+  "title": "The Glacier That Bleeds Salt Water",
+  "place": "Blood Falls, Taylor Glacier, Taylor Valley, McMurdo Dry Valleys, Antarctica",
+  "lat": -77.72,
+  "lng": 162.27,
+  "text": "Griffith Taylor first saw Blood Falls in 1911: red water seeping from a white Antarctic glacier. In 2017, radar mapping showed the source is a salty brine, maybe trapped under Taylor Glacier for over a million years, flowing about 300 feet to the falls. Its iron turns red when it meets air. Salt keeps the water liquid, making Taylor the coldest known glacier with persistently flowing water.",
+  "source": {
+   "name": "University of Alaska Fairbanks: Researchers solve the century-old mystery of Blood Falls",
+   "url": "https://uaf.edu/news/archives/news-archives-2010-2021/researchers-solve-the-100-year-old-mystery-of-blood-falls.php"
+  }
+ },
+ {
+  "id": "z09-arne-qvamgrotta-ice-age-zoo",
+  "era": "early",
+  "year": -75000,
+  "dateLabel": "About 85,000 to 71,000 years ago",
+  "cat": "nature",
+  "title": "A Tunnel Into an Ice Age Coast",
+  "place": "Arne Qvamgrotta, Storsteinhola cave system, Kjøpsvik, Nordland, Norway",
+  "lat": 68.1,
+  "lng": 16.38,
+  "text": "In 1991, tunnel builders in northern Norway broke into a cave holding 13 metres of sediment and bones. Recent work dated the main bone layer to roughly 85,000 to 71,000 years ago and identified 46 kinds of animals, from polar bear, walrus and bowhead whale to blue whale and reindeer. It also held the collared lemming, never before found in Scandinavia and now extinct there.",
+  "source": {
+   "name": "PNAS: A 75,000-y-old Scandinavian Arctic cave deposit reveals past faunal diversity and paleoenvironment",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12358836/"
+  }
+ },
+ {
+  "id": "z09-nygrotta-amberjack",
+  "era": "ancient",
+  "year": -3800,
+  "dateLabel": "About 5,800 years ago",
+  "cat": "nature",
+  "title": "A Warm-Water Fish North of the Arctic Circle",
+  "place": "Nygrotta, Storsteinhola cave system, Kjøpsvik, Nordland, Norway",
+  "lat": 68.11,
+  "lng": 16.36,
+  "text": "A small cave above the Arctic Circle in Norway trapped bones over thousands of years. In a layer about 5,800 years old, when the region was warmer than today, ancient DNA picked up amberjack, a temperate fish genus, alongside forest birds like capercaillie and hazel grouse. Cold-water fish such as lumpfish had vanished from the record. Scientists compare it with amberjacks moving north into the English Channel today.",
+  "source": {
+   "name": "Science Advances: A unique Early Holocene cave deposit reveals postglacial faunal expansion into the Scandinavian Arctic",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10980262/"
+  }
+ },
+ {
+  "id": "z09-cape-hallett-elephant-seals",
+  "era": "classical",
+  "year": 300,
+  "dateLabel": "About 2,000 years ago",
+  "cat": "nature",
+  "title": "Elephant Seals on Antarctica's Cold Coast",
+  "place": "Cape Hallett, Victoria Land, Ross Sea, Antarctica",
+  "lat": -72.32,
+  "lng": 170.22,
+  "text": "Southern elephant seals breed on sub-Antarctic islands today, yet their remains turn up along the Ross Sea coast, far to the south. Scientists think a warm spell, roughly 2,300 to 1,100 radiocarbon years ago, thinned the sea ice and let colonies form there. At Cape Hallett, elephant seal DNA lies beneath what is now an Adélie penguin colony. Penguins expanded after this seal optimum ended.",
+  "source": {
+   "name": "PNAS: Holocene elephant seal distribution implies warmer-than-present climate in the Ross Sea",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1502437/"
+  },
+  "source2": {
+   "name": "Nature Communications: Sedimentary DNA insights into Holocene Adélie penguin populations and ecology in the Ross Sea",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11883008/"
+  }
+ },
+ {
+  "id": "z09-naqsaq-medieval-glaciers",
+  "era": "medieval",
+  "year": 1040,
+  "dateLabel": "About 1040 CE",
+  "cat": "nature",
+  "title": "Glaciers Grew While Vikings Settled Greenland",
+  "place": "Naqsaq valley, eastern Baffin Island, Nunavut, Canada",
+  "lat": 70.3,
+  "lng": -70,
+  "text": "The 'Medieval Warm Period' was not warm everywhere. Boulders on moraines in Baffin Island's Naqsaq valley, dated by beryllium-10 that builds up in rock exposed to the sky, show glaciers pushing forward around 1040, 1070 and 1220 CE, near their Little Ice Age maximum. So while Norse farmers settled Greenland from about 985 CE, the lands around Baffin Bay stayed relatively cool.",
+  "source": {
+   "name": "Science Advances: Glacier maxima in Baffin Bay during the Medieval Warm Period coeval with Norse settlement",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4673052/"
+  }
+ },
+ {
+  "id": "z09-inuvialuit-beluga-hunts",
+  "era": "medieval",
+  "year": 1300,
+  "dateLabel": "About 1300 CE",
+  "cat": "daily",
+  "title": "Seven Centuries of Beluga Hunting",
+  "place": "Kitigaaryuit, East Channel, Mackenzie River Delta, Northwest Territories, Canada",
+  "lat": 69.35,
+  "lng": -133.72,
+  "text": "Inuvialuit families settled the Mackenzie Delta around 1200 CE, and beluga whales fed them. At the Kuukpak site, belugas supplied about two-thirds of all meat and fat. In 1893, one hunt at Kitigaaryuit took about 155 belugas, nearly one for each of its 159 people. Yet ancient DNA shows 700 years of hunting barely dented the belugas' genetic diversity.",
+  "source": {
+   "name": "PNAS: Elucidating the sustainability of 700 y of Inuvialuit beluga whale hunting in the Mackenzie River Delta",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11348011/"
+  }
+ },
+ {
+  "id": "z09-baffin-ice-caps-40000",
+  "era": "modern",
+  "year": 2019,
+  "dateLabel": "2019",
+  "cat": "nature",
+  "title": "Plants Unseen for 40,000 Years",
+  "place": "Ice cap margins, eastern Baffin Island, Nunavut, Canada",
+  "lat": 69.8,
+  "lng": -69.2,
+  "text": "As small ice caps on Baffin Island melt back, they uncover tundra plants still rooted where they grew. Scientists collected 48 of them at the edges of 30 ice caps and radiocarbon dated them: nearly all came out 40,000 to over 50,000 years old. Those spots had likely been buried continuously ever since. The team concluded that the past century's summers were likely the warmest in about 115,000 years.",
+  "source": {
+   "name": "Nature Communications: Rapidly receding Arctic Canada glaciers revealing landscapes continuously ice-covered for more than 40,000 years",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6347664/"
+  }
+ },
+ {
+  "id": "z09-qillarsuaq-brings-kayaks",
+  "era": "industrial",
+  "year": 1863,
+  "dateLabel": "Early 1860s",
+  "cat": "journeys",
+  "title": "The Fugitive Who Brought Back the Kayak",
+  "place": "Inglefield Land, Avanersuaq (Thule region), Northwest Greenland",
+  "lat": 78.5,
+  "lng": -70,
+  "text": "When John Ross met the Inughuit in 1818, they had no kayaks; the knowledge had died with its last makers. In the 1840s an Inuk named Qillarsuaq fled Baffin Island after a killing and led a group north, reaching Inglefield Land in the early 1860s. His people reintroduced the kayak, the umiak, bows and fishing leisters, rescuing a community feared to be dying out.",
+  "source": {
+   "name": "Ambio: Living in an oasis, rapid transformations in the North Water Area societies and ecosystems",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5963568/"
+  }
+ },
+ {
+  "id": "z09-inuit-sledge-dogs",
+  "era": "classical",
+  "year": 1,
+  "dateLabel": "About 2,000 years ago",
+  "cat": "journeys",
+  "title": "The Inuit Brought Their Own Dogs",
+  "place": "Chukchi Sea coasts, between Chukotka (Russia) and Alaska (USA)",
+  "lat": 67.8,
+  "lng": -168,
+  "text": "When the ancestors of today's Inuit crossed from Siberia into North America about 2,000 years ago, they brought a specialised breed of sled dog. A study of 922 Arctic dog and wolf remains spanning 4,500 years found these Inuit dogs were genetically distinct from, and larger than, the earlier Palaeo-Inuit dogs. Their genetic legacy survives in modern Arctic sledge dogs, which probably helped the Inuit spread east.",
+  "source": {
+   "name": "Proceedings of the Royal Society B: Specialized sledge dogs accompanied Inuit dispersal across the North American Arctic",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6939252/"
+  },
+  "source2": {
+   "name": "Archaeology Magazine: Around the World, Arctic (March/April 2020)",
+   "url": "https://archaeology.org/issues/march-april-2020/world/?location=atw-arctic"
+  }
+ },
+ {
+  "id": "z09-bowhead-little-auk-boom",
+  "era": "exploration",
+  "year": 1610,
+  "dateLabel": "1610 onwards",
+  "cat": "nature",
+  "title": "Fewer Whales, More Little Auks",
+  "place": "Waters off western Spitsbergen, Svalbard, Norway",
+  "lat": 77,
+  "lng": 15,
+  "text": "Before industrial whaling began in 1610, perhaps 50,000 bowhead whales ranged from northern Iceland to Novaya Zemlya. Three centuries of hunting left perhaps a few dozen by 1910. That left more tiny zooplankton for the little auk, a 160-gram seabird that feeds on similar prey. A 2024 study's model estimated the auks increased by about 70 percent, from 2.8 to 4.8 million breeding pairs.",
+  "source": {
+   "name": "Proceedings of the Royal Society B: Food chain without giants, bowhead whaling and little auk populations",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11335397/"
+  }
+ },
+ {
+  "id": "z09-gut-skin-parkas",
+  "era": "medieval",
+  "year": 1350,
+  "dateLabel": "1300s",
+  "cat": "daily",
+  "title": "Parkas Sewn From Walrus Gut and Whale Sinew",
+  "place": "Nuulliit (Nûgdlît), Avanersuaq, Northwest Greenland",
+  "lat": 76.55,
+  "lng": -68.8,
+  "text": "In the 1300s, families in far northwest Greenland made some of the oldest gut-skin parkas found in the Arctic. Protein analysis of these 600-year-old garments shows threads of whale and walrus sinew, waterproof gut skins from seal and walrus, and furs from dog, Arctic fox and polar bear. In the pieces studied, sewers seem never to have mixed sea-animal and land-animal materials in one garment.",
+  "source": {
+   "name": "Scientific Reports: Paleoproteomic identification of the species used in fourteenth century gut-skin garments from Nuulliit",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11166976/"
+  }
+ },
+ {
+  "id": "z09-onion-portage-caribou",
+  "era": "ancient",
+  "year": -6000,
+  "dateLabel": "Over 8,000 years ago",
+  "cat": "daily",
+  "title": "Where Caribou Cross the Kobuk River",
+  "place": "Paatitaaq (Onion Portage), Kobuk Valley National Park, Alaska, USA",
+  "lat": 67.1,
+  "lng": -158.27,
+  "text": "For more than 8,000 years, people have met at this bend of Alaska's Kobuk River to hunt caribou migrating through each fall. Iñupiat call it Paatitaaq, meaning 'onion', after the wild alliums growing along the river. Digging down through its layers, archaeologists found microblades, scrapers, tent remains and large oval buildings, probably men's ceremonial houses, scattered with tools of obsidian, chert, bone and antler.",
+  "source": {
+   "name": "National Park Service: Over 8,000 Years of Arctic History (Kobuk Valley)",
+   "url": "https://www.nps.gov/kova/over-8-000-years-of-arctic-history.htm"
+  },
+  "source2": {
+   "name": "National Park Service: Paatitaaq-Onion Portage",
+   "url": "https://www.nps.gov/kova/learn/historyculture/paatitaaq-onion-portage.htm"
+  }
+ },
+ {
+  "id": "z09-yamal-reindeer-starvation",
+  "era": "modern",
+  "year": 2014,
+  "dateLabel": "Winter 2013–14",
+  "cat": "daily",
+  "title": "The Winter 61,000 Reindeer Starved",
+  "place": "Yamal Peninsula, Yamalo-Nenets Autonomous Okrug, Russia",
+  "lat": 70.3,
+  "lng": 68.5,
+  "text": "In the winter of 2013–14, about 61,000 reindeer starved to death on Russia's Yamal Peninsula, a disaster for the Yamal Nenets, who herd them for food. Unusual warm spells made snow melt and refreeze, or rain freeze on the ground, sealing the lichen reindeer eat under a sheet of ice. The animals can smell the plants beneath but cannot dig through, and wander until they starve.",
+  "source": {
+   "name": "The Conversation: Mass starvation of reindeer linked to climate change and habitat loss",
+   "url": "https://theconversation.com/mass-starvation-of-reindeer-linked-to-climate-change-and-habitat-loss-121452"
+  }
+ },
+ {
+  "id": "z09-thule-b52-crash",
+  "era": "modern",
+  "year": 1968,
+  "dateLabel": "21 January 1968",
+  "cat": "power",
+  "title": "Four Hydrogen Bombs on the Sea Ice",
+  "place": "Wolstenholme Fjord, near Thule Air Base (Pituffik), Northwest Greenland",
+  "lat": 76.53,
+  "lng": -69.28,
+  "text": "On 21 January 1968, someone aboard a US B-52 bomber stuffed seat cushions in front of a heating vent, and they caught fire. Six of the seven crew parachuted out before the plane hit the frozen Wolstenholme Fjord near Thule Air Base, carrying four hydrogen bombs. None exploded, but they broke open and contaminated the fjord, revealing nuclear flights over Greenland that Denmark's policy forbade.",
+  "source": {
+   "name": "The Conversation: 50 years ago, a US military jet crashed in Greenland with 4 nuclear bombs on board",
+   "url": "https://theconversation.com/50-years-ago-a-us-military-jet-crashed-in-greenland-with-4-nuclear-bombs-on-board-87155"
+  }
+ },
+ {
+  "id": "z09-lancaster-sound-polar-bears",
+  "era": "medieval",
+  "year": 1000,
+  "dateLabel": "About 1,500 to 500 years ago",
+  "cat": "nature",
+  "title": "What Medieval Polar Bears Were Eating",
+  "place": "Lancaster Sound, Nunavut, Canada",
+  "lat": 74.25,
+  "lng": -84,
+  "text": "Polar bear bones from Dorset and Thule sites around Lancaster Sound, roughly 1,500 to 500 years old, hold a record of the Arctic food web. Their carbon isotopes show the same mix of sea-ice algae and open-water plankton at its base through the Medieval Warm Period and early Little Ice Age. Only bears hunted in 1998–2007 show a big shift away from sea-ice-based food.",
+  "source": {
+   "name": "The Conversation: How analyzing ancient and modern polar bear samples reveals the full scope of global warming",
+   "url": "https://theconversation.com/how-analyzing-ancient-and-modern-polar-bear-samples-reveals-the-full-scope-of-global-warming-209572"
+  }
+ },
+ {
+  "id": "z09-mercator-polar-rivers",
+  "era": "exploration",
+  "year": 1595,
+  "dateLabel": "1595",
+  "cat": "culture",
+  "title": "Four Rivers and a Magnetic Mountain",
+  "place": "Central Arctic Ocean, as imagined on Mercator's map",
+  "lat": 88,
+  "lng": 0,
+  "text": "Early European maps did not leave the Arctic blank. Martin Behaim's globe of 1492 showed four rivers flowing symmetrically from the North Pole, and Gerard Mercator repeated them on his world map of 1569 and his Arctic map of 1595. Some maps also put a vast magnetic mountain at the top of the world, possibly linked to compasses behaving strangely in the far north.",
+  "source": {
+   "name": "The Conversation (British Library curator): Magic mountains and sea serpents, the secrets of early Arctic maps",
+   "url": "https://theconversation.com/magic-mountains-and-sea-serpents-the-secrets-of-early-arctic-maps-34342"
+  }
+ }
+]

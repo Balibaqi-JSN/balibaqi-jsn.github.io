@@ -1,0 +1,422 @@
+[
+ {
+  "id": "z10-jishi-gorge-megaflood",
+  "era": "ancient",
+  "year": -1920,
+  "dateLabel": "About 1920 BCE",
+  "cat": "nature",
+  "title": "The Flood Behind Yu the Great?",
+  "place": "Lajia, Minhe County, Qinghai, China",
+  "lat": 35.83,
+  "lng": 102.83,
+  "text": "Around 1920 BCE an earthquake shook the upper Yellow River. It wrecked the cave homes of Lajia, and a landslide dammed the river near Jishi Gorge. A lake filled for months, then the dam burst, releasing about nine months of river water in hours, rising 40 metres above the banks at Lajia. Some geologists link this flood to China's legend of Yu the Great, but the idea remains debated.",
+  "source": {
+   "name": "National Geographic: Evidence Found for China's Ancient Great Flood",
+   "url": "https://www.nationalgeographic.com/news/2016/08/china-yellow-river-great-flood-xia-dynasty-yu/"
+  },
+  "source2": {
+   "name": "Eos: Evidence Found for China's Ancient Origin Story",
+   "url": "https://eos.org/articles/evidence-found-for-chinas-ancient-origin-story"
+  }
+ },
+ {
+  "id": "z10-ahmose-tempest-stela",
+  "era": "ancient",
+  "year": -1550,
+  "dateLabel": "About 1550 BCE",
+  "cat": "nature",
+  "title": "A Pharaoh's Report of a Terrible Storm",
+  "place": "Thebes (Luxor), Egypt",
+  "lat": 25.72,
+  "lng": 32.66,
+  "text": "At Thebes, archaeologists found a broken calcite block about 1.8 metres tall, carved for Pharaoh Ahmose around 1550 BCE. Its 40 lines describe rain, darkness and a sky \"in storm without cessation\", with bodies floating down the Nile like papyrus skiffs. Two University of Chicago scholars argue it records the far-off eruption of Thera, but this is debated: other researchers read it as a metaphor for invasion.",
+  "source": {
+   "name": "University of Chicago News: World's oldest weather report could revise Bronze Age chronology",
+   "url": "https://news.uchicago.edu/story/worlds-oldest-weather-report-could-revise-bronze-age-chronology"
+  },
+  "source2": {
+   "name": "EurekAlert: Tempest Stela news release",
+   "url": "https://www.eurekalert.org/news-releases/874711"
+  }
+ },
+ {
+  "id": "z10-ashur-eclipse-763bce",
+  "era": "ancient",
+  "year": -763,
+  "dateLabel": "763 BCE",
+  "cat": "nature",
+  "title": "Revolt and a Darkened Sun in Ashur",
+  "place": "Ashur (Qal'at Sherqat), Saladin Governorate, Iraq",
+  "lat": 35.46,
+  "lng": 43.26,
+  "text": "Assyrians named each year after an official. For the year of Bur-Sagalê, governor of Guzana, their eponym chronicle notes a rebellion in the inner city of Ashur and that \"in the month of Simanu an eclipse of the sun took place.\" NASA's list of historic eclipses matches it to the total solar eclipse of 15 June 763 BCE. That date now anchors ancient Near Eastern chronology.",
+  "source": {
+   "name": "NASA Goddard: Eclipses in History",
+   "url": "https://eclipse.gsfc.nasa.gov/SEhistory/SEhistory.html"
+  },
+  "source2": {
+   "name": "Oracc (University of Pennsylvania): Assyrian Eponym Chronicle, State Archives of Assyria Studies 2",
+   "url": "http://oracc.museum.upenn.edu/saao/saas2/Q007771.35/"
+  }
+ },
+ {
+  "id": "z10-eldgja-voluspa",
+  "era": "medieval",
+  "year": 939,
+  "dateLabel": "939",
+  "cat": "nature",
+  "title": "The Lava Flood Behind a Viking Poem",
+  "place": "Eldgjá fissure, southern Iceland",
+  "lat": 63.97,
+  "lng": -18.62,
+  "text": "Around spring 939, the Eldgjá fissure split open in southern Iceland, only decades after settlers began arriving around 874. For at least a year and a half it poured out some 20 cubic kilometres of lava, enough to cover England ankle-deep, and sulphurous haze drifted over Europe. Researchers think the poem Völuspá, with its darkened skies and fire, remembers the eruption and helped nudge Iceland toward Christianity.",
+  "source": {
+   "name": "University of Cambridge: Volcanic eruption influenced Iceland's conversion to Christianity",
+   "url": "https://www.cam.ac.uk/research/news/volcanic-eruption-influenced-icelands-conversion-to-christianity"
+  }
+ },
+ {
+  "id": "z10-genda-durer-rhinoceros",
+  "era": "exploration",
+  "year": 1515,
+  "dateLabel": "1515",
+  "cat": "nature",
+  "title": "The Rhino Dürer Never Saw",
+  "place": "Royal court of Manuel I, Lisbon, Portugal",
+  "lat": 38.71,
+  "lng": -9.14,
+  "text": "In 1515 an Indian rhinoceros named Genda reached Lisbon, a gift from Sultan Muzafar II of Gujarat to King Manuel I, the first rhino seen in Europe since Roman times. Manuel planned a fight with an elephant, but the elephant panicked and fled. Albrecht Dürer never saw Genda, yet his woodcut, with an extra horn and armour plates, stayed Europe's favourite rhino picture until the late 1700s.",
+  "source": {
+   "name": "Natural History Museum: The legacy of Dürer's rhinoceros",
+   "url": "https://www.nhm.ac.uk/discover/the-legacy-of-durers-rhinoceros.html"
+  }
+ },
+ {
+  "id": "z10-hamaguchi-rice-sheaves",
+  "era": "industrial",
+  "year": 1854,
+  "dateLabel": "1854",
+  "cat": "nature",
+  "title": "Burning the Harvest to Beat a Tsunami",
+  "place": "Hiro, Hirogawa, Wakayama, Japan",
+  "lat": 34.03,
+  "lng": 135.17,
+  "text": "When a tsunami from a magnitude 8.4 earthquake struck the Kii Peninsula on 5 November 1854, village leader Hamaguchi Goryō set fire to sheaves of freshly harvested rice in his field. Using the blaze as a landmark, he guided villagers to safety, and many lives were saved. He then built a breakwater 600 metres long and 5 metres high. Today 5 November is World Tsunami Awareness Day.",
+  "source": {
+   "name": "UN News: Feudal-era Japanese village leader stands as beacon for tsunami education",
+   "url": "https://news.un.org/en/story/2016/11/544422-feature-feudal-era-japanese-village-leader-stands-beacon-tsunami-education"
+  },
+  "source2": {
+   "name": "Inamura-no-Hi no Yakata (Hirogawa Town): Hamaguchi Goryo",
+   "url": "https://www.town.hirogawa.wakayama.jp/inamuranohi/english/siryo_goryo.html"
+  }
+ },
+ {
+  "id": "z10-moctezuma-zoo-bones",
+  "era": "exploration",
+  "year": 1510,
+  "dateLabel": "Early 1500s",
+  "cat": "nature",
+  "title": "Moctezuma's Zoo, Revealed by Bones",
+  "place": "Sacred precinct of Tenochtitlan, Mexico City, Mexico",
+  "lat": 19.43,
+  "lng": -99.13,
+  "text": "Spanish accounts describe a royal animal house in Tenochtitlan, often called Moctezuma's zoo. A city map published in 1524 places it behind the sacred precinct, but no trace of it has been excavated under Mexico City. Instead, bones of 28 animals from eight Templo Mayor offerings, including golden and harpy eagles, jaguars, wolves and roseate spoonbills, show healed injuries and diseases they could not have survived in the wild.",
+  "source": {
+   "name": "INAH: Novedad editorial indaga sobre el cautiverio de animales en Tenochtitlan",
+   "url": "https://www.inah.gob.mx/boletines/novedad-editorial-indaga-sobre-el-cautiverio-de-animales-en-tenochtitlan"
+  }
+ },
+ {
+  "id": "z10-shang-oracle-typhoon-rains",
+  "era": "ancient",
+  "year": -1150,
+  "dateLabel": "About 1250–1046 BCE",
+  "cat": "nature",
+  "title": "Oracle Bones Fretting Over Heavy Rain",
+  "place": "Yinxu, Anyang, Henan, China",
+  "lat": 36.12,
+  "lng": 114.32,
+  "text": "People of the late Shang dynasty kept asking their oracles about the weather, carving questions into bones and shells. Researchers counted rain questions in about 55,000 of these pieces. In one phase, worry about coming heavy rain jumped far above any other, matching storm layers left by stronger typhoons in Japan and Korea. One Shang character for disaster even looks like waves of water.",
+  "source": {
+   "name": "Science Advances (PMC): Typhoon-induced disasters in inland China around 3000 yr B.P.",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12959396/"
+  }
+ },
+ {
+  "id": "z10-siloam-pool-dam",
+  "era": "ancient",
+  "year": -800,
+  "dateLabel": "About 800 BCE",
+  "cat": "nature",
+  "title": "A Dam Against Drought and Flash Floods",
+  "place": "Siloam Pool, City of David, Jerusalem",
+  "lat": 31.77,
+  "lng": 35.23,
+  "text": "Around 800 BCE, Jerusalem faced dry winters broken by sudden flash floods. Its rulers, probably King Jehoash or his successor Amaziah, answered with a huge dam across the end of the Tyropoeon Valley, at least 19 metres long and 11 metres high, creating the Siloam Pool to catch rain and spring water. Straw and twigs in the dam's mortar dated it to about 805 to 795 BCE.",
+  "source": {
+   "name": "PNAS (PMC): Radiocarbon dating of Jerusalem's Siloam Dam links climate data and major waterworks",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12415248/"
+  }
+ },
+ {
+  "id": "z10-babylon-red-skies-aurora",
+  "era": "classical",
+  "year": -145,
+  "dateLabel": "145–144 BCE",
+  "cat": "nature",
+  "title": "Red Skies Over Babylon, Again and Again",
+  "place": "Babylon, Babil, Iraq",
+  "lat": 32.54,
+  "lng": 44.42,
+  "text": "In autumn 145 BCE, Babylonian scribes noted that \"a little redness was found repeatedly in the east and in the west\", and the next summer they wrote almost the same words. Scientists searching Babylon's astronomical diaries judged these likely auroras, oddly filed among political news, perhaps as omens. An earlier red glow in the western sky, from 567 BCE, had been called the world's oldest aurora record.",
+  "source": {
+   "name": "Earth, Planets and Space (PMC): Earliest datable records of aurora-like phenomena in the astronomical diaries from Babylonia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5127895/"
+  }
+ },
+ {
+  "id": "z10-han-tomb-pine-rings",
+  "era": "classical",
+  "year": -170,
+  "dateLabel": "270–77 BCE",
+  "cat": "nature",
+  "title": "Tomb Timbers Remember Han Rains",
+  "place": "Huangwan tomb, Jingyuan County, Gansu, China",
+  "lat": 36.57,
+  "lng": 104.68,
+  "text": "In Jingyuan County, Gansu, old pine timbers from a Han dynasty tomb lie weathering in the open, and some have even been used as a country road. Scientists sliced their growth rings year by year and matched them with living pines from the nearby Hasi Mountains. The rings show northern China stayed steadily humid from 270 to 77 BCE, with yearly rainfall 18 to 34 percent above today's.",
+  "source": {
+   "name": "PNAS (PMC): Persistent humid climate favored the Qin and Western Han Dynasties in China around 2,200 y ago",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11725930/"
+  }
+ },
+ {
+  "id": "z10-kachchh-1008-tsunami",
+  "era": "medieval",
+  "year": 1008,
+  "dateLabel": "1008",
+  "cat": "nature",
+  "title": "Sand From a Forgotten Tsunami",
+  "place": "Kachchh coast near Mandvi, Gujarat, India",
+  "lat": 22.83,
+  "lng": 69.35,
+  "text": "Old reports describe an earthquake and sea wave in the Arabian Sea in 1008 CE, but where it struck stayed a puzzle that scientists called an enigma. In 2018 geologists found a likely trace in Gujarat: a sand sheet more than 250 kilometres long, reaching over 250 metres inland along the Kachchh coast. Its sand came from offshore, torn up and thrown ashore by a powerful wave.",
+  "source": {
+   "name": "Scientific Reports (PMC): Geological evidence for AD 1008 tsunami along the Kachchh coast, Western India",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6235955/"
+  }
+ },
+ {
+  "id": "z10-ptolemy-iii-nile-failure",
+  "era": "classical",
+  "year": -245,
+  "dateLabel": "245 BCE",
+  "cat": "nature",
+  "title": "When Volcanoes Starved the Nile",
+  "place": "Abu Qir, near ancient Canopus, Beheira, Egypt",
+  "lat": 31.32,
+  "lng": 30.06,
+  "text": "In 245 BCE Ptolemy III had marched as far as Babylon when, a Roman historian wrote, troubles at home called him back. A papyrus names an Egyptian revolt. Researchers link such revolts to distant volcanic eruptions that weakened the monsoon rains feeding the Nile flood. In 238 BCE, priests in the Canopus Decree praised the king for importing grain at great expense after the river failed.",
+  "source": {
+   "name": "Nature Communications (PMC): Volcanic suppression of Nile summer flooding triggers revolt and constrains interstate conflict in ancient Egypt",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5645420/"
+  }
+ },
+ {
+  "id": "z10-loulan-lop-nur-drying",
+  "era": "classical",
+  "year": 250,
+  "dateLabel": "3rd century CE",
+  "cat": "nature",
+  "title": "The Silk Road Kingdom That Drank Its Lake",
+  "place": "Loulan ruins, Lop Nur region, Xinjiang, China",
+  "lat": 40.52,
+  "lng": 89.92,
+  "text": "Loulan thrived on the Silk Road while Han soldier-farmers irrigated the Tarim Basin, and Lop Nur was a lake of 17,000 to 50,000 square kilometres. Lake mud shows it shrank while nearby lakes rose, so researchers blame water taken upstream for fields, an early Aral Sea-style disaster. Loulan even punished tree-felling in the 3rd century CE. By 645, the monk Xuanzang found its cities abandoned.",
+  "source": {
+   "name": "Scientific Reports (PMC): The world's earliest Aral-Sea type disaster: the decline of the Loulan Kingdom",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5327390/"
+  }
+ },
+ {
+  "id": "z10-magdalena-flood-1342",
+  "era": "medieval",
+  "year": 1342,
+  "dateLabel": "1342",
+  "cat": "nature",
+  "title": "The Thousand-Year Flood of Saint Magdalene",
+  "place": "Würzburg, Main River, Bavaria, Germany",
+  "lat": 49.79,
+  "lng": 9.93,
+  "text": "Around Saint Mary Magdalene's day in late July 1342, the Main and the Rhine rose to levels expected perhaps once in 100 to 1,000 years, sweeping away bridges, mills and villages and killing thousands. A 2026 study found it was one of 16 major floods across Europe from 1341 to 1343. Towns responded with stone bridges, flood-proof walls and dykes, a turning point in European flood defence.",
+  "source": {
+   "name": "Nature (PMC): Cascading continental-scale floods across Europe in 1342-1343",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13489955/"
+  }
+ },
+ {
+  "id": "z10-edmond-albius-vanilla",
+  "era": "industrial",
+  "year": 1841,
+  "dateLabel": "About 1841",
+  "cat": "nature",
+  "title": "The Teenager Who Hand-Pollinated Vanilla",
+  "place": "Sainte-Suzanne, Réunion (France)",
+  "lat": -20.91,
+  "lng": 55.61,
+  "text": "Vanilla cuttings reached Réunion in the 1820s. Around 1841, Edmond Albius, an enslaved teenager born in 1829 and raised on Féréol Bellier-Beaumont's estate at Sainte-Suzanne, found a practical way to pollinate the flowers by hand, turning vanilla into a major crop across the region. A 2024 study argues the method itself may trace back to the Belgian naturalist Charles Morren, sparking fresh debate over credit.",
+  "source": {
+   "name": "Plants (PMC): A Historical Review of the Artificial Pollination of Vanilla planifolia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11598392/"
+  }
+ },
+ {
+  "id": "z10-straits-drought-1877",
+  "era": "industrial",
+  "year": 1877,
+  "dateLabel": "1877",
+  "cat": "nature",
+  "title": "Cannons to Shake Rain From the Sky",
+  "place": "Town of Singapore, Straits Settlements, Singapore",
+  "lat": 1.29,
+  "lng": 103.85,
+  "text": "In 1877 an El Niño drought, a cause nobody then understood, hit Singapore, Penang and Malacca. Shallow wells gave little water, most of it bad, and one newspaper reported Malays \"dying off like flies\". Some even proposed firing the guns at Fort Canning to trigger rain. Singapore's Toa Payoh reservoir, finished in 1867 but too low to push water to town, finally began supplying water around late October.",
+  "source": {
+   "name": "Water History (PMC): Managing urban water scarcity in the late nineteenth-century Straits Settlements",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7594933/"
+  }
+ },
+ {
+  "id": "z10-central-park-starlings",
+  "era": "industrial",
+  "year": 1890,
+  "dateLabel": "1890",
+  "cat": "nature",
+  "title": "Shakespeare's Birds Take Over America",
+  "place": "Central Park, Manhattan, New York, USA",
+  "lat": 40.78,
+  "lng": -73.97,
+  "text": "In 1890 the American Acclimatization Society released about 60 European starlings in New York's Central Park, part of a plan to fill the park with birds from Shakespeare's plays. Another 40 followed in 1891. From those roughly 100 birds, starlings spread across all of North America. Today more than 200 million live there, over a third of all the starlings in the world.",
+  "source": {
+   "name": "Ecology and Evolution (PMC): Contrasting mitochondrial diversity of European starlings across three invasive distributions",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7520211/"
+  }
+ },
+ {
+  "id": "z10-horseshoe-lake-cahokia-drought",
+  "era": "medieval",
+  "year": 1300,
+  "dateLabel": "1200–1400",
+  "cat": "nature",
+  "title": "A Lake Records the Long Dry Spell",
+  "place": "Horseshoe Lake, Collinsville, Illinois, USA",
+  "lat": 38.7,
+  "lng": -90.08,
+  "text": "Horseshoe Lake lies within Greater Cahokia, the largest Mississippian settlement, whose main city held perhaps 15,000 to 20,000 people around 1100 to 1200 CE. Chemical layers in the lakebed mud show that from 1200 to 1400 CE the region stayed persistently dry, with evaporation outpacing rain. This long drought set in during the lead-up to the great city's abandonment, supporting the idea that climate played a part.",
+  "source": {
+   "name": "Scientific Reports (PMC): Severe Little Ice Age drought in the midcontinental United States during the Mississippian abandonment of Cahokia",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8257696/"
+  }
+ },
+ {
+  "id": "z10-puerto-real-horse-molar",
+  "era": "exploration",
+  "year": 1575,
+  "dateLabel": "Late 1500s",
+  "cat": "nature",
+  "title": "The Horse Tooth Mistaken for a Cow's",
+  "place": "Puerto Real, near Limonade, Nord, Haiti",
+  "lat": 19.73,
+  "lng": -72.15,
+  "text": "Horses vanished from the Americas at the end of the last Ice Age. They returned in 1493, when Andalusian horsemen sailed on Columbus's second voyage. At Puerto Real, a Spanish town in northern Haiti founded in 1503, a tooth first labelled as cow turned out to be a horse's molar. It gave the earliest complete mitochondrial genome of a post-Columbian horse, confirming Iberian roots.",
+  "source": {
+   "name": "PLoS One (PMC): Analysis of the earliest complete mtDNA genome of a Caribbean colonial horse from 16th-century Haiti",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9328532/"
+  }
+ },
+ {
+  "id": "z10-india-african-baobabs",
+  "era": "exploration",
+  "year": 1750,
+  "dateLabel": "1700s–1800s",
+  "cat": "nature",
+  "title": "African Giants Growing in India",
+  "place": "Chennai, Tamil Nadu, India",
+  "lat": 13.08,
+  "lng": 80.27,
+  "text": "Baobabs are African trees, yet giants grow across India, some perhaps more than a thousand years old. Comparing their DNA with African trees, botanists found that Indian baobabs are closest to those of the Mombasa to Dar es Salaam coast, pointing to many arrivals over a long period. Chennai's baobabs instead resemble West African ones, probably planted through 18th and 19th century European colonial networks.",
+  "source": {
+   "name": "Royal Society Open Science (PMC): The history of introduction of the African baobab in the Indian subcontinent",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4593694/"
+  }
+ },
+ {
+  "id": "z10-kilauea-1790-keoua",
+  "era": "exploration",
+  "year": 1790,
+  "dateLabel": "1790",
+  "cat": "nature",
+  "title": "The Blast That Caught Keōua's Army",
+  "place": "Kaʻū Desert, Hawaiʻi Volcanoes National Park, Hawaii, USA",
+  "lat": 19.37,
+  "lng": -155.33,
+  "text": "In 1790, warriors of the chief Keōua were marching around Kīlauea toward Kaʻū to fight Kamehameha when the summit exploded. Ash columns rose about 9 kilometres, and a hurricane-like blast of hot gas probably killed about a third of them. Footprints in the Kaʻū Desert ash were long credited to Keōua's warriors, but USGS scientists found that at least some prints are older than 1790.",
+  "source": {
+   "name": "USGS Volcano Watch: Not all eruptions as passive as this",
+   "url": "https://www.usgs.gov/news/volcano-watch-not-all-eruptions-passive"
+  },
+  "source2": {
+   "name": "USGS Volcano Watch: At least some footprints in the Ka'u Desert are older than 1790",
+   "url": "https://www.usgs.gov/news/volcano-watch-least-some-footprints-kau-desert-are-older-1790"
+  }
+ },
+ {
+  "id": "z10-mongol-drought-rus",
+  "era": "medieval",
+  "year": 1237,
+  "dateLabel": "1230–1241",
+  "cat": "nature",
+  "title": "Dry Grasslands Open the Way West",
+  "place": "East European Plain, near Kyiv, Ukraine",
+  "lat": 50.45,
+  "lng": 30.52,
+  "text": "Tree rings show that from 1230 to 1238 the East European Plain suffered one of its driest spells in more than a thousand years. Failing harvests brought famine and war, thinning people, horses and livestock in lands such as Kyivan Rus. Then from 1237 to 1241 Batu Khan's Mongol armies swept in, and researchers argue the arid grasslands helped their cavalry move fast.",
+  "source": {
+   "name": "Fundamental Research (PMC): Drought facilitated the westward expansion of the Mongol Empire in the 1230s",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13424159/"
+  }
+ },
+ {
+  "id": "z10-celali-drought-sheep",
+  "era": "exploration",
+  "year": 1596,
+  "dateLabel": "1591–1610",
+  "cat": "nature",
+  "title": "Drought, Sheep and an Anatolian Revolt",
+  "place": "Central Anatolia, Turkey",
+  "lat": 39,
+  "lng": 34.5,
+  "text": "After cold, dry spells in the 1580s, a major drought gripped Anatolia and the southern Balkans from 1591 to 1596, bringing failed harvests and famine. Rural flocks dwindled, yet the Ottoman state kept demanding sheep, and the countryside rose in the Celâlî Rebellion of 1596 to 1610. Climate models also show the eastern Mediterranean turning cooler and drier as the century closed, an Ottoman Little Ice Age crisis.",
+  "source": {
+   "name": "Human Ecology (PMC): Modelling Climate and Societal Resilience in the Eastern Mediterranean in the Last Millennium",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6015627/"
+  }
+ },
+ {
+  "id": "z10-calcutta-poppy-oil-dropsy",
+  "era": "industrial",
+  "year": 1877,
+  "dateLabel": "1877–1880",
+  "cat": "nature",
+  "title": "Poppy Oil in the Mustard Jar",
+  "place": "Suburbs of Calcutta (Kolkata), West Bengal, India",
+  "lat": 22.57,
+  "lng": 88.36,
+  "text": "In 1877, possibly the strongest El Niño of the last 250 years brought drought and famine to southern India, and colonial responses helped double staple prices in Calcutta. That year Calcutta suffered the first recorded epidemic of dropsy, which later reached Mauritius. Its cause, confirmed only in the 1940s, was cooking oil mixed with oil from the weedy Mexican poppy, likely a way to stretch costly mustard oil.",
+  "source": {
+   "name": "Medical History (PMC): The first recorded outbreak of epidemic dropsy, 1877-80: Climate, empire, and colonial medical science",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11949638/"
+  }
+ }
+]
